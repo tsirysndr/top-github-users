@@ -1,8 +1,10 @@
 name: Top GitHub Users
 on:
-  schedule:
+   push:
+    branches: ["main"]
+   schedule:
     - cron: '* */24 * * *'
-  workflow_dispatch:
+   workflow_dispatch:
 jobs:
   release:
     name: GitHub Active Users
