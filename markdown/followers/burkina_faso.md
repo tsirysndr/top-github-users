@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `number of followers` of users in Burkina Faso on `2022/10/6 4:21 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2022/10/7 7:10 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `216 users`  in Burkina Faso. You need at least `0 followers` to be on this list.
+There are `217 users`  in Burkina Faso. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -437,7 +437,7 @@ There are `216 users`  in Burkina Faso. You need at least `0 followers` to be on
 			</a><br/>
 			Woumtana
 		</td>
-		<td>Heven </td>
+		<td>Heven Sarl </td>
 		<td>No Twitter Username</td>
 		<td>Burkina Faso, Ouagadougou</td>
 		<td>4</td>
@@ -549,38 +549,38 @@ There are `216 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/soro06">
+				<img src="https://avatars.githubusercontent.com/u/6115085?s=72&u=28efd8776fa259dce54bb34a6bd9342c5036355a&v=4" width="24" alt="Avatar of soro06"> soro06
+			</a><br/>
+			Halilou Soro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou, Burkina Faso</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/soro06">
+				<img src="https://avatars.githubusercontent.com/u/6115085?s=72&u=28efd8776fa259dce54bb34a6bd9342c5036355a&v=4" width="24" alt="Avatar of soro06"> soro06
+			</a><br/>
+			Halilou Soro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou, Burkina Faso</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
 			<a href="https://github.com/hamatid">
 				<img src="https://avatars.githubusercontent.com/u/47165703?s=72&u=d0fdd7dd69e66c4edc740f9380e1cce1415ab307&v=4" width="24" alt="Avatar of hamatid"> hamatid
 			</a><br/>
 			Bandé Cheick
 		</td>
 		<td>@sapiens </td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
-			<a href="https://github.com/lefilsprodige">
-				<img src="https://avatars.githubusercontent.com/u/60442625?s=72&u=8b4cd33d531450508500db82d87680e0710586b9&v=4" width="24" alt="Avatar of lefilsprodige"> lefilsprodige
-			</a><br/>
-			No Name
-		</td>
-		<td>Student In Computer Science<br/></td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/lefilsprodige">
-				<img src="https://avatars.githubusercontent.com/u/60442625?s=72&u=8b4cd33d531450508500db82d87680e0710586b9&v=4" width="24" alt="Avatar of lefilsprodige"> lefilsprodige
-			</a><br/>
-			No Name
-		</td>
-		<td>Student In Computer Science<br/></td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
 		<td>3</td>
