@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2022/10/6 4:48 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2022/10/7 7:37 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `102 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `103 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -198,19 +198,6 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/luapwastaken">
-				<img src="https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4" width="24" alt="Avatar of luapwastaken"> luapwastaken
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>chad</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
 			<a href="https://github.com/zepekenhio">
 				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
 			</a><br/>
@@ -222,7 +209,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>9</td>
 		<td>
 			<a href="https://github.com/mikequ1">
 				<img src="https://avatars.githubusercontent.com/u/73449844?s=72&v=4" width="24" alt="Avatar of mikequ1"> mikequ1
@@ -235,7 +222,7 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/CanadianJesus1">
 				<img src="https://avatars.githubusercontent.com/u/77854094?s=72&v=4" width="24" alt="Avatar of CanadianJesus1"> CanadianJesus1
@@ -244,6 +231,19 @@ There are `102 users`  in Chad. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/p">p</a></td>
+		<td>chad</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td>
+			<a href="https://github.com/luapwastaken">
+				<img src="https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4" width="24" alt="Avatar of luapwastaken"> luapwastaken
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>chad</td>
 		<td>4</td>
 	</tr>
