@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" alt="Maldives">
 </a>
 
-The `number of followers` of users in Maldives on `2022/10/6 7:29 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
+The `number of followers` of users in Maldives on `2022/10/7 2:44 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `498 users`  in Maldives. You need at least `0 followers` to be on this list.
+There are `499 users`  in Maldives. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Crowe Maldives Llp </td>
 		<td>No Twitter Username</td>
 		<td>Male, Maldives</td>
-		<td>186</td>
+		<td>185</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -146,19 +146,6 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/eyaadh">
-				<img src="https://avatars.githubusercontent.com/u/26605973?s=72&u=0977d4cb611cfea01410880450171b438ab5e4b9&v=4" width="24" alt="Avatar of eyaadh"> eyaadh
-			</a><br/>
-			eyaadh
-		</td>
-		<td>Baivaru </td>
-		<td><a href="https://twitter.com/eyaadh">eyaadh</a></td>
-		<td>Maldives</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
 			<a href="https://github.com/boring-dragon">
 				<img src="https://avatars.githubusercontent.com/u/28459081?s=72&u=a0ebcb0be7c81c7c604d2987d96133026167d3bf&v=4" width="24" alt="Avatar of boring-dragon"> boring-dragon
 			</a><br/>
@@ -166,6 +153,19 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 		</td>
 		<td>@mihaaru </td>
 		<td><a href="https://twitter.com/boring_dragon">boring_dragon</a></td>
+		<td>Maldives</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/eyaadh">
+				<img src="https://avatars.githubusercontent.com/u/26605973?s=72&u=0977d4cb611cfea01410880450171b438ab5e4b9&v=4" width="24" alt="Avatar of eyaadh"> eyaadh
+			</a><br/>
+			eyaadh
+		</td>
+		<td>Baivaru </td>
+		<td><a href="https://twitter.com/eyaadh">eyaadh</a></td>
 		<td>Maldives</td>
 		<td>76</td>
 	</tr>
@@ -393,6 +393,19 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>23</td>
 		<td>
+			<a href="https://github.com/Z3d0X">
+				<img src="https://avatars.githubusercontent.com/u/75579178?s=72&v=4" width="24" alt="Avatar of Z3d0X"> Z3d0X
+			</a><br/>
+			ZedoX
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Z3d0X">Z3d0X</a></td>
+		<td>Maldives</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
 			<a href="https://github.com/andho">
 				<img src="https://avatars.githubusercontent.com/u/242906?s=72&v=4" width="24" alt="Avatar of andho"> andho
 			</a><br/>
@@ -402,19 +415,6 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
 		<td>26</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/Z3d0X">
-				<img src="https://avatars.githubusercontent.com/u/75579178?s=72&v=4" width="24" alt="Avatar of Z3d0X"> Z3d0X
-			</a><br/>
-			ZedoX
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Z3d0X">Z3d0X</a></td>
-		<td>Maldives</td>
-		<td>25</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -1264,19 +1264,6 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>90</td>
 		<td>
-			<a href="https://github.com/geomt91">
-				<img src="https://avatars.githubusercontent.com/u/106669891?s=72&u=b6bd801fc51ff4ae0da11faeb37b8aab4ba94e75&v=4" width="24" alt="Avatar of geomt91"> geomt91
-			</a><br/>
-			geo
-		</td>
-		<td>Samsung </td>
-		<td>No Twitter Username</td>
-		<td>maldives</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
 			<a href="https://github.com/nullptrz">
 				<img src="https://avatars.githubusercontent.com/u/35647978?s=72&u=d7b67a48e547fb4d4811b886b6d0265955df4f2b&v=4" width="24" alt="Avatar of nullptrz"> nullptrz
 			</a><br/>
@@ -1285,6 +1272,19 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>Analytica Maldives Pvt Ltd<br/></td>
 		<td><a href="https://twitter.com/nullptrz">nullptrz</a></td>
 		<td>Maldives</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/geomt91">
+				<img src="https://avatars.githubusercontent.com/u/106669891?s=72&u=b6bd801fc51ff4ae0da11faeb37b8aab4ba94e75&v=4" width="24" alt="Avatar of geomt91"> geomt91
+			</a><br/>
+			geo
+		</td>
+		<td>Samsung </td>
+		<td>No Twitter Username</td>
+		<td>maldives</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -1810,12 +1810,12 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>132</td>
 		<td>
-			<a href="https://github.com/Sadheedh">
-				<img src="https://avatars.githubusercontent.com/u/56693550?s=72&v=4" width="24" alt="Avatar of Sadheedh"> Sadheedh
+			<a href="https://github.com/WHSajid">
+				<img src="https://avatars.githubusercontent.com/u/4162572?s=72&v=4" width="24" alt="Avatar of WHSajid"> WHSajid
 			</a><br/>
-			Hussain Sadheedh
+			Mohamed Sajid
 		</td>
-		<td>No Company</td>
+		<td>Whsajid </td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
 		<td>4</td>
@@ -1823,12 +1823,12 @@ There are `498 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>133</td>
 		<td>
-			<a href="https://github.com/WHSajid">
-				<img src="https://avatars.githubusercontent.com/u/4162572?s=72&v=4" width="24" alt="Avatar of WHSajid"> WHSajid
+			<a href="https://github.com/Sadheedh">
+				<img src="https://avatars.githubusercontent.com/u/56693550?s=72&v=4" width="24" alt="Avatar of Sadheedh"> Sadheedh
 			</a><br/>
-			Mohamed Sajid
+			Hussain Sadheedh
 		</td>
-		<td>Whsajid </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
 		<td>4</td>
