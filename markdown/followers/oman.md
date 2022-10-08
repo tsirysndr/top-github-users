@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" alt="Oman">
 </a>
 
-The `number of followers` of users in Oman on `2022/10/7 5:17 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
+The `number of followers` of users in Oman on `2022/10/8 12:03 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1472,6 +1472,19 @@ There are `879 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>106</td>
 		<td>
+			<a href="https://github.com/osjohn01">
+				<img src="https://avatars.githubusercontent.com/u/73648003?s=72&u=2f4cc02262c4186e92ebb059837700b93680c870&v=4" width="24" alt="Avatar of osjohn01"> osjohn01
+			</a><br/>
+			Obed John
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/osjohn01">osjohn01</a></td>
+		<td>Chennai, Tamil Nadu, Oman</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
 			<a href="https://github.com/ajas91">
 				<img src="https://avatars.githubusercontent.com/u/20582292?s=72&u=7b0c5d105f9b83ac00e819275fb5e9f03d46c3a8&v=4" width="24" alt="Avatar of ajas91"> ajas91
 			</a><br/>
@@ -1483,7 +1496,7 @@ There are `879 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/abom-me">
 				<img src="https://avatars.githubusercontent.com/u/111135292?s=72&u=464a7cc97a8afc06b3da707a29971d24430aeacf&v=4" width="24" alt="Avatar of abom-me"> abom-me
@@ -1493,19 +1506,6 @@ There are `879 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abom_me">abom_me</a></td>
 		<td>Oman</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/osjohn01">
-				<img src="https://avatars.githubusercontent.com/u/73648003?s=72&u=2f4cc02262c4186e92ebb059837700b93680c870&v=4" width="24" alt="Avatar of osjohn01"> osjohn01
-			</a><br/>
-			Obed John
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/osjohn01">osjohn01</a></td>
-		<td>Chennai, Tamil Nadu, Oman</td>
 		<td>3</td>
 	</tr>
 	<tr>
