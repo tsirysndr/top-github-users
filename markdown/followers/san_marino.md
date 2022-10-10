@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2022/10/9 9:15 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2022/10/10 4:28 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -185,12 +185,12 @@ There are `96 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>7</td>
 		<td>
-			<a href="https://github.com/lorextera">
-				<img src="https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4" width="24" alt="Avatar of lorextera"> lorextera
+			<a href="https://github.com/NeedleCoin">
+				<img src="https://avatars.githubusercontent.com/u/28305941?s=72&u=18dc9ea7f441151ca8764a650aef8b3267c9b91f&v=4" width="24" alt="Avatar of NeedleCoin"> NeedleCoin
 			</a><br/>
-			Lorenzo Nicoletti
+			Needle Coin
 		</td>
-		<td>Extera Srl </td>
+		<td>Needlecoin </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>14</td>
@@ -198,12 +198,12 @@ There are `96 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/NeedleCoin">
-				<img src="https://avatars.githubusercontent.com/u/28305941?s=72&u=18dc9ea7f441151ca8764a650aef8b3267c9b91f&v=4" width="24" alt="Avatar of NeedleCoin"> NeedleCoin
+			<a href="https://github.com/lorextera">
+				<img src="https://avatars.githubusercontent.com/u/1744861?s=72&u=3503b8aa65035b80f61882995f87093862db069a&v=4" width="24" alt="Avatar of lorextera"> lorextera
 			</a><br/>
-			Needle Coin
+			Lorenzo Nicoletti
 		</td>
-		<td>Needlecoin </td>
+		<td>Extera Srl </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>14</td>
@@ -575,19 +575,6 @@ There are `96 users`  in San Marino. You need at least `0 followers` to be on th
 	<tr>
 		<td>37</td>
 		<td>
-			<a href="https://github.com/nydronia">
-				<img src="https://avatars.githubusercontent.com/u/61769767?s=72&u=d0493da20fa4722e84b4a32700aebc297b8d7610&v=4" width="24" alt="Avatar of nydronia"> nydronia
-			</a><br/>
-			Nydronia 
-		</td>
-		<td>Info@nydronia.com </td>
-		<td><a href="https://twitter.com/Nydronia">Nydronia</a></td>
-		<td>Santiago Marino, Venezuela</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
 			<a href="https://github.com/matteorossi-thespacesm">
 				<img src="https://avatars.githubusercontent.com/u/61690145?s=72&u=7032cf4b63623b0040bf46424a4424f05a443e7e&v=4" width="24" alt="Avatar of matteorossi-thespacesm"> matteorossi-thespacesm
 			</a><br/>
@@ -599,20 +586,20 @@ There are `96 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>38</td>
 		<td>
-			<a href="https://github.com/tfusion666">
-				<img src="https://avatars.githubusercontent.com/u/52424470?s=72&u=cfde22b3e33ded8f7a87a0f29ca06c5245288151&v=4" width="24" alt="Avatar of tfusion666"> tfusion666
+			<a href="https://github.com/nydronia">
+				<img src="https://avatars.githubusercontent.com/u/61769767?s=72&u=d0493da20fa4722e84b4a32700aebc297b8d7610&v=4" width="24" alt="Avatar of nydronia"> nydronia
 			</a><br/>
-			Titi Sibo
+			Nydronia 
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
+		<td>Info@nydronia.com </td>
+		<td><a href="https://twitter.com/Nydronia">Nydronia</a></td>
+		<td>Santiago Marino, Venezuela</td>
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/AldoJuniorSimoncini">
 				<img src="https://avatars.githubusercontent.com/u/17861781?s=72&v=4" width="24" alt="Avatar of AldoJuniorSimoncini"> AldoJuniorSimoncini
@@ -620,6 +607,19 @@ There are `96 users`  in San Marino. You need at least `0 followers` to be on th
 			Aldo Junior Simoncini
 		</td>
 		<td>Bkn301 S.p.a </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/tfusion666">
+				<img src="https://avatars.githubusercontent.com/u/52424470?s=72&u=cfde22b3e33ded8f7a87a0f29ca06c5245288151&v=4" width="24" alt="Avatar of tfusion666"> tfusion666
+			</a><br/>
+			Titi Sibo
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>1</td>
