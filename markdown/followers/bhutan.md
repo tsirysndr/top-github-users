@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2022/10/9 3:59 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2022/10/10 11:05 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1017,19 +1017,6 @@ There are `412 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>71</td>
 		<td>
-			<a href="https://github.com/tashi-179">
-				<img src="https://avatars.githubusercontent.com/u/22294707?s=72&u=04c6112828adedd377c09444665bf3cdf2448fea&v=4" width="24" alt="Avatar of tashi-179"> tashi-179
-			</a><br/>
-			Tashi Dendup
-		</td>
-		<td>Dragon Coders Pvt.ltd </td>
-		<td><a href="https://twitter.com/tashi_179">tashi_179</a></td>
-		<td>Thimphu, Bhutan</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
 			<a href="https://github.com/samuelstrike">
 				<img src="https://avatars.githubusercontent.com/u/18118908?s=72&u=8ff11a98e36417747f7f96bdad63d1bf54e0aa8e&v=4" width="24" alt="Avatar of samuelstrike"> samuelstrike
 			</a><br/>
@@ -1038,6 +1025,19 @@ There are `412 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bhutan</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/tashi-179">
+				<img src="https://avatars.githubusercontent.com/u/22294707?s=72&u=04c6112828adedd377c09444665bf3cdf2448fea&v=4" width="24" alt="Avatar of tashi-179"> tashi-179
+			</a><br/>
+			Tashi Dendup
+		</td>
+		<td>Dragon Coders Pvt.ltd </td>
+		<td><a href="https://twitter.com/tashi_179">tashi_179</a></td>
+		<td>Thimphu, Bhutan</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1693,19 +1693,6 @@ There are `412 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>123</td>
 		<td>
-			<a href="https://github.com/Nanda-maker">
-				<img src="https://avatars.githubusercontent.com/u/62116529?s=72&u=eb04872b77a1c9fd248b2799d32305e6f9bcfc01&v=4" width="24" alt="Avatar of Nanda-maker"> Nanda-maker
-			</a><br/>
-			Nanda Kumar Gurung
-		</td>
-		<td>Thimphu Tech Park <br/></td>
-		<td>No Twitter Username</td>
-		<td>Thimphu</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
 			<a href="https://github.com/ntdorji">
 				<img src="https://avatars.githubusercontent.com/u/15306143?s=72&v=4" width="24" alt="Avatar of ntdorji"> ntdorji
 			</a><br/>
@@ -1717,7 +1704,7 @@ There are `412 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/Bhagawat123">
 				<img src="https://avatars.githubusercontent.com/u/33225621?s=72&u=8322255a0cb94891515a8c703ed127275b04280b&v=4" width="24" alt="Avatar of Bhagawat123"> Bhagawat123
@@ -1725,6 +1712,19 @@ There are `412 users`  in Bhutan. You need at least `0 followers` to be on this 
 			Bhagawat Adhikari
 		</td>
 		<td>Selise </td>
+		<td>No Twitter Username</td>
+		<td>Thimphu</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/Nanda-maker">
+				<img src="https://avatars.githubusercontent.com/u/62116529?s=72&u=eb04872b77a1c9fd248b2799d32305e6f9bcfc01&v=4" width="24" alt="Avatar of Nanda-maker"> Nanda-maker
+			</a><br/>
+			Nanda Kumar Gurung
+		</td>
+		<td>Thimphu Tech Park <br/></td>
 		<td>No Twitter Username</td>
 		<td>Thimphu</td>
 		<td>1</td>
