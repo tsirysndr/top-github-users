@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2022/10/15 3:05 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2022/10/15 11:27 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `96 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>San Marino / Milano</td>
 		<td>52</td>
-		<td>2125</td>
+		<td>2128</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -144,8 +144,8 @@ There are `96 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
 		<td>Repubblica di San Marino</td>
-		<td>1683</td>
-		<td>1691</td>
+		<td>1687</td>
+		<td>1695</td>
 	</tr>
 	<tr>
 		<td>4</td>
