@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` by users in Mauritania on `2022/10/15 7:11 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` by users in Mauritania on `2022/10/16 3:44 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -549,6 +549,19 @@ There are `141 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>35</td>
 		<td>
+			<a href="https://github.com/MedMokhtar35229">
+				<img src="https://avatars.githubusercontent.com/u/84805916?s=72&v=4" width="24" alt="Avatar of MedMokhtar35229"> MedMokhtar35229
+			</a><br/>
+			Med Mokhtar
+		</td>
+		<td>@digi-transform </td>
+		<td>No Twitter Username</td>
+		<td>Nouakchott,  tvz, Carrefour site smart</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
 			<a href="https://github.com/Anthrophantasmus">
 				<img src="https://avatars.githubusercontent.com/u/108040205?s=72&u=2b56ecd9774aed3714c4f2562ffebcbeab9dfa15&v=4" width="24" alt="Avatar of Anthrophantasmus"> Anthrophantasmus
 			</a><br/>
@@ -560,7 +573,7 @@ There are `141 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/AhmeddHabib">
 				<img src="https://avatars.githubusercontent.com/u/24659440?s=72&u=c12a8d0386bc60e4f317a1a3b7a068b5cb67e2db&v=4" width="24" alt="Avatar of AhmeddHabib"> AhmeddHabib
@@ -570,19 +583,6 @@ There are `141 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Bktrans International Logistics </td>
 		<td><a href="https://twitter.com/AhmedHa64277741">AhmedHa64277741</a></td>
 		<td>Mauritania, Nouakchott</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/MedMokhtar35229">
-				<img src="https://avatars.githubusercontent.com/u/84805916?s=72&v=4" width="24" alt="Avatar of MedMokhtar35229"> MedMokhtar35229
-			</a><br/>
-			Med Mokhtar
-		</td>
-		<td>@digi-transform </td>
-		<td>No Twitter Username</td>
-		<td>Nouakchott,  tvz, Carrefour site smart</td>
 		<td>12</td>
 	</tr>
 	<tr>
