@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2022/10/17 4:19 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2022/10/18 1:27 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -150,6 +150,20 @@ There are `103 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>4</td>
 		<td>
+			<a href="https://github.com/bldd14">
+				<img src="https://avatars.githubusercontent.com/u/42304275?s=72&v=4" width="24" alt="Avatar of bldd14"> bldd14
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad, N'Djamena</td>
+		<td>1</td>
+		<td>185</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
 			<a href="https://github.com/zepekenhio">
 				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
 			</a><br/>
@@ -162,20 +176,6 @@ There are `103 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>5</td>
-		<td>
-			<a href="https://github.com/bldd14">
-				<img src="https://avatars.githubusercontent.com/u/42304275?s=72&v=4" width="24" alt="Avatar of bldd14"> bldd14
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, N'Djamena</td>
-		<td>1</td>
-		<td>180</td>
-	</tr>
-	<tr>
 		<td>6</td>
 		<td>
 			<a href="https://github.com/mikequ1">
@@ -186,8 +186,8 @@ There are `103 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>132</td>
-		<td>158</td>
+		<td>136</td>
+		<td>162</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `103 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/terapfils30">terapfils30</a></td>
 		<td>Ndjamena, Chad</td>
 		<td>97</td>
-		<td>114</td>
+		<td>119</td>
 	</tr>
 	<tr>
 		<td>8</td>
