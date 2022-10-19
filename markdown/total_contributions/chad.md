@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2022/10/18 10:49 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2022/10/19 8:29 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `104 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `105 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -159,7 +159,7 @@ There are `104 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad, N'Djamena</td>
 		<td>1</td>
-		<td>185</td>
+		<td>187</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -599,7 +599,7 @@ There are `104 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>36</td>
 		<td>
 			<a href="https://github.com/DharMannn">
-				<img src="https://avatars.githubusercontent.com/u/103457705?s=72&u=99d29b47d88580caf115881810b7678738772f73&v=4" width="24" alt="Avatar of DharMannn"> DharMannn
+				<img src="https://avatars.githubusercontent.com/u/103457705?s=72&u=e7d28e1961b01bceffc5029cd4314eb2139c8bcc&v=4" width="24" alt="Avatar of DharMannn"> DharMannn
 			</a><br/>
 			DharMannnnnnnnnnnnn
 		</td>
