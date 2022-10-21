@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `number of followers` of users in Mauritania on `2022/10/20 10:42 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `number of followers` of users in Mauritania on `2022/10/21 6:14 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -783,19 +783,6 @@ There are `143 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>53</td>
 		<td>
-			<a href="https://github.com/akentawi">
-				<img src="https://avatars.githubusercontent.com/u/105476170?s=72&u=db6c20a8eb3d096905da66fb0c4cbf718f03e25b&v=4" width="24" alt="Avatar of akentawi"> akentawi
-			</a><br/>
-			Abdel Aziz Kounta
-		</td>
-		<td>Prepabac </td>
-		<td>No Twitter Username</td>
-		<td>Nouakchott, Mauritania</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>
 			<a href="https://github.com/delupo">
 				<img src="https://avatars.githubusercontent.com/u/92604474?s=72&u=f780dd790ec09b7284fb74780e806e46f9cf518e&v=4" width="24" alt="Avatar of delupo"> delupo
 			</a><br/>
@@ -807,7 +794,7 @@ There are `143 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/mahfoudml">
 				<img src="https://avatars.githubusercontent.com/u/7448449?s=72&v=4" width="24" alt="Avatar of mahfoudml"> mahfoudml
@@ -820,7 +807,7 @@ There are `143 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/MauritechA">
 				<img src="https://avatars.githubusercontent.com/u/76773877?s=72&v=4" width="24" alt="Avatar of MauritechA"> MauritechA
