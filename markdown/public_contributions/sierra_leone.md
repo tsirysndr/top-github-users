@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `public contributions` by users in Sierra Leone on `2022/10/20 8:22 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `public contributions` by users in Sierra Leone on `2022/10/21 3:22 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `205 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Remote Front-end And Full-stack<br/>Developer<br/></td>
 		<td><a href="https://twitter.com/DevAmkam">DevAmkam</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>2835</td>
+		<td>2839</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -276,6 +276,19 @@ There are `205 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/pythonnelson">
+				<img src="https://avatars.githubusercontent.com/u/77267910?s=72&u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4" width="24" alt="Avatar of pythonnelson"> pythonnelson
+			</a><br/>
+			Isaac NSB Kargbo
+		</td>
+		<td>Co-founder, Nerdware It Services<br/>Sierra<br/>Leone<br/></td>
+		<td><a href="https://twitter.com/KargboNsb">KargboNsb</a></td>
+		<td>Freetown</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/alhajimsabu">
 				<img src="https://avatars.githubusercontent.com/u/19788171?s=72&u=cd3b129ea85453cb200c4a8a10eaf392c7631315&v=4" width="24" alt="Avatar of alhajimsabu"> alhajimsabu
 			</a><br/>
@@ -285,19 +298,6 @@ There are `205 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
 		<td>42</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/pythonnelson">
-				<img src="https://avatars.githubusercontent.com/u/77267910?s=72&u=b86824f40ca70f2d5b7f8d34000d379ffb709457&v=4" width="24" alt="Avatar of pythonnelson"> pythonnelson
-			</a><br/>
-			Isaac NSB Kargbo
-		</td>
-		<td>Co-founder, Nerdware It Services<br/>Sierra<br/>Leone<br/></td>
-		<td><a href="https://twitter.com/KargboNsb">KargboNsb</a></td>
-		<td>Freetown</td>
-		<td>39</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -1251,19 +1251,6 @@ There are `205 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>89</td>
 		<td>
-			<a href="https://github.com/abuawwazbah">
-				<img src="https://avatars.githubusercontent.com/u/112315052?s=72&v=4" width="24" alt="Avatar of abuawwazbah"> abuawwazbah
-			</a><br/>
-			Abu Bakarr Awwaz Bah
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/abuawwazbahSL">abuawwazbahSL</a></td>
-		<td>Freetown, Sierra Leone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>
 			<a href="https://github.com/Med-Jay">
 				<img src="https://avatars.githubusercontent.com/u/111161085?s=72&v=4" width="24" alt="Avatar of Med-Jay"> Med-Jay
 			</a><br/>
@@ -1271,6 +1258,19 @@ There are `205 users`  in Sierra Leone. You need at least `0 followers` to be on
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Freetown, Sierra Leone</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
+			<a href="https://github.com/abuawwazbah">
+				<img src="https://avatars.githubusercontent.com/u/112315052?s=72&v=4" width="24" alt="Avatar of abuawwazbah"> abuawwazbah
+			</a><br/>
+			Abu Bakarr Awwaz Bah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/abuawwazbahSL">abuawwazbahSL</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>1</td>
 	</tr>
