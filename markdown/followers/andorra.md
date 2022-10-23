@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/10/22 5:42 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2022/10/23 7:27 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -354,19 +354,6 @@ There are `235 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>20</td>
 		<td>
-			<a href="https://github.com/lemuscanovas">
-				<img src="https://avatars.githubusercontent.com/u/43061700?s=72&u=469714cd7a278b230a423e709e415842e654c436&v=4" width="24" alt="Avatar of lemuscanovas"> lemuscanovas
-			</a><br/>
-			Marc Lemus-Canovas
-		</td>
-		<td>Andorra Research + Innovation<br/></td>
-		<td><a href="https://twitter.com/lemuscanovas">lemuscanovas</a></td>
-		<td>Sant Julià de Lòria, Andorra</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
 			<a href="https://github.com/sergiorodenas">
 				<img src="https://avatars.githubusercontent.com/u/2689890?s=72&u=a1a8a7c99f2f661d3957cb19e1a5d0b81f8a21c6&v=4" width="24" alt="Avatar of sergiorodenas"> sergiorodenas
 			</a><br/>
@@ -375,6 +362,19 @@ There are `235 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/s3rg1orodenas">s3rg1orodenas</a></td>
 		<td>Andorra</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/lemuscanovas">
+				<img src="https://avatars.githubusercontent.com/u/43061700?s=72&u=469714cd7a278b230a423e709e415842e654c436&v=4" width="24" alt="Avatar of lemuscanovas"> lemuscanovas
+			</a><br/>
+			Marc Lemus-Canovas
+		</td>
+		<td>Andorra Research + Innovation<br/></td>
+		<td><a href="https://twitter.com/lemuscanovas">lemuscanovas</a></td>
+		<td>Sant Julià de Lòria, Andorra</td>
 		<td>20</td>
 	</tr>
 	<tr>
