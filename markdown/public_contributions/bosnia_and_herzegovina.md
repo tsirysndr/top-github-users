@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2022/10/23 9:26 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2022/10/24 4:59 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -237,19 +237,6 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/31d4r">
-				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=3378d478558ee1727f4268a1c95a4f467ed03f18&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
-			</a><br/>
-			Eldar Tutnjić
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/saudinahmetspahic">
 				<img src="https://avatars.githubusercontent.com/u/49145127?s=72&u=ac14e5ccd00ae25cd0f5fd2837bbe114becf64e6&v=4" width="24" alt="Avatar of saudinahmetspahic"> saudinahmetspahic
 			</a><br/>
@@ -259,6 +246,19 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Bosnia & Herzegovina, Zenica</td>
 		<td>6</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/31d4r">
+				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=3378d478558ee1727f4268a1c95a4f467ed03f18&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
+			</a><br/>
+			Eldar Tutnjić
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>13</td>
