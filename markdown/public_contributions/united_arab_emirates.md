@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2022/10/27 9:33 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2022/10/28 5:01 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -167,7 +167,7 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
-		<td>15</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>7</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -263,27 +263,14 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>13</td>
 		<td>
-			<a href="https://github.com/skytech2015">
-				<img src="https://avatars.githubusercontent.com/u/45105177?s=72&u=ae3b4eebf2c8470d69ccba0ef4dc2f53e95150db&v=4" width="24" alt="Avatar of skytech2015"> skytech2015
+			<a href="https://github.com/daralmanahi">
+				<img src="https://avatars.githubusercontent.com/u/116814438?s=72&u=c2ead008aa36d190deeaffc696c89f94a2ea6099&v=4" width="24" alt="Avatar of daralmanahi"> daralmanahi
 			</a><br/>
-			SKYTECH CYBER CLOUD LLC-FZ
+			Daralmanahil
 		</td>
-		<td>Skytech Cyber Cloud Llc-fz<br/></td>
+		<td>Daralmanahil </td>
 		<td>No Twitter Username</td>
-		<td>Dubai - UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/technicianuae0315">
-				<img src="https://avatars.githubusercontent.com/u/115138303?s=72&u=e0bee9596829e3df019fd01ebefef0631bacefc6&v=4" width="24" alt="Avatar of technicianuae0315"> technicianuae0315
-			</a><br/>
-			Computer Repair Dubai
-		</td>
-		<td>Uaetechnician </td>
-		<td>No Twitter Username</td>
-		<td>Millennium Plaza Hotel Tower, Office: 1504, Sheikh Zayed Road, Dubai, United Arab Emirates.</td>
+		<td>China Cluster, E 01, Shop No 9, International City, Dubai - U.A.E.</td>
 		<td>1</td>
 	</tr>
 </table>
