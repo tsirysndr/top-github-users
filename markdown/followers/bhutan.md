@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2022/11/2 4:16 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2022/11/3 11:11 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -341,19 +341,6 @@ There are `425 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/robanb">
-				<img src="https://avatars.githubusercontent.com/u/95377195?s=72&u=893d2a8b93ac94b9cf3f4c8a74756ad0b94b9139&v=4" width="24" alt="Avatar of robanb"> robanb
-			</a><br/>
-			Roba Nath Basnet
-		</td>
-		<td>Jigme Namgyel Engineering College<br/>(jnec)<br/></td>
-		<td><a href="https://twitter.com/roba_nath">roba_nath</a></td>
-		<td>Thimphu, Bhutan</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/eldrigo">
 				<img src="https://avatars.githubusercontent.com/u/33096241?s=72&u=d057a21077f60a24cf376251527cfc44a96f1803&v=4" width="24" alt="Avatar of eldrigo"> eldrigo
 			</a><br/>
@@ -361,6 +348,19 @@ There are `425 users`  in Bhutan. You need at least `0 followers` to be on this 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Thimphu, Bhutan</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/robanb">
+				<img src="https://avatars.githubusercontent.com/u/95377195?s=72&u=893d2a8b93ac94b9cf3f4c8a74756ad0b94b9139&v=4" width="24" alt="Avatar of robanb"> robanb
+			</a><br/>
+			Roba Nath Basnet
+		</td>
+		<td>Jigme Namgyel Engineering College<br/>(jnec)<br/></td>
+		<td><a href="https://twitter.com/roba_nath">roba_nath</a></td>
 		<td>Thimphu, Bhutan</td>
 		<td>9</td>
 	</tr>
@@ -1433,19 +1433,6 @@ There are `425 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/cheki20">
-				<img src="https://avatars.githubusercontent.com/u/57824668?s=72&u=5a88ef5b0fca151dafaac45ff3de38d05c9edd0f&v=4" width="24" alt="Avatar of cheki20"> cheki20
-			</a><br/>
-			Cheki Lhamo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mongar, Bhutan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
 			<a href="https://github.com/Nanda-maker">
 				<img src="https://avatars.githubusercontent.com/u/62116529?s=72&u=eb04872b77a1c9fd248b2799d32305e6f9bcfc01&v=4" width="24" alt="Avatar of Nanda-maker"> Nanda-maker
 			</a><br/>
@@ -1454,6 +1441,19 @@ There are `425 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Thimphu</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/cheki20">
+				<img src="https://avatars.githubusercontent.com/u/57824668?s=72&u=5a88ef5b0fca151dafaac45ff3de38d05c9edd0f&v=4" width="24" alt="Avatar of cheki20"> cheki20
+			</a><br/>
+			Cheki Lhamo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mongar, Bhutan</td>
 		<td>1</td>
 	</tr>
 	<tr>
