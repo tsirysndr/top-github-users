@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2022/11/4 10:20 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2022/11/5 5:15 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -130,8 +130,8 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>61</td>
-		<td>75</td>
+		<td>64</td>
+		<td>78</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -272,20 +272,6 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Dubai, United Arab Emirates</td>
 		<td>2</td>
 		<td>2</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
-			<a href="https://github.com/daralmanahi">
-				<img src="https://avatars.githubusercontent.com/u/116814438?s=72&u=c2ead008aa36d190deeaffc696c89f94a2ea6099&v=4" width="24" alt="Avatar of daralmanahi"> daralmanahi
-			</a><br/>
-			Daralmanahil
-		</td>
-		<td>Daralmanahil </td>
-		<td>No Twitter Username</td>
-		<td>China Cluster, E 01, Shop No 9, International City, Dubai - U.A.E.</td>
-		<td>1</td>
-		<td>1</td>
 	</tr>
 </table>
 
