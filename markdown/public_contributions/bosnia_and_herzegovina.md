@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2022/11/4 6:54 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2022/11/5 2:20 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -198,6 +198,19 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>8</td>
 		<td>
+			<a href="https://github.com/ismi4">
+				<img src="https://avatars.githubusercontent.com/u/40364391?s=72&u=8349f847bd5784ea9ab322a3da7b5e6410b25623&v=4" width="24" alt="Avatar of ismi4"> ismi4
+			</a><br/>
+			Ismail Brkic
+		</td>
+		<td>Http://bildbosnia.or </td>
+		<td>No Twitter Username</td>
+		<td>Tuzla, Bosnia and Herzegovina</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
 			<a href="https://github.com/HariHodzic">
 				<img src="https://avatars.githubusercontent.com/u/24210894?s=72&u=56c6de6c3d3acced3484cfcc16e8ff433e9353b2&v=4" width="24" alt="Avatar of HariHodzic"> HariHodzic
 			</a><br/>
@@ -209,7 +222,7 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>9</td>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/Tarik1407">
 				<img src="https://avatars.githubusercontent.com/u/82821345?s=72&u=7bc86ad62f0a0fa4d49f8126f9f5966d11f410bb&v=4" width="24" alt="Avatar of Tarik1407"> Tarik1407
@@ -220,19 +233,6 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>10</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/ismi4">
-				<img src="https://avatars.githubusercontent.com/u/40364391?s=72&u=8349f847bd5784ea9ab322a3da7b5e6410b25623&v=4" width="24" alt="Avatar of ismi4"> ismi4
-			</a><br/>
-			Ismail Brkic
-		</td>
-		<td>Http://bildbosnia.or </td>
-		<td>No Twitter Username</td>
-		<td>Tuzla, Bosnia and Herzegovina</td>
-		<td>8</td>
 	</tr>
 	<tr>
 		<td>11</td>
