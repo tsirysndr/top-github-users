@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/11/5 6:58 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2022/11/6 2:05 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -640,19 +640,6 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>42</td>
 		<td>
-			<a href="https://github.com/DDelgadoD">
-				<img src="https://avatars.githubusercontent.com/u/44667908?s=72&u=ee36cebe2b53400f38295e648740621595721477&v=4" width="24" alt="Avatar of DDelgadoD"> DDelgadoD
-			</a><br/>
-			David Delgado-Dueñas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Gramenet</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
 			<a href="https://github.com/guillemfrancisco">
 				<img src="https://avatars.githubusercontent.com/u/28984116?s=72&u=2f656e9e09adcf641556f9f91232167e34309c72&v=4" width="24" alt="Avatar of guillemfrancisco"> guillemfrancisco
 			</a><br/>
@@ -661,6 +648,19 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@actuatech </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/DDelgadoD">
+				<img src="https://avatars.githubusercontent.com/u/44667908?s=72&u=ee36cebe2b53400f38295e648740621595721477&v=4" width="24" alt="Avatar of DDelgadoD"> DDelgadoD
+			</a><br/>
+			David Delgado-Dueñas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Gramenet</td>
 		<td>8</td>
 	</tr>
 	<tr>
