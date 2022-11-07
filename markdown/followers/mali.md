@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2022/11/7 12:24 AM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2022/11/7 7:20 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -250,6 +250,19 @@ There are `303 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>12</td>
 		<td>
+			<a href="https://github.com/alfred858">
+				<img src="https://avatars.githubusercontent.com/u/78363254?s=72&u=23f9803bbc864f66ada13203755ce5e22a75837d&v=4" width="24" alt="Avatar of alfred858"> alfred858
+			</a><br/>
+			Ganda Diawara
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Ganda99596895">Ganda99596895</a></td>
+		<td>Mali</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
 			<a href="https://github.com/Ibraci">
 				<img src="https://avatars.githubusercontent.com/u/24506500?s=72&u=dcd25488d1eb2f4048bda235d086cc3d6a4dcb3c&v=4" width="24" alt="Avatar of Ibraci"> Ibraci
 			</a><br/>
@@ -261,7 +274,7 @@ There are `303 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/esch3r">
 				<img src="https://avatars.githubusercontent.com/u/32213433?s=72&u=a5d30d63f77a197453099d30656936a97c35f424&v=4" width="24" alt="Avatar of esch3r"> esch3r
@@ -274,7 +287,7 @@ There are `303 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/molobala">
 				<img src="https://avatars.githubusercontent.com/u/29891783?s=72&u=2d43e6ef2b52b63611e4b87c836685feae6affab&v=4" width="24" alt="Avatar of molobala"> molobala
@@ -283,19 +296,6 @@ There are `303 users`  in Mali. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>
-			<a href="https://github.com/alfred858">
-				<img src="https://avatars.githubusercontent.com/u/78363254?s=72&u=23f9803bbc864f66ada13203755ce5e22a75837d&v=4" width="24" alt="Avatar of alfred858"> alfred858
-			</a><br/>
-			Ganda Diawara
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Ganda99596895">Ganda99596895</a></td>
 		<td>Mali</td>
 		<td>7</td>
 	</tr>
@@ -380,6 +380,19 @@ There are `303 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>22</td>
 		<td>
+			<a href="https://github.com/BalloIbrahima">
+				<img src="https://avatars.githubusercontent.com/u/57444150?s=72&u=0f3101764781614e0930a34e96af479d885ed38a&v=4" width="24" alt="Avatar of BalloIbrahima"> BalloIbrahima
+			</a><br/>
+			Ballo Ibrahima
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/BalloIbrahima01">BalloIbrahima01</a></td>
+		<td>Mali, Bamako</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td>
 			<a href="https://github.com/pacha2363">
 				<img src="https://avatars.githubusercontent.com/u/1564860?s=72&u=f034afa55e7d07bd79a396c3d0b0e6e9e0afc440&v=4" width="24" alt="Avatar of pacha2363"> pacha2363
 			</a><br/>
@@ -389,19 +402,6 @@ There are `303 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Osaka & Bamako</td>
 		<td>5</td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>
-			<a href="https://github.com/BalloIbrahima">
-				<img src="https://avatars.githubusercontent.com/u/57444150?s=72&u=0f3101764781614e0930a34e96af479d885ed38a&v=4" width="24" alt="Avatar of BalloIbrahima"> BalloIbrahima
-			</a><br/>
-			Ballo Ibrahima
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/BalloIbrahima01">BalloIbrahima01</a></td>
-		<td>Mali, Bamako</td>
-		<td>4</td>
 	</tr>
 	<tr>
 		<td>24</td>
