@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` and `private contributions` by users in Bosnia And Herzegovina on `2022/11/8 6:30 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` and `private contributions` by users in Bosnia And Herzegovina on `2022/11/10 12:17 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Mostar, BiH</td>
 		<td>2</td>
-		<td>801</td>
+		<td>813</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Mostar</td>
 		<td>0</td>
-		<td>564</td>
+		<td>577</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mostar</td>
-		<td>1</td>
-		<td>145</td>
+		<td>2</td>
+		<td>146</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -173,7 +173,7 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Bihac / Mostar</td>
 		<td>60</td>
-		<td>113</td>
+		<td>115</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>4</td>
-		<td>107</td>
+		<td>115</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -235,7 +235,7 @@ There are `34 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>10</td>
 		<td>
 			<a href="https://github.com/KerimMbegovic">
-				<img src="https://avatars.githubusercontent.com/u/57753259?s=72&u=9e7789892e89a143e03065a9b1941d412ae53cb2&v=4" width="24" alt="Avatar of KerimMbegovic"> KerimMbegovic
+				<img src="https://avatars.githubusercontent.com/u/57753259?s=72&u=dcca6d5c0f942737be5bc403c35721ed87200826&v=4" width="24" alt="Avatar of KerimMbegovic"> KerimMbegovic
 			</a><br/>
 			Kerim Muharembegović
 		</td>
