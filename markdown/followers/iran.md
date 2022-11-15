@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Iran">
 </a>
 
-The `number of followers` of users in Iran on `2022/11/14 11:44 PM UTC`. This list contains users from `Iran` and cities `Tehran` `Isfahan` `Tabriz` `Shiraz` `Mashhad` `Qom`.
+The `number of followers` of users in Iran on `2022/11/15 6:17 PM UTC`. This list contains users from `Iran` and cities `Tehran` `Isfahan` `Tabriz` `Shiraz` `Mashhad` `Qom`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
