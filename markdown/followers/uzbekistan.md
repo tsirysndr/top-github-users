@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" alt="Uzbekistan">
 </a>
 
-The `number of followers` of users in Uzbekistan on `2022/11/16 4:59 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
+The `number of followers` of users in Uzbekistan on `2022/11/17 12:27 AM UTC`. This list contains users from `Uzbekistan` and cities `Samarkand` `Tashkent`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
