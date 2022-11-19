@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/11/18 4:27 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2022/11/19 11:29 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -206,7 +206,7 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Gaman Investing, Slu </td>
 		<td>No Twitter Username</td>
 		<td>Canillo, Andorra</td>
-		<td>33</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -453,7 +453,7 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Angel Swing Studio </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -718,19 +718,6 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/jmlago">
-				<img src="https://avatars.githubusercontent.com/u/26024537?s=72&u=381cff78f06a4713e4f1231f82dd43cb544b0ef3&v=4" width="24" alt="Avatar of jmlago"> jmlago
-			</a><br/>
-			José María Lago
-		</td>
-		<td>@purple-dye </td>
-		<td><a href="https://twitter.com/josemlago">josemlago</a></td>
-		<td>Andorra</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
 			<a href="https://github.com/ericfly02">
 				<img src="https://avatars.githubusercontent.com/u/20001491?s=72&u=065a35bc2694c7d323bcd910100ae7485727217b&v=4" width="24" alt="Avatar of ericfly02"> ericfly02
 			</a><br/>
@@ -739,6 +726,19 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/wherePANDA">
+				<img src="https://avatars.githubusercontent.com/u/19750954?s=72&u=9c72f6b1c9f747bf9defd215d6b348271836d35c&v=4" width="24" alt="Avatar of wherePANDA"> wherePANDA
+			</a><br/>
+			wherePANDA4REAL
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>ANDORRA</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -861,19 +861,6 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/Koffer3121">
-				<img src="https://avatars.githubusercontent.com/u/47458983?s=72&u=2c3db50a9d354983555bfb136847b2aeb475d6bb&v=4" width="24" alt="Avatar of Koffer3121"> Koffer3121
-			</a><br/>
-			Koffin Inc.
-		</td>
-		<td>Koffin </td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Gramanet, Barcelona</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>
 			<a href="https://github.com/rocduran">
 				<img src="https://avatars.githubusercontent.com/u/10318153?s=72&v=4" width="24" alt="Avatar of rocduran"> rocduran
 			</a><br/>
@@ -882,6 +869,19 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Student </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/Koffer3121">
+				<img src="https://avatars.githubusercontent.com/u/47458983?s=72&u=2c3db50a9d354983555bfb136847b2aeb475d6bb&v=4" width="24" alt="Avatar of Koffer3121"> Koffer3121
+			</a><br/>
+			Koffin Inc.
+		</td>
+		<td>Koffin </td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Gramanet, Barcelona</td>
 		<td>4</td>
 	</tr>
 	<tr>
