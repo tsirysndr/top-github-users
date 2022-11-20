@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` and `private contributions` by users in Laos on `2022/11/19 8:26 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` and `private contributions` by users in Laos on `2022/11/20 3:27 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
 		<td>11</td>
-		<td>1622</td>
+		<td>1624</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -438,8 +438,8 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Clinton Health Access Initiative,<br/>Inc.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
-		<td>91</td>
-		<td>91</td>
+		<td>92</td>
+		<td>92</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -486,6 +486,20 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>28</td>
 		<td>
+			<a href="https://github.com/Bounphone">
+				<img src="https://avatars.githubusercontent.com/u/76658219?s=72&u=f151949f08a584a04fda16cc7117a36aeb709e88&v=4" width="24" alt="Avatar of Bounphone"> Bounphone
+			</a><br/>
+			Bounphone KOSADA
+		</td>
+		<td>National University Of Laos<br/></td>
+		<td><a href="https://twitter.com/olayksd">olayksd</a></td>
+		<td>Vientiane</td>
+		<td>82</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
 			<a href="https://github.com/Phoudthavisack">
 				<img src="https://avatars.githubusercontent.com/u/66727427?s=72&u=f0acf046be5838058c5dc201c0ed66ab47ddcaaf&v=4" width="24" alt="Avatar of Phoudthavisack"> Phoudthavisack
 			</a><br/>
@@ -496,20 +510,6 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Laos</td>
 		<td>82</td>
 		<td>82</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/Bounphone">
-				<img src="https://avatars.githubusercontent.com/u/76658219?s=72&u=f151949f08a584a04fda16cc7117a36aeb709e88&v=4" width="24" alt="Avatar of Bounphone"> Bounphone
-			</a><br/>
-			Bounphone KOSADA
-		</td>
-		<td>National University Of Laos<br/></td>
-		<td><a href="https://twitter.com/olayksd">olayksd</a></td>
-		<td>Vientiane</td>
-		<td>80</td>
-		<td>80</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -1046,6 +1046,20 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>68</td>
 		<td>
+			<a href="https://github.com/phuangpheth">
+				<img src="https://avatars.githubusercontent.com/u/50688465?s=72&v=4" width="24" alt="Avatar of phuangpheth"> phuangpheth
+			</a><br/>
+			phuangpheth
+		</td>
+		<td>Lao It Development Co.,<br/>Ltd.<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Laos</td>
+		<td>16</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
 			<a href="https://github.com/DAESEEK">
 				<img src="https://avatars.githubusercontent.com/u/69086490?s=72&v=4" width="24" alt="Avatar of DAESEEK"> DAESEEK
 			</a><br/>
@@ -1056,20 +1070,6 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>vientiane</td>
 		<td>14</td>
 		<td>14</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/phuangpheth">
-				<img src="https://avatars.githubusercontent.com/u/50688465?s=72&v=4" width="24" alt="Avatar of phuangpheth"> phuangpheth
-			</a><br/>
-			phuangpheth
-		</td>
-		<td>Lao It Development Co.,<br/>Ltd.<br/><br/></td>
-		<td>No Twitter Username</td>
-		<td>Laos</td>
-		<td>13</td>
-		<td>13</td>
 	</tr>
 	<tr>
 		<td>70</td>
