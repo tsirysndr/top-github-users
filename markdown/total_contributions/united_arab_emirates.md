@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2022/11/20 4:44 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2022/11/20 11:42 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td><a href="https://twitter.com/arbaaz919">arbaaz919</a></td>
 		<td>Dubai</td>
 		<td>2</td>
-		<td>156</td>
+		<td>150</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,25 +130,11 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>64</td>
-		<td>78</td>
+		<td>73</td>
+		<td>85</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>
-			<a href="https://github.com/genesisneo">
-				<img src="https://avatars.githubusercontent.com/u/2639011?s=72&v=4" width="24" alt="Avatar of genesisneo"> genesisneo
-			</a><br/>
-			Neo Genesis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>12</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>4</td>
 		<td>
 			<a href="https://github.com/rahulraj2">
 				<img src="https://avatars.githubusercontent.com/u/40715480?s=72&u=92f52191c12ba06dab800c6db2a213dcafcbab1e&v=4" width="24" alt="Avatar of rahulraj2"> rahulraj2
@@ -160,6 +146,20 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Dubai</td>
 		<td>39</td>
 		<td>39</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/genesisneo">
+				<img src="https://avatars.githubusercontent.com/u/2639011?s=72&v=4" width="24" alt="Avatar of genesisneo"> genesisneo
+			</a><br/>
+			Neo Genesis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>5</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -262,16 +262,16 @@ There are `34 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>12</td>
 		<td>
-			<a href="https://github.com/PrinceFazza">
-				<img src="https://avatars.githubusercontent.com/u/94594248?s=72&v=4" width="24" alt="Avatar of PrinceFazza"> PrinceFazza
+			<a href="https://github.com/vshopdubai">
+				<img src="https://avatars.githubusercontent.com/u/118670741?s=72&v=4" width="24" alt="Avatar of vshopdubai"> vshopdubai
 			</a><br/>
-			Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum
+			No Name
 		</td>
-		<td>Crown Prince Of Dubai<br/><br/></td>
+		<td>Http://vshopdubai.co </td>
 		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>2</td>
-		<td>2</td>
+		<td>dubai</td>
+		<td>1</td>
+		<td>1</td>
 	</tr>
 </table>
 
