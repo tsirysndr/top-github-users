@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/11/21 8:48 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2022/11/22 3:45 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1030,19 +1030,6 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>72</td>
 		<td>
-			<a href="https://github.com/cajimhe">
-				<img src="https://avatars.githubusercontent.com/u/1227706?s=72&u=5790abd908ce8df8992ecf202b8498caacadbdd2&v=4" width="24" alt="Avatar of cajimhe"> cajimhe
-			</a><br/>
-			Carlos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cajimhe">cajimhe</a></td>
-		<td>Andorra</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
 			<a href="https://github.com/camorimd">
 				<img src="https://avatars.githubusercontent.com/u/7240716?s=72&v=4" width="24" alt="Avatar of camorimd"> camorimd
 			</a><br/>
@@ -1051,6 +1038,19 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Credit Andorrà </td>
 		<td>No Twitter Username</td>
 		<td>Andorra, Principat d'Andorra</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a href="https://github.com/cajimhe">
+				<img src="https://avatars.githubusercontent.com/u/1227706?s=72&u=5790abd908ce8df8992ecf202b8498caacadbdd2&v=4" width="24" alt="Avatar of cajimhe"> cajimhe
+			</a><br/>
+			Carlos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cajimhe">cajimhe</a></td>
+		<td>Andorra</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -1264,19 +1264,6 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>90</td>
 		<td>
-			<a href="https://github.com/LluisTorrojaFontanet">
-				<img src="https://avatars.githubusercontent.com/u/32802626?s=72&v=4" width="24" alt="Avatar of LluisTorrojaFontanet"> LluisTorrojaFontanet
-			</a><br/>
-			No Name
-		</td>
-		<td>Caixa Andorrana De La<br/>Seguretat<br/>Social<br/></td>
-		<td>No Twitter Username</td>
-		<td>Andorra la Vella</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
 			<a href="https://github.com/mricartx">
 				<img src="https://avatars.githubusercontent.com/u/26459972?s=72&v=4" width="24" alt="Avatar of mricartx"> mricartx
 			</a><br/>
@@ -1285,6 +1272,19 @@ There are `240 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra Telecom </td>
 		<td>No Twitter Username</td>
 		<td>ANDORRA</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/LluisTorrojaFontanet">
+				<img src="https://avatars.githubusercontent.com/u/32802626?s=72&v=4" width="24" alt="Avatar of LluisTorrojaFontanet"> LluisTorrojaFontanet
+			</a><br/>
+			No Name
+		</td>
+		<td>Caixa Andorrana De La<br/>Seguretat<br/>Social<br/></td>
+		<td>No Twitter Username</td>
+		<td>Andorra la Vella</td>
 		<td>2</td>
 	</tr>
 	<tr>
