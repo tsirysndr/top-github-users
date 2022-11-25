@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg" alt="Bahrain">
 </a>
 
-The `number of followers` of users in Bahrain on `2022/11/24 7:11 AM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
+The `number of followers` of users in Bahrain on `2022/11/25 2:35 AM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>Xgeno Software </td>
 		<td><a href="https://twitter.com/xgeno">xgeno</a></td>
 		<td>Bahrain</td>
-		<td>85</td>
+		<td>86</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>(enigma2 Developer) </td>
 		<td>No Twitter Username</td>
 		<td>Bahrain</td>
-		<td>61</td>
+		<td>62</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -193,7 +193,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>@dotlas </td>
 		<td><a href="https://twitter.com/_kelvindecosta">_kelvindecosta</a></td>
 		<td>Bahrain</td>
-		<td>52</td>
+		<td>53</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -1667,19 +1667,6 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 	<tr>
 		<td>121</td>
 		<td>
-			<a href="https://github.com/mahdisafe">
-				<img src="https://avatars.githubusercontent.com/u/20379163?s=72&u=e1911ff65aa4fd195f2f1e2fed2638e109b42f2a&v=4" width="24" alt="Avatar of mahdisafe"> mahdisafe
-			</a><br/>
-			Mahdi
-		</td>
-		<td>Sudan </td>
-		<td><a href="https://twitter.com/mahdisafe">mahdisafe</a></td>
-		<td>Bahrain</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
 			<a href="https://github.com/johnsmith233">
 				<img src="https://avatars.githubusercontent.com/u/6439188?s=72&u=b153256e8752ca5abb2b7da20dd779b9e8367adf&v=4" width="24" alt="Avatar of johnsmith233"> johnsmith233
 			</a><br/>
@@ -1688,6 +1675,19 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>Engineer </td>
 		<td>No Twitter Username</td>
 		<td>Nassau, Bahamas</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a href="https://github.com/mahdisafe">
+				<img src="https://avatars.githubusercontent.com/u/20379163?s=72&u=e1911ff65aa4fd195f2f1e2fed2638e109b42f2a&v=4" width="24" alt="Avatar of mahdisafe"> mahdisafe
+			</a><br/>
+			Mahdi
+		</td>
+		<td>Sudan </td>
+		<td><a href="https://twitter.com/mahdisafe">mahdisafe</a></td>
+		<td>Bahrain</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -1823,12 +1823,12 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 	<tr>
 		<td>133</td>
 		<td>
-			<a href="https://github.com/ZainabAlAnsari">
-				<img src="https://avatars.githubusercontent.com/u/5462192?s=72&u=1fb54a746c18e9cf63c2ebcb66a352432255352f&v=4" width="24" alt="Avatar of ZainabAlAnsari"> ZainabAlAnsari
+			<a href="https://github.com/ShoaibMeghani">
+				<img src="https://avatars.githubusercontent.com/u/5242339?s=72&u=b84bc2955a5bb48a99b12a551b222747ab580656&v=4" width="24" alt="Avatar of ShoaibMeghani"> ShoaibMeghani
 			</a><br/>
-			Zainab Al-Ansari
+			Shoaib Meghani
 		</td>
-		<td>Z's Laboratories </td>
+		<td>Veripark </td>
 		<td>No Twitter Username</td>
 		<td>Bahrain</td>
 		<td>3</td>
@@ -1836,12 +1836,12 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 	<tr>
 		<td>134</td>
 		<td>
-			<a href="https://github.com/ShoaibMeghani">
-				<img src="https://avatars.githubusercontent.com/u/5242339?s=72&u=b84bc2955a5bb48a99b12a551b222747ab580656&v=4" width="24" alt="Avatar of ShoaibMeghani"> ShoaibMeghani
+			<a href="https://github.com/ZainabAlAnsari">
+				<img src="https://avatars.githubusercontent.com/u/5462192?s=72&u=1fb54a746c18e9cf63c2ebcb66a352432255352f&v=4" width="24" alt="Avatar of ZainabAlAnsari"> ZainabAlAnsari
 			</a><br/>
-			Shoaib Meghani
+			Zainab Al-Ansari
 		</td>
-		<td>Veripark </td>
+		<td>Z's Laboratories </td>
 		<td>No Twitter Username</td>
 		<td>Bahrain</td>
 		<td>3</td>
@@ -1966,6 +1966,19 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 	<tr>
 		<td>144</td>
 		<td>
+			<a href="https://github.com/HussainAlMeshaima">
+				<img src="https://avatars.githubusercontent.com/u/70274055?s=72&u=fa657f8e1b19951c12a6c1b0038fe69af4cd43de&v=4" width="24" alt="Avatar of HussainAlMeshaima"> HussainAlMeshaima
+			</a><br/>
+			Hussain
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bahrain</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
 			<a href="https://github.com/ahmedaatif">
 				<img src="https://avatars.githubusercontent.com/u/7959938?s=72&v=4" width="24" alt="Avatar of ahmedaatif"> ahmedaatif
 			</a><br/>
@@ -1977,7 +1990,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/AhmedAlSaeed">
 				<img src="https://avatars.githubusercontent.com/u/35863588?s=72&u=538f2832b8fb451615baf7b39d41aeab6d91ce0b&v=4" width="24" alt="Avatar of AhmedAlSaeed"> AhmedAlSaeed
@@ -1990,7 +2003,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/subbu27iitb">
 				<img src="https://avatars.githubusercontent.com/u/95316254?s=72&v=4" width="24" alt="Avatar of subbu27iitb"> subbu27iitb
@@ -2003,7 +2016,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/iMythms">
 				<img src="https://avatars.githubusercontent.com/u/87649218?s=72&u=db88437a3718e5546db988c1e0dcc3edf764baf3&v=4" width="24" alt="Avatar of iMythms"> iMythms
@@ -2016,7 +2029,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/Hjaelp">
 				<img src="https://avatars.githubusercontent.com/u/3180166?s=72&u=bc3e14dd54e50203e262bd55a8713db3e55e5c8e&v=4" width="24" alt="Avatar of Hjaelp"> Hjaelp
@@ -2029,7 +2042,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/sameh0el0sayed">
 				<img src="https://avatars.githubusercontent.com/u/14324654?s=72&u=73ad65ab65a9742d6ae54c0091c91766272b72ed&v=4" width="24" alt="Avatar of sameh0el0sayed"> sameh0el0sayed
@@ -2042,7 +2055,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/KamalKhalaf">
 				<img src="https://avatars.githubusercontent.com/u/28928276?s=72&u=ec68f5254b8d318970ea1f15344292cb562a99df&v=4" width="24" alt="Avatar of KamalKhalaf"> KamalKhalaf
@@ -2055,7 +2068,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/Manikarthi-vaiha">
 				<img src="https://avatars.githubusercontent.com/u/60215622?s=72&v=4" width="24" alt="Avatar of Manikarthi-vaiha"> Manikarthi-vaiha
@@ -2068,7 +2081,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/ahmedelhaw">
 				<img src="https://avatars.githubusercontent.com/u/70640357?s=72&u=1cf9601038ffd1b382b9d8d5c4b24166d68a0099&v=4" width="24" alt="Avatar of ahmedelhaw"> ahmedelhaw
@@ -2081,7 +2094,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/AKA2501">
 				<img src="https://avatars.githubusercontent.com/u/69507035?s=72&v=4" width="24" alt="Avatar of AKA2501"> AKA2501
@@ -2094,7 +2107,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/SharkYT356">
 				<img src="https://avatars.githubusercontent.com/u/86926783?s=72&u=939acfcad2854061c645de6bc894fb65c56f3916&v=4" width="24" alt="Avatar of SharkYT356"> SharkYT356
@@ -2107,7 +2120,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/RetroSunsetz">
 				<img src="https://avatars.githubusercontent.com/u/89806566?s=72&u=c0a45bb4f8f1190f3f1f6a86f7d2a072d1b0647c&v=4" width="24" alt="Avatar of RetroSunsetz"> RetroSunsetz
@@ -2120,7 +2133,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/Wessxn">
 				<img src="https://avatars.githubusercontent.com/u/108143218?s=72&u=cb7e71eb6edc13fb3a469081f1598762392675e4&v=4" width="24" alt="Avatar of Wessxn"> Wessxn
@@ -2133,7 +2146,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/mobh13">
 				<img src="https://avatars.githubusercontent.com/u/1971308?s=72&v=4" width="24" alt="Avatar of mobh13"> mobh13
@@ -2146,7 +2159,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/alfaraj">
 				<img src="https://avatars.githubusercontent.com/u/15920516?s=72&v=4" width="24" alt="Avatar of alfaraj"> alfaraj
@@ -2159,7 +2172,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/hitinder">
 				<img src="https://avatars.githubusercontent.com/u/9841229?s=72&u=96f98ae306a1e9b270437fa0463a2f0765665a59&v=4" width="24" alt="Avatar of hitinder"> hitinder
@@ -2172,7 +2185,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/imohd23">
 				<img src="https://avatars.githubusercontent.com/u/9170272?s=72&u=66cf1ff743f8c43f31698e2b90e3fd899501822c&v=4" width="24" alt="Avatar of imohd23"> imohd23
@@ -2185,7 +2198,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/akhalfan">
 				<img src="https://avatars.githubusercontent.com/u/1266025?s=72&v=4" width="24" alt="Avatar of akhalfan"> akhalfan
@@ -2198,7 +2211,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/iRiskRisker">
 				<img src="https://avatars.githubusercontent.com/u/67011779?s=72&u=807179f9254cdafc551c9cb7fa3496db73edf48e&v=4" width="24" alt="Avatar of iRiskRisker"> iRiskRisker
@@ -2211,7 +2224,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/baburkin">
 				<img src="https://avatars.githubusercontent.com/u/3738053?s=72&u=61fa309835f1174b9e9bdda5237dc5fd50b14c95&v=4" width="24" alt="Avatar of baburkin"> baburkin
@@ -2224,7 +2237,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/rustywebguy">
 				<img src="https://avatars.githubusercontent.com/u/1623351?s=72&v=4" width="24" alt="Avatar of rustywebguy"> rustywebguy
@@ -2237,7 +2250,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/AliHJM">
 				<img src="https://avatars.githubusercontent.com/u/106513183?s=72&v=4" width="24" alt="Avatar of AliHJM"> AliHJM
@@ -2250,7 +2263,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/engelmariano">
 				<img src="https://avatars.githubusercontent.com/u/1896972?s=72&u=2c94af79cc397478b6004265eaaccfc0be63b5d5&v=4" width="24" alt="Avatar of engelmariano"> engelmariano
@@ -2263,7 +2276,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/TheInfamousToTo">
 				<img src="https://avatars.githubusercontent.com/u/72304665?s=72&u=11251deb1c2766523b670eff2315618f7477de33&v=4" width="24" alt="Avatar of TheInfamousToTo"> TheInfamousToTo
@@ -2276,7 +2289,7 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/MustafaSarhan">
 				<img src="https://avatars.githubusercontent.com/u/35817950?s=72&u=0a7fc2ac38dbcc9262d24d5bb64f03ec52f6f526&v=4" width="24" alt="Avatar of MustafaSarhan"> MustafaSarhan
@@ -2286,19 +2299,6 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bahrain </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a href="https://github.com/robert-khuh">
-				<img src="https://avatars.githubusercontent.com/u/108328087?s=72&v=4" width="24" alt="Avatar of robert-khuh"> robert-khuh
-			</a><br/>
-			Robert Fernandes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bahrain</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -2577,12 +2577,12 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 	<tr>
 		<td>191</td>
 		<td>
-			<a href="https://github.com/heshaaam">
-				<img src="https://avatars.githubusercontent.com/u/2798294?s=72&v=4" width="24" alt="Avatar of heshaaam"> heshaaam
+			<a href="https://github.com/Curi0sity">
+				<img src="https://avatars.githubusercontent.com/u/7716902?s=72&u=ab6f65247e863429d3f8ef2673ac3d710a378956&v=4" width="24" alt="Avatar of Curi0sity"> Curi0sity
 			</a><br/>
-			Hesham Al-Ammal
+			Sharukh Rasheed
 		</td>
-		<td>University Of Bahrain </td>
+		<td>@rainhq  </td>
 		<td>No Twitter Username</td>
 		<td>Bahrain</td>
 		<td>2</td>
@@ -2590,12 +2590,12 @@ There are `879 users`  in Bahrain. You need at least `0 followers` to be on this
 	<tr>
 		<td>192</td>
 		<td>
-			<a href="https://github.com/Curi0sity">
-				<img src="https://avatars.githubusercontent.com/u/7716902?s=72&u=ab6f65247e863429d3f8ef2673ac3d710a378956&v=4" width="24" alt="Avatar of Curi0sity"> Curi0sity
+			<a href="https://github.com/heshaaam">
+				<img src="https://avatars.githubusercontent.com/u/2798294?s=72&v=4" width="24" alt="Avatar of heshaaam"> heshaaam
 			</a><br/>
-			Sharukh Rasheed
+			Hesham Al-Ammal
 		</td>
-		<td>@rainhq  </td>
+		<td>University Of Bahrain </td>
 		<td>No Twitter Username</td>
 		<td>Bahrain</td>
 		<td>2</td>
