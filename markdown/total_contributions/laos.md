@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` and `private contributions` by users in Laos on `2022/11/26 5:31 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` and `private contributions` by users in Laos on `2022/11/27 12:09 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
 		<td>11</td>
-		<td>1604</td>
+		<td>1605</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -298,8 +298,8 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Bitdigo.ltd </td>
 		<td><a href="https://twitter.com/chanthavong_12">chanthavong_12</a></td>
 		<td>Vientiane, Laos</td>
-		<td>275</td>
-		<td>275</td>
+		<td>276</td>
+		<td>276</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -340,8 +340,8 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane/Laos</td>
-		<td>245</td>
-		<td>245</td>
+		<td>250</td>
+		<td>250</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -1004,20 +1004,6 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>65</td>
 		<td>
-			<a href="https://github.com/Somvanggg">
-				<img src="https://avatars.githubusercontent.com/u/22347796?s=72&v=4" width="24" alt="Avatar of Somvanggg"> Somvanggg
-			</a><br/>
-			misty_code
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Somvang">Somvang</a></td>
-		<td>Vientiane, Laos</td>
-		<td>18</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
 			<a href="https://github.com/Khamphay">
 				<img src="https://avatars.githubusercontent.com/u/61783889?s=72&u=399eea120b035ad3a4fe98746d7d922e22315f54&v=4" width="24" alt="Avatar of Khamphay"> Khamphay
 			</a><br/>
@@ -1030,7 +1016,7 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/Rasa-Savan">
 				<img src="https://avatars.githubusercontent.com/u/74286224?s=72&u=7cc04309698f27fee622d151a6e0f573c971a373&v=4" width="24" alt="Avatar of Rasa-Savan"> Rasa-Savan
@@ -1044,7 +1030,7 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/huevangxp">
 				<img src="https://avatars.githubusercontent.com/u/58817289?s=72&u=7531fb08b64626989f94badb24cb9d770203441f&v=4" width="24" alt="Avatar of huevangxp"> huevangxp
@@ -1058,7 +1044,7 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/phuangpheth">
 				<img src="https://avatars.githubusercontent.com/u/50688465?s=72&v=4" width="24" alt="Avatar of phuangpheth"> phuangpheth
@@ -1072,7 +1058,7 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/DAESEEK">
 				<img src="https://avatars.githubusercontent.com/u/69086490?s=72&v=4" width="24" alt="Avatar of DAESEEK"> DAESEEK
@@ -1086,7 +1072,7 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/jvongxay0308">
 				<img src="https://avatars.githubusercontent.com/u/88074695?s=72&u=8dbcd0d97cb64d493536e2f40314054bf886ca49&v=4" width="24" alt="Avatar of jvongxay0308"> jvongxay0308
@@ -1100,7 +1086,7 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/REDMANEE168">
 				<img src="https://avatars.githubusercontent.com/u/103989144?s=72&v=4" width="24" alt="Avatar of REDMANEE168"> REDMANEE168
@@ -1110,6 +1096,20 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Home </td>
 		<td><a href="https://twitter.com/Manydang55">Manydang55</a></td>
 		<td>Laos. Champasak. Pakse</td>
+		<td>10</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/Somvanggg">
+				<img src="https://avatars.githubusercontent.com/u/22347796?s=72&v=4" width="24" alt="Avatar of Somvanggg"> Somvanggg
+			</a><br/>
+			misty_code
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Somvang">Somvang</a></td>
+		<td>Vientiane, Laos</td>
 		<td>10</td>
 		<td>10</td>
 	</tr>
@@ -2138,20 +2138,6 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>146</td>
 		<td>
-			<a href="https://github.com/SokxayITDev">
-				<img src="https://avatars.githubusercontent.com/u/112148571?s=72&u=0a7f4426654b70530d522d065627b87124a2e013&v=4" width="24" alt="Avatar of SokxayITDev"> SokxayITDev
-			</a><br/>
-			Sokxay IT Dev
-		</td>
-		<td>Sokxay It Development Sole<br/>Co.,<br/>Ltd<br/></td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
 			<a href="https://github.com/n3wbie93">
 				<img src="https://avatars.githubusercontent.com/u/112314394?s=72&u=8d770240867424bd52824ce778e6c14e322b9678&v=4" width="24" alt="Avatar of n3wbie93"> n3wbie93
 			</a><br/>
@@ -2160,6 +2146,20 @@ There are `356 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Student </td>
 		<td>No Twitter Username</td>
 		<td>laos</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/SokxayITDev">
+				<img src="https://avatars.githubusercontent.com/u/112148571?s=72&u=0a7f4426654b70530d522d065627b87124a2e013&v=4" width="24" alt="Avatar of SokxayITDev"> SokxayITDev
+			</a><br/>
+			Sokxay IT Dev
+		</td>
+		<td>Sokxay It Development Sole<br/>Co.,<br/>Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
