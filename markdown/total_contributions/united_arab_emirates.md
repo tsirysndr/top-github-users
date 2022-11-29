@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2022/11/28 10:34 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2022/11/29 5:56 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -116,8 +116,8 @@ There are `35 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@emirates </td>
 		<td><a href="https://twitter.com/arbaaz919">arbaaz919</a></td>
 		<td>Dubai</td>
-		<td>2</td>
-		<td>150</td>
+		<td>1</td>
+		<td>130</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `35 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>73</td>
-		<td>85</td>
+		<td>72</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `35 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>5</td>
-		<td>37</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -262,14 +262,28 @@ There are `35 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>12</td>
 		<td>
-			<a href="https://github.com/vshopdubai">
-				<img src="https://avatars.githubusercontent.com/u/118670741?s=72&v=4" width="24" alt="Avatar of vshopdubai"> vshopdubai
+			<a href="https://github.com/charlesgraham1">
+				<img src="https://avatars.githubusercontent.com/u/119420182?s=72&v=4" width="24" alt="Avatar of charlesgraham1"> charlesgraham1
 			</a><br/>
-			No Name
+			SY Capital
 		</td>
-		<td>Http://vshopdubai.co </td>
+		<td>Sy Capital </td>
 		<td>No Twitter Username</td>
-		<td>dubai</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td>
+			<a href="https://github.com/DMLtechnology">
+				<img src="https://avatars.githubusercontent.com/u/119408086?s=72&v=4" width="24" alt="Avatar of DMLtechnology"> DMLtechnology
+			</a><br/>
+			Dml Technology.
+		</td>
+		<td>Dml Technology. </td>
+		<td><a href="https://twitter.com/technology_dml">technology_dml</a></td>
+		<td>Dubai</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
