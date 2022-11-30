@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` and `private contributions` by users in Laos on `2022/11/29 9:30 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` and `private contributions` by users in Laos on `2022/11/30 4:50 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
 		<td>11</td>
-		<td>1568</td>
+		<td>1575</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -159,7 +159,7 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>laos</td>
 		<td>0</td>
-		<td>928</td>
+		<td>934</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -201,7 +201,7 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/Pitpy">Pitpy</a></td>
 		<td>Vientiane, Laos</td>
 		<td>10</td>
-		<td>679</td>
+		<td>680</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -229,7 +229,7 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/macarthy">macarthy</a></td>
 		<td>Ireland, Laos & Thailand </td>
 		<td>9</td>
-		<td>495</td>
+		<td>496</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -354,8 +354,8 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xaythany, Vientiane Prefecture, Laos</td>
-		<td>202</td>
-		<td>202</td>
+		<td>205</td>
+		<td>205</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -500,6 +500,20 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/Pizza3909G">
+				<img src="https://avatars.githubusercontent.com/u/80696477?s=72&u=b7b165381c53d534b3175bc71fd61394a86222f8&v=4" width="24" alt="Avatar of Pizza3909G"> Pizza3909G
+			</a><br/>
+			Pizza3909G
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos</td>
+		<td>79</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/Bounphone">
 				<img src="https://avatars.githubusercontent.com/u/76658219?s=72&u=f151949f08a584a04fda16cc7117a36aeb709e88&v=4" width="24" alt="Avatar of Bounphone"> Bounphone
 			</a><br/>
@@ -510,20 +524,6 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Vientiane</td>
 		<td>78</td>
 		<td>78</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/Pizza3909G">
-				<img src="https://avatars.githubusercontent.com/u/80696477?s=72&u=b7b165381c53d534b3175bc71fd61394a86222f8&v=4" width="24" alt="Avatar of Pizza3909G"> Pizza3909G
-			</a><br/>
-			Pizza3909G
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos</td>
-		<td>74</td>
-		<td>74</td>
 	</tr>
 	<tr>
 		<td>31</td>

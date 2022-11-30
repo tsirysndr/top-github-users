@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2022/11/29 9:30 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2022/11/30 4:50 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1342,19 +1342,6 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>96</td>
 		<td>
-			<a href="https://github.com/Sumo1999">
-				<img src="https://avatars.githubusercontent.com/u/34639278?s=72&u=efbfadec2c759de2e3998ac3266c4322a406f8fa&v=4" width="24" alt="Avatar of Sumo1999"> Sumo1999
-			</a><br/>
-			Sunio
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>vientiane</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>97</td>
-		<td>
 			<a href="https://github.com/SAONATYPE">
 				<img src="https://avatars.githubusercontent.com/u/16663674?s=72&u=aa9afdceaabdea1ef1ac71ef0c9eeed4ef1789e2&v=4" width="24" alt="Avatar of SAONATYPE"> SAONATYPE
 			</a><br/>
@@ -1363,6 +1350,19 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Saonatype™ </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane Capital, Lao P.D.R</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/Sumo1999">
+				<img src="https://avatars.githubusercontent.com/u/34639278?s=72&u=efbfadec2c759de2e3998ac3266c4322a406f8fa&v=4" width="24" alt="Avatar of Sumo1999"> Sumo1999
+			</a><br/>
+			Sunio
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>vientiane</td>
 		<td>2</td>
 	</tr>
 	<tr>

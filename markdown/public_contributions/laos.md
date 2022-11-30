@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` by users in Laos on `2022/11/29 9:30 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` by users in Laos on `2022/11/30 4:50 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -232,7 +232,7 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xaythany, Vientiane Prefecture, Laos</td>
-		<td>202</td>
+		<td>205</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -354,6 +354,19 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>20</td>
 		<td>
+			<a href="https://github.com/Pizza3909G">
+				<img src="https://avatars.githubusercontent.com/u/80696477?s=72&u=b7b165381c53d534b3175bc71fd61394a86222f8&v=4" width="24" alt="Avatar of Pizza3909G"> Pizza3909G
+			</a><br/>
+			Pizza3909G
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
 			<a href="https://github.com/Bounphone">
 				<img src="https://avatars.githubusercontent.com/u/76658219?s=72&u=f151949f08a584a04fda16cc7117a36aeb709e88&v=4" width="24" alt="Avatar of Bounphone"> Bounphone
 			</a><br/>
@@ -363,19 +376,6 @@ There are `357 users`  in Laos. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/olayksd">olayksd</a></td>
 		<td>Vientiane</td>
 		<td>78</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
-			<a href="https://github.com/Pizza3909G">
-				<img src="https://avatars.githubusercontent.com/u/80696477?s=72&u=b7b165381c53d534b3175bc71fd61394a86222f8&v=4" width="24" alt="Avatar of Pizza3909G"> Pizza3909G
-			</a><br/>
-			Pizza3909G
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos</td>
-		<td>74</td>
 	</tr>
 	<tr>
 		<td>22</td>
