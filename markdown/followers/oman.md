@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" alt="Oman">
 </a>
 
-The `number of followers` of users in Oman on `2022/12/1 3:20 AM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
+The `number of followers` of users in Oman on `2022/12/1 10:49 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `907 users`  in Oman. You need at least `0 followers` to be on this list.
+There are `909 users`  in Oman. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -900,19 +900,6 @@ There are `907 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>62</td>
 		<td>
-			<a href="https://github.com/AumBhatt">
-				<img src="https://avatars.githubusercontent.com/u/57107374?s=72&u=72e73a183a2736ccfed7666b1456d0f47772a72c&v=4" width="24" alt="Avatar of AumBhatt"> AumBhatt
-			</a><br/>
-			Aum Bhatt
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Muscat, Sultanate of Oman</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>
 			<a href="https://github.com/istabraqruhaili">
 				<img src="https://avatars.githubusercontent.com/u/86183207?s=72&u=2c0deaf15498895deb5418ca6931d48527b83825&v=4" width="24" alt="Avatar of istabraqruhaili"> istabraqruhaili
 			</a><br/>
@@ -921,6 +908,19 @@ There are `907 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>@esbaar-ai  </td>
 		<td>No Twitter Username</td>
 		<td>Muscat - Oman</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
+			<a href="https://github.com/Hilal-Almoqbali">
+				<img src="https://avatars.githubusercontent.com/u/72453298?s=72&u=9f282299314ee96c9558f70b5edf184717d7f5ee&v=4" width="24" alt="Avatar of Hilal-Almoqbali"> Hilal-Almoqbali
+			</a><br/>
+			Hilal
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Hilal_Almoqbali">Hilal_Almoqbali</a></td>
+		<td>Oman </td>
 		<td>7</td>
 	</tr>
 	<tr>
