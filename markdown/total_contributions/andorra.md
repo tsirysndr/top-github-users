@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2022/12/3 7:48 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2022/12/4 2:52 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -116,8 +116,8 @@ There are `244 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Pencil, Itamaesan & Superdata<br/></td>
 		<td><a href="https://twitter.com/miguelgargallo">miguelgargallo</a></td>
 		<td>Andorra, Andorra La Vella</td>
-		<td>2555</td>
-		<td>3119</td>
+		<td>2614</td>
+		<td>3179</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -215,7 +215,7 @@ There are `244 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Vilanova i la Geltrú (Barcelona) | Encamp (Andorra)</td>
 		<td>176</td>
-		<td>1023</td>
+		<td>1027</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -257,7 +257,7 @@ There are `244 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/franc">franc</a></td>
 		<td>Andorra la Vella, Andorra, Europe</td>
 		<td>13</td>
-		<td>873</td>
+		<td>875</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -424,8 +424,8 @@ There are `244 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lewifree">lewifree</a></td>
 		<td>Andorra</td>
-		<td>362</td>
-		<td>456</td>
+		<td>364</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>24</td>
