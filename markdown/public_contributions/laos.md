@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` by users in Laos on `2022/12/12 5:16 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` by users in Laos on `2022/12/13 12:09 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -271,7 +271,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Have Company Yet<br/></td>
 		<td>No Twitter Username</td>
 		<td>Laos</td>
-		<td>119</td>
+		<td>124</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -393,6 +393,19 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>23</td>
 		<td>
+			<a href="https://github.com/Seng555">
+				<img src="https://avatars.githubusercontent.com/u/91038988?s=72&u=69f1bf244f8a9b76b3ea543cb4bb57c47893e77d&v=4" width="24" alt="Avatar of Seng555"> Seng555
+			</a><br/>
+			Fabitnex
+		</td>
+		<td>Fabitnex Llc </td>
+		<td>No Twitter Username</td>
+		<td>Laos</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
 			<a href="https://github.com/GH3a">
 				<img src="https://avatars.githubusercontent.com/u/64625271?s=72&u=6153a217de87a29074c7ff70b73fbb13e0a85c49&v=4" width="24" alt="Avatar of GH3a"> GH3a
 			</a><br/>
@@ -402,19 +415,6 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane, PR Laos</td>
 		<td>70</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/Seng555">
-				<img src="https://avatars.githubusercontent.com/u/91038988?s=72&u=69f1bf244f8a9b76b3ea543cb4bb57c47893e77d&v=4" width="24" alt="Avatar of Seng555"> Seng555
-			</a><br/>
-			Fabitnex
-		</td>
-		<td>Fabitnex Llc </td>
-		<td>No Twitter Username</td>
-		<td>Laos</td>
-		<td>66</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -1056,6 +1056,19 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>74</td>
 		<td>
+			<a href="https://github.com/soulinmaikadua">
+				<img src="https://avatars.githubusercontent.com/u/24851850?s=72&u=5a61299d742f3a04e9122197326c4228464c15b4&v=4" width="24" alt="Avatar of soulinmaikadua"> soulinmaikadua
+			</a><br/>
+			Soulinmaikadua
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vientaine,Laos</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
 			<a href="https://github.com/Pitpy">
 				<img src="https://avatars.githubusercontent.com/u/20512489?s=72&u=c1f3cebde6a2f2879137c74b0702f1a17675dec9&v=4" width="24" alt="Avatar of Pitpy"> Pitpy
 			</a><br/>
@@ -1067,7 +1080,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/Phumvilay383828">
 				<img src="https://avatars.githubusercontent.com/u/100257023?s=72&v=4" width="24" alt="Avatar of Phumvilay383828"> Phumvilay383828
@@ -1080,7 +1093,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/macarthy">
 				<img src="https://avatars.githubusercontent.com/u/7726?s=72&v=4" width="24" alt="Avatar of macarthy"> macarthy
@@ -1090,19 +1103,6 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Solo  </td>
 		<td><a href="https://twitter.com/macarthy">macarthy</a></td>
 		<td>Ireland, Laos & Thailand </td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/soulinmaikadua">
-				<img src="https://avatars.githubusercontent.com/u/24851850?s=72&u=5a61299d742f3a04e9122197326c4228464c15b4&v=4" width="24" alt="Avatar of soulinmaikadua"> soulinmaikadua
-			</a><br/>
-			Soulinmaikadua
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vientaine,Laos</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -1472,6 +1472,19 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>106</td>
 		<td>
+			<a href="https://github.com/HUTTIIEx">
+				<img src="https://avatars.githubusercontent.com/u/76667353?s=72&u=9d17b9856bccbcd5e55354c3834f31fb52549147&v=4" width="24" alt="Avatar of HUTTIIEx"> HUTTIIEx
+			</a><br/>
+			Hutsadong Kingkeo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mister_hutz">mister_hutz</a></td>
+		<td>Vientiane, Laos</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
 			<a href="https://github.com/Keosithong">
 				<img src="https://avatars.githubusercontent.com/u/100376545?s=72&v=4" width="24" alt="Avatar of Keosithong"> Keosithong
 			</a><br/>
@@ -1483,7 +1496,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/Maxdevlao">
 				<img src="https://avatars.githubusercontent.com/u/78583257?s=72&u=bc705fb3eeb9ec9c53f31d269df884e18b999398&v=4" width="24" alt="Avatar of Maxdevlao"> Maxdevlao
@@ -1496,7 +1509,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/keophilavong">
 				<img src="https://avatars.githubusercontent.com/u/45658681?s=72&u=3b2ee0c7ca83cedc077d4706743b28210e587cb8&v=4" width="24" alt="Avatar of keophilavong"> keophilavong
@@ -1509,7 +1522,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/dsouksavatd">
 				<img src="https://avatars.githubusercontent.com/u/2195503?s=72&u=e6ad289da199a5f3db777aaa64c7bd85083f3262&v=4" width="24" alt="Avatar of dsouksavatd"> dsouksavatd
@@ -1522,7 +1535,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/Welnance">
 				<img src="https://avatars.githubusercontent.com/u/91182189?s=72&u=0a3cffb7a70e214019897a193506ebe6a456f18c&v=4" width="24" alt="Avatar of Welnance"> Welnance
@@ -1535,7 +1548,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/mounoydev">
 				<img src="https://avatars.githubusercontent.com/u/5955986?s=72&u=8f542c0739aa506981d2b58ef5e3894def12c56d&v=4" width="24" alt="Avatar of mounoydev"> mounoydev
@@ -1548,7 +1561,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/LaoitdevOpen">
 				<img src="https://avatars.githubusercontent.com/u/102305616?s=72&u=378cf6c2b37d5a956e75a66e8ea5c577a515899d&v=4" width="24" alt="Avatar of LaoitdevOpen"> LaoitdevOpen
@@ -1561,7 +1574,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/phonesavanh89">
 				<img src="https://avatars.githubusercontent.com/u/99279801?s=72&v=4" width="24" alt="Avatar of phonesavanh89"> phonesavanh89
@@ -1574,7 +1587,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/taiyxysb">
 				<img src="https://avatars.githubusercontent.com/u/28890399?s=72&u=d52f21f5099950bc8e47ce89eadbef71e5908092&v=4" width="24" alt="Avatar of taiyxysb"> taiyxysb
@@ -1587,7 +1600,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/keo12">
 				<img src="https://avatars.githubusercontent.com/u/45753984?s=72&u=e40210fc156ff3ddc9137dbcd0e67c93852435bf&v=4" width="24" alt="Avatar of keo12"> keo12
@@ -1600,7 +1613,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/Manophab-L">
 				<img src="https://avatars.githubusercontent.com/u/103375393?s=72&v=4" width="24" alt="Avatar of Manophab-L"> Manophab-L
@@ -1613,7 +1626,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/revlaos">
 				<img src="https://avatars.githubusercontent.com/u/97787069?s=72&u=f9d5f6d387cc23d09e79b2de69a04c7c364129ef&v=4" width="24" alt="Avatar of revlaos"> revlaos
@@ -1626,7 +1639,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/Kham470">
 				<img src="https://avatars.githubusercontent.com/u/108746384?s=72&v=4" width="24" alt="Avatar of Kham470"> Kham470
@@ -1639,7 +1652,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/ViengNPP">
 				<img src="https://avatars.githubusercontent.com/u/116183388?s=72&u=47f4ec563168d7922adab3658e34f1382e197189&v=4" width="24" alt="Avatar of ViengNPP"> ViengNPP
@@ -1652,7 +1665,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/Hatsachan">
 				<img src="https://avatars.githubusercontent.com/u/99309890?s=72&v=4" width="24" alt="Avatar of Hatsachan"> Hatsachan
@@ -1665,7 +1678,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/Taithong">
 				<img src="https://avatars.githubusercontent.com/u/70885058?s=72&u=5d85d932ec0d994e0106f5fd6fea5ca5bccf34fe&v=4" width="24" alt="Avatar of Taithong"> Taithong
@@ -1678,7 +1691,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/Unlaytsabxwb">
 				<img src="https://avatars.githubusercontent.com/u/54566100?s=72&u=8e34a3a4d1508b4c88fd6d2fdbd92a17c77f977a&v=4" width="24" alt="Avatar of Unlaytsabxwb"> Unlaytsabxwb
@@ -1691,7 +1704,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/frankxayachack">
 				<img src="https://avatars.githubusercontent.com/u/5785520?s=72&u=367a8d33a80e34e3f6610fcb6da90539e974214a&v=4" width="24" alt="Avatar of frankxayachack"> frankxayachack
@@ -1704,7 +1717,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/rober42539">
 				<img src="https://avatars.githubusercontent.com/u/282862?s=72&u=b44f0da38ed678ae578d91c678748c5b1d71cbde&v=4" width="24" alt="Avatar of rober42539"> rober42539
@@ -1717,7 +1730,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/loma">
 				<img src="https://avatars.githubusercontent.com/u/1100639?s=72&u=c734c2b2acccade0944703a81968fc0da2d042da&v=4" width="24" alt="Avatar of loma"> loma
@@ -1730,7 +1743,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/reneniehus">
 				<img src="https://avatars.githubusercontent.com/u/20182312?s=72&u=daa42247aebd70f3600523c398b5d7f8c61c104b&v=4" width="24" alt="Avatar of reneniehus"> reneniehus
@@ -1743,7 +1756,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/MaxSoudPouk">
 				<img src="https://avatars.githubusercontent.com/u/104512737?s=72&u=5c1c8af9762426b3ac74e01a1bf9352ca9a0533a&v=4" width="24" alt="Avatar of MaxSoudPouk"> MaxSoudPouk
@@ -1756,7 +1769,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/oudomsavanh">
 				<img src="https://avatars.githubusercontent.com/u/20498949?s=72&u=0d2ad10a8b81826fcb69407318b7921c5f40c1e9&v=4" width="24" alt="Avatar of oudomsavanh"> oudomsavanh
@@ -1769,7 +1782,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/jettana">
 				<img src="https://avatars.githubusercontent.com/u/1974106?s=72&v=4" width="24" alt="Avatar of jettana"> jettana
@@ -1782,7 +1795,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/Khamphang">
 				<img src="https://avatars.githubusercontent.com/u/8321313?s=72&u=29be252c92a0ea589eace06299df2986b107369b&v=4" width="24" alt="Avatar of Khamphang"> Khamphang
@@ -1795,7 +1808,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/Teuntodev">
 				<img src="https://avatars.githubusercontent.com/u/105536311?s=72&u=18d94ba7fbc305dbd5ac531fba4c08ce7f8e4eca&v=4" width="24" alt="Avatar of Teuntodev"> Teuntodev
@@ -1808,7 +1821,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/tibeemts">
 				<img src="https://avatars.githubusercontent.com/u/72777657?s=72&u=8b7d2ba489a8b45b6b881f5045d3b19ee19d2ba1&v=4" width="24" alt="Avatar of tibeemts"> tibeemts
@@ -1821,7 +1834,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/Sengsouly5749">
 				<img src="https://avatars.githubusercontent.com/u/90931527?s=72&u=13eb35be7faa6f002bb4acc4f1cb2f331723b4b6&v=4" width="24" alt="Avatar of Sengsouly5749"> Sengsouly5749
@@ -1834,7 +1847,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/laomobilemoney">
 				<img src="https://avatars.githubusercontent.com/u/98149478?s=72&u=d912e99fdc1ca2e8b32a7dc54da7688b5cfbbb57&v=4" width="24" alt="Avatar of laomobilemoney"> laomobilemoney
@@ -1847,7 +1860,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/khanxay1">
 				<img src="https://avatars.githubusercontent.com/u/108344301?s=72&v=4" width="24" alt="Avatar of khanxay1"> khanxay1
@@ -1860,7 +1873,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/laosfreelance">
 				<img src="https://avatars.githubusercontent.com/u/111583931?s=72&u=34cdf79325cc7956c5bcca8d62bf381c7481df81&v=4" width="24" alt="Avatar of laosfreelance"> laosfreelance
@@ -1873,7 +1886,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/jime4455">
 				<img src="https://avatars.githubusercontent.com/u/93572726?s=72&u=8225202e79b93cf973ab732e0ddcd6e82e820567&v=4" width="24" alt="Avatar of jime4455"> jime4455
@@ -1886,7 +1899,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/Kist52">
 				<img src="https://avatars.githubusercontent.com/u/113096950?s=72&v=4" width="24" alt="Avatar of Kist52"> Kist52
@@ -1899,7 +1912,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/Khundeth">
 				<img src="https://avatars.githubusercontent.com/u/119741387?s=72&u=c8cd99c072532997254cb22813c70a8e98879d59&v=4" width="24" alt="Avatar of Khundeth"> Khundeth
@@ -1912,7 +1925,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/sombath">
 				<img src="https://avatars.githubusercontent.com/u/2638054?s=72&v=4" width="24" alt="Avatar of sombath"> sombath
@@ -1925,7 +1938,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/lookphueng">
 				<img src="https://avatars.githubusercontent.com/u/87801260?s=72&u=b7901f4647ac051770f5bcc0b34f18c631497499&v=4" width="24" alt="Avatar of lookphueng"> lookphueng
@@ -1938,7 +1951,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/vr-techcsl">
 				<img src="https://avatars.githubusercontent.com/u/99158366?s=72&u=4ae48beb9a171b2a3b1231fdaa88d5d2218b581b&v=4" width="24" alt="Avatar of vr-techcsl"> vr-techcsl
@@ -1951,7 +1964,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/SokxayITDev">
 				<img src="https://avatars.githubusercontent.com/u/112148571?s=72&u=0a7f4426654b70530d522d065627b87124a2e013&v=4" width="24" alt="Avatar of SokxayITDev"> SokxayITDev
@@ -1964,7 +1977,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/n3wbie93">
 				<img src="https://avatars.githubusercontent.com/u/112314394?s=72&u=8d770240867424bd52824ce778e6c14e322b9678&v=4" width="24" alt="Avatar of n3wbie93"> n3wbie93
@@ -1977,7 +1990,7 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/khammaPSL">
 				<img src="https://avatars.githubusercontent.com/u/100283364?s=72&v=4" width="24" alt="Avatar of khammaPSL"> khammaPSL
@@ -1987,19 +2000,6 @@ There are `360 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Laos </td>
 		<td><a href="https://twitter.com/Twiter">Twiter</a></td>
 		<td>B an phonetoum,Laos</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/HUTTIIEx">
-				<img src="https://avatars.githubusercontent.com/u/76667353?s=72&u=9d17b9856bccbcd5e55354c3834f31fb52549147&v=4" width="24" alt="Avatar of HUTTIIEx"> HUTTIIEx
-			</a><br/>
-			Hutsadong Kingkeo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mister_hutz">mister_hutz</a></td>
-		<td>Vientiane, Laos</td>
 		<td>1</td>
 	</tr>
 	<tr>
