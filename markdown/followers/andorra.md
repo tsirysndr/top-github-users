@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/12/15 12:26 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2022/12/15 12:28 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1303,19 +1303,6 @@ There are `247 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>93</td>
 		<td>
-			<a href="https://github.com/mricartx">
-				<img src="https://avatars.githubusercontent.com/u/26459972?s=72&v=4" width="24" alt="Avatar of mricartx"> mricartx
-			</a><br/>
-			Marc Ricart
-		</td>
-		<td>Andorra Telecom </td>
-		<td>No Twitter Username</td>
-		<td>ANDORRA</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
 			<a href="https://github.com/alipsia">
 				<img src="https://avatars.githubusercontent.com/u/4753862?s=72&v=4" width="24" alt="Avatar of alipsia"> alipsia
 			</a><br/>
@@ -1324,6 +1311,19 @@ There are `247 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
+			<a href="https://github.com/mricartx">
+				<img src="https://avatars.githubusercontent.com/u/26459972?s=72&v=4" width="24" alt="Avatar of mricartx"> mricartx
+			</a><br/>
+			Marc Ricart
+		</td>
+		<td>Andorra Telecom </td>
+		<td>No Twitter Username</td>
+		<td>ANDORRA</td>
 		<td>2</td>
 	</tr>
 	<tr>
