@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2022/12/16 11:43 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2022/12/17 6:36 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1108,19 +1108,6 @@ There are `362 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>78</td>
 		<td>
-			<a href="https://github.com/somsacki">
-				<img src="https://avatars.githubusercontent.com/u/1098463?s=72&v=4" width="24" alt="Avatar of somsacki"> somsacki
-			</a><br/>
-			Somsack INTHASONE, PhD
-		</td>
-		<td>National University Of Laos<br/></td>
-		<td><a href="https://twitter.com/somsacki">somsacki</a></td>
-		<td>Vientiane, Laos</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
 			<a href="https://github.com/Vongsi">
 				<img src="https://avatars.githubusercontent.com/u/1546091?s=72&u=224d5cf7c7c1991ff9825e30e8059d4e625479c3&v=4" width="24" alt="Avatar of Vongsi"> Vongsi
 			</a><br/>
@@ -1129,6 +1116,19 @@ There are `362 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Dah </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Lao PDR</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/somsacki">
+				<img src="https://avatars.githubusercontent.com/u/1098463?s=72&v=4" width="24" alt="Avatar of somsacki"> somsacki
+			</a><br/>
+			Somsack INTHASONE, PhD
+		</td>
+		<td>National University Of Laos<br/></td>
+		<td><a href="https://twitter.com/somsacki">somsacki</a></td>
+		<td>Vientiane, Laos</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1147,6 +1147,19 @@ There are `362 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>81</td>
 		<td>
+			<a href="https://github.com/oudomsavanh">
+				<img src="https://avatars.githubusercontent.com/u/20498949?s=72&u=0d2ad10a8b81826fcb69407318b7921c5f40c1e9&v=4" width="24" alt="Avatar of oudomsavanh"> oudomsavanh
+			</a><br/>
+			Ekward Oudomsavanh Xayavong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Laos</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
 			<a href="https://github.com/LaoitdevOpen">
 				<img src="https://avatars.githubusercontent.com/u/102305616?s=72&u=378cf6c2b37d5a956e75a66e8ea5c577a515899d&v=4" width="24" alt="Avatar of LaoitdevOpen"> LaoitdevOpen
 			</a><br/>
@@ -1158,7 +1171,7 @@ There are `362 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/MaxSoudPouk">
 				<img src="https://avatars.githubusercontent.com/u/104512737?s=72&u=5c1c8af9762426b3ac74e01a1bf9352ca9a0533a&v=4" width="24" alt="Avatar of MaxSoudPouk"> MaxSoudPouk
@@ -1168,19 +1181,6 @@ There are `362 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane,Loas</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/oudomsavanh">
-				<img src="https://avatars.githubusercontent.com/u/20498949?s=72&u=0d2ad10a8b81826fcb69407318b7921c5f40c1e9&v=4" width="24" alt="Avatar of oudomsavanh"> oudomsavanh
-			</a><br/>
-			Ekward Oudomsavanh Xayavong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Laos</td>
 		<td>2</td>
 	</tr>
 	<tr>
