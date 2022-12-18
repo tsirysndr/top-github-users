@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/12/18 4:38 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2022/12/18 11:57 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `249 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `250 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -979,11 +979,11 @@ There are `249 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>68</td>
 		<td>
 			<a href="https://github.com/heldertorres">
-				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&u=d0b78976022cd2eb994227ac4c5985e2e6a20031&v=4" width="24" alt="Avatar of heldertorres"> heldertorres
+				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&v=4" width="24" alt="Avatar of heldertorres"> heldertorres
 			</a><br/>
 			Helder Manuel Torres Vieira
 		</td>
-		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment </td>
+		<td>@innki-tech @elevation-labs-es @la-boutique-de-ment @instituto-ipai<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Andorra la Vella</td>
 		<td>3</td>
@@ -1082,19 +1082,6 @@ There are `249 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>76</td>
 		<td>
-			<a href="https://github.com/sitnesTIC">
-				<img src="https://avatars.githubusercontent.com/u/46478162?s=72&u=d44cbc7329691afbdd1a30c5db80c584a9d0c3e7&v=4" width="24" alt="Avatar of sitnesTIC"> sitnesTIC
-			</a><br/>
-			Gerard Sentís
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sitnestic">sitnestic</a></td>
-		<td>Andorra</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
 			<a href="https://github.com/cajimhe">
 				<img src="https://avatars.githubusercontent.com/u/1227706?s=72&u=5790abd908ce8df8992ecf202b8498caacadbdd2&v=4" width="24" alt="Avatar of cajimhe"> cajimhe
 			</a><br/>
@@ -1102,6 +1089,19 @@ There are `249 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/cajimhe">cajimhe</a></td>
+		<td>Andorra</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/sitnesTIC">
+				<img src="https://avatars.githubusercontent.com/u/46478162?s=72&u=d44cbc7329691afbdd1a30c5db80c584a9d0c3e7&v=4" width="24" alt="Avatar of sitnesTIC"> sitnesTIC
+			</a><br/>
+			Gerard Sentís
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sitnestic">sitnestic</a></td>
 		<td>Andorra</td>
 		<td>3</td>
 	</tr>
