@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` by users in Bosnia And Herzegovina on `2022/12/19 1:59 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` by users in Bosnia And Herzegovina on `2022/12/19 9:17 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -107,6 +107,19 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 	<tr>
 		<td>1</td>
 		<td>
+			<a href="https://github.com/ajdinhusetovic">
+				<img src="https://avatars.githubusercontent.com/u/116389962?s=72&u=5f6d5f1c2d8ae7223fa403af45d3ff81b5ae89af&v=4" width="24" alt="Avatar of ajdinhusetovic"> ajdinhusetovic
+			</a><br/>
+			Ajdin Husetović
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zenica, Bosnia and Herzegovina</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>
 			<a href="https://github.com/rmnnn">
 				<img src="https://avatars.githubusercontent.com/u/91371458?s=72&u=d4041f55c860029421fafaf7d612244e29fde8ee&v=4" width="24" alt="Avatar of rmnnn"> rmnnn
 			</a><br/>
@@ -116,19 +129,6 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo</td>
 		<td>69</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>
-			<a href="https://github.com/ajdinhusetovic">
-				<img src="https://avatars.githubusercontent.com/u/116389962?s=72&u=5f6d5f1c2d8ae7223fa403af45d3ff81b5ae89af&v=4" width="24" alt="Avatar of ajdinhusetovic"> ajdinhusetovic
-			</a><br/>
-			Ajdin Husetović
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zenica, Bosnia and Herzegovina</td>
-		<td>68</td>
 	</tr>
 	<tr>
 		<td>3</td>
