@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2022/12/23 1:52 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2022/12/23 8:41 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `435 users`  in Bhutan. You need at least `0 followers` to be on this list.
+There are `436 users`  in Bhutan. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1161,7 +1161,7 @@ There are `435 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>82</td>
 		<td>
 			<a href="https://github.com/miyarishu">
-				<img src="https://avatars.githubusercontent.com/u/109553321?s=72&u=964d119273448e915e4122d816637118bd675209&v=4" width="24" alt="Avatar of miyarishu"> miyarishu
+				<img src="https://avatars.githubusercontent.com/u/109553321?s=72&u=ce8751949ca82b6bbb044dc0899e74f2001a004e&v=4" width="24" alt="Avatar of miyarishu"> miyarishu
 			</a><br/>
 			terjanq
 		</td>
