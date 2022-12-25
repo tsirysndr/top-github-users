@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` and `private contributions` by users in Burkina Faso on `2022/12/24 4:16 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` and `private contributions` by users in Burkina Faso on `2022/12/25 11:23 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `237 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, Burkina FASO</td>
 		<td>25</td>
-		<td>832</td>
+		<td>833</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `237 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/relwenjj">relwenjj</a></td>
 		<td>Ouagadougou ==> Burkina Faso</td>
 		<td>116</td>
-		<td>653</td>
+		<td>661</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -872,11 +872,25 @@ There are `237 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/SimeonGango">SimeonGango</a></td>
 		<td>Ouagadougou</td>
+		<td>14</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/DifJunior">
+				<img src="https://avatars.githubusercontent.com/u/121047503?s=72&u=607c0157424698c7425e489af48c24fd32cbe81b&v=4" width="24" alt="Avatar of DifJunior"> DifJunior
+			</a><br/>
+			Dif Junior
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou (BURKINA FASO)</td>
 		<td>12</td>
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/ElCAPO2020">
 				<img src="https://avatars.githubusercontent.com/u/83760991?s=72&v=4" width="24" alt="Avatar of ElCAPO2020"> ElCAPO2020
@@ -888,20 +902,6 @@ There are `237 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>OUAGADOUGOU</td>
 		<td>12</td>
 		<td>12</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/DifJunior">
-				<img src="https://avatars.githubusercontent.com/u/121047503?s=72&u=607c0157424698c7425e489af48c24fd32cbe81b&v=4" width="24" alt="Avatar of DifJunior"> DifJunior
-			</a><br/>
-			Dif Junior
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou (BURKINA FASO)</td>
-		<td>11</td>
-		<td>11</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1256,20 +1256,6 @@ There are `237 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>83</td>
 		<td>
-			<a href="https://github.com/babdoulfatao">
-				<img src="https://avatars.githubusercontent.com/u/74709870?s=72&v=4" width="24" alt="Avatar of babdoulfatao"> babdoulfatao
-			</a><br/>
-			Balima Abdoul Fatahou
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>burkina_faso(ouagadougou)</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
 			<a href="https://github.com/Wendep">
 				<img src="https://avatars.githubusercontent.com/u/97541743?s=72&v=4" width="24" alt="Avatar of Wendep"> Wendep
 			</a><br/>
@@ -1278,6 +1264,20 @@ There are `237 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Gras </td>
 		<td><a href="https://twitter.com/jeanwendepouire">jeanwendepouire</a></td>
 		<td>Ouagadougou</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/babdoulfatao">
+				<img src="https://avatars.githubusercontent.com/u/74709870?s=72&v=4" width="24" alt="Avatar of babdoulfatao"> babdoulfatao
+			</a><br/>
+			Balima Abdoul Fatahou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>burkina_faso(ouagadougou)</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
