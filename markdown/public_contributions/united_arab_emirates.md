@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2022/12/25 7:13 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2022/12/26 2:21 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -198,19 +198,6 @@ There are `36 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>8</td>
 		<td>
-			<a href="https://github.com/genesisneo">
-				<img src="https://avatars.githubusercontent.com/u/2639011?s=72&v=4" width="24" alt="Avatar of genesisneo"> genesisneo
-			</a><br/>
-			Neo Genesis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dubai, United Arab Emirates</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>
 			<a href="https://github.com/m-yousuff">
 				<img src="https://avatars.githubusercontent.com/u/109786248?s=72&u=f1470fd372619e37f9ecaa46aa9c03e068602ae1&v=4" width="24" alt="Avatar of m-yousuff"> m-yousuff
 			</a><br/>
@@ -220,6 +207,19 @@ There are `36 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, UAE</td>
 		<td>3</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>
+			<a href="https://github.com/genesisneo">
+				<img src="https://avatars.githubusercontent.com/u/2639011?s=72&v=4" width="24" alt="Avatar of genesisneo"> genesisneo
+			</a><br/>
+			Neo Genesis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dubai, United Arab Emirates</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>10</td>
