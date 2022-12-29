@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2022/12/28 10:03 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2022/12/29 5:09 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `366 users`  in Laos. You need at least `0 followers` to be on this list.
+There are `367 users`  in Laos. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -185,6 +185,19 @@ There are `366 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>7</td>
 		<td>
+			<a href="https://github.com/macarthy">
+				<img src="https://avatars.githubusercontent.com/u/7726?s=72&v=4" width="24" alt="Avatar of macarthy"> macarthy
+			</a><br/>
+			Justin MacCarthy
+		</td>
+		<td>Solo  </td>
+		<td><a href="https://twitter.com/macarthy">macarthy</a></td>
+		<td>Ireland, Laos & Thailand </td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
 			<a href="https://github.com/anatolian">
 				<img src="https://avatars.githubusercontent.com/u/10535573?s=72&u=27ea3a31d242097b5c9256a241b2584b3de567c3&v=4" width="24" alt="Avatar of anatolian"> anatolian
 			</a><br/>
@@ -194,19 +207,6 @@ There are `366 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Hong Kong, Armenia, Turkey, or Laos</td>
 		<td>13</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/macarthy">
-				<img src="https://avatars.githubusercontent.com/u/7726?s=72&v=4" width="24" alt="Avatar of macarthy"> macarthy
-			</a><br/>
-			Justin MacCarthy
-		</td>
-		<td>Solo  </td>
-		<td><a href="https://twitter.com/macarthy">macarthy</a></td>
-		<td>Ireland, Laos & Thailand </td>
-		<td>12</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -1290,19 +1290,6 @@ There are `366 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>92</td>
 		<td>
-			<a href="https://github.com/ALOUNKONE">
-				<img src="https://avatars.githubusercontent.com/u/36568988?s=72&u=277e9d43ca38f7d4809d82fba2ff48cc922f3a45&v=4" width="24" alt="Avatar of ALOUNKONE"> ALOUNKONE
-			</a><br/>
-			ALOUNKONE XAYYAMOUNGKHOUN 
-		</td>
-		<td>Khounta Sing </td>
-		<td>No Twitter Username</td>
-		<td>LAOS</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>93</td>
-		<td>
 			<a href="https://github.com/sithiphoneP">
 				<img src="https://avatars.githubusercontent.com/u/8742897?s=72&u=6b52cf844483fabdb37bf199722d583eeee41991&v=4" width="24" alt="Avatar of sithiphoneP"> sithiphoneP
 			</a><br/>
@@ -1311,6 +1298,19 @@ There are `366 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Nuol </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td>
+			<a href="https://github.com/ALOUNKONE">
+				<img src="https://avatars.githubusercontent.com/u/36568988?s=72&u=277e9d43ca38f7d4809d82fba2ff48cc922f3a45&v=4" width="24" alt="Avatar of ALOUNKONE"> ALOUNKONE
+			</a><br/>
+			ALOUNKONE XAYYAMOUNGKHOUN 
+		</td>
+		<td>Khounta Sing </td>
+		<td>No Twitter Username</td>
+		<td>LAOS</td>
 		<td>2</td>
 	</tr>
 	<tr>
