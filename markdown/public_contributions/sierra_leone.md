@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `public contributions` by users in Sierra Leone on `2022/12/29 3:43 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `public contributions` by users in Sierra Leone on `2022/12/29 10:40 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -245,7 +245,7 @@ There are `211 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Microverse </td>
 		<td>No Twitter Username</td>
 		<td>SIERRA LEONE,FREETOWN</td>
-		<td>97</td>
+		<td>99</td>
 	</tr>
 	<tr>
 		<td>12</td>
