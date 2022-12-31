@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` and `private contributions` by users in Burkina Faso on `2022/12/31 12:38 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` and `private contributions` by users in Burkina Faso on `2022/12/31 7:27 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -159,7 +159,7 @@ There are `238 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/relwenjj">relwenjj</a></td>
 		<td>Ouagadougou ==> Burkina Faso</td>
 		<td>116</td>
-		<td>674</td>
+		<td>676</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `238 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
 		<td>276</td>
-		<td>652</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `238 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>BURKINAFASO/OUAGADOUGOU</td>
 		<td>113</td>
-		<td>543</td>
+		<td>547</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1256,20 +1256,6 @@ There are `238 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>83</td>
 		<td>
-			<a href="https://github.com/babdoulfatao">
-				<img src="https://avatars.githubusercontent.com/u/74709870?s=72&v=4" width="24" alt="Avatar of babdoulfatao"> babdoulfatao
-			</a><br/>
-			Balima Abdoul Fatahou
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>burkina_faso(ouagadougou)</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
 			<a href="https://github.com/Wendep">
 				<img src="https://avatars.githubusercontent.com/u/97541743?s=72&v=4" width="24" alt="Avatar of Wendep"> Wendep
 			</a><br/>
@@ -1278,6 +1264,20 @@ There are `238 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Gras </td>
 		<td><a href="https://twitter.com/jeanwendepouire">jeanwendepouire</a></td>
 		<td>Ouagadougou</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a href="https://github.com/babdoulfatao">
+				<img src="https://avatars.githubusercontent.com/u/74709870?s=72&v=4" width="24" alt="Avatar of babdoulfatao"> babdoulfatao
+			</a><br/>
+			Balima Abdoul Fatahou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>burkina_faso(ouagadougou)</td>
 		<td>4</td>
 		<td>4</td>
 	</tr>
@@ -1718,20 +1718,6 @@ There are `238 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>116</td>
 		<td>
-			<a href="https://github.com/sikanibaima">
-				<img src="https://avatars.githubusercontent.com/u/92582197?s=72&v=4" width="24" alt="Avatar of sikanibaima"> sikanibaima
-			</a><br/>
-			sikanibaima
-		</td>
-		<td>Ing.fin </td>
-		<td><a href="https://twitter.com/sikanibaima">sikanibaima</a></td>
-		<td>ouagadougou</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
 			<a href="https://github.com/kapare1">
 				<img src="https://avatars.githubusercontent.com/u/103760354?s=72&u=bfeac3c710380bb62e2311be5efa164b60009b0d&v=4" width="24" alt="Avatar of kapare1"> kapare1
 			</a><br/>
@@ -1740,6 +1726,20 @@ There are `238 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Private </td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
+			<a href="https://github.com/sikanibaima">
+				<img src="https://avatars.githubusercontent.com/u/92582197?s=72&v=4" width="24" alt="Avatar of sikanibaima"> sikanibaima
+			</a><br/>
+			sikanibaima
+		</td>
+		<td>Ing.fin </td>
+		<td><a href="https://twitter.com/sikanibaima">sikanibaima</a></td>
+		<td>ouagadougou</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
