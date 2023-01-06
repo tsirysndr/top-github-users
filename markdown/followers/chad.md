@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/1/5 2:34 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/1/6 9:50 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -237,6 +237,19 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>11</td>
 		<td>
+			<a href="https://github.com/luapwastaken">
+				<img src="https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4" width="24" alt="Avatar of luapwastaken"> luapwastaken
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>chad</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
 			<a href="https://github.com/Korom10">
 				<img src="https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4" width="24" alt="Avatar of Korom10"> Korom10
 			</a><br/>
@@ -248,7 +261,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/CanadianJesus1">
 				<img src="https://avatars.githubusercontent.com/u/77854094?s=72&v=4" width="24" alt="Avatar of CanadianJesus1"> CanadianJesus1
@@ -257,19 +270,6 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/p">p</a></td>
-		<td>chad</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>
-			<a href="https://github.com/luapwastaken">
-				<img src="https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4" width="24" alt="Avatar of luapwastaken"> luapwastaken
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>chad</td>
 		<td>4</td>
 	</tr>
