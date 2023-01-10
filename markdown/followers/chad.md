@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/1/9 9:57 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/1/10 5:27 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Natillas </td>
 		<td><a href="https://twitter.com/Bustamante">Bustamante</a></td>
 		<td>Chad</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>4</td>
