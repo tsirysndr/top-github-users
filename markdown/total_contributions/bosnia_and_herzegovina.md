@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` and `private contributions` by users in Bosnia And Herzegovina on `2023/1/9 9:02 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` and `private contributions` by users in Bosnia And Herzegovina on `2023/1/10 4:24 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Mostar, BiH</td>
 		<td>1</td>
-		<td>1002</td>
+		<td>1011</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -145,7 +145,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>0</td>
-		<td>287</td>
+		<td>288</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -165,7 +165,7 @@ There are `35 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>5</td>
 		<td>
 			<a href="https://github.com/31d4r">
-				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=3378d478558ee1727f4268a1c95a4f467ed03f18&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
+				<img src="https://avatars.githubusercontent.com/u/30953857?s=72&u=4b3b9afe8705437a5b8c8ab8df596c9b8e5abffd&v=4" width="24" alt="Avatar of 31d4r"> 31d4r
 			</a><br/>
 			Eldar Tutnjić
 		</td>
