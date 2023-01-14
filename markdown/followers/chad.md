@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/1/14 3:36 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/1/14 10:32 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -185,6 +185,19 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>7</td>
 		<td>
+			<a href="https://github.com/eissaweb">
+				<img src="https://avatars.githubusercontent.com/u/50566718?s=72&u=23ba1896b72c544d68b42c019bca4494ca72e9af&v=4" width="24" alt="Avatar of eissaweb"> eissaweb
+			</a><br/>
+			Esa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eissaweb">eissaweb</a></td>
+		<td>N'djamena</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>
 			<a href="https://github.com/imontash">
 				<img src="https://avatars.githubusercontent.com/u/50967154?s=72&u=0cb56e367c4467586932778522e491391542afc6&v=4" width="24" alt="Avatar of imontash"> imontash
 			</a><br/>
@@ -194,19 +207,6 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad, N'Djamena</td>
 		<td>7</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>
-			<a href="https://github.com/eissaweb">
-				<img src="https://avatars.githubusercontent.com/u/50566718?s=72&u=23ba1896b72c544d68b42c019bca4494ca72e9af&v=4" width="24" alt="Avatar of eissaweb"> eissaweb
-			</a><br/>
-			Esa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/eissaweb">eissaweb</a></td>
-		<td>N'djamena</td>
-		<td>6</td>
 	</tr>
 	<tr>
 		<td>9</td>
