@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2023/1/14 2:58 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2023/1/15 9:46 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -108,14 +108,14 @@ There are `99 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>1</td>
 		<td>
 			<a href="https://github.com/N1K0232">
-				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
+				<img src="https://avatars.githubusercontent.com/u/60029977?s=72&u=4bc5d82b7a4770eada2420d5f7c54edfa888fc8a&v=4" width="24" alt="Avatar of N1K0232"> N1K0232
 			</a><br/>
 			Nico
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/N1K0232">N1K0232</a></td>
 		<td>Repubblica di San Marino</td>
-		<td>1583</td>
+		<td>1588</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -180,7 +180,7 @@ There are `99 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>@coinspect </td>
 		<td><a href="https://twitter.com/agustingianni">agustingianni</a></td>
 		<td>San Marino</td>
-		<td>73</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -219,7 +219,7 @@ There are `99 users`  in San Marino. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>san marino</td>
-		<td>35</td>
+		<td>36</td>
 	</tr>
 	<tr>
 		<td>10</td>
