@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/1/15 5:11 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/1/16 12:16 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -315,19 +315,6 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>17</td>
 		<td>
-			<a href="https://github.com/Kenoii">
-				<img src="https://avatars.githubusercontent.com/u/37984484?s=72&u=5ee45717685a891ce16a55f60add10074a5fcd28&v=4" width="24" alt="Avatar of Kenoii"> Kenoii
-			</a><br/>
-			Kenoi
-		</td>
-		<td>Clip Studio Paint </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
 			<a href="https://github.com/Zelixity">
 				<img src="https://avatars.githubusercontent.com/u/58636004?s=72&u=2e8091b5688dfb47895d227f37ee776d0ca2ae3a&v=4" width="24" alt="Avatar of Zelixity"> Zelixity
 			</a><br/>
@@ -339,7 +326,7 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/K3maaa">
 				<img src="https://avatars.githubusercontent.com/u/78302221?s=72&u=aa990fdab33afda416708d579e982672d93d6540&v=4" width="24" alt="Avatar of K3maaa"> K3maaa
@@ -349,6 +336,19 @@ There are `109 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>chad</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
+			<a href="https://github.com/Kenoii">
+				<img src="https://avatars.githubusercontent.com/u/37984484?s=72&u=5ee45717685a891ce16a55f60add10074a5fcd28&v=4" width="24" alt="Avatar of Kenoii"> Kenoii
+			</a><br/>
+			Kenoi
+		</td>
+		<td>Clip Studio Paint </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
 		<td>3</td>
 	</tr>
 	<tr>
