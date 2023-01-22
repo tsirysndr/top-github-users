@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2023/1/21 9:39 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2023/1/22 3:38 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
 		<td>65</td>
-		<td>668</td>
+		<td>669</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -187,7 +187,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
 		<td>47</td>
-		<td>474</td>
+		<td>475</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -293,7 +293,7 @@ There are `148 users`  in Mauritania. You need at least `0 followers` to be on t
 			<a href="https://github.com/Mohamed-Beirouk">
 				<img src="https://avatars.githubusercontent.com/u/77806015?s=72&u=48dcaf9e049c31dc82de30c313d30d265adc82ab&v=4" width="24" alt="Avatar of Mohamed-Beirouk"> Mohamed-Beirouk
 			</a><br/>
-			Mohamed Beirouk
+			Mohamed Mohamed Beirouk
 		</td>
 		<td>Student At Iscae </td>
 		<td><a href="https://twitter.com/mou7amedd">mou7amedd</a></td>
