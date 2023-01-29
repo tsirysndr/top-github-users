@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/1/28 7:08 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/1/29 12:40 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `260 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `261 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -128,7 +128,7 @@ There are `260 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Maze </td>
 		<td><a href="https://twitter.com/devictoribero">devictoribero</a></td>
 		<td>Andorra</td>
-		<td>79</td>
+		<td>94</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -874,19 +874,6 @@ There are `260 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>60</td>
 		<td>
-			<a href="https://github.com/bigskygroup">
-				<img src="https://avatars.githubusercontent.com/u/4953833?s=72&v=4" width="24" alt="Avatar of bigskygroup"> bigskygroup
-			</a><br/>
-			BigSky Group 
-		</td>
-		<td>Big Sky Grup Sau<br/></td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>61</td>
-		<td>
 			<a href="https://github.com/apascualagut">
 				<img src="https://avatars.githubusercontent.com/u/34001956?s=72&u=126b77d79d3e158231bfe74a7636cf903c0032e4&v=4" width="24" alt="Avatar of apascualagut"> apascualagut
 			</a><br/>
@@ -894,6 +881,19 @@ There are `260 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>@handcash  </td>
 		<td><a href="https://twitter.com/apagut">apagut</a></td>
+		<td>Andorra</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td>
+			<a href="https://github.com/bigskygroup">
+				<img src="https://avatars.githubusercontent.com/u/4953833?s=72&v=4" width="24" alt="Avatar of bigskygroup"> bigskygroup
+			</a><br/>
+			BigSky Group 
+		</td>
+		<td>Big Sky Grup Sau<br/></td>
+		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>5</td>
 	</tr>
@@ -952,19 +952,6 @@ There are `260 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>66</td>
 		<td>
-			<a href="https://github.com/Koffer3121">
-				<img src="https://avatars.githubusercontent.com/u/47458983?s=72&u=2c3db50a9d354983555bfb136847b2aeb475d6bb&v=4" width="24" alt="Avatar of Koffer3121"> Koffer3121
-			</a><br/>
-			Koffin Inc.
-		</td>
-		<td>Koffin </td>
-		<td>No Twitter Username</td>
-		<td>Santa Coloma de Gramanet, Barcelona</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
 			<a href="https://github.com/rocduran">
 				<img src="https://avatars.githubusercontent.com/u/10318153?s=72&v=4" width="24" alt="Avatar of rocduran"> rocduran
 			</a><br/>
@@ -973,6 +960,19 @@ There are `260 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Student </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>
+			<a href="https://github.com/Koffer3121">
+				<img src="https://avatars.githubusercontent.com/u/47458983?s=72&u=2c3db50a9d354983555bfb136847b2aeb475d6bb&v=4" width="24" alt="Avatar of Koffer3121"> Koffer3121
+			</a><br/>
+			Koffin Inc.
+		</td>
+		<td>Koffin </td>
+		<td>No Twitter Username</td>
+		<td>Santa Coloma de Gramanet, Barcelona</td>
 		<td>4</td>
 	</tr>
 	<tr>
