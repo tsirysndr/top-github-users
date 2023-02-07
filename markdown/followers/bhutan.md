@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2023/2/7 12:42 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2023/2/7 7:02 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `440 users`  in Bhutan. You need at least `0 followers` to be on this list.
+There are `444 users`  in Bhutan. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -1719,19 +1719,6 @@ There are `440 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>125</td>
 		<td>
-			<a href="https://github.com/JambayBHUTAN">
-				<img src="https://avatars.githubusercontent.com/u/57506129?s=72&u=d87d29a20dca5200c7135daff426ac317ea36dd6&v=4" width="24" alt="Avatar of JambayBHUTAN"> JambayBHUTAN
-			</a><br/>
-			JambayBHUtan
-		</td>
-		<td>Cnr,royal University Of Bhutan<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bhutan</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
 			<a href="https://github.com/virtualbhutan">
 				<img src="https://avatars.githubusercontent.com/u/214518?s=72&v=4" width="24" alt="Avatar of virtualbhutan"> virtualbhutan
 			</a><br/>
@@ -1740,6 +1727,19 @@ There are `440 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Department Of Information Technology<br/>&<br/>Telecom,<br/>Ministry<br/>Of<br/>Information<br/>&<br/>Communications<br/></td>
 		<td>No Twitter Username</td>
 		<td>Thimphu, Bhutan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
+			<a href="https://github.com/JambayBHUTAN">
+				<img src="https://avatars.githubusercontent.com/u/57506129?s=72&u=d87d29a20dca5200c7135daff426ac317ea36dd6&v=4" width="24" alt="Avatar of JambayBHUTAN"> JambayBHUTAN
+			</a><br/>
+			JambayBHUtan
+		</td>
+		<td>Cnr,royal University Of Bhutan<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bhutan</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1914,19 +1914,6 @@ There are `440 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>140</td>
 		<td>
-			<a href="https://github.com/Bhagawat123">
-				<img src="https://avatars.githubusercontent.com/u/33225621?s=72&u=8322255a0cb94891515a8c703ed127275b04280b&v=4" width="24" alt="Avatar of Bhagawat123"> Bhagawat123
-			</a><br/>
-			Bhagawat Adhikari
-		</td>
-		<td>Selise </td>
-		<td>No Twitter Username</td>
-		<td>Thimphu</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
 			<a href="https://github.com/ntdorji">
 				<img src="https://avatars.githubusercontent.com/u/15306143?s=72&v=4" width="24" alt="Avatar of ntdorji"> ntdorji
 			</a><br/>
@@ -1935,6 +1922,19 @@ There are `440 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Thimphu, Bhutan</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/Bhagawat123">
+				<img src="https://avatars.githubusercontent.com/u/33225621?s=72&u=8322255a0cb94891515a8c703ed127275b04280b&v=4" width="24" alt="Avatar of Bhagawat123"> Bhagawat123
+			</a><br/>
+			Bhagawat Adhikari
+		</td>
+		<td>Selise </td>
+		<td>No Twitter Username</td>
+		<td>Thimphu</td>
 		<td>1</td>
 	</tr>
 	<tr>
