@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2023/2/10 2:11 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2023/2/11 8:10 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -329,7 +329,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>18</td>
 		<td>
 			<a href="https://github.com/v1rx">
-				<img src="https://avatars.githubusercontent.com/u/19215260?s=72&u=dc8f21f7e3eb604a84e89dd04e1700a80773cbc2&v=4" width="24" alt="Avatar of v1rx"> v1rx
+				<img src="https://avatars.githubusercontent.com/u/19215260?s=72&u=91d744a3d83443b0c84d9b02081b9b03454324c3&v=4" width="24" alt="Avatar of v1rx"> v1rx
 			</a><br/>
 			v1r
 		</td>
