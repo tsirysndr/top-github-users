@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2023/2/16 4:33 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2023/2/16 10:44 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -362,7 +362,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino Republic</td>
-		<td>16</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -570,7 +570,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Passepartout S.p.a. </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -583,7 +583,7 @@ There are `100 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Cvsu - Imus </td>
 		<td>No Twitter Username</td>
 		<td>San Marino, Dasmariñas Cavite</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>38</td>
