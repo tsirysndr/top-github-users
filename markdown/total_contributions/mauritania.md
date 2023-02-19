@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2023/2/19 2:48 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2023/2/19 8:12 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -173,7 +173,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/medvall_mr">medvall_mr</a></td>
 		<td>Nouakchott, Mauritania</td>
 		<td>11</td>
-		<td>647</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott</td>
 		<td>10</td>
-		<td>541</td>
+		<td>544</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -214,8 +214,8 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
-		<td>104</td>
-		<td>363</td>
+		<td>106</td>
+		<td>365</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -299,7 +299,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/mbareck77">mbareck77</a></td>
 		<td>Mauritania, Nouakchott</td>
 		<td>23</td>
-		<td>152</td>
+		<td>153</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -542,6 +542,20 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>32</td>
 		<td>
+			<a href="https://github.com/tlb-lemrabott">
+				<img src="https://avatars.githubusercontent.com/u/42483583?s=72&v=4" width="24" alt="Avatar of tlb-lemrabott"> tlb-lemrabott
+			</a><br/>
+			Lemrabott
+		</td>
+		<td>@mauribit  </td>
+		<td>No Twitter Username</td>
+		<td>Mauritania</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td>
 			<a href="https://github.com/49766954bogher">
 				<img src="https://avatars.githubusercontent.com/u/99352959?s=72&u=e89b455f050a22e7b829a9d0a52015065e96e20e&v=4" width="24" alt="Avatar of 49766954bogher"> 49766954bogher
 			</a><br/>
@@ -554,7 +568,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/Mohamed207470">
 				<img src="https://avatars.githubusercontent.com/u/62296079?s=72&u=19f7022b5e6ce620aa872e6c149f53fc29e75353&v=4" width="24" alt="Avatar of Mohamed207470"> Mohamed207470
@@ -568,7 +582,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/hkairi">
 				<img src="https://avatars.githubusercontent.com/u/28127?s=72&v=4" width="24" alt="Avatar of hkairi"> hkairi
@@ -582,7 +596,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/lasbaye">
 				<img src="https://avatars.githubusercontent.com/u/101957838?s=72&v=4" width="24" alt="Avatar of lasbaye"> lasbaye
@@ -596,7 +610,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/DjibrilFaal">
 				<img src="https://avatars.githubusercontent.com/u/91095981?s=72&u=d27950ac48015283185eb47e1800baee4240d8f4&v=4" width="24" alt="Avatar of DjibrilFaal"> DjibrilFaal
@@ -610,7 +624,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/Th3-attacker">
 				<img src="https://avatars.githubusercontent.com/u/47328817?s=72&u=1de556bde3f969610d5e17427caeac3e563e5d95&v=4" width="24" alt="Avatar of Th3-attacker"> Th3-attacker
@@ -624,7 +638,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/Anthrophantasmus">
 				<img src="https://avatars.githubusercontent.com/u/108040205?s=72&u=2b56ecd9774aed3714c4f2562ffebcbeab9dfa15&v=4" width="24" alt="Avatar of Anthrophantasmus"> Anthrophantasmus
@@ -638,7 +652,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/hamoud-Hmd">
 				<img src="https://avatars.githubusercontent.com/u/40148046?s=72&u=48e0b9aa6c540e0a1f4ac59a1b15a444e2c28fa0&v=4" width="24" alt="Avatar of hamoud-Hmd"> hamoud-Hmd
@@ -652,7 +666,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/aziz0x00">
 				<img src="https://avatars.githubusercontent.com/u/42474471?s=72&u=13df586815f5669472c5eec9e42335723ef79e28&v=4" width="24" alt="Avatar of aziz0x00"> aziz0x00
@@ -666,7 +680,7 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/acymchs">
 				<img src="https://avatars.githubusercontent.com/u/44748387?s=72&v=4" width="24" alt="Avatar of acymchs"> acymchs
@@ -676,20 +690,6 @@ There are `152 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott-Mauritania</td>
-		<td>11</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/tlb-lemrabott">
-				<img src="https://avatars.githubusercontent.com/u/42483583?s=72&v=4" width="24" alt="Avatar of tlb-lemrabott"> tlb-lemrabott
-			</a><br/>
-			Lemrabott
-		</td>
-		<td>@mauribit  </td>
-		<td>No Twitter Username</td>
-		<td>Mauritania</td>
 		<td>11</td>
 		<td>11</td>
 	</tr>
