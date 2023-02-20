@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/2/19 1:35 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/2/20 7:08 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -159,19 +159,6 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>5</td>
 		<td>
-			<a href="https://github.com/zepekenhio">
-				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
-			</a><br/>
-			Moukhtar Ben Ali
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>N'Djamena Tchad</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
 			<a href="https://github.com/djimrangarleita">
 				<img src="https://avatars.githubusercontent.com/u/33844006?s=72&u=c8773a713aed344a16feb8d63c80a73cb16e09fe&v=4" width="24" alt="Avatar of djimrangarleita"> djimrangarleita
 			</a><br/>
@@ -181,6 +168,19 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/DrNgarleita">DrNgarleita</a></td>
 		<td>Chad</td>
 		<td>90</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/zepekenhio">
+				<img src="https://avatars.githubusercontent.com/u/22952258?s=72&u=70d666c4695ce0aa6fb12889b37b771f732b0ec6&v=4" width="24" alt="Avatar of zepekenhio"> zepekenhio
+			</a><br/>
+			Moukhtar Ben Ali
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>N'Djamena Tchad</td>
+		<td>88</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -237,19 +237,6 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/eissaweb">
-				<img src="https://avatars.githubusercontent.com/u/50566718?s=72&u=23ba1896b72c544d68b42c019bca4494ca72e9af&v=4" width="24" alt="Avatar of eissaweb"> eissaweb
-			</a><br/>
-			Esa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/eissaweb">eissaweb</a></td>
-		<td>N'djamena</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/HamzaHassaneHisseine">
 				<img src="https://avatars.githubusercontent.com/u/121188616?s=72&u=7bac9dbb676dead18278944d48077690fba84ec8&v=4" width="24" alt="Avatar of HamzaHassaneHisseine"> HamzaHassaneHisseine
 			</a><br/>
@@ -261,7 +248,7 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>12</td>
 		<td>
 			<a href="https://github.com/Korom10">
 				<img src="https://avatars.githubusercontent.com/u/27283962?s=72&u=75e16ae540d538b576c743b2a131c221e1bb1a27&v=4" width="24" alt="Avatar of Korom10"> Korom10
@@ -271,10 +258,10 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Wenaklabs </td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena-Tchad</td>
-		<td>25</td>
+		<td>22</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/Jesuis2222">
 				<img src="https://avatars.githubusercontent.com/u/91439366?s=72&u=7de03306379123d7c53d31f700c017802437e68a&v=4" width="24" alt="Avatar of Jesuis2222"> Jesuis2222
@@ -287,7 +274,7 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/Mbaigo">
 				<img src="https://avatars.githubusercontent.com/u/16645019?s=72&u=8e64fd76694f461a8ec6bde1b9a9ce658a3058fd&v=4" width="24" alt="Avatar of Mbaigo"> Mbaigo
@@ -300,7 +287,7 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/fredifils">
 				<img src="https://avatars.githubusercontent.com/u/93598239?s=72&v=4" width="24" alt="Avatar of fredifils"> fredifils
@@ -311,6 +298,19 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>N'djamena</td>
 		<td>18</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td>
+			<a href="https://github.com/eissaweb">
+				<img src="https://avatars.githubusercontent.com/u/50566718?s=72&u=23ba1896b72c544d68b42c019bca4494ca72e9af&v=4" width="24" alt="Avatar of eissaweb"> eissaweb
+			</a><br/>
+			Esa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eissaweb">eissaweb</a></td>
+		<td>N'djamena</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -458,19 +458,6 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/s20154">
-				<img src="https://avatars.githubusercontent.com/u/56227329?s=72&u=1d62187a1bb2e49fa7a78e866a8a7f32e894d3b0&v=4" width="24" alt="Avatar of s20154"> s20154
-			</a><br/>
-			CHAD
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>N'Djamena</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/issahassan5555">
 				<img src="https://avatars.githubusercontent.com/u/109672163?s=72&v=4" width="24" alt="Avatar of issahassan5555"> issahassan5555
 			</a><br/>
@@ -479,6 +466,19 @@ There are `112 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>الكيمياء - التطبيقية والصناعية<br/></td>
 		<td><a href="https://twitter.com/EsaMohammedHas1">EsaMohammedHas1</a></td>
 		<td>Chad</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/s20154">
+				<img src="https://avatars.githubusercontent.com/u/56227329?s=72&u=1d62187a1bb2e49fa7a78e866a8a7f32e894d3b0&v=4" width="24" alt="Avatar of s20154"> s20154
+			</a><br/>
+			CHAD
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>N'Djamena</td>
 		<td>3</td>
 	</tr>
 	<tr>
