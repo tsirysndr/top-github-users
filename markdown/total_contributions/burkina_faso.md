@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` and `private contributions` by users in Burkina Faso on `2023/2/21 12:40 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` and `private contributions` by users in Burkina Faso on `2023/2/21 6:33 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -173,7 +173,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, Burkina FASO</td>
 		<td>20</td>
-		<td>885</td>
+		<td>890</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
 		<td>321</td>
-		<td>743</td>
+		<td>746</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>BURKINAFASO/OUAGADOUGOU</td>
 		<td>61</td>
-		<td>559</td>
+		<td>568</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,7 +215,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
 		<td>123</td>
-		<td>544</td>
+		<td>545</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -486,20 +486,6 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>28</td>
 		<td>
-			<a href="https://github.com/paulido">
-				<img src="https://avatars.githubusercontent.com/u/51095683?s=72&u=cd2b01393501853dbaa12865844b5201ef8d9d70&v=4" width="24" alt="Avatar of paulido"> paulido
-			</a><br/>
-			Paul IDO
-		</td>
-		<td>Ujkz </td>
-		<td><a href="https://twitter.com/paulido">paulido</a></td>
-		<td>Ouagadougou</td>
-		<td>51</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a href="https://github.com/Tiama01">
 				<img src="https://avatars.githubusercontent.com/u/82291439?s=72&u=b763995cb0a74e05ee44a3fe3eb3895180b9c812&v=4" width="24" alt="Avatar of Tiama01"> Tiama01
 			</a><br/>
@@ -512,7 +498,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/Arthur-geek">
 				<img src="https://avatars.githubusercontent.com/u/80927775?s=72&u=3295e2e3934ddf6389cf50fc19b61a7dc4672503&v=4" width="24" alt="Avatar of Arthur-geek"> Arthur-geek
@@ -526,7 +512,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/waongoaziz">
 				<img src="https://avatars.githubusercontent.com/u/43924610?s=72&u=06931f7ee8f10bf166e5ce884d9a316125b14437&v=4" width="24" alt="Avatar of waongoaziz"> waongoaziz
@@ -540,7 +526,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/mkient">
 				<img src="https://avatars.githubusercontent.com/u/68474248?s=72&u=48c774ce3a6f8deb20ce19b3b2a4d21858020e71&v=4" width="24" alt="Avatar of mkient"> mkient
@@ -554,7 +540,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/ohamjoseph">
 				<img src="https://avatars.githubusercontent.com/u/36037819?s=72&u=fd7ab5179dcba2de4e6f0d9382e3953efebbd8d3&v=4" width="24" alt="Avatar of ohamjoseph"> ohamjoseph
@@ -568,7 +554,7 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/Nkm13">
 				<img src="https://avatars.githubusercontent.com/u/99247591?s=72&v=4" width="24" alt="Avatar of Nkm13"> Nkm13
@@ -580,6 +566,20 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Ouagadougou-BF</td>
 		<td>36</td>
 		<td>36</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
+			<a href="https://github.com/pombe">
+				<img src="https://avatars.githubusercontent.com/u/32185816?s=72&u=6351e85fb1ee3e4f390ce0d1332e82c4c14df247&v=4" width="24" alt="Avatar of pombe"> pombe
+			</a><br/>
+			Pombe Weakbo Bopan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou, Burkina Faso</td>
+		<td>33</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -1886,20 +1886,6 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>128</td>
 		<td>
-			<a href="https://github.com/Leoakoba">
-				<img src="https://avatars.githubusercontent.com/u/117765177?s=72&u=23a9614fe52aa11dacf262b1f800bd8d2d3d7c56&v=4" width="24" alt="Avatar of Leoakoba"> Leoakoba
-			</a><br/>
-			Leo_akb
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AkobaLeo">AkobaLeo</a></td>
-		<td>Ouagadougou </td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
 			<a href="https://github.com/SANKMONEY">
 				<img src="https://avatars.githubusercontent.com/u/121520700?s=72&u=b206e1dde5dd13cde70b04b63e6699baea7904b5&v=4" width="24" alt="Avatar of SANKMONEY"> SANKMONEY
 			</a><br/>
@@ -1908,6 +1894,20 @@ There are `250 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Sankpay.com </td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, Burkina Faso</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
+			<a href="https://github.com/Leoakoba">
+				<img src="https://avatars.githubusercontent.com/u/117765177?s=72&u=23a9614fe52aa11dacf262b1f800bd8d2d3d7c56&v=4" width="24" alt="Avatar of Leoakoba"> Leoakoba
+			</a><br/>
+			Leo_akb
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AkobaLeo">AkobaLeo</a></td>
+		<td>Ouagadougou </td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
