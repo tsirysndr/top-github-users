@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `number of followers` of users in Burkina Faso on `2023/2/24 11:51 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2023/2/25 6:10 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `251 users`  in Burkina Faso. You need at least `0 followers` to be on this list.
+There are `252 users`  in Burkina Faso. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -991,19 +991,6 @@ There are `251 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>69</td>
 		<td>
-			<a href="https://github.com/Arthur-geek">
-				<img src="https://avatars.githubusercontent.com/u/80927775?s=72&u=3295e2e3934ddf6389cf50fc19b61a7dc4672503&v=4" width="24" alt="Avatar of Arthur-geek"> Arthur-geek
-			</a><br/>
-			black_spider
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Koudougou</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>
 			<a href="https://github.com/Sawadogoxxx">
 				<img src="https://avatars.githubusercontent.com/u/102871528?s=72&u=e5637b3158f14e5c59b346bfe684cab31e34935a&v=4" width="24" alt="Avatar of Sawadogoxxx"> Sawadogoxxx
 			</a><br/>
@@ -1012,6 +999,19 @@ There are `251 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou Burkina-Faso</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/Arthur-geek">
+				<img src="https://avatars.githubusercontent.com/u/80927775?s=72&u=3295e2e3934ddf6389cf50fc19b61a7dc4672503&v=4" width="24" alt="Avatar of Arthur-geek"> Arthur-geek
+			</a><br/>
+			black_spider
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Koudougou</td>
 		<td>1</td>
 	</tr>
 	<tr>
