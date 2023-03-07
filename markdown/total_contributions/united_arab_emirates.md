@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/3/7 12:06 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/3/7 6:41 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `40 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>11</td>
-		<td>77</td>
+		<td>78</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -248,6 +248,20 @@ There are `40 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>11</td>
 		<td>
+			<a href="https://github.com/HCGT">
+				<img src="https://avatars.githubusercontent.com/u/113763264?s=72&u=a46d5e70e989a488aa9d0b55358dd511d0b1b7b4&v=4" width="24" alt="Avatar of HCGT"> HCGT
+			</a><br/>
+			Health Choice General Trading
+		</td>
+		<td>Health Choice General Trading<br/></td>
+		<td>No Twitter Username</td>
+		<td>AL QUSAIS 5 - WAREHOUSE 1 Dubai, UAE</td>
+		<td>4</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
 			<a href="https://github.com/m-yousuff">
 				<img src="https://avatars.githubusercontent.com/u/109786248?s=72&u=f1470fd372619e37f9ecaa46aa9c03e068602ae1&v=4" width="24" alt="Avatar of m-yousuff"> m-yousuff
 			</a><br/>
@@ -260,7 +274,7 @@ There are `40 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/MuhammadYousufOMA">
 				<img src="https://avatars.githubusercontent.com/u/114984926?s=72&u=ae63a8f1a168f529cf1cacbc82410b46d487ccd3&v=4" width="24" alt="Avatar of MuhammadYousufOMA"> MuhammadYousufOMA
@@ -274,7 +288,7 @@ There are `40 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/Layanasia">
 				<img src="https://avatars.githubusercontent.com/u/120124514?s=72&v=4" width="24" alt="Avatar of Layanasia"> Layanasia
@@ -288,7 +302,7 @@ There are `40 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/Bunnyangel789">
 				<img src="https://avatars.githubusercontent.com/u/124781445?s=72&v=4" width="24" alt="Avatar of Bunnyangel789"> Bunnyangel789
@@ -302,7 +316,7 @@ There are `40 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/scottwebarchitect">
 				<img src="https://avatars.githubusercontent.com/u/118509490?s=72&u=1d8fd48aa2941bee0293756ba0ea39826642183d&v=4" width="24" alt="Avatar of scottwebarchitect"> scottwebarchitect
@@ -316,7 +330,21 @@ There are `40 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
+		<td>
+			<a href="https://github.com/desersafari">
+				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
+			</a><br/>
+			Desert Safari UAE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sharjah, United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/desertsafardubai3185">
 				<img src="https://avatars.githubusercontent.com/u/120096922?s=72&v=4" width="24" alt="Avatar of desertsafardubai3185"> desertsafardubai3185
