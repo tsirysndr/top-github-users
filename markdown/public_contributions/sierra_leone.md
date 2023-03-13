@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `public contributions` by users in Sierra Leone on `2023/3/12 10:42 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `public contributions` by users in Sierra Leone on `2023/3/13 4:43 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -258,7 +258,7 @@ There are `220 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Co-founder, Nerdware It Services<br/>Sierra<br/>Leone<br/></td>
 		<td><a href="https://twitter.com/pythonnelson">pythonnelson</a></td>
 		<td>Freetown</td>
-		<td>127</td>
+		<td>128</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -458,6 +458,19 @@ There are `220 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>28</td>
 		<td>
+			<a href="https://github.com/francisguchie">
+				<img src="https://avatars.githubusercontent.com/u/22683654?s=72&u=c92be2e50d3e0fea33c110ba47f8e81f2d07f120&v=4" width="24" alt="Avatar of francisguchie"> francisguchie
+			</a><br/>
+			Guchie
+		</td>
+		<td>Https://guchietech.c </td>
+		<td><a href="https://twitter.com/FrancisGuchie">FrancisGuchie</a></td>
+		<td>Freetown</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
 			<a href="https://github.com/bayoh">
 				<img src="https://avatars.githubusercontent.com/u/12776314?s=72&u=ddc6c26d39553c5d217a79dc5e41de80cb591bca&v=4" width="24" alt="Avatar of bayoh"> bayoh
 			</a><br/>
@@ -469,7 +482,7 @@ There are `220 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/AugieJ123">
 				<img src="https://avatars.githubusercontent.com/u/53660338?s=72&u=87970b3cb49a42a61cf4ede700c559d9048ea614&v=4" width="24" alt="Avatar of AugieJ123"> AugieJ123
@@ -480,19 +493,6 @@ There are `220 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Freetown</td>
 		<td>25</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/francisguchie">
-				<img src="https://avatars.githubusercontent.com/u/22683654?s=72&u=c92be2e50d3e0fea33c110ba47f8e81f2d07f120&v=4" width="24" alt="Avatar of francisguchie"> francisguchie
-			</a><br/>
-			Guchie
-		</td>
-		<td>Https://guchietech.c </td>
-		<td><a href="https://twitter.com/FrancisGuchie">FrancisGuchie</a></td>
-		<td>Freetown</td>
-		<td>23</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -1316,19 +1316,6 @@ There are `220 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>94</td>
 		<td>
-			<a href="https://github.com/abuawwazbah">
-				<img src="https://avatars.githubusercontent.com/u/112315052?s=72&v=4" width="24" alt="Avatar of abuawwazbah"> abuawwazbah
-			</a><br/>
-			Abu Bakarr Awwaz Bah
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/abuawwazbahSL">abuawwazbahSL</a></td>
-		<td>Freetown, Sierra Leone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
 			<a href="https://github.com/Med-Jay">
 				<img src="https://avatars.githubusercontent.com/u/111161085?s=72&v=4" width="24" alt="Avatar of Med-Jay"> Med-Jay
 			</a><br/>
@@ -1336,6 +1323,19 @@ There are `220 users`  in Sierra Leone. You need at least `0 followers` to be on
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Freetown, Sierra Leone</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td>
+			<a href="https://github.com/abuawwazbah">
+				<img src="https://avatars.githubusercontent.com/u/112315052?s=72&v=4" width="24" alt="Avatar of abuawwazbah"> abuawwazbah
+			</a><br/>
+			Abu Bakarr Awwaz Bah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/abuawwazbahSL">abuawwazbahSL</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>1</td>
 	</tr>
