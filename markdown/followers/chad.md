@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/3/14 6:38 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/3/15 12:54 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -497,6 +497,19 @@ There are `113 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>31</td>
 		<td>
+			<a href="https://github.com/Rondouba">
+				<img src="https://avatars.githubusercontent.com/u/74913552?s=72&v=4" width="24" alt="Avatar of Rondouba"> Rondouba
+			</a><br/>
+			Rondouba M. Rochto
+		</td>
+		<td>Aldôlo  </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
 			<a href="https://github.com/fredifils">
 				<img src="https://avatars.githubusercontent.com/u/93598239?s=72&v=4" width="24" alt="Avatar of fredifils"> fredifils
 			</a><br/>
@@ -508,7 +521,7 @@ There are `113 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/UnleashedSonic">
 				<img src="https://avatars.githubusercontent.com/u/114705061?s=72&u=577020d3357137b5c95d03858e6b8edc47326b6b&v=4" width="24" alt="Avatar of UnleashedSonic"> UnleashedSonic
@@ -521,7 +534,7 @@ There are `113 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/gloire4">
 				<img src="https://avatars.githubusercontent.com/u/72476380?s=72&v=4" width="24" alt="Avatar of gloire4"> gloire4
@@ -529,19 +542,6 @@ There are `113 users`  in Chad. You need at least `0 followers` to be on this li
 			Gloire IV Alaina
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/Rondouba">
-				<img src="https://avatars.githubusercontent.com/u/74913552?s=72&v=4" width="24" alt="Avatar of Rondouba"> Rondouba
-			</a><br/>
-			Rondouba M. Rochto
-		</td>
-		<td>Aldôlo  </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>1</td>
