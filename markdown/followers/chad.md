@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/3/16 7:05 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/3/17 1:29 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -120,6 +120,19 @@ There are `113 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>2</td>
 		<td>
+			<a href="https://github.com/RedCarlos26">
+				<img src="https://avatars.githubusercontent.com/u/58893097?s=72&u=bf3aaefbc0b54fdcee2d68d5009853991aa067d9&v=4" width="24" alt="Avatar of RedCarlos26"> RedCarlos26
+			</a><br/>
+			RedCarlos
+		</td>
+		<td>Whiterun </td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
 			<a href="https://github.com/gitmhd">
 				<img src="https://avatars.githubusercontent.com/u/86744371?s=72&u=927957d9d9129b1c9b88f3a16dd346c20c768f61&v=4" width="24" alt="Avatar of gitmhd"> gitmhd
 			</a><br/>
@@ -129,19 +142,6 @@ There are `113 users`  in Chad. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/gitmhd">gitmhd</a></td>
 		<td>N'Djamena</td>
 		<td>13</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>
-			<a href="https://github.com/RedCarlos26">
-				<img src="https://avatars.githubusercontent.com/u/58893097?s=72&u=bf3aaefbc0b54fdcee2d68d5009853991aa067d9&v=4" width="24" alt="Avatar of RedCarlos26"> RedCarlos26
-			</a><br/>
-			RedCarlos
-		</td>
-		<td>Whiterun </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>12</td>
 	</tr>
 	<tr>
 		<td>4</td>
