@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2023/3/16 1:56 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2023/3/17 8:04 AM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `349 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AllassaneDicko0">AllassaneDicko0</a></td>
 		<td>Mali</td>
-		<td>41</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -809,19 +809,6 @@ There are `349 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/zoualmamy">
-				<img src="https://avatars.githubusercontent.com/u/46712111?s=72&u=e5da728de36e3d6fdf8187c9efff8a3c3b7bc5e3&v=4" width="24" alt="Avatar of zoualmamy"> zoualmamy
-			</a><br/>
-			Zoumana Almamy Coulibaly
-		</td>
-		<td>@loga-engineering  </td>
-		<td>No Twitter Username</td>
-		<td>Bamako / Mali</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/stidiovip">
 				<img src="https://avatars.githubusercontent.com/u/15898644?s=72&u=a89f40ef578e17851a90f7b960aa6cdd0a174076&v=4" width="24" alt="Avatar of stidiovip"> stidiovip
 			</a><br/>
@@ -830,6 +817,19 @@ There are `349 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/zoualmamy">
+				<img src="https://avatars.githubusercontent.com/u/46712111?s=72&u=e5da728de36e3d6fdf8187c9efff8a3c3b7bc5e3&v=4" width="24" alt="Avatar of zoualmamy"> zoualmamy
+			</a><br/>
+			Zoumana Almamy Coulibaly
+		</td>
+		<td>@loga-engineering  </td>
+		<td>No Twitter Username</td>
+		<td>Bamako / Mali</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1225,19 +1225,6 @@ There are `349 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>87</td>
 		<td>
-			<a href="https://github.com/lylabdata">
-				<img src="https://avatars.githubusercontent.com/u/71497228?s=72&u=44725125c46dd84d26ec3d1a0eaf6ecded0bf9e1&v=4" width="24" alt="Avatar of lylabdata"> lylabdata
-			</a><br/>
-			LyLab Data
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Toronto / Bamako</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>
 			<a href="https://github.com/dehsy">
 				<img src="https://avatars.githubusercontent.com/u/55856923?s=72&v=4" width="24" alt="Avatar of dehsy"> dehsy
 			</a><br/>
@@ -1246,6 +1233,19 @@ There are `349 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Sualasoft </td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td>
+			<a href="https://github.com/lylabdata">
+				<img src="https://avatars.githubusercontent.com/u/71497228?s=72&u=44725125c46dd84d26ec3d1a0eaf6ecded0bf9e1&v=4" width="24" alt="Avatar of lylabdata"> lylabdata
+			</a><br/>
+			LyLab Data
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Toronto / Bamako</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1343,7 +1343,7 @@ There are `349 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>96</td>
 		<td>
 			<a href="https://github.com/KouraMouhissin">
-				<img src="https://avatars.githubusercontent.com/u/44409402?s=72&u=23910e7f940764b5d7f46d2e50320c08be69d6a8&v=4" width="24" alt="Avatar of KouraMouhissin"> KouraMouhissin
+				<img src="https://avatars.githubusercontent.com/u/44409402?s=72&u=3e5565838d61a2aef6cab1e0b6950d12d849f5ac&v=4" width="24" alt="Avatar of KouraMouhissin"> KouraMouhissin
 			</a><br/>
 			KouraMouhissin
 		</td>
