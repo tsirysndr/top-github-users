@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2023/3/17 12:13 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2023/3/18 6:09 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `101 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Alma Mater Studiorum -<br/>University<br/>Of<br/>Bologna<br/></td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>824</td>
+		<td>832</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -167,7 +167,7 @@ There are `101 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
-		<td>98</td>
+		<td>100</td>
 	</tr>
 	<tr>
 		<td>6</td>
