@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/3/20 6:31 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/3/21 12:41 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -500,20 +500,6 @@ There are `114 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>29</td>
 		<td>
-			<a href="https://github.com/issahassan5555">
-				<img src="https://avatars.githubusercontent.com/u/109672163?s=72&v=4" width="24" alt="Avatar of issahassan5555"> issahassan5555
-			</a><br/>
-			ISSA MAHAMAT HASSAN
-		</td>
-		<td>الكيمياء - التطبيقية والصناعية<br/></td>
-		<td><a href="https://twitter.com/EsaMohammedHas1">EsaMohammedHas1</a></td>
-		<td>Chad</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
 			<a href="https://github.com/s20154">
 				<img src="https://avatars.githubusercontent.com/u/56227329?s=72&u=1d62187a1bb2e49fa7a78e866a8a7f32e894d3b0&v=4" width="24" alt="Avatar of s20154"> s20154
 			</a><br/>
@@ -522,6 +508,20 @@ There are `114 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/issahassan5555">
+				<img src="https://avatars.githubusercontent.com/u/109672163?s=72&v=4" width="24" alt="Avatar of issahassan5555"> issahassan5555
+			</a><br/>
+			ISSA MAHAMAT HASSAN
+		</td>
+		<td>الكيمياء - التطبيقية والصناعية<br/></td>
+		<td><a href="https://twitter.com/EsaMohammedHas1">EsaMohammedHas1</a></td>
+		<td>Chad</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
