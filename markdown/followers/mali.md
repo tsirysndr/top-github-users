@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2023/3/24 8:18 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2023/3/25 1:45 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -271,7 +271,7 @@ There are `350 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>4hours </td>
 		<td><a href="https://twitter.com/4hours01">4hours01</a></td>
 		<td>Mali</td>
-		<td>14</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -1623,6 +1623,19 @@ There are `350 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Orange Mali </td>
 		<td><a href="https://twitter.com/ladji103">ladji103</a></td>
 		<td>Bamako/MALI</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
+			<a href="https://github.com/idykamara">
+				<img src="https://avatars.githubusercontent.com/u/11133946?s=72&u=2035650b69b1034b1742e30a9192fef46b88bf9a&v=4" width="24" alt="Avatar of idykamara"> idykamara
+			</a><br/>
+			Idrissa KAMARA
+		</td>
+		<td>Icomputing-mali </td>
+		<td>No Twitter Username</td>
+		<td>Bamako- Kalaban Coura ACI</td>
 		<td>1</td>
 	</tr>
 </table>
