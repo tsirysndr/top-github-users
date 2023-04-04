@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" alt="Burundi">
 </a>
 
-The `public contributions` by users in Burundi on `2023/4/3 8:25 AM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
+The `public contributions` by users in Burundi on `2023/4/4 8:04 AM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `338 users`  in Burundi. You need at least `0 followers` to be on this list.
+There are `339 users`  in Burundi. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Microverse </td>
 		<td><a href="https://twitter.com/joffreynk">joffreynk</a></td>
 		<td>Bujumbura-BURUNDI</td>
-		<td>1894</td>
+		<td>1901</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Microverse </td>
 		<td><a href="https://twitter.com/ChrispaixK">ChrispaixK</a></td>
 		<td>Bujumbura Burundi</td>
-		<td>1148</td>
+		<td>1156</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Microverse </td>
 		<td><a href="https://twitter.com/hakichris2">hakichris2</a></td>
 		<td>Burundi </td>
-		<td>1017</td>
+		<td>1019</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -284,7 +284,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Dreaftware </td>
 		<td>No Twitter Username</td>
 		<td>Bujumbura, Burundi</td>
-		<td>410</td>
+		<td>412</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -367,19 +367,6 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/urbain32">
-				<img src="https://avatars.githubusercontent.com/u/92609670?s=72&u=c84b4f43b6327a8b835c353e0aac8b696c4aa7b1&v=4" width="24" alt="Avatar of urbain32"> urbain32
-			</a><br/>
-			Urbain
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Urbainq32Urban">Urbainq32Urban</a></td>
-		<td>Burundi, Bujumbura</td>
-		<td>285</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
 			<a href="https://github.com/Ambaza-Marcelo">
 				<img src="https://avatars.githubusercontent.com/u/84043779?s=72&u=abb1939299aadda3c6dbd0e504192140ca7a5173&v=4" width="24" alt="Avatar of Ambaza-Marcelo"> Ambaza-Marcelo
 			</a><br/>
@@ -391,7 +378,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/ricaNga">
 				<img src="https://avatars.githubusercontent.com/u/27896099?s=72&u=238c5522e5b292a9f1214a6fd59a55f1f0d5f89b&v=4" width="24" alt="Avatar of ricaNga"> ricaNga
@@ -404,7 +391,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/dieudonnecostes">
 				<img src="https://avatars.githubusercontent.com/u/77072137?s=72&u=b33b22032a143bbe8fce0f4e6b5bbc9106c270fc&v=4" width="24" alt="Avatar of dieudonnecostes"> dieudonnecostes
@@ -414,10 +401,10 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Donexa </td>
 		<td>No Twitter Username</td>
 		<td>Bujumbura-Burundi</td>
-		<td>253</td>
+		<td>256</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/Desire1990">
 				<img src="https://avatars.githubusercontent.com/u/55079306?s=72&v=4" width="24" alt="Avatar of Desire1990"> Desire1990
@@ -428,6 +415,19 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Burundi</td>
 		<td>233</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/miguelandy875">
+				<img src="https://avatars.githubusercontent.com/u/102045298?s=72&u=d95f0b9c4f70ca54cad200d0246c73c660c1ef41&v=4" width="24" alt="Avatar of miguelandy875"> miguelandy875
+			</a><br/>
+			Habyarimana Andy Miguel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AndyHabyarimana">AndyHabyarimana</a></td>
+		<td>Gitega, Burundi </td>
+		<td>226</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -453,7 +453,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Igebu </td>
 		<td><a href="https://twitter.com/Fulgencenahi1">Fulgencenahi1</a></td>
 		<td>BURUNDI</td>
-		<td>173</td>
+		<td>174</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -484,19 +484,6 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/CyberShriver">
-				<img src="https://avatars.githubusercontent.com/u/72014378?s=72&u=ecd7a32f85ee484a0d836808342aa1ea207c06b3&v=4" width="24" alt="Avatar of CyberShriver"> CyberShriver
-			</a><br/>
-			Shriver@cyber
-		</td>
-		<td>Dukore Tech </td>
-		<td><a href="https://twitter.com/shriverirz">shriverirz</a></td>
-		<td>Bujumbura</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
 			<a href="https://github.com/TedJoyeux">
 				<img src="https://avatars.githubusercontent.com/u/94108102?s=72&u=721f2161d6824de626c28c77d300cf35c260d90b&v=4" width="24" alt="Avatar of TedJoyeux"> TedJoyeux
 			</a><br/>
@@ -508,7 +495,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/Ber30M">
 				<img src="https://avatars.githubusercontent.com/u/107386883?s=72&u=582250483396ebfeaccf44a2c1e3dd8e230dc8e8&v=4" width="24" alt="Avatar of Ber30M"> Ber30M
@@ -521,7 +508,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/jules257">
 				<img src="https://avatars.githubusercontent.com/u/94232210?s=72&u=a8b6c91fde9bbab812bbd0cd068b787cfe4b55a0&v=4" width="24" alt="Avatar of jules257"> jules257
@@ -534,7 +521,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/Herve2iko">
 				<img src="https://avatars.githubusercontent.com/u/70760278?s=72&u=8fbfd17709afa718d7068a80dbb2a9e7cf53d232&v=4" width="24" alt="Avatar of Herve2iko"> Herve2iko
@@ -547,7 +534,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/jakin6">
 				<img src="https://avatars.githubusercontent.com/u/70150840?s=72&v=4" width="24" alt="Avatar of jakin6"> jakin6
@@ -560,7 +547,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/Guy-Gustave">
 				<img src="https://avatars.githubusercontent.com/u/56753805?s=72&u=b4caea2377eb28f34e7cbd40d88cd56dd7b55837&v=4" width="24" alt="Avatar of Guy-Gustave"> Guy-Gustave
@@ -573,7 +560,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/sopranoelfuego">
 				<img src="https://avatars.githubusercontent.com/u/57959419?s=72&u=095966c787900ac8b1b3ec61f67b9cdc50a7d791&v=4" width="24" alt="Avatar of sopranoelfuego"> sopranoelfuego
@@ -586,7 +573,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/EmmaKbl">
 				<img src="https://avatars.githubusercontent.com/u/100047205?s=72&u=53e6e73823ab1793c1499c2e8dcaccc45ed89b62&v=4" width="24" alt="Avatar of EmmaKbl"> EmmaKbl
@@ -599,7 +586,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/Blaise28">
 				<img src="https://avatars.githubusercontent.com/u/97025521?s=72&u=67976f8444c87ae6a60b2319dd4c251ce9190122&v=4" width="24" alt="Avatar of Blaise28"> Blaise28
@@ -612,7 +599,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/jamesamuli">
 				<img src="https://avatars.githubusercontent.com/u/69802629?s=72&u=73d2dd101c2513655ee337cea1c1fce249dc6ea5&v=4" width="24" alt="Avatar of jamesamuli"> jamesamuli
@@ -625,7 +612,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/ahmadwarren">
 				<img src="https://avatars.githubusercontent.com/u/98389879?s=72&u=02a9a576c3de8c206437f1eb2880d009e5267603&v=4" width="24" alt="Avatar of ahmadwarren"> ahmadwarren
@@ -638,7 +625,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/muco-rolle">
 				<img src="https://avatars.githubusercontent.com/u/43722815?s=72&u=c4860a6fce415febfe459b5385908039a7a59c9f&v=4" width="24" alt="Avatar of muco-rolle"> muco-rolle
@@ -651,7 +638,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/redMulla">
 				<img src="https://avatars.githubusercontent.com/u/80474779?s=72&u=7b174b6b88db861cc1ba086444eb5af9d14b3d64&v=4" width="24" alt="Avatar of redMulla"> redMulla
@@ -664,7 +651,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/abrahamuller">
 				<img src="https://avatars.githubusercontent.com/u/97728660?s=72&u=46458da16d8ed08774004edb085965723c8c456e&v=4" width="24" alt="Avatar of abrahamuller"> abrahamuller
@@ -677,7 +664,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/liberatricebaizer">
 				<img src="https://avatars.githubusercontent.com/u/92096502?s=72&u=abd5c74cfe5419cf032086bd1de9c324fe319461&v=4" width="24" alt="Avatar of liberatricebaizer"> liberatricebaizer
@@ -690,7 +677,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/IGICOCORO">
 				<img src="https://avatars.githubusercontent.com/u/60754019?s=72&v=4" width="24" alt="Avatar of IGICOCORO"> IGICOCORO
@@ -703,7 +690,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/DANY-DURAND">
 				<img src="https://avatars.githubusercontent.com/u/63962014?s=72&u=39c6233b8e0bf67d9eb75574b90661c1931487e0&v=4" width="24" alt="Avatar of DANY-DURAND"> DANY-DURAND
@@ -716,6 +703,19 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
+		<td>47</td>
+		<td>
+			<a href="https://github.com/Wilfrid-Web-Pro">
+				<img src="https://avatars.githubusercontent.com/u/84922003?s=72&u=56351755e8365825f98aac5ede9e507780d3cbcd&v=4" width="24" alt="Avatar of Wilfrid-Web-Pro"> Wilfrid-Web-Pro
+			</a><br/>
+			No Name
+		</td>
+		<td>Kwisite </td>
+		<td>No Twitter Username</td>
+		<td>Gitega Burundi</td>
+		<td>77</td>
+	</tr>
+	<tr>
 		<td>48</td>
 		<td>
 			<a href="https://github.com/DanAtibu">
@@ -726,7 +726,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Donexa </td>
 		<td><a href="https://twitter.com/DanAtibu">DanAtibu</a></td>
 		<td>Burundi-Bujumbura</td>
-		<td>71</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -921,7 +921,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Own </td>
 		<td><a href="https://twitter.com/semushahu">semushahu</a></td>
 		<td>Burundi</td>
-		<td>41</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -978,6 +978,19 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>68</td>
 		<td>
+			<a href="https://github.com/nishalbruce">
+				<img src="https://avatars.githubusercontent.com/u/84176806?s=72&u=bb4d9b5c599be3277945e85acfde098c4ad440d3&v=4" width="24" alt="Avatar of nishalbruce"> nishalbruce
+			</a><br/>
+			Alain Bruce Nishimwe
+		</td>
+		<td>Kemura </td>
+		<td><a href="https://twitter.com/nishalbruce">nishalbruce</a></td>
+		<td>Bujumbura, Burundi</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
 			<a href="https://github.com/farajampenda">
 				<img src="https://avatars.githubusercontent.com/u/85098930?s=72&u=52ebd640a254a45d20a6284c14ce62c8d6a1fd84&v=4" width="24" alt="Avatar of farajampenda"> farajampenda
 			</a><br/>
@@ -987,19 +1000,6 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/farajampenda">farajampenda</a></td>
 		<td>bujumbura</td>
 		<td>36</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/nishalbruce">
-				<img src="https://avatars.githubusercontent.com/u/84176806?s=72&u=bb4d9b5c599be3277945e85acfde098c4ad440d3&v=4" width="24" alt="Avatar of nishalbruce"> nishalbruce
-			</a><br/>
-			Alain Bruce Nishimwe
-		</td>
-		<td>Kemura </td>
-		<td><a href="https://twitter.com/nishalbruce">nishalbruce</a></td>
-		<td>Bujumbura, Burundi</td>
-		<td>35</td>
 	</tr>
 	<tr>
 		<td>70</td>
@@ -1108,6 +1108,19 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>78</td>
 		<td>
+			<a href="https://github.com/munyeshaka">
+				<img src="https://avatars.githubusercontent.com/u/68729602?s=72&u=10bbde51c2cd03ccc35c538eeace029a3fb6712a&v=4" width="24" alt="Avatar of munyeshaka"> munyeshaka
+			</a><br/>
+			Aimable Munyeshaka
+		</td>
+		<td>Egeratech </td>
+		<td><a href="https://twitter.com/AMunyeshaka">AMunyeshaka</a></td>
+		<td>Bujumbura </td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
 			<a href="https://github.com/Janeirohurley">
 				<img src="https://avatars.githubusercontent.com/u/93239335?s=72&v=4" width="24" alt="Avatar of Janeirohurley"> Janeirohurley
 			</a><br/>
@@ -1117,19 +1130,6 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/janeirohurley">janeirohurley</a></td>
 		<td>Burundi</td>
 		<td>28</td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>
-			<a href="https://github.com/munyeshaka">
-				<img src="https://avatars.githubusercontent.com/u/68729602?s=72&u=10bbde51c2cd03ccc35c538eeace029a3fb6712a&v=4" width="24" alt="Avatar of munyeshaka"> munyeshaka
-			</a><br/>
-			Aimable Munyeshaka
-		</td>
-		<td>Egeratech </td>
-		<td><a href="https://twitter.com/AMunyeshaka">AMunyeshaka</a></td>
-		<td>Bujumbura </td>
-		<td>26</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1342,6 +1342,19 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>96</td>
 		<td>
+			<a href="https://github.com/Kirogodye">
+				<img src="https://avatars.githubusercontent.com/u/86606133?s=72&u=ae35bbd331d223e404967628dab0c1190a342354&v=4" width="24" alt="Avatar of Kirogodye"> Kirogodye
+			</a><br/>
+			Kirogodye
+		</td>
+		<td>Coilbit </td>
+		<td><a href="https://twitter.com/kirogodye98">kirogodye98</a></td>
+		<td>Burundi</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td>
 			<a href="https://github.com/pierreclaverkoko">
 				<img src="https://avatars.githubusercontent.com/u/22777282?s=72&u=60f2edf355b506c0f26ceb3ca872fa2a05380024&v=4" width="24" alt="Avatar of pierreclaverkoko"> pierreclaverkoko
 			</a><br/>
@@ -1353,7 +1366,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/blasius">
 				<img src="https://avatars.githubusercontent.com/u/14139534?s=72&u=e8c65a30e7ddeca0a6a943828e717a0f97410fa4&v=4" width="24" alt="Avatar of blasius"> blasius
@@ -1366,7 +1379,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/ManirambonaAlainVeron">
 				<img src="https://avatars.githubusercontent.com/u/48788098?s=72&u=1c91b722a37bac86a5ff1c54d63c269ebf628ba9&v=4" width="24" alt="Avatar of ManirambonaAlainVeron"> ManirambonaAlainVeron
@@ -1379,7 +1392,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/jeremylanes">
 				<img src="https://avatars.githubusercontent.com/u/78323246?s=72&u=caac8ec88dd1bd135ed3fa591b6927da5dab2876&v=4" width="24" alt="Avatar of jeremylanes"> jeremylanes
@@ -1392,7 +1405,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/Claytoncreator">
 				<img src="https://avatars.githubusercontent.com/u/115535178?s=72&u=86ccedc6132fc106a83d66dff67d6c4180c34977&v=4" width="24" alt="Avatar of Claytoncreator"> Claytoncreator
@@ -1405,7 +1418,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/joenduwind">
 				<img src="https://avatars.githubusercontent.com/u/56625851?s=72&v=4" width="24" alt="Avatar of joenduwind"> joenduwind
@@ -1418,7 +1431,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/franck5555">
 				<img src="https://avatars.githubusercontent.com/u/69079885?s=72&v=4" width="24" alt="Avatar of franck5555"> franck5555
@@ -1428,19 +1441,6 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bujumbura Burundi</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/Kirogodye">
-				<img src="https://avatars.githubusercontent.com/u/86606133?s=72&u=ae35bbd331d223e404967628dab0c1190a342354&v=4" width="24" alt="Avatar of Kirogodye"> Kirogodye
-			</a><br/>
-			Kirogodye
-		</td>
-		<td>Coilbit </td>
-		<td><a href="https://twitter.com/kirogodye98">kirogodye98</a></td>
-		<td>Burundi</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -2499,6 +2499,19 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>185</td>
 		<td>
+			<a href="https://github.com/amazedarc">
+				<img src="https://avatars.githubusercontent.com/u/20023888?s=72&u=29a352b0d35526d37d581f4484677b3d546f94dd&v=4" width="24" alt="Avatar of amazedarc"> amazedarc
+			</a><br/>
+			Mazina Davy Arcel
+		</td>
+		<td>Socar Vie </td>
+		<td><a href="https://twitter.com/mazinadavy">mazinadavy</a></td>
+		<td>Burundi</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
 			<a href="https://github.com/korineza">
 				<img src="https://avatars.githubusercontent.com/u/50497937?s=72&v=4" width="24" alt="Avatar of korineza"> korineza
 			</a><br/>
@@ -2510,7 +2523,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/mfabricerwath">
 				<img src="https://avatars.githubusercontent.com/u/8184445?s=72&u=e4c83b8eec7d180067d40ca1d818283a9e7cc45d&v=4" width="24" alt="Avatar of mfabricerwath"> mfabricerwath
@@ -2523,7 +2536,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/christakabella">
 				<img src="https://avatars.githubusercontent.com/u/95900157?s=72&u=a4af84becd7a1f030e2e221dcca8db55e487c992&v=4" width="24" alt="Avatar of christakabella"> christakabella
@@ -2536,7 +2549,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/rad5001">
 				<img src="https://avatars.githubusercontent.com/u/82069620?s=72&u=37caf6d13e39ed42b6d9c0ba0be985d873d8b3ec&v=4" width="24" alt="Avatar of rad5001"> rad5001
@@ -2549,7 +2562,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/banks45">
 				<img src="https://avatars.githubusercontent.com/u/89229818?s=72&u=746d71776ebb9247e6cedc9d50bf02ea00660b48&v=4" width="24" alt="Avatar of banks45"> banks45
@@ -2562,7 +2575,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/Espoirlukusa">
 				<img src="https://avatars.githubusercontent.com/u/107486217?s=72&u=2e3794f4d6c62aa940384dfeb0de581e0ce1a5df&v=4" width="24" alt="Avatar of Espoirlukusa"> Espoirlukusa
@@ -2575,7 +2588,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/6778880">
 				<img src="https://avatars.githubusercontent.com/u/121446214?s=72&v=4" width="24" alt="Avatar of 6778880"> 6778880
@@ -2588,7 +2601,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/hilbaru">
 				<img src="https://avatars.githubusercontent.com/u/96518771?s=72&v=4" width="24" alt="Avatar of hilbaru"> hilbaru
@@ -2601,7 +2614,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/wawundinyene">
 				<img src="https://avatars.githubusercontent.com/u/115689586?s=72&v=4" width="24" alt="Avatar of wawundinyene"> wawundinyene
@@ -2614,7 +2627,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/HARUMUKIZA554">
 				<img src="https://avatars.githubusercontent.com/u/113941664?s=72&u=79bc8260105f14b9513359d87d4fdbe4e6511aea&v=4" width="24" alt="Avatar of HARUMUKIZA554"> HARUMUKIZA554
@@ -2627,7 +2640,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/KingEzechias">
 				<img src="https://avatars.githubusercontent.com/u/104070454?s=72&v=4" width="24" alt="Avatar of KingEzechias"> KingEzechias
@@ -2640,33 +2653,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>196</td>
-		<td>
-			<a href="https://github.com/alain-divin">
-				<img src="https://avatars.githubusercontent.com/u/112072902?s=72&u=dfc1250b06afb84e3ada67dbeb24ab764c8dde60&v=4" width="24" alt="Avatar of alain-divin"> alain-divin
-			</a><br/>
-			Dusabe Alain Divin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>burundi</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>197</td>
-		<td>
-			<a href="https://github.com/Elvir9495">
-				<img src="https://avatars.githubusercontent.com/u/69302639?s=72&u=214a6a2153757412ae2ddaf07659ac69c4ff01cd&v=4" width="24" alt="Avatar of Elvir9495"> Elvir9495
-			</a><br/>
-			Elvir Ninteretse
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bujumbura, Burundi</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>198</td>
 		<td>
 			<a href="https://github.com/BorisHkl">
 				<img src="https://avatars.githubusercontent.com/u/50394278?s=72&u=b7ebe7b8266bb4cef9965f6d98f8a602575520fe&v=4" width="24" alt="Avatar of BorisHkl"> BorisHkl
@@ -2679,7 +2666,33 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>198</td>
+		<td>
+			<a href="https://github.com/Elvir9495">
+				<img src="https://avatars.githubusercontent.com/u/69302639?s=72&u=214a6a2153757412ae2ddaf07659ac69c4ff01cd&v=4" width="24" alt="Avatar of Elvir9495"> Elvir9495
+			</a><br/>
+			Elvir Ninteretse
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bujumbura, Burundi</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>199</td>
+		<td>
+			<a href="https://github.com/alain-divin">
+				<img src="https://avatars.githubusercontent.com/u/112072902?s=72&u=dfc1250b06afb84e3ada67dbeb24ab764c8dde60&v=4" width="24" alt="Avatar of alain-divin"> alain-divin
+			</a><br/>
+			Dusabe Alain Divin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>burundi</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/emma7rolland">
 				<img src="https://avatars.githubusercontent.com/u/122823333?s=72&v=4" width="24" alt="Avatar of emma7rolland"> emma7rolland
@@ -2692,7 +2705,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/Inyishu">
 				<img src="https://avatars.githubusercontent.com/u/108145649?s=72&v=4" width="24" alt="Avatar of Inyishu"> Inyishu
@@ -2705,7 +2718,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/georgesamoskey">
 				<img src="https://avatars.githubusercontent.com/u/48823134?s=72&u=43389943fc612d34e985248f5f6f0457dcca5061&v=4" width="24" alt="Avatar of georgesamoskey"> georgesamoskey
@@ -2718,7 +2731,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/Rubn1">
 				<img src="https://avatars.githubusercontent.com/u/112703058?s=72&u=915de5be10454d9190b44da2b0f1b703ce9875cf&v=4" width="24" alt="Avatar of Rubn1"> Rubn1
@@ -2731,7 +2744,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/Mastermind257">
 				<img src="https://avatars.githubusercontent.com/u/103943004?s=72&u=06a8598a3a9362d9b047d6d9ee24ae4e3bcd138d&v=4" width="24" alt="Avatar of Mastermind257"> Mastermind257
@@ -2744,7 +2757,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/SkyNet-Burundi">
 				<img src="https://avatars.githubusercontent.com/u/74984190?s=72&u=d4f447e38d8d3c95ba72fb1aa46ff3e19922f099&v=4" width="24" alt="Avatar of SkyNet-Burundi"> SkyNet-Burundi
@@ -2757,7 +2770,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/Albertnshimi">
 				<img src="https://avatars.githubusercontent.com/u/99311306?s=72&v=4" width="24" alt="Avatar of Albertnshimi"> Albertnshimi
@@ -2770,7 +2783,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/digitechict">
 				<img src="https://avatars.githubusercontent.com/u/105541702?s=72&u=d6a2eb830bbc52b791aa9e54dd27584400265331&v=4" width="24" alt="Avatar of digitechict"> digitechict
@@ -2783,7 +2796,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/muhecashdev">
 				<img src="https://avatars.githubusercontent.com/u/122263826?s=72&u=d811a37d7ce8de11d8936d303b8b14fa6198eaa1&v=4" width="24" alt="Avatar of muhecashdev"> muhecashdev
@@ -2796,7 +2809,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/ALUMA-KITAMBALA">
 				<img src="https://avatars.githubusercontent.com/u/126701158?s=72&u=10f32bbe3c80b418eb77cc5bba7f5e407e978a95&v=4" width="24" alt="Avatar of ALUMA-KITAMBALA"> ALUMA-KITAMBALA
@@ -2809,7 +2822,7 @@ There are `338 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/Afriregister">
 				<img src="https://avatars.githubusercontent.com/u/129051042?s=72&u=993e6ddd6ae75ebc0017aeb8ce19369033859f23&v=4" width="24" alt="Avatar of Afriregister"> Afriregister
