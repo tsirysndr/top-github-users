@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" alt="Thailand">
 </a>
 
-The `number of followers` of users in Thailand on `2023/4/9 8:06 AM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
+The `number of followers` of users in Thailand on `2023/4/10 1:34 AM UTC`. This list contains users from `Thailand` and cities `Bangkok` `Chiang-mai` `Phuket` `Pattaya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
