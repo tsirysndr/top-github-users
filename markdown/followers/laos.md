@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2023/4/21 1:25 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2023/4/22 7:11 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -219,7 +219,7 @@ There are `397 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Data Transformation And Tech<br/></td>
 		<td><a href="https://twitter.com/Chan5591">Chan5591</a></td>
 		<td>Vientiane Capital, LAOS</td>
-		<td>13</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>10</td>
