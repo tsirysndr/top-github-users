@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `number of followers` of users in Burkina Faso on `2023/4/25 7:10 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2023/4/26 1:07 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `263 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Université Aube Nouvelle(new Dawn<br/>University)<br/></td>
 		<td><a href="https://twitter.com/HonoreKini">HonoreKini</a></td>
 		<td>Burkina Faso(Bobo-Dioulasso)</td>
-		<td>77</td>
+		<td>78</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -315,14 +315,14 @@ There are `263 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>17</td>
 		<td>
-			<a href="https://github.com/Masterchief-07">
-				<img src="https://avatars.githubusercontent.com/u/58861755?s=72&v=4" width="24" alt="Avatar of Masterchief-07"> Masterchief-07
+			<a href="https://github.com/LankMHD">
+				<img src="https://avatars.githubusercontent.com/u/121047252?s=72&u=23816a949f292d23ab015be64bea11647df9f262&v=4" width="24" alt="Avatar of LankMHD"> LankMHD
 			</a><br/>
-			KIENDREBEOGO JONATHAN
+			LANKOANDE Y. Mahomed
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>BURKINAFASO/OUAGADOUGOU</td>
+		<td>BURKINA FASO / OUAGADOUGOU</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -354,14 +354,14 @@ There are `263 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>20</td>
 		<td>
-			<a href="https://github.com/LankMHD">
-				<img src="https://avatars.githubusercontent.com/u/121047252?s=72&u=23816a949f292d23ab015be64bea11647df9f262&v=4" width="24" alt="Avatar of LankMHD"> LankMHD
+			<a href="https://github.com/Masterchief-07">
+				<img src="https://avatars.githubusercontent.com/u/58861755?s=72&v=4" width="24" alt="Avatar of Masterchief-07"> Masterchief-07
 			</a><br/>
-			LANKOANDE Y. Mahomed
+			KIENDREBEOGO JONATHAN
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>BURKINA FASO / OUAGADOUGOU</td>
+		<td>BURKINAFASO/OUAGADOUGOU</td>
 		<td>9</td>
 	</tr>
 	<tr>
