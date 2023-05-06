@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg" alt="Botswana">
 </a>
 
-The `number of followers` of users in Botswana on `2023/5/5 9:07 PM UTC`. This list contains users from `Botswana` and cities `Gaborone` `Francistown` `Maun` `Serowe` `Molepolole`.
+The `number of followers` of users in Botswana on `2023/5/6 2:31 PM UTC`. This list contains users from `Botswana` and cities `Gaborone` `Francistown` `Maun` `Serowe` `Molepolole`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -180,7 +180,7 @@ There are `642 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/chikanga_tk">chikanga_tk</a></td>
 		<td>Gaborone, Bostwana</td>
-		<td>34</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1927,6 +1927,19 @@ There are `642 users`  in Botswana. You need at least `0 followers` to be on thi
 	<tr>
 		<td>141</td>
 		<td>
+			<a href="https://github.com/skyedes">
+				<img src="https://avatars.githubusercontent.com/u/23002025?s=72&u=c9402171abfe11d7189d87c5c22463162dd03b55&v=4" width="24" alt="Avatar of skyedes"> skyedes
+			</a><br/>
+			bokamoso
+		</td>
+		<td>Mobi Apps </td>
+		<td><a href="https://twitter.com/bokamosodes">bokamosodes</a></td>
+		<td>Block 9, Gaborone</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
 			<a href="https://github.com/Conbeny">
 				<img src="https://avatars.githubusercontent.com/u/64282123?s=72&u=9ee7dad76ce8ca5d6c3b0db169e405ee4ea1233e&v=4" width="24" alt="Avatar of Conbeny"> Conbeny
 			</a><br/>
@@ -1938,7 +1951,7 @@ There are `642 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/Phontel">
 				<img src="https://avatars.githubusercontent.com/u/52196270?s=72&u=338e464d620dada3db7cf9874968bce577fe978b&v=4" width="24" alt="Avatar of Phontel"> Phontel
@@ -1948,19 +1961,6 @@ There are `642 users`  in Botswana. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Gaborone , Botswana</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/skyedes">
-				<img src="https://avatars.githubusercontent.com/u/23002025?s=72&u=c9402171abfe11d7189d87c5c22463162dd03b55&v=4" width="24" alt="Avatar of skyedes"> skyedes
-			</a><br/>
-			bokamoso
-		</td>
-		<td>Mobi Apps </td>
-		<td><a href="https://twitter.com/bokamosodes">bokamosodes</a></td>
-		<td>Block 9, Gaborone</td>
 		<td>2</td>
 	</tr>
 	<tr>
