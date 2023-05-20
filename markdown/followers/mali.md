@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2023/5/19 11:23 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2023/5/20 4:40 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -445,6 +445,19 @@ There are `359 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/RootAba">
+				<img src="https://avatars.githubusercontent.com/u/94965868?s=72&v=4" width="24" alt="Avatar of RootAba"> RootAba
+			</a><br/>
+			Abasse Maiga
+		</td>
+		<td>Younglabs </td>
+		<td>No Twitter Username</td>
+		<td>Mali</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/ADIAWIAKOYE">
 				<img src="https://avatars.githubusercontent.com/u/104629696?s=72&u=27f9e8e341811bcac7137c438e5d246bae40ce4b&v=4" width="24" alt="Avatar of ADIAWIAKOYE"> ADIAWIAKOYE
 			</a><br/>
@@ -456,7 +469,7 @@ There are `359 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/hellodiamalassana">
 				<img src="https://avatars.githubusercontent.com/u/69864269?s=72&u=401f554e7e0e4d50e41d4cab46fb1efd2dc0551c&v=4" width="24" alt="Avatar of hellodiamalassana"> hellodiamalassana
@@ -467,19 +480,6 @@ There are `359 users`  in Mali. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/Hellodiama">Hellodiama</a></td>
 		<td>Bamako</td>
 		<td>9</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/RootAba">
-				<img src="https://avatars.githubusercontent.com/u/94965868?s=72&v=4" width="24" alt="Avatar of RootAba"> RootAba
-			</a><br/>
-			Abasse Maiga
-		</td>
-		<td>Younglabs </td>
-		<td>No Twitter Username</td>
-		<td>Mali</td>
-		<td>8</td>
 	</tr>
 	<tr>
 		<td>30</td>
