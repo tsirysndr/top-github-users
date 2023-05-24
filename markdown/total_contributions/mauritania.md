@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2023/5/23 12:55 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2023/5/24 6:42 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -116,8 +116,8 @@ There are `162 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td> Full-stack Developer </td>
 		<td><a href="https://twitter.com/maaloumely">maaloumely</a></td>
 		<td>Mauritania</td>
-		<td>1126</td>
-		<td>1151</td>
+		<td>1159</td>
+		<td>1184</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -201,7 +201,7 @@ There are `162 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
 		<td>21</td>
-		<td>413</td>
+		<td>416</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -229,7 +229,7 @@ There are `162 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
 		<td>128</td>
-		<td>358</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -340,8 +340,8 @@ There are `162 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
-		<td>1</td>
-		<td>112</td>
+		<td>2</td>
+		<td>113</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -444,6 +444,20 @@ There are `162 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>25</td>
 		<td>
+			<a href="https://github.com/Abmstpha">
+				<img src="https://avatars.githubusercontent.com/u/87881025?s=72&u=f7978419129878edb6fa2bd91c882beaa26741df&v=4" width="24" alt="Avatar of Abmstpha"> Abmstpha
+			</a><br/>
+			Abdellahi_Mstf
+		</td>
+		<td>École Supérieure Polytechnique </td>
+		<td>No Twitter Username</td>
+		<td>Nouakchott</td>
+		<td>40</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
 			<a href="https://github.com/hkairi">
 				<img src="https://avatars.githubusercontent.com/u/28127?s=72&v=4" width="24" alt="Avatar of hkairi"> hkairi
 			</a><br/>
@@ -453,20 +467,6 @@ There are `162 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/_hkairi">_hkairi</a></td>
 		<td>Dakar | Nouakchott | Casablanca | Paris</td>
 		<td>2</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/Abmstpha">
-				<img src="https://avatars.githubusercontent.com/u/87881025?s=72&u=f7978419129878edb6fa2bd91c882beaa26741df&v=4" width="24" alt="Avatar of Abmstpha"> Abmstpha
-			</a><br/>
-			Abdellahi_Mstf
-		</td>
-		<td>École Supérieure Polytechnique </td>
-		<td>No Twitter Username</td>
-		<td>Nouakchott</td>
-		<td>38</td>
 		<td>38</td>
 	</tr>
 	<tr>
