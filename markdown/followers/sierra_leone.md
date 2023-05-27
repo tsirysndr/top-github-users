@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2023/5/26 4:31 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2023/5/27 9:54 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `225 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>208</td>
+		<td>207</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -1576,19 +1576,6 @@ There are `225 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>114</td>
 		<td>
-			<a href="https://github.com/barrie12">
-				<img src="https://avatars.githubusercontent.com/u/100475693?s=72&v=4" width="24" alt="Avatar of barrie12"> barrie12
-			</a><br/>
-			Abubakarr Barrie
-		</td>
-		<td>Explore Sierra Leone </td>
-		<td><a href="https://twitter.com/ExploreSLeone">ExploreSLeone</a></td>
-		<td>17 Circular Road, Freetown, Sierra Leone</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
 			<a href="https://github.com/paulauvirage">
 				<img src="https://avatars.githubusercontent.com/u/10148089?s=72&u=a9876346dc00a581dbb20c91dadfcdc88dcffd11&v=4" width="24" alt="Avatar of paulauvirage"> paulauvirage
 			</a><br/>
@@ -1597,6 +1584,19 @@ There are `225 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
+			<a href="https://github.com/barrie12">
+				<img src="https://avatars.githubusercontent.com/u/100475693?s=72&v=4" width="24" alt="Avatar of barrie12"> barrie12
+			</a><br/>
+			Abubakarr Barrie
+		</td>
+		<td>Explore Sierra Leone </td>
+		<td><a href="https://twitter.com/ExploreSLeone">ExploreSLeone</a></td>
+		<td>17 Circular Road, Freetown, Sierra Leone</td>
 		<td>1</td>
 	</tr>
 	<tr>
