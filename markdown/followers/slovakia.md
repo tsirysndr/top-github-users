@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg" alt="Slovakia">
 </a>
 
-The `number of followers` of users in Slovakia on `2023/5/30 7:23 AM UTC`. This list contains users from `Slovakia` and cities `Bratislava` `Košice`.
+The `number of followers` of users in Slovakia on `2023/5/31 1:05 AM UTC`. This list contains users from `Slovakia` and cities `Bratislava` `Košice`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
