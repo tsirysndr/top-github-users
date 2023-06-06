@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Turkey">
 </a>
 
-The `public contributions` by users in Turkey on `2023/6/5 8:40 AM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
+The `public contributions` by users in Turkey on `2023/6/6 2:25 AM UTC`. This list contains users from `Turkey` and cities `Istanbul` `Ankara` `Izmir` `Konya` `Gaziantep` `Adana`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `987 users`  in Turkey. You need at least `105 followers` to be on this list.
+There are `987 users`  in Turkey. You need at least `106 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@archlinux </td>
 		<td><a href="https://twitter.com/orhunp_">orhunp_</a></td>
 		<td>Ankara, Turkey</td>
-		<td>4681</td>
+		<td>4699</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Cto At Decentra Network<br/>Community<br/></td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>3040</td>
+		<td>3058</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Plepa </td>
 		<td>No Twitter Username</td>
 		<td>Istanbul</td>
-		<td>3013</td>
+		<td>3018</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -180,7 +180,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@the-guild-org </td>
 		<td><a href="https://twitter.com/ardatanrikulu">ardatanrikulu</a></td>
 		<td>Istanbul, Turkey</td>
-		<td>2526</td>
+		<td>2543</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@refinedev </td>
 		<td><a href="https://twitter.com/omerfarukaplak">omerfarukaplak</a></td>
 		<td>istanbul</td>
-		<td>2398</td>
+		<td>2404</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Istanbul, Turkey</td>
-		<td>2234</td>
+		<td>2239</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -245,7 +245,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@automattic  </td>
 		<td><a href="https://twitter.com/bulat_olga">bulat_olga</a></td>
 		<td>Istanbul</td>
-		<td>1833</td>
+		<td>1841</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,7 +258,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Chesoil </td>
 		<td><a href="https://twitter.com/Kawethra">Kawethra</a></td>
 		<td>Turkey, Konya</td>
-		<td>1826</td>
+		<td>1828</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>C And System Programmers<br/>Association<br/></td>
 		<td>No Twitter Username</td>
 		<td>İstanbul</td>
-		<td>1615</td>
+		<td>1618</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -323,7 +323,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Volosoft </td>
 		<td><a href="https://twitter.com/EngincanVeske">EngincanVeske</a></td>
 		<td>Mugla / Turkey</td>
-		<td>1332</td>
+		<td>1335</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -362,7 +362,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@kubeshark </td>
 		<td><a href="https://twitter.com/mmertyildiran">mmertyildiran</a></td>
 		<td>Istanbul, Turkey</td>
-		<td>1225</td>
+		<td>1226</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -419,6 +419,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>25</td>
 		<td>
+			<a href="https://github.com/ssibrahimbas">
+				<img src="https://avatars.githubusercontent.com/u/76786120?s=72&u=e2a6f513e15cb3b429a72b3560648dc932390e7a&v=4" width="24" alt="Avatar of ssibrahimbas"> ssibrahimbas
+			</a><br/>
+			Sami Salih İbrahimbaş
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Greater Istanbul</td>
+		<td>1187</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
 			<a href="https://github.com/buraksenyurt">
 				<img src="https://avatars.githubusercontent.com/u/2705782?s=72&u=45678de934c8a3a01b2935089fac37ff38b1ea8d&v=4" width="24" alt="Avatar of buraksenyurt"> buraksenyurt
 			</a><br/>
@@ -430,7 +443,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1173</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/Berkancelik">
 				<img src="https://avatars.githubusercontent.com/u/79005929?s=72&u=7e7f67b791b60a0994f7344a7440ff112bc22ed1&v=4" width="24" alt="Avatar of Berkancelik"> Berkancelik
@@ -440,10 +453,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Interra  </td>
 		<td><a href="https://twitter.com/BerkancelikEn">BerkancelikEn</a></td>
 		<td>Istanbul/Turkey</td>
-		<td>1116</td>
+		<td>1118</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/osmandlsmn">
 				<img src="https://avatars.githubusercontent.com/u/106361546?s=72&u=f0deb2e86bd7c8db650db1d57a62f16b3750db12&v=4" width="24" alt="Avatar of osmandlsmn"> osmandlsmn
@@ -456,7 +469,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1107</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/pooya-mohammadi">
 				<img src="https://avatars.githubusercontent.com/u/55460936?s=72&u=e5ac194a70cdfb74434ad91700d5ca209adad893&v=4" width="24" alt="Avatar of pooya-mohammadi"> pooya-mohammadi
@@ -469,7 +482,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1100</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>30</td>
+		<td>
+			<a href="https://github.com/hikalkan">
+				<img src="https://avatars.githubusercontent.com/u/1210527?s=72&u=c2e6fcde5dd26d8779b398d0af5271a438588f13&v=4" width="24" alt="Avatar of hikalkan"> hikalkan
+			</a><br/>
+			Halil İbrahim Kalkan
+		</td>
+		<td>Volosoft </td>
+		<td><a href="https://twitter.com/hibrahimkalkan">hibrahimkalkan</a></td>
+		<td>Istanbul, Turkey</td>
+		<td>1089</td>
+	</tr>
+	<tr>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/huseyinbattal">
 				<img src="https://avatars.githubusercontent.com/u/95706081?s=72&u=0eff23c88ea4ed07e8b46e29d44415b47b746467&v=4" width="24" alt="Avatar of huseyinbattal"> huseyinbattal
@@ -482,20 +508,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1085</td>
 	</tr>
 	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/hikalkan">
-				<img src="https://avatars.githubusercontent.com/u/1210527?s=72&u=c2e6fcde5dd26d8779b398d0af5271a438588f13&v=4" width="24" alt="Avatar of hikalkan"> hikalkan
-			</a><br/>
-			Halil İbrahim Kalkan
-		</td>
-		<td>Volosoft </td>
-		<td><a href="https://twitter.com/hibrahimkalkan">hibrahimkalkan</a></td>
-		<td>Istanbul, Turkey</td>
-		<td>1084</td>
-	</tr>
-	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/mehmettas1">
 				<img src="https://avatars.githubusercontent.com/u/101858286?s=72&u=a6fe8bd3461daeeeaa9badd88f72109acea1b522&v=4" width="24" alt="Avatar of mehmettas1"> mehmettas1
@@ -505,10 +518,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Hajans Yazilim  </td>
 		<td>No Twitter Username</td>
 		<td>İSTANBUL</td>
-		<td>1081</td>
+		<td>1082</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/sadikkuzu">
 				<img src="https://avatars.githubusercontent.com/u/23168063?s=72&u=d179c06bb9f65c4167fcab118526819f8e0dac17&v=4" width="24" alt="Avatar of sadikkuzu"> sadikkuzu
@@ -518,10 +531,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@getir </td>
 		<td><a href="https://twitter.com/sadikkuzu_mba">sadikkuzu_mba</a></td>
 		<td>Istanbul, Turkey</td>
-		<td>1072</td>
+		<td>1073</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/brsbrc">
 				<img src="https://avatars.githubusercontent.com/u/107190154?s=72&u=f07bca764e1507ed2d3cff35de6ea4cd42fc6977&v=4" width="24" alt="Avatar of brsbrc"> brsbrc
@@ -534,7 +547,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1046</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/coderserdar">
 				<img src="https://avatars.githubusercontent.com/u/11051271?s=72&u=87f9dc7158019ef706e77fdb64ef0e77cd8396f2&v=4" width="24" alt="Avatar of coderserdar"> coderserdar
@@ -547,7 +560,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1031</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/eserozvataf">
 				<img src="https://avatars.githubusercontent.com/u/866558?s=72&u=060df27f13f5f9afa18bc8faed253956b55c8c13&v=4" width="24" alt="Avatar of eserozvataf"> eserozvataf
@@ -560,7 +573,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1030</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/pirj">
 				<img src="https://avatars.githubusercontent.com/u/6916?s=72&u=220b8c90f93dba75ae5163aa5d6ecc2b451ce87f&v=4" width="24" alt="Avatar of pirj"> pirj
@@ -570,10 +583,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>1020</td>
+		<td>1023</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/Gamzeysr">
 				<img src="https://avatars.githubusercontent.com/u/108168084?s=72&u=3a762666df38254ac84c45450d3a96de1c8c5d56&v=4" width="24" alt="Avatar of Gamzeysr"> Gamzeysr
@@ -586,7 +599,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1011</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/umutxyp">
 				<img src="https://avatars.githubusercontent.com/u/69085038?s=72&u=c6a22c5075e6a23e70ccfca01e4ab85770aa47bc&v=4" width="24" alt="Avatar of umutxyp"> umutxyp
@@ -599,7 +612,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>1002</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/aykutkardas">
 				<img src="https://avatars.githubusercontent.com/u/7966133?s=72&u=b8a93e90e8bf5b35797a0386d4c5bcb652f5150a&v=4" width="24" alt="Avatar of aykutkardas"> aykutkardas
@@ -612,7 +625,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>998</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/isidentical">
 				<img src="https://avatars.githubusercontent.com/u/47358913?s=72&u=eb8f07b2e5fb1eb1e00eb55764ddfacd43027ae7&v=4" width="24" alt="Avatar of isidentical"> isidentical
@@ -625,7 +638,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>994</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/deepcloudlabs">
 				<img src="https://avatars.githubusercontent.com/u/39096333?s=72&u=a6da9fb9449dd174729b14aff2a0019b2513d5e3&v=4" width="24" alt="Avatar of deepcloudlabs"> deepcloudlabs
@@ -638,7 +651,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>992</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/saadeghi">
 				<img src="https://avatars.githubusercontent.com/u/7342023?s=72&u=454745ff170098ad983aa3193d727d132a425747&v=4" width="24" alt="Avatar of saadeghi"> saadeghi
@@ -648,10 +661,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@manasky @atbox @daisyui </td>
 		<td><a href="https://twitter.com/saadeghi">saadeghi</a></td>
 		<td>Istanbul</td>
-		<td>985</td>
+		<td>989</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/halilozel1903">
 				<img src="https://avatars.githubusercontent.com/u/22895813?s=72&u=1a9e487a81e8476404e941dd6102d165da3687d3&v=4" width="24" alt="Avatar of halilozel1903"> halilozel1903
@@ -664,7 +677,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>966</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/Roaa94">
 				<img src="https://avatars.githubusercontent.com/u/50345358?s=72&u=2852a9c10c776b1382bd10e95b95eb6a0fcb2d81&v=4" width="24" alt="Avatar of Roaa94"> Roaa94
@@ -677,7 +690,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>943</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/dorukeray">
 				<img src="https://avatars.githubusercontent.com/u/68155490?s=72&u=d966cf5e3fd9ec7875c1be556718ac790e2a80cb&v=4" width="24" alt="Avatar of dorukeray"> dorukeray
@@ -690,7 +703,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>943</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/aycanogut">
 				<img src="https://avatars.githubusercontent.com/u/74212439?s=72&u=12cd750a55d7d818c53ee2afb090bd55c3c17cf1&v=4" width="24" alt="Avatar of aycanogut"> aycanogut
@@ -703,7 +716,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>938</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/buger">
 				<img src="https://avatars.githubusercontent.com/u/14009?s=72&v=4" width="24" alt="Avatar of buger"> buger
@@ -713,10 +726,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Tyk.io </td>
 		<td><a href="https://twitter.com/buger">buger</a></td>
 		<td>Istanbul</td>
-		<td>927</td>
+		<td>934</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/eggsy">
 				<img src="https://avatars.githubusercontent.com/u/13917975?s=72&u=df1c06004b6d7a3204af52b2148d9ee720915827&v=4" width="24" alt="Avatar of eggsy"> eggsy
@@ -729,7 +742,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>913</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/montekki">
 				<img src="https://avatars.githubusercontent.com/u/56672?s=72&u=de6c413ac6ea2ab2976117c2b1464f9c77913e06&v=4" width="24" alt="Avatar of montekki"> montekki
@@ -742,7 +755,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>910</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/cagataycivici">
 				<img src="https://avatars.githubusercontent.com/u/686247?s=72&u=9e60f48f85caf874ace56de511190898935303c2&v=4" width="24" alt="Avatar of cagataycivici"> cagataycivici
@@ -755,7 +768,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>851</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/ahmet-cetinkaya">
 				<img src="https://avatars.githubusercontent.com/u/53148314?s=72&u=2848fec041f368b7999b3f452e41b27c84e50692&v=4" width="24" alt="Avatar of ahmet-cetinkaya"> ahmet-cetinkaya
@@ -768,7 +781,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>832</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/oznakn">
 				<img src="https://avatars.githubusercontent.com/u/17930378?s=72&v=4" width="24" alt="Avatar of oznakn"> oznakn
@@ -781,7 +794,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>825</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/erdkse">
 				<img src="https://avatars.githubusercontent.com/u/2957624?s=72&u=f2553ba433d6654540c4d0dca9e734a7c3ee3dc2&v=4" width="24" alt="Avatar of erdkse"> erdkse
@@ -794,7 +807,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>822</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/AykutSarac">
 				<img src="https://avatars.githubusercontent.com/u/47941171?s=72&u=7f8afd1623e4d32bfc5de921b6882e237ff4955f&v=4" width="24" alt="Avatar of AykutSarac"> AykutSarac
@@ -807,7 +820,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>809</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/yagizdo">
 				<img src="https://avatars.githubusercontent.com/u/31064552?s=72&u=72e3c96e69a83f1c95d8cf1b599c51520e945e7e&v=4" width="24" alt="Avatar of yagizdo"> yagizdo
@@ -817,10 +830,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yagizdo">yagizdo</a></td>
 		<td>İstanbul</td>
-		<td>807</td>
+		<td>808</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/fatihilhan42">
 				<img src="https://avatars.githubusercontent.com/u/63750425?s=72&u=23f253a4d52f02dca5076f6635fefafe4b9cffef&v=4" width="24" alt="Avatar of fatihilhan42"> fatihilhan42
@@ -833,7 +846,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>793</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/VB10">
 				<img src="https://avatars.githubusercontent.com/u/17102578?s=72&u=b4ccc3f46b69794ceaf1ee432be487f336b8359d&v=4" width="24" alt="Avatar of VB10"> VB10
@@ -846,7 +859,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>789</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/istarkov">
 				<img src="https://avatars.githubusercontent.com/u/5077042?s=72&u=fd4c349d2dec06dcd4802d5c865e2653df16a24b&v=4" width="24" alt="Avatar of istarkov"> istarkov
@@ -856,10 +869,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>762</td>
+		<td>765</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/alperefesahin">
 				<img src="https://avatars.githubusercontent.com/u/67283777?s=72&u=6d050393713281cdcecf8cf8e5cc8643857f5c38&v=4" width="24" alt="Avatar of alperefesahin"> alperefesahin
@@ -872,19 +885,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>756</td>
 	</tr>
 	<tr>
-		<td>60</td>
-		<td>
-			<a href="https://github.com/TanerSaydam">
-				<img src="https://avatars.githubusercontent.com/u/83103843?s=72&u=967457b3042680cb173e480a5c0125db058a33fd&v=4" width="24" alt="Avatar of TanerSaydam"> TanerSaydam
-			</a><br/>
-			Taner Saydam
-		</td>
-		<td>Taner Saydam </td>
-		<td>No Twitter Username</td>
-		<td>Kayseri/Turkey</td>
-		<td>734</td>
-	</tr>
-	<tr>
 		<td>61</td>
 		<td>
 			<a href="https://github.com/FurkanGozukara">
@@ -895,10 +895,23 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Monstermmorpg </td>
 		<td><a href="https://twitter.com/GozukaraFurkan">GozukaraFurkan</a></td>
 		<td>Turkey, Mersin</td>
-		<td>730</td>
+		<td>740</td>
 	</tr>
 	<tr>
 		<td>62</td>
+		<td>
+			<a href="https://github.com/TanerSaydam">
+				<img src="https://avatars.githubusercontent.com/u/83103843?s=72&u=967457b3042680cb173e480a5c0125db058a33fd&v=4" width="24" alt="Avatar of TanerSaydam"> TanerSaydam
+			</a><br/>
+			Taner Saydam
+		</td>
+		<td>Taner Saydam </td>
+		<td>No Twitter Username</td>
+		<td>Kayseri/Turkey</td>
+		<td>735</td>
+	</tr>
+	<tr>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/salihozdemir">
 				<img src="https://avatars.githubusercontent.com/u/41580619?s=72&u=af0aae6e0c7b61c84d8b5d3120656c9a33645225&v=4" width="24" alt="Avatar of salihozdemir"> salihozdemir
@@ -908,10 +921,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@refinedev </td>
 		<td>No Twitter Username</td>
 		<td>Istanbul, Turkey</td>
-		<td>727</td>
+		<td>729</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/alicanerdurmaz">
 				<img src="https://avatars.githubusercontent.com/u/23058882?s=72&u=e55b841c01de86ca0091d4e0c89c5765bc548373&v=4" width="24" alt="Avatar of alicanerdurmaz"> alicanerdurmaz
@@ -924,7 +937,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>725</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/cuneytsenturk">
 				<img src="https://avatars.githubusercontent.com/u/10936547?s=72&u=3e842397c45108f60ac6aa7c5acc3a66a3619a07&v=4" width="24" alt="Avatar of cuneytsenturk"> cuneytsenturk
@@ -934,10 +947,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@akaunting  </td>
 		<td>No Twitter Username</td>
 		<td>İstanbul</td>
-		<td>697</td>
+		<td>699</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/erkanerol">
 				<img src="https://avatars.githubusercontent.com/u/6574144?s=72&u=cd3e3f1a11002a70dd0b44721266baa81bd47a2d&v=4" width="24" alt="Avatar of erkanerol"> erkanerol
@@ -947,20 +960,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Giant Swarm </td>
 		<td><a href="https://twitter.com/erkan_erol_">erkan_erol_</a></td>
 		<td>İstanbul</td>
-		<td>667</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/ozank">
-				<img src="https://avatars.githubusercontent.com/u/1853497?s=72&u=7f215ed0310b8261f8cd1909a2e63509df348f51&v=4" width="24" alt="Avatar of ozank"> ozank
-			</a><br/>
-			Ozan K
-		</td>
-		<td>Odtü (orta Doğu Teknik<br/>Üniversitesi)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Ankara, Turkey</td>
-		<td>653</td>
+		<td>668</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -973,36 +973,23 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alperebicoglu">alperebicoglu</a></td>
 		<td>Turkey</td>
-		<td>651</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>68</td>
 		<td>
-			<a href="https://github.com/ercumentlacin">
-				<img src="https://avatars.githubusercontent.com/u/41874858?s=72&u=9257dca954453b62f5901cdd4fbdfd759de2d39a&v=4" width="24" alt="Avatar of ercumentlacin"> ercumentlacin
+			<a href="https://github.com/ozank">
+				<img src="https://avatars.githubusercontent.com/u/1853497?s=72&u=7f215ed0310b8261f8cd1909a2e63509df348f51&v=4" width="24" alt="Avatar of ozank"> ozank
 			</a><br/>
-			ercüment
+			Ozan K
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ercument_lacin">ercument_lacin</a></td>
-		<td>İstanbul</td>
-		<td>650</td>
+		<td>Odtü (orta Doğu Teknik<br/>Üniversitesi)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ankara, Turkey</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>69</td>
-		<td>
-			<a href="https://github.com/Jaex">
-				<img src="https://avatars.githubusercontent.com/u/822090?s=72&u=7475659add7d721d8dd4a9cfa639b21f422d8bdf&v=4" width="24" alt="Avatar of Jaex"> Jaex
-			</a><br/>
-			No Name
-		</td>
-		<td>@sharex </td>
-		<td><a href="https://twitter.com/ShareX">ShareX</a></td>
-		<td>Turkey</td>
-		<td>648</td>
-	</tr>
-	<tr>
-		<td>70</td>
 		<td>
 			<a href="https://github.com/isacikgoz">
 				<img src="https://avatars.githubusercontent.com/u/2153367?s=72&u=1db544571cf181e2cc82bee8982e881be68198a2&v=4" width="24" alt="Avatar of isacikgoz"> isacikgoz
@@ -1012,10 +999,49 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@mattermost </td>
 		<td>No Twitter Username</td>
 		<td>Ankara, TR</td>
-		<td>648</td>
+		<td>651</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>
+			<a href="https://github.com/ercumentlacin">
+				<img src="https://avatars.githubusercontent.com/u/41874858?s=72&u=9257dca954453b62f5901cdd4fbdfd759de2d39a&v=4" width="24" alt="Avatar of ercumentlacin"> ercumentlacin
+			</a><br/>
+			ercüment
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ercument_lacin">ercument_lacin</a></td>
+		<td>İstanbul</td>
+		<td>651</td>
 	</tr>
 	<tr>
 		<td>71</td>
+		<td>
+			<a href="https://github.com/Jaex">
+				<img src="https://avatars.githubusercontent.com/u/822090?s=72&u=7475659add7d721d8dd4a9cfa639b21f422d8bdf&v=4" width="24" alt="Avatar of Jaex"> Jaex
+			</a><br/>
+			No Name
+		</td>
+		<td>@sharex </td>
+		<td><a href="https://twitter.com/ShareX">ShareX</a></td>
+		<td>Turkey</td>
+		<td>649</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/Rapter1990">
+				<img src="https://avatars.githubusercontent.com/u/19342017?s=72&u=3dc31fb0139dd1e0491bd7ffa96d9abe4939e156&v=4" width="24" alt="Avatar of Rapter1990"> Rapter1990
+			</a><br/>
+			Sercan Noyan Germiyanoğlu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ankara, Turkey</td>
+		<td>638</td>
+	</tr>
+	<tr>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/yusufbali13">
 				<img src="https://avatars.githubusercontent.com/u/119419061?s=72&u=5324f95a0b321d73b5b225b5c5f3d2dc490cd358&v=4" width="24" alt="Avatar of yusufbali13"> yusufbali13
@@ -1028,7 +1054,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>638</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/Rumeysakeskin">
 				<img src="https://avatars.githubusercontent.com/u/61134521?s=72&u=671eec715070c9490a39017f0c441a4551bcd742&v=4" width="24" alt="Avatar of Rumeysakeskin"> Rumeysakeskin
@@ -1041,20 +1067,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>637</td>
 	</tr>
 	<tr>
-		<td>73</td>
-		<td>
-			<a href="https://github.com/Rapter1990">
-				<img src="https://avatars.githubusercontent.com/u/19342017?s=72&u=3dc31fb0139dd1e0491bd7ffa96d9abe4939e156&v=4" width="24" alt="Avatar of Rapter1990"> Rapter1990
-			</a><br/>
-			Sercan Noyan Germiyanoğlu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ankara, Turkey</td>
-		<td>635</td>
-	</tr>
-	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/halilenesozdemir">
 				<img src="https://avatars.githubusercontent.com/u/89264559?s=72&u=a79f53859dc19781a1beddabb97a8684a28bb9d0&v=4" width="24" alt="Avatar of halilenesozdemir"> halilenesozdemir
@@ -1067,7 +1080,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>627</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/btk">
 				<img src="https://avatars.githubusercontent.com/u/5216601?s=72&u=33277f486965d5cbb390b76bf8b2cea89e20dec0&v=4" width="24" alt="Avatar of btk"> btk
@@ -1080,7 +1093,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>627</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/kulikov-dev">
 				<img src="https://avatars.githubusercontent.com/u/40471760?s=72&u=cae2460862f906069c05da474d2ee0fcdd9f5c37&v=4" width="24" alt="Avatar of kulikov-dev"> kulikov-dev
@@ -1093,7 +1106,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>623</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/apo-bozdag">
 				<img src="https://avatars.githubusercontent.com/u/33822884?s=72&u=8e62d7baad0d259b63e00084e9446e7614452f35&v=4" width="24" alt="Avatar of apo-bozdag"> apo-bozdag
@@ -1103,10 +1116,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@radkod @tripian-inc </td>
 		<td><a href="https://twitter.com/apo_bozdag">apo_bozdag</a></td>
 		<td>İzmir</td>
-		<td>617</td>
+		<td>618</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/jbytecode">
 				<img src="https://avatars.githubusercontent.com/u/8011702?s=72&u=1102cab912b879f968c034c4a0605bcdfa244d81&v=4" width="24" alt="Avatar of jbytecode"> jbytecode
@@ -1119,7 +1132,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>600</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>80</td>
+		<td>
+			<a href="https://github.com/waroi">
+				<img src="https://avatars.githubusercontent.com/u/3173292?s=72&u=bd33572b988a68e15fb5037102bf41dbcf4456a9&v=4" width="24" alt="Avatar of waroi"> waroi
+			</a><br/>
+			Varol Maksutoğlu
+		</td>
+		<td>Pisi Linux </td>
+		<td><a href="https://twitter.com/waroi">waroi</a></td>
+		<td>İstanbul</td>
+		<td>599</td>
+	</tr>
+	<tr>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/furkanevin">
 				<img src="https://avatars.githubusercontent.com/u/109925130?s=72&u=769f5731c48a63925a6dab73272ac4ea2b8addde&v=4" width="24" alt="Avatar of furkanevin"> furkanevin
@@ -1132,7 +1158,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>593</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/erkamesen">
 				<img src="https://avatars.githubusercontent.com/u/120065120?s=72&u=ac55b887cffd984e0eacdf08e3e8c8b261e82a5b&v=4" width="24" alt="Avatar of erkamesen"> erkamesen
@@ -1145,7 +1171,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>592</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/devmehmetates">
 				<img src="https://avatars.githubusercontent.com/u/74152011?s=72&u=d53fbb5c48575b7f22cf42e535bb8bba1b5df99a&v=4" width="24" alt="Avatar of devmehmetates"> devmehmetates
@@ -1158,20 +1184,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>587</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>84</td>
 		<td>
-			<a href="https://github.com/waroi">
-				<img src="https://avatars.githubusercontent.com/u/3173292?s=72&u=bd33572b988a68e15fb5037102bf41dbcf4456a9&v=4" width="24" alt="Avatar of waroi"> waroi
+			<a href="https://github.com/muffafa">
+				<img src="https://avatars.githubusercontent.com/u/62511949?s=72&u=19ced238d0bfb88843f413751dcb73e8c6e555c5&v=4" width="24" alt="Avatar of muffafa"> muffafa
 			</a><br/>
-			Varol Maksutoğlu
+			Muhammed Mustafa Savar
 		</td>
-		<td>Pisi Linux </td>
-		<td><a href="https://twitter.com/waroi">waroi</a></td>
-		<td>İstanbul</td>
-		<td>580</td>
+		<td>Cukurova University </td>
+		<td>No Twitter Username</td>
+		<td>Adana, Turkey</td>
+		<td>584</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/badicev">
 				<img src="https://avatars.githubusercontent.com/u/91937187?s=72&u=097dbd88c28131fad3dac9e0761b102571ef4a09&v=4" width="24" alt="Avatar of badicev"> badicev
@@ -1184,7 +1210,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>562</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/SELIMCNR">
 				<img src="https://avatars.githubusercontent.com/u/90525336?s=72&u=13d83fbd7267e6cfe3ab48cafdd621907a834d58&v=4" width="24" alt="Avatar of SELIMCNR"> SELIMCNR
@@ -1197,7 +1223,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>554</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/hakancelikdev">
 				<img src="https://avatars.githubusercontent.com/u/19157033?s=72&u=0007451444ad35bd38bcc633b8ca726e1b7be5b3&v=4" width="24" alt="Avatar of hakancelikdev"> hakancelikdev
@@ -1210,7 +1236,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>549</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/dogukanarslan">
 				<img src="https://avatars.githubusercontent.com/u/52973879?s=72&u=e9e5355aa12f9c9f360462ab9c6f9f267ec09a7f&v=4" width="24" alt="Avatar of dogukanarslan"> dogukanarslan
@@ -1223,7 +1249,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>546</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/bariscanyilmaz">
 				<img src="https://avatars.githubusercontent.com/u/30300440?s=72&u=accdcc11fdca242b0547e2ae656e9b8761c849bc&v=4" width="24" alt="Avatar of bariscanyilmaz"> bariscanyilmaz
@@ -1236,7 +1262,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>545</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/yavuzahmet1">
 				<img src="https://avatars.githubusercontent.com/u/76011695?s=72&u=7ed81d4551826430c91fbeb516e1199a7de38eb5&v=4" width="24" alt="Avatar of yavuzahmet1"> yavuzahmet1
@@ -1249,7 +1275,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>538</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/Sadullah-TANRIKULU">
 				<img src="https://avatars.githubusercontent.com/u/96377202?s=72&u=4bcb7b579262be464060914e2708641aa41a076c&v=4" width="24" alt="Avatar of Sadullah-TANRIKULU"> Sadullah-TANRIKULU
@@ -1262,7 +1288,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>530</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/calkan">
 				<img src="https://avatars.githubusercontent.com/u/1163402?s=72&u=3c2a41b3664999ef4a730696d88b5aeaf11cf83b&v=4" width="24" alt="Avatar of calkan"> calkan
@@ -1275,7 +1301,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>519</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/ademilter">
 				<img src="https://avatars.githubusercontent.com/u/187922?s=72&u=4f65eedb018d800327871986962cbaf13ed98df8&v=4" width="24" alt="Avatar of ademilter"> ademilter
@@ -1288,7 +1314,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>512</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/Aslemammad">
 				<img src="https://avatars.githubusercontent.com/u/37929992?s=72&u=daed3d383b75ca29e82e1962881f78107cf845b5&v=4" width="24" alt="Avatar of Aslemammad"> Aslemammad
@@ -1298,10 +1324,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@pheno-agency </td>
 		<td><a href="https://twitter.com/aslemammadam">aslemammadam</a></td>
 		<td>Turkey, Istanbul</td>
-		<td>511</td>
+		<td>512</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/koltigin">
 				<img src="https://avatars.githubusercontent.com/u/102043225?s=72&u=166f852be005438fe4e0cf99b4ad37e4bb2524c8&v=4" width="24" alt="Avatar of koltigin"> koltigin
@@ -1314,7 +1340,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>508</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/damirka">
 				<img src="https://avatars.githubusercontent.com/u/8008055?s=72&u=717cf7c1ea92a2b4f0c4e8cf6fa38b7644e3cbe0&v=4" width="24" alt="Avatar of damirka"> damirka
@@ -1327,7 +1353,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>508</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>97</td>
+		<td>
+			<a href="https://github.com/ramazansancar">
+				<img src="https://avatars.githubusercontent.com/u/8878055?s=72&u=8172629eeb96243d38036f5e076aae07c49c011c&v=4" width="24" alt="Avatar of ramazansancar"> ramazansancar
+			</a><br/>
+			Ramazan Sancar
+		</td>
+		<td>Roofstacks </td>
+		<td><a href="https://twitter.com/sancaramazan">sancaramazan</a></td>
+		<td>Manisa, Turkey</td>
+		<td>507</td>
+	</tr>
+	<tr>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/fdemir">
 				<img src="https://avatars.githubusercontent.com/u/48316033?s=72&u=b1ed0377940fd83e3e08de0f8bbba069e01016d8&v=4" width="24" alt="Avatar of fdemir"> fdemir
@@ -1340,7 +1379,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>507</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/blueskythlikesclouds">
 				<img src="https://avatars.githubusercontent.com/u/19259897?s=72&u=66c2efd7735b722b22f9d7e328837dfa6d8366a4&v=4" width="24" alt="Avatar of blueskythlikesclouds"> blueskythlikesclouds
@@ -1353,20 +1392,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>507</td>
 	</tr>
 	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/ramazansancar">
-				<img src="https://avatars.githubusercontent.com/u/8878055?s=72&u=8172629eeb96243d38036f5e076aae07c49c011c&v=4" width="24" alt="Avatar of ramazansancar"> ramazansancar
-			</a><br/>
-			Ramazan Sancar
-		</td>
-		<td>Roofstacks </td>
-		<td><a href="https://twitter.com/sancaramazan">sancaramazan</a></td>
-		<td>Manisa, Turkey</td>
-		<td>506</td>
-	</tr>
-	<tr>
-		<td>98</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/BeratYesbek">
 				<img src="https://avatars.githubusercontent.com/u/77804034?s=72&u=3ce9c2120fcdde4b28c62ba6775b8b62f39f4baa&v=4" width="24" alt="Avatar of BeratYesbek"> BeratYesbek
@@ -1379,7 +1405,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>503</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/ogzcode">
 				<img src="https://avatars.githubusercontent.com/u/58819819?s=72&u=cf3843165357198a359c1e6e1f143e8519696179&v=4" width="24" alt="Avatar of ogzcode"> ogzcode
@@ -1392,7 +1418,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>502</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>102</td>
 		<td>
 			<a href="https://github.com/imhalid">
 				<img src="https://avatars.githubusercontent.com/u/40598819?s=72&u=488452ba41e4f11c9b85a875abdea92dc7c0ee16&v=4" width="24" alt="Avatar of imhalid"> imhalid
@@ -1405,7 +1431,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>495</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>103</td>
 		<td>
 			<a href="https://github.com/cihat">
 				<img src="https://avatars.githubusercontent.com/u/57585087?s=72&u=63328c373ac30d310f193c73050b16b5234e5a8b&v=4" width="24" alt="Avatar of cihat"> cihat
@@ -1415,10 +1441,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/chtslk">chtslk</a></td>
 		<td>Istanbul</td>
-		<td>493</td>
+		<td>494</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>104</td>
 		<td>
 			<a href="https://github.com/EmincanY">
 				<img src="https://avatars.githubusercontent.com/u/108217413?s=72&u=03449644dae2492b17cb2284528c98b7e51aa611&v=4" width="24" alt="Avatar of EmincanY"> EmincanY
@@ -1431,7 +1457,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>487</td>
 	</tr>
 	<tr>
-		<td>103</td>
+		<td>105</td>
 		<td>
 			<a href="https://github.com/serkan-ozal">
 				<img src="https://avatars.githubusercontent.com/u/3143425?s=72&u=a02cbc5ff10543985773573444cb86acfa9727c7&v=4" width="24" alt="Avatar of serkan-ozal"> serkan-ozal
@@ -1444,7 +1470,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>485</td>
 	</tr>
 	<tr>
-		<td>104</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/hussam-aldarwish">
 				<img src="https://avatars.githubusercontent.com/u/90006627?s=72&u=7dbf93e6ad8064cd83037eadea257ea341ec2277&v=4" width="24" alt="Avatar of hussam-aldarwish"> hussam-aldarwish
@@ -1454,10 +1480,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>İstanbul, Türkiye</td>
-		<td>479</td>
+		<td>481</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/reisxd">
 				<img src="https://avatars.githubusercontent.com/u/29177546?s=72&v=4" width="24" alt="Avatar of reisxd"> reisxd
@@ -1470,7 +1496,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>477</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>108</td>
+		<td>
+			<a href="https://github.com/gorguluarslan">
+				<img src="https://avatars.githubusercontent.com/u/101900441?s=72&u=665650774b67a5fcfb2d5ea8591fc46a83f40f3f&v=4" width="24" alt="Avatar of gorguluarslan"> gorguluarslan
+			</a><br/>
+			hilal görgülüarslan
+		</td>
+		<td> Plt Web Tasarım<br/>&<br/>Yazılım<br/></td>
+		<td>No Twitter Username</td>
+		<td>Ankara</td>
+		<td>475</td>
+	</tr>
+	<tr>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/mmc6185">
 				<img src="https://avatars.githubusercontent.com/u/73015593?s=72&u=3f7b43fbdf6f811f3f9e0a5a696e7df0aba2e855&v=4" width="24" alt="Avatar of mmc6185"> mmc6185
@@ -1483,20 +1522,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>474</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>110</td>
 		<td>
-			<a href="https://github.com/gorguluarslan">
-				<img src="https://avatars.githubusercontent.com/u/101900441?s=72&u=665650774b67a5fcfb2d5ea8591fc46a83f40f3f&v=4" width="24" alt="Avatar of gorguluarslan"> gorguluarslan
+			<a href="https://github.com/yusufie">
+				<img src="https://avatars.githubusercontent.com/u/90094867?s=72&u=f04abab2e75054f09d8dc31a4d6a18fa4c4fcb4b&v=4" width="24" alt="Avatar of yusufie"> yusufie
 			</a><br/>
-			hilal görgülüarslan
+			Fullstack Developer
 		</td>
-		<td> Plt Web Tasarım<br/>&<br/>Yazılım<br/></td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ankara</td>
-		<td>473</td>
+		<td>Turkey</td>
+		<td>472</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/gkmngrgn">
 				<img src="https://avatars.githubusercontent.com/u/72323?s=72&u=d1ac633e88b9e3fe9165d37e1fe71c77488becfb&v=4" width="24" alt="Avatar of gkmngrgn"> gkmngrgn
@@ -1509,7 +1548,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>469</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/TKaanKoc">
 				<img src="https://avatars.githubusercontent.com/u/83168207?s=72&u=43ade2cea8a6b748f59e6281149a5d25fb369544&v=4" width="24" alt="Avatar of TKaanKoc"> TKaanKoc
@@ -1522,20 +1561,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>465</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>113</td>
 		<td>
-			<a href="https://github.com/yusufie">
-				<img src="https://avatars.githubusercontent.com/u/90094867?s=72&u=f04abab2e75054f09d8dc31a4d6a18fa4c4fcb4b&v=4" width="24" alt="Avatar of yusufie"> yusufie
+			<a href="https://github.com/hwpplayer1">
+				<img src="https://avatars.githubusercontent.com/u/9614451?s=72&u=0def41eeeba677944c3a1c69fcc29543a61098c8&v=4" width="24" alt="Avatar of hwpplayer1"> hwpplayer1
 			</a><br/>
-			Fullstack Developer
+			Mert Gör ☭
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Turkey</td>
+		<td>@masscollabs </td>
+		<td><a href="https://twitter.com/MertGor">MertGor</a></td>
+		<td>İstanbul , Türkiye</td>
 		<td>462</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/TheGresta">
 				<img src="https://avatars.githubusercontent.com/u/74189776?s=72&u=516eb64a96e356706bc1bc3d1c722643a38c3296&v=4" width="24" alt="Avatar of TheGresta"> TheGresta
@@ -1548,7 +1587,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>456</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/olcaytaner">
 				<img src="https://avatars.githubusercontent.com/u/39756553?s=72&u=3a3712aeeb9a171e462851176da777cca21c7e57&v=4" width="24" alt="Avatar of olcaytaner"> olcaytaner
@@ -1561,20 +1600,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>456</td>
 	</tr>
 	<tr>
-		<td>113</td>
-		<td>
-			<a href="https://github.com/hwpplayer1">
-				<img src="https://avatars.githubusercontent.com/u/9614451?s=72&u=0def41eeeba677944c3a1c69fcc29543a61098c8&v=4" width="24" alt="Avatar of hwpplayer1"> hwpplayer1
-			</a><br/>
-			Mert Gör
-		</td>
-		<td>@masscollabs </td>
-		<td><a href="https://twitter.com/MertGor">MertGor</a></td>
-		<td>İstanbul , Türkiye</td>
-		<td>453</td>
-	</tr>
-	<tr>
-		<td>114</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/thisislexar">
 				<img src="https://avatars.githubusercontent.com/u/101462877?s=72&u=9765b433b5b06cfe916a244227534341903824f1&v=4" width="24" alt="Avatar of thisislexar"> thisislexar
@@ -1587,7 +1613,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>451</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/hakanyalcinkaya">
 				<img src="https://avatars.githubusercontent.com/u/3310562?s=72&u=dd36db4cfe82b9f4c340f6cbdc37d801a3c140a4&v=4" width="24" alt="Avatar of hakanyalcinkaya"> hakanyalcinkaya
@@ -1600,7 +1626,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>447</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/klc-pakize">
 				<img src="https://avatars.githubusercontent.com/u/109420942?s=72&u=e8afdb6f708e5ca2add509c69b00ef4907faa902&v=4" width="24" alt="Avatar of klc-pakize"> klc-pakize
@@ -1613,7 +1639,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>443</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/Dentrax">
+				<img src="https://avatars.githubusercontent.com/u/16493751?s=72&u=b74549fa6761b1798f1760460f2653b723c30db3&v=4" width="24" alt="Avatar of Dentrax"> Dentrax
+			</a><br/>
+			Furkan Türkal
+		</td>
+		<td>@trendyol </td>
+		<td><a href="https://twitter.com/furkanturkaI">furkanturkaI</a></td>
+		<td>Turkey</td>
+		<td>442</td>
+	</tr>
+	<tr>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/okannako">
 				<img src="https://avatars.githubusercontent.com/u/73176377?s=72&u=80a8a833d6f4654e33ff63bb72a60be7106866ee&v=4" width="24" alt="Avatar of okannako"> okannako
@@ -1626,20 +1665,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>438</td>
 	</tr>
 	<tr>
-		<td>118</td>
-		<td>
-			<a href="https://github.com/Dentrax">
-				<img src="https://avatars.githubusercontent.com/u/16493751?s=72&u=b74549fa6761b1798f1760460f2653b723c30db3&v=4" width="24" alt="Avatar of Dentrax"> Dentrax
-			</a><br/>
-			Furkan Türkal
-		</td>
-		<td>@trendyol </td>
-		<td><a href="https://twitter.com/furkanturkaI">furkanturkaI</a></td>
-		<td>Turkey</td>
-		<td>437</td>
-	</tr>
-	<tr>
-		<td>119</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/szrokmn">
 				<img src="https://avatars.githubusercontent.com/u/109314125?s=72&u=c3b5fd2c046d2f2802b52d2473dda543b2fd70d1&v=4" width="24" alt="Avatar of szrokmn"> szrokmn
@@ -1652,7 +1678,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>436</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/halitkalayci">
 				<img src="https://avatars.githubusercontent.com/u/59770497?s=72&u=7a9fb6a9baf2d294cbf03c2765472d8dcad39c0a&v=4" width="24" alt="Avatar of halitkalayci"> halitkalayci
@@ -1665,7 +1691,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>429</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/Mervecelikkkk">
 				<img src="https://avatars.githubusercontent.com/u/51165242?s=72&u=a09fad8ed72d88cdad3ebbb9bb0c117eee0db736&v=4" width="24" alt="Avatar of Mervecelikkkk"> Mervecelikkkk
@@ -1678,7 +1704,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>429</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/aslinurtolga">
 				<img src="https://avatars.githubusercontent.com/u/99428542?s=72&u=d9e6498fd149df700782177a6e7c58d069aa46ae&v=4" width="24" alt="Avatar of aslinurtolga"> aslinurtolga
@@ -1691,7 +1717,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>428</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/erayarslan">
 				<img src="https://avatars.githubusercontent.com/u/1534649?s=72&u=d1095ca8c415ed8da0652b0e2eddbc6efea98b58&v=4" width="24" alt="Avatar of erayarslan"> erayarslan
@@ -1704,7 +1730,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>417</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/the-teacher">
 				<img src="https://avatars.githubusercontent.com/u/496713?s=72&u=a95dcc8e5e8678ca589f2f585e27396c0a750e82&v=4" width="24" alt="Avatar of the-teacher"> the-teacher
@@ -1717,7 +1743,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>412</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/ibrahimakin">
 				<img src="https://avatars.githubusercontent.com/u/24248588?s=72&u=a4314e759026c5ef4a49492918b31186522205a0&v=4" width="24" alt="Avatar of ibrahimakin"> ibrahimakin
@@ -1730,7 +1756,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>408</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/ismcagdas">
 				<img src="https://avatars.githubusercontent.com/u/4133525?s=72&u=6a25bc6bfdc1ae31938451dc02b6cbf787c0d3ba&v=4" width="24" alt="Avatar of ismcagdas"> ismcagdas
@@ -1743,7 +1769,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>406</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/kalayciburak">
 				<img src="https://avatars.githubusercontent.com/u/61664693?s=72&u=a93664cfec4794c5ea5c8431318b2f79e709f4d1&v=4" width="24" alt="Avatar of kalayciburak"> kalayciburak
@@ -1756,7 +1782,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>404</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/xdan">
 				<img src="https://avatars.githubusercontent.com/u/794318?s=72&u=541925c0bdaf93981fbd6f1ff89458135975fd92&v=4" width="24" alt="Avatar of xdan"> xdan
@@ -1769,7 +1795,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>404</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/atillakalay">
 				<img src="https://avatars.githubusercontent.com/u/63123956?s=72&u=f24aa8a0d9d50587938d6aa678df1c8fa2fe2c22&v=4" width="24" alt="Avatar of atillakalay"> atillakalay
@@ -1782,7 +1808,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>403</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/erhangocen">
 				<img src="https://avatars.githubusercontent.com/u/71042486?s=72&u=3db6ea21ece9cc1e3cd6d7e5eae84e4dd78dd6fc&v=4" width="24" alt="Avatar of erhangocen"> erhangocen
@@ -1792,10 +1818,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/erhanngocen">erhanngocen</a></td>
 		<td>Turkey</td>
-		<td>395</td>
+		<td>397</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/emrecanstk">
 				<img src="https://avatars.githubusercontent.com/u/62914863?s=72&u=376f839a9c5ad8998015fc8fd2b93485f4ff9358&v=4" width="24" alt="Avatar of emrecanstk"> emrecanstk
@@ -1808,7 +1834,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>393</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/maeyler">
 				<img src="https://avatars.githubusercontent.com/u/14038292?s=72&u=33de449cffe374aa00c8df748e01ff8a5e4ff17c&v=4" width="24" alt="Avatar of maeyler"> maeyler
@@ -1821,7 +1847,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>391</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/Skips1">
 				<img src="https://avatars.githubusercontent.com/u/98268472?s=72&u=788aa19732e56abc137d81bc71daa8820a0ecb43&v=4" width="24" alt="Avatar of Skips1"> Skips1
@@ -1834,7 +1860,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>388</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/gurkanfikretgunak">
 				<img src="https://avatars.githubusercontent.com/u/52853374?s=72&u=fdeba242d033ab3d0a3ee4977af47d352d8933ef&v=4" width="24" alt="Avatar of gurkanfikretgunak"> gurkanfikretgunak
@@ -1847,7 +1873,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>387</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/fahriakbaba">
 				<img src="https://avatars.githubusercontent.com/u/96592272?s=72&u=122803998eae878208d52b023932d201421b8bf1&v=4" width="24" alt="Avatar of fahriakbaba"> fahriakbaba
@@ -1860,20 +1886,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>387</td>
 	</tr>
 	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/hakanozer">
-				<img src="https://avatars.githubusercontent.com/u/10389876?s=72&u=359317bf9cd71da19370dfbb7ad4b39e3b92be04&v=4" width="24" alt="Avatar of hakanozer"> hakanozer
-			</a><br/>
-			Hakan ÖZER
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/hakanozer02">hakanozer02</a></td>
-		<td>İstanbul</td>
-		<td>383</td>
-	</tr>
-	<tr>
-		<td>137</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/evrentan">
 				<img src="https://avatars.githubusercontent.com/u/40982573?s=72&u=7c9ddcbbf4042fe97f48d6c93167a5b689ebfe05&v=4" width="24" alt="Avatar of evrentan"> evrentan
@@ -1886,7 +1899,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>377</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/BetulBircan">
 				<img src="https://avatars.githubusercontent.com/u/86554799?s=72&u=916c6faf815a7398c73e70b07accc619ec6751d0&v=4" width="24" alt="Avatar of BetulBircan"> BetulBircan
@@ -1899,7 +1912,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>377</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/asimodabas">
 				<img src="https://avatars.githubusercontent.com/u/71982171?s=72&u=703d7a8bb6275bd28d22261da41561af1f1044c3&v=4" width="24" alt="Avatar of asimodabas"> asimodabas
@@ -1912,7 +1925,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>376</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/berkayvuran">
 				<img src="https://avatars.githubusercontent.com/u/60464044?s=72&u=063239bfbe0faa61b0022729efad02f7990c5463&v=4" width="24" alt="Avatar of berkayvuran"> berkayvuran
@@ -1925,7 +1938,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>374</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/duygukucukoglu35">
 				<img src="https://avatars.githubusercontent.com/u/109351417?s=72&u=63172f198f764bd4fa4aea9089aff196c942b475&v=4" width="24" alt="Avatar of duygukucukoglu35"> duygukucukoglu35
@@ -1938,7 +1951,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>372</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/mstrYoda">
 				<img src="https://avatars.githubusercontent.com/u/12763626?s=72&u=9ed2728e822fae126781acb6aeda4325d220cc0e&v=4" width="24" alt="Avatar of mstrYoda"> mstrYoda
@@ -1951,7 +1964,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>368</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/Cansualtun">
 				<img src="https://avatars.githubusercontent.com/u/56805734?s=72&u=b04dccec7f68da5da55e8cb988ee617a7d299c00&v=4" width="24" alt="Avatar of Cansualtun"> Cansualtun
@@ -1964,7 +1977,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>367</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/phaticusthiccy">
 				<img src="https://avatars.githubusercontent.com/u/74794033?s=72&u=4b154ef66a2acf79ba64ad803015f66b6e685038&v=4" width="24" alt="Avatar of phaticusthiccy"> phaticusthiccy
@@ -1977,7 +1990,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>365</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/barbarbar338">
 				<img src="https://avatars.githubusercontent.com/u/35371155?s=72&u=1d867b6079e5d13d2abbb07420fbf1ba3602c7b7&v=4" width="24" alt="Avatar of barbarbar338"> barbarbar338
@@ -1990,7 +2003,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>365</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/WoodProgrammer">
 				<img src="https://avatars.githubusercontent.com/u/16826090?s=72&u=f618094e1637b7525297ae879a475631acc534a7&v=4" width="24" alt="Avatar of WoodProgrammer"> WoodProgrammer
@@ -2003,7 +2016,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>364</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/gizemnkorkmaz">
 				<img src="https://avatars.githubusercontent.com/u/66412137?s=72&u=07e8cc89f6af04f51dd0e42e27a597c3c533cc04&v=4" width="24" alt="Avatar of gizemnkorkmaz"> gizemnkorkmaz
@@ -2016,7 +2029,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>357</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/GamehunterKaan">
 				<img src="https://avatars.githubusercontent.com/u/68380968?s=72&u=3c88b4e8ee5a4a8cf1a3b088cde1b5dcc2ff5745&v=4" width="24" alt="Avatar of GamehunterKaan"> GamehunterKaan
@@ -2029,7 +2042,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>356</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/xgravellx">
 				<img src="https://avatars.githubusercontent.com/u/88984994?s=72&u=3642954bbc913bf0143958c0b96b345779930e23&v=4" width="24" alt="Avatar of xgravellx"> xgravellx
@@ -2042,7 +2055,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>356</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/habibecee">
 				<img src="https://avatars.githubusercontent.com/u/108949876?s=72&u=b43117464ab8f54be42b91529f24956f6dc5ea97&v=4" width="24" alt="Avatar of habibecee"> habibecee
@@ -2055,7 +2068,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>354</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/f">
 				<img src="https://avatars.githubusercontent.com/u/196477?s=72&u=771bf9010ad2c32fe13ff71ceaad5563fc2824d3&v=4" width="24" alt="Avatar of f"> f
@@ -2068,7 +2081,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>352</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/furkannzmnn">
 				<img src="https://avatars.githubusercontent.com/u/31289019?s=72&v=4" width="24" alt="Avatar of furkannzmnn"> furkannzmnn
@@ -2081,7 +2094,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>350</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/KhanbalaRashidov">
 				<img src="https://avatars.githubusercontent.com/u/50279392?s=72&u=126c3f69dbd9d10e443acf8c8ca76e849aaf717e&v=4" width="24" alt="Avatar of KhanbalaRashidov"> KhanbalaRashidov
@@ -2094,7 +2107,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>348</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/rbeyzas">
 				<img src="https://avatars.githubusercontent.com/u/54624063?s=72&u=a0f6ff5b3b45403b5d8761615495fe0393d8de88&v=4" width="24" alt="Avatar of rbeyzas"> rbeyzas
@@ -2107,7 +2120,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>347</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/Husna-POYRAZ">
 				<img src="https://avatars.githubusercontent.com/u/75911392?s=72&u=98c7b84674b0d9656ecd8c9f35df5c4da4f22caf&v=4" width="24" alt="Avatar of Husna-POYRAZ"> Husna-POYRAZ
@@ -2117,10 +2130,23 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Finance Office  </td>
 		<td><a href="https://twitter.com/Husna_Poyraz">Husna_Poyraz</a></td>
 		<td>Turkey</td>
-		<td>344</td>
+		<td>345</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
+		<td>
+			<a href="https://github.com/cobanov">
+				<img src="https://avatars.githubusercontent.com/u/29142615?s=72&u=273a043f50a4d883817aa028d59541e44c2d7f56&v=4" width="24" alt="Avatar of cobanov"> cobanov
+			</a><br/>
+			Mert Cobanov
+		</td>
+		<td>@refikanadolstudio  </td>
+		<td><a href="https://twitter.com/mertcobanov">mertcobanov</a></td>
+		<td>Turkey</td>
+		<td>343</td>
+	</tr>
+	<tr>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/WNurselam">
 				<img src="https://avatars.githubusercontent.com/u/77880259?s=72&u=8320ba1d5431713fc465c758f47887c6b37942ea&v=4" width="24" alt="Avatar of WNurselam"> WNurselam
@@ -2133,7 +2159,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>342</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/a0m0rajab">
+				<img src="https://avatars.githubusercontent.com/u/18273833?s=72&u=08a0f4021aa34a353af57fa906c69ecba8fd8416&v=4" width="24" alt="Avatar of a0m0rajab"> a0m0rajab
+			</a><br/>
+			Abdurrahman Rajab
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rajab_2">rajab_2</a></td>
+		<td>Turkey</td>
+		<td>341</td>
+	</tr>
+	<tr>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/AshNumpy">
 				<img src="https://avatars.githubusercontent.com/u/92748453?s=72&u=917b8d66962d9290f60f1c1bd05b72880eea4d11&v=4" width="24" alt="Avatar of AshNumpy"> AshNumpy
@@ -2146,33 +2185,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>341</td>
 	</tr>
 	<tr>
-		<td>158</td>
-		<td>
-			<a href="https://github.com/cobanov">
-				<img src="https://avatars.githubusercontent.com/u/29142615?s=72&u=c2e9b28be824b766e1f04f00d6604712b50a6955&v=4" width="24" alt="Avatar of cobanov"> cobanov
-			</a><br/>
-			Mert Cobanov
-		</td>
-		<td>@refikanadolstudio  </td>
-		<td><a href="https://twitter.com/mertcobanov">mertcobanov</a></td>
-		<td>Turkey</td>
-		<td>339</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
-			<a href="https://github.com/a0m0rajab">
-				<img src="https://avatars.githubusercontent.com/u/18273833?s=72&u=08a0f4021aa34a353af57fa906c69ecba8fd8416&v=4" width="24" alt="Avatar of a0m0rajab"> a0m0rajab
-			</a><br/>
-			Abdurrahman Rajab
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rajab_2">rajab_2</a></td>
-		<td>Turkey</td>
-		<td>338</td>
-	</tr>
-	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/onokumus">
 				<img src="https://avatars.githubusercontent.com/u/742498?s=72&v=4" width="24" alt="Avatar of onokumus"> onokumus
@@ -2182,10 +2195,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/onokumus">onokumus</a></td>
 		<td>Kutahya, Kütahya, Turkey</td>
-		<td>335</td>
+		<td>337</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/ecembostancioglu">
 				<img src="https://avatars.githubusercontent.com/u/72046458?s=72&u=73fada6098218767c6197a792383ec2e35aa3210&v=4" width="24" alt="Avatar of ecembostancioglu"> ecembostancioglu
@@ -2198,7 +2211,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>333</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/CerenSusuz">
 				<img src="https://avatars.githubusercontent.com/u/73531779?s=72&v=4" width="24" alt="Avatar of CerenSusuz"> CerenSusuz
@@ -2211,7 +2224,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>332</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/denisdulici">
 				<img src="https://avatars.githubusercontent.com/u/5254835?s=72&u=0ccd8acb5fa691404893d2754b1a76f65e3d42fb&v=4" width="24" alt="Avatar of denisdulici"> denisdulici
@@ -2224,7 +2237,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>330</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/ersinisgor">
 				<img src="https://avatars.githubusercontent.com/u/65563075?s=72&u=206a5cd890c22965fcb3ba9b57f4fe45947c6e9c&v=4" width="24" alt="Avatar of ersinisgor"> ersinisgor
@@ -2237,7 +2250,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>329</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/enderahmetyurt">
 				<img src="https://avatars.githubusercontent.com/u/447588?s=72&u=0c9cad3d71e1f7c321c600369d4fd7ecdebc447d&v=4" width="24" alt="Avatar of enderahmetyurt"> enderahmetyurt
@@ -2250,7 +2263,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>326</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/TaylanTatli">
 				<img src="https://avatars.githubusercontent.com/u/754514?s=72&u=a4d99e13c8afd27d084c6fbb7b3b529396e7d2d1&v=4" width="24" alt="Avatar of TaylanTatli"> TaylanTatli
@@ -2263,7 +2276,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/Trojaner">
 				<img src="https://avatars.githubusercontent.com/u/1809172?s=72&u=b47b97882585416260afc65f4e92205f1ced3f14&v=4" width="24" alt="Avatar of Trojaner"> Trojaner
@@ -2276,7 +2289,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/boratanrikulu">
 				<img src="https://avatars.githubusercontent.com/u/20258973?s=72&u=94ec04b5b574e3eead4c4e5a5ba95c1b42ce9d0b&v=4" width="24" alt="Avatar of boratanrikulu"> boratanrikulu
@@ -2289,7 +2302,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>322</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/uyar">
 				<img src="https://avatars.githubusercontent.com/u/243278?s=72&u=1a34933947068de4a78414f1794f0ebbf1dcf56f&v=4" width="24" alt="Avatar of uyar"> uyar
@@ -2302,7 +2315,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>322</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
+		<td>
+			<a href="https://github.com/ilgooz">
+				<img src="https://avatars.githubusercontent.com/u/6023117?s=72&u=dd85f7413bc7794eb2190bcd2d1448400a2c9752&v=4" width="24" alt="Avatar of ilgooz"> ilgooz
+			</a><br/>
+			İlker G. Öztürk
+		</td>
+		<td>@ignite Product Mngr. Of<br/>Ignite<br/>Cli<br/><br/></td>
+		<td><a href="https://twitter.com/ilgooz">ilgooz</a></td>
+		<td>Ankara</td>
+		<td>321</td>
+	</tr>
+	<tr>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/enesuzun2002">
 				<img src="https://avatars.githubusercontent.com/u/25701716?s=72&u=d299183fd86b3a30ed6c05ead347e9e6817e7d2a&v=4" width="24" alt="Avatar of enesuzun2002"> enesuzun2002
@@ -2315,20 +2341,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>320</td>
 	</tr>
 	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/ilgooz">
-				<img src="https://avatars.githubusercontent.com/u/6023117?s=72&u=dd85f7413bc7794eb2190bcd2d1448400a2c9752&v=4" width="24" alt="Avatar of ilgooz"> ilgooz
-			</a><br/>
-			İlker G. Öztürk
-		</td>
-		<td>@ignite Product Mngr. Of<br/>Ignite<br/>Cli<br/><br/></td>
-		<td><a href="https://twitter.com/ilgooz">ilgooz</a></td>
-		<td>Ankara</td>
-		<td>319</td>
-	</tr>
-	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/CSD-1993">
 				<img src="https://avatars.githubusercontent.com/u/58990722?s=72&u=f5f9abc590db2ae5c321441354828d1ba77f6be8&v=4" width="24" alt="Avatar of CSD-1993"> CSD-1993
@@ -2341,7 +2354,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>316</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/alp1x">
 				<img src="https://avatars.githubusercontent.com/u/56808589?s=72&u=da5dcbdbfab9059a994a803a0f50468d506c11aa&v=4" width="24" alt="Avatar of alp1x"> alp1x
@@ -2354,7 +2367,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>313</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/betulyurtman">
 				<img src="https://avatars.githubusercontent.com/u/96620871?s=72&u=d92c4450a166fc20fee67882ad47328946b9eeea&v=4" width="24" alt="Avatar of betulyurtman"> betulyurtman
@@ -2367,7 +2380,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>312</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/sezerlucianturkmen">
 				<img src="https://avatars.githubusercontent.com/u/74083623?s=72&u=0cc47339d5dba0e21325d905e7da3d2e7ca0e731&v=4" width="24" alt="Avatar of sezerlucianturkmen"> sezerlucianturkmen
@@ -2380,7 +2393,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>310</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/mertcanaltin">
 				<img src="https://avatars.githubusercontent.com/u/37827216?s=72&u=779378aa3c659055ecaa8b70aeb3ec3a786af5d0&v=4" width="24" alt="Avatar of mertcanaltin"> mertcanaltin
@@ -2393,7 +2406,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>307</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
+		<td>
+			<a href="https://github.com/yekalkan">
+				<img src="https://avatars.githubusercontent.com/u/5793291?s=72&u=fc19431aeaa096d311d85ba6b571dcdfd5593458&v=4" width="24" alt="Avatar of yekalkan"> yekalkan
+			</a><br/>
+			Yunus Emre Kalkan
+		</td>
+		<td>Volosoft </td>
+		<td>No Twitter Username</td>
+		<td>istanbul</td>
+		<td>306</td>
+	</tr>
+	<tr>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/BatuhanW">
 				<img src="https://avatars.githubusercontent.com/u/16444991?s=72&u=39118e769587083ef56619cf1b59db2047b5031c&v=4" width="24" alt="Avatar of BatuhanW"> BatuhanW
@@ -2406,20 +2432,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>306</td>
 	</tr>
 	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/yekalkan">
-				<img src="https://avatars.githubusercontent.com/u/5793291?s=72&u=fc19431aeaa096d311d85ba6b571dcdfd5593458&v=4" width="24" alt="Avatar of yekalkan"> yekalkan
-			</a><br/>
-			Yunus Emre Kalkan
-		</td>
-		<td>Volosoft </td>
-		<td>No Twitter Username</td>
-		<td>istanbul</td>
-		<td>304</td>
-	</tr>
-	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/mervebilgin">
 				<img src="https://avatars.githubusercontent.com/u/47225405?s=72&u=b04abcfdab1f1e6a1882e13608d39a4aa6dbbb1b&v=4" width="24" alt="Avatar of mervebilgin"> mervebilgin
@@ -2432,7 +2445,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>299</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/mkaraca25">
 				<img src="https://avatars.githubusercontent.com/u/61596919?s=72&u=a7804ab6192968fdfc6d793dcfd3890e90c45c96&v=4" width="24" alt="Avatar of mkaraca25"> mkaraca25
@@ -2445,7 +2458,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>294</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/murators53">
 				<img src="https://avatars.githubusercontent.com/u/64844876?s=72&u=dcd1bc536166470fa6bd235364c55f6e8453dc2f&v=4" width="24" alt="Avatar of murators53"> murators53
@@ -2458,7 +2471,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>294</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/sametcodes">
+				<img src="https://avatars.githubusercontent.com/u/9467273?s=72&u=802f52795554bf44d02ddb291899d79246c2aa5f&v=4" width="24" alt="Avatar of sametcodes"> sametcodes
+			</a><br/>
+			Samet
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sametcodes">sametcodes</a></td>
+		<td>Istanbul</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/pelinhangisi">
 				<img src="https://avatars.githubusercontent.com/u/96151920?s=72&u=bc35ea81387f98e42516e5c9f144277ed3197ef9&v=4" width="24" alt="Avatar of pelinhangisi"> pelinhangisi
@@ -2471,7 +2497,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>291</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/enescakir">
 				<img src="https://avatars.githubusercontent.com/u/993199?s=72&u=f2a9cf552e262ddb879b437bf3f200197902a5ce&v=4" width="24" alt="Avatar of enescakir"> enescakir
@@ -2484,7 +2510,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>290</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/ulgens">
 				<img src="https://avatars.githubusercontent.com/u/166637?s=72&u=62faae613eb83b9d8c285906fc8c2f184d0c1ea2&v=4" width="24" alt="Avatar of ulgens"> ulgens
@@ -2497,7 +2523,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>290</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/keremkoseoglu">
 				<img src="https://avatars.githubusercontent.com/u/3207330?s=72&u=683ad8b89bada43925517622436ccd7b4c033f30&v=4" width="24" alt="Avatar of keremkoseoglu"> keremkoseoglu
@@ -2510,7 +2536,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>287</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/yakintech">
 				<img src="https://avatars.githubusercontent.com/u/16878108?s=72&u=512fef39af417f738a200c3e813611700da20047&v=4" width="24" alt="Avatar of yakintech"> yakintech
@@ -2523,7 +2549,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>286</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/FehmiCitiloglu">
 				<img src="https://avatars.githubusercontent.com/u/75936061?s=72&u=a2525b099217306710dad16aa8d7419b106d92c3&v=4" width="24" alt="Avatar of FehmiCitiloglu"> FehmiCitiloglu
@@ -2536,7 +2562,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>286</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/Milad-Akarie">
 				<img src="https://avatars.githubusercontent.com/u/55059449?s=72&u=6c4b46e2ad842b4336c86973d4412a0807c858ea&v=4" width="24" alt="Avatar of Milad-Akarie"> Milad-Akarie
@@ -2549,20 +2575,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>189</td>
-		<td>
-			<a href="https://github.com/sametcodes">
-				<img src="https://avatars.githubusercontent.com/u/9467273?s=72&u=802f52795554bf44d02ddb291899d79246c2aa5f&v=4" width="24" alt="Avatar of sametcodes"> sametcodes
-			</a><br/>
-			Samet
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sametcodes">sametcodes</a></td>
-		<td>Istanbul</td>
-		<td>283</td>
-	</tr>
-	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/nisaefendioglu">
 				<img src="https://avatars.githubusercontent.com/u/48391281?s=72&u=4d6fcfbf95776979a6f0d172c82b6eab02ae9689&v=4" width="24" alt="Avatar of nisaefendioglu"> nisaefendioglu
@@ -2575,7 +2588,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>282</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/hakanceran64">
 				<img src="https://avatars.githubusercontent.com/u/43829691?s=72&u=c0ca63f19fd5711de5c3482979285463c893cd09&v=4" width="24" alt="Avatar of hakanceran64"> hakanceran64
@@ -2588,7 +2601,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/berkansasmaz">
 				<img src="https://avatars.githubusercontent.com/u/31216880?s=72&u=91a2ea0bf976e0878af070e39d5667f57b625014&v=4" width="24" alt="Avatar of berkansasmaz"> berkansasmaz
@@ -2601,7 +2614,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>277</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/Abdulsametileri">
 				<img src="https://avatars.githubusercontent.com/u/19360039?s=72&u=5b3716f53c33f8bce21801961a645fee14605c1d&v=4" width="24" alt="Avatar of Abdulsametileri"> Abdulsametileri
@@ -2614,7 +2627,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>275</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/faikturan">
 				<img src="https://avatars.githubusercontent.com/u/16893561?s=72&u=169adde9c0c0b3af1f3b2bc3c7543487e5103df0&v=4" width="24" alt="Avatar of faikturan"> faikturan
@@ -2627,7 +2640,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>274</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/ahmadabdolsaheb">
 				<img src="https://avatars.githubusercontent.com/u/4591597?s=72&u=e813438b411fcf7bb6722af5c69de4033930d4e8&v=4" width="24" alt="Avatar of ahmadabdolsaheb"> ahmadabdolsaheb
@@ -2640,7 +2653,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>273</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
+		<td>
+			<a href="https://github.com/rasnesakam">
+				<img src="https://avatars.githubusercontent.com/u/45129228?s=72&u=3a77c4a577b0e41b7dc11534e2cda873ea1ac74c&v=4" width="24" alt="Avatar of rasnesakam"> rasnesakam
+			</a><br/>
+			Ensar Makas
+		</td>
+		<td>Independent </td>
+		<td><a href="https://twitter.com/ensar_makas">ensar_makas</a></td>
+		<td>Istanbul, Turkey</td>
+		<td>271</td>
+	</tr>
+	<tr>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/scokmen">
 				<img src="https://avatars.githubusercontent.com/u/2755420?s=72&u=cd79bdd9520dc875da9040d58d97ac317e698c8f&v=4" width="24" alt="Avatar of scokmen"> scokmen
@@ -2653,20 +2679,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>270</td>
 	</tr>
 	<tr>
-		<td>197</td>
-		<td>
-			<a href="https://github.com/rasnesakam">
-				<img src="https://avatars.githubusercontent.com/u/45129228?s=72&u=3a77c4a577b0e41b7dc11534e2cda873ea1ac74c&v=4" width="24" alt="Avatar of rasnesakam"> rasnesakam
-			</a><br/>
-			Ensar Makas
-		</td>
-		<td>Independent </td>
-		<td><a href="https://twitter.com/ensar_makas">ensar_makas</a></td>
-		<td>Istanbul, Turkey</td>
-		<td>270</td>
-	</tr>
-	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/m-aliozkaya">
 				<img src="https://avatars.githubusercontent.com/u/56235083?s=72&u=e6675227ed55e0f1a75c4064f07b9e639c7e627d&v=4" width="24" alt="Avatar of m-aliozkaya"> m-aliozkaya
@@ -2679,7 +2692,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>267</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/ahmet">
 				<img src="https://avatars.githubusercontent.com/u/309672?s=72&u=6ae475033d83241cc830ccb5e57e881599a3e5a6&v=4" width="24" alt="Avatar of ahmet"> ahmet
@@ -2689,10 +2702,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ahmetaygun">ahmetaygun</a></td>
 		<td>Istanbul, Turkey</td>
-		<td>266</td>
+		<td>267</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/erayaydin">
 				<img src="https://avatars.githubusercontent.com/u/5854916?s=72&u=3b8f69a51615a3b0340a7c0b9acb36d7ff5b5127&v=4" width="24" alt="Avatar of erayaydin"> erayaydin
@@ -2705,7 +2718,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/AbdullahOztuurkk">
 				<img src="https://avatars.githubusercontent.com/u/54680491?s=72&u=659c3cb9cc927c1ec882847e9f42fd720611e84d&v=4" width="24" alt="Avatar of AbdullahOztuurkk"> AbdullahOztuurkk
@@ -2718,7 +2731,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>264</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/muhammedogz">
 				<img src="https://avatars.githubusercontent.com/u/54470681?s=72&u=bacbd138e7d3fcf842af9ee9fdcb0063007069e6&v=4" width="24" alt="Avatar of muhammedogz"> muhammedogz
@@ -2731,7 +2744,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>264</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/ismail9k">
 				<img src="https://avatars.githubusercontent.com/u/11035467?s=72&u=115a6508c0d791fb480d0250a13ee2e421825663&v=4" width="24" alt="Avatar of ismail9k"> ismail9k
@@ -2744,7 +2757,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>264</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/asimcanyagiz">
 				<img src="https://avatars.githubusercontent.com/u/89473605?s=72&u=6945e8aac87f860b5c7474c6bb33e7594dd18fef&v=4" width="24" alt="Avatar of asimcanyagiz"> asimcanyagiz
@@ -2757,7 +2770,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>263</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/nilgunaydin">
+				<img src="https://avatars.githubusercontent.com/u/94299742?s=72&u=4fb08ff26ea7021632b9e1e75e9bf52e0f44e485&v=4" width="24" alt="Avatar of nilgunaydin"> nilgunaydin
+			</a><br/>
+			Nilgun B
+		</td>
+		<td>Digicommerce </td>
+		<td>No Twitter Username</td>
+		<td>Istanbul</td>
+		<td>260</td>
+	</tr>
+	<tr>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/YunusOzdemirr">
 				<img src="https://avatars.githubusercontent.com/u/54598461?s=72&u=c597585800761bd9c72fc5860c131043836a542a&v=4" width="24" alt="Avatar of YunusOzdemirr"> YunusOzdemirr
@@ -2770,20 +2796,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/nilgunaydin">
-				<img src="https://avatars.githubusercontent.com/u/94299742?s=72&u=4fb08ff26ea7021632b9e1e75e9bf52e0f44e485&v=4" width="24" alt="Avatar of nilgunaydin"> nilgunaydin
-			</a><br/>
-			Nilgun B
-		</td>
-		<td>Digicommerce </td>
-		<td>No Twitter Username</td>
-		<td>Istanbul</td>
-		<td>258</td>
-	</tr>
-	<tr>
-		<td>207</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/yaagmurss">
 				<img src="https://avatars.githubusercontent.com/u/52479605?s=72&u=3273229c9ab44cb12bd959681cbfd139892a5647&v=4" width="24" alt="Avatar of yaagmurss"> yaagmurss
@@ -2796,7 +2809,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>258</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/dnomak">
 				<img src="https://avatars.githubusercontent.com/u/919913?s=72&u=0e1c960a6871a64f81543bffedb40e7269682531&v=4" width="24" alt="Avatar of dnomak"> dnomak
@@ -2809,7 +2822,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>256</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/ayat0110">
 				<img src="https://avatars.githubusercontent.com/u/76471156?s=72&u=76762c771bdbc9d682bc243b6b7c72b7ec1682c1&v=4" width="24" alt="Avatar of ayat0110"> ayat0110
@@ -2822,7 +2835,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>256</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/gncyyldz">
 				<img src="https://avatars.githubusercontent.com/u/102862684?s=72&u=bc37c147f0b9883ecfbfbae992e6c75b79d52c7d&v=4" width="24" alt="Avatar of gncyyldz"> gncyyldz
@@ -2835,7 +2848,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>254</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
+		<td>
+			<a href="https://github.com/ErmanKonyar">
+				<img src="https://avatars.githubusercontent.com/u/58660686?s=72&u=f23c7cfc9203e75f8a92980ed8d9f3196fb7554e&v=4" width="24" alt="Avatar of ErmanKonyar"> ErmanKonyar
+			</a><br/>
+			Erman Konyar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokat / Turkey</td>
+		<td>254</td>
+	</tr>
+	<tr>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/tunix">
 				<img src="https://avatars.githubusercontent.com/u/47731?s=72&u=82505de56ee7b75fabf6b51fbf52df1d29dac765&v=4" width="24" alt="Avatar of tunix"> tunix
@@ -2848,7 +2874,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>252</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/MuazMemis">
 				<img src="https://avatars.githubusercontent.com/u/61652847?s=72&u=13e59cc4fb579d284c6d1322429b90f685b7eb2e&v=4" width="24" alt="Avatar of MuazMemis"> MuazMemis
@@ -2861,20 +2887,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>252</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>215</td>
 		<td>
-			<a href="https://github.com/hermannKonyar">
-				<img src="https://avatars.githubusercontent.com/u/58660686?s=72&u=f23c7cfc9203e75f8a92980ed8d9f3196fb7554e&v=4" width="24" alt="Avatar of hermannKonyar"> hermannKonyar
+			<a href="https://github.com/MrEmin">
+				<img src="https://avatars.githubusercontent.com/u/80457900?s=72&u=422a04e25a8accfe6fc6374f5dd05d473b67abcd&v=4" width="24" alt="Avatar of MrEmin"> MrEmin
 			</a><br/>
-			Erman Konyar
+			Muhammet Emin ÖZDEMİR
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tokat / Turkey</td>
-		<td>250</td>
+		<td>Turkey</td>
+		<td>252</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/hkulekci">
 				<img src="https://avatars.githubusercontent.com/u/586318?s=72&u=07ab879eb4e05cedbe255231e3ede63ef66cac0f&v=4" width="24" alt="Avatar of hkulekci"> hkulekci
@@ -2887,7 +2913,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>248</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/tayfunerbilen">
 				<img src="https://avatars.githubusercontent.com/u/2500557?s=72&u=c3c7c00ae4a4424253e2e260326916b03171f8ce&v=4" width="24" alt="Avatar of tayfunerbilen"> tayfunerbilen
@@ -2900,7 +2926,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>247</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/sevilayerkan">
 				<img src="https://avatars.githubusercontent.com/u/22706692?s=72&u=f75dc3e31aaf6bf220dd68b5a4d7ff400bad269d&v=4" width="24" alt="Avatar of sevilayerkan"> sevilayerkan
@@ -2913,7 +2939,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>247</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/bufgix">
 				<img src="https://avatars.githubusercontent.com/u/22038798?s=72&u=3716ed0b8b7f10155f0fb53b5049da1ea86c0aa3&v=4" width="24" alt="Avatar of bufgix"> bufgix
@@ -2926,7 +2952,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>245</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/melikeoztekin">
 				<img src="https://avatars.githubusercontent.com/u/77509002?s=72&u=c7987771fab2035ed1001c5e9122b47be800dc9f&v=4" width="24" alt="Avatar of melikeoztekin"> melikeoztekin
@@ -2939,7 +2965,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>245</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/emirhandogandemir">
+				<img src="https://avatars.githubusercontent.com/u/74687192?s=72&u=4176d68cf6b66d5e62c59e571fb0ee80bd989936&v=4" width="24" alt="Avatar of emirhandogandemir"> emirhandogandemir
+			</a><br/>
+			Emirhan Doğandemir
+		</td>
+		<td>Kkb </td>
+		<td>No Twitter Username</td>
+		<td>Istanbul</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/duvainel">
 				<img src="https://avatars.githubusercontent.com/u/89906672?s=72&u=5027c37cf7cd3bc65ad17d35508c528b3d23a339&v=4" width="24" alt="Avatar of duvainel"> duvainel
@@ -2952,7 +2991,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/buraksezer">
 				<img src="https://avatars.githubusercontent.com/u/33702537?s=72&u=f4dab7c8470a3c2617319b20aec77f0edd28e1a5&v=4" width="24" alt="Avatar of buraksezer"> buraksezer
@@ -2965,20 +3004,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>237</td>
 	</tr>
 	<tr>
-		<td>221</td>
-		<td>
-			<a href="https://github.com/MrEmin">
-				<img src="https://avatars.githubusercontent.com/u/80457900?s=72&u=422a04e25a8accfe6fc6374f5dd05d473b67abcd&v=4" width="24" alt="Avatar of MrEmin"> MrEmin
-			</a><br/>
-			Muhammet Emin ÖZDEMİR
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Turkey</td>
-		<td>237</td>
-	</tr>
-	<tr>
-		<td>222</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/sahinmaral">
 				<img src="https://avatars.githubusercontent.com/u/74562862?s=72&u=a92bcb23c1f9238f7b9029fd1d22f734ca36e620&v=4" width="24" alt="Avatar of sahinmaral"> sahinmaral
@@ -2991,7 +3017,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/fatih">
 				<img src="https://avatars.githubusercontent.com/u/438920?s=72&v=4" width="24" alt="Avatar of fatih"> fatih
@@ -3004,7 +3030,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/ilkerdurmaz">
 				<img src="https://avatars.githubusercontent.com/u/14932895?s=72&u=9215c20457cd05aab7b9226b06e4a6afe91c69be&v=4" width="24" alt="Avatar of ilkerdurmaz"> ilkerdurmaz
@@ -3017,20 +3043,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>225</td>
-		<td>
-			<a href="https://github.com/emirhandogandemir">
-				<img src="https://avatars.githubusercontent.com/u/74687192?s=72&u=4176d68cf6b66d5e62c59e571fb0ee80bd989936&v=4" width="24" alt="Avatar of emirhandogandemir"> emirhandogandemir
-			</a><br/>
-			Emirhan Doğandemir
-		</td>
-		<td>Kkb </td>
-		<td>No Twitter Username</td>
-		<td>Istanbul</td>
-		<td>234</td>
-	</tr>
-	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/hgunay">
 				<img src="https://avatars.githubusercontent.com/u/19264860?s=72&u=81fb566cd519f4d211158ed19fa3f535867be79f&v=4" width="24" alt="Avatar of hgunay"> hgunay
@@ -3043,7 +3056,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/nejdetkadir">
 				<img src="https://avatars.githubusercontent.com/u/50639655?s=72&u=e2e0bd2a39379e92563c40f90c6e16a62309bd8e&v=4" width="24" alt="Avatar of nejdetkadir"> nejdetkadir
@@ -3056,7 +3069,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
+		<td>
+			<a href="https://github.com/nihatxp">
+				<img src="https://avatars.githubusercontent.com/u/87497469?s=72&u=7bfdfe9a00e1d51d0f76c88975155c87f30a6aba&v=4" width="24" alt="Avatar of nihatxp"> nihatxp
+			</a><br/>
+			Nihat Aliyev
+		</td>
+		<td>Dumlupınar University </td>
+		<td>No Twitter Username</td>
+		<td>Azerbaijan || Turkey</td>
+		<td>230</td>
+	</tr>
+	<tr>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/susimsek">
 				<img src="https://avatars.githubusercontent.com/u/46258776?s=72&u=dd0e0459bd5ad64a7acb39098b2d43ea697def84&v=4" width="24" alt="Avatar of susimsek"> susimsek
@@ -3069,7 +3095,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>228</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>231</td>
+		<td>
+			<a href="https://github.com/mhmtszr">
+				<img src="https://avatars.githubusercontent.com/u/35079195?s=72&u=12f3ca6f7b3be4f0d17fc47ebc8176d321d092cc&v=4" width="24" alt="Avatar of mhmtszr"> mhmtszr
+			</a><br/>
+			Mehmet Sezer
+		</td>
+		<td>@trendyol </td>
+		<td><a href="https://twitter.com/_mehmetsezer">_mehmetsezer</a></td>
+		<td>Ankara, Turkey</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/vigo">
 				<img src="https://avatars.githubusercontent.com/u/82952?s=72&u=d28c0599c48fdb06fdc5d03bc5cc880592f2c2bd&v=4" width="24" alt="Avatar of vigo"> vigo
@@ -3082,7 +3121,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>224</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/lutfullahcelenk">
 				<img src="https://avatars.githubusercontent.com/u/81390201?s=72&u=b1fce476232da7f5073d2299aec66a93fea006c6&v=4" width="24" alt="Avatar of lutfullahcelenk"> lutfullahcelenk
@@ -3095,7 +3134,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/ctnkaan">
 				<img src="https://avatars.githubusercontent.com/u/59853931?s=72&u=ce866e19801e8430494559b4596fa059f9a4a491&v=4" width="24" alt="Avatar of ctnkaan"> ctnkaan
@@ -3108,20 +3147,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/mhmtszr">
-				<img src="https://avatars.githubusercontent.com/u/35079195?s=72&u=12f3ca6f7b3be4f0d17fc47ebc8176d321d092cc&v=4" width="24" alt="Avatar of mhmtszr"> mhmtszr
-			</a><br/>
-			Mehmet Sezer
-		</td>
-		<td>@trendyol </td>
-		<td><a href="https://twitter.com/_mehmetsezer">_mehmetsezer</a></td>
-		<td>Ankara, Turkey</td>
-		<td>222</td>
-	</tr>
-	<tr>
-		<td>233</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/olcaneristi">
 				<img src="https://avatars.githubusercontent.com/u/45832621?s=72&u=3a3232a6c3d7a5ad153aeb89fa99201c43740eb8&v=4" width="24" alt="Avatar of olcaneristi"> olcaneristi
@@ -3134,7 +3160,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/muhammed">
 				<img src="https://avatars.githubusercontent.com/u/34653781?s=72&u=a9b201b0b5ef0ad33752db38a69fb52f27e26ec4&v=4" width="24" alt="Avatar of muhammed"> muhammed
@@ -3147,7 +3173,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/yedhrab">
 				<img src="https://avatars.githubusercontent.com/u/49655146?s=72&u=855ed420ec788735d47b69248c071989d8962f23&v=4" width="24" alt="Avatar of yedhrab"> yedhrab
@@ -3160,7 +3186,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/akoselioren">
 				<img src="https://avatars.githubusercontent.com/u/112801816?s=72&u=6117b0928602f4f00a58bc68071d75e98cec1167&v=4" width="24" alt="Avatar of akoselioren"> akoselioren
@@ -3173,7 +3199,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>218</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/kadirpekel">
 				<img src="https://avatars.githubusercontent.com/u/126203?s=72&u=db10582bb7386fb094dbb9ac57237b6c91f27321&v=4" width="24" alt="Avatar of kadirpekel"> kadirpekel
@@ -3186,20 +3212,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>218</td>
 	</tr>
 	<tr>
-		<td>238</td>
-		<td>
-			<a href="https://github.com/nihatxp">
-				<img src="https://avatars.githubusercontent.com/u/87497469?s=72&u=7bfdfe9a00e1d51d0f76c88975155c87f30a6aba&v=4" width="24" alt="Avatar of nihatxp"> nihatxp
-			</a><br/>
-			Nihat Aliyev
-		</td>
-		<td>Dumlupınar University </td>
-		<td>No Twitter Username</td>
-		<td>Azerbaijan || Turkey</td>
-		<td>217</td>
-	</tr>
-	<tr>
-		<td>239</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/mgmetehan">
 				<img src="https://avatars.githubusercontent.com/u/41691766?s=72&u=3aa756a144a4085a00c02f4f7410aa8100e43448&v=4" width="24" alt="Avatar of mgmetehan"> mgmetehan
@@ -3212,7 +3225,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/yasinatesim">
 				<img src="https://avatars.githubusercontent.com/u/32565521?s=72&v=4" width="24" alt="Avatar of yasinatesim"> yasinatesim
@@ -3225,7 +3238,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/gusanmaz">
 				<img src="https://avatars.githubusercontent.com/u/2552975?s=72&u=ed5d604e3d46a4c040c169975c7622c1e0736d2b&v=4" width="24" alt="Avatar of gusanmaz"> gusanmaz
@@ -3238,7 +3251,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/nktnlx">
 				<img src="https://avatars.githubusercontent.com/u/47733508?s=72&u=f5ef743a6d2c09a28f63b2eb7ca2c303b3bdf045&v=4" width="24" alt="Avatar of nktnlx"> nktnlx
@@ -3251,7 +3264,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/merttoptas">
 				<img src="https://avatars.githubusercontent.com/u/24685929?s=72&u=01ca7cea4e713d0373fd08951433a1876d6b77af&v=4" width="24" alt="Avatar of merttoptas"> merttoptas
@@ -3264,7 +3277,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>211</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/yrestom">
+				<img src="https://avatars.githubusercontent.com/u/19572067?s=72&u=77ba42cdb05c670195933ae55b4a81149052db3e&v=4" width="24" alt="Avatar of yrestom"> yrestom
+			</a><br/>
+			Yousef Restom 
+		</td>
+		<td>Totrox Technology @totrox </td>
+		<td><a href="https://twitter.com/YousefRestom">YousefRestom</a></td>
+		<td>Turkey</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/cnrture">
 				<img src="https://avatars.githubusercontent.com/u/29903779?s=72&u=b55eccf7e804f29f04e2579e60fa5104cfc88e5f&v=4" width="24" alt="Avatar of cnrture"> cnrture
@@ -3277,7 +3303,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>207</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>247</td>
+		<td>
+			<a href="https://github.com/cnrture">
+				<img src="https://avatars.githubusercontent.com/u/29903779?s=72&u=b55eccf7e804f29f04e2579e60fa5104cfc88e5f&v=4" width="24" alt="Avatar of cnrture"> cnrture
+			</a><br/>
+			Caner Türe
+		</td>
+		<td>Loodos </td>
+		<td><a href="https://twitter.com/yerfizikci">yerfizikci</a></td>
+		<td>İstanbul</td>
+		<td>207</td>
+	</tr>
+	<tr>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/zaherg">
 				<img src="https://avatars.githubusercontent.com/u/27624?s=72&u=a0489ee6ddeb1110b842091e9bc3c4901f8d0f63&v=4" width="24" alt="Avatar of zaherg"> zaherg
@@ -3290,7 +3329,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>207</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/VonHumbolt">
 				<img src="https://avatars.githubusercontent.com/u/79381882?s=72&u=42d709e18ee07512dc7b29e7ae22d8accd575f05&v=4" width="24" alt="Avatar of VonHumbolt"> VonHumbolt
@@ -3303,7 +3342,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>206</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/elevenvac">
 				<img src="https://avatars.githubusercontent.com/u/50018633?s=72&u=3230e193c211f8828803387ca15c4b3c51d6b7d8&v=4" width="24" alt="Avatar of elevenvac"> elevenvac
@@ -3316,7 +3355,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/mervegundogmus">
 				<img src="https://avatars.githubusercontent.com/u/68029482?s=72&u=9837c5ce0d645fe7da1a750b083b35626025b141&v=4" width="24" alt="Avatar of mervegundogmus"> mervegundogmus
@@ -3329,7 +3368,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/harunkor">
 				<img src="https://avatars.githubusercontent.com/u/7053364?s=72&u=855ac657d2e188e571cd48be35e71c0ff88b01af&v=4" width="24" alt="Avatar of harunkor"> harunkor
@@ -3342,20 +3381,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>250</td>
-		<td>
-			<a href="https://github.com/yrestom">
-				<img src="https://avatars.githubusercontent.com/u/19572067?s=72&u=77ba42cdb05c670195933ae55b4a81149052db3e&v=4" width="24" alt="Avatar of yrestom"> yrestom
-			</a><br/>
-			Yousef Restom 
-		</td>
-		<td>Totrox Technology @totrox </td>
-		<td><a href="https://twitter.com/YousefRestom">YousefRestom</a></td>
-		<td>Turkey</td>
-		<td>201</td>
-	</tr>
-	<tr>
-		<td>251</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/varisDogukan">
 				<img src="https://avatars.githubusercontent.com/u/57659479?s=72&u=81153443cc2c8c7ac207a157a2b14d6526f69520&v=4" width="24" alt="Avatar of varisDogukan"> varisDogukan
@@ -3368,7 +3394,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/alicangunduz">
 				<img src="https://avatars.githubusercontent.com/u/54004830?s=72&u=42d0fe6a687e5e993a4de353494722c2c9a3a729&v=4" width="24" alt="Avatar of alicangunduz"> alicangunduz
@@ -3381,7 +3407,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/yilmazcite">
 				<img src="https://avatars.githubusercontent.com/u/83546401?s=72&u=0af8aa80ac4c22b49c116d53ea339d7dc67c6270&v=4" width="24" alt="Avatar of yilmazcite"> yilmazcite
@@ -3394,7 +3420,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>199</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/onurvarol">
 				<img src="https://avatars.githubusercontent.com/u/190446?s=72&u=e29783c429e0e682476acdc7acb1d1071e438d24&v=4" width="24" alt="Avatar of onurvarol"> onurvarol
@@ -3407,7 +3433,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>199</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/diloabininyeri">
 				<img src="https://avatars.githubusercontent.com/u/16406839?s=72&u=e4f39676fc122cce57b77ad3f0fe43397cc4787d&v=4" width="24" alt="Avatar of diloabininyeri"> diloabininyeri
@@ -3420,7 +3446,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>199</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/Xetera">
 				<img src="https://avatars.githubusercontent.com/u/24978328?s=72&u=48beda987caccb0f380e7a0a222f061277faf842&v=4" width="24" alt="Avatar of Xetera"> Xetera
@@ -3433,7 +3459,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/yunuserbek">
 				<img src="https://avatars.githubusercontent.com/u/88515816?s=72&u=cbd00e03bccb4f9d0891abf5236088d0818b42be&v=4" width="24" alt="Avatar of yunuserbek"> yunuserbek
@@ -3446,7 +3472,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/sdogruyol">
 				<img src="https://avatars.githubusercontent.com/u/990485?s=72&u=347e57ee6fe682ca8164c0805afb65bdb01c7d72&v=4" width="24" alt="Avatar of sdogruyol"> sdogruyol
@@ -3459,7 +3485,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>261</td>
+		<td>
+			<a href="https://github.com/muratbaseren">
+				<img src="https://avatars.githubusercontent.com/u/6409039?s=72&u=9d405b7960e42889041b22636c951e5f00273fd4&v=4" width="24" alt="Avatar of muratbaseren"> muratbaseren
+			</a><br/>
+			Murat Baseren
+		</td>
+		<td>Codeove.com </td>
+		<td><a href="https://twitter.com/muratbaseren">muratbaseren</a></td>
+		<td>Istanbul, Turkey</td>
+		<td>194</td>
+	</tr>
+	<tr>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/serapo">
 				<img src="https://avatars.githubusercontent.com/u/77828715?s=72&u=8c97af3a9432cfa2856026f36a18234d1a1c66d2&v=4" width="24" alt="Avatar of serapo"> serapo
@@ -3472,7 +3511,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/kaygun">
 				<img src="https://avatars.githubusercontent.com/u/1311278?s=72&v=4" width="24" alt="Avatar of kaygun"> kaygun
@@ -3485,7 +3524,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/AliNajafi1998">
 				<img src="https://avatars.githubusercontent.com/u/39293965?s=72&u=8d0d81761744dbd98505f26abe57cdb8b39606c9&v=4" width="24" alt="Avatar of AliNajafi1998"> AliNajafi1998
@@ -3498,7 +3537,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/zehraseren">
 				<img src="https://avatars.githubusercontent.com/u/94180168?s=72&u=06a3261d08f8183086b0b8c1008269e77dfae19e&v=4" width="24" alt="Avatar of zehraseren"> zehraseren
@@ -3511,20 +3550,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>263</td>
-		<td>
-			<a href="https://github.com/muratbaseren">
-				<img src="https://avatars.githubusercontent.com/u/6409039?s=72&u=9d405b7960e42889041b22636c951e5f00273fd4&v=4" width="24" alt="Avatar of muratbaseren"> muratbaseren
-			</a><br/>
-			Murat Baseren
-		</td>
-		<td>Codeove.com </td>
-		<td><a href="https://twitter.com/muratbaseren">muratbaseren</a></td>
-		<td>Istanbul, Turkey</td>
-		<td>191</td>
-	</tr>
-	<tr>
-		<td>264</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/OrhanOzkercin">
 				<img src="https://avatars.githubusercontent.com/u/25130814?s=72&u=bea7254b4fa176b67ebc059a075210c30f802686&v=4" width="24" alt="Avatar of OrhanOzkercin"> OrhanOzkercin
@@ -3537,7 +3563,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>191</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/MehmetErtass">
 				<img src="https://avatars.githubusercontent.com/u/82137042?s=72&u=94d958be5f11647ee7a94c8e8ec45634a0ddb679&v=4" width="24" alt="Avatar of MehmetErtass"> MehmetErtass
@@ -3550,7 +3576,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>190</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/payam-zahedi">
 				<img src="https://avatars.githubusercontent.com/u/47558577?s=72&u=7e4df8c15996e8e859240a8bf17f23bc102f5d94&v=4" width="24" alt="Avatar of payam-zahedi"> payam-zahedi
@@ -3563,7 +3589,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>190</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/yasinfmd">
 				<img src="https://avatars.githubusercontent.com/u/39165806?s=72&u=c44520f0894bc4ace9bea517b8604a2b542606b0&v=4" width="24" alt="Avatar of yasinfmd"> yasinfmd
@@ -3576,7 +3602,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/NeziheSozen">
+				<img src="https://avatars.githubusercontent.com/u/6676053?s=72&u=02933a405cf57483807a0489a0a394a9efde18c4&v=4" width="24" alt="Avatar of NeziheSozen"> NeziheSozen
+			</a><br/>
+			Nezihe Sözen
+		</td>
+		<td>Siemens </td>
+		<td>No Twitter Username</td>
+		<td>Tekirdag, Turkey</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/erdempapakci">
 				<img src="https://avatars.githubusercontent.com/u/73407945?s=72&u=1b42dcab042f801c710ef544ac5cff553f75209c&v=4" width="24" alt="Avatar of erdempapakci"> erdempapakci
@@ -3589,7 +3628,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/MehdiShojaRazavi">
 				<img src="https://avatars.githubusercontent.com/u/104520516?s=72&u=3a8e9921017cdb11c9fbfca4bf80a78b00ef974b&v=4" width="24" alt="Avatar of MehdiShojaRazavi"> MehdiShojaRazavi
@@ -3602,20 +3641,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/NeziheSozen">
-				<img src="https://avatars.githubusercontent.com/u/6676053?s=72&u=02933a405cf57483807a0489a0a394a9efde18c4&v=4" width="24" alt="Avatar of NeziheSozen"> NeziheSozen
-			</a><br/>
-			Nezihe Sözen
-		</td>
-		<td>Siemens </td>
-		<td>No Twitter Username</td>
-		<td>Tekirdag, Turkey</td>
-		<td>184</td>
-	</tr>
-	<tr>
-		<td>271</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/yagmurerdogan">
 				<img src="https://avatars.githubusercontent.com/u/47380312?s=72&u=f3d42612a8ee30701fd2d27d8bfc80f1d06ddfe9&v=4" width="24" alt="Avatar of yagmurerdogan"> yagmurerdogan
@@ -3628,7 +3654,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/baristunar">
 				<img src="https://avatars.githubusercontent.com/u/58105650?s=72&u=6c28915dfbf5e25fcd8bbc09e393ba117527e911&v=4" width="24" alt="Avatar of baristunar"> baristunar
@@ -3641,7 +3667,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/ismailemregungor">
 				<img src="https://avatars.githubusercontent.com/u/54360620?s=72&u=b7825266368f5ef61b004fa6e85838915136ee71&v=4" width="24" alt="Avatar of ismailemregungor"> ismailemregungor
@@ -3654,7 +3680,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/korcankaraokcu">
 				<img src="https://avatars.githubusercontent.com/u/5638719?s=72&u=93277d4fa913c64253a47d2e214773ea2248445f&v=4" width="24" alt="Avatar of korcankaraokcu"> korcankaraokcu
@@ -3664,10 +3690,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/korcankaraokcu">korcankaraokcu</a></td>
 		<td>Çanakkale, Turkey</td>
-		<td>180</td>
+		<td>182</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/yakuter">
 				<img src="https://avatars.githubusercontent.com/u/3696314?s=72&u=e1f14ae6a848697ad9367d2023ae39234dbea755&v=4" width="24" alt="Avatar of yakuter"> yakuter
@@ -3680,7 +3706,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/hmert">
 				<img src="https://avatars.githubusercontent.com/u/182906?s=72&u=882b4570354d9241ad5a79a3c2458ec0955f3c52&v=4" width="24" alt="Avatar of hmert"> hmert
@@ -3693,20 +3719,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>277</td>
-		<td>
-			<a href="https://github.com/AliSawari">
-				<img src="https://avatars.githubusercontent.com/u/24512608?s=72&u=aaa2f982ca7a1046ee4b28c7e0818669900c14ad&v=4" width="24" alt="Avatar of AliSawari"> AliSawari
-			</a><br/>
-			Ali Sawari
-		</td>
-		<td>@proxify-dev </td>
-		<td><a href="https://twitter.com/ali_sawari24">ali_sawari24</a></td>
-		<td>Istanbul, Turkey</td>
-		<td>177</td>
-	</tr>
-	<tr>
-		<td>278</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/ezranbayantemur">
 				<img src="https://avatars.githubusercontent.com/u/42299721?s=72&u=6c5cbec173e3ce3a6457d1d61a98a89fe2e3aba8&v=4" width="24" alt="Avatar of ezranbayantemur"> ezranbayantemur
@@ -3719,7 +3732,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/MustafaAltas">
 				<img src="https://avatars.githubusercontent.com/u/93746275?s=72&u=ce13bdde56c13f37216f7a468bf1c157273e9097&v=4" width="24" alt="Avatar of MustafaAltas"> MustafaAltas
@@ -3732,7 +3745,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/SerdarTafrali">
 				<img src="https://avatars.githubusercontent.com/u/101249645?s=72&u=ecabe277212fa1a78615ecec34660e083e720cee&v=4" width="24" alt="Avatar of SerdarTafrali"> SerdarTafrali
@@ -3745,7 +3758,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/oguzsh">
 				<img src="https://avatars.githubusercontent.com/u/15168877?s=72&u=2009ed0fa34bd787ff6f255f549b81623b1cd1c0&v=4" width="24" alt="Avatar of oguzsh"> oguzsh
@@ -3758,7 +3771,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/mavisland">
 				<img src="https://avatars.githubusercontent.com/u/119868?s=72&u=85f932adf9d4c1be8e16dbafec33020beec87c4b&v=4" width="24" alt="Avatar of mavisland"> mavisland
@@ -3771,7 +3784,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/umutozel">
 				<img src="https://avatars.githubusercontent.com/u/3070050?s=72&v=4" width="24" alt="Avatar of umutozel"> umutozel
@@ -3784,7 +3797,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/FlySquare">
 				<img src="https://avatars.githubusercontent.com/u/47474804?s=72&u=23aca6d0980050461f4d6f7cc08947244c65d9eb&v=4" width="24" alt="Avatar of FlySquare"> FlySquare
@@ -3797,7 +3810,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/mesuutt">
 				<img src="https://avatars.githubusercontent.com/u/823338?s=72&u=316098a8a1a499108cbec627cc9d263537ae63cb&v=4" width="24" alt="Avatar of mesuutt"> mesuutt
@@ -3810,7 +3823,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/turhansel">
 				<img src="https://avatars.githubusercontent.com/u/63788958?s=72&u=b3d5e0c48b021c3e7a44bb91b902b383930781be&v=4" width="24" alt="Avatar of turhansel"> turhansel
@@ -3823,7 +3836,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/puskuruk">
 				<img src="https://avatars.githubusercontent.com/u/22892227?s=72&u=d174451a6a4301d5a5fe0bbc0449d9069c212b41&v=4" width="24" alt="Avatar of puskuruk"> puskuruk
@@ -3836,7 +3849,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/cansufndk">
 				<img src="https://avatars.githubusercontent.com/u/105456310?s=72&u=5b2b8b228287e7fa565fe254f91aeb4e75e106e9&v=4" width="24" alt="Avatar of cansufndk"> cansufndk
@@ -3849,7 +3862,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/nurcinozer">
 				<img src="https://avatars.githubusercontent.com/u/20209512?s=72&u=c53b163a0e5f4fd49b8da0dca0a4f4a36743b343&v=4" width="24" alt="Avatar of nurcinozer"> nurcinozer
@@ -3859,10 +3872,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Winden </td>
 		<td><a href="https://twitter.com/nurcinozer">nurcinozer</a></td>
 		<td>Turkey</td>
-		<td>170</td>
+		<td>171</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/cloud8421">
 				<img src="https://avatars.githubusercontent.com/u/537608?s=72&u=20287c0d7ba8a45a0adda478c3fb8ee7ad17622f&v=4" width="24" alt="Avatar of cloud8421"> cloud8421
@@ -3875,7 +3888,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>170</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/besimgurpinar">
 				<img src="https://avatars.githubusercontent.com/u/66904611?s=72&u=aeb4deaee45b21aafe7ed998a83358f6b4c4574d&v=4" width="24" alt="Avatar of besimgurpinar"> besimgurpinar
@@ -3888,7 +3901,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/sbahadirm">
 				<img src="https://avatars.githubusercontent.com/u/32620747?s=72&u=8c3bf148c40e96cf810e7c263f7d667acc13aa56&v=4" width="24" alt="Avatar of sbahadirm"> sbahadirm
@@ -3901,7 +3914,33 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
+		<td>
+			<a href="https://github.com/alikarakoc">
+				<img src="https://avatars.githubusercontent.com/u/16520480?s=72&u=106dec71520430d7a03f21960f141df89b6ddcdf&v=4" width="24" alt="Avatar of alikarakoc"> alikarakoc
+			</a><br/>
+			Ali Karakoc
+		</td>
+		<td>Inveon - Digital Commerce<br/>Solutions<br/></td>
+		<td>No Twitter Username</td>
+		<td>Turkey, Antalya</td>
+		<td>168</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/sadikturan">
+				<img src="https://avatars.githubusercontent.com/u/19492591?s=72&u=7e9db9c5d8b03806fc9e8ba328be029690b4ae11&v=4" width="24" alt="Avatar of sadikturan"> sadikturan
+			</a><br/>
+			Sadık Turan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>turkey</td>
+		<td>167</td>
+	</tr>
+	<tr>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/dkarakay">
 				<img src="https://avatars.githubusercontent.com/u/20050426?s=72&u=02ec1c99179201e79f963f8beb7444d20faa1ccc&v=4" width="24" alt="Avatar of dkarakay"> dkarakay
@@ -3914,7 +3953,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/orcuntuna">
 				<img src="https://avatars.githubusercontent.com/u/22179849?s=72&u=dfc26f33cefbe0dcd3d987b914e8dffd10272a72&v=4" width="24" alt="Avatar of orcuntuna"> orcuntuna
@@ -3927,7 +3966,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/mebaysan">
 				<img src="https://avatars.githubusercontent.com/u/46582456?s=72&u=07c042879ec32f0d42134683bf6de0f216e8c25b&v=4" width="24" alt="Avatar of mebaysan"> mebaysan
@@ -3940,7 +3979,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/ismailharmanda">
 				<img src="https://avatars.githubusercontent.com/u/35643022?s=72&u=b8e2f99f2b153e7030688f1a8ffdd2764bd5e3d1&v=4" width="24" alt="Avatar of ismailharmanda"> ismailharmanda
@@ -3953,20 +3992,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/alikarakoc">
-				<img src="https://avatars.githubusercontent.com/u/16520480?s=72&u=106dec71520430d7a03f21960f141df89b6ddcdf&v=4" width="24" alt="Avatar of alikarakoc"> alikarakoc
-			</a><br/>
-			Ali Karakoc
-		</td>
-		<td>Sednacloud </td>
-		<td>No Twitter Username</td>
-		<td>Turkey, Antalya</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>298</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/altaysimsek">
 				<img src="https://avatars.githubusercontent.com/u/40182670?s=72&u=750c43092a4ebcd5a482c4625c529f76bb5458db&v=4" width="24" alt="Avatar of altaysimsek"> altaysimsek
@@ -3979,20 +4005,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>299</td>
-		<td>
-			<a href="https://github.com/orhanerday">
-				<img src="https://avatars.githubusercontent.com/u/22305274?s=72&u=7d437c776cd2b14bed225b594d8f41d978c8137d&v=4" width="24" alt="Avatar of orhanerday"> orhanerday
-			</a><br/>
-			Orhan erday
-		</td>
-		<td>Orion Innovation @kandy-io </td>
-		<td><a href="https://twitter.com/orhan_erday">orhan_erday</a></td>
-		<td>Turkey Istanbul</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/AlicanAkkus">
 				<img src="https://avatars.githubusercontent.com/u/6232654?s=72&u=a1c164c2002e65ea36128308db49939f39d0114d&v=4" width="24" alt="Avatar of AlicanAkkus"> AlicanAkkus
@@ -4005,7 +4018,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/ergenekonyigit">
+				<img src="https://avatars.githubusercontent.com/u/7110136?s=72&u=6134d18af625a570fb83c53491047fb3563b2359&v=4" width="24" alt="Avatar of ergenekonyigit"> ergenekonyigit
+			</a><br/>
+			Ergenekon Yiğit
+		</td>
+		<td>@trendyol </td>
+		<td><a href="https://twitter.com/ergenekonyigit">ergenekonyigit</a></td>
+		<td>Turkey</td>
+		<td>165</td>
+	</tr>
+	<tr>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/monatis">
 				<img src="https://avatars.githubusercontent.com/u/18634956?s=72&u=8ac102cb25c2b96f6a11edb1702bc9485fc40a2f&v=4" width="24" alt="Avatar of monatis"> monatis
@@ -4018,7 +4044,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/yessGlory17">
 				<img src="https://avatars.githubusercontent.com/u/52113663?s=72&u=2f586134a41b952724873eed3383bf8310c7b8fe&v=4" width="24" alt="Avatar of yessGlory17"> yessGlory17
@@ -4031,20 +4057,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>303</td>
-		<td>
-			<a href="https://github.com/ergenekonyigit">
-				<img src="https://avatars.githubusercontent.com/u/7110136?s=72&u=6134d18af625a570fb83c53491047fb3563b2359&v=4" width="24" alt="Avatar of ergenekonyigit"> ergenekonyigit
-			</a><br/>
-			Ergenekon Yiğit
-		</td>
-		<td>@trendyol </td>
-		<td><a href="https://twitter.com/ergenekonyigit">ergenekonyigit</a></td>
-		<td>Turkey</td>
-		<td>163</td>
-	</tr>
-	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/ipekozbay">
 				<img src="https://avatars.githubusercontent.com/u/72815766?s=72&u=2a690cf22d2b4f536e8a5f9c37b39619e3e76e9d&v=4" width="24" alt="Avatar of ipekozbay"> ipekozbay
@@ -4054,23 +4067,23 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Ondokuz Mayis University </td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>163</td>
-	</tr>
-	<tr>
-		<td>305</td>
-		<td>
-			<a href="https://github.com/sadikturan">
-				<img src="https://avatars.githubusercontent.com/u/19492591?s=72&u=7e9db9c5d8b03806fc9e8ba328be029690b4ae11&v=4" width="24" alt="Avatar of sadikturan"> sadikturan
-			</a><br/>
-			Sadık Turan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>turkey</td>
-		<td>162</td>
+		<td>164</td>
 	</tr>
 	<tr>
 		<td>306</td>
+		<td>
+			<a href="https://github.com/MuratYucedag">
+				<img src="https://avatars.githubusercontent.com/u/38113834?s=72&u=104d5bd914373b05110acd3d0fe502edc72940ff&v=4" width="24" alt="Avatar of MuratYucedag"> MuratYucedag
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/murattyucedag">murattyucedag</a></td>
+		<td>istanbul</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/Blind-Striker">
 				<img src="https://avatars.githubusercontent.com/u/1965259?s=72&u=dcd727bb6d3a0e9cb8e916d8cb7968825eb34a26&v=4" width="24" alt="Avatar of Blind-Striker"> Blind-Striker
@@ -4083,7 +4096,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/kaanozbudak">
 				<img src="https://avatars.githubusercontent.com/u/26629591?s=72&u=cb7b0c21b012ef188c97f5be6a1302ddb1133329&v=4" width="24" alt="Avatar of kaanozbudak"> kaanozbudak
@@ -4096,7 +4109,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/woosal1337">
 				<img src="https://avatars.githubusercontent.com/u/69302858?s=72&u=988d1366d6fbda585b1402221dba4c8d3185aebd&v=4" width="24" alt="Avatar of woosal1337"> woosal1337
@@ -4109,7 +4122,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/muharremkoc">
 				<img src="https://avatars.githubusercontent.com/u/80245013?s=72&v=4" width="24" alt="Avatar of muharremkoc"> muharremkoc
@@ -4122,7 +4135,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/BarisKarapelit">
 				<img src="https://avatars.githubusercontent.com/u/45313973?s=72&u=0d2d87c17c5f12f8d828ccf9ef409e9def3a33ab&v=4" width="24" alt="Avatar of BarisKarapelit"> BarisKarapelit
@@ -4135,7 +4148,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/mrtlive">
 				<img src="https://avatars.githubusercontent.com/u/23610345?s=72&u=5e24be748a7c1ab7b4aadab24ee582744dac16ac&v=4" width="24" alt="Avatar of mrtlive"> mrtlive
@@ -4148,7 +4161,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/ardaagdemir">
 				<img src="https://avatars.githubusercontent.com/u/78280355?s=72&u=7b15707a44a3a4220cf775c5a75f5d34d5de2532&v=4" width="24" alt="Avatar of ardaagdemir"> ardaagdemir
@@ -4159,19 +4172,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ankara,Turkey</td>
 		<td>158</td>
-	</tr>
-	<tr>
-		<td>313</td>
-		<td>
-			<a href="https://github.com/MuratYucedag">
-				<img src="https://avatars.githubusercontent.com/u/38113834?s=72&u=104d5bd914373b05110acd3d0fe502edc72940ff&v=4" width="24" alt="Avatar of MuratYucedag"> MuratYucedag
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/murattyucedag">murattyucedag</a></td>
-		<td>istanbul</td>
-		<td>157</td>
 	</tr>
 	<tr>
 		<td>314</td>
@@ -4215,14 +4215,14 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>317</td>
 		<td>
-			<a href="https://github.com/ParvinEyvazov">
-				<img src="https://avatars.githubusercontent.com/u/32189770?s=72&u=1938936be297dbedec27d2d4d760443f80f0bc4b&v=4" width="24" alt="Avatar of ParvinEyvazov"> ParvinEyvazov
+			<a href="https://github.com/cangokceaslan">
+				<img src="https://avatars.githubusercontent.com/u/48398625?s=72&u=760880b464efab489b8ff2864e5b0b1e798504f8&v=4" width="24" alt="Avatar of cangokceaslan"> cangokceaslan
 			</a><br/>
-			Parvin Eyvazov
+			Can Gökçeaslan
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/eyvzov">eyvzov</a></td>
-		<td>Antalya, Turkey</td>
+		<td>@bartyapp </td>
+		<td><a href="https://twitter.com/cangokceaslan">cangokceaslan</a></td>
+		<td>Istanbul / Turkey</td>
 		<td>155</td>
 	</tr>
 	<tr>
@@ -4236,10 +4236,23 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@bartyapp </td>
 		<td><a href="https://twitter.com/cangokceaslan">cangokceaslan</a></td>
 		<td>Istanbul / Turkey</td>
-		<td>154</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>319</td>
+		<td>
+			<a href="https://github.com/ParvinEyvazov">
+				<img src="https://avatars.githubusercontent.com/u/32189770?s=72&u=1938936be297dbedec27d2d4d760443f80f0bc4b&v=4" width="24" alt="Avatar of ParvinEyvazov"> ParvinEyvazov
+			</a><br/>
+			Parvin Eyvazov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/eyvzov">eyvzov</a></td>
+		<td>Antalya, Turkey</td>
+		<td>155</td>
+	</tr>
+	<tr>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/Yengas">
 				<img src="https://avatars.githubusercontent.com/u/3743507?s=72&v=4" width="24" alt="Avatar of Yengas"> Yengas
@@ -4249,19 +4262,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@affinidi </td>
 		<td>No Twitter Username</td>
 		<td>İstanbul, Turkey</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/vuslatsena">
-				<img src="https://avatars.githubusercontent.com/u/47564075?s=72&u=65f5606ed48e89fedf88ed4a01558acdd4ccbe38&v=4" width="24" alt="Avatar of vuslatsena"> vuslatsena
-			</a><br/>
-			Vuslat S. Emre
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NightmaresTown">NightmaresTown</a></td>
-		<td>Ankara</td>
 		<td>153</td>
 	</tr>
 	<tr>
@@ -4280,6 +4280,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>322</td>
 		<td>
+			<a href="https://github.com/veyselaksin">
+				<img src="https://avatars.githubusercontent.com/u/32255510?s=72&u=a931ca3d24676c58d0b639eb97a9bf0a4f43059b&v=4" width="24" alt="Avatar of veyselaksin"> veyselaksin
+			</a><br/>
+			Veysel Aksin
+		</td>
+		<td>Tga </td>
+		<td><a href="https://twitter.com/veyselaksinn">veyselaksinn</a></td>
+		<td>İstanbul/Türkiye</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a href="https://github.com/sugrado">
 				<img src="https://avatars.githubusercontent.com/u/76165528?s=72&u=a3c2125fa41852e32f3b752470088cde3967f2dd&v=4" width="24" alt="Avatar of sugrado"> sugrado
 			</a><br/>
@@ -4291,7 +4304,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/Serdar-Trk">
 				<img src="https://avatars.githubusercontent.com/u/116160977?s=72&u=5a2b71a7c3702905d1ecbef76d85f9f1e230d503&v=4" width="24" alt="Avatar of Serdar-Trk"> Serdar-Trk
@@ -4302,19 +4315,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Istanbul</td>
 		<td>149</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
-			<a href="https://github.com/veyselaksin">
-				<img src="https://avatars.githubusercontent.com/u/32255510?s=72&u=a931ca3d24676c58d0b639eb97a9bf0a4f43059b&v=4" width="24" alt="Avatar of veyselaksin"> veyselaksin
-			</a><br/>
-			Veysel Aksin
-		</td>
-		<td>Tga </td>
-		<td><a href="https://twitter.com/veyselaksinn">veyselaksinn</a></td>
-		<td>İstanbul/Türkiye</td>
-		<td>148</td>
 	</tr>
 	<tr>
 		<td>325</td>
@@ -4332,6 +4332,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>326</td>
 		<td>
+			<a href="https://github.com/vuslatsena">
+				<img src="https://avatars.githubusercontent.com/u/47564075?s=72&u=8c6cd11fe45a694c6824366b019a7394ceff66c8&v=4" width="24" alt="Avatar of vuslatsena"> vuslatsena
+			</a><br/>
+			Vuslat S. Emre
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NightmaresTown">NightmaresTown</a></td>
+		<td>Turkey</td>
+		<td>147</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
 			<a href="https://github.com/seydanurdemir">
 				<img src="https://avatars.githubusercontent.com/u/57226488?s=72&u=a9d75a472c1e724b2da53ff5d12eb37cc143c868&v=4" width="24" alt="Avatar of seydanurdemir"> seydanurdemir
 			</a><br/>
@@ -4343,7 +4356,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/berkayberatsonmez">
 				<img src="https://avatars.githubusercontent.com/u/60455005?s=72&u=9c6f025e38fe0d512156d591d1bc23be8a06c6ae&v=4" width="24" alt="Avatar of berkayberatsonmez"> berkayberatsonmez
@@ -4356,7 +4369,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
+		<td>
+			<a href="https://github.com/Burakustunnn">
+				<img src="https://avatars.githubusercontent.com/u/118963789?s=72&u=ed7be7ca7f058d53e6d9ffee7b6a08a13442f0d1&v=4" width="24" alt="Avatar of Burakustunnn"> Burakustunnn
+			</a><br/>
+			Burak ÜSTÜN
+		</td>
+		<td>Clarusway </td>
+		<td>No Twitter Username</td>
+		<td>Sakarya / Turkey</td>
+		<td>144</td>
+	</tr>
+	<tr>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/emreharman">
 				<img src="https://avatars.githubusercontent.com/u/62759730?s=72&u=87d9ba198b63e9814c60337f144ab9d8db6f16ce&v=4" width="24" alt="Avatar of emreharman"> emreharman
@@ -4369,20 +4395,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/Burakustunnn">
-				<img src="https://avatars.githubusercontent.com/u/118963789?s=72&u=ed7be7ca7f058d53e6d9ffee7b6a08a13442f0d1&v=4" width="24" alt="Avatar of Burakustunnn"> Burakustunnn
-			</a><br/>
-			Burak ÜSTÜN
-		</td>
-		<td>Clarusway </td>
-		<td>No Twitter Username</td>
-		<td>Sakarya / Turkey</td>
-		<td>143</td>
-	</tr>
-	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/Furchtlosdunkel">
 				<img src="https://avatars.githubusercontent.com/u/123778638?s=72&u=d6a3780a290434f1df87ec687c57b05d99d5f104&v=4" width="24" alt="Avatar of Furchtlosdunkel"> Furchtlosdunkel
@@ -4392,10 +4405,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ankara,Turkiye</td>
-		<td>142</td>
+		<td>143</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/destan">
 				<img src="https://avatars.githubusercontent.com/u/442813?s=72&u=b96aa16dab89417d72aced33f7a463155998b083&v=4" width="24" alt="Avatar of destan"> destan
@@ -4408,7 +4421,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/serhanelmali">
 				<img src="https://avatars.githubusercontent.com/u/41656344?s=72&u=ae2ca9aa032e6241b9d296f86b99adc4ee681141&v=4" width="24" alt="Avatar of serhanelmali"> serhanelmali
@@ -4421,7 +4434,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/bilallgunaydin">
 				<img src="https://avatars.githubusercontent.com/u/21973124?s=72&u=807738916a9c12e04c762c4b55b94359fa9cea1f&v=4" width="24" alt="Avatar of bilallgunaydin"> bilallgunaydin
@@ -4434,7 +4447,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/atakankizilyuce">
 				<img src="https://avatars.githubusercontent.com/u/99099880?s=72&u=259b56a2c38ccc63185b5cc41321b65f84257c8f&v=4" width="24" alt="Avatar of atakankizilyuce"> atakankizilyuce
@@ -4447,7 +4460,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/frknsnmz">
 				<img src="https://avatars.githubusercontent.com/u/26166215?s=72&u=8b96095abbe273943a5bd32dedb5dc01f4e173da&v=4" width="24" alt="Avatar of frknsnmz"> frknsnmz
@@ -4460,7 +4473,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/leylatulu">
+				<img src="https://avatars.githubusercontent.com/u/53316818?s=72&u=604ce5a8307a1f18f3fba8937eef2701ffd05673&v=4" width="24" alt="Avatar of leylatulu"> leylatulu
+			</a><br/>
+			Leyla TÜLÜ
+		</td>
+		<td>Pamukkale University </td>
+		<td><a href="https://twitter.com/leylatulu">leylatulu</a></td>
+		<td>Turkey</td>
+		<td>140</td>
+	</tr>
+	<tr>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/ramazanogunc">
 				<img src="https://avatars.githubusercontent.com/u/46759371?s=72&u=304429acf50502579881d295a7f307f4c2f2a0c3&v=4" width="24" alt="Avatar of ramazanogunc"> ramazanogunc
@@ -4473,7 +4499,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/cengiztoru">
 				<img src="https://avatars.githubusercontent.com/u/28221219?s=72&u=559597a106e76e99ad8d5e4213941d91ea5c04f7&v=4" width="24" alt="Avatar of cengiztoru"> cengiztoru
@@ -4486,7 +4512,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/muratmirgun">
 				<img src="https://avatars.githubusercontent.com/u/45563173?s=72&u=744066cdfc55287804f35748db3e9bb5707c0af0&v=4" width="24" alt="Avatar of muratmirgun"> muratmirgun
@@ -4499,7 +4525,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/iuzn">
 				<img src="https://avatars.githubusercontent.com/u/25708048?s=72&u=f6938aa81a1fb778f534a64060f23d5e16d237e1&v=4" width="24" alt="Avatar of iuzn"> iuzn
@@ -4512,7 +4538,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/ozgekaral">
 				<img src="https://avatars.githubusercontent.com/u/83587786?s=72&u=cd80b2000736dce5585353cc96e55d0a4b109def&v=4" width="24" alt="Avatar of ozgekaral"> ozgekaral
@@ -4525,7 +4551,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/gulnisaslan">
 				<img src="https://avatars.githubusercontent.com/u/68703245?s=72&u=0123ebbac711eaea1f14e004a92cf29a17936366&v=4" width="24" alt="Avatar of gulnisaslan"> gulnisaslan
@@ -4538,20 +4564,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>342</td>
-		<td>
-			<a href="https://github.com/leylatulu">
-				<img src="https://avatars.githubusercontent.com/u/53316818?s=72&u=604ce5a8307a1f18f3fba8937eef2701ffd05673&v=4" width="24" alt="Avatar of leylatulu"> leylatulu
-			</a><br/>
-			Leyla TÜLÜ
-		</td>
-		<td>Pamukkale University </td>
-		<td><a href="https://twitter.com/leylatulu">leylatulu</a></td>
-		<td>Turkey</td>
-		<td>133</td>
-	</tr>
-	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/adnanyangilic">
 				<img src="https://avatars.githubusercontent.com/u/65245974?s=72&u=9a92f26ecbb60807e610bfbc5f22f6fe0aa9901b&v=4" width="24" alt="Avatar of adnanyangilic"> adnanyangilic
@@ -4564,7 +4577,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/serkanalc">
 				<img src="https://avatars.githubusercontent.com/u/70329389?s=72&u=34b7f5dd02232dd6fff7e03028ef7b09c1889933&v=4" width="24" alt="Avatar of serkanalc"> serkanalc
@@ -4577,7 +4590,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/ahmetkotan">
 				<img src="https://avatars.githubusercontent.com/u/6793206?s=72&u=dbfbb9efa1aee4594b5387b2e24e01dcf2ef30c5&v=4" width="24" alt="Avatar of ahmetkotan"> ahmetkotan
@@ -4590,7 +4603,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/AyselAydin">
 				<img src="https://avatars.githubusercontent.com/u/10837799?s=72&u=bf9e351a46e6073ddb9850bac80b2af43df1fcca&v=4" width="24" alt="Avatar of AyselAydin"> AyselAydin
@@ -4603,20 +4616,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/R3nzTheCodeGOD">
-				<img src="https://avatars.githubusercontent.com/u/58574988?s=72&u=4db6d96ab2cb6aeaaaff376e450d3a65755ddf34&v=4" width="24" alt="Avatar of R3nzTheCodeGOD"> R3nzTheCodeGOD
+				<img src="https://avatars.githubusercontent.com/u/58574988?s=72&u=0d26cbf4271a4b820623198423fa4b0266426a3d&v=4" width="24" alt="Avatar of R3nzTheCodeGOD"> R3nzTheCodeGOD
 			</a><br/>
 			Erdem Yılmaz
 		</td>
-		<td>No Company</td>
+		<td>Tsk </td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/smyrduran3535">
 				<img src="https://avatars.githubusercontent.com/u/117444554?s=72&u=6773c247a21fc797073ec96073424b178674b25c&v=4" width="24" alt="Avatar of smyrduran3535"> smyrduran3535
@@ -4629,7 +4642,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/giko">
 				<img src="https://avatars.githubusercontent.com/u/408908?s=72&u=95b0b5ee5c816c1c36a35497b87c013bee7884f2&v=4" width="24" alt="Avatar of giko"> giko
@@ -4642,7 +4655,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/zehrocknroll">
 				<img src="https://avatars.githubusercontent.com/u/61087833?s=72&u=3c15633a80f62cb41e033daafa088a4a342ebd54&v=4" width="24" alt="Avatar of zehrocknroll"> zehrocknroll
@@ -4655,7 +4668,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/MET-DEV">
 				<img src="https://avatars.githubusercontent.com/u/72195347?s=72&u=4ac4e11c91b777c4b19fb011329fd47d7054925e&v=4" width="24" alt="Avatar of MET-DEV"> MET-DEV
@@ -4668,7 +4681,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/Furkan-Gulsen">
 				<img src="https://avatars.githubusercontent.com/u/41703336?s=72&u=6f70226423185fa5be3c08fa33c7b6d65bb64011&v=4" width="24" alt="Avatar of Furkan-Gulsen"> Furkan-Gulsen
@@ -4681,7 +4694,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/malibayram">
 				<img src="https://avatars.githubusercontent.com/u/18294669?s=72&u=86de4e1143cbb7be8968bb9aa898f621a2321b6e&v=4" width="24" alt="Avatar of malibayram"> malibayram
@@ -4691,10 +4704,10 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Dershub </td>
 		<td><a href="https://twitter.com/malibayram21">malibayram21</a></td>
 		<td>Turkey</td>
-		<td>126</td>
+		<td>127</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/anilcanboga">
 				<img src="https://avatars.githubusercontent.com/u/60179891?s=72&u=0c496ff12dbd79081f6dbd2cdfb3888eda9728f8&v=4" width="24" alt="Avatar of anilcanboga"> anilcanboga
@@ -4707,7 +4720,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/bonesoul">
 				<img src="https://avatars.githubusercontent.com/u/73215?s=72&u=f1fa50c17a19969842e81aa29e7814c07693a532&v=4" width="24" alt="Avatar of bonesoul"> bonesoul
@@ -4720,7 +4733,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/renakdup">
 				<img src="https://avatars.githubusercontent.com/u/9306079?s=72&u=60952658a9b8871ec3eaa41859a167740f1f795d&v=4" width="24" alt="Avatar of renakdup"> renakdup
@@ -4733,7 +4746,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/AhmetFurkanDEMIR">
 				<img src="https://avatars.githubusercontent.com/u/54184905?s=72&u=d3ddc297782b3bb803eedccb3a3d50201b035bdc&v=4" width="24" alt="Avatar of AhmetFurkanDEMIR"> AhmetFurkanDEMIR
@@ -4746,7 +4759,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/suhakesikbas">
 				<img src="https://avatars.githubusercontent.com/u/14832001?s=72&u=b905edbcfc13f6e2ac94a672ff13a9962d3aa297&v=4" width="24" alt="Avatar of suhakesikbas"> suhakesikbas
@@ -4759,7 +4772,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/yemregundogmus">
 				<img src="https://avatars.githubusercontent.com/u/32923721?s=72&u=f2f59a3d8a285c81a21f0c6ff35548b3dcb2fad3&v=4" width="24" alt="Avatar of yemregundogmus"> yemregundogmus
@@ -4772,7 +4785,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/KadriyeMacit">
 				<img src="https://avatars.githubusercontent.com/u/13748518?s=72&u=cb20d65a6124f8c9f8e233b99dd0d1115f4ce914&v=4" width="24" alt="Avatar of KadriyeMacit"> KadriyeMacit
@@ -4785,7 +4798,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/TarikSogukpinar">
 				<img src="https://avatars.githubusercontent.com/u/70908075?s=72&u=7490b21f9016191403c95bb482ffeb90285da22d&v=4" width="24" alt="Avatar of TarikSogukpinar"> TarikSogukpinar
@@ -4798,7 +4811,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/kaaneneskpc">
 				<img src="https://avatars.githubusercontent.com/u/32849662?s=72&u=c635f6e5c64231683c152f5dc9ee66f74cbc42f5&v=4" width="24" alt="Avatar of kaaneneskpc"> kaaneneskpc
@@ -4811,7 +4824,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/barisertugrul">
 				<img src="https://avatars.githubusercontent.com/u/14530167?s=72&u=4c38f2e19a7e8e60dbb1b16bd787aa7b3d73fa45&v=4" width="24" alt="Avatar of barisertugrul"> barisertugrul
@@ -4824,7 +4837,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/lemiorhan">
 				<img src="https://avatars.githubusercontent.com/u/1199195?s=72&u=5c556cbe3a4204ece773c71797b1d106a1ca13e5&v=4" width="24" alt="Avatar of lemiorhan"> lemiorhan
@@ -4837,7 +4850,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/SabaUrgup">
 				<img src="https://avatars.githubusercontent.com/u/76062971?s=72&u=389674cdbd92ad3e47f439dcc05a01c9a31079fb&v=4" width="24" alt="Avatar of SabaUrgup"> SabaUrgup
@@ -4850,7 +4863,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/halilxibrahim">
 				<img src="https://avatars.githubusercontent.com/u/54751699?s=72&u=5832d4aae23ba456d51c3b26065e62db37978dfb&v=4" width="24" alt="Avatar of halilxibrahim"> halilxibrahim
@@ -4863,7 +4876,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/omergulcicek">
 				<img src="https://avatars.githubusercontent.com/u/13813170?s=72&u=96779dde9bbb30fa4dcababcd362d6b0a385b4f7&v=4" width="24" alt="Avatar of omergulcicek"> omergulcicek
@@ -4876,7 +4889,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/ismkdc">
 				<img src="https://avatars.githubusercontent.com/u/15053433?s=72&u=f49d9dcb1f6873ca3f748c6a39e29a4822a88777&v=4" width="24" alt="Avatar of ismkdc"> ismkdc
@@ -4889,7 +4902,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/cagatayfilburnu">
 				<img src="https://avatars.githubusercontent.com/u/95078183?s=72&u=9d317a3ef53ed3e5cdc14058eb893f764f61f60e&v=4" width="24" alt="Avatar of cagatayfilburnu"> cagatayfilburnu
@@ -4902,7 +4915,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/yusufonderd">
 				<img src="https://avatars.githubusercontent.com/u/13941871?s=72&u=09f5959fdfeb001f984092b835fece27a8a85ff0&v=4" width="24" alt="Avatar of yusufonderd"> yusufonderd
@@ -4915,7 +4928,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/mrna0">
 				<img src="https://avatars.githubusercontent.com/u/4294069?s=72&u=a8f5a39abb0c0cefce2d9cca29a0733d1af3ed77&v=4" width="24" alt="Avatar of mrna0"> mrna0
@@ -4928,7 +4941,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/sametdogan666">
 				<img src="https://avatars.githubusercontent.com/u/57117217?s=72&u=a728860af27e4575b5a521ae5098d0d70ff23f79&v=4" width="24" alt="Avatar of sametdogan666"> sametdogan666
@@ -4941,7 +4954,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/altuga">
 				<img src="https://avatars.githubusercontent.com/u/199474?s=72&u=3ca554bdbf30ea0bde152a136f7a5f4a77784381&v=4" width="24" alt="Avatar of altuga"> altuga
@@ -4954,7 +4967,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/OzerBey">
 				<img src="https://avatars.githubusercontent.com/u/49093196?s=72&u=9ebed76e273482390bd0f764befbf2fe533a40b0&v=4" width="24" alt="Avatar of OzerBey"> OzerBey
@@ -4967,7 +4980,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/berkorbay">
 				<img src="https://avatars.githubusercontent.com/u/5690139?s=72&u=12a7756f43cbef9225609b6f3cbb1a9cc4ed2cd8&v=4" width="24" alt="Avatar of berkorbay"> berkorbay
@@ -4980,7 +4993,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/emirozturk">
 				<img src="https://avatars.githubusercontent.com/u/8355818?s=72&u=c750d26d8fa37d138bed06b755a27f2ef52c0c10&v=4" width="24" alt="Avatar of emirozturk"> emirozturk
@@ -4993,7 +5006,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/zehraikizler">
 				<img src="https://avatars.githubusercontent.com/u/79922791?s=72&u=96cfa74c4fe4c5a8a3bada77ad92f8633c53c86b&v=4" width="24" alt="Avatar of zehraikizler"> zehraikizler
@@ -5006,7 +5019,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/xcansuxakgul">
 				<img src="https://avatars.githubusercontent.com/u/95279658?s=72&u=8bcf07dbb150598c30703b59f9bdf5e254e73e5b&v=4" width="24" alt="Avatar of xcansuxakgul"> xcansuxakgul
@@ -5019,7 +5032,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/yusufyilmazfr">
 				<img src="https://avatars.githubusercontent.com/u/43035417?s=72&u=1fa336674e42375ce35cdb681f0fd8414a4b0a6e&v=4" width="24" alt="Avatar of yusufyilmazfr"> yusufyilmazfr
@@ -5032,7 +5045,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/mbaykenar">
 				<img src="https://avatars.githubusercontent.com/u/1922202?s=72&u=2ee61878e615cc8ab32c650360febfbff385456a&v=4" width="24" alt="Avatar of mbaykenar"> mbaykenar
@@ -5045,7 +5058,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/dgurkaynak">
 				<img src="https://avatars.githubusercontent.com/u/1475786?s=72&u=2034b1b6403d903e06648ab413612a54e3b01c29&v=4" width="24" alt="Avatar of dgurkaynak"> dgurkaynak
@@ -5058,7 +5071,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/muratcanbur">
 				<img src="https://avatars.githubusercontent.com/u/3374279?s=72&u=41f15512d20597f46df4d2b5bc84d266125bfa17&v=4" width="24" alt="Avatar of muratcanbur"> muratcanbur
@@ -5071,7 +5084,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/berkayalan">
 				<img src="https://avatars.githubusercontent.com/u/22522514?s=72&u=4388c3c6108634a666a97087eae8df73e1f035d9&v=4" width="24" alt="Avatar of berkayalan"> berkayalan
@@ -5084,7 +5097,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/mehmettuzcu">
 				<img src="https://avatars.githubusercontent.com/u/77541849?s=72&u=2dc008111dd1a50b4a056d5575c6d8657ee2662d&v=4" width="24" alt="Avatar of mehmettuzcu"> mehmettuzcu
@@ -5097,7 +5110,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/gkbrk">
 				<img src="https://avatars.githubusercontent.com/u/3153378?s=72&u=adc35726ee9ff8f6fdcdbb75e773285434a63bc3&v=4" width="24" alt="Avatar of gkbrk"> gkbrk
@@ -5110,7 +5123,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/zelihaznk">
 				<img src="https://avatars.githubusercontent.com/u/104687580?s=72&u=e3ed3f653e626984cdea526d4687068d03e8df49&v=4" width="24" alt="Avatar of zelihaznk"> zelihaznk
@@ -5123,7 +5136,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
+		<td>
+			<a href="https://github.com/alialpay">
+				<img src="https://avatars.githubusercontent.com/u/63648362?s=72&u=0212522ebaaab294f780cc30ba80f51d4c607710&v=4" width="24" alt="Avatar of alialpay"> alialpay
+			</a><br/>
+			No Name
+		</td>
+		<td>Turksat </td>
+		<td>No Twitter Username</td>
+		<td>Ankara</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/kesermustafa">
 				<img src="https://avatars.githubusercontent.com/u/111539115?s=72&u=3b91f6ceec20512cb7552f60ab58ec69e3d04a73&v=4" width="24" alt="Avatar of kesermustafa"> kesermustafa
@@ -5136,7 +5162,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/eminfedar">
 				<img src="https://avatars.githubusercontent.com/u/14258668?s=72&u=1171bef85b317601edb279845047016b8d3ecfae&v=4" width="24" alt="Avatar of eminfedar"> eminfedar
@@ -5149,20 +5175,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/alialpay">
-				<img src="https://avatars.githubusercontent.com/u/63648362?s=72&u=0212522ebaaab294f780cc30ba80f51d4c607710&v=4" width="24" alt="Avatar of alialpay"> alialpay
-			</a><br/>
-			No Name
-		</td>
-		<td>Turksat </td>
-		<td>No Twitter Username</td>
-		<td>Ankara</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/Melkitaulamunn">
 				<img src="https://avatars.githubusercontent.com/u/116838232?s=72&u=c57048cbcbbeb8f3b8a19884fd949a51ca202e9a&v=4" width="24" alt="Avatar of Melkitaulamunn"> Melkitaulamunn
@@ -5175,7 +5188,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/umutphp">
 				<img src="https://avatars.githubusercontent.com/u/3245166?s=72&u=937a6dbac4a7af383bfea3ea9699811dbe343551&v=4" width="24" alt="Avatar of umutphp"> umutphp
@@ -5188,7 +5201,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/aliorhun">
 				<img src="https://avatars.githubusercontent.com/u/260880?s=72&u=e81f079fadf1f328632f91a6fd53eea2c0a122e0&v=4" width="24" alt="Avatar of aliorhun"> aliorhun
@@ -5201,7 +5214,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/cosgunhalil">
 				<img src="https://avatars.githubusercontent.com/u/2530936?s=72&u=f75aae6bbba020b8c8f92fd640248b70beff1340&v=4" width="24" alt="Avatar of cosgunhalil"> cosgunhalil
@@ -5214,7 +5227,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/kilic">
+				<img src="https://avatars.githubusercontent.com/u/37699285?s=72&v=4" width="24" alt="Avatar of kilic"> kilic
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Istanbul</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/mtahiraslan">
 				<img src="https://avatars.githubusercontent.com/u/67426745?s=72&u=18a676dd99ac4b6591ba2dd9b957cc1264ca2fd9&v=4" width="24" alt="Avatar of mtahiraslan"> mtahiraslan
@@ -5227,7 +5253,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/mehmetozkaya">
 				<img src="https://avatars.githubusercontent.com/u/1147445?s=72&u=ba8a413c7b1f3c77627101cebf4495cfff2b4ea8&v=4" width="24" alt="Avatar of mehmetozkaya"> mehmetozkaya
@@ -5240,7 +5266,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/meseven">
 				<img src="https://avatars.githubusercontent.com/u/1716620?s=72&u=5e8c18c621b9fc75acab23bda89c88a1afa0bbe6&v=4" width="24" alt="Avatar of meseven"> meseven
@@ -5253,7 +5279,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/tolgaboroglu">
 				<img src="https://avatars.githubusercontent.com/u/46046034?s=72&u=a10e32bd845918a5da46b3cec2652289463eeb23&v=4" width="24" alt="Avatar of tolgaboroglu"> tolgaboroglu
@@ -5266,20 +5292,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>398</td>
-		<td>
-			<a href="https://github.com/kilic">
-				<img src="https://avatars.githubusercontent.com/u/37699285?s=72&v=4" width="24" alt="Avatar of kilic"> kilic
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Istanbul</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/falconsw">
 				<img src="https://avatars.githubusercontent.com/u/6252528?s=72&u=101d1c1711a85ee463a32ea54944ac9aa6ffdb97&v=4" width="24" alt="Avatar of falconsw"> falconsw
@@ -5292,7 +5305,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/mesutozturk">
 				<img src="https://avatars.githubusercontent.com/u/10278595?s=72&u=b24999ad88874f13ec978dec0e96999524f4d550&v=4" width="24" alt="Avatar of mesutozturk"> mesutozturk
@@ -5305,7 +5318,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>402</td>
+		<td>
+			<a href="https://github.com/yigitguler">
+				<img src="https://avatars.githubusercontent.com/u/1478210?s=72&u=53b49e212aa0df9f4eaa6f2460d7ec95d5ded514&v=4" width="24" alt="Avatar of yigitguler"> yigitguler
+			</a><br/>
+			Yiğit Güler
+		</td>
+		<td>Hipo </td>
+		<td>No Twitter Username</td>
+		<td>Istanbul</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/yusufozgul">
 				<img src="https://avatars.githubusercontent.com/u/26109252?s=72&u=23044912cc512095974a7b30b74c5458b48f6246&v=4" width="24" alt="Avatar of yusufozgul"> yusufozgul
@@ -5318,7 +5344,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>404</td>
+		<td>
+			<a href="https://github.com/Ersoy46">
+				<img src="https://avatars.githubusercontent.com/u/111954731?s=72&u=29eacd89da880fc6f0e10a2d2fd039fc4737a148&v=4" width="24" alt="Avatar of Ersoy46"> Ersoy46
+			</a><br/>
+			ERTUĞRUL ERSOY
+		</td>
+		<td>Rexven </td>
+		<td>No Twitter Username</td>
+		<td>Ankara/Trukey</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/zekzekus">
 				<img src="https://avatars.githubusercontent.com/u/72403?s=72&u=4961b41c71cc484964f51b6e311571b6f5610ced&v=4" width="24" alt="Avatar of zekzekus"> zekzekus
@@ -5331,20 +5370,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>406</td>
 		<td>
-			<a href="https://github.com/Ersoy46">
-				<img src="https://avatars.githubusercontent.com/u/111954731?s=72&u=29eacd89da880fc6f0e10a2d2fd039fc4737a148&v=4" width="24" alt="Avatar of Ersoy46"> Ersoy46
+			<a href="https://github.com/Erenn19">
+				<img src="https://avatars.githubusercontent.com/u/79603569?s=72&u=02e3a6cfa49edb7a90a74ae8c715968ea45809b0&v=4" width="24" alt="Avatar of Erenn19"> Erenn19
 			</a><br/>
-			ERTUĞRUL ERSOY
+			Eren Birk
 		</td>
-		<td>Rexven </td>
-		<td>No Twitter Username</td>
-		<td>Ankara/Trukey</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ErenBirk">ErenBirk</a></td>
+		<td>Istanbul,Turkey</td>
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/abbaselmas">
 				<img src="https://avatars.githubusercontent.com/u/28142617?s=72&v=4" width="24" alt="Avatar of abbaselmas"> abbaselmas
@@ -5357,33 +5396,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/yigitguler">
-				<img src="https://avatars.githubusercontent.com/u/1478210?s=72&u=53b49e212aa0df9f4eaa6f2460d7ec95d5ded514&v=4" width="24" alt="Avatar of yigitguler"> yigitguler
-			</a><br/>
-			Yiğit Güler
-		</td>
-		<td>Hipo </td>
-		<td>No Twitter Username</td>
-		<td>Istanbul</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>406</td>
-		<td>
-			<a href="https://github.com/Erenn19">
-				<img src="https://avatars.githubusercontent.com/u/79603569?s=72&u=02e3a6cfa49edb7a90a74ae8c715968ea45809b0&v=4" width="24" alt="Avatar of Erenn19"> Erenn19
-			</a><br/>
-			Eren Birk
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ErenBirk">ErenBirk</a></td>
-		<td>Istanbul,Turkey</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/berkaynayman">
 				<img src="https://avatars.githubusercontent.com/u/62603509?s=72&v=4" width="24" alt="Avatar of berkaynayman"> berkaynayman
@@ -5396,7 +5409,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/damlacim">
 				<img src="https://avatars.githubusercontent.com/u/58213594?s=72&u=533b3247ed69682fc5a4d8f3b16bfc583f253907&v=4" width="24" alt="Avatar of damlacim"> damlacim
@@ -5409,7 +5422,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/halilozcan">
 				<img src="https://avatars.githubusercontent.com/u/31517818?s=72&u=7bcb49250dcf29ea2dbf87f462427b4fe20bb73c&v=4" width="24" alt="Avatar of halilozcan"> halilozcan
@@ -5422,7 +5435,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/BunyaminEfe">
 				<img src="https://avatars.githubusercontent.com/u/30906513?s=72&u=bcab10ceacc8bcd0651abc485be8a5ad8b343248&v=4" width="24" alt="Avatar of BunyaminEfe"> BunyaminEfe
@@ -5435,7 +5448,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/muratdemirci">
 				<img src="https://avatars.githubusercontent.com/u/6681137?s=72&u=9f659cdc2a696ef8daa4af7803e91be7352501c4&v=4" width="24" alt="Avatar of muratdemirci"> muratdemirci
@@ -5448,7 +5461,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/MelihOzaslan01">
 				<img src="https://avatars.githubusercontent.com/u/61635941?s=72&u=097958ddcf85cf46c04c8fd3ea056739cf642213&v=4" width="24" alt="Avatar of MelihOzaslan01"> MelihOzaslan01
@@ -5459,19 +5472,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td><a href="https://twitter.com/OzaslanMelih">OzaslanMelih</a></td>
 		<td>Adana, Turkey</td>
 		<td>92</td>
-	</tr>
-	<tr>
-		<td>413</td>
-		<td>
-			<a href="https://github.com/enestoy">
-				<img src="https://avatars.githubusercontent.com/u/79420918?s=72&u=a9e7c0adad9013062287e45d8cabc9742032df1e&v=4" width="24" alt="Avatar of enestoy"> enestoy
-			</a><br/>
-			enes
-		</td>
-		<td>Istanbul </td>
-		<td>No Twitter Username</td>
-		<td>Turkey</td>
-		<td>91</td>
 	</tr>
 	<tr>
 		<td>414</td>
@@ -5489,19 +5489,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>415</td>
 		<td>
-			<a href="https://github.com/hsnaydd">
-				<img src="https://avatars.githubusercontent.com/u/2880893?s=72&v=4" width="24" alt="Avatar of hsnaydd"> hsnaydd
-			</a><br/>
-			Hasan Aydoğdu
-		</td>
-		<td>Atölye15 </td>
-		<td><a href="https://twitter.com/hsnaydd">hsnaydd</a></td>
-		<td>İzmir, Turkey</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>416</td>
-		<td>
 			<a href="https://github.com/edanursunay">
 				<img src="https://avatars.githubusercontent.com/u/111927932?s=72&u=f0797ae1b29050e5d0d6255ec63a271a57cd0f2a&v=4" width="24" alt="Avatar of edanursunay"> edanursunay
 			</a><br/>
@@ -5511,6 +5498,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Izmir, Turkey</td>
 		<td>90</td>
+	</tr>
+	<tr>
+		<td>416</td>
+		<td>
+			<a href="https://github.com/hsnaydd">
+				<img src="https://avatars.githubusercontent.com/u/2880893?s=72&v=4" width="24" alt="Avatar of hsnaydd"> hsnaydd
+			</a><br/>
+			Hasan Aydoğdu
+		</td>
+		<td>Atölye15 </td>
+		<td><a href="https://twitter.com/hsnaydd">hsnaydd</a></td>
+		<td>İzmir, Turkey</td>
+		<td>89</td>
 	</tr>
 	<tr>
 		<td>417</td>
@@ -5801,6 +5801,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>439</td>
 		<td>
+			<a href="https://github.com/GulsahKose">
+				<img src="https://avatars.githubusercontent.com/u/2954981?s=72&v=4" width="24" alt="Avatar of GulsahKose"> GulsahKose
+			</a><br/>
+			Gülşah Köse
+		</td>
+		<td>Collabora Productivity </td>
+		<td><a href="https://twitter.com/gulsahkse">gulsahkse</a></td>
+		<td>Turkey</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
 			<a href="https://github.com/niushay">
 				<img src="https://avatars.githubusercontent.com/u/48344449?s=72&u=0aace2ce451b8256dc2ac0683fd94663c02f7805&v=4" width="24" alt="Avatar of niushay"> niushay
 			</a><br/>
@@ -5812,7 +5825,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/kolaynurdan">
 				<img src="https://avatars.githubusercontent.com/u/15388142?s=72&u=b1ec16e0904022e0ef7af4981d224b922e30de99&v=4" width="24" alt="Avatar of kolaynurdan"> kolaynurdan
@@ -5825,7 +5838,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/mburaksayici">
 				<img src="https://avatars.githubusercontent.com/u/25187211?s=72&u=fdbfc57e817edab7ead142e2062b61417035b58d&v=4" width="24" alt="Avatar of mburaksayici"> mburaksayici
@@ -5835,19 +5848,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@gesund-ai </td>
 		<td><a href="https://twitter.com/BurakSayici">BurakSayici</a></td>
 		<td>İstanbul</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>442</td>
-		<td>
-			<a href="https://github.com/GulsahKose">
-				<img src="https://avatars.githubusercontent.com/u/2954981?s=72&v=4" width="24" alt="Avatar of GulsahKose"> GulsahKose
-			</a><br/>
-			Gülşah Köse
-		</td>
-		<td>Collabora Productivity </td>
-		<td><a href="https://twitter.com/gulsahkse">gulsahkse</a></td>
-		<td>Turkey</td>
 		<td>76</td>
 	</tr>
 	<tr>
@@ -6360,19 +6360,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>482</td>
 		<td>
-			<a href="https://github.com/kalismeras61">
-				<img src="https://avatars.githubusercontent.com/u/246747?s=72&u=4b22be82877f7dbd6b81de060d0700f331a93f43&v=4" width="24" alt="Avatar of kalismeras61"> kalismeras61
-			</a><br/>
-			Yasin ilhan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yasinilhan">yasinilhan</a></td>
-		<td>Istanbul</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
 			<a href="https://github.com/OFLU61344">
 				<img src="https://avatars.githubusercontent.com/u/118263276?s=72&u=ad7d7f8440699af1c2cf659f724cce23a969dbed&v=4" width="24" alt="Avatar of OFLU61344"> OFLU61344
 			</a><br/>
@@ -6384,7 +6371,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/ekinkoseoglu">
 				<img src="https://avatars.githubusercontent.com/u/78482939?s=72&u=64e852188474f3c5c5eb036b3165d54bc8fa021d&v=4" width="24" alt="Avatar of ekinkoseoglu"> ekinkoseoglu
@@ -6397,7 +6384,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/betulsener92">
 				<img src="https://avatars.githubusercontent.com/u/116026346?s=72&u=bdffa7b30539d86ee0f40eb55b68d60e064ee9b2&v=4" width="24" alt="Avatar of betulsener92"> betulsener92
@@ -6410,7 +6397,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/atiksoftware">
 				<img src="https://avatars.githubusercontent.com/u/14994715?s=72&u=ed09dcdd536ddd7e66992d0ba197a415a9c0b596&v=4" width="24" alt="Avatar of atiksoftware"> atiksoftware
@@ -6423,20 +6410,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>487</td>
-		<td>
-			<a href="https://github.com/BrkSe">
-				<img src="https://avatars.githubusercontent.com/u/2557098?s=72&u=484ed3fe9de2c6b7a629413318d649bcf57b1685&v=4" width="24" alt="Avatar of BrkSe"> BrkSe
-			</a><br/>
-			Burak Kutbay
-		</td>
-		<td>Getir </td>
-		<td><a href="https://twitter.com/hbrkktby">hbrkktby</a></td>
-		<td>Turkey</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>488</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/burak432">
 				<img src="https://avatars.githubusercontent.com/u/86172767?s=72&u=022b51a68473081141016018fe61d6946ad921a2&v=4" width="24" alt="Avatar of burak432"> burak432
@@ -6449,7 +6423,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/alisafaya">
 				<img src="https://avatars.githubusercontent.com/u/22398153?s=72&u=b859c100078747a98291ffe272483ed0014f19af&v=4" width="24" alt="Avatar of alisafaya"> alisafaya
@@ -6462,7 +6436,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/Kevserbahadr">
 				<img src="https://avatars.githubusercontent.com/u/121053388?s=72&u=1418865f5b0bd0d76aaef591826fec2aa6afe4f5&v=4" width="24" alt="Avatar of Kevserbahadr"> Kevserbahadr
@@ -6475,7 +6449,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/zumrudu-anka">
 				<img src="https://avatars.githubusercontent.com/u/40799665?s=72&u=a98bc1ae98e00d42a9ded72574c2cd61aed1f3a5&v=4" width="24" alt="Avatar of zumrudu-anka"> zumrudu-anka
@@ -6488,7 +6462,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/ozgecinko">
 				<img src="https://avatars.githubusercontent.com/u/58422765?s=72&u=b5e6e8e1eef11caa7b148ee32a560bc7615bc8b5&v=4" width="24" alt="Avatar of ozgecinko"> ozgecinko
@@ -6501,7 +6475,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/G-khan">
 				<img src="https://avatars.githubusercontent.com/u/6300144?s=72&u=064f1f389a2319e1b350441e7cf77985b93aa480&v=4" width="24" alt="Avatar of G-khan"> G-khan
@@ -6514,7 +6488,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/hasantezcan">
 				<img src="https://avatars.githubusercontent.com/u/32804505?s=72&u=56738fc03b065b2427cfa5b17db8ffd54cbcd364&v=4" width="24" alt="Avatar of hasantezcan"> hasantezcan
@@ -6527,7 +6501,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/fishuke">
 				<img src="https://avatars.githubusercontent.com/u/66701659?s=72&u=0bd2d6597c2d883b1fe1c2fb95c1f5363a01de23&v=4" width="24" alt="Avatar of fishuke"> fishuke
@@ -6540,7 +6514,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/sercanyesiloz">
 				<img src="https://avatars.githubusercontent.com/u/84319942?s=72&u=7e25d42c9630f49e66086359a934dc672757c43d&v=4" width="24" alt="Avatar of sercanyesiloz"> sercanyesiloz
@@ -6553,7 +6527,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/safakkbilici">
 				<img src="https://avatars.githubusercontent.com/u/44443472?s=72&u=f628649305c62efa036963f9c12f71977899ff90&v=4" width="24" alt="Avatar of safakkbilici"> safakkbilici
@@ -6566,7 +6540,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/doguuaslan">
 				<img src="https://avatars.githubusercontent.com/u/120279615?s=72&u=686f915f1abcf3bfa2fa998d8711fb0281fa31b2&v=4" width="24" alt="Avatar of doguuaslan"> doguuaslan
@@ -6579,7 +6553,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/TitanHaxz">
 				<img src="https://avatars.githubusercontent.com/u/58866112?s=72&u=d559adc3a1bb93f4e59782c58cbe15dd3ab5ee8d&v=4" width="24" alt="Avatar of TitanHaxz"> TitanHaxz
@@ -6592,7 +6566,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/tareq1988">
 				<img src="https://avatars.githubusercontent.com/u/153669?s=72&u=a5507722935bc47891c5aa4468c5a5dd89e4895f&v=4" width="24" alt="Avatar of tareq1988"> tareq1988
@@ -6605,7 +6579,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/mertcangokgoz">
 				<img src="https://avatars.githubusercontent.com/u/8042604?s=72&u=6cea8b8f1f959072c5037dfce026f3fa63aab2e7&v=4" width="24" alt="Avatar of mertcangokgoz"> mertcangokgoz
@@ -6618,7 +6592,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/k-cicek">
 				<img src="https://avatars.githubusercontent.com/u/79858870?s=72&u=76d37e6e01251e21818f3eb89aa5d1ffc7ff1265&v=4" width="24" alt="Avatar of k-cicek"> k-cicek
@@ -6631,7 +6605,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/HasibeZaferr">
 				<img src="https://avatars.githubusercontent.com/u/16256211?s=72&u=5e05c7ec80502a857186b3c08398f8adcceb0e1e&v=4" width="24" alt="Avatar of HasibeZaferr"> HasibeZaferr
@@ -6644,7 +6618,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/kerembasaran14">
 				<img src="https://avatars.githubusercontent.com/u/54486571?s=72&u=a486503981a749b9b199cba53d98052c7de92e79&v=4" width="24" alt="Avatar of kerembasaran14"> kerembasaran14
@@ -6657,7 +6631,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/cemg">
 				<img src="https://avatars.githubusercontent.com/u/3605940?s=72&u=d6466964f81951a130eef580a8a8397a42f737ff&v=4" width="24" alt="Avatar of cemg"> cemg
@@ -6670,7 +6644,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/cihanozhan">
 				<img src="https://avatars.githubusercontent.com/u/3029189?s=72&u=a1f73a3019900b9ee499e1c5c778ce8a2b6d0090&v=4" width="24" alt="Avatar of cihanozhan"> cihanozhan
@@ -6683,7 +6657,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/aenesgur">
 				<img src="https://avatars.githubusercontent.com/u/47754791?s=72&u=e18b7b03c54cbfc753965744803db9d8402cc6d3&v=4" width="24" alt="Avatar of aenesgur"> aenesgur
@@ -6696,7 +6670,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/kehribar">
 				<img src="https://avatars.githubusercontent.com/u/360652?s=72&v=4" width="24" alt="Avatar of kehribar"> kehribar
@@ -6709,7 +6683,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/etjecode">
+				<img src="https://avatars.githubusercontent.com/u/97104424?s=72&u=fe3090b42a68e3a69256b1a73a939cbd323de2f5&v=4" width="24" alt="Avatar of etjecode"> etjecode
+			</a><br/>
+			Feyzan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Istanbul/Turkey</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/bobomurod">
 				<img src="https://avatars.githubusercontent.com/u/3442782?s=72&u=e673f49ad9b77e1fb87ff054232b524156b6922c&v=4" width="24" alt="Avatar of bobomurod"> bobomurod
@@ -6720,6 +6707,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td><a href="https://twitter.com/Bobomurod">Bobomurod</a></td>
 		<td>Istanbul, Turkey.</td>
 		<td>51</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
+			<a href="https://github.com/aliosmanbeker">
+				<img src="https://avatars.githubusercontent.com/u/72552712?s=72&u=dd4d70bff545c2e17770c7df91db97c1b571ee54&v=4" width="24" alt="Avatar of aliosmanbeker"> aliosmanbeker
+			</a><br/>
+			Ali Osman BEKER
+		</td>
+		<td>Adresgezgini </td>
+		<td><a href="https://twitter.com/aliosmanbeker">aliosmanbeker</a></td>
+		<td>İZMİR</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>510</td>
@@ -6815,19 +6815,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>517</td>
 		<td>
-			<a href="https://github.com/etjecode">
-				<img src="https://avatars.githubusercontent.com/u/97104424?s=72&u=fe3090b42a68e3a69256b1a73a939cbd323de2f5&v=4" width="24" alt="Avatar of etjecode"> etjecode
-			</a><br/>
-			Feyzan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Istanbul/Turkey</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>518</td>
-		<td>
 			<a href="https://github.com/aykuttasil">
 				<img src="https://avatars.githubusercontent.com/u/3179872?s=72&u=79865e80208da134378ffac6a59fa47db2d4c3a4&v=4" width="24" alt="Avatar of aykuttasil"> aykuttasil
 			</a><br/>
@@ -6839,7 +6826,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/mavideniz">
 				<img src="https://avatars.githubusercontent.com/u/59478623?s=72&u=ff656adf43ecd1c1c461c704bc3294ae91a6bbed&v=4" width="24" alt="Avatar of mavideniz"> mavideniz
@@ -6852,7 +6839,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/erdogan24">
 				<img src="https://avatars.githubusercontent.com/u/77540591?s=72&u=9d9cff6203aa43079025495e2ec53ae21556529a&v=4" width="24" alt="Avatar of erdogan24"> erdogan24
@@ -6865,20 +6852,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>521</td>
-		<td>
-			<a href="https://github.com/aliosmanbeker">
-				<img src="https://avatars.githubusercontent.com/u/72552712?s=72&u=dd4d70bff545c2e17770c7df91db97c1b571ee54&v=4" width="24" alt="Avatar of aliosmanbeker"> aliosmanbeker
-			</a><br/>
-			Ali Osman BEKER
-		</td>
-		<td>Adresgezgini </td>
-		<td><a href="https://twitter.com/aliosmanbeker">aliosmanbeker</a></td>
-		<td>İZMİR</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>522</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/codermother">
 				<img src="https://avatars.githubusercontent.com/u/77901989?s=72&u=503a301ed561ab9c4810c63f835cc1cc77723c19&v=4" width="24" alt="Avatar of codermother"> codermother
@@ -6891,7 +6865,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/kamuranozkan">
 				<img src="https://avatars.githubusercontent.com/u/114655443?s=72&u=e940e5e85d7f9fb1cb9316aac439c6c56413361c&v=4" width="24" alt="Avatar of kamuranozkan"> kamuranozkan
@@ -6904,7 +6878,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/fahriersoz">
 				<img src="https://avatars.githubusercontent.com/u/113620535?s=72&u=d8ff2811422f608d8970a324bac15d2c225a4410&v=4" width="24" alt="Avatar of fahriersoz"> fahriersoz
@@ -6917,7 +6891,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/ibrahimsn98">
 				<img src="https://avatars.githubusercontent.com/u/9117082?s=72&u=544e42bbfc7944995193896962d29045b4ac4047&v=4" width="24" alt="Avatar of ibrahimsn98"> ibrahimsn98
@@ -6930,7 +6904,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/fantasywastaken">
 				<img src="https://avatars.githubusercontent.com/u/81114713?s=72&u=2d825f9d41a871cf3c310124fbd25e0ce1dd2fa8&v=4" width="24" alt="Avatar of fantasywastaken"> fantasywastaken
@@ -6943,7 +6917,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/servetgulnaroglu">
 				<img src="https://avatars.githubusercontent.com/u/20337445?s=72&u=1d5ac97e55a64ab0a2c9f2c81c1edf77c061c75d&v=4" width="24" alt="Avatar of servetgulnaroglu"> servetgulnaroglu
@@ -6956,7 +6930,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/ezgiturali">
 				<img src="https://avatars.githubusercontent.com/u/59027030?s=72&u=d4ce83151a1b56794ec73c36547a6f18584898a6&v=4" width="24" alt="Avatar of ezgiturali"> ezgiturali
@@ -6969,7 +6943,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/MrPeker">
 				<img src="https://avatars.githubusercontent.com/u/23459375?s=72&u=a134e27718baa73c41da5534b6d02b10bc88065a&v=4" width="24" alt="Avatar of MrPeker"> MrPeker
@@ -6982,7 +6956,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/arslanaybars">
 				<img src="https://avatars.githubusercontent.com/u/3358953?s=72&u=9de11fefce7b99392554c7aa46f9c69430fe9bf1&v=4" width="24" alt="Avatar of arslanaybars"> arslanaybars
@@ -6995,7 +6969,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/tamert">
 				<img src="https://avatars.githubusercontent.com/u/1997933?s=72&u=0d6cc3279f6d599bfbbf8ab60c23e7c08d52a366&v=4" width="24" alt="Avatar of tamert"> tamert
@@ -7008,7 +6982,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/fatihhayri">
 				<img src="https://avatars.githubusercontent.com/u/759429?s=72&u=210caa91def0ee8d8fa29f8cc7e34aa570048d0f&v=4" width="24" alt="Avatar of fatihhayri"> fatihhayri
@@ -7021,7 +6995,20 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>531</td>
+		<td>
+			<a href="https://github.com/fatihhayri">
+				<img src="https://avatars.githubusercontent.com/u/759429?s=72&u=210caa91def0ee8d8fa29f8cc7e34aa570048d0f&v=4" width="24" alt="Avatar of fatihhayri"> fatihhayri
+			</a><br/>
+			Fatih 
+		</td>
+		<td>- </td>
+		<td>No Twitter Username</td>
+		<td>istanbul, turkey</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/EylemGokdemir05">
 				<img src="https://avatars.githubusercontent.com/u/41906907?s=72&u=ad02dfc1e557f95fd78e22f07635d928efab5b26&v=4" width="24" alt="Avatar of EylemGokdemir05"> EylemGokdemir05
@@ -7034,7 +7021,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/asimkilic">
 				<img src="https://avatars.githubusercontent.com/u/79913799?s=72&u=16e9bcf64adc58c4010421b977adf0aaf832afb6&v=4" width="24" alt="Avatar of asimkilic"> asimkilic
@@ -7047,7 +7034,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/abdurrahmanekr">
 				<img src="https://avatars.githubusercontent.com/u/15075759?s=72&u=d261031526e6621ac105a4ecce2df21b6df51a6a&v=4" width="24" alt="Avatar of abdurrahmanekr"> abdurrahmanekr
@@ -7060,7 +7047,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/ceofast">
 				<img src="https://avatars.githubusercontent.com/u/65781593?s=72&u=25e9932dd8fa403890a9b6cf4e41fcc2bddbf047&v=4" width="24" alt="Avatar of ceofast"> ceofast
@@ -7073,7 +7060,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/Ahmetaksungur">
 				<img src="https://avatars.githubusercontent.com/u/55207238?s=72&u=7eebfdea7dadc2013fc13be5361e08850c56503b&v=4" width="24" alt="Avatar of Ahmetaksungur"> Ahmetaksungur
@@ -7086,7 +7073,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/Ceydowski">
 				<img src="https://avatars.githubusercontent.com/u/80065036?s=72&u=6d8a1aa930b01418b70485212b1a918796c8fea1&v=4" width="24" alt="Avatar of Ceydowski"> Ceydowski
@@ -7097,6 +7084,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Turkey/Istanbul</td>
 		<td>41</td>
+	</tr>
+	<tr>
+		<td>538</td>
+		<td>
+			<a href="https://github.com/meyusufdemirci">
+				<img src="https://avatars.githubusercontent.com/u/15861353?s=72&u=8299b3de3c3a54817a2bac3e22c019761d33956f&v=4" width="24" alt="Avatar of meyusufdemirci"> meyusufdemirci
+			</a><br/>
+			Yusuf Demirci
+		</td>
+		<td>@nefarius-apps </td>
+		<td><a href="https://twitter.com/meyusufdemirci">meyusufdemirci</a></td>
+		<td>Istanbul, Turkey</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>539</td>
@@ -7257,19 +7257,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>551</td>
 		<td>
-			<a href="https://github.com/meyusufdemirci">
-				<img src="https://avatars.githubusercontent.com/u/15861353?s=72&u=8299b3de3c3a54817a2bac3e22c019761d33956f&v=4" width="24" alt="Avatar of meyusufdemirci"> meyusufdemirci
-			</a><br/>
-			Yusuf Demirci
-		</td>
-		<td>@nefarius-apps </td>
-		<td><a href="https://twitter.com/meyusufdemirci">meyusufdemirci</a></td>
-		<td>Istanbul, Turkey</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>552</td>
-		<td>
 			<a href="https://github.com/tugbaustundag">
 				<img src="https://avatars.githubusercontent.com/u/6243386?s=72&u=a704cc68dce1024d9b444af48f7f1af15a96bb22&v=4" width="24" alt="Avatar of tugbaustundag"> tugbaustundag
 			</a><br/>
@@ -7281,7 +7268,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/gokcehan">
 				<img src="https://avatars.githubusercontent.com/u/1835672?s=72&v=4" width="24" alt="Avatar of gokcehan"> gokcehan
@@ -7294,7 +7281,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/faruk-cesur">
 				<img src="https://avatars.githubusercontent.com/u/74262200?s=72&u=4ab8f1b4ddc774f26e662261cd220410d9009c13&v=4" width="24" alt="Avatar of faruk-cesur"> faruk-cesur
@@ -7307,7 +7294,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/sinemorzambak">
 				<img src="https://avatars.githubusercontent.com/u/54941120?s=72&u=773cdf80deaffa61e13e62a647bbb2b592a8d37f&v=4" width="24" alt="Avatar of sinemorzambak"> sinemorzambak
@@ -7320,7 +7307,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/owerdogan">
 				<img src="https://avatars.githubusercontent.com/u/59175356?s=72&u=a46fbee4e4ecd09664351ecaf8a920fd0384f344&v=4" width="24" alt="Avatar of owerdogan"> owerdogan
@@ -7333,7 +7320,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/ilteriskeskin">
 				<img src="https://avatars.githubusercontent.com/u/20879375?s=72&u=f9d1f9750c2c8c801c7d2caebc736ac2d4302417&v=4" width="24" alt="Avatar of ilteriskeskin"> ilteriskeskin
@@ -7346,7 +7333,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/tolgahankochan">
 				<img src="https://avatars.githubusercontent.com/u/77428950?s=72&u=12edb2dbd8e5f2984a646466d9c766dc167a348d&v=4" width="24" alt="Avatar of tolgahankochan"> tolgahankochan
@@ -7359,7 +7346,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/hakdogan">
 				<img src="https://avatars.githubusercontent.com/u/657846?s=72&u=5d4ed73f9c97fe01f987a7baede95362dc4104c4&v=4" width="24" alt="Avatar of hakdogan"> hakdogan
@@ -7372,7 +7359,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/bora399">
 				<img src="https://avatars.githubusercontent.com/u/65406368?s=72&u=0ee78d1d3a40be58a3e37994181257f4c4f130a9&v=4" width="24" alt="Avatar of bora399"> bora399
@@ -7385,7 +7372,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/SalihKARAHAN">
 				<img src="https://avatars.githubusercontent.com/u/5853234?s=72&u=8c8899796a34215ed48faa54ea140088a8fad56c&v=4" width="24" alt="Avatar of SalihKARAHAN"> SalihKARAHAN
@@ -7398,7 +7385,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/cemolcay">
 				<img src="https://avatars.githubusercontent.com/u/2419578?s=72&v=4" width="24" alt="Avatar of cemolcay"> cemolcay
@@ -7411,7 +7398,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/aysegulyigitbi">
 				<img src="https://avatars.githubusercontent.com/u/127193220?s=72&u=ed46ad199acfcaa2c1a4ea6b3741f8ac36e189f4&v=4" width="24" alt="Avatar of aysegulyigitbi"> aysegulyigitbi
@@ -7424,7 +7411,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/erdincerdgn">
 				<img src="https://avatars.githubusercontent.com/u/113476397?s=72&u=760f460df51a5f21813ab8250a26fbb0d3ba2527&v=4" width="24" alt="Avatar of erdincerdgn"> erdincerdgn
@@ -7437,7 +7424,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/semanurkps">
 				<img src="https://avatars.githubusercontent.com/u/62992433?s=72&u=21ec8ff126091771d4e1d9557da0c67c5dfcbb19&v=4" width="24" alt="Avatar of semanurkps"> semanurkps
@@ -7450,7 +7437,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/morph3">
 				<img src="https://avatars.githubusercontent.com/u/16365583?s=72&u=dd1444736c1f0ef5c39d18af8f33ad6a18f8a4bd&v=4" width="24" alt="Avatar of morph3"> morph3
@@ -7463,7 +7450,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/mihricankizilyer">
 				<img src="https://avatars.githubusercontent.com/u/70093355?s=72&u=d0436d49c0557a63b9f71310c06f2e21c9889084&v=4" width="24" alt="Avatar of mihricankizilyer"> mihricankizilyer
@@ -7476,7 +7463,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/ramesaliyev">
 				<img src="https://avatars.githubusercontent.com/u/2088512?s=72&u=124c4485a5085a9cac32464a71d7470d9f28cf43&v=4" width="24" alt="Avatar of ramesaliyev"> ramesaliyev
@@ -7489,7 +7476,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/EmreSamurlu">
 				<img src="https://avatars.githubusercontent.com/u/80247521?s=72&u=e5904670c550e3051234930e8364a504a71984df&v=4" width="24" alt="Avatar of EmreSamurlu"> EmreSamurlu
@@ -7502,7 +7489,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/MuhammetFatihYilmaz">
 				<img src="https://avatars.githubusercontent.com/u/94079205?s=72&u=ffd2327ff78794d80d389665d5659b6ab1091e11&v=4" width="24" alt="Avatar of MuhammetFatihYilmaz"> MuhammetFatihYilmaz
@@ -7515,7 +7502,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/theilgaz">
 				<img src="https://avatars.githubusercontent.com/u/13048645?s=72&u=34136bd4a5f118c02eb32a2c21c540f0c313340d&v=4" width="24" alt="Avatar of theilgaz"> theilgaz
@@ -7528,7 +7515,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/101t">
 				<img src="https://avatars.githubusercontent.com/u/4958477?s=72&u=63da542014f7d86925c622ef12c9a06971178787&v=4" width="24" alt="Avatar of 101t"> 101t
@@ -7538,6 +7525,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@supernovasoft  </td>
 		<td><a href="https://twitter.com/Tarek_Kalaajy">Tarek_Kalaajy</a></td>
 		<td>Istanbul</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
+			<a href="https://github.com/yasaricli">
+				<img src="https://avatars.githubusercontent.com/u/1306620?s=72&u=c0ca9bc33277960ec63242843cdd9fc2868fd5c3&v=4" width="24" alt="Avatar of yasaricli"> yasaricli
+			</a><br/>
+			Yaşar İÇLİ
+		</td>
+		<td>@tsepeti </td>
+		<td><a href="https://twitter.com/yasaricli">yasaricli</a></td>
+		<td>Turkey/Istanbul</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -7725,19 +7725,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>587</td>
 		<td>
-			<a href="https://github.com/ilkerhalil">
-				<img src="https://avatars.githubusercontent.com/u/5356826?s=72&u=dd4ce78293c8852bd38370f7fd3fbb9f80dd016e&v=4" width="24" alt="Avatar of ilkerhalil"> ilkerhalil
-			</a><br/>
-			Ilker Halil Turer
-		</td>
-		<td>Kavaken </td>
-		<td>No Twitter Username</td>
-		<td>Turkey</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>588</td>
-		<td>
 			<a href="https://github.com/sercaneraslan">
 				<img src="https://avatars.githubusercontent.com/u/330566?s=72&u=426334df5acb4355c2c2854dce65aec43f9f2304&v=4" width="24" alt="Avatar of sercaneraslan"> sercaneraslan
 			</a><br/>
@@ -7746,6 +7733,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@trendyol </td>
 		<td><a href="https://twitter.com/sercan_eraslan">sercan_eraslan</a></td>
 		<td>Istanbul / Turkey</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/ilkerhalil">
+				<img src="https://avatars.githubusercontent.com/u/5356826?s=72&u=dd4ce78293c8852bd38370f7fd3fbb9f80dd016e&v=4" width="24" alt="Avatar of ilkerhalil"> ilkerhalil
+			</a><br/>
+			Ilker Halil Turer
+		</td>
+		<td>Kavaken </td>
+		<td>No Twitter Username</td>
+		<td>Turkey</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -7972,6 +7972,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>606</td>
 		<td>
+			<a href="https://github.com/serifgungor">
+				<img src="https://avatars.githubusercontent.com/u/5263906?s=72&u=503bd25af86b48af0b81958d93e759950c7c857d&v=4" width="24" alt="Avatar of serifgungor"> serifgungor
+			</a><br/>
+			Şerif
+		</td>
+		<td>Serifgungor.com </td>
+		<td>No Twitter Username</td>
+		<td>Istanbul, TR</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>607</td>
+		<td>
 			<a href="https://github.com/dumanemre3">
 				<img src="https://avatars.githubusercontent.com/u/66745447?s=72&u=2e05c3a99687e71e0c510e1baf661f99d692b187&v=4" width="24" alt="Avatar of dumanemre3"> dumanemre3
 			</a><br/>
@@ -7981,19 +7994,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Istanbul / Levent</td>
 		<td>23</td>
-	</tr>
-	<tr>
-		<td>607</td>
-		<td>
-			<a href="https://github.com/serifgungor">
-				<img src="https://avatars.githubusercontent.com/u/5263906?s=72&u=503bd25af86b48af0b81958d93e759950c7c857d&v=4" width="24" alt="Avatar of serifgungor"> serifgungor
-			</a><br/>
-			Şerif
-		</td>
-		<td>Serifgungor.com </td>
-		<td>No Twitter Username</td>
-		<td>Istanbul, TR</td>
-		<td>22</td>
 	</tr>
 	<tr>
 		<td>608</td>
@@ -8011,19 +8011,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>609</td>
 		<td>
-			<a href="https://github.com/alperen">
-				<img src="https://avatars.githubusercontent.com/u/3244438?s=72&u=0ccaa063dce10e2c28dc30e6dd623fe64d265a63&v=4" width="24" alt="Avatar of alperen"> alperen
-			</a><br/>
-			Alperen Turkoz
-		</td>
-		<td>@atolye15 </td>
-		<td><a href="https://twitter.com/__turkoz__">__turkoz__</a></td>
-		<td>Izmir Turkiye</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>610</td>
-		<td>
 			<a href="https://github.com/ozcanyarimdunya">
 				<img src="https://avatars.githubusercontent.com/u/12237463?s=72&u=8ae2d05212b82fa0a378797f8bf29aa4a09241b3&v=4" width="24" alt="Avatar of ozcanyarimdunya"> ozcanyarimdunya
 			</a><br/>
@@ -8035,7 +8022,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/BedirhanGurler">
 				<img src="https://avatars.githubusercontent.com/u/63727217?s=72&u=4660f0a1a2b773000164f7fe7591cbac9adee19d&v=4" width="24" alt="Avatar of BedirhanGurler"> BedirhanGurler
@@ -8048,7 +8035,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/ozdemirburak">
 				<img src="https://avatars.githubusercontent.com/u/5355510?s=72&u=1b7847dd0db4801b20003963c1625c7a234f7d6f&v=4" width="24" alt="Avatar of ozdemirburak"> ozdemirburak
@@ -8061,7 +8048,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/borakilicoglu">
 				<img src="https://avatars.githubusercontent.com/u/1382214?s=72&v=4" width="24" alt="Avatar of borakilicoglu"> borakilicoglu
@@ -8074,7 +8061,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/seyituludag0">
 				<img src="https://avatars.githubusercontent.com/u/76704724?s=72&v=4" width="24" alt="Avatar of seyituludag0"> seyituludag0
@@ -8087,7 +8074,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/bisguzar">
 				<img src="https://avatars.githubusercontent.com/u/8844753?s=72&u=e39f901b8b7b1c5a271725da16869ee1e82b16c5&v=4" width="24" alt="Avatar of bisguzar"> bisguzar
@@ -8100,7 +8087,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/NisanurBulut">
 				<img src="https://avatars.githubusercontent.com/u/9026717?s=72&u=ede2a3339412ce80ed7b5773c3aa73764f68e26c&v=4" width="24" alt="Avatar of NisanurBulut"> NisanurBulut
@@ -8113,7 +8100,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/Rylaa">
 				<img src="https://avatars.githubusercontent.com/u/33103001?s=72&u=edbb7eae465fd3c295681ddcaeb27656d4e6f347&v=4" width="24" alt="Avatar of Rylaa"> Rylaa
@@ -8126,7 +8113,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/SafaElmali">
 				<img src="https://avatars.githubusercontent.com/u/17435062?s=72&u=d06998828988f63512dbd56f7ffdbaa079df1794&v=4" width="24" alt="Avatar of SafaElmali"> SafaElmali
@@ -8139,7 +8126,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/omergunal">
 				<img src="https://avatars.githubusercontent.com/u/19760132?s=72&u=cbcde7d084bc9d578c04abc3db25ac466e89b86c&v=4" width="24" alt="Avatar of omergunal"> omergunal
@@ -8149,6 +8136,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ogunal00">ogunal00</a></td>
 		<td>Istanbul</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a href="https://github.com/emreyesilyurt">
+				<img src="https://avatars.githubusercontent.com/u/46496703?s=72&u=de1b82e6958b36e1f3f4ad41116faa5ab0884d9d&v=4" width="24" alt="Avatar of emreyesilyurt"> emreyesilyurt
+			</a><br/>
+			Emre Yesilyurt
+		</td>
+		<td>Eetech </td>
+		<td><a href="https://twitter.com/yesilyurttemre">yesilyurttemre</a></td>
+		<td>Izmir, Turkey</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -8349,19 +8349,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>635</td>
 		<td>
-			<a href="https://github.com/yasaricli">
-				<img src="https://avatars.githubusercontent.com/u/1306620?s=72&u=c0ca9bc33277960ec63242843cdd9fc2868fd5c3&v=4" width="24" alt="Avatar of yasaricli"> yasaricli
-			</a><br/>
-			Yaşar İÇLİ
-		</td>
-		<td>@tsepeti </td>
-		<td><a href="https://twitter.com/yasaricli">yasaricli</a></td>
-		<td>Turkey/Istanbul</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>636</td>
-		<td>
 			<a href="https://github.com/srcnysf">
 				<img src="https://avatars.githubusercontent.com/u/11577082?s=72&u=6e56ebd9898ddee2f131fc93788a5fd7ae417fa1&v=4" width="24" alt="Avatar of srcnysf"> srcnysf
 			</a><br/>
@@ -8373,7 +8360,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/cemalibaran">
 				<img src="https://avatars.githubusercontent.com/u/30292880?s=72&u=6e53ba7c7482cab2f2c1c2f577821c1961f7fc15&v=4" width="24" alt="Avatar of cemalibaran"> cemalibaran
@@ -8386,7 +8373,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/MeyraG">
 				<img src="https://avatars.githubusercontent.com/u/75731320?s=72&u=df3937c6466110c89ae18a73f770540fd08e71eb&v=4" width="24" alt="Avatar of MeyraG"> MeyraG
@@ -8399,7 +8386,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/memojja">
 				<img src="https://avatars.githubusercontent.com/u/2750465?s=72&u=276345254cc1c5fe6dc7a9b59e1630183408257f&v=4" width="24" alt="Avatar of memojja"> memojja
@@ -8412,7 +8399,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/mehmetvarol">
 				<img src="https://avatars.githubusercontent.com/u/22845520?s=72&u=c5e6eaa8b5da28d5371fff3cedd77ee365e8e1de&v=4" width="24" alt="Avatar of mehmetvarol"> mehmetvarol
@@ -8425,7 +8412,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/AhmetMelihIslam">
 				<img src="https://avatars.githubusercontent.com/u/49699680?s=72&u=cbdea20e2854ced14459d6573c5e9beacafd4928&v=4" width="24" alt="Avatar of AhmetMelihIslam"> AhmetMelihIslam
@@ -8438,7 +8425,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/mucahidkambur">
 				<img src="https://avatars.githubusercontent.com/u/11808139?s=72&u=c032b6ae8eec30e73d5d6ec42dc8b86a29b51a64&v=4" width="24" alt="Avatar of mucahidkambur"> mucahidkambur
@@ -8451,7 +8438,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/sercand">
 				<img src="https://avatars.githubusercontent.com/u/4310651?s=72&u=55c23bcec2f8673f0a048c8a7058ce2146e8e739&v=4" width="24" alt="Avatar of sercand"> sercand
@@ -8464,7 +8451,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/om3rcitak">
 				<img src="https://avatars.githubusercontent.com/u/5197413?s=72&u=9fad5f5434295c380cc9a9fe20c31096cac6d6ba&v=4" width="24" alt="Avatar of om3rcitak"> om3rcitak
@@ -8474,6 +8461,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Strix Cyber Security </td>
 		<td>No Twitter Username</td>
 		<td>/home/istanbul</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>644</td>
+		<td>
+			<a href="https://github.com/Adem68">
+				<img src="https://avatars.githubusercontent.com/u/21019611?s=72&u=16cab2e773563aa211387188c29d935a4b76f7fd&v=4" width="24" alt="Avatar of Adem68"> Adem68
+			</a><br/>
+			Adem Özcan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AdemOzcanTR">AdemOzcanTR</a></td>
+		<td>Istanbul, Turkey</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -8765,6 +8765,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>667</td>
 		<td>
+			<a href="https://github.com/mustafatufan">
+				<img src="https://avatars.githubusercontent.com/u/9395024?s=72&u=00d0347473dc2ea45bc22e299a9d4e3a996b0814&v=4" width="24" alt="Avatar of mustafatufan"> mustafatufan
+			</a><br/>
+			Mustafa Tufan
+		</td>
+		<td>Allianz </td>
+		<td><a href="https://twitter.com/_mustafatufan">_mustafatufan</a></td>
+		<td>İzmir, Türkiye</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>668</td>
+		<td>
 			<a href="https://github.com/TuranDURMUS">
 				<img src="https://avatars.githubusercontent.com/u/100712300?s=72&u=8e0b29d40f56d42fb504976c9947d994f9221be7&v=4" width="24" alt="Avatar of TuranDURMUS"> TuranDURMUS
 			</a><br/>
@@ -8776,7 +8789,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/onuruslu">
 				<img src="https://avatars.githubusercontent.com/u/5905581?s=72&u=8a120657d6ff1a890294978dd37c28c0e225960a&v=4" width="24" alt="Avatar of onuruslu"> onuruslu
@@ -8789,7 +8802,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/minekucukavsar">
 				<img src="https://avatars.githubusercontent.com/u/64801738?s=72&u=d191824f4ff6e573046123c12b03569429c476d3&v=4" width="24" alt="Avatar of minekucukavsar"> minekucukavsar
@@ -8802,7 +8815,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/Berkantcen">
 				<img src="https://avatars.githubusercontent.com/u/69425673?s=72&u=17903d3733a64803b38a92810e82ea579345455d&v=4" width="24" alt="Avatar of Berkantcen"> Berkantcen
@@ -8815,7 +8828,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/huseyinozkilic">
 				<img src="https://avatars.githubusercontent.com/u/529384?s=72&u=dc9a7cb60e75842554e9578f8adbca949a76c7b5&v=4" width="24" alt="Avatar of huseyinozkilic"> huseyinozkilic
@@ -8828,7 +8841,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/aliozgur">
 				<img src="https://avatars.githubusercontent.com/u/799194?s=72&u=e0fdcdde496d278d149e044185fd5ff086890659&v=4" width="24" alt="Avatar of aliozgur"> aliozgur
@@ -8841,7 +8854,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/maidis">
 				<img src="https://avatars.githubusercontent.com/u/633989?s=72&u=5250c463a55156a52d965d4eda1ef4f324441253&v=4" width="24" alt="Avatar of maidis"> maidis
@@ -8854,7 +8867,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/Tantoony">
 				<img src="https://avatars.githubusercontent.com/u/64890076?s=72&u=22aa1aec85d9b640cd570fb4210f667269ff09e8&v=4" width="24" alt="Avatar of Tantoony"> Tantoony
@@ -8867,7 +8880,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/DincerDogan">
 				<img src="https://avatars.githubusercontent.com/u/25222703?s=72&u=100e633f7b735f32c543e784176fa6b805d45dd2&v=4" width="24" alt="Avatar of DincerDogan"> DincerDogan
@@ -8880,7 +8893,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/emindmrhn">
 				<img src="https://avatars.githubusercontent.com/u/90418505?s=72&u=c0d51cb7f5fb76e2d63383102be97e14e008cc15&v=4" width="24" alt="Avatar of emindmrhn"> emindmrhn
@@ -8893,7 +8906,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/frknbasaran">
 				<img src="https://avatars.githubusercontent.com/u/6316032?s=72&u=87fafb48d3a52b466be55fcb25d0eed991f29509&v=4" width="24" alt="Avatar of frknbasaran"> frknbasaran
@@ -8906,7 +8919,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/feyzanursaka">
 				<img src="https://avatars.githubusercontent.com/u/43739624?s=72&v=4" width="24" alt="Avatar of feyzanursaka"> feyzanursaka
@@ -8919,7 +8932,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/oguzhantarhan">
 				<img src="https://avatars.githubusercontent.com/u/36084657?s=72&u=4fbb9d76b22d6cac485d75cf931dff25eb9e2032&v=4" width="24" alt="Avatar of oguzhantarhan"> oguzhantarhan
@@ -8932,7 +8945,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/merveuygunerdol">
 				<img src="https://avatars.githubusercontent.com/u/19728076?s=72&u=e82be9e4fa1938781c5b4ba6551762e653079e4b&v=4" width="24" alt="Avatar of merveuygunerdol"> merveuygunerdol
@@ -8945,7 +8958,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/KaganAyten">
 				<img src="https://avatars.githubusercontent.com/u/44115746?s=72&u=9faed17f15ef9f182ed26f5275bf4abd44feb599&v=4" width="24" alt="Avatar of KaganAyten"> KaganAyten
@@ -8958,7 +8971,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/atagulalan">
 				<img src="https://avatars.githubusercontent.com/u/8681330?s=72&u=4e6b73c55167d1a0c9cae5292d07aa5f98bda24e&v=4" width="24" alt="Avatar of atagulalan"> atagulalan
@@ -8971,7 +8984,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/amgando">
 				<img src="https://avatars.githubusercontent.com/u/24913?s=72&u=bef00df5b36f757793371fb8b00b595d588cfa00&v=4" width="24" alt="Avatar of amgando"> amgando
@@ -8984,7 +8997,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/onurgu">
 				<img src="https://avatars.githubusercontent.com/u/56893?s=72&u=1c70f7c65feb54174f92db0b38a845b39c04c3ef&v=4" width="24" alt="Avatar of onurgu"> onurgu
@@ -8994,19 +9007,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/onurgu_ml">onurgu_ml</a></td>
 		<td>istanbul, turkey</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>685</td>
-		<td>
-			<a href="https://github.com/mustafatufan">
-				<img src="https://avatars.githubusercontent.com/u/9395024?s=72&u=00d0347473dc2ea45bc22e299a9d4e3a996b0814&v=4" width="24" alt="Avatar of mustafatufan"> mustafatufan
-			</a><br/>
-			Mustafa Tufan
-		</td>
-		<td>Allianz </td>
-		<td><a href="https://twitter.com/_mustafatufan">_mustafatufan</a></td>
-		<td>İzmir, Türkiye</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -9155,6 +9155,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>697</td>
 		<td>
+			<a href="https://github.com/Aksoylu">
+				<img src="https://avatars.githubusercontent.com/u/33660906?s=72&u=165186792cd0a1fd526e97272786555ef60c8968&v=4" width="24" alt="Avatar of Aksoylu"> Aksoylu
+			</a><br/>
+			Ümit Aksoylu
+		</td>
+		<td>Software Engineer @scorp </td>
+		<td><a href="https://twitter.com/umitaksoylu">umitaksoylu</a></td>
+		<td>Ankara, Turkey</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>698</td>
+		<td>
 			<a href="https://github.com/suadev">
 				<img src="https://avatars.githubusercontent.com/u/5918811?s=72&u=fa7a0856867504956bb9ed8ac5ca078234aaaf8a&v=4" width="24" alt="Avatar of suadev"> suadev
 			</a><br/>
@@ -9163,19 +9176,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Https://superpeer.co </td>
 		<td><a href="https://twitter.com/kose__suat">kose__suat</a></td>
 		<td>Istanbul, Turkey</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>698</td>
-		<td>
-			<a href="https://github.com/arslanbilal">
-				<img src="https://avatars.githubusercontent.com/u/5616595?s=72&u=6c2816a85c82b613915a88214bdd959c0bb3c4a1&v=4" width="24" alt="Avatar of arslanbilal"> arslanbilal
-			</a><br/>
-			Bilal Arslan
-		</td>
-		<td>@hepsiburada </td>
-		<td><a href="https://twitter.com/_bilalarslan">_bilalarslan</a></td>
-		<td>Istanbul</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -9272,19 +9272,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>706</td>
 		<td>
-			<a href="https://github.com/Aksoylu">
-				<img src="https://avatars.githubusercontent.com/u/33660906?s=72&u=165186792cd0a1fd526e97272786555ef60c8968&v=4" width="24" alt="Avatar of Aksoylu"> Aksoylu
-			</a><br/>
-			Ümit Aksoylu
-		</td>
-		<td>Software Engineer @scorp </td>
-		<td><a href="https://twitter.com/umitaksoylu">umitaksoylu</a></td>
-		<td>Ankara, Turkey</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>707</td>
-		<td>
 			<a href="https://github.com/emir">
 				<img src="https://avatars.githubusercontent.com/u/1097170?s=72&u=04ed1d4d001d75d47c02f9200fb2c5442fefbece&v=4" width="24" alt="Avatar of emir"> emir
 			</a><br/>
@@ -9293,6 +9280,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>@kommunitycom </td>
 		<td>No Twitter Username</td>
 		<td>Istanbul, Turkey</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>707</td>
+		<td>
+			<a href="https://github.com/besimaltnok">
+				<img src="https://avatars.githubusercontent.com/u/4296962?s=72&u=97997a1707cc7f91c42f1506c4a880b754603a6b&v=4" width="24" alt="Avatar of besimaltnok"> besimaltnok
+			</a><br/>
+			Besim ALTINOK
+		</td>
+		<td>- </td>
+		<td>No Twitter Username</td>
+		<td>Ankara</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -10026,19 +10026,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>764</td>
 		<td>
-			<a href="https://github.com/murtekbey">
-				<img src="https://avatars.githubusercontent.com/u/64796784?s=72&u=2b7881c2a6680e99b75953ce6eb4a8509e80a086&v=4" width="24" alt="Avatar of murtekbey"> murtekbey
-			</a><br/>
-			Murat Altınpınar
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/murtekbey">murtekbey</a></td>
-		<td>Turkey</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>765</td>
-		<td>
 			<a href="https://github.com/emredipi">
 				<img src="https://avatars.githubusercontent.com/u/23154364?s=72&u=f3c17beac71e147a29aa65787b05133aa6796a39&v=4" width="24" alt="Avatar of emredipi"> emredipi
 			</a><br/>
@@ -10046,6 +10033,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		</td>
 		<td>@pathcomtr </td>
 		<td><a href="https://twitter.com/emredipi">emredipi</a></td>
+		<td>Turkey</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>765</td>
+		<td>
+			<a href="https://github.com/murtekbey">
+				<img src="https://avatars.githubusercontent.com/u/64796784?s=72&u=2b7881c2a6680e99b75953ce6eb4a8509e80a086&v=4" width="24" alt="Avatar of murtekbey"> murtekbey
+			</a><br/>
+			Murat Altınpınar
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/murtekbey">murtekbey</a></td>
 		<td>Turkey</td>
 		<td>5</td>
 	</tr>
@@ -10182,19 +10182,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>776</td>
 		<td>
-			<a href="https://github.com/hsturkyilmaz">
-				<img src="https://avatars.githubusercontent.com/u/57272652?s=72&u=af0e158d8f1d2a92339d75952979c909d522a653&v=4" width="24" alt="Avatar of hsturkyilmaz"> hsturkyilmaz
-			</a><br/>
-			Hasan Sezai Türkyılmaz
-		</td>
-		<td>@clemta </td>
-		<td><a href="https://twitter.com/hsturkyilmaz">hsturkyilmaz</a></td>
-		<td>Tokat, Turkey</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>777</td>
-		<td>
 			<a href="https://github.com/Brktrlw">
 				<img src="https://avatars.githubusercontent.com/u/74716514?s=72&u=0472e0bb829cb1c4bb766f7715caf9f4c18ea46e&v=4" width="24" alt="Avatar of Brktrlw"> Brktrlw
 			</a><br/>
@@ -10206,7 +10193,33 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
+		<td>777</td>
+		<td>
+			<a href="https://github.com/SinanMtl">
+				<img src="https://avatars.githubusercontent.com/u/4516938?s=72&u=8876b66ea89269521a466863ce113623fb3cf032&v=4" width="24" alt="Avatar of SinanMtl"> SinanMtl
+			</a><br/>
+			Sinan Mutlu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SinanMtl">SinanMtl</a></td>
+		<td>İstanbul, Turkey</td>
+		<td>5</td>
+	</tr>
+	<tr>
 		<td>778</td>
+		<td>
+			<a href="https://github.com/hsturkyilmaz">
+				<img src="https://avatars.githubusercontent.com/u/57272652?s=72&u=af0e158d8f1d2a92339d75952979c909d522a653&v=4" width="24" alt="Avatar of hsturkyilmaz"> hsturkyilmaz
+			</a><br/>
+			Hasan Sezai Türkyılmaz
+		</td>
+		<td>@clemta </td>
+		<td><a href="https://twitter.com/hsturkyilmaz">hsturkyilmaz</a></td>
+		<td>Tokat, Turkey</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/Enes-Kayiklik">
 				<img src="https://avatars.githubusercontent.com/u/48830616?s=72&u=9d1d60e4e59b09cb18dd6924e3464f851834249b&v=4" width="24" alt="Avatar of Enes-Kayiklik"> Enes-Kayiklik
@@ -10219,7 +10232,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/erendmn">
 				<img src="https://avatars.githubusercontent.com/u/79483175?s=72&u=0e680d24b400fdd6ac6831aaf13f3709eb18c1b6&v=4" width="24" alt="Avatar of erendmn"> erendmn
@@ -10232,7 +10245,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/poteburion">
 				<img src="https://avatars.githubusercontent.com/u/125835143?s=72&u=91cfacf7b6aed87adc141c99be3517692ae888de&v=4" width="24" alt="Avatar of poteburion"> poteburion
@@ -10245,7 +10258,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/yvzkahraman">
 				<img src="https://avatars.githubusercontent.com/u/44233634?s=72&u=4143d3fe8b725e93eb4240b95282f1a6453d70df&v=4" width="24" alt="Avatar of yvzkahraman"> yvzkahraman
@@ -10258,7 +10271,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/ZelihaArslan">
 				<img src="https://avatars.githubusercontent.com/u/22591532?s=72&u=23eb0c69b82de7ee28d72ae89b16748c3c625b9f&v=4" width="24" alt="Avatar of ZelihaArslan"> ZelihaArslan
@@ -10271,7 +10284,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/volkansengul">
 				<img src="https://avatars.githubusercontent.com/u/2904090?s=72&u=f93a4ee0fdd00f367793d748d3be7f646a283018&v=4" width="24" alt="Avatar of volkansengul"> volkansengul
@@ -10284,7 +10297,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/serdarb">
 				<img src="https://avatars.githubusercontent.com/u/532455?s=72&u=f0ec6578f1b5ec74288ad11f80d89481796babb1&v=4" width="24" alt="Avatar of serdarb"> serdarb
@@ -10297,7 +10310,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/oguzhaninan">
 				<img src="https://avatars.githubusercontent.com/u/16149251?s=72&u=82741b169d90242d8b0b6de266241d3b3d121c6f&v=4" width="24" alt="Avatar of oguzhaninan"> oguzhaninan
@@ -10310,7 +10323,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/alperhankendi">
 				<img src="https://avatars.githubusercontent.com/u/928845?s=72&u=7b359232fc092b07c74f25190e3099d1a64d3e51&v=4" width="24" alt="Avatar of alperhankendi"> alperhankendi
@@ -10323,7 +10336,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/obenjiro">
 				<img src="https://avatars.githubusercontent.com/u/1760346?s=72&u=4ac59f62ded030834cb0075dc2aee2d66b73d7aa&v=4" width="24" alt="Avatar of obenjiro"> obenjiro
@@ -10336,7 +10349,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/ahmetgurel">
 				<img src="https://avatars.githubusercontent.com/u/7137649?s=72&u=5e76afc786a6929748ea453b0cc5a5b6cd4cb1b9&v=4" width="24" alt="Avatar of ahmetgurel"> ahmetgurel
@@ -10349,7 +10362,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/FikretAkin">
 				<img src="https://avatars.githubusercontent.com/u/4567665?s=72&u=4aaddfdeb98edc7b558f267a5e27c4e9f0ea31c8&v=4" width="24" alt="Avatar of FikretAkin"> FikretAkin
@@ -10362,7 +10375,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/oncekiyazilimci">
 				<img src="https://avatars.githubusercontent.com/u/5668144?s=72&v=4" width="24" alt="Avatar of oncekiyazilimci"> oncekiyazilimci
@@ -10375,7 +10388,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/gunayus">
 				<img src="https://avatars.githubusercontent.com/u/3997061?s=72&u=cdcf1f99febd148acb0a82e5ecca19bc57ae20d7&v=4" width="24" alt="Avatar of gunayus"> gunayus
@@ -10388,7 +10401,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/kadirmuratbaseren">
 				<img src="https://avatars.githubusercontent.com/u/20677239?s=72&u=bc7f0caa0638f998655882259b9271edbeaa5b8f&v=4" width="24" alt="Avatar of kadirmuratbaseren"> kadirmuratbaseren
@@ -10401,7 +10414,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/sbagdat">
 				<img src="https://avatars.githubusercontent.com/u/465752?s=72&u=60d333c00624509444c8a306647886e3f9cfb730&v=4" width="24" alt="Avatar of sbagdat"> sbagdat
@@ -10414,7 +10427,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/celil">
 				<img src="https://avatars.githubusercontent.com/u/12381020?s=72&u=e38874a5cf2d336c0428a7dc8b72fe93435c4866&v=4" width="24" alt="Avatar of celil"> celil
@@ -10427,7 +10440,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/yasinugrl">
 				<img src="https://avatars.githubusercontent.com/u/19948619?s=72&u=6f69119bf0b8a885e60bb44e5ed38adce7301cf4&v=4" width="24" alt="Avatar of yasinugrl"> yasinugrl
@@ -10440,7 +10453,7 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/makifkeskin">
 				<img src="https://avatars.githubusercontent.com/u/47283760?s=72&u=814e647ebc84ae9cd3852d84b4f13675c552c58d&v=4" width="24" alt="Avatar of makifkeskin"> makifkeskin
@@ -10450,19 +10463,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Turkey</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>797</td>
-		<td>
-			<a href="https://github.com/SinanMtl">
-				<img src="https://avatars.githubusercontent.com/u/4516938?s=72&u=8876b66ea89269521a466863ce113623fb3cf032&v=4" width="24" alt="Avatar of SinanMtl"> SinanMtl
-			</a><br/>
-			Sinan Mutlu
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SinanMtl">SinanMtl</a></td>
-		<td>İstanbul, Turkey</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -11001,19 +11001,6 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 	<tr>
 		<td>839</td>
 		<td>
-			<a href="https://github.com/gizemargunsah">
-				<img src="https://avatars.githubusercontent.com/u/126324541?s=72&u=c39348e71eab0ded3ad48b2dfeab40d33dde5d5f&v=4" width="24" alt="Avatar of gizemargunsah"> gizemargunsah
-			</a><br/>
-			Gizem
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Izmir</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>840</td>
-		<td>
 			<a href="https://github.com/kubrausluca">
 				<img src="https://avatars.githubusercontent.com/u/42738275?s=72&u=ff81a6469bba3167885ebea6b7c96dc61ad48734&v=4" width="24" alt="Avatar of kubrausluca"> kubrausluca
 			</a><br/>
@@ -11022,6 +11009,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Garanti Bbva Teknoloji </td>
 		<td>No Twitter Username</td>
 		<td>İstanbul, Turkey</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>840</td>
+		<td>
+			<a href="https://github.com/gizemargunsah">
+				<img src="https://avatars.githubusercontent.com/u/126324541?s=72&u=c39348e71eab0ded3ad48b2dfeab40d33dde5d5f&v=4" width="24" alt="Avatar of gizemargunsah"> gizemargunsah
+			</a><br/>
+			Gizem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Izmir</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -11240,8 +11240,8 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 			</a><br/>
 			Toasty
 		</td>
-		<td>Codesty </td>
-		<td><a href="https://twitter.com/fuvrkn">fuvrkn</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Turkey</td>
 		<td>1</td>
 	</tr>
@@ -11529,6 +11529,19 @@ There are `987 users`  in Turkey. You need at least `105 followers` to be on thi
 		<td>Codesection </td>
 		<td><a href="https://twitter.com/ibrahimhizliogl">ibrahimhizliogl</a></td>
 		<td>Istanbul, Turkey</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>880</td>
+		<td>
+			<a href="https://github.com/buraksafak">
+				<img src="https://avatars.githubusercontent.com/u/45175142?s=72&u=64b334eca8e26f9db093ee73375f08dc69b6c1e4&v=4" width="24" alt="Avatar of buraksafak"> buraksafak
+			</a><br/>
+			Burak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ankara</td>
 		<td>1</td>
 	</tr>
 </table>
