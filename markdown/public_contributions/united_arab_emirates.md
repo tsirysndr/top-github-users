@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2023/6/8 9:35 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2023/6/9 3:12 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -341,19 +341,6 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/desersafari">
-				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
-			</a><br/>
-			Desert Safari UAE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sharjah, United Arab Emirates</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/viewydigital1">
 				<img src="https://avatars.githubusercontent.com/u/128015426?s=72&v=4" width="24" alt="Avatar of viewydigital1"> viewydigital1
 			</a><br/>
@@ -365,16 +352,29 @@ There are `47 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/emaa098">
+				<img src="https://avatars.githubusercontent.com/u/135972793?s=72&u=b87075e3641de82c751be18ec3460f94cc35a918&v=4" width="24" alt="Avatar of emaa098"> emaa098
+			</a><br/>
+			emaathomas
+		</td>
+		<td>Emirates Relocations. </td>
+		<td>No Twitter Username</td>
+		<td>Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>21</td>
 		<td>
-			<a href="https://github.com/multiwooddubai52">
-				<img src="https://avatars.githubusercontent.com/u/135001392?s=72&u=659a8ba3535de015d8969f0a7a5b925a70be55ac&v=4" width="24" alt="Avatar of multiwooddubai52"> multiwooddubai52
+			<a href="https://github.com/desersafari">
+				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
 			</a><br/>
-			multiwood dubai52
+			Desert Safari UAE
 		</td>
-		<td>Multi Wood </td>
-		<td><a href="https://twitter.com/multiwood_ae">multiwood_ae</a></td>
-		<td>Sharjah, Al Nahda, Al Nahda Sahara Plaza, C Block, 2204, Dubai Dubai, United Arab Emirates.</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sharjah, United Arab Emirates</td>
 		<td>1</td>
 	</tr>
 	<tr>
