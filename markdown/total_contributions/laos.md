@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` and `private contributions` by users in Laos on `2023/6/9 1:11 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` and `private contributions` by users in Laos on `2023/6/10 6:56 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>128</td>
-		<td>5261</td>
+		<td>5271</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>0</td>
-		<td>4668</td>
+		<td>4669</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane Laos</td>
 		<td>0</td>
-		<td>3925</td>
+		<td>3938</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -410,8 +410,8 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Bcel Bank </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane,Laos</td>
-		<td>212</td>
-		<td>212</td>
+		<td>213</td>
+		<td>213</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -696,6 +696,20 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>43</td>
 		<td>
+			<a href="https://github.com/1x000">
+				<img src="https://avatars.githubusercontent.com/u/89715290?s=72&v=4" width="24" alt="Avatar of 1x000"> 1x000
+			</a><br/>
+			LEl_FENG
+		</td>
+		<td>Hlm 2b2t </td>
+		<td><a href="https://twitter.com/HuaweiH45278254">HuaweiH45278254</a></td>
+		<td>Laos</td>
+		<td>89</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
 			<a href="https://github.com/JarnKet">
 				<img src="https://avatars.githubusercontent.com/u/100824073?s=72&u=ae36b40e11686e67d0429ca97d217746796a60dd&v=4" width="24" alt="Avatar of JarnKet"> JarnKet
 			</a><br/>
@@ -706,20 +720,6 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Savannakhet, Laos</td>
 		<td>86</td>
 		<td>86</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/1x000">
-				<img src="https://avatars.githubusercontent.com/u/89715290?s=72&v=4" width="24" alt="Avatar of 1x000"> 1x000
-			</a><br/>
-			LEl_FENG
-		</td>
-		<td>Hlm 2b2t </td>
-		<td><a href="https://twitter.com/HuaweiH45278254">HuaweiH45278254</a></td>
-		<td>Laos</td>
-		<td>85</td>
-		<td>85</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -830,8 +830,8 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/somvanglaz">somvanglaz</a></td>
 		<td>Vientiane, Laos</td>
-		<td>59</td>
-		<td>59</td>
+		<td>60</td>
+		<td>60</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1732,6 +1732,20 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>117</td>
 		<td>
+			<a href="https://github.com/Beethor-KAPOR">
+				<img src="https://avatars.githubusercontent.com/u/92290412?s=72&u=17f6595371f53525b27fd9d68adf4dc9728c54a8&v=4" width="24" alt="Avatar of Beethor-KAPOR"> Beethor-KAPOR
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>DongDok, Saythani, Vientiane</td>
+		<td>6</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>118</td>
+		<td>
 			<a href="https://github.com/keophilavong">
 				<img src="https://avatars.githubusercontent.com/u/45658681?s=72&u=3b2ee0c7ca83cedc077d4706743b28210e587cb8&v=4" width="24" alt="Avatar of keophilavong"> keophilavong
 			</a><br/>
@@ -1744,7 +1758,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/os555">
 				<img src="https://avatars.githubusercontent.com/u/4261168?s=72&u=40912488dd10c6f6c8d98fcfbfb58dac7d8c48ba&v=4" width="24" alt="Avatar of os555"> os555
@@ -1758,7 +1772,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/hiramoto">
 				<img src="https://avatars.githubusercontent.com/u/4223173?s=72&v=4" width="24" alt="Avatar of hiramoto"> hiramoto
@@ -1772,7 +1786,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/xokthilat">
 				<img src="https://avatars.githubusercontent.com/u/32994521?s=72&u=82d78ea500cb89d9dd10c1a77cb727e3fdb57177&v=4" width="24" alt="Avatar of xokthilat"> xokthilat
@@ -1786,7 +1800,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/panasoniclam">
 				<img src="https://avatars.githubusercontent.com/u/35496264?s=72&v=4" width="24" alt="Avatar of panasoniclam"> panasoniclam
@@ -1800,7 +1814,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/Macodetogethaer">
 				<img src="https://avatars.githubusercontent.com/u/110775020?s=72&u=f0303a5064d613b30227734e4e1b6a0f7acbde50&v=4" width="24" alt="Avatar of Macodetogethaer"> Macodetogethaer
@@ -1810,20 +1824,6 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, LAO PDR.</td>
-		<td>5</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>123</td>
-		<td>
-			<a href="https://github.com/Beethor-KAPOR">
-				<img src="https://avatars.githubusercontent.com/u/92290412?s=72&u=17f6595371f53525b27fd9d68adf4dc9728c54a8&v=4" width="24" alt="Avatar of Beethor-KAPOR"> Beethor-KAPOR
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>DongDok, Saythani, Vientiane</td>
 		<td>5</td>
 		<td>5</td>
 	</tr>
