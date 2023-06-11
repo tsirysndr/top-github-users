@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` by users in Laos on `2023/6/10 6:56 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` by users in Laos on `2023/6/11 12:15 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -154,7 +154,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Bcel Bank </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane,Laos</td>
-		<td>213</td>
+		<td>216</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -232,7 +232,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Xaythany, Vientiane Prefecture, Laos</td>
-		<td>144</td>
+		<td>147</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -276,6 +276,19 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>14</td>
 		<td>
+			<a href="https://github.com/t-toum">
+				<img src="https://avatars.githubusercontent.com/u/34739834?s=72&u=172fe8e5ccf30c7bdeb8e2484d1955fc668fad38&v=4" width="24" alt="Avatar of t-toum"> t-toum
+			</a><br/>
+			Nanthavath Vongsouna
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Laos</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td>
 			<a href="https://github.com/kayengxiongTST">
 				<img src="https://avatars.githubusercontent.com/u/104555848?s=72&u=8286bd558266d4ae295046e42e1ab1349d0c25f6&v=4" width="24" alt="Avatar of kayengxiongTST"> kayengxiongTST
 			</a><br/>
@@ -287,20 +300,20 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>16</td>
 		<td>
-			<a href="https://github.com/t-toum">
-				<img src="https://avatars.githubusercontent.com/u/34739834?s=72&u=172fe8e5ccf30c7bdeb8e2484d1955fc668fad38&v=4" width="24" alt="Avatar of t-toum"> t-toum
+			<a href="https://github.com/Sengkue">
+				<img src="https://avatars.githubusercontent.com/u/82859778?s=72&u=6e06903757e7ac45835052b01a81da938920d2fc&v=4" width="24" alt="Avatar of Sengkue"> Sengkue
 			</a><br/>
-			Nanthavath Vongsouna
+			MR SENGVANG BLONGMAI
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Laos</td>
-		<td>127</td>
+		<td>Laos, Vientiane capital</td>
+		<td>126</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/tyecode">
 				<img src="https://avatars.githubusercontent.com/u/102734704?s=72&u=e13983890ad5f651b54b548a2e7a95c8b81afe30&v=4" width="24" alt="Avatar of tyecode"> tyecode
@@ -311,19 +324,6 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>125</td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>
-			<a href="https://github.com/Sengkue">
-				<img src="https://avatars.githubusercontent.com/u/82859778?s=72&u=6e06903757e7ac45835052b01a81da938920d2fc&v=4" width="24" alt="Avatar of Sengkue"> Sengkue
-			</a><br/>
-			MR SENGVANG BLONGMAI
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Laos, Vientiane capital</td>
-		<td>124</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -492,7 +492,7 @@ There are `405 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>@phoudthavisack </td>
 		<td><a href="https://twitter.com/phoudthavisack">phoudthavisack</a></td>
 		<td>Laos</td>
-		<td>82</td>
+		<td>83</td>
 	</tr>
 	<tr>
 		<td>31</td>
