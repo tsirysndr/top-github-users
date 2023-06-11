@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2023/6/11 1:18 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2023/6/11 6:34 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -187,7 +187,7 @@ There are `162 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/medvall_mr">medvall_mr</a></td>
 		<td>Nouakchott, Mauritania</td>
 		<td>5</td>
-		<td>529</td>
+		<td>530</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -285,7 +285,7 @@ There are `162 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td><a href="https://twitter.com/mbareck77">mbareck77</a></td>
 		<td>Mauritania, Nouakchott</td>
 		<td>14</td>
-		<td>147</td>
+		<td>148</td>
 	</tr>
 	<tr>
 		<td>14</td>
