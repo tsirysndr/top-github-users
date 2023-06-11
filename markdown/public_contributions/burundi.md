@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" alt="Burundi">
 </a>
 
-The `public contributions` by users in Burundi on `2023/6/10 6:19 PM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
+The `public contributions` by users in Burundi on `2023/6/11 11:33 AM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `349 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>Microverse </td>
 		<td><a href="https://twitter.com/joffreynk">joffreynk</a></td>
 		<td>Bujumbura-BURUNDI</td>
-		<td>1696</td>
+		<td>1710</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `349 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/EdgarEldy">EdgarEldy</a></td>
 		<td>BUJUMBURA,BURUNDI</td>
-		<td>1275</td>
+		<td>1277</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -2616,19 +2616,6 @@ There are `349 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>194</td>
 		<td>
-			<a href="https://github.com/DarK9it">
-				<img src="https://avatars.githubusercontent.com/u/132555601?s=72&u=433724cdb4fb47bebfaf5fae52a6859a40ff3ba1&v=4" width="24" alt="Avatar of DarK9it"> DarK9it
-			</a><br/>
-			NISHIMWE Alain Michel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bujumbura Burundi</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
 			<a href="https://github.com/alain-divin">
 				<img src="https://avatars.githubusercontent.com/u/112072902?s=72&u=dfc1250b06afb84e3ada67dbeb24ab764c8dde60&v=4" width="24" alt="Avatar of alain-divin"> alain-divin
 			</a><br/>
@@ -2637,6 +2624,19 @@ There are `349 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>burundi</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/DarK9it">
+				<img src="https://avatars.githubusercontent.com/u/132555601?s=72&u=433724cdb4fb47bebfaf5fae52a6859a40ff3ba1&v=4" width="24" alt="Avatar of DarK9it"> DarK9it
+			</a><br/>
+			NISHIMWE Alain Michel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bujumbura Burundi</td>
 		<td>1</td>
 	</tr>
 	<tr>
