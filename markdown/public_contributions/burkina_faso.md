@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` by users in Burkina Faso on `2023/6/13 4:23 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` by users in Burkina Faso on `2023/6/14 10:03 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Abubakr_Cisse">Abubakr_Cisse</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
-		<td>1553</td>
+		<td>1563</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -167,7 +167,7 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>@globalanalysistech </td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, BF</td>
-		<td>363</td>
+		<td>364</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -627,6 +627,19 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/Yonaba">
+				<img src="https://avatars.githubusercontent.com/u/884058?s=72&v=4" width="24" alt="Avatar of Yonaba"> Yonaba
+			</a><br/>
+			Roland
+		</td>
+		<td>2ie </td>
+		<td><a href="https://twitter.com/RYonaba">RYonaba</a></td>
+		<td>Ouagadougou (Burkina Faso)</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/oousmane">
 				<img src="https://avatars.githubusercontent.com/u/69334445?s=72&u=5b42ac791370769696aad734ab194b3c418db03d&v=4" width="24" alt="Avatar of oousmane"> oousmane
 			</a><br/>
@@ -638,7 +651,7 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/Rabassia">
 				<img src="https://avatars.githubusercontent.com/u/120127089?s=72&u=ec552fcb682442d4742ed2053406da3e3002dd2c&v=4" width="24" alt="Avatar of Rabassia"> Rabassia
@@ -649,19 +662,6 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/droidrissa">droidrissa</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
 		<td>23</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/Yonaba">
-				<img src="https://avatars.githubusercontent.com/u/884058?s=72&v=4" width="24" alt="Avatar of Yonaba"> Yonaba
-			</a><br/>
-			Roland
-		</td>
-		<td>2ie </td>
-		<td><a href="https://twitter.com/RYonaba">RYonaba</a></td>
-		<td>Ouagadougou (Burkina Faso)</td>
-		<td>22</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -1524,19 +1524,6 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>110</td>
 		<td>
-			<a href="https://github.com/YODAdam">
-				<img src="https://avatars.githubusercontent.com/u/38352548?s=72&u=6b75270ae16820d8b9aa383ab6a66f0d6aaabb22&v=4" width="24" alt="Avatar of YODAdam"> YODAdam
-			</a><br/>
-			YODA Adaman
-		</td>
-		<td>Agence Nationale De La<br/>Météorologie<br/></td>
-		<td><a href="https://twitter.com/AdamanYoda">AdamanYoda</a></td>
-		<td>OUAGADOUGOU</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
 			<a href="https://github.com/kominiasty">
 				<img src="https://avatars.githubusercontent.com/u/124176386?s=72&u=723ba44394398edc5902c1a18bee028d96e209dd&v=4" width="24" alt="Avatar of kominiasty"> kominiasty
 			</a><br/>
@@ -1545,6 +1532,19 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Google </td>
 		<td><a href="https://twitter.com/kominiasty_">kominiasty_</a></td>
 		<td>Ouagadougou</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/YODAdam">
+				<img src="https://avatars.githubusercontent.com/u/38352548?s=72&u=6b75270ae16820d8b9aa383ab6a66f0d6aaabb22&v=4" width="24" alt="Avatar of YODAdam"> YODAdam
+			</a><br/>
+			YODA Adaman
+		</td>
+		<td>Agence Nationale De La<br/>Météorologie<br/></td>
+		<td><a href="https://twitter.com/AdamanYoda">AdamanYoda</a></td>
+		<td>OUAGADOUGOU</td>
 		<td>1</td>
 	</tr>
 	<tr>
