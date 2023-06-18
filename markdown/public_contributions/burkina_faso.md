@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` by users in Burkina Faso on `2023/6/17 8:44 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` by users in Burkina Faso on `2023/6/18 2:12 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -219,7 +219,7 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou Burkina-Faso</td>
-		<td>259</td>
+		<td>260</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -232,7 +232,7 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Université Joseph Ki-zerbo </td>
 		<td><a href="https://twitter.com/KIENDREBEOGORa4">KIENDREBEOGORa4</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
-		<td>210</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -1459,19 +1459,6 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>105</td>
 		<td>
-			<a href="https://github.com/Leoakoba">
-				<img src="https://avatars.githubusercontent.com/u/117765177?s=72&u=23a9614fe52aa11dacf262b1f800bd8d2d3d7c56&v=4" width="24" alt="Avatar of Leoakoba"> Leoakoba
-			</a><br/>
-			Leo_akb
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AkobaLeo">AkobaLeo</a></td>
-		<td>Ouagadougou </td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
 			<a href="https://github.com/ouakasi">
 				<img src="https://avatars.githubusercontent.com/u/110337995?s=72&v=4" width="24" alt="Avatar of ouakasi"> ouakasi
 			</a><br/>
@@ -1480,6 +1467,19 @@ There are `271 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Ouakasi Tech & Services<br/></td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, Burkina Faso</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>106</td>
+		<td>
+			<a href="https://github.com/Leoakoba">
+				<img src="https://avatars.githubusercontent.com/u/117765177?s=72&u=23a9614fe52aa11dacf262b1f800bd8d2d3d7c56&v=4" width="24" alt="Avatar of Leoakoba"> Leoakoba
+			</a><br/>
+			Leo_akb
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AkobaLeo">AkobaLeo</a></td>
+		<td>Ouagadougou </td>
 		<td>2</td>
 	</tr>
 	<tr>
