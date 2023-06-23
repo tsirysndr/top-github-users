@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2023/6/22 1:23 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2023/6/23 6:57 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1654,19 +1654,6 @@ There are `411 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>120</td>
 		<td>
-			<a href="https://github.com/lienteng">
-				<img src="https://avatars.githubusercontent.com/u/85537016?s=72&u=b2be7c79c2665fca448e34a2c16d1671b981fb4b&v=4" width="24" alt="Avatar of lienteng"> lienteng
-			</a><br/>
-			lien teng
-		</td>
-		<td>Akatsolution </td>
-		<td><a href="https://twitter.com/lienteng_xang">lienteng_xang</a></td>
-		<td>vientiane</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
 			<a href="https://github.com/Yingyony0097">
 				<img src="https://avatars.githubusercontent.com/u/32405885?s=72&u=156c1da7518af3ed173f2ced96f3dbfa0dc1c4b0&v=4" width="24" alt="Avatar of Yingyony0097"> Yingyony0097
 			</a><br/>
@@ -1675,6 +1662,19 @@ There are `411 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yingyong0097">yingyong0097</a></td>
 		<td>Vientaine, Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/konglaodev">
+				<img src="https://avatars.githubusercontent.com/u/59546604?s=72&u=b8b2db332af0bef45083a03e5f78769b17d16632&v=4" width="24" alt="Avatar of konglaodev"> konglaodev
+			</a><br/>
+			No Name
+		</td>
+		<td>@devzone </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, LAO ,PDR</td>
 		<td>1</td>
 	</tr>
 	<tr>
