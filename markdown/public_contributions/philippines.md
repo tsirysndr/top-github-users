@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" alt="Philippines">
 </a>
 
-The `public contributions` by users in Philippines on `2023/6/28 2:17 PM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
+The `public contributions` by users in Philippines on `2023/6/29 8:08 AM UTC`. This list contains users from `Philippines` and cities `Manila` `Quezon-city` `Davao-city` `Cebu-city` `Makati` `Baguio`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>17053</td>
+		<td>17108</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -139,9 +139,9 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 			Melvin Jones Repol
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td><a href="https://twitter.com/mrepol742">mrepol742</a></td>
 		<td>Caloocan City, Philippines</td>
-		<td>12498</td>
+		<td>12499</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -193,7 +193,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Sti College Legazpi </td>
 		<td><a href="https://twitter.com/pitzzahh143">pitzzahh143</a></td>
 		<td>Albay, Philippines</td>
-		<td>3107</td>
+		<td>3117</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Private </td>
 		<td><a href="https://twitter.com/kermage">kermage</a></td>
 		<td>24A Badelles St. Poblacion 9200 Iligan City, Philippines</td>
-		<td>2942</td>
+		<td>2959</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -232,7 +232,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>University Of The Philippines<br/>-<br/>Diliman<br/></td>
 		<td><a href="https://twitter.com/BastiDood">BastiDood</a></td>
 		<td>Philippines</td>
-		<td>2238</td>
+		<td>2239</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -258,7 +258,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>@programmersdevelope @lyoninc </td>
 		<td><a href="https://twitter.com/lxsmnsyc">lxsmnsyc</a></td>
 		<td>Philippines</td>
-		<td>2016</td>
+		<td>2017</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>@kuru-studio  </td>
 		<td><a href="https://twitter.com/BosEriCode">BosEriCode</a></td>
 		<td>Philippines</td>
-		<td>1911</td>
+		<td>1913</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -349,7 +349,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Mediajel </td>
 		<td>No Twitter Username</td>
 		<td>Cebu City, Philippines</td>
-		<td>1652</td>
+		<td>1663</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -362,7 +362,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>1563</td>
+		<td>1580</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -432,19 +432,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>26</td>
 		<td>
-			<a href="https://github.com/polekstulod">
-				<img src="https://avatars.githubusercontent.com/u/38794173?s=72&u=e3b29489bac75bdb781fa32e9edd3277ea7f5b88&v=4" width="24" alt="Avatar of polekstulod"> polekstulod
-			</a><br/>
-			James Paul Tulod
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Manila, Philippines</td>
-		<td>1367</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
 			<a href="https://github.com/skibidibidop">
 				<img src="https://avatars.githubusercontent.com/u/118040870?s=72&v=4" width="24" alt="Avatar of skibidibidop"> skibidibidop
 			</a><br/>
@@ -453,7 +440,20 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Pasig City, Philippines</td>
-		<td>1364</td>
+		<td>1373</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/polekstulod">
+				<img src="https://avatars.githubusercontent.com/u/38794173?s=72&u=e3b29489bac75bdb781fa32e9edd3277ea7f5b88&v=4" width="24" alt="Avatar of polekstulod"> polekstulod
+			</a><br/>
+			James Paul Tulod
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Manila, Philippines</td>
+		<td>1369</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -466,7 +466,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Withcenter, Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Manila</td>
-		<td>1346</td>
+		<td>1351</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -492,23 +492,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>1334</td>
+		<td>1336</td>
 	</tr>
 	<tr>
 		<td>31</td>
-		<td>
-			<a href="https://github.com/zomeru">
-				<img src="https://avatars.githubusercontent.com/u/19688908?s=72&u=e5248c327107d4df4ef9243bf00a9fcd8bb247bc&v=4" width="24" alt="Avatar of zomeru"> zomeru
-			</a><br/>
-			Zomer Gregorio
-		</td>
-		<td>Beyonder Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>1298</td>
-	</tr>
-	<tr>
-		<td>32</td>
 		<td>
 			<a href="https://github.com/armlynobinguar">
 				<img src="https://avatars.githubusercontent.com/u/65301944?s=72&u=1432edeb897a22f6bb55a6dff3ca903a5f3eaa47&v=4" width="24" alt="Avatar of armlynobinguar"> armlynobinguar
@@ -521,7 +508,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1262</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/princejoogie">
 				<img src="https://avatars.githubusercontent.com/u/47204120?s=72&u=5fb366cc66bc119e3bda023dbcaf0973ba835efb&v=4" width="24" alt="Avatar of princejoogie"> princejoogie
@@ -534,7 +521,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1260</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/jheavejimenez">
 				<img src="https://avatars.githubusercontent.com/u/40889884?s=72&u=3f257af38535b9b2129c06ecd691ad503f768ea4&v=4" width="24" alt="Avatar of jheavejimenez"> jheavejimenez
@@ -547,7 +534,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1252</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/bricesuazo">
 				<img src="https://avatars.githubusercontent.com/u/74240706?s=72&v=4" width="24" alt="Avatar of bricesuazo"> bricesuazo
@@ -560,7 +547,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1191</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/SeaDve">
 				<img src="https://avatars.githubusercontent.com/u/64297935?s=72&u=b600fb59e36177ecbcd8f68834a689ddca85a93a&v=4" width="24" alt="Avatar of SeaDve"> SeaDve
@@ -573,7 +560,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1175</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/danteocualesjr">
 				<img src="https://avatars.githubusercontent.com/u/35713996?s=72&u=387fb638f344b5aad179dd28d6901e84867af238&v=4" width="24" alt="Avatar of danteocualesjr"> danteocualesjr
@@ -583,10 +570,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Bloomtech </td>
 		<td>No Twitter Username</td>
 		<td>Cebu, Philippines</td>
-		<td>1163</td>
+		<td>1165</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/jjalbuenacabuyao">
 				<img src="https://avatars.githubusercontent.com/u/88653574?s=72&u=d4b67e2f2240525c12126471600aa72ab5b1554c&v=4" width="24" alt="Avatar of jjalbuenacabuyao"> jjalbuenacabuyao
@@ -599,7 +586,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1163</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/poisk-ls">
 				<img src="https://avatars.githubusercontent.com/u/112060601?s=72&u=c30d195303eb00b35f192af0fd9118b85c2c18e2&v=4" width="24" alt="Avatar of poisk-ls"> poisk-ls
@@ -612,7 +599,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1142</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/icedman">
 				<img src="https://avatars.githubusercontent.com/u/529886?s=72&u=ece252d7ddef535509f716975af67fd64d829aba&v=4" width="24" alt="Avatar of icedman"> icedman
@@ -625,7 +612,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1118</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/bkpecho">
 				<img src="https://avatars.githubusercontent.com/u/91954699?s=72&u=da55c4702c518f1e810b2b3be6f50c48e284a5ba&v=4" width="24" alt="Avatar of bkpecho"> bkpecho
@@ -638,7 +625,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1104</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/renzocabarios">
 				<img src="https://avatars.githubusercontent.com/u/72588010?s=72&u=6e2912734b11b060b82f07a34c391dae82ad2f8d&v=4" width="24" alt="Avatar of renzocabarios"> renzocabarios
@@ -651,7 +638,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1090</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/BroJenuel">
 				<img src="https://avatars.githubusercontent.com/u/31676163?s=72&u=84b9f72736cffd39aafa5854321f9703e4789621&v=4" width="24" alt="Avatar of BroJenuel"> BroJenuel
@@ -664,7 +651,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1087</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/mrHeinrichh">
 				<img src="https://avatars.githubusercontent.com/u/97886828?s=72&u=2eb42e528a56e740448464a32011d88ed743e392&v=4" width="24" alt="Avatar of mrHeinrichh"> mrHeinrichh
@@ -677,7 +664,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1026</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/gramliu">
 				<img src="https://avatars.githubusercontent.com/u/24856195?s=72&u=9f55337506cdcac3146772c56b4634e6b46a5e46&v=4" width="24" alt="Avatar of gramliu"> gramliu
@@ -690,7 +677,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1023</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/Mochimochi07">
 				<img src="https://avatars.githubusercontent.com/u/108660194?s=72&u=bda4ccb0b11bb51332e380885b19b2d84dcf15f0&v=4" width="24" alt="Avatar of Mochimochi07"> Mochimochi07
@@ -701,6 +688,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>1016</td>
+	</tr>
+	<tr>
+		<td>46</td>
+		<td>
+			<a href="https://github.com/sshanzel">
+				<img src="https://avatars.githubusercontent.com/u/13744167?s=72&u=413aa7986379723e3c98cd578e3fbe1ce4b0c47e&v=4" width="24" alt="Avatar of sshanzel"> sshanzel
+			</a><br/>
+			Lee Hansel Solevilla
+		</td>
+		<td>Daily.dev </td>
+		<td><a href="https://twitter.com/sshanzel">sshanzel</a></td>
+		<td>Metro Manila, Philippines</td>
+		<td>1003</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -718,19 +718,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/sshanzel">
-				<img src="https://avatars.githubusercontent.com/u/13744167?s=72&u=413aa7986379723e3c98cd578e3fbe1ce4b0c47e&v=4" width="24" alt="Avatar of sshanzel"> sshanzel
-			</a><br/>
-			Lee Hansel Solevilla
-		</td>
-		<td>Daily.dev </td>
-		<td><a href="https://twitter.com/sshanzel">sshanzel</a></td>
-		<td>Metro Manila, Philippines</td>
-		<td>1002</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
 			<a href="https://github.com/paulbalandan">
 				<img src="https://avatars.githubusercontent.com/u/51850998?s=72&u=367b19e36817e202a5ca35d70dd7d3d129a61a73&v=4" width="24" alt="Avatar of paulbalandan"> paulbalandan
 			</a><br/>
@@ -742,7 +729,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>960</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/jofftiquez">
 				<img src="https://avatars.githubusercontent.com/u/8638243?s=72&u=b3201e5a92f6ec63c3626b204ffeb28bb29ce66d&v=4" width="24" alt="Avatar of jofftiquez"> jofftiquez
@@ -752,7 +739,20 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Mycure Inc. </td>
 		<td><a href="https://twitter.com/jrtiquez">jrtiquez</a></td>
 		<td>Manila, Philippines</td>
-		<td>957</td>
+		<td>958</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/jareddantis">
+				<img src="https://avatars.githubusercontent.com/u/4463435?s=72&u=5d45a240c55d9ee3837f5c578237d2da465bdb98&v=4" width="24" alt="Avatar of jareddantis"> jareddantis
+			</a><br/>
+			Jared Dantis
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jareddantis">jareddantis</a></td>
+		<td>Manila</td>
+		<td>956</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -770,6 +770,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>52</td>
 		<td>
+			<a href="https://github.com/VeoScript">
+				<img src="https://avatars.githubusercontent.com/u/26340308?s=72&u=32aa2341c6bce4aedb39269b7e1eacdcf07c6a40&v=4" width="24" alt="Avatar of VeoScript"> VeoScript
+			</a><br/>
+			Jerome Villaruel
+		</td>
+		<td>96.3 Wrock </td>
+		<td>No Twitter Username</td>
+		<td>Leyte, Philippines</td>
+		<td>947</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
 			<a href="https://github.com/froilansulit">
 				<img src="https://avatars.githubusercontent.com/u/58961133?s=72&u=7e24f84db251f1cc9578fc865ea09523fabe742a&v=4" width="24" alt="Avatar of froilansulit"> froilansulit
 			</a><br/>
@@ -779,19 +792,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>944</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/VeoScript">
-				<img src="https://avatars.githubusercontent.com/u/26340308?s=72&u=32aa2341c6bce4aedb39269b7e1eacdcf07c6a40&v=4" width="24" alt="Avatar of VeoScript"> VeoScript
-			</a><br/>
-			Jerome Villaruel
-		</td>
-		<td>96.3 Wrock </td>
-		<td>No Twitter Username</td>
-		<td>Leyte, Philippines</td>
-		<td>939</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -809,19 +809,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/jareddantis">
-				<img src="https://avatars.githubusercontent.com/u/4463435?s=72&u=5d45a240c55d9ee3837f5c578237d2da465bdb98&v=4" width="24" alt="Avatar of jareddantis"> jareddantis
-			</a><br/>
-			Jared Dantis
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jareddantis">jareddantis</a></td>
-		<td>Manila</td>
-		<td>920</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/yskooo">
 				<img src="https://avatars.githubusercontent.com/u/90546802?s=72&u=01e209d7149ff15f2085be851722147e9baeb621&v=4" width="24" alt="Avatar of yskooo"> yskooo
 			</a><br/>
@@ -830,10 +817,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>@inclineteam </td>
 		<td><a href="https://twitter.com/__harold_martin">__harold_martin</a></td>
 		<td>Philippines</td>
-		<td>916</td>
+		<td>919</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/eru123">
 				<img src="https://avatars.githubusercontent.com/u/39824083?s=72&u=adb6594985b90279ea0e1b8f2263daf86314aae1&v=4" width="24" alt="Avatar of eru123"> eru123
@@ -846,7 +833,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>910</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/joshxfi">
 				<img src="https://avatars.githubusercontent.com/u/69457996?s=72&u=1ce656b8ac1d7790945b1d0ef6a19df7803d5542&v=4" width="24" alt="Avatar of joshxfi"> joshxfi
@@ -859,7 +846,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>906</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/MarkRywell">
 				<img src="https://avatars.githubusercontent.com/u/80958569?s=72&u=f3c0d4690136a1a69641d7832969dd556a720972&v=4" width="24" alt="Avatar of MarkRywell"> MarkRywell
@@ -872,7 +859,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>905</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/CaitlinChiang">
 				<img src="https://avatars.githubusercontent.com/u/22428053?s=72&u=5d8f8b840c8b7fe78d6ae096d9f580a9084b4436&v=4" width="24" alt="Avatar of CaitlinChiang"> CaitlinChiang
@@ -885,7 +872,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>898</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/robitussin">
 				<img src="https://avatars.githubusercontent.com/u/13309127?s=72&u=9539d02ccb022823cc296d3a5bad78e9a7b5c801&v=4" width="24" alt="Avatar of robitussin"> robitussin
@@ -898,7 +885,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>892</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/MatteuSan">
 				<img src="https://avatars.githubusercontent.com/u/39852553?s=72&u=26c437bbb0286f51275a4846681e2a4e45f997fd&v=4" width="24" alt="Avatar of MatteuSan"> MatteuSan
@@ -911,7 +898,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>876</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/PaulPintang">
 				<img src="https://avatars.githubusercontent.com/u/68470880?s=72&u=29d8425d89a7007a36d84269ac46b70a64a10f76&v=4" width="24" alt="Avatar of PaulPintang"> PaulPintang
@@ -924,7 +911,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>873</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/codewithJosh">
 				<img src="https://avatars.githubusercontent.com/u/85565519?s=72&u=5af4101d453d9ccf251a139c64798ece09ce4910&v=4" width="24" alt="Avatar of codewithJosh"> codewithJosh
@@ -937,6 +924,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>864</td>
 	</tr>
 	<tr>
+		<td>64</td>
+		<td>
+			<a href="https://github.com/zomeru">
+				<img src="https://avatars.githubusercontent.com/u/19688908?s=72&u=e5248c327107d4df4ef9243bf00a9fcd8bb247bc&v=4" width="24" alt="Avatar of zomeru"> zomeru
+			</a><br/>
+			Zomer Gregorio
+		</td>
+		<td>Beyonder Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>859</td>
+	</tr>
+	<tr>
 		<td>65</td>
 		<td>
 			<a href="https://github.com/MicahZoltu">
@@ -947,7 +947,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>@darkflorist </td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>843</td>
+		<td>844</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -973,7 +973,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>832</td>
+		<td>833</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -986,10 +986,23 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Ing  </td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>821</td>
+		<td>822</td>
 	</tr>
 	<tr>
 		<td>69</td>
+		<td>
+			<a href="https://github.com/yajra">
+				<img src="https://avatars.githubusercontent.com/u/2687997?s=72&v=4" width="24" alt="Avatar of yajra"> yajra
+			</a><br/>
+			Arjay Angeles
+		</td>
+		<td>Objectbright, Inc. </td>
+		<td><a href="https://twitter.com/aqangeles">aqangeles</a></td>
+		<td>Philippines</td>
+		<td>813</td>
+	</tr>
+	<tr>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/akocero">
 				<img src="https://avatars.githubusercontent.com/u/53816040?s=72&u=0b4591b1edaaf35afd362071eab25f656d624953&v=4" width="24" alt="Avatar of akocero"> akocero
@@ -1002,7 +1015,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>812</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/KingNelx">
 				<img src="https://avatars.githubusercontent.com/u/88817315?s=72&u=39fddb6b392a56fb2b882182e1a030dd7561afb0&v=4" width="24" alt="Avatar of KingNelx"> KingNelx
@@ -1013,19 +1026,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>808</td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>
-			<a href="https://github.com/yajra">
-				<img src="https://avatars.githubusercontent.com/u/2687997?s=72&v=4" width="24" alt="Avatar of yajra"> yajra
-			</a><br/>
-			Arjay Angeles
-		</td>
-		<td>Objectbright, Inc. </td>
-		<td><a href="https://twitter.com/aqangeles">aqangeles</a></td>
-		<td>Philippines</td>
-		<td>800</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1064,7 +1064,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>@pantheon-systems  </td>
 		<td><a href="https://twitter.com/CarlAlbertoDev">CarlAlbertoDev</a></td>
 		<td>Philippines </td>
-		<td>749</td>
+		<td>752</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1108,6 +1108,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>78</td>
 		<td>
+			<a href="https://github.com/joemarct">
+				<img src="https://avatars.githubusercontent.com/u/907605?s=72&u=f7517fc93235301eeb37792b5815e2507086a709&v=4" width="24" alt="Avatar of joemarct"> joemarct
+			</a><br/>
+			Joemar Taganna
+		</td>
+		<td>Scibiz Informatics </td>
+		<td><a href="https://twitter.com/joemar_taganna">joemar_taganna</a></td>
+		<td>Tacloban City, Philippines</td>
+		<td>728</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
 			<a href="https://github.com/warengonzaga">
 				<img src="https://avatars.githubusercontent.com/u/15052701?s=72&u=92cfdfc063c88c6aba0f120a2d30b482b738a8e8&v=4" width="24" alt="Avatar of warengonzaga"> warengonzaga
 			</a><br/>
@@ -1116,10 +1129,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Community Engineer, @thirdweb-dev </td>
 		<td><a href="https://twitter.com/warengonzaga">warengonzaga</a></td>
 		<td>Metro Manila, Philippines</td>
-		<td>723</td>
+		<td>724</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/fcasibu">
 				<img src="https://avatars.githubusercontent.com/u/75290989?s=72&v=4" width="24" alt="Avatar of fcasibu"> fcasibu
@@ -1132,7 +1145,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>722</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/ricafolio">
 				<img src="https://avatars.githubusercontent.com/u/29043464?s=72&u=9c471ea38e676e76116fe3620d36705f098e8ef7&v=4" width="24" alt="Avatar of ricafolio"> ricafolio
@@ -1145,7 +1158,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>721</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/kenvilar">
 				<img src="https://avatars.githubusercontent.com/u/2937299?s=72&u=2c94dad41bcc7bc51ce1ef827d664d0192e9d97c&v=4" width="24" alt="Avatar of kenvilar"> kenvilar
@@ -1158,7 +1171,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>712</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/KarmaBlackshaw">
 				<img src="https://avatars.githubusercontent.com/u/40014179?s=72&u=fb5a08d868379ecdad371e286b40136d0f999f59&v=4" width="24" alt="Avatar of KarmaBlackshaw"> KarmaBlackshaw
@@ -1171,7 +1184,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>712</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/emmarcaber">
 				<img src="https://avatars.githubusercontent.com/u/71781006?s=72&u=b046e63fcf7cc62287fa968b54b1d824be757c45&v=4" width="24" alt="Avatar of emmarcaber"> emmarcaber
@@ -1184,7 +1197,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>709</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/JustalK">
 				<img src="https://avatars.githubusercontent.com/u/5208910?s=72&u=ebc649a1452e41c7f630ab3adfe0e3c1bf78c742&v=4" width="24" alt="Avatar of JustalK"> JustalK
@@ -1197,19 +1210,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>706</td>
 	</tr>
 	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/joemarct">
-				<img src="https://avatars.githubusercontent.com/u/907605?s=72&u=f7517fc93235301eeb37792b5815e2507086a709&v=4" width="24" alt="Avatar of joemarct"> joemarct
-			</a><br/>
-			Joemar Taganna
-		</td>
-		<td>Scibiz Informatics </td>
-		<td><a href="https://twitter.com/joemar_taganna">joemar_taganna</a></td>
-		<td>Tacloban City, Philippines</td>
-		<td>702</td>
-	</tr>
-	<tr>
 		<td>86</td>
 		<td>
 			<a href="https://github.com/b-ggs">
@@ -1220,7 +1220,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Republic of the Philippines</td>
-		<td>699</td>
+		<td>701</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1251,6 +1251,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>89</td>
 		<td>
+			<a href="https://github.com/mrdcvlsc">
+				<img src="https://avatars.githubusercontent.com/u/59404502?s=72&v=4" width="24" alt="Avatar of mrdcvlsc"> mrdcvlsc
+			</a><br/>
+			Jubal Mordecai Velasco
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>672</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
 			<a href="https://github.com/fortuneteller2k">
 				<img src="https://avatars.githubusercontent.com/u/20619776?s=72&u=0dcbc1e5f5fd92f2e9b207b5791042e989b391a4&v=4" width="24" alt="Avatar of fortuneteller2k"> fortuneteller2k
 			</a><br/>
@@ -1259,10 +1272,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>664</td>
+		<td>666</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/jaycedotbin">
 				<img src="https://avatars.githubusercontent.com/u/64476715?s=72&u=d4c9a6cde945780da863ba902a6cc6e1ab61a294&v=4" width="24" alt="Avatar of jaycedotbin"> jaycedotbin
@@ -1273,19 +1286,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td><a href="https://twitter.com/jaycedotbin">jaycedotbin</a></td>
 		<td>Laguna, Philippines</td>
 		<td>662</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/mrdcvlsc">
-				<img src="https://avatars.githubusercontent.com/u/59404502?s=72&v=4" width="24" alt="Avatar of mrdcvlsc"> mrdcvlsc
-			</a><br/>
-			Jubal Mordecai Velasco
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>661</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1376,7 +1376,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>611</td>
+		<td>622</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1389,7 +1389,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Luis, Batangas, Philippines</td>
-		<td>610</td>
+		<td>614</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1441,7 +1441,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/cblanquera">cblanquera</a></td>
 		<td>Manila, Philippines</td>
-		<td>573</td>
+		<td>575</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1485,6 +1485,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>107</td>
 		<td>
+			<a href="https://github.com/AngeloJacobo">
+				<img src="https://avatars.githubusercontent.com/u/87559347?s=72&u=cc77e296cff69f3f7ac057d7394138e084f36445&v=4" width="24" alt="Avatar of AngeloJacobo"> AngeloJacobo
+			</a><br/>
+			Angelo Jacobo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bulacan, Philippines</td>
+		<td>556</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
 			<a href="https://github.com/gsmendoza">
 				<img src="https://avatars.githubusercontent.com/u/61476?s=72&v=4" width="24" alt="Avatar of gsmendoza"> gsmendoza
 			</a><br/>
@@ -1494,19 +1507,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Baguio, Philippines</td>
 		<td>551</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/AngeloJacobo">
-				<img src="https://avatars.githubusercontent.com/u/87559347?s=72&u=cc77e296cff69f3f7ac057d7394138e084f36445&v=4" width="24" alt="Avatar of AngeloJacobo"> AngeloJacobo
-			</a><br/>
-			Angelo Jacobo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bulacan, Philippines</td>
-		<td>550</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1537,19 +1537,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>111</td>
 		<td>
-			<a href="https://github.com/aldrin112602">
-				<img src="https://avatars.githubusercontent.com/u/76159577?s=72&u=d085b010e46a90283fd4b275e6a95f6c304a449a&v=4" width="24" alt="Avatar of aldrin112602"> aldrin112602
-			</a><br/>
-			Aldrin Caballero
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>547</td>
-	</tr>
-	<tr>
-		<td>112</td>
-		<td>
 			<a href="https://github.com/TenSeventy7">
 				<img src="https://avatars.githubusercontent.com/u/28522823?s=72&u=8e1e731fa9f5a88f9a9729a9fc55ae66b5d3046a&v=4" width="24" alt="Avatar of TenSeventy7"> TenSeventy7
 			</a><br/>
@@ -1558,10 +1545,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/TenSeventy7">TenSeventy7</a></td>
 		<td>Philippines</td>
-		<td>543</td>
+		<td>548</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/mavericks-db">
 				<img src="https://avatars.githubusercontent.com/u/98527559?s=72&u=ee1a116b2d547e23f092ca117eaaebe14b61cdc3&v=4" width="24" alt="Avatar of mavericks-db"> mavericks-db
@@ -1574,7 +1561,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>535</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/jaymar921">
 				<img src="https://avatars.githubusercontent.com/u/72720429?s=72&u=d090912796ebda22fd653eb4ad8aa8e6f7ad8c63&v=4" width="24" alt="Avatar of jaymar921"> jaymar921
@@ -1585,6 +1572,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>531</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td>
+			<a href="https://github.com/aldrin112602">
+				<img src="https://avatars.githubusercontent.com/u/76159577?s=72&u=d085b010e46a90283fd4b275e6a95f6c304a449a&v=4" width="24" alt="Avatar of aldrin112602"> aldrin112602
+			</a><br/>
+			Aldrin Caballero
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>525</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -1693,6 +1693,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>123</td>
 		<td>
+			<a href="https://github.com/ajhalili2006">
+				<img src="https://avatars.githubusercontent.com/u/34998342?s=72&v=4" width="24" alt="Avatar of ajhalili2006"> ajhalili2006
+			</a><br/>
+			Andrei Jiroh Halili
+		</td>
+		<td>@recaptime (not An Company)<br/></td>
+		<td><a href="https://twitter.com/Kuys_potpot">Kuys_potpot</a></td>
+		<td>The Philippines</td>
+		<td>492</td>
+	</tr>
+	<tr>
+		<td>124</td>
+		<td>
 			<a href="https://github.com/BeepBoopBit">
 				<img src="https://avatars.githubusercontent.com/u/90445232?s=72&u=5e859bb05496bd5e94e78979877548feb480e38a&v=4" width="24" alt="Avatar of BeepBoopBit"> BeepBoopBit
 			</a><br/>
@@ -1704,7 +1717,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>492</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/maiqxx">
 				<img src="https://avatars.githubusercontent.com/u/83889170?s=72&u=d5de2de6116a241199b5c3b314fc4caabcb8461b&v=4" width="24" alt="Avatar of maiqxx"> maiqxx
@@ -1717,7 +1730,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>482</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/six519">
 				<img src="https://avatars.githubusercontent.com/u/483547?s=72&u=1923e03b6bb2568c73c8e4169f6c7479ae319472&v=4" width="24" alt="Avatar of six519"> six519
@@ -1730,7 +1743,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>481</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/Ronel028">
 				<img src="https://avatars.githubusercontent.com/u/89984431?s=72&u=9408c5951f2c67daeedecf8c5773262dd750c4ef&v=4" width="24" alt="Avatar of Ronel028"> Ronel028
@@ -1740,10 +1753,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sto Niño, Rizal Occidental Mindoro, Philippines</td>
-		<td>476</td>
+		<td>477</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/JohnEsleyer">
 				<img src="https://avatars.githubusercontent.com/u/66754038?s=72&u=84b537e258227d2160014b467d914214a87abb5a&v=4" width="24" alt="Avatar of JohnEsleyer"> JohnEsleyer
@@ -1754,19 +1767,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Koronadal City, South Cotabato, Philippines</td>
 		<td>474</td>
-	</tr>
-	<tr>
-		<td>128</td>
-		<td>
-			<a href="https://github.com/ajhalili2006">
-				<img src="https://avatars.githubusercontent.com/u/34998342?s=72&v=4" width="24" alt="Avatar of ajhalili2006"> ajhalili2006
-			</a><br/>
-			Andrei Jiroh Halili
-		</td>
-		<td>@recaptime (not An Company)<br/></td>
-		<td><a href="https://twitter.com/Kuys_potpot">Kuys_potpot</a></td>
-		<td>The Philippines</td>
-		<td>469</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -1818,7 +1818,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Full Scale </td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>453</td>
+		<td>454</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1870,7 +1870,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Makati City, Philippines</td>
-		<td>432</td>
+		<td>436</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -1932,10 +1932,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 			</a><br/>
 			Mark Wayne Menorca
 		</td>
-		<td>Information Technology </td>
+		<td>Peculiar Developer </td>
 		<td><a href="https://twitter.com/marcuwynu23">marcuwynu23</a></td>
 		<td>Philippines</td>
-		<td>416</td>
+		<td>419</td>
 	</tr>
 	<tr>
 		<td>142</td>
@@ -2213,6 +2213,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>163</td>
 		<td>
+			<a href="https://github.com/hyamero">
+				<img src="https://avatars.githubusercontent.com/u/78056869?s=72&u=ac5f8a40eafc386518b7fcb1c0f7dc5a5d666341&v=4" width="24" alt="Avatar of hyamero"> hyamero
+			</a><br/>
+			Joseph Dale Bañares
+		</td>
+		<td>@omsimos </td>
+		<td><a href="https://twitter.com/hyandale">hyandale</a></td>
+		<td>Philippines</td>
+		<td>344</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
 			<a href="https://github.com/codedrian">
 				<img src="https://avatars.githubusercontent.com/u/67692336?s=72&u=bb32bb2ee9107d3c5c4566abc1215abb0462e1ba&v=4" width="24" alt="Avatar of codedrian"> codedrian
 			</a><br/>
@@ -2224,7 +2237,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>343</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/junedomingo">
 				<img src="https://avatars.githubusercontent.com/u/5106887?s=72&u=16658a0768e3c765eef71486b5b5a71525cfc8d9&v=4" width="24" alt="Avatar of junedomingo"> junedomingo
@@ -2237,7 +2250,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>343</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/kabaluyot">
 				<img src="https://avatars.githubusercontent.com/u/38805756?s=72&u=05b47ceab6608365146eec7eac0e47cad4a6bc93&v=4" width="24" alt="Avatar of kabaluyot"> kabaluyot
@@ -2250,7 +2263,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>343</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/bfintal">
 				<img src="https://avatars.githubusercontent.com/u/1033611?s=72&v=4" width="24" alt="Avatar of bfintal"> bfintal
@@ -2263,7 +2276,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>341</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/I2rys">
 				<img src="https://avatars.githubusercontent.com/u/87125939?s=72&u=ed328e0986b8cee286f1f4024a3e7131d482488c&v=4" width="24" alt="Avatar of I2rys"> I2rys
@@ -2276,7 +2289,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>341</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/nickaldwin">
 				<img src="https://avatars.githubusercontent.com/u/108027865?s=72&u=ce1012e6477e0790baf4dc9e0e8d284d49d9bb71&v=4" width="24" alt="Avatar of nickaldwin"> nickaldwin
@@ -2289,7 +2302,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>340</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/acatzk">
 				<img src="https://avatars.githubusercontent.com/u/38458781?s=72&u=0ba51a8e0a26ede459fa9f52afc4413a966d4c5c&v=4" width="24" alt="Avatar of acatzk"> acatzk
@@ -2302,7 +2315,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>339</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/trinly01">
 				<img src="https://avatars.githubusercontent.com/u/7539736?s=72&u=8c3c6da47ab18dbe20dac679d896420f8538aaae&v=4" width="24" alt="Avatar of trinly01"> trinly01
@@ -2312,19 +2325,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
-		<td>334</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/hyamero">
-				<img src="https://avatars.githubusercontent.com/u/78056869?s=72&u=ac5f8a40eafc386518b7fcb1c0f7dc5a5d666341&v=4" width="24" alt="Avatar of hyamero"> hyamero
-			</a><br/>
-			Joseph Dale Bañares
-		</td>
-		<td>@omsimos </td>
-		<td><a href="https://twitter.com/hyandale">hyandale</a></td>
-		<td>Philippines</td>
 		<td>334</td>
 	</tr>
 	<tr>
@@ -2343,6 +2343,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>173</td>
 		<td>
+			<a href="https://github.com/vinzvinci">
+				<img src="https://avatars.githubusercontent.com/u/73097560?s=72&u=13f575b44fb329f9a3d196a49ce13284ac9c16f3&v=4" width="24" alt="Avatar of vinzvinci"> vinzvinci
+			</a><br/>
+			Vincent Villafuerte
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vinzvinci">vinzvinci</a></td>
+		<td>Las Piñas City, Philippines</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
 			<a href="https://github.com/jrussbautista">
 				<img src="https://avatars.githubusercontent.com/u/39219294?s=72&u=757c08e848daad17dc56bdf78d84b636684aafe7&v=4" width="24" alt="Avatar of jrussbautista"> jrussbautista
 			</a><br/>
@@ -2352,19 +2365,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td><a href="https://twitter.com/jruss_bautista">jruss_bautista</a></td>
 		<td>Philippines</td>
 		<td>326</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/vinzvinci">
-				<img src="https://avatars.githubusercontent.com/u/73097560?s=72&u=13f575b44fb329f9a3d196a49ce13284ac9c16f3&v=4" width="24" alt="Avatar of vinzvinci"> vinzvinci
-			</a><br/>
-			Vincent Villafuerte
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vinzvinci">vinzvinci</a></td>
-		<td>Las Piñas City, Philippines</td>
-		<td>325</td>
 	</tr>
 	<tr>
 		<td>175</td>
@@ -2382,6 +2382,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>176</td>
 		<td>
+			<a href="https://github.com/Arnesfield">
+				<img src="https://avatars.githubusercontent.com/u/25503782?s=72&u=1b1ff2ae36e053fd6467edb00e8a20d7c59858e3&v=4" width="24" alt="Avatar of Arnesfield"> Arnesfield
+			</a><br/>
+			Jefferson Rylee
+		</td>
+		<td>Isbx Phils., Inc. </td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>321</td>
+	</tr>
+	<tr>
+		<td>177</td>
+		<td>
 			<a href="https://github.com/jonapecabug">
 				<img src="https://avatars.githubusercontent.com/u/111430725?s=72&u=b9219e10fab03bc6a9c30201cf45a328c872fa1e&v=4" width="24" alt="Avatar of jonapecabug"> jonapecabug
 			</a><br/>
@@ -2391,19 +2404,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>320</td>
-	</tr>
-	<tr>
-		<td>177</td>
-		<td>
-			<a href="https://github.com/Arnesfield">
-				<img src="https://avatars.githubusercontent.com/u/25503782?s=72&u=1b1ff2ae36e053fd6467edb00e8a20d7c59858e3&v=4" width="24" alt="Avatar of Arnesfield"> Arnesfield
-			</a><br/>
-			Jefferson Rylee
-		</td>
-		<td>Isbx Phils., Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>317</td>
 	</tr>
 	<tr>
 		<td>178</td>
@@ -2871,7 +2871,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>@arcusgo8 </td>
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
-		<td>232</td>
+		<td>233</td>
 	</tr>
 	<tr>
 		<td>214</td>
@@ -2941,19 +2941,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>219</td>
 		<td>
-			<a href="https://github.com/PrensDev">
-				<img src="https://avatars.githubusercontent.com/u/59250175?s=72&u=d7a37efdb5ceaed5d1589586e5714fbce372759b&v=4" width="24" alt="Avatar of PrensDev"> PrensDev
-			</a><br/>
-			Jetsun Prince Torres
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Metro Manila, Philippines</td>
-		<td>221</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
 			<a href="https://github.com/jpalala">
 				<img src="https://avatars.githubusercontent.com/u/622659?s=72&u=4765f710bdd38477e103ddac9b1bb0a51e34ca37&v=4" width="24" alt="Avatar of jpalala"> jpalala
 			</a><br/>
@@ -2965,7 +2952,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>220</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/ting-prado">
 				<img src="https://avatars.githubusercontent.com/u/84779316?s=72&u=c10ca0d0b105f52895da3249ca66190c02c2eb05&v=4" width="24" alt="Avatar of ting-prado"> ting-prado
@@ -2978,7 +2965,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/kennethtegrado">
 				<img src="https://avatars.githubusercontent.com/u/59082020?s=72&u=d76cef978814c76dcda7b0d11245275160d29a53&v=4" width="24" alt="Avatar of kennethtegrado"> kennethtegrado
@@ -2989,6 +2976,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>212</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/mjasper30">
+				<img src="https://avatars.githubusercontent.com/u/81204548?s=72&u=52c0d2b0d72f863a4214b7bd5be3f16d2ff19773&v=4" width="24" alt="Avatar of mjasper30"> mjasper30
+			</a><br/>
+			Jasper Macaraeg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>130 J. Ramos St. Caloocan City, Philippines</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>223</td>
@@ -3006,6 +3006,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>224</td>
 		<td>
+			<a href="https://github.com/nathanielvarona">
+				<img src="https://avatars.githubusercontent.com/u/194283?s=72&u=af6b9ddbcae1342290ed19405e6471e923aa438e&v=4" width="24" alt="Avatar of nathanielvarona"> nathanielvarona
+			</a><br/>
+			Nathaniel Varona
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nathanielvarona">nathanielvarona</a></td>
+		<td>Davao City, Philippines</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
 			<a href="https://github.com/xkid1">
 				<img src="https://avatars.githubusercontent.com/u/22137536?s=72&u=84570fe58f513ef0e387bc2b025ef77b1586875f&v=4" width="24" alt="Avatar of xkid1"> xkid1
 			</a><br/>
@@ -3017,33 +3030,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>209</td>
 	</tr>
 	<tr>
-		<td>225</td>
-		<td>
-			<a href="https://github.com/mjasper30">
-				<img src="https://avatars.githubusercontent.com/u/81204548?s=72&u=52c0d2b0d72f863a4214b7bd5be3f16d2ff19773&v=4" width="24" alt="Avatar of mjasper30"> mjasper30
-			</a><br/>
-			Jasper Macaraeg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>130 J. Ramos St. Caloocan City, Philippines</td>
-		<td>208</td>
-	</tr>
-	<tr>
 		<td>226</td>
-		<td>
-			<a href="https://github.com/nathanielvarona">
-				<img src="https://avatars.githubusercontent.com/u/194283?s=72&u=af6b9ddbcae1342290ed19405e6471e923aa438e&v=4" width="24" alt="Avatar of nathanielvarona"> nathanielvarona
-			</a><br/>
-			Nathaniel Varona
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nathanielvarona">nathanielvarona</a></td>
-		<td>Davao City, Philippines</td>
-		<td>206</td>
-	</tr>
-	<tr>
-		<td>227</td>
 		<td>
 			<a href="https://github.com/Kyliekyler">
 				<img src="https://avatars.githubusercontent.com/u/32427049?s=72&v=4" width="24" alt="Avatar of Kyliekyler"> Kyliekyler
@@ -3056,7 +3043,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>205</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/joshualat">
 				<img src="https://avatars.githubusercontent.com/u/882011?s=72&u=630aa2e91b8185a4861c474fcfa15d919edd4f37&v=4" width="24" alt="Avatar of joshualat"> joshualat
@@ -3069,7 +3056,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/jabezborja">
 				<img src="https://avatars.githubusercontent.com/u/64759159?s=72&u=88222a19a4e1dcb6325992b3ff7e2a8fa9d74305&v=4" width="24" alt="Avatar of jabezborja"> jabezborja
@@ -3082,7 +3069,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/drew-byte">
 				<img src="https://avatars.githubusercontent.com/u/82567656?s=72&u=a328a536fa524ce1ec1f70246e68aa6806fcd0ed&v=4" width="24" alt="Avatar of drew-byte"> drew-byte
@@ -3095,7 +3082,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>202</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/nljms">
 				<img src="https://avatars.githubusercontent.com/u/25510386?s=72&u=c348c4c3214e6886ead305a7a7e5d2aa7c969431&v=4" width="24" alt="Avatar of nljms"> nljms
@@ -3108,7 +3095,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/zarexalvindaria">
 				<img src="https://avatars.githubusercontent.com/u/19774995?s=72&u=33d6bb9ccb922ab8e250bb0e551635be027c70cd&v=4" width="24" alt="Avatar of zarexalvindaria"> zarexalvindaria
@@ -3121,7 +3108,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/gioshwua">
 				<img src="https://avatars.githubusercontent.com/u/105263495?s=72&u=a6c7be3aa9bff4b0901f29c00f1a8fc21beb7497&v=4" width="24" alt="Avatar of gioshwua"> gioshwua
@@ -3134,7 +3121,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/johndavedecano">
 				<img src="https://avatars.githubusercontent.com/u/1860038?s=72&u=460f75c34782091735335563271b4da21f169e3e&v=4" width="24" alt="Avatar of johndavedecano"> johndavedecano
@@ -3147,7 +3134,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>199</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/marcyvillegas">
 				<img src="https://avatars.githubusercontent.com/u/58241136?s=72&u=1a228fc0dcbd7feaaf13ee36bc2481e884da99c9&v=4" width="24" alt="Avatar of marcyvillegas"> marcyvillegas
@@ -3160,7 +3147,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/micahbule">
 				<img src="https://avatars.githubusercontent.com/u/6828567?s=72&u=b0eb8a2e09c56fb33d6c8987e06c91d2cceaa6b3&v=4" width="24" alt="Avatar of micahbule"> micahbule
@@ -3173,7 +3160,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/prxncxss03">
 				<img src="https://avatars.githubusercontent.com/u/84000523?s=72&u=bede3c6918e8805f2b88a7bda2b7bfce1057a20e&v=4" width="24" alt="Avatar of prxncxss03"> prxncxss03
@@ -3184,6 +3171,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Philippines</td>
 		<td>195</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/bryllim">
+				<img src="https://avatars.githubusercontent.com/u/37092544?s=72&u=e11e63aef724843fb9bf9a4312277eddca671cf8&v=4" width="24" alt="Avatar of bryllim"> bryllim
+			</a><br/>
+			Bryl Lim
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bryllim_">bryllim_</a></td>
+		<td>Cebu, Philippines</td>
+		<td>193</td>
 	</tr>
 	<tr>
 		<td>238</td>
@@ -3214,6 +3214,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>240</td>
 		<td>
+			<a href="https://github.com/superloika">
+				<img src="https://avatars.githubusercontent.com/u/30666042?s=72&u=2f851eebdbcaeb4c7ab2c38bd0319a1ad8bf75ee&v=4" width="24" alt="Avatar of superloika"> superloika
+			</a><br/>
+			Kaloy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/superloika">superloika</a></td>
+		<td>Bohol, Philippines</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
 			<a href="https://github.com/shipcod3">
 				<img src="https://avatars.githubusercontent.com/u/3483615?s=72&u=7be3fd82e2cddc9d172bbf6e0b1fe3f612600de1&v=4" width="24" alt="Avatar of shipcod3"> shipcod3
 			</a><br/>
@@ -3225,7 +3238,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/kevzlou7979">
 				<img src="https://avatars.githubusercontent.com/u/3138071?s=72&u=6fe8642ae24de11f09169d6b0fda99de87a17cf6&v=4" width="24" alt="Avatar of kevzlou7979"> kevzlou7979
@@ -3238,7 +3251,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/leixdd">
 				<img src="https://avatars.githubusercontent.com/u/8527882?s=72&v=4" width="24" alt="Avatar of leixdd"> leixdd
@@ -3251,7 +3264,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/IshmaelCasky">
 				<img src="https://avatars.githubusercontent.com/u/40536128?s=72&u=75ad5193c851dd79e9dfbc73a82f624d24ec52e7&v=4" width="24" alt="Avatar of IshmaelCasky"> IshmaelCasky
@@ -3264,7 +3277,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>190</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/harveyjavier">
 				<img src="https://avatars.githubusercontent.com/u/28330063?s=72&u=c227cc5820f742660a987dae3b12f2f5f41458df&v=4" width="24" alt="Avatar of harveyjavier"> harveyjavier
@@ -3277,7 +3290,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/David-Ramboy">
 				<img src="https://avatars.githubusercontent.com/u/63218693?s=72&u=49923c75ce310ec7bf7a56457c4fe647e351468e&v=4" width="24" alt="Avatar of David-Ramboy"> David-Ramboy
@@ -3290,7 +3303,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>188</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/whoami15">
 				<img src="https://avatars.githubusercontent.com/u/16274153?s=72&u=2a972ef2cd65f31f382d1dc95370d52f85c760be&v=4" width="24" alt="Avatar of whoami15"> whoami15
@@ -3303,7 +3316,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>187</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/dragonjet">
 				<img src="https://avatars.githubusercontent.com/u/557312?s=72&u=8906ce956469b8b5dd704ef304045df105304256&v=4" width="24" alt="Avatar of dragonjet"> dragonjet
@@ -3316,33 +3329,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/superloika">
-				<img src="https://avatars.githubusercontent.com/u/30666042?s=72&u=2f851eebdbcaeb4c7ab2c38bd0319a1ad8bf75ee&v=4" width="24" alt="Avatar of superloika"> superloika
-			</a><br/>
-			Kaloy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/superloika">superloika</a></td>
-		<td>Bohol, Philippines</td>
-		<td>186</td>
-	</tr>
-	<tr>
 		<td>249</td>
-		<td>
-			<a href="https://github.com/bryllim">
-				<img src="https://avatars.githubusercontent.com/u/37092544?s=72&u=e11e63aef724843fb9bf9a4312277eddca671cf8&v=4" width="24" alt="Avatar of bryllim"> bryllim
-			</a><br/>
-			Bryl Lim
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bryllim_">bryllim_</a></td>
-		<td>Cebu, Philippines</td>
-		<td>184</td>
-	</tr>
-	<tr>
-		<td>250</td>
 		<td>
 			<a href="https://github.com/schmeb0704">
 				<img src="https://avatars.githubusercontent.com/u/113418470?s=72&u=6703f6a14ddaa53d644237738d06ec56677f935e&v=4" width="24" alt="Avatar of schmeb0704"> schmeb0704
@@ -3355,7 +3342,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/benhur07b">
 				<img src="https://avatars.githubusercontent.com/u/22940966?s=72&u=4fc6e8284c10b060172870b656482079795dcc55&v=4" width="24" alt="Avatar of benhur07b"> benhur07b
@@ -3368,7 +3355,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/MahoMuri">
 				<img src="https://avatars.githubusercontent.com/u/49968553?s=72&u=e0008764fa92980eb724565cf229f7a26f5be76f&v=4" width="24" alt="Avatar of MahoMuri"> MahoMuri
@@ -3381,7 +3368,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/jettandres">
 				<img src="https://avatars.githubusercontent.com/u/10791201?s=72&u=d3efc4701ed4714d5d5d2813e43954f78ba8c160&v=4" width="24" alt="Avatar of jettandres"> jettandres
@@ -3394,7 +3381,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/janleigh">
 				<img src="https://avatars.githubusercontent.com/u/40911019?s=72&u=0567d1d112403a577c3071e1080a4df59ed818ea&v=4" width="24" alt="Avatar of janleigh"> janleigh
@@ -3407,7 +3394,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/SK68-ph">
 				<img src="https://avatars.githubusercontent.com/u/35738176?s=72&u=8b81dac7444f4fefea7438dc4da3ab90b94485af&v=4" width="24" alt="Avatar of SK68-ph"> SK68-ph
@@ -3420,7 +3407,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/jagwarthegreat">
 				<img src="https://avatars.githubusercontent.com/u/37282871?s=72&u=4b86ba5a09cbb2549e2edd2d19a648aeaae117b6&v=4" width="24" alt="Avatar of jagwarthegreat"> jagwarthegreat
@@ -3433,7 +3420,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/francismontalbo">
 				<img src="https://avatars.githubusercontent.com/u/65653238?s=72&u=47e7fb2c344e8a028b5272d27f9eabb1d76fa7db&v=4" width="24" alt="Avatar of francismontalbo"> francismontalbo
@@ -3446,7 +3433,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/baudm">
 				<img src="https://avatars.githubusercontent.com/u/1025433?s=72&u=f573b66f8d721352f3b0b253a2b2b935c3472d51&v=4" width="24" alt="Avatar of baudm"> baudm
@@ -3459,7 +3446,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/jumzzz">
 				<img src="https://avatars.githubusercontent.com/u/7478210?s=72&u=abb59170316fa781a9019c25034a9cd9dc41c6d9&v=4" width="24" alt="Avatar of jumzzz"> jumzzz
@@ -3472,7 +3459,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/ShaneMaglangit">
 				<img src="https://avatars.githubusercontent.com/u/53674742?s=72&u=74c434d948bdc275798073dd68345556d89ac7c4&v=4" width="24" alt="Avatar of ShaneMaglangit"> ShaneMaglangit
@@ -3485,7 +3472,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/anthonygacis">
 				<img src="https://avatars.githubusercontent.com/u/30620409?s=72&u=acfa34891eb962fa465275036dd0506f1324af63&v=4" width="24" alt="Avatar of anthonygacis"> anthonygacis
@@ -3498,7 +3485,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/whinee">
 				<img src="https://avatars.githubusercontent.com/u/81570596?s=72&u=508d7a8587e57ffdc49a36e310d6e584702f6291&v=4" width="24" alt="Avatar of whinee"> whinee
@@ -3511,7 +3498,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/dlarroder">
 				<img src="https://avatars.githubusercontent.com/u/52998821?s=72&u=da5563fd9cf277a6af234947ecab875b4d962ed6&v=4" width="24" alt="Avatar of dlarroder"> dlarroder
@@ -3524,7 +3511,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/lazuee">
 				<img src="https://avatars.githubusercontent.com/u/91590512?s=72&u=dfad89d70a545d90096a5ba28ad425317cf679dc&v=4" width="24" alt="Avatar of lazuee"> lazuee
@@ -3537,7 +3524,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>170</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/jcads">
 				<img src="https://avatars.githubusercontent.com/u/50954098?s=72&u=6ee15eba8dcfb756269a8e7bcf8501bd3869c876&v=4" width="24" alt="Avatar of jcads"> jcads
@@ -3550,7 +3537,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/DaijobuDes">
 				<img src="https://avatars.githubusercontent.com/u/38452446?s=72&v=4" width="24" alt="Avatar of DaijobuDes"> DaijobuDes
@@ -3560,10 +3547,10 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Cebu Institute Of Technology<br/>-<br/>University<br/></td>
 		<td><a href="https://twitter.com/Maine_Ichinose">Maine_Ichinose</a></td>
 		<td>Philippines</td>
-		<td>165</td>
+		<td>166</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/ninnzz">
 				<img src="https://avatars.githubusercontent.com/u/3439469?s=72&u=1df7b401aeb7d10aa955035860732806ee4bb499&v=4" width="24" alt="Avatar of ninnzz"> ninnzz
@@ -3576,7 +3563,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/mixxorz">
 				<img src="https://avatars.githubusercontent.com/u/3102758?s=72&u=b0c1a5ff9451104993d489252c7ba4c77d581314&v=4" width="24" alt="Avatar of mixxorz"> mixxorz
@@ -3589,7 +3576,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/IrishMorales">
 				<img src="https://avatars.githubusercontent.com/u/42305156?s=72&u=d05d2629ea784fafd3069d3661f9668e4f52b0d0&v=4" width="24" alt="Avatar of IrishMorales"> IrishMorales
@@ -3602,20 +3589,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/jedld">
-				<img src="https://avatars.githubusercontent.com/u/949459?s=72&v=4" width="24" alt="Avatar of jedld"> jedld
-			</a><br/>
-			Joseph Emmanuel Dayo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Manila, Philippines</td>
-		<td>157</td>
-	</tr>
-	<tr>
-		<td>271</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/mjcarnaje">
 				<img src="https://avatars.githubusercontent.com/u/65398905?s=72&u=75d65f34fa3372177cff45bf759f3b55a142ff6c&v=4" width="24" alt="Avatar of mjcarnaje"> mjcarnaje
@@ -3625,6 +3599,32 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/carnajeeed">carnajeeed</a></td>
 		<td>Iligan City, Philippines</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
+			<a href="https://github.com/geekcrasher">
+				<img src="https://avatars.githubusercontent.com/u/101453532?s=72&u=a0147dd847618fc990b2918b88370abd9f638e1b&v=4" width="24" alt="Avatar of geekcrasher"> geekcrasher
+			</a><br/>
+			Paulo Lopez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Manila, Philippines</td>
+		<td>158</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
+			<a href="https://github.com/jedld">
+				<img src="https://avatars.githubusercontent.com/u/949459?s=72&v=4" width="24" alt="Avatar of jedld"> jedld
+			</a><br/>
+			Joseph Emmanuel Dayo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Manila, Philippines</td>
 		<td>157</td>
 	</tr>
 	<tr>
@@ -3734,15 +3734,15 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>280</td>
 		<td>
-			<a href="https://github.com/geekcrasher">
-				<img src="https://avatars.githubusercontent.com/u/101453532?s=72&u=a0147dd847618fc990b2918b88370abd9f638e1b&v=4" width="24" alt="Avatar of geekcrasher"> geekcrasher
+			<a href="https://github.com/rvvergara">
+				<img src="https://avatars.githubusercontent.com/u/6015315?s=72&u=a78c95a084c4b7f7d857bca2d3828c44f8860e63&v=4" width="24" alt="Avatar of rvvergara"> rvvergara
 			</a><br/>
-			Paulo Lopez
+			Ryan Vergara
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Two Comma Dojo </td>
+		<td><a href="https://twitter.com/coachryanv">coachryanv</a></td>
 		<td>Manila, Philippines</td>
-		<td>149</td>
+		<td>148</td>
 	</tr>
 	<tr>
 		<td>281</td>
@@ -3786,15 +3786,15 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>284</td>
 		<td>
-			<a href="https://github.com/rvvergara">
-				<img src="https://avatars.githubusercontent.com/u/6015315?s=72&u=a78c95a084c4b7f7d857bca2d3828c44f8860e63&v=4" width="24" alt="Avatar of rvvergara"> rvvergara
+			<a href="https://github.com/tribalfs">
+				<img src="https://avatars.githubusercontent.com/u/65062033?s=72&u=db040aeb954518d2018798ed7936647006994995&v=4" width="24" alt="Avatar of tribalfs"> tribalfs
 			</a><br/>
-			Ryan Vergara
+			Tribalfs
 		</td>
-		<td>Two Comma Dojo </td>
-		<td><a href="https://twitter.com/coachryanv">coachryanv</a></td>
-		<td>Manila, Philippines</td>
-		<td>145</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>143</td>
 	</tr>
 	<tr>
 		<td>285</td>
@@ -3812,19 +3812,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>286</td>
 		<td>
-			<a href="https://github.com/tribalfs">
-				<img src="https://avatars.githubusercontent.com/u/65062033?s=72&u=db040aeb954518d2018798ed7936647006994995&v=4" width="24" alt="Avatar of tribalfs"> tribalfs
-			</a><br/>
-			Tribalfs
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>142</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
 			<a href="https://github.com/royge">
 				<img src="https://avatars.githubusercontent.com/u/1910535?s=72&u=68777dd74d8d87e88dfc14f233bc1210f386086b&v=4" width="24" alt="Avatar of royge"> royge
 			</a><br/>
@@ -3836,7 +3823,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/alstat">
 				<img src="https://avatars.githubusercontent.com/u/1414007?s=72&u=fa35104d275c846de9fabb9a37c1e91e9cdf0d2e&v=4" width="24" alt="Avatar of alstat"> alstat
@@ -3849,7 +3836,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/samueluy">
 				<img src="https://avatars.githubusercontent.com/u/74288590?s=72&u=0de46c9e488707f79f8526106a694043ac7f0dab&v=4" width="24" alt="Avatar of samueluy"> samueluy
@@ -3862,7 +3849,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/joshuadeguzman">
 				<img src="https://avatars.githubusercontent.com/u/20706361?s=72&u=f73d5abfa24055f11de9e9a8eba3acbcd114ce0a&v=4" width="24" alt="Avatar of joshuadeguzman"> joshuadeguzman
@@ -3875,7 +3862,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/eevan7a9">
 				<img src="https://avatars.githubusercontent.com/u/44322334?s=72&u=4cb129362cfea7686449f28169081ad5cc60e25f&v=4" width="24" alt="Avatar of eevan7a9"> eevan7a9
@@ -3888,7 +3875,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/starkfire">
 				<img src="https://avatars.githubusercontent.com/u/26057339?s=72&u=6517126f07c4078497cb4fb30a316eb0de1fbe10&v=4" width="24" alt="Avatar of starkfire"> starkfire
@@ -3901,7 +3888,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/PseudoDevs">
 				<img src="https://avatars.githubusercontent.com/u/28098260?s=72&u=86966876a8ca27d5386f0aed6d278a220aae945e&v=4" width="24" alt="Avatar of PseudoDevs"> PseudoDevs
@@ -3914,7 +3901,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/medardm">
 				<img src="https://avatars.githubusercontent.com/u/20562573?s=72&u=3876b7dfd53a61d58d55274ce703025b85095dd0&v=4" width="24" alt="Avatar of medardm"> medardm
@@ -3927,7 +3914,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/jcchikikomori">
 				<img src="https://avatars.githubusercontent.com/u/4709030?s=72&u=dd22f3df02a4657aacdc3fa70a7c34c76b57de15&v=4" width="24" alt="Avatar of jcchikikomori"> jcchikikomori
@@ -3940,7 +3927,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/wingled22">
 				<img src="https://avatars.githubusercontent.com/u/40352204?s=72&u=efb8461d4df90d887b8e1a4df5cd797e886531b3&v=4" width="24" alt="Avatar of wingled22"> wingled22
@@ -3953,7 +3940,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/zorexsalvo">
 				<img src="https://avatars.githubusercontent.com/u/11442184?s=72&u=5b2c3cb3a6356ab2b582cf3b7b165b04c9cc665b&v=4" width="24" alt="Avatar of zorexsalvo"> zorexsalvo
@@ -3966,7 +3953,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/iisalazar">
 				<img src="https://avatars.githubusercontent.com/u/19862244?s=72&u=5a22c523b7dd1fd27afd8376df41591e0025bccc&v=4" width="24" alt="Avatar of iisalazar"> iisalazar
@@ -3979,7 +3966,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/jhonbonjuvi">
 				<img src="https://avatars.githubusercontent.com/u/123356180?s=72&u=938c9d4a6e02bb79a947f6a435108378ca10cf64&v=4" width="24" alt="Avatar of jhonbonjuvi"> jhonbonjuvi
@@ -3992,7 +3979,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/zxtm89j1">
 				<img src="https://avatars.githubusercontent.com/u/106042655?s=72&u=835089105c45f0b4efdd9efc393302f9007cd619&v=4" width="24" alt="Avatar of zxtm89j1"> zxtm89j1
@@ -4005,7 +3992,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/WhooperDar">
 				<img src="https://avatars.githubusercontent.com/u/77312163?s=72&u=b1df5354b8fca475f9a38580fd8bf352d84c29fb&v=4" width="24" alt="Avatar of WhooperDar"> WhooperDar
@@ -4018,7 +4005,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/Pyakz">
 				<img src="https://avatars.githubusercontent.com/u/49338297?s=72&u=c68189b71bdf18c6b1757f6db54880e4a636565d&v=4" width="24" alt="Avatar of Pyakz"> Pyakz
@@ -4031,7 +4018,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/prLorence">
 				<img src="https://avatars.githubusercontent.com/u/78683375?s=72&u=6ed8f7e2f302c5ff6a70f7774e921876e1a2d406&v=4" width="24" alt="Avatar of prLorence"> prLorence
@@ -4044,7 +4031,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/algermakiputin">
 				<img src="https://avatars.githubusercontent.com/u/25650767?s=72&v=4" width="24" alt="Avatar of algermakiputin"> algermakiputin
@@ -4057,7 +4044,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/clark-john">
 				<img src="https://avatars.githubusercontent.com/u/70015878?s=72&u=f68730cebde7d29dbadc992b0ed345c9f2475d36&v=4" width="24" alt="Avatar of clark-john"> clark-john
@@ -4070,7 +4057,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/edwnmrtnz">
 				<img src="https://avatars.githubusercontent.com/u/34262912?s=72&u=7b18169b452766a7807f38cee2fe2b758fbcc4b2&v=4" width="24" alt="Avatar of edwnmrtnz"> edwnmrtnz
@@ -4083,7 +4070,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/francisdbillones">
 				<img src="https://avatars.githubusercontent.com/u/57383750?s=72&u=168cfaeb76e11bf61ea8be7f0ae24facb137e3c8&v=4" width="24" alt="Avatar of francisdbillones"> francisdbillones
@@ -4096,7 +4083,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/deejaygeroso">
 				<img src="https://avatars.githubusercontent.com/u/4627358?s=72&u=8d29f74d576c8b4ea91f2d2d69538fd405739be7&v=4" width="24" alt="Avatar of deejaygeroso"> deejaygeroso
@@ -4109,7 +4096,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/fajiculayrm">
 				<img src="https://avatars.githubusercontent.com/u/114008061?s=72&u=e587e31cbf4e4c69b88ab96567c6c3108a913cf6&v=4" width="24" alt="Avatar of fajiculayrm"> fajiculayrm
@@ -4122,7 +4109,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/UtaUtaUtau">
 				<img src="https://avatars.githubusercontent.com/u/29729824?s=72&u=b82e73c44dcee3a2f6ee85027e477bfd179c328d&v=4" width="24" alt="Avatar of UtaUtaUtau"> UtaUtaUtau
@@ -4135,7 +4122,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/cadalzolc">
 				<img src="https://avatars.githubusercontent.com/u/27937403?s=72&u=a5cc5fef94f10c167c180fd3670ad346babab9b4&v=4" width="24" alt="Avatar of cadalzolc"> cadalzolc
@@ -4148,7 +4135,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/zakame">
 				<img src="https://avatars.githubusercontent.com/u/110625?s=72&u=06c1f8ef1cb8d3286ae2c36842f126f596f795ce&v=4" width="24" alt="Avatar of zakame"> zakame
@@ -4161,7 +4148,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/iamajvillalobos">
 				<img src="https://avatars.githubusercontent.com/u/7567758?s=72&u=7d9a4c73dcbabeaa8d64b8dba69014e693f8ca1e&v=4" width="24" alt="Avatar of iamajvillalobos"> iamajvillalobos
@@ -4174,7 +4161,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/micro9000">
 				<img src="https://avatars.githubusercontent.com/u/20143627?s=72&u=6787a05d1cbe5c50318b193b25fc435bb6c4e52e&v=4" width="24" alt="Avatar of micro9000"> micro9000
@@ -4187,7 +4174,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/felixmacaspac">
 				<img src="https://avatars.githubusercontent.com/u/74863666?s=72&u=a63fa8fb6913c9985b7f065fbd88c890f538a171&v=4" width="24" alt="Avatar of felixmacaspac"> felixmacaspac
@@ -4200,7 +4187,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/blancessanchez">
 				<img src="https://avatars.githubusercontent.com/u/18733536?s=72&u=9b9e583a520f865fae122efc92110e99cf3c0606&v=4" width="24" alt="Avatar of blancessanchez"> blancessanchez
@@ -4213,7 +4200,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/markheramis">
 				<img src="https://avatars.githubusercontent.com/u/6801816?s=72&u=08070e28f5b903d6a15083a7672591b7f5ef2490&v=4" width="24" alt="Avatar of markheramis"> markheramis
@@ -4226,7 +4213,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/anchetaWern">
 				<img src="https://avatars.githubusercontent.com/u/743603?s=72&u=8688fa50be990a0dc80d4933f6d901a330845ad5&v=4" width="24" alt="Avatar of anchetaWern"> anchetaWern
@@ -4239,7 +4226,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/Jtzuya">
 				<img src="https://avatars.githubusercontent.com/u/76613304?s=72&u=de3e448abdf8d218f6fe89b524ad4b4423f6d7ba&v=4" width="24" alt="Avatar of Jtzuya"> Jtzuya
@@ -4252,7 +4239,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/menchb">
 				<img src="https://avatars.githubusercontent.com/u/70835696?s=72&u=15d13b6bfd9131589459a1ee6309a812dc638395&v=4" width="24" alt="Avatar of menchb"> menchb
@@ -4265,7 +4252,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/kapitanluffy">
 				<img src="https://avatars.githubusercontent.com/u/485799?s=72&u=df145fb1293541b6dfd1a3e45286cfeab6205331&v=4" width="24" alt="Avatar of kapitanluffy"> kapitanluffy
@@ -4278,7 +4265,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/cc-visionary">
 				<img src="https://avatars.githubusercontent.com/u/22016684?s=72&u=af3d953e24c32cd161220d4759df212e92b9ee52&v=4" width="24" alt="Avatar of cc-visionary"> cc-visionary
@@ -4289,6 +4276,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td><a href="https://twitter.com/ClovesJL">ClovesJL</a></td>
 		<td>Manila, Philippines</td>
 		<td>116</td>
+	</tr>
+	<tr>
+		<td>322</td>
+		<td>
+			<a href="https://github.com/stevenferrer">
+				<img src="https://avatars.githubusercontent.com/u/19186904?s=72&u=cbdd65e654b459ba1b44981620d6bcc8d44ba9ea&v=4" width="24" alt="Avatar of stevenferrer"> stevenferrer
+			</a><br/>
+			Steven Ferrer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>113</td>
 	</tr>
 	<tr>
 		<td>323</td>
@@ -4306,19 +4306,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>324</td>
 		<td>
-			<a href="https://github.com/stevenferrer">
-				<img src="https://avatars.githubusercontent.com/u/19186904?s=72&u=cbdd65e654b459ba1b44981620d6bcc8d44ba9ea&v=4" width="24" alt="Avatar of stevenferrer"> stevenferrer
-			</a><br/>
-			Steven Ferrer
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>112</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
 			<a href="https://github.com/kenanAST">
 				<img src="https://avatars.githubusercontent.com/u/23498730?s=72&u=cfbf6338a816df34655faffc6b568d853d874394&v=4" width="24" alt="Avatar of kenanAST"> kenanAST
 			</a><br/>
@@ -4330,7 +4317,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/jorenrui">
 				<img src="https://avatars.githubusercontent.com/u/23741509?s=72&u=409e8524d57c4d378da10c8ef17ece7fec41b9b0&v=4" width="24" alt="Avatar of jorenrui"> jorenrui
@@ -4343,7 +4330,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/Secretmapper">
 				<img src="https://avatars.githubusercontent.com/u/4077143?s=72&v=4" width="24" alt="Avatar of Secretmapper"> Secretmapper
@@ -4356,7 +4343,33 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
+		<td>327</td>
+		<td>
+			<a href="https://github.com/louis2688">
+				<img src="https://avatars.githubusercontent.com/u/33972040?s=72&u=4f1d26c9a0f2b39c9d6c77b55c3c12184f53f8b5&v=4" width="24" alt="Avatar of louis2688"> louis2688
+			</a><br/>
+			Louis Madrigal
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/louis2688">louis2688</a></td>
+		<td>Philippines</td>
+		<td>110</td>
+	</tr>
+	<tr>
 		<td>328</td>
+		<td>
+			<a href="https://github.com/SnoopyCodeX">
+				<img src="https://avatars.githubusercontent.com/u/36133216?s=72&u=0b7247b3099066c7931481f18a0db46a3f8b6bc7&v=4" width="24" alt="Avatar of SnoopyCodeX"> SnoopyCodeX
+			</a><br/>
+			SnoopyCodeX
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/snoopycodex21">snoopycodex21</a></td>
+		<td>Philippines</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/JosesGabriel">
 				<img src="https://avatars.githubusercontent.com/u/36292417?s=72&u=fa245a3de26d41b40f0c3bbd058246a6598717b1&v=4" width="24" alt="Avatar of JosesGabriel"> JosesGabriel
@@ -4369,7 +4382,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/johnpaullazaro">
 				<img src="https://avatars.githubusercontent.com/u/91587717?s=72&u=e733f1e8f935e968f51e1624d450cad72b176d94&v=4" width="24" alt="Avatar of johnpaullazaro"> johnpaullazaro
@@ -4378,19 +4391,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>107</td>
-	</tr>
-	<tr>
-		<td>330</td>
-		<td>
-			<a href="https://github.com/louis2688">
-				<img src="https://avatars.githubusercontent.com/u/33972040?s=72&u=4f1d26c9a0f2b39c9d6c77b55c3c12184f53f8b5&v=4" width="24" alt="Avatar of louis2688"> louis2688
-			</a><br/>
-			Louis Madrigal
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/louis2688">louis2688</a></td>
 		<td>Philippines</td>
 		<td>107</td>
 	</tr>
@@ -4475,6 +4475,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>337</td>
 		<td>
+			<a href="https://github.com/Raphile14">
+				<img src="https://avatars.githubusercontent.com/u/60991234?s=72&u=44d9b2124b12dac2241a86ddef824a0773b01912&v=4" width="24" alt="Avatar of Raphile14"> Raphile14
+			</a><br/>
+			Raphael Dalangin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/DalanginRaphael">DalanginRaphael</a></td>
+		<td>Philippines</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
 			<a href="https://github.com/dyu">
 				<img src="https://avatars.githubusercontent.com/u/79355?s=72&v=4" width="24" alt="Avatar of dyu"> dyu
 			</a><br/>
@@ -4486,7 +4499,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/itsdomsday">
 				<img src="https://avatars.githubusercontent.com/u/102884537?s=72&u=390afa4626db563707c2a0e2245b5e8ae10d4997&v=4" width="24" alt="Avatar of itsdomsday"> itsdomsday
@@ -4497,19 +4510,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td><a href="https://twitter.com/itsdomsday">itsdomsday</a></td>
 		<td>Manila, Philippines</td>
 		<td>102</td>
-	</tr>
-	<tr>
-		<td>339</td>
-		<td>
-			<a href="https://github.com/SnoopyCodeX">
-				<img src="https://avatars.githubusercontent.com/u/36133216?s=72&u=0b7247b3099066c7931481f18a0db46a3f8b6bc7&v=4" width="24" alt="Avatar of SnoopyCodeX"> SnoopyCodeX
-			</a><br/>
-			SnoopyCodeX
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/snoopycodex21">snoopycodex21</a></td>
-		<td>Philippines</td>
-		<td>101</td>
 	</tr>
 	<tr>
 		<td>340</td>
@@ -4574,7 +4574,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>Symph </td>
 		<td><a href="https://twitter.com/capadngan_sheen">capadngan_sheen</a></td>
 		<td>Philippines</td>
-		<td>95</td>
+		<td>96</td>
 	</tr>
 	<tr>
 		<td>345</td>
@@ -5164,6 +5164,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>390</td>
 		<td>
+			<a href="https://github.com/theresa-de-ocampo">
+				<img src="https://avatars.githubusercontent.com/u/80999430?s=72&u=7422f7a36a9b833bec38097b1753125d8022e44d&v=4" width="24" alt="Avatar of theresa-de-ocampo"> theresa-de-ocampo
+			</a><br/>
+			Theresa De Ocampo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Makati City, Philippines</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>391</td>
+		<td>
 			<a href="https://github.com/aprilmintacpineda">
 				<img src="https://avatars.githubusercontent.com/u/21032419?s=72&u=0c6e1ec1b919f95242e310504f7c5729b98cf93a&v=4" width="24" alt="Avatar of aprilmintacpineda"> aprilmintacpineda
 			</a><br/>
@@ -5175,7 +5188,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/jsbonso">
 				<img src="https://avatars.githubusercontent.com/u/4216253?s=72&u=cb34c8fd482fd4aa3c36a7742a8aa8d7015c50e2&v=4" width="24" alt="Avatar of jsbonso"> jsbonso
@@ -5188,7 +5201,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/jerameel">
 				<img src="https://avatars.githubusercontent.com/u/15943153?s=72&u=6df100392b36638328f2d09e42eb4f92c7db1df9&v=4" width="24" alt="Avatar of jerameel"> jerameel
@@ -5201,7 +5214,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/rookiemonkey">
 				<img src="https://avatars.githubusercontent.com/u/61614867?s=72&u=867d8b03203f472d85aae9d15524c58701760c30&v=4" width="24" alt="Avatar of rookiemonkey"> rookiemonkey
@@ -5212,19 +5225,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
 		<td>64</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/theresa-de-ocampo">
-				<img src="https://avatars.githubusercontent.com/u/80999430?s=72&u=7422f7a36a9b833bec38097b1753125d8022e44d&v=4" width="24" alt="Avatar of theresa-de-ocampo"> theresa-de-ocampo
-			</a><br/>
-			Theresa De Ocampo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Makati City, Philippines</td>
-		<td>63</td>
 	</tr>
 	<tr>
 		<td>395</td>
@@ -5593,6 +5593,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>423</td>
 		<td>
+			<a href="https://github.com/jgudo">
+				<img src="https://avatars.githubusercontent.com/u/30772059?s=72&u=1d7fc8f343146536ec901eb9cc4e5b6f48285f32&v=4" width="24" alt="Avatar of jgudo"> jgudo
+			</a><br/>
+			Julius Guevarra
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jgudoo">jgudoo</a></td>
+		<td>Philippines</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>424</td>
+		<td>
 			<a href="https://github.com/darwintantuco">
 				<img src="https://avatars.githubusercontent.com/u/15992303?s=72&v=4" width="24" alt="Avatar of darwintantuco"> darwintantuco
 			</a><br/>
@@ -5602,19 +5615,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Manila, Philippines</td>
 		<td>50</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
-			<a href="https://github.com/jgudo">
-				<img src="https://avatars.githubusercontent.com/u/30772059?s=72&u=1d7fc8f343146536ec901eb9cc4e5b6f48285f32&v=4" width="24" alt="Avatar of jgudo"> jgudo
-			</a><br/>
-			Julius Guevarra
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jgudoo">jgudoo</a></td>
-		<td>Philippines</td>
-		<td>49</td>
 	</tr>
 	<tr>
 		<td>425</td>
@@ -5710,6 +5710,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>432</td>
 		<td>
+			<a href="https://github.com/igemnace">
+				<img src="https://avatars.githubusercontent.com/u/22214206?s=72&u=ad684374e8209873cd44647199d80318a8e2f9d3&v=4" width="24" alt="Avatar of igemnace"> igemnace
+			</a><br/>
+			Ian Emnace
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>47</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
 			<a href="https://github.com/tabernerojerry">
 				<img src="https://avatars.githubusercontent.com/u/38496323?s=72&u=19700c4e148dcbfb19c407c1965624d33289fb29&v=4" width="24" alt="Avatar of tabernerojerry"> tabernerojerry
 			</a><br/>
@@ -5721,7 +5734,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/pbrotoisworo">
 				<img src="https://avatars.githubusercontent.com/u/32087633?s=72&u=3be939a61b12673ada7cc8ece6ca0e556646a7f4&v=4" width="24" alt="Avatar of pbrotoisworo"> pbrotoisworo
@@ -5734,25 +5747,12 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/MrValdez">
 				<img src="https://avatars.githubusercontent.com/u/117320?s=72&u=d9dd0786b5f359ea72420dac7300f82168dcd449&v=4" width="24" alt="Avatar of MrValdez"> MrValdez
 			</a><br/>
 			MrValdez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>435</td>
-		<td>
-			<a href="https://github.com/igemnace">
-				<img src="https://avatars.githubusercontent.com/u/22214206?s=72&u=ad684374e8209873cd44647199d80318a8e2f9d3&v=4" width="24" alt="Avatar of igemnace"> igemnace
-			</a><br/>
-			Ian Emnace
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5840,6 +5840,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>442</td>
 		<td>
+			<a href="https://github.com/alenteria">
+				<img src="https://avatars.githubusercontent.com/u/2783217?s=72&u=1a51f6b6bedf193920106ffdb87a82667fd0d60c&v=4" width="24" alt="Avatar of alenteria"> alenteria
+			</a><br/>
+			AL
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
 			<a href="https://github.com/KSym04">
 				<img src="https://avatars.githubusercontent.com/u/1886140?s=72&u=190fe4516b8e69ba3146b5091e1876bf39bff612&v=4" width="24" alt="Avatar of KSym04"> KSym04
 			</a><br/>
@@ -5851,7 +5864,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/bradpotts">
 				<img src="https://avatars.githubusercontent.com/u/4887598?s=72&u=ad4ef7ed6781086ab8e1503f05dfc6ed80e1f0aa&v=4" width="24" alt="Avatar of bradpotts"> bradpotts
@@ -5864,7 +5877,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/seanballais">
 				<img src="https://avatars.githubusercontent.com/u/7175885?s=72&u=1b3ffda4ceea4dade364225288cab830bd93292d&v=4" width="24" alt="Avatar of seanballais"> seanballais
@@ -5877,7 +5890,20 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
+		<td>
+			<a href="https://github.com/myknbani">
+				<img src="https://avatars.githubusercontent.com/u/5841268?s=72&u=92099d8af1bbbf66c8f493815cd7dcfc2d0fe6ce&v=4" width="24" alt="Avatar of myknbani"> myknbani
+			</a><br/>
+			Richard Michael Coo
+		</td>
+		<td>Central Philippine University </td>
+		<td><a href="https://twitter.com/myknbani">myknbani</a></td>
+		<td>Iloilo City, Philippines</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/rad182">
 				<img src="https://avatars.githubusercontent.com/u/71201?s=72&v=4" width="24" alt="Avatar of rad182"> rad182
@@ -5890,7 +5916,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/jwcalipes">
 				<img src="https://avatars.githubusercontent.com/u/13713317?s=72&u=9816cf94a9669f1665bc921ea1da6dce184a4b15&v=4" width="24" alt="Avatar of jwcalipes"> jwcalipes
@@ -5903,7 +5929,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/jerieltiu">
 				<img src="https://avatars.githubusercontent.com/u/66832312?s=72&u=2087844ca2e6b6716aa31c705e4dfc04518dbbc2&v=4" width="24" alt="Avatar of jerieltiu"> jerieltiu
@@ -5916,20 +5942,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>448</td>
-		<td>
-			<a href="https://github.com/alenteria">
-				<img src="https://avatars.githubusercontent.com/u/2783217?s=72&u=1a51f6b6bedf193920106ffdb87a82667fd0d60c&v=4" width="24" alt="Avatar of alenteria"> alenteria
-			</a><br/>
-			AL
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Philippines</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>449</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/kyleaquino">
 				<img src="https://avatars.githubusercontent.com/u/15972440?s=72&u=7ea3ad976074559c95873a9b618e5db2a9a0e709&v=4" width="24" alt="Avatar of kyleaquino"> kyleaquino
@@ -5942,7 +5955,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/bobreyes">
 				<img src="https://avatars.githubusercontent.com/u/2232?s=72&v=4" width="24" alt="Avatar of bobreyes"> bobreyes
@@ -5952,19 +5965,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bobreyes">bobreyes</a></td>
 		<td>Philippines</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>451</td>
-		<td>
-			<a href="https://github.com/myknbani">
-				<img src="https://avatars.githubusercontent.com/u/5841268?s=72&u=92099d8af1bbbf66c8f493815cd7dcfc2d0fe6ce&v=4" width="24" alt="Avatar of myknbani"> myknbani
-			</a><br/>
-			Richard Michael Coo
-		</td>
-		<td>Central Philippine University </td>
-		<td><a href="https://twitter.com/myknbani">myknbani</a></td>
-		<td>Iloilo City, Philippines</td>
 		<td>41</td>
 	</tr>
 	<tr>
@@ -6113,6 +6113,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>463</td>
 		<td>
+			<a href="https://github.com/Ryjin210">
+				<img src="https://avatars.githubusercontent.com/u/77573336?s=72&u=c8034121fccd3d932e4a240351eb19716a3504f2&v=4" width="24" alt="Avatar of Ryjin210"> Ryjin210
+			</a><br/>
+			Mark Ryan Jancorda
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Ryjinx210">Ryjinx210</a></td>
+		<td>Cavite, Philippines</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
 			<a href="https://github.com/exequiel09">
 				<img src="https://avatars.githubusercontent.com/u/1289472?s=72&u=a53b92c5007048b5ac0e4f6be5abe1974b7557dc&v=4" width="24" alt="Avatar of exequiel09"> exequiel09
 			</a><br/>
@@ -6124,7 +6137,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/darklight721">
 				<img src="https://avatars.githubusercontent.com/u/577701?s=72&v=4" width="24" alt="Avatar of darklight721"> darklight721
@@ -6137,7 +6150,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/byrenx">
 				<img src="https://avatars.githubusercontent.com/u/4657287?s=72&v=4" width="24" alt="Avatar of byrenx"> byrenx
@@ -6150,7 +6163,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/vycoder">
 				<img src="https://avatars.githubusercontent.com/u/11130314?s=72&u=612325df9ac9cb3030fc10da59b02a9b36530314&v=4" width="24" alt="Avatar of vycoder"> vycoder
@@ -6163,7 +6176,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/rookiedoki">
 				<img src="https://avatars.githubusercontent.com/u/78750377?s=72&u=fe9cfdad4769e1816965bbcddf4268f0e9124854&v=4" width="24" alt="Avatar of rookiedoki"> rookiedoki
@@ -6176,7 +6189,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/KixPanganiban">
 				<img src="https://avatars.githubusercontent.com/u/2585982?s=72&u=05dcc3534d560af4c8f2cd2893fe7502930dab02&v=4" width="24" alt="Avatar of KixPanganiban"> KixPanganiban
@@ -6189,7 +6202,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/Jamer05">
 				<img src="https://avatars.githubusercontent.com/u/61366887?s=72&v=4" width="24" alt="Avatar of Jamer05"> Jamer05
@@ -6202,7 +6215,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/onecompileman">
 				<img src="https://avatars.githubusercontent.com/u/17823491?s=72&u=4e00b512fd0a359340f09db6b657e61b65ba3ee1&v=4" width="24" alt="Avatar of onecompileman"> onecompileman
@@ -6215,7 +6228,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/EmpeRoar">
 				<img src="https://avatars.githubusercontent.com/u/318956?s=72&u=adfcf35438c4733ecd1b5169f0e2c89bfbf8f7df&v=4" width="24" alt="Avatar of EmpeRoar"> EmpeRoar
@@ -6228,7 +6241,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/reydd">
 				<img src="https://avatars.githubusercontent.com/u/17446899?s=72&u=34fbe99e48684464671a8ca73a145ab98ed7edff&v=4" width="24" alt="Avatar of reydd"> reydd
@@ -6241,7 +6254,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/jericopulvera">
 				<img src="https://avatars.githubusercontent.com/u/23246308?s=72&u=0493eb98a461ef03ba00ae1b6fd9490f0e13cb92&v=4" width="24" alt="Avatar of jericopulvera"> jericopulvera
@@ -6254,7 +6267,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/geraldvillorente">
 				<img src="https://avatars.githubusercontent.com/u/820842?s=72&u=85fb1a5802aac93cd432af09c016a403248f9c4f&v=4" width="24" alt="Avatar of geraldvillorente"> geraldvillorente
@@ -6267,7 +6280,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/andresitodeguzman">
 				<img src="https://avatars.githubusercontent.com/u/10202948?s=72&u=173d02d6e69d0eb1ccc2e59c54918d753e10ebfc&v=4" width="24" alt="Avatar of andresitodeguzman"> andresitodeguzman
@@ -6280,7 +6293,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/kuyazee">
 				<img src="https://avatars.githubusercontent.com/u/17846698?s=72&u=c6a290c2b79af25f2bdc62b4c1e56f185bbfb377&v=4" width="24" alt="Avatar of kuyazee"> kuyazee
@@ -6293,7 +6306,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/edmer664">
 				<img src="https://avatars.githubusercontent.com/u/64422131?s=72&u=aea3028501a26951f54138769897d00c729e266a&v=4" width="24" alt="Avatar of edmer664"> edmer664
@@ -6306,7 +6319,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/Frastio10">
 				<img src="https://avatars.githubusercontent.com/u/43699753?s=72&u=40eef89f31f9bb25f51b5fd0cd5555953b76cfd9&v=4" width="24" alt="Avatar of Frastio10"> Frastio10
@@ -6319,7 +6332,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/quadroloop">
 				<img src="https://avatars.githubusercontent.com/u/29462205?s=72&u=81d19b310885abe2b932b41672bf8b1b1bed0050&v=4" width="24" alt="Avatar of quadroloop"> quadroloop
@@ -6329,19 +6342,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>White Cloak Technologies Inc.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tanza, Cavite, Philippines</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>480</td>
-		<td>
-			<a href="https://github.com/Ryjin210">
-				<img src="https://avatars.githubusercontent.com/u/77573336?s=72&u=c8034121fccd3d932e4a240351eb19716a3504f2&v=4" width="24" alt="Avatar of Ryjin210"> Ryjin210
-			</a><br/>
-			Mark Ryan Jancorda
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Ryjinx210">Ryjinx210</a></td>
-		<td>Cavite, Philippines</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -7985,19 +7985,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>607</td>
 		<td>
-			<a href="https://github.com/renesansz">
-				<img src="https://avatars.githubusercontent.com/u/4784170?s=72&u=48d0966b9ca65c61fd67caa29167d82384f1764c&v=4" width="24" alt="Avatar of renesansz"> renesansz
-			</a><br/>
-			Renemari Padillo
-		</td>
-		<td>Nextpay (yc W21) </td>
-		<td><a href="https://twitter.com/renesansz">renesansz</a></td>
-		<td>Davao, Philippines</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>608</td>
-		<td>
 			<a href="https://github.com/jromest">
 				<img src="https://avatars.githubusercontent.com/u/25174423?s=72&u=7db7107f6552f5b9e1341d320ff4b6ec4c42fb46&v=4" width="24" alt="Avatar of jromest"> jromest
 			</a><br/>
@@ -8009,7 +7996,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/edenramoneda">
 				<img src="https://avatars.githubusercontent.com/u/28981352?s=72&u=2fa3c775fc53bcbd3a8af1c24bd23971b78f9dd8&v=4" width="24" alt="Avatar of edenramoneda"> edenramoneda
@@ -8022,7 +8009,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/liamdemafelix">
 				<img src="https://avatars.githubusercontent.com/u/798476?s=72&u=f3be8876f9e10237828dddee05efd971379e9d01&v=4" width="24" alt="Avatar of liamdemafelix"> liamdemafelix
@@ -8035,7 +8022,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/devcsrj">
 				<img src="https://avatars.githubusercontent.com/u/3963900?s=72&v=4" width="24" alt="Avatar of devcsrj"> devcsrj
@@ -8048,7 +8035,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/PinoyWH1Z">
 				<img src="https://avatars.githubusercontent.com/u/19635626?s=72&u=2b6efa2b6513df61798629695eb7191e4a9754d8&v=4" width="24" alt="Avatar of PinoyWH1Z"> PinoyWH1Z
@@ -8061,7 +8048,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/dmuy">
 				<img src="https://avatars.githubusercontent.com/u/8830886?s=72&u=9595c6aba7a44c5dbd386cd148058a15f1f926df&v=4" width="24" alt="Avatar of dmuy"> dmuy
@@ -8074,7 +8061,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/kana-ph">
 				<img src="https://avatars.githubusercontent.com/u/6835046?s=72&u=09f57dd50304c3ecd01ec970838397d75280ae79&v=4" width="24" alt="Avatar of kana-ph"> kana-ph
@@ -8087,7 +8074,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/BernardTolosajr">
 				<img src="https://avatars.githubusercontent.com/u/3807955?s=72&u=241220d25c381f3012740468bd275ef75807c26d&v=4" width="24" alt="Avatar of BernardTolosajr"> BernardTolosajr
@@ -8100,7 +8087,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/seav">
 				<img src="https://avatars.githubusercontent.com/u/873653?s=72&u=7a20466a72dffe15da2cc8724e368d88edb3da03&v=4" width="24" alt="Avatar of seav"> seav
@@ -8113,7 +8100,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/thejpanganiban">
 				<img src="https://avatars.githubusercontent.com/u/16813343?s=72&u=175fdbb2be4363923f659fe877102bcb20d7bc78&v=4" width="24" alt="Avatar of thejpanganiban"> thejpanganiban
@@ -8126,7 +8113,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/godhand1607">
 				<img src="https://avatars.githubusercontent.com/u/7845870?s=72&u=51ad8616f46dbca6707dfd03a4a2702955dc9f22&v=4" width="24" alt="Avatar of godhand1607"> godhand1607
@@ -8139,7 +8126,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/kdbcinco">
 				<img src="https://avatars.githubusercontent.com/u/6251471?s=72&v=4" width="24" alt="Avatar of kdbcinco"> kdbcinco
@@ -8152,7 +8139,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/ebzzry">
 				<img src="https://avatars.githubusercontent.com/u/7875?s=72&u=f4d3b3c464cb995e8e83a399064eadb3470abbf1&v=4" width="24" alt="Avatar of ebzzry"> ebzzry
@@ -8165,7 +8152,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/tedmdelacruz">
 				<img src="https://avatars.githubusercontent.com/u/914090?s=72&u=1054608d4376586713123ec8542bf3efc86f5cde&v=4" width="24" alt="Avatar of tedmdelacruz"> tedmdelacruz
@@ -8178,7 +8165,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/jovanidash21">
 				<img src="https://avatars.githubusercontent.com/u/20255103?s=72&u=4c460f2972f08a21ad656ffb3f1b5ffbcd5807b5&v=4" width="24" alt="Avatar of jovanidash21"> jovanidash21
@@ -8191,7 +8178,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/jeaaanius">
 				<img src="https://avatars.githubusercontent.com/u/77815839?s=72&u=0220da9f1038bb4c305ffda57576a7e0873b4c4c&v=4" width="24" alt="Avatar of jeaaanius"> jeaaanius
@@ -8204,7 +8191,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/adrianaluisadc">
 				<img src="https://avatars.githubusercontent.com/u/89798737?s=72&u=41afdd9f4c0b4df39cc011a30e584bd78a1818df&v=4" width="24" alt="Avatar of adrianaluisadc"> adrianaluisadc
@@ -8214,6 +8201,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>General Santos, Philippines</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/marfillaster">
+				<img src="https://avatars.githubusercontent.com/u/121793?s=72&v=4" width="24" alt="Avatar of marfillaster"> marfillaster
+			</a><br/>
+			Ken Marfilla
+		</td>
+		<td>@pantheon-systems  </td>
+		<td>No Twitter Username</td>
+		<td>Philippines</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -8596,6 +8596,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>654</td>
 		<td>
+			<a href="https://github.com/helios1989">
+				<img src="https://avatars.githubusercontent.com/u/14260407?s=72&u=0ec07f84e874bdd3dcf98f27ca5d6162dd1aef16&v=4" width="24" alt="Avatar of helios1989"> helios1989
+			</a><br/>
+			VB - Rayne Verge
+		</td>
+		<td>Rayneverge2021 </td>
+		<td>No Twitter Username</td>
+		<td>MANILA</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>655</td>
+		<td>
 			<a href="https://github.com/bevcastillo">
 				<img src="https://avatars.githubusercontent.com/u/39786404?s=72&u=8fb980c28efe16223fc250612a56a37b01d7a872&v=4" width="24" alt="Avatar of bevcastillo"> bevcastillo
 			</a><br/>
@@ -8607,7 +8620,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/lanceliamll">
 				<img src="https://avatars.githubusercontent.com/u/33190396?s=72&u=cd9fc741472dfb1c29d219df7f198565f4bf177e&v=4" width="24" alt="Avatar of lanceliamll"> lanceliamll
@@ -8620,7 +8633,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/reynaldorayan">
 				<img src="https://avatars.githubusercontent.com/u/106948657?s=72&u=26b26a22166b7345ccca4b0802fbf85e6e97eb4a&v=4" width="24" alt="Avatar of reynaldorayan"> reynaldorayan
@@ -8633,7 +8646,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/RenanParohinog4">
 				<img src="https://avatars.githubusercontent.com/u/86317020?s=72&u=06a6f58d7a82c2027a9b3315895ee79969e6b0cd&v=4" width="24" alt="Avatar of RenanParohinog4"> RenanParohinog4
@@ -8646,7 +8659,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/crrmacarse">
 				<img src="https://avatars.githubusercontent.com/u/39759024?s=72&u=ddb8889f242c3569b9fb41a9066d0b422d5d4fc7&v=4" width="24" alt="Avatar of crrmacarse"> crrmacarse
@@ -8659,7 +8672,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/paologlim">
 				<img src="https://avatars.githubusercontent.com/u/144755?s=72&v=4" width="24" alt="Avatar of paologlim"> paologlim
@@ -8672,7 +8685,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/slowlearner">
 				<img src="https://avatars.githubusercontent.com/u/65730?s=72&v=4" width="24" alt="Avatar of slowlearner"> slowlearner
@@ -8685,7 +8698,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/kamote">
 				<img src="https://avatars.githubusercontent.com/u/3262664?s=72&v=4" width="24" alt="Avatar of kamote"> kamote
@@ -8698,7 +8711,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/pageman">
 				<img src="https://avatars.githubusercontent.com/u/24869?s=72&v=4" width="24" alt="Avatar of pageman"> pageman
@@ -8711,7 +8724,20 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
+		<td>
+			<a href="https://github.com/ysalau">
+				<img src="https://avatars.githubusercontent.com/u/83785801?s=72&u=e8bd496b43c799adf4169fe65d7e22f895dc8312&v=4" width="24" alt="Avatar of ysalau"> ysalau
+			</a><br/>
+			Ysabela Laureano
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Manila, Philippines</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/jamesjallorina">
 				<img src="https://avatars.githubusercontent.com/u/15165623?s=72&u=c83679d98258f461a6b9529f811403a63d279a3d&v=4" width="24" alt="Avatar of jamesjallorina"> jamesjallorina
@@ -8724,7 +8750,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/lysender">
 				<img src="https://avatars.githubusercontent.com/u/114853?s=72&v=4" width="24" alt="Avatar of lysender"> lysender
@@ -8737,7 +8763,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/jaoaustero">
 				<img src="https://avatars.githubusercontent.com/u/15128024?s=72&u=b9b68e2014bb6b33128b86d5115458169ff3e21f&v=4" width="24" alt="Avatar of jaoaustero"> jaoaustero
@@ -8750,20 +8776,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>666</td>
-		<td>
-			<a href="https://github.com/helios1989">
-				<img src="https://avatars.githubusercontent.com/u/14260407?s=72&u=0ec07f84e874bdd3dcf98f27ca5d6162dd1aef16&v=4" width="24" alt="Avatar of helios1989"> helios1989
-			</a><br/>
-			VB - Rayne Verge
-		</td>
-		<td>Rayneverge2021 </td>
-		<td>No Twitter Username</td>
-		<td>MANILA</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/rocity">
 				<img src="https://avatars.githubusercontent.com/u/4496070?s=72&u=b047af435bb0b2dd1fd255db1daf57de8cce6009&v=4" width="24" alt="Avatar of rocity"> rocity
@@ -8776,7 +8789,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/mjarenyap">
 				<img src="https://avatars.githubusercontent.com/u/25071337?s=72&u=5b41830ca10315a52985b56f097b0981de495a63&v=4" width="24" alt="Avatar of mjarenyap"> mjarenyap
@@ -8789,7 +8802,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/samverdad">
 				<img src="https://avatars.githubusercontent.com/u/16978059?s=72&u=63553e16444efa0bb171c175e918437b89ed6d09&v=4" width="24" alt="Avatar of samverdad"> samverdad
@@ -8802,7 +8815,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/PhoenixPeca">
 				<img src="https://avatars.githubusercontent.com/u/9730242?s=72&u=7220a316ea755d89e2be3c52aa8b0a3f3aa63d65&v=4" width="24" alt="Avatar of PhoenixPeca"> PhoenixPeca
@@ -8815,7 +8828,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/jill-lee">
 				<img src="https://avatars.githubusercontent.com/u/25472275?s=72&u=26c38a2a722f98dbf7cbfdd868113f79ba1d34d8&v=4" width="24" alt="Avatar of jill-lee"> jill-lee
@@ -8828,7 +8841,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/clrke">
 				<img src="https://avatars.githubusercontent.com/u/7193634?s=72&u=4f6435adb90c691f0f08f9c98f59526e1f8f2cdd&v=4" width="24" alt="Avatar of clrke"> clrke
@@ -8841,7 +8854,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/analyn-cajocson">
 				<img src="https://avatars.githubusercontent.com/u/9253881?s=72&u=6e6e0cbabb57a4545b46a993321eae21875c4ec4&v=4" width="24" alt="Avatar of analyn-cajocson"> analyn-cajocson
@@ -8854,7 +8867,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/relminator">
 				<img src="https://avatars.githubusercontent.com/u/19392908?s=72&u=1ddfacc1753113f5d46eac84261af544f69d9aaf&v=4" width="24" alt="Avatar of relminator"> relminator
@@ -8867,7 +8880,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/z0lope0z">
 				<img src="https://avatars.githubusercontent.com/u/1134725?s=72&v=4" width="24" alt="Avatar of z0lope0z"> z0lope0z
@@ -8880,7 +8893,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/bituka">
 				<img src="https://avatars.githubusercontent.com/u/1908745?s=72&u=6d288de99b9200165050dd86def08447f89f0bfe&v=4" width="24" alt="Avatar of bituka"> bituka
@@ -8893,7 +8906,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/timominous">
 				<img src="https://avatars.githubusercontent.com/u/733151?s=72&u=10e82ea7feac7603476569f299735c6dd14ed59e&v=4" width="24" alt="Avatar of timominous"> timominous
@@ -8906,7 +8919,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/umandalroald">
 				<img src="https://avatars.githubusercontent.com/u/4403290?s=72&v=4" width="24" alt="Avatar of umandalroald"> umandalroald
@@ -8919,7 +8932,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/jerieljan">
 				<img src="https://avatars.githubusercontent.com/u/430655?s=72&u=8db2a96a658274fdc89a714383c49e73194ecc52&v=4" width="24" alt="Avatar of jerieljan"> jerieljan
@@ -8932,7 +8945,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/regogo">
 				<img src="https://avatars.githubusercontent.com/u/3240537?s=72&u=6aa5e2faf98535481f98592ac9d25a96f81797cb&v=4" width="24" alt="Avatar of regogo"> regogo
@@ -8945,7 +8958,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/k1ngJ">
 				<img src="https://avatars.githubusercontent.com/u/29578616?s=72&u=d5a61ce3f9984a18df81c7b8f4b669033f0abd39&v=4" width="24" alt="Avatar of k1ngJ"> k1ngJ
@@ -8958,7 +8971,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/CristineHaber">
 				<img src="https://avatars.githubusercontent.com/u/123060428?s=72&u=7877a3cf86104c50ee359f55fdd4ea516b950e13&v=4" width="24" alt="Avatar of CristineHaber"> CristineHaber
@@ -8971,7 +8984,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/rtorino">
 				<img src="https://avatars.githubusercontent.com/u/1680608?s=72&u=2ae3a0af52346f40aa8ac9e3ab65b07e2410d384&v=4" width="24" alt="Avatar of rtorino"> rtorino
@@ -8984,7 +8997,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/neume">
 				<img src="https://avatars.githubusercontent.com/u/18587460?s=72&u=a05b6897e0eea8a9f3abb1ab06cc8a2a81ebcd67&v=4" width="24" alt="Avatar of neume"> neume
@@ -8997,7 +9010,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/kenblizzard">
 				<img src="https://avatars.githubusercontent.com/u/7096930?s=72&u=90900fbadfe39e7539b6db67aae3a6b8ce6b5647&v=4" width="24" alt="Avatar of kenblizzard"> kenblizzard
@@ -9010,7 +9023,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/ncleshyne">
 				<img src="https://avatars.githubusercontent.com/u/29720341?s=72&u=2f131b0a679519a8009f92b8d1fcecc3e2f1ae99&v=4" width="24" alt="Avatar of ncleshyne"> ncleshyne
@@ -9023,7 +9036,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/carlo-fontanos">
 				<img src="https://avatars.githubusercontent.com/u/12164593?s=72&u=89daf6f678f59fb509b3789e96809375e70eaa0c&v=4" width="24" alt="Avatar of carlo-fontanos"> carlo-fontanos
@@ -9033,19 +9046,6 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Baguio City, Philippines</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>688</td>
-		<td>
-			<a href="https://github.com/ysalau">
-				<img src="https://avatars.githubusercontent.com/u/83785801?s=72&u=e8bd496b43c799adf4169fe65d7e22f895dc8312&v=4" width="24" alt="Avatar of ysalau"> ysalau
-			</a><br/>
-			Ysabela Laureano
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Manila, Philippines</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -9740,6 +9740,19 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 	<tr>
 		<td>742</td>
 		<td>
+			<a href="https://github.com/delacruzjames">
+				<img src="https://avatars.githubusercontent.com/u/1852427?s=72&u=8cf6c36eb45c06d65b4ca2e47498044019f7dc73&v=4" width="24" alt="Avatar of delacruzjames"> delacruzjames
+			</a><br/>
+			James Dela Cruz
+		</td>
+		<td>T2 </td>
+		<td>No Twitter Username</td>
+		<td>Manila, Philippines</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>743</td>
+		<td>
 			<a href="https://github.com/ericsonluciano">
 				<img src="https://avatars.githubusercontent.com/u/1282109?s=72&u=50271fb0d167678a13b955a8ed3e2dfe3c455a38&v=4" width="24" alt="Avatar of ericsonluciano"> ericsonluciano
 			</a><br/>
@@ -9751,7 +9764,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/ejb6">
 				<img src="https://avatars.githubusercontent.com/u/76241888?s=72&u=ebf955f3b905e89c0722b93b9fbe64b3ece59c92&v=4" width="24" alt="Avatar of ejb6"> ejb6
@@ -9764,7 +9777,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/monicalabbao">
 				<img src="https://avatars.githubusercontent.com/u/19965979?s=72&u=6f26d089857a843d836ad8079273b1c933dda601&v=4" width="24" alt="Avatar of monicalabbao"> monicalabbao
@@ -9777,7 +9790,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/ChaosPower">
 				<img src="https://avatars.githubusercontent.com/u/260845?s=72&v=4" width="24" alt="Avatar of ChaosPower"> ChaosPower
@@ -9790,7 +9803,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/arthlimchiu">
 				<img src="https://avatars.githubusercontent.com/u/11973681?s=72&u=18f27166734ba05e49b956857ac2d3f6834a49c0&v=4" width="24" alt="Avatar of arthlimchiu"> arthlimchiu
@@ -9803,7 +9816,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/git-ced">
 				<img src="https://avatars.githubusercontent.com/u/46030248?s=72&u=a9653edc5a47012e36a0eb342247ea292b01111c&v=4" width="24" alt="Avatar of git-ced"> git-ced
@@ -9816,7 +9829,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/raintomista">
 				<img src="https://avatars.githubusercontent.com/u/11486217?s=72&u=f9f0d4b1ca78bc8b42574c6d2576b43c62a5b312&v=4" width="24" alt="Avatar of raintomista"> raintomista
@@ -9829,7 +9842,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/reinareyes">
 				<img src="https://avatars.githubusercontent.com/u/19324886?s=72&u=f0f40097af287c72effe91abb05506827b0b8f6f&v=4" width="24" alt="Avatar of reinareyes"> reinareyes
@@ -9842,7 +9855,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/jioo">
 				<img src="https://avatars.githubusercontent.com/u/16633234?s=72&u=06c4df49ea3e48936e8c3c03c4971f341c9ebc2b&v=4" width="24" alt="Avatar of jioo"> jioo
@@ -9855,7 +9868,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/adimasuhid">
 				<img src="https://avatars.githubusercontent.com/u/2517299?s=72&u=333cb7e94ebd3146837fad578a32cc0d99cd6344&v=4" width="24" alt="Avatar of adimasuhid"> adimasuhid
@@ -9868,7 +9881,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/jezeniel">
 				<img src="https://avatars.githubusercontent.com/u/722817?s=72&u=e3d6cee105ec0346b2e3c3387f6053e1bdec108c&v=4" width="24" alt="Avatar of jezeniel"> jezeniel
@@ -9881,7 +9894,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/cryp2knight">
 				<img src="https://avatars.githubusercontent.com/u/53048652?s=72&u=1a4fcdc88a2f9c0c525187c6abf0a016d93da1fd&v=4" width="24" alt="Avatar of cryp2knight"> cryp2knight
@@ -9894,7 +9907,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/randyvalencia">
 				<img src="https://avatars.githubusercontent.com/u/2062838?s=72&v=4" width="24" alt="Avatar of randyvalencia"> randyvalencia
@@ -9907,7 +9920,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/rynangeles">
 				<img src="https://avatars.githubusercontent.com/u/3428202?s=72&u=e9a9918fd002de2d4952e89e430b4f60e099a4fe&v=4" width="24" alt="Avatar of rynangeles"> rynangeles
@@ -9920,7 +9933,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/joecatarata">
 				<img src="https://avatars.githubusercontent.com/u/23512969?s=72&u=39d6634f44267806f4b29a194a6ea08905102396&v=4" width="24" alt="Avatar of joecatarata"> joecatarata
@@ -9933,7 +9946,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/calen-legaspi">
 				<img src="https://avatars.githubusercontent.com/u/806824?s=72&v=4" width="24" alt="Avatar of calen-legaspi"> calen-legaspi
@@ -9946,7 +9959,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/rbaguila">
 				<img src="https://avatars.githubusercontent.com/u/22838347?s=72&u=4bc44842ac3e95532bbdc492ac04ae578ab2c0c4&v=4" width="24" alt="Avatar of rbaguila"> rbaguila
@@ -9959,7 +9972,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/ralphchristianeclipse">
 				<img src="https://avatars.githubusercontent.com/u/25447231?s=72&u=8bb1d00d0550c038a2a37da606d2b41dc4ab2da7&v=4" width="24" alt="Avatar of ralphchristianeclipse"> ralphchristianeclipse
@@ -9972,7 +9985,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/mantechristian">
 				<img src="https://avatars.githubusercontent.com/u/10977191?s=72&u=28181a7dd9ac6ffabb3ba3db8227c3b84c67fab3&v=4" width="24" alt="Avatar of mantechristian"> mantechristian
@@ -9985,7 +9998,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/eugen-xyz">
 				<img src="https://avatars.githubusercontent.com/u/11703663?s=72&u=abe89d4776c0b613216ac046e107a97a72dd2999&v=4" width="24" alt="Avatar of eugen-xyz"> eugen-xyz
@@ -9998,7 +10011,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/derufu">
 				<img src="https://avatars.githubusercontent.com/u/41110569?s=72&u=db6b13274dbd13f2ddf3b3f1dd18749fa6fd668a&v=4" width="24" alt="Avatar of derufu"> derufu
@@ -10011,7 +10024,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/ronoliverclarin">
 				<img src="https://avatars.githubusercontent.com/u/2889432?s=72&v=4" width="24" alt="Avatar of ronoliverclarin"> ronoliverclarin
@@ -10024,7 +10037,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/cr4shcod3">
 				<img src="https://avatars.githubusercontent.com/u/26832583?s=72&u=dbf0c6df7b8c7353fb486f2146c8d464315d054c&v=4" width="24" alt="Avatar of cr4shcod3"> cr4shcod3
@@ -10037,7 +10050,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/wnuqui">
 				<img src="https://avatars.githubusercontent.com/u/1292222?s=72&u=b246c1875161072c64f81c12ea1d197736dadefd&v=4" width="24" alt="Avatar of wnuqui"> wnuqui
@@ -10050,7 +10063,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/albertpadin">
 				<img src="https://avatars.githubusercontent.com/u/179764?s=72&u=0a977eefaf8253cfa6e5044e50fc9f4c2f9b9a9e&v=4" width="24" alt="Avatar of albertpadin"> albertpadin
@@ -10063,7 +10076,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/raremon">
 				<img src="https://avatars.githubusercontent.com/u/7359200?s=72&u=5ab51d24c0675ece32c7a079b8361999c9794657&v=4" width="24" alt="Avatar of raremon"> raremon
@@ -10076,7 +10089,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/christianesperar">
 				<img src="https://avatars.githubusercontent.com/u/1621344?s=72&u=018a58ee9c050fa4f19ef960bd14a1e71813a427&v=4" width="24" alt="Avatar of christianesperar"> christianesperar
@@ -10089,7 +10102,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/markjeee">
 				<img src="https://avatars.githubusercontent.com/u/1982?s=72&v=4" width="24" alt="Avatar of markjeee"> markjeee
@@ -10102,7 +10115,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/brianehenyo">
 				<img src="https://avatars.githubusercontent.com/u/4006327?s=72&u=a3162d730abe888c4709c377ed58b1495b6fcd62&v=4" width="24" alt="Avatar of brianehenyo"> brianehenyo
@@ -10115,7 +10128,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/JstnClmnt">
 				<img src="https://avatars.githubusercontent.com/u/25239856?s=72&u=210ad73e0650cb660cc4ef6bb4d836d7b66aea3b&v=4" width="24" alt="Avatar of JstnClmnt"> JstnClmnt
@@ -10128,7 +10141,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/jondanao">
 				<img src="https://avatars.githubusercontent.com/u/110116?s=72&u=8aa9286a242829596c196bc2d6095b032aedc364&v=4" width="24" alt="Avatar of jondanao"> jondanao
@@ -10141,7 +10154,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/carlosmiranda">
 				<img src="https://avatars.githubusercontent.com/u/1917892?s=72&v=4" width="24" alt="Avatar of carlosmiranda"> carlosmiranda
@@ -10154,7 +10167,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/jm-maniego">
 				<img src="https://avatars.githubusercontent.com/u/5362416?s=72&u=5b4c998bba8be52cf60bf3978946cc16b29c4e7c&v=4" width="24" alt="Avatar of jm-maniego"> jm-maniego
@@ -10167,7 +10180,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/jervenclark">
 				<img src="https://avatars.githubusercontent.com/u/8236178?s=72&u=10d77b7641acec16078f58a998b0668a260945cf&v=4" width="24" alt="Avatar of jervenclark"> jervenclark
@@ -10180,7 +10193,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/JMBodz">
 				<img src="https://avatars.githubusercontent.com/u/83792304?s=72&u=0bfffa4d90ec106cf3ae5072463dd75f2d362be1&v=4" width="24" alt="Avatar of JMBodz"> JMBodz
@@ -10193,7 +10206,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/patchutiee">
 				<img src="https://avatars.githubusercontent.com/u/59289237?s=72&u=f9e2a53ea45bc1a0e66c02d9aec54cda453d4e24&v=4" width="24" alt="Avatar of patchutiee"> patchutiee
@@ -10206,7 +10219,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/neithancasano">
 				<img src="https://avatars.githubusercontent.com/u/6957442?s=72&u=118534933d3880974b92ca562a71919a71a45c50&v=4" width="24" alt="Avatar of neithancasano"> neithancasano
@@ -10219,7 +10232,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/diwadm">
 				<img src="https://avatars.githubusercontent.com/u/209127?s=72&v=4" width="24" alt="Avatar of diwadm"> diwadm
@@ -10232,7 +10245,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/r4in">
 				<img src="https://avatars.githubusercontent.com/u/997959?s=72&u=5747528c7321b6bbc96dca8422d95ed55fb31075&v=4" width="24" alt="Avatar of r4in"> r4in
@@ -10245,7 +10258,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/fagray">
 				<img src="https://avatars.githubusercontent.com/u/6448052?s=72&u=d1258a02b6c814c5243d1bcf33438c12ae0f7403&v=4" width="24" alt="Avatar of fagray"> fagray
@@ -10258,7 +10271,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/jbienesdev">
 				<img src="https://avatars.githubusercontent.com/u/17470909?s=72&u=f4668c5cda6903607ad58af48b4baaa779dd4dda&v=4" width="24" alt="Avatar of jbienesdev"> jbienesdev
@@ -10271,7 +10284,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/radvc">
 				<img src="https://avatars.githubusercontent.com/u/11433690?s=72&u=6335b1cbad1e4a8a150ae29b3ccb944539aef5f0&v=4" width="24" alt="Avatar of radvc"> radvc
@@ -10284,7 +10297,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/thisguychris">
 				<img src="https://avatars.githubusercontent.com/u/532797?s=72&u=eecd1c49ac3607c00ae60c797df72ad82a7a5b0a&v=4" width="24" alt="Avatar of thisguychris"> thisguychris
@@ -10297,7 +10310,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/jmramos02">
 				<img src="https://avatars.githubusercontent.com/u/3782351?s=72&u=bde9b5d07ebf02cbd0c0a674312c7509bfbd9a6b&v=4" width="24" alt="Avatar of jmramos02"> jmramos02
@@ -10310,7 +10323,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/rap12">
 				<img src="https://avatars.githubusercontent.com/u/2173559?s=72&v=4" width="24" alt="Avatar of rap12"> rap12
@@ -10323,7 +10336,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/junaaaaloo">
 				<img src="https://avatars.githubusercontent.com/u/23701753?s=72&u=190f9aacc58eb5bed8f0adad15d9777fede425bd&v=4" width="24" alt="Avatar of junaaaaloo"> junaaaaloo
@@ -10336,7 +10349,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/aputs">
 				<img src="https://avatars.githubusercontent.com/u/105153?s=72&v=4" width="24" alt="Avatar of aputs"> aputs
@@ -10349,7 +10362,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/adrianseraspi12">
 				<img src="https://avatars.githubusercontent.com/u/42129682?s=72&u=8d13ed243c8714720ec312266f9a2ca51ac4eb8e&v=4" width="24" alt="Avatar of adrianseraspi12"> adrianseraspi12
@@ -10362,7 +10375,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/coarse">
 				<img src="https://avatars.githubusercontent.com/u/13778315?s=72&u=19d21e23d0b2dbef4990a91cbefcaa84e857a375&v=4" width="24" alt="Avatar of coarse"> coarse
@@ -10375,7 +10388,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/dev-aes">
 				<img src="https://avatars.githubusercontent.com/u/50138099?s=72&u=eeec3ea6637174e904815af8147d24ca3eea1fa1&v=4" width="24" alt="Avatar of dev-aes"> dev-aes
@@ -10388,7 +10401,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/ashier">
 				<img src="https://avatars.githubusercontent.com/u/2351052?s=72&v=4" width="24" alt="Avatar of ashier"> ashier
@@ -10401,7 +10414,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/vudknguyen">
 				<img src="https://avatars.githubusercontent.com/u/16699073?s=72&u=90e07bbe09bc5329f45f3489ba89d75f12c389c3&v=4" width="24" alt="Avatar of vudknguyen"> vudknguyen
@@ -10414,7 +10427,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/jvfiel">
 				<img src="https://avatars.githubusercontent.com/u/4990791?s=72&u=1265ee08c756f4d94ce6989c6ac7f2baefcebc2f&v=4" width="24" alt="Avatar of jvfiel"> jvfiel
@@ -10427,7 +10440,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/anvillasoto">
 				<img src="https://avatars.githubusercontent.com/u/20451028?s=72&v=4" width="24" alt="Avatar of anvillasoto"> anvillasoto
@@ -10440,7 +10453,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/leztusi">
 				<img src="https://avatars.githubusercontent.com/u/20206492?s=72&u=c9f3ff6de74645db4f7740ee86c440e4772b42d2&v=4" width="24" alt="Avatar of leztusi"> leztusi
@@ -10453,7 +10466,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/itsjeffersonli">
 				<img src="https://avatars.githubusercontent.com/u/53053198?s=72&u=d32b237f3c35cbdead92c20c8e3f64f1b4adef14&v=4" width="24" alt="Avatar of itsjeffersonli"> itsjeffersonli
@@ -10466,7 +10479,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/coolnumber9">
 				<img src="https://avatars.githubusercontent.com/u/883047?s=72&u=bb35cbe03f82aff6966d99a8d4cd06e95f274401&v=4" width="24" alt="Avatar of coolnumber9"> coolnumber9
@@ -10479,7 +10492,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/edgarfelizmenio">
 				<img src="https://avatars.githubusercontent.com/u/1223524?s=72&v=4" width="24" alt="Avatar of edgarfelizmenio"> edgarfelizmenio
@@ -10492,7 +10505,7 @@ There are `974 users`  in Philippines. You need at least `20 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/marvs">
 				<img src="https://avatars.githubusercontent.com/u/87418?s=72&u=13fdba2003205759103b2de96bca3b28f5e7f745&v=4" width="24" alt="Avatar of marvs"> marvs
