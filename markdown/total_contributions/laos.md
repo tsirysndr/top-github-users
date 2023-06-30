@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` and `private contributions` by users in Laos on `2023/6/30 4:27 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` and `private contributions` by users in Laos on `2023/6/30 10:01 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Xaythany, Vientiane Prefecture, Laos</td>
 		<td>126</td>
-		<td>9117</td>
+		<td>9118</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>135</td>
-		<td>5593</td>
+		<td>5610</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane,Laos</td>
 		<td>0</td>
-		<td>5171</td>
+		<td>5176</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -173,7 +173,7 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane Laos</td>
 		<td>0</td>
-		<td>4296</td>
+		<td>4297</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
-		<td>2</td>
-		<td>1604</td>
+		<td>3</td>
+		<td>1637</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -229,7 +229,7 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>laos</td>
 		<td>1</td>
-		<td>938</td>
+		<td>940</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -243,7 +243,7 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/Pitpy">Pitpy</a></td>
 		<td>Vientiane, Laos</td>
 		<td>6</td>
-		<td>798</td>
+		<td>800</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -257,7 +257,7 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Laos</td>
 		<td>0</td>
-		<td>782</td>
+		<td>787</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -634,8 +634,8 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Clinton Health Access Initiative,<br/>Inc.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
-		<td>109</td>
-		<td>111</td>
+		<td>110</td>
+		<td>112</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -654,6 +654,20 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>40</td>
 		<td>
+			<a href="https://github.com/DraKenDevOps">
+				<img src="https://avatars.githubusercontent.com/u/71423193?s=72&u=3e41b29b0e2b170512534804ac4fc4b8fa21dc18&v=4" width="24" alt="Avatar of DraKenDevOps"> DraKenDevOps
+			</a><br/>
+			Anakin
+		</td>
+		<td>Lgw </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Lao PDR</td>
+		<td>100</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
 			<a href="https://github.com/xone-sps">
 				<img src="https://avatars.githubusercontent.com/u/38064812?s=72&u=bd31a09830474868ed14ff005eac28769c2ef0b2&v=4" width="24" alt="Avatar of xone-sps"> xone-sps
 			</a><br/>
@@ -664,20 +678,6 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Vientiane</td>
 		<td>98</td>
 		<td>98</td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>
-			<a href="https://github.com/DraKenDevOps">
-				<img src="https://avatars.githubusercontent.com/u/71423193?s=72&u=3e41b29b0e2b170512534804ac4fc4b8fa21dc18&v=4" width="24" alt="Avatar of DraKenDevOps"> DraKenDevOps
-			</a><br/>
-			Anakin
-		</td>
-		<td>Lgw </td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Lao PDR</td>
-		<td>96</td>
-		<td>96</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -760,8 +760,8 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Savannakhet, Laos</td>
-		<td>86</td>
-		<td>86</td>
+		<td>87</td>
+		<td>87</td>
 	</tr>
 	<tr>
 		<td>48</td>
@@ -886,8 +886,8 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Laos</td>
-		<td>55</td>
-		<td>55</td>
+		<td>56</td>
+		<td>56</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -1334,8 +1334,8 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane , LAOS</td>
-		<td>20</td>
-		<td>20</td>
+		<td>21</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -2166,20 +2166,6 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>148</td>
 		<td>
-			<a href="https://github.com/Boualytpv">
-				<img src="https://avatars.githubusercontent.com/u/35027589?s=72&u=278c1e181f07020c6162574a3157155d439d930f&v=4" width="24" alt="Avatar of Boualytpv"> Boualytpv
-			</a><br/>
-			Boualy Thipphavong
-		</td>
-		<td>Lao Telecom </td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
 			<a href="https://github.com/i0712326">
 				<img src="https://avatars.githubusercontent.com/u/6789356?s=72&u=fcfa4edf9e27b6eadc17b4ec5fc5a53ef14c7653&v=4" width="24" alt="Avatar of i0712326"> i0712326
 			</a><br/>
@@ -2188,6 +2174,20 @@ There are `412 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tikkwiki">tikkwiki</a></td>
 		<td>LAOS</td>
+		<td>2</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a href="https://github.com/Boualytpv">
+				<img src="https://avatars.githubusercontent.com/u/35027589?s=72&u=278c1e181f07020c6162574a3157155d439d930f&v=4" width="24" alt="Avatar of Boualytpv"> Boualytpv
+			</a><br/>
+			Boualy Thipphavong
+		</td>
+		<td>Lao Telecom </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos</td>
 		<td>2</td>
 		<td>2</td>
 	</tr>
