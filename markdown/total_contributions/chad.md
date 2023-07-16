@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/7/16 12:59 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/7/16 6:33 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -375,7 +375,7 @@ There are `119 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>20</td>
 		<td>
 			<a href="https://github.com/moustaphousman">
-				<img src="https://avatars.githubusercontent.com/u/81974619?s=72&u=69a28921f08d6d3352c82e87e7a168dd8ee9789b&v=4" width="24" alt="Avatar of moustaphousman"> moustaphousman
+				<img src="https://avatars.githubusercontent.com/u/81974619?s=72&u=bc77f49e4431a107d45125b9c2979fa4cc21f8b9&v=4" width="24" alt="Avatar of moustaphousman"> moustaphousman
 			</a><br/>
 			Moustapha
 		</td>
