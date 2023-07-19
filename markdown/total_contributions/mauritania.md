@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` and `private contributions` by users in Mauritania on `2023/7/18 12:25 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` and `private contributions` by users in Mauritania on `2023/7/19 5:50 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `165 users`  in Mauritania. You need at least `0 followers` to be on this list.
+There are `166 users`  in Mauritania. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -116,8 +116,8 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td> Full-stack Developer </td>
 		<td><a href="https://twitter.com/maaloumely">maaloumely</a></td>
 		<td>Mauritania</td>
-		<td>1199</td>
-		<td>1227</td>
+		<td>1203</td>
+		<td>1231</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -200,8 +200,8 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Yata-medical </td>
 		<td><a href="https://twitter.com/kadermed10">kadermed10</a></td>
 		<td>Nouakchott</td>
-		<td>0</td>
-		<td>512</td>
+		<td>1</td>
+		<td>513</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -536,8 +536,8 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania </td>
-		<td>31</td>
-		<td>31</td>
+		<td>32</td>
+		<td>32</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -1137,6 +1137,20 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Mauritania</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
+			<a href="https://github.com/mobabiya">
+				<img src="https://avatars.githubusercontent.com/u/139928739?s=72&u=c901d9f733319de3b03363092449ec5261e58da7&v=4" width="24" alt="Avatar of mobabiya"> mobabiya
+			</a><br/>
+			MOBABIYA
+		</td>
+		<td>@mobabiya </td>
+		<td><a href="https://twitter.com/mobabiya">mobabiya</a></td>
 		<td>Mauritania</td>
 		<td>1</td>
 		<td>1</td>

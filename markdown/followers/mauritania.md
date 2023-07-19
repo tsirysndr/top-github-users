@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `number of followers` of users in Mauritania on `2023/7/18 12:25 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `number of followers` of users in Mauritania on `2023/7/19 5:50 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `165 users`  in Mauritania. You need at least `0 followers` to be on this list.
+There are `166 users`  in Mauritania. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -627,6 +627,19 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/MedMokhtar35229">
+				<img src="https://avatars.githubusercontent.com/u/84805916?s=72&v=4" width="24" alt="Avatar of MedMokhtar35229"> MedMokhtar35229
+			</a><br/>
+			Med Mokhtar
+		</td>
+		<td>@digi-transform </td>
+		<td>No Twitter Username</td>
+		<td>Nouakchott,  tvz, Carrefour site smart</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/Habale7">
 				<img src="https://avatars.githubusercontent.com/u/33547205?s=72&u=5ab5f2243d962d4195f6503bebd501d3d9d0aabe&v=4" width="24" alt="Avatar of Habale7"> Habale7
 			</a><br/>
@@ -638,7 +651,7 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/elatigh">
 				<img src="https://avatars.githubusercontent.com/u/31410768?s=72&u=5ae728b4a964cb9ca16ffca7c39ec82461ea8998&v=4" width="24" alt="Avatar of elatigh"> elatigh
@@ -651,7 +664,7 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/ntehah">
 				<img src="https://avatars.githubusercontent.com/u/45572063?s=72&u=9cbbef8f561f290398c58b790e770458dc3921da&v=4" width="24" alt="Avatar of ntehah"> ntehah
@@ -661,19 +674,6 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Yata-medical </td>
 		<td><a href="https://twitter.com/kadermed10">kadermed10</a></td>
 		<td>Nouakchott</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/MedMokhtar35229">
-				<img src="https://avatars.githubusercontent.com/u/84805916?s=72&v=4" width="24" alt="Avatar of MedMokhtar35229"> MedMokhtar35229
-			</a><br/>
-			Med Mokhtar
-		</td>
-		<td>@digi-transform </td>
-		<td>No Twitter Username</td>
-		<td>Nouakchott,  tvz, Carrefour site smart</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -705,19 +705,6 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/medali06">
-				<img src="https://avatars.githubusercontent.com/u/37084532?s=72&u=b24eea3d776074b404182542f108d05ec6711a92&v=4" width="24" alt="Avatar of medali06"> medali06
-			</a><br/>
-			Mohamed Aly Moctar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nouakchott, Mauritania</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
 			<a href="https://github.com/EL-Arby">
 				<img src="https://avatars.githubusercontent.com/u/80636501?s=72&u=e68a01b58bbd7698d36071bf0702b825f0eb00f9&v=4" width="24" alt="Avatar of EL-Arby"> EL-Arby
 			</a><br/>
@@ -726,6 +713,19 @@ There are `165 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Una </td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott-Mauritanie</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/medali06">
+				<img src="https://avatars.githubusercontent.com/u/37084532?s=72&u=b24eea3d776074b404182542f108d05ec6711a92&v=4" width="24" alt="Avatar of medali06"> medali06
+			</a><br/>
+			Mohamed Aly Moctar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nouakchott, Mauritania</td>
 		<td>2</td>
 	</tr>
 	<tr>
