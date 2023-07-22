@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg" alt="Senegal">
 </a>
 
-The `number of followers` of users in Senegal on `2023/7/21 6:49 AM UTC`. This list contains users from `Senegal` and cities `Dakar`.
+The `number of followers` of users in Senegal on `2023/7/22 12:17 AM UTC`. This list contains users from `Senegal` and cities `Dakar`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `927 users`  in Senegal. You need at least `0 followers` to be on this list.
+There are `926 users`  in Senegal. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -115,7 +115,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>@mamoru-foundation </td>
 		<td><a href="https://twitter.com/diopfode">diopfode</a></td>
 		<td>Dakar, Sénégal</td>
-		<td>318</td>
+		<td>317</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -297,7 +297,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/kadev4solutions">kadev4solutions</a></td>
 		<td>Dakar Sénégal</td>
-		<td>89</td>
+		<td>88</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -1277,6 +1277,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>91</td>
 		<td>
+			<a href="https://github.com/mathiam99">
+				<img src="https://avatars.githubusercontent.com/u/73497455?s=72&v=4" width="24" alt="Avatar of mathiam99"> mathiam99
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dakar, Senegal</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td>
 			<a href="https://github.com/matzolla">
 				<img src="https://avatars.githubusercontent.com/u/57256473?s=72&u=8110a307c45b33a9c359df89a23e36168ff05941&v=4" width="24" alt="Avatar of matzolla"> matzolla
 			</a><br/>
@@ -1288,7 +1301,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/nguefackuriel">
 				<img src="https://avatars.githubusercontent.com/u/74467653?s=72&u=8cbf387a8808cb0702b62f66e7af8ca06ba15ff6&v=4" width="24" alt="Avatar of nguefackuriel"> nguefackuriel
@@ -1301,7 +1314,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/DiopMamoune">
 				<img src="https://avatars.githubusercontent.com/u/52385964?s=72&u=f8598b6ddb10f87ae3bcb0edf2d0b690fd6c7174&v=4" width="24" alt="Avatar of DiopMamoune"> DiopMamoune
@@ -1311,19 +1324,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dakar Sénégal</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a href="https://github.com/mathiam99">
-				<img src="https://avatars.githubusercontent.com/u/73497455?s=72&v=4" width="24" alt="Avatar of mathiam99"> mathiam99
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dakar, Senegal</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -3695,6 +3695,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>277</td>
 		<td>
+			<a href="https://github.com/Moustapha00864">
+				<img src="https://avatars.githubusercontent.com/u/83617117?s=72&u=7c3754166913d459faa5d6bffeb0e508d235c997&v=4" width="24" alt="Avatar of Moustapha00864"> Moustapha00864
+			</a><br/>
+			Moustapha NJAAY
+		</td>
+		<td>Université Iba Der Thiam<br/>De<br/>Thies<br/>(uidt)<br/></td>
+		<td><a href="https://twitter.com/Tapha42676212">Tapha42676212</a></td>
+		<td>Dakar & Thiès </td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
 			<a href="https://github.com/HABIBMBALLO">
 				<img src="https://avatars.githubusercontent.com/u/48298145?s=72&u=4f6bb41024c2ea1e09ff883f12c03fa2891b0c40&v=4" width="24" alt="Avatar of HABIBMBALLO"> HABIBMBALLO
 			</a><br/>
@@ -3706,7 +3719,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/elwan">
 				<img src="https://avatars.githubusercontent.com/u/628189?s=72&u=a98117f4dcca7b8e531c6208017a661839eed99e&v=4" width="24" alt="Avatar of elwan"> elwan
@@ -3719,7 +3732,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/charo164">
 				<img src="https://avatars.githubusercontent.com/u/67079666?s=72&u=eabedf68c6b3e3dd3070f02affc738f869b0ee14&v=4" width="24" alt="Avatar of charo164"> charo164
@@ -3732,7 +3745,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/Nafissatou1210-hub">
 				<img src="https://avatars.githubusercontent.com/u/85028387?s=72&v=4" width="24" alt="Avatar of Nafissatou1210-hub"> Nafissatou1210-hub
@@ -3745,7 +3758,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/Schalcke">
 				<img src="https://avatars.githubusercontent.com/u/34965313?s=72&u=78cc541f1d5223ab86c387506c3571bd7459f58e&v=4" width="24" alt="Avatar of Schalcke"> Schalcke
@@ -3758,7 +3771,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/aab595">
 				<img src="https://avatars.githubusercontent.com/u/92734258?s=72&u=4033fad886dd6a3b31ac757eb00c0bcb38cc9dd1&v=4" width="24" alt="Avatar of aab595"> aab595
@@ -3771,7 +3784,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/bassbiteye">
 				<img src="https://avatars.githubusercontent.com/u/49490105?s=72&u=5f8dfc55e86c192e74cfec0f383d7af585ab9c23&v=4" width="24" alt="Avatar of bassbiteye"> bassbiteye
@@ -3784,7 +3797,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/AbabacarDieneNdiaye">
 				<img src="https://avatars.githubusercontent.com/u/88010773?s=72&u=304eeb6fdc1b2647c3c4e7191289e535183baf46&v=4" width="24" alt="Avatar of AbabacarDieneNdiaye"> AbabacarDieneNdiaye
@@ -3797,7 +3810,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/maremnady">
 				<img src="https://avatars.githubusercontent.com/u/49782426?s=72&v=4" width="24" alt="Avatar of maremnady"> maremnady
@@ -3810,7 +3823,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/Ismaila81">
 				<img src="https://avatars.githubusercontent.com/u/89797092?s=72&u=f859ed9a5b078a2846e2dec45252dd241657310a&v=4" width="24" alt="Avatar of Ismaila81"> Ismaila81
@@ -3823,7 +3836,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/djite">
 				<img src="https://avatars.githubusercontent.com/u/45432114?s=72&u=8b9ead9733773111a5963324c4bfc602e6543e67&v=4" width="24" alt="Avatar of djite"> djite
@@ -3836,7 +3849,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/jmpreira">
 				<img src="https://avatars.githubusercontent.com/u/4306433?s=72&v=4" width="24" alt="Avatar of jmpreira"> jmpreira
@@ -3849,7 +3862,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/nattyseydi">
 				<img src="https://avatars.githubusercontent.com/u/301695?s=72&v=4" width="24" alt="Avatar of nattyseydi"> nattyseydi
@@ -3862,7 +3875,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/dione9">
 				<img src="https://avatars.githubusercontent.com/u/89267477?s=72&u=9d3fd86899dac28cd402bf39ef526ffe70d3ddeb&v=4" width="24" alt="Avatar of dione9"> dione9
@@ -3875,7 +3888,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/alhassane">
 				<img src="https://avatars.githubusercontent.com/u/2749712?s=72&v=4" width="24" alt="Avatar of alhassane"> alhassane
@@ -3888,7 +3901,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/alphakahere">
 				<img src="https://avatars.githubusercontent.com/u/65568945?s=72&u=3acbd2f356c9eb10a54416c4d92b2d513af983b1&v=4" width="24" alt="Avatar of alphakahere"> alphakahere
@@ -3901,7 +3914,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/bentalla108">
 				<img src="https://avatars.githubusercontent.com/u/9109062?s=72&u=8cc8fab1d1d1779cc0b37c3d7fbd51cb93affb27&v=4" width="24" alt="Avatar of bentalla108"> bentalla108
@@ -3914,7 +3927,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/Adromane">
 				<img src="https://avatars.githubusercontent.com/u/107551156?s=72&u=ccd479a6868573ac65158ec79d3738c4c2bd441e&v=4" width="24" alt="Avatar of Adromane"> Adromane
@@ -3927,7 +3940,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/moctar-diop">
 				<img src="https://avatars.githubusercontent.com/u/76051106?s=72&v=4" width="24" alt="Avatar of moctar-diop"> moctar-diop
@@ -3940,7 +3953,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/mbayedione10">
 				<img src="https://avatars.githubusercontent.com/u/47165947?s=72&v=4" width="24" alt="Avatar of mbayedione10"> mbayedione10
@@ -3953,7 +3966,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/segtio">
 				<img src="https://avatars.githubusercontent.com/u/5391257?s=72&u=c5849c124b449d1b80734b7869dbbc6cad3f0a97&v=4" width="24" alt="Avatar of segtio"> segtio
@@ -3966,7 +3979,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/ODADJE">
 				<img src="https://avatars.githubusercontent.com/u/80554867?s=72&v=4" width="24" alt="Avatar of ODADJE"> ODADJE
@@ -3979,7 +3992,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/askho">
 				<img src="https://avatars.githubusercontent.com/u/85491197?s=72&u=e089bfefb836917f2c8389b9479f84eac7e9ddfc&v=4" width="24" alt="Avatar of askho"> askho
@@ -3992,7 +4005,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/Abi-shai">
 				<img src="https://avatars.githubusercontent.com/u/79512754?s=72&u=505c8b6a56618ae2504019e36dd6908b40f2a48b&v=4" width="24" alt="Avatar of Abi-shai"> Abi-shai
@@ -4005,7 +4018,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/kayode-adechinan">
 				<img src="https://avatars.githubusercontent.com/u/28058096?s=72&u=9a4f1d6297b6266beae922ca099f03f911992802&v=4" width="24" alt="Avatar of kayode-adechinan"> kayode-adechinan
@@ -4018,7 +4031,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/ialim0">
 				<img src="https://avatars.githubusercontent.com/u/105538919?s=72&u=daf6bbf27b5465de9e8b941b269032a67d460b4c&v=4" width="24" alt="Avatar of ialim0"> ialim0
@@ -4031,7 +4044,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/Khaly17">
 				<img src="https://avatars.githubusercontent.com/u/79064101?s=72&u=16fff092044b76fc28c5f86ee0a4d7be77b36619&v=4" width="24" alt="Avatar of Khaly17"> Khaly17
@@ -4044,7 +4057,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/Pavel-Sukhotskii">
 				<img src="https://avatars.githubusercontent.com/u/81563036?s=72&u=8ed002640f85777f0ee2a6977f3ff130c3545aaa&v=4" width="24" alt="Avatar of Pavel-Sukhotskii"> Pavel-Sukhotskii
@@ -4057,7 +4070,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/kharyseye">
 				<img src="https://avatars.githubusercontent.com/u/100027412?s=72&u=5f14c1fcda020743efbc05d4aa1b0a507e2fa6a0&v=4" width="24" alt="Avatar of kharyseye"> kharyseye
@@ -4070,7 +4083,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/abduRahman94">
 				<img src="https://avatars.githubusercontent.com/u/42313354?s=72&u=18d27ff7a3aa12d3bd076bc1afa274503db7dfa5&v=4" width="24" alt="Avatar of abduRahman94"> abduRahman94
@@ -4083,7 +4096,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/saliou-t">
 				<img src="https://avatars.githubusercontent.com/u/72024122?s=72&u=648b67413ab680ce900e3434efd9b2477879c1c9&v=4" width="24" alt="Avatar of saliou-t"> saliou-t
@@ -4096,7 +4109,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/devmagatte">
 				<img src="https://avatars.githubusercontent.com/u/103048621?s=72&u=6675a336912469d6cf5661c66885a1e3678f5e90&v=4" width="24" alt="Avatar of devmagatte"> devmagatte
@@ -4109,7 +4122,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/Babs95">
 				<img src="https://avatars.githubusercontent.com/u/46944121?s=72&u=e88760e0220ca5d2dcb09bffe37696fe5ff98eab&v=4" width="24" alt="Avatar of Babs95"> Babs95
@@ -4122,7 +4135,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/Msonko07">
 				<img src="https://avatars.githubusercontent.com/u/69853269?s=72&u=470f49e253c64953edea98797c95e7b4abcb16ab&v=4" width="24" alt="Avatar of Msonko07"> Msonko07
@@ -4135,7 +4148,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/as199">
 				<img src="https://avatars.githubusercontent.com/u/57167524?s=72&v=4" width="24" alt="Avatar of as199"> as199
@@ -4148,7 +4161,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/DIOP-NOHINE">
 				<img src="https://avatars.githubusercontent.com/u/77540928?s=72&u=a2e6ee05a0082f5bd7e36e7a29941b739b2042c4&v=4" width="24" alt="Avatar of DIOP-NOHINE"> DIOP-NOHINE
@@ -4158,19 +4171,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sénégal, Dakar</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>313</td>
-		<td>
-			<a href="https://github.com/Moustapha00864">
-				<img src="https://avatars.githubusercontent.com/u/83617117?s=72&u=7c3754166913d459faa5d6bffeb0e508d235c997&v=4" width="24" alt="Avatar of Moustapha00864"> Moustapha00864
-			</a><br/>
-			Moustapha NJAAY
-		</td>
-		<td>Université Iba Der Thiam<br/>De<br/>Thies<br/>(uidt)<br/></td>
-		<td><a href="https://twitter.com/Tapha42676212">Tapha42676212</a></td>
-		<td>Dakar & Thiès </td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -4423,19 +4423,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>333</td>
 		<td>
-			<a href="https://github.com/madiou84">
-				<img src="https://avatars.githubusercontent.com/u/20014913?s=72&u=8787ce24194a4a6886e8ce3cc316a991f600a6c9&v=4" width="24" alt="Avatar of madiou84"> madiou84
-			</a><br/>
-			Madiou
-		</td>
-		<td>Fem </td>
-		<td><a href="https://twitter.com/m19bah">m19bah</a></td>
-		<td>Dakar, Sénégal</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>334</td>
-		<td>
 			<a href="https://github.com/kouamegerard">
 				<img src="https://avatars.githubusercontent.com/u/32105212?s=72&u=3b1f7712d9f13af20462e860502bfa827cf95523&v=4" width="24" alt="Avatar of kouamegerard"> kouamegerard
 			</a><br/>
@@ -4443,6 +4430,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		</td>
 		<td>Geneses0.0 </td>
 		<td>No Twitter Username</td>
+		<td>Dakar, Sénégal</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/madiou84">
+				<img src="https://avatars.githubusercontent.com/u/20014913?s=72&u=8787ce24194a4a6886e8ce3cc316a991f600a6c9&v=4" width="24" alt="Avatar of madiou84"> madiou84
+			</a><br/>
+			Madiou
+		</td>
+		<td>Fem </td>
+		<td><a href="https://twitter.com/m19bah">m19bah</a></td>
 		<td>Dakar, Sénégal</td>
 		<td>4</td>
 	</tr>
@@ -4800,19 +4800,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>362</td>
 		<td>
-			<a href="https://github.com/lionnelpat">
-				<img src="https://avatars.githubusercontent.com/u/20041588?s=72&u=98c25188c18e70b3c3b05ec63154b2119c880003&v=4" width="24" alt="Avatar of lionnelpat"> lionnelpat
-			</a><br/>
-			Lionnel Patrick 
-		</td>
-		<td>Kollect </td>
-		<td>No Twitter Username</td>
-		<td>Dakar - Senegal</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>363</td>
-		<td>
 			<a href="https://github.com/alphilippo">
 				<img src="https://avatars.githubusercontent.com/u/10104951?s=72&u=296bcdb7d90730f189df418c292739579c536c8e&v=4" width="24" alt="Avatar of alphilippo"> alphilippo
 			</a><br/>
@@ -4821,6 +4808,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>Sybi </td>
 		<td><a href="https://twitter.com/AlainSagna">AlainSagna</a></td>
 		<td>Dakar, Senegal</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/lionnelpat">
+				<img src="https://avatars.githubusercontent.com/u/20041588?s=72&u=98c25188c18e70b3c3b05ec63154b2119c880003&v=4" width="24" alt="Avatar of lionnelpat"> lionnelpat
+			</a><br/>
+			Lionnel Patrick 
+		</td>
+		<td>Kollect </td>
+		<td>No Twitter Username</td>
+		<td>Dakar - Senegal</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -5203,6 +5203,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>393</td>
 		<td>
+			<a href="https://github.com/madimakym">
+				<img src="https://avatars.githubusercontent.com/u/5033828?s=72&v=4" width="24" alt="Avatar of madimakym"> madimakym
+			</a><br/>
+			makymadi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sénégal, Dakar</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>394</td>
+		<td>
 			<a href="https://github.com/saloum45">
 				<img src="https://avatars.githubusercontent.com/u/64892800?s=72&u=4dbd5a1d86b1d6542394901d413b6c73fee89e90&v=4" width="24" alt="Avatar of saloum45"> saloum45
 			</a><br/>
@@ -5214,7 +5227,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/mbatou">
 				<img src="https://avatars.githubusercontent.com/u/81929063?s=72&u=1d82458832be880b5020559438c56218a2a2aa40&v=4" width="24" alt="Avatar of mbatou"> mbatou
@@ -5227,7 +5240,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/Mouhamed-git">
 				<img src="https://avatars.githubusercontent.com/u/61560905?s=72&u=aebda39a1e149d3a31032777d6b86380a5a77def&v=4" width="24" alt="Avatar of Mouhamed-git"> Mouhamed-git
@@ -5240,7 +5253,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/mohamedniang">
 				<img src="https://avatars.githubusercontent.com/u/33057571?s=72&u=94df8d2e265114926bd32f801f04a70f2f661f33&v=4" width="24" alt="Avatar of mohamedniang"> mohamedniang
@@ -5253,7 +5266,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/abdoulDaff">
 				<img src="https://avatars.githubusercontent.com/u/69810054?s=72&v=4" width="24" alt="Avatar of abdoulDaff"> abdoulDaff
@@ -5266,7 +5279,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/Princetoutcouleur">
 				<img src="https://avatars.githubusercontent.com/u/97804190?s=72&u=de32b8528792a2ebe57459503eddd81c8ca83fb7&v=4" width="24" alt="Avatar of Princetoutcouleur"> Princetoutcouleur
@@ -5279,7 +5292,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/gallas-ng">
 				<img src="https://avatars.githubusercontent.com/u/79837922?s=72&u=9e1af79c349938240c52291afcb3ac7f645f300e&v=4" width="24" alt="Avatar of gallas-ng"> gallas-ng
@@ -5292,7 +5305,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/MahomedCissokho">
 				<img src="https://avatars.githubusercontent.com/u/78382270?s=72&u=8f41d74c5cb165d7e1bf557f557a58031e6b62b4&v=4" width="24" alt="Avatar of MahomedCissokho"> MahomedCissokho
@@ -5305,7 +5318,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/ndourbamba18">
 				<img src="https://avatars.githubusercontent.com/u/82464964?s=72&u=365de3e5e2e3e4ac4ada835934dafe2910d7ee14&v=4" width="24" alt="Avatar of ndourbamba18"> ndourbamba18
@@ -5318,7 +5331,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/Fallou-Mbengue">
 				<img src="https://avatars.githubusercontent.com/u/83303373?s=72&u=7af003ac43614ff6c886f0d0db0cafc883c49a4c&v=4" width="24" alt="Avatar of Fallou-Mbengue"> Fallou-Mbengue
@@ -5331,7 +5344,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/alamine95">
 				<img src="https://avatars.githubusercontent.com/u/50781230?s=72&v=4" width="24" alt="Avatar of alamine95"> alamine95
@@ -5344,7 +5357,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/djirotechno">
 				<img src="https://avatars.githubusercontent.com/u/13524804?s=72&u=6eb63f0ecbb9d010268419373fc0a23bcecde022&v=4" width="24" alt="Avatar of djirotechno"> djirotechno
@@ -5354,19 +5367,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>Djirotechnologie </td>
 		<td>No Twitter Username</td>
 		<td>Dakar Senegal</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/Mamadou42">
-				<img src="https://avatars.githubusercontent.com/u/45657618?s=72&u=ad0c1b1274f57dee099e6d9349ac5912f9c32bec&v=4" width="24" alt="Avatar of Mamadou42"> Mamadou42
-			</a><br/>
-			Mamadou Lo COLY
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/momocoly42">momocoly42</a></td>
-		<td>Senegal</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -6048,6 +6048,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>458</td>
 		<td>
+			<a href="https://github.com/zoulou421">
+				<img src="https://avatars.githubusercontent.com/u/18218297?s=72&u=dc65a7f08ef4d1e7404c8c5172f708aa9f152fb1&v=4" width="24" alt="Avatar of zoulou421"> zoulou421
+			</a><br/>
+			Bonevy Beby
+		</td>
+		<td>Formation Kilo </td>
+		<td><a href="https://twitter.com/bonevybeby">bonevybeby</a></td>
+		<td>Dakar</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
 			<a href="https://github.com/Chris-Sechri">
 				<img src="https://avatars.githubusercontent.com/u/70886898?s=72&u=9c5d79bd6eacc811daa65fc74c497f69ad9858f3&v=4" width="24" alt="Avatar of Chris-Sechri"> Chris-Sechri
 			</a><br/>
@@ -6059,7 +6072,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/cmfsambe">
 				<img src="https://avatars.githubusercontent.com/u/81330937?s=72&u=e6b96d5610dea588b50dfd3b2220da947cf1666f&v=4" width="24" alt="Avatar of cmfsambe"> cmfsambe
@@ -6072,7 +6085,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/mohadoum">
 				<img src="https://avatars.githubusercontent.com/u/32394577?s=72&u=b9f9bc7294d383a93196dfb55ec9b76119afa3b8&v=4" width="24" alt="Avatar of mohadoum"> mohadoum
@@ -6082,19 +6095,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Senegal</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>461</td>
-		<td>
-			<a href="https://github.com/zoulou421">
-				<img src="https://avatars.githubusercontent.com/u/18218297?s=72&u=dc65a7f08ef4d1e7404c8c5172f708aa9f152fb1&v=4" width="24" alt="Avatar of zoulou421"> zoulou421
-			</a><br/>
-			Bonevy Beby
-		</td>
-		<td>Formation Kilo </td>
-		<td><a href="https://twitter.com/bonevybeby">bonevybeby</a></td>
-		<td>Dakar</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7335,19 +7335,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>557</td>
 		<td>
-			<a href="https://github.com/cir27">
-				<img src="https://avatars.githubusercontent.com/u/36454877?s=72&u=459c9da53aa991d34042e145acdd12030eddce9d&v=4" width="24" alt="Avatar of cir27"> cir27
-			</a><br/>
-			Cire SY
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dakar,Senegal</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>558</td>
-		<td>
 			<a href="https://github.com/Draxisto">
 				<img src="https://avatars.githubusercontent.com/u/84756518?s=72&u=311ff6b01169d3389404a20fadd65ca9f6f3eace&v=4" width="24" alt="Avatar of Draxisto"> Draxisto
 			</a><br/>
@@ -7359,7 +7346,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/programmerenc">
 				<img src="https://avatars.githubusercontent.com/u/12624935?s=72&u=036716622c4dc78ed8e167b1b03729be670b25de&v=4" width="24" alt="Avatar of programmerenc"> programmerenc
@@ -7369,6 +7356,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Senegal</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>559</td>
+		<td>
+			<a href="https://github.com/cir27">
+				<img src="https://avatars.githubusercontent.com/u/36454877?s=72&u=459c9da53aa991d34042e145acdd12030eddce9d&v=4" width="24" alt="Avatar of cir27"> cir27
+			</a><br/>
+			Cire SY
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dakar,Senegal</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -7660,19 +7660,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>582</td>
 		<td>
-			<a href="https://github.com/Yvan-BM">
-				<img src="https://avatars.githubusercontent.com/u/70644480?s=72&u=d6183932f70ba7eaa67442f94aa3cae4c60f5e4c&v=4" width="24" alt="Avatar of Yvan-BM"> Yvan-BM
-			</a><br/>
-			Yvan Tamdjo Biakeu
-		</td>
-		<td>Aims-senegal </td>
-		<td><a href="https://twitter.com/yvanbiakeu">yvanbiakeu</a></td>
-		<td>Senegal, Thies, Mbour</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>583</td>
-		<td>
 			<a href="https://github.com/yakhyadabo">
 				<img src="https://avatars.githubusercontent.com/u/11488192?s=72&u=ebd685bbc1bd8e0981310bd1a773019e02e58004&v=4" width="24" alt="Avatar of yakhyadabo"> yakhyadabo
 			</a><br/>
@@ -7684,7 +7671,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/Olakouns">
 				<img src="https://avatars.githubusercontent.com/u/53337912?s=72&u=f368fb021002f320c08f7c4bb2cd413f635310cb&v=4" width="24" alt="Avatar of Olakouns"> Olakouns
@@ -7697,7 +7684,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/mafallseye">
 				<img src="https://avatars.githubusercontent.com/u/87377217?s=72&u=0f919262ecdb74b1e7deab43b17d1f64f272a3e9&v=4" width="24" alt="Avatar of mafallseye"> mafallseye
@@ -7710,7 +7697,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/baaratik93">
 				<img src="https://avatars.githubusercontent.com/u/64319979?s=72&u=ce68a21398bee7a1c5f13db8b8c19a6f0bc48223&v=4" width="24" alt="Avatar of baaratik93"> baaratik93
@@ -7723,7 +7710,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/enigma119">
 				<img src="https://avatars.githubusercontent.com/u/32015265?s=72&u=c29c55e8fc0e702651f1bd6d704580de1bca31e7&v=4" width="24" alt="Avatar of enigma119"> enigma119
@@ -7733,6 +7720,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>Logidoo / Xfactory </td>
 		<td><a href="https://twitter.com/Gekyume119">Gekyume119</a></td>
 		<td>Dakar, Senegal</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>587</td>
+		<td>
+			<a href="https://github.com/Mister-Ndiaye">
+				<img src="https://avatars.githubusercontent.com/u/61950912?s=72&u=e10fb94ce27a4d9af67da745066435953e37547c&v=4" width="24" alt="Avatar of Mister-Ndiaye"> Mister-Ndiaye
+			</a><br/>
+			No Name
+		</td>
+		<td>Student </td>
+		<td>No Twitter Username</td>
+		<td>Senegal</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -8323,12 +8323,12 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>633</td>
 		<td>
-			<a href="https://github.com/sergiomendy">
-				<img src="https://avatars.githubusercontent.com/u/38118911?s=72&v=4" width="24" alt="Avatar of sergiomendy"> sergiomendy
+			<a href="https://github.com/MoBadiane">
+				<img src="https://avatars.githubusercontent.com/u/86114396?s=72&v=4" width="24" alt="Avatar of MoBadiane"> MoBadiane
 			</a><br/>
-			Serge Wilson Mendy
+			Mohameth Badiane
 		</td>
-		<td>No Company</td>
+		<td>Esmt </td>
 		<td>No Twitter Username</td>
 		<td>Dakar</td>
 		<td>1</td>
@@ -8336,12 +8336,12 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>634</td>
 		<td>
-			<a href="https://github.com/MoBadiane">
-				<img src="https://avatars.githubusercontent.com/u/86114396?s=72&v=4" width="24" alt="Avatar of MoBadiane"> MoBadiane
+			<a href="https://github.com/sergiomendy">
+				<img src="https://avatars.githubusercontent.com/u/38118911?s=72&v=4" width="24" alt="Avatar of sergiomendy"> sergiomendy
 			</a><br/>
-			Mohameth Badiane
+			Serge Wilson Mendy
 		</td>
-		<td>Esmt </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dakar</td>
 		<td>1</td>
@@ -9519,19 +9519,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>725</td>
 		<td>
-			<a href="https://github.com/Kindi2001">
-				<img src="https://avatars.githubusercontent.com/u/48474787?s=72&u=1a7bb3c3bec984206caa166ec973979ca1962650&v=4" width="24" alt="Avatar of Kindi2001"> Kindi2001
-			</a><br/>
-			Thierno Mohamed kindi diallo
-		</td>
-		<td>Kinditech </td>
-		<td>No Twitter Username</td>
-		<td>Senegal Dakar</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>726</td>
-		<td>
 			<a href="https://github.com/As-clmtech">
 				<img src="https://avatars.githubusercontent.com/u/107953105?s=72&u=0cdebef4304f66b1282231cf82be62e79c093422&v=4" width="24" alt="Avatar of As-clmtech"> As-clmtech
 			</a><br/>
@@ -9543,7 +9530,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/focati-solutions">
 				<img src="https://avatars.githubusercontent.com/u/44211472?s=72&u=42e3d94b0aa7a97b6525c249f322af75e78e9c7d&v=4" width="24" alt="Avatar of focati-solutions"> focati-solutions
@@ -9556,7 +9543,7 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/LatyrDiouf1982">
 				<img src="https://avatars.githubusercontent.com/u/38718314?s=72&u=5eef002fe149dc22e41442c7ba0f5e303a203565&v=4" width="24" alt="Avatar of LatyrDiouf1982"> LatyrDiouf1982
@@ -9566,6 +9553,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Senegal</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/Kindi2001">
+				<img src="https://avatars.githubusercontent.com/u/48474787?s=72&u=1a7bb3c3bec984206caa166ec973979ca1962650&v=4" width="24" alt="Avatar of Kindi2001"> Kindi2001
+			</a><br/>
+			Thierno Mohamed kindi diallo
+		</td>
+		<td>Kinditech </td>
+		<td>No Twitter Username</td>
+		<td>Senegal Dakar</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -10026,19 +10026,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>764</td>
 		<td>
-			<a href="https://github.com/MahamadouIssaghaDiop">
-				<img src="https://avatars.githubusercontent.com/u/74509317?s=72&u=557d3380131fdb03d7338b6158bbf8d0e184ea3c&v=4" width="24" alt="Avatar of MahamadouIssaghaDiop"> MahamadouIssaghaDiop
-			</a><br/>
-			ISSAGHA DIOP
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dakar, Sénégal </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>765</td>
-		<td>
 			<a href="https://github.com/BabacarDiao">
 				<img src="https://avatars.githubusercontent.com/u/70910979?s=72&u=fc4615eaa0bb126974674581bc475d38d1bdb23b&v=4" width="24" alt="Avatar of BabacarDiao"> BabacarDiao
 			</a><br/>
@@ -10047,6 +10034,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>Université Cheikh Anta Diop.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Dakar, Senegal</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>765</td>
+		<td>
+			<a href="https://github.com/MahamadouIssaghaDiop">
+				<img src="https://avatars.githubusercontent.com/u/74509317?s=72&u=557d3380131fdb03d7338b6158bbf8d0e184ea3c&v=4" width="24" alt="Avatar of MahamadouIssaghaDiop"> MahamadouIssaghaDiop
+			</a><br/>
+			ISSAGHA DIOP
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dakar, Sénégal </td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -10143,19 +10143,6 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>773</td>
 		<td>
-			<a href="https://github.com/HozilDiallo">
-				<img src="https://avatars.githubusercontent.com/u/61289500?s=72&u=e0263c4350c5df57c2c68b293c4b464484f8a7a7&v=4" width="24" alt="Avatar of HozilDiallo"> HozilDiallo
-			</a><br/>
-			Hozil Diallo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ziguinchor, Senegal</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>774</td>
-		<td>
 			<a href="https://github.com/Boulette001">
 				<img src="https://avatars.githubusercontent.com/u/86269938?s=72&v=4" width="24" alt="Avatar of Boulette001"> Boulette001
 			</a><br/>
@@ -10164,6 +10151,19 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 		<td>Université Amadou Makhtar Mbow<br/>De<br/>Dakar<br/></td>
 		<td><a href="https://twitter.com/SidyNdiaye001">SidyNdiaye001</a></td>
 		<td>dakar,cité keur guorgui</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>774</td>
+		<td>
+			<a href="https://github.com/HozilDiallo">
+				<img src="https://avatars.githubusercontent.com/u/61289500?s=72&u=e0263c4350c5df57c2c68b293c4b464484f8a7a7&v=4" width="24" alt="Avatar of HozilDiallo"> HozilDiallo
+			</a><br/>
+			Hozil Diallo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ziguinchor, Senegal</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -10182,14 +10182,14 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>776</td>
 		<td>
-			<a href="https://github.com/Barrysira">
-				<img src="https://avatars.githubusercontent.com/u/95034052?s=72&v=4" width="24" alt="Avatar of Barrysira"> Barrysira
+			<a href="https://github.com/OusmaneCisse">
+				<img src="https://avatars.githubusercontent.com/u/52254918?s=72&u=7c8adb0b68fa3453aca005c42a9fcf85085c702e&v=4" width="24" alt="Avatar of OusmaneCisse"> OusmaneCisse
 			</a><br/>
-			barry 
+			Ousmane CISSE
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>dakar</td>
+		<td><a href="https://twitter.com/ousmane_6c">ousmane_6c</a></td>
+		<td>Dakar Senegal</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -10208,14 +10208,14 @@ There are `927 users`  in Senegal. You need at least `0 followers` to be on this
 	<tr>
 		<td>778</td>
 		<td>
-			<a href="https://github.com/OusmaneCisse">
-				<img src="https://avatars.githubusercontent.com/u/52254918?s=72&u=7c8adb0b68fa3453aca005c42a9fcf85085c702e&v=4" width="24" alt="Avatar of OusmaneCisse"> OusmaneCisse
+			<a href="https://github.com/Barrysira">
+				<img src="https://avatars.githubusercontent.com/u/95034052?s=72&v=4" width="24" alt="Avatar of Barrysira"> Barrysira
 			</a><br/>
-			Ousmane CISSE
+			barry 
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/ousmane_6c">ousmane_6c</a></td>
-		<td>Dakar Senegal</td>
+		<td>No Twitter Username</td>
+		<td>dakar</td>
 		<td>1</td>
 	</tr>
 	<tr>
