@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Bandera_de_Bolivia_%28Estado%29.svg" alt="Bolivia">
 </a>
 
-The `number of followers` of users in Bolivia on `2023/7/22 5:54 AM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
+The `number of followers` of users in Bolivia on `2023/7/22 10:45 PM UTC`. This list contains users from `Bolivia` and cities `La-paz` `Cochabamba` `Santa-cruz-de-la-sierra` `Sucre` `El-alto`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Senior Dev At @platzi<br/></td>
 		<td><a href="https://twitter.com/nicobytes">nicobytes</a></td>
 		<td>Cochabamba, Bolivia</td>
-		<td>1043</td>
+		<td>1044</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -219,7 +219,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Uagrm Student </td>
 		<td><a href="https://twitter.com/LPericena">LPericena</a></td>
 		<td>Bolivia, Santa Cruz</td>
-		<td>139</td>
+		<td>140</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -445,6 +445,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/pazteddy">
+				<img src="https://avatars.githubusercontent.com/u/2751139?s=72&v=4" width="24" alt="Avatar of pazteddy"> pazteddy
+			</a><br/>
+			Teddy Paz Muñoz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/Feliverse">
 				<img src="https://avatars.githubusercontent.com/u/114632980?s=72&u=8be727da595402a7f6c61019d259c3166d45387f&v=4" width="24" alt="Avatar of Feliverse"> Feliverse
 			</a><br/>
@@ -456,7 +469,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/socieboy">
 				<img src="https://avatars.githubusercontent.com/u/7442695?s=72&u=40d4cd2cd3ac73d488445f00d93a7dd80541b002&v=4" width="24" alt="Avatar of socieboy"> socieboy
@@ -467,19 +480,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td><a href="https://twitter.com/socieboy">socieboy</a></td>
 		<td>La Paz MX</td>
 		<td>58</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/pazteddy">
-				<img src="https://avatars.githubusercontent.com/u/2751139?s=72&v=4" width="24" alt="Avatar of pazteddy"> pazteddy
-			</a><br/>
-			Teddy Paz Muñoz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>57</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -939,6 +939,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>65</td>
 		<td>
+			<a href="https://github.com/Nelitaa">
+				<img src="https://avatars.githubusercontent.com/u/98427585?s=72&u=1930bccd6806d96293a52296dabd59cac4a76cb6&v=4" width="24" alt="Avatar of Nelitaa"> Nelitaa
+			</a><br/>
+			Marianela Muñoz Gutierrez
+		</td>
+		<td>Full-stack Developer </td>
+		<td><a href="https://twitter.com/MarianelaMunoz_">MarianelaMunoz_</a></td>
+		<td>Bolivia</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
 			<a href="https://github.com/devferx">
 				<img src="https://avatars.githubusercontent.com/u/37563836?s=72&u=69a5c17a0692c141fdde19fffc87cb1c20da9f55&v=4" width="24" alt="Avatar of devferx"> devferx
 			</a><br/>
@@ -950,7 +963,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/thomasboospegler">
 				<img src="https://avatars.githubusercontent.com/u/69267114?s=72&u=ff82485077a1ed9938715d11b994d5473b67b81d&v=4" width="24" alt="Avatar of thomasboospegler"> thomasboospegler
@@ -961,19 +974,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td><a href="https://twitter.com/thomasbpegler">thomasbpegler</a></td>
 		<td>Santa Cruz - Bolivia</td>
 		<td>33</td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>
-			<a href="https://github.com/Nelitaa">
-				<img src="https://avatars.githubusercontent.com/u/98427585?s=72&u=1930bccd6806d96293a52296dabd59cac4a76cb6&v=4" width="24" alt="Avatar of Nelitaa"> Nelitaa
-			</a><br/>
-			Marianela Muñoz Gutierrez
-		</td>
-		<td>Full-stack Developer </td>
-		<td><a href="https://twitter.com/MarianelaMunoz_">MarianelaMunoz_</a></td>
-		<td>Bolivia</td>
-		<td>32</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1537,6 +1537,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>111</td>
 		<td>
+			<a href="https://github.com/AndreaLaruta">
+				<img src="https://avatars.githubusercontent.com/u/42414128?s=72&u=974dbcd8e0f6ffaf100d8467fa999bab6fda3b4e&v=4" width="24" alt="Avatar of AndreaLaruta"> AndreaLaruta
+			</a><br/>
+			Andrea Geraldinne Laruta Coronel
+		</td>
+		<td>None </td>
+		<td><a href="https://twitter.com/AndreaG_Latina">AndreaG_Latina</a></td>
+		<td>Santa Cruz de la Sierra, Bolivia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td>
 			<a href="https://github.com/LeonardoADS08">
 				<img src="https://avatars.githubusercontent.com/u/12341837?s=72&u=431fec357d3fddb6299679f5b9d8709506bc33f0&v=4" width="24" alt="Avatar of LeonardoADS08"> LeonardoADS08
 			</a><br/>
@@ -1548,7 +1561,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/eigenwijsje">
 				<img src="https://avatars.githubusercontent.com/u/16598?s=72&u=c283d45e8c633340343c71881d5435b66bcbaf33&v=4" width="24" alt="Avatar of eigenwijsje"> eigenwijsje
@@ -1561,7 +1574,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/westc">
 				<img src="https://avatars.githubusercontent.com/u/704518?s=72&u=5534de02ee45fbf458faf1dcf48946ba2f4e82d8&v=4" width="24" alt="Avatar of westc"> westc
@@ -1574,7 +1587,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/paulgrimaldo">
 				<img src="https://avatars.githubusercontent.com/u/20879838?s=72&v=4" width="24" alt="Avatar of paulgrimaldo"> paulgrimaldo
@@ -1587,7 +1600,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/viniciusDSL">
 				<img src="https://avatars.githubusercontent.com/u/1631144?s=72&u=7539c462ccc00d670eabbabdf43ddd702766ae14&v=4" width="24" alt="Avatar of viniciusDSL"> viniciusDSL
@@ -1600,7 +1613,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/jorge8989">
 				<img src="https://avatars.githubusercontent.com/u/11651398?s=72&u=8b6f72ef6e32feee6c07f6e68127d432580c3f09&v=4" width="24" alt="Avatar of jorge8989"> jorge8989
@@ -1613,7 +1626,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/gnujavasergio">
 				<img src="https://avatars.githubusercontent.com/u/654790?s=72&u=5e7de3803d7696e2116914082fa6243509db1792&v=4" width="24" alt="Avatar of gnujavasergio"> gnujavasergio
@@ -1626,7 +1639,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/Andres2310">
 				<img src="https://avatars.githubusercontent.com/u/14057619?s=72&u=1f50c3fcf2a2679c5beff492b8b6f5b19633674f&v=4" width="24" alt="Avatar of Andres2310"> Andres2310
@@ -1639,7 +1652,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/alexpizarroj">
 				<img src="https://avatars.githubusercontent.com/u/3832027?s=72&u=36f44c02d53e49aaa5f0ee9426130f8daf6e928d&v=4" width="24" alt="Avatar of alexpizarroj"> alexpizarroj
@@ -1649,19 +1662,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Venmo </td>
 		<td>No Twitter Username</td>
 		<td>Santa Cruz, Bolivia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/AndreaLaruta">
-				<img src="https://avatars.githubusercontent.com/u/42414128?s=72&u=974dbcd8e0f6ffaf100d8467fa999bab6fda3b4e&v=4" width="24" alt="Avatar of AndreaLaruta"> AndreaLaruta
-			</a><br/>
-			Andrea Geraldinne Laruta Coronel
-		</td>
-		<td>None </td>
-		<td><a href="https://twitter.com/AndreaG_Latina">AndreaG_Latina</a></td>
-		<td>Santa Cruz de la Sierra, Bolivia</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -2343,6 +2343,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>173</td>
 		<td>
+			<a href="https://github.com/JohnnHidalgo">
+				<img src="https://avatars.githubusercontent.com/u/31965496?s=72&u=038ea0938ec70f379944212010e6f5c7cbdb0047&v=4" width="24" alt="Avatar of JohnnHidalgo"> JohnnHidalgo
+			</a><br/>
+			Johnn Hidalgo
+		</td>
+		<td>@gdglapaz @tedxucb </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
 			<a href="https://github.com/kevinvasquezb">
 				<img src="https://avatars.githubusercontent.com/u/66265089?s=72&u=2040cc95dd5bb8fbedcf6b103f71ba794477e6f4&v=4" width="24" alt="Avatar of kevinvasquezb"> kevinvasquezb
 			</a><br/>
@@ -2354,7 +2367,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/toitolucho">
 				<img src="https://avatars.githubusercontent.com/u/1872880?s=72&u=d98922fbf5db235d7add73a308d59a4da1573116&v=4" width="24" alt="Avatar of toitolucho"> toitolucho
@@ -2367,7 +2380,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/mamanipatricia">
 				<img src="https://avatars.githubusercontent.com/u/19600504?s=72&u=9d128c90797f931c781e6db0c77f0a4e9847fec3&v=4" width="24" alt="Avatar of mamanipatricia"> mamanipatricia
@@ -2380,7 +2393,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/NoemiNahomy">
 				<img src="https://avatars.githubusercontent.com/u/1789542?s=72&u=6871d2fd8e05b55139bc477924c4f817707a3f54&v=4" width="24" alt="Avatar of NoemiNahomy"> NoemiNahomy
@@ -2393,7 +2406,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/cahuayamarcial">
 				<img src="https://avatars.githubusercontent.com/u/30442018?s=72&u=9f660f74d58bccb6355f6157d31bce53667d74ef&v=4" width="24" alt="Avatar of cahuayamarcial"> cahuayamarcial
@@ -2406,7 +2419,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/ghaspaer">
 				<img src="https://avatars.githubusercontent.com/u/1524867?s=72&u=0ccfe4fa47e9d022ff105768d6fa19c18f624ab3&v=4" width="24" alt="Avatar of ghaspaer"> ghaspaer
@@ -2419,7 +2432,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/Only-IceSoul">
 				<img src="https://avatars.githubusercontent.com/u/42298808?s=72&u=c38be67997928d0434a64d29f7668a20e723cb6e&v=4" width="24" alt="Avatar of Only-IceSoul"> Only-IceSoul
@@ -2432,7 +2445,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/susyjam">
 				<img src="https://avatars.githubusercontent.com/u/7839719?s=72&u=7bcb04168d383f78ea583761dbd627365ab143cf&v=4" width="24" alt="Avatar of susyjam"> susyjam
@@ -2445,7 +2458,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/nubol23">
 				<img src="https://avatars.githubusercontent.com/u/28498396?s=72&u=e38f05c8309773473cfafc415f20e1fad39f41f2&v=4" width="24" alt="Avatar of nubol23"> nubol23
@@ -2458,7 +2471,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/elroir">
 				<img src="https://avatars.githubusercontent.com/u/55668932?s=72&v=4" width="24" alt="Avatar of elroir"> elroir
@@ -2468,19 +2481,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa cruz Bolivia</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
-			<a href="https://github.com/JohnnHidalgo">
-				<img src="https://avatars.githubusercontent.com/u/31965496?s=72&u=038ea0938ec70f379944212010e6f5c7cbdb0047&v=4" width="24" alt="Avatar of JohnnHidalgo"> JohnnHidalgo
-			</a><br/>
-			Johnn Hidalgo
-		</td>
-		<td>@gdglapaz @tedxucb </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -2499,6 +2499,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>185</td>
 		<td>
+			<a href="https://github.com/Rodrifer">
+				<img src="https://avatars.githubusercontent.com/u/126223?s=72&u=e3b2ebfe2cebb833db5e915e35cc4179944dee02&v=4" width="24" alt="Avatar of Rodrifer"> Rodrifer
+			</a><br/>
+			Rodrigo Soliz
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Rodri_fer">Rodri_fer</a></td>
+		<td>Cochabamba, Bolivia</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
 			<a href="https://github.com/OliverZulett">
 				<img src="https://avatars.githubusercontent.com/u/61068158?s=72&u=55295db9c544622fbbefb6bb486fc60fcc4c8ed7&v=4" width="24" alt="Avatar of OliverZulett"> OliverZulett
 			</a><br/>
@@ -2510,7 +2523,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/AnahiSU">
 				<img src="https://avatars.githubusercontent.com/u/81058245?s=72&u=0469a46925a57bdd9b34cca0b3960f2a32e3fa3c&v=4" width="24" alt="Avatar of AnahiSU"> AnahiSU
@@ -2523,7 +2536,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/AZMCode">
 				<img src="https://avatars.githubusercontent.com/u/15837568?s=72&v=4" width="24" alt="Avatar of AZMCode"> AZMCode
@@ -2536,7 +2549,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/dianacalizaya">
 				<img src="https://avatars.githubusercontent.com/u/96246255?s=72&u=c8e10643c664324e080db50dd2e2abc44b341b32&v=4" width="24" alt="Avatar of dianacalizaya"> dianacalizaya
@@ -2549,7 +2562,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/edgarinvillegas">
 				<img src="https://avatars.githubusercontent.com/u/255083?s=72&u=4ed312b706b784fb1c197cb7ce314df63932f1e1&v=4" width="24" alt="Avatar of edgarinvillegas"> edgarinvillegas
@@ -2562,7 +2575,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/abcussi">
 				<img src="https://avatars.githubusercontent.com/u/52175588?s=72&u=7260bfce1b785bac3ccbbded75c182e990edf21c&v=4" width="24" alt="Avatar of abcussi"> abcussi
@@ -2575,7 +2588,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/kurenai-ryu">
 				<img src="https://avatars.githubusercontent.com/u/11935858?s=72&u=60e1e1432549425d9371dfe58aa01bbba6a928aa&v=4" width="24" alt="Avatar of kurenai-ryu"> kurenai-ryu
@@ -2588,7 +2601,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/vacho">
 				<img src="https://avatars.githubusercontent.com/u/3926391?s=72&u=81a5ef26514652e821e6afb8e8f8fa91d8bd6511&v=4" width="24" alt="Avatar of vacho"> vacho
@@ -2601,7 +2614,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/kiranitor123">
 				<img src="https://avatars.githubusercontent.com/u/34452472?s=72&u=83cca1656ad9743cc10224085667ddf63d2a1a17&v=4" width="24" alt="Avatar of kiranitor123"> kiranitor123
@@ -2614,7 +2627,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/razorrazo">
 				<img src="https://avatars.githubusercontent.com/u/54737417?s=72&u=205b535df97d9a93b8af6c71ebd0218b0845f00c&v=4" width="24" alt="Avatar of razorrazo"> razorrazo
@@ -2627,7 +2640,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/Max-Power-7">
 				<img src="https://avatars.githubusercontent.com/u/53453234?s=72&u=8ffcea8610805b4b3d4130bc780415fe35f169fa&v=4" width="24" alt="Avatar of Max-Power-7"> Max-Power-7
@@ -2640,7 +2653,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/PabloGaspar">
 				<img src="https://avatars.githubusercontent.com/u/37420866?s=72&u=c6daf3666768b6d5f986afa21698c5e5613da2e7&v=4" width="24" alt="Avatar of PabloGaspar"> PabloGaspar
@@ -2653,7 +2666,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/Lin777">
 				<img src="https://avatars.githubusercontent.com/u/15729309?s=72&u=fa9c856e3e7ec980ac706f11ff9257142ad6d4db&v=4" width="24" alt="Avatar of Lin777"> Lin777
@@ -2666,7 +2679,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/alvaroiporre">
 				<img src="https://avatars.githubusercontent.com/u/15916000?s=72&u=7007672e5a1c1b4c441fdddebabe66a2ea748cbf&v=4" width="24" alt="Avatar of alvaroiporre"> alvaroiporre
@@ -2679,7 +2692,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/Ogreaggressive">
 				<img src="https://avatars.githubusercontent.com/u/89823564?s=72&u=6f31971dfc631e360555aea78b1ebe1fd9ff5dbc&v=4" width="24" alt="Avatar of Ogreaggressive"> Ogreaggressive
@@ -2692,7 +2705,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/itskreisler">
 				<img src="https://avatars.githubusercontent.com/u/55462768?s=72&u=30b01edc185aa7440a22a6e15cbe59b746d2c457&v=4" width="24" alt="Avatar of itskreisler"> itskreisler
@@ -2705,7 +2718,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/AllyOR">
 				<img src="https://avatars.githubusercontent.com/u/31754886?s=72&u=6e08d7cd8ad308cea9697cbf7ad6d7807601ff67&v=4" width="24" alt="Avatar of AllyOR"> AllyOR
@@ -2718,7 +2731,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/Fabbiologia">
 				<img src="https://avatars.githubusercontent.com/u/13567334?s=72&u=89f2e6b3d52bae279d0db5e84001fcd8c90db9c7&v=4" width="24" alt="Avatar of Fabbiologia"> Fabbiologia
@@ -2731,7 +2744,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/IsaiasMorochi">
 				<img src="https://avatars.githubusercontent.com/u/26234355?s=72&u=23304675cc276f2e0c351ba893e522aa0f222822&v=4" width="24" alt="Avatar of IsaiasMorochi"> IsaiasMorochi
@@ -2744,7 +2757,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/luifermoron">
 				<img src="https://avatars.githubusercontent.com/u/26443806?s=72&u=e7d4a7f0ef0d3760c8ebf695ee0f994e7e8902da&v=4" width="24" alt="Avatar of luifermoron"> luifermoron
@@ -2754,19 +2767,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/luifermoron">luifermoron</a></td>
 		<td>Santa Cruz Bolivia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
-			<a href="https://github.com/Rodrifer">
-				<img src="https://avatars.githubusercontent.com/u/126223?s=72&u=e3b2ebfe2cebb833db5e915e35cc4179944dee02&v=4" width="24" alt="Avatar of Rodrifer"> Rodrifer
-			</a><br/>
-			Rodrigo Soliz
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Rodri_fer">Rodri_fer</a></td>
-		<td>Cochabamba, Bolivia</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -3695,19 +3695,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>277</td>
 		<td>
-			<a href="https://github.com/jhonvidal">
-				<img src="https://avatars.githubusercontent.com/u/1105101?s=72&u=3eede5a03860058739ef54255c560bdda36a21a1&v=4" width="24" alt="Avatar of jhonvidal"> jhonvidal
-			</a><br/>
-			Jhon Ramiro Vidal Alvarez
-		</td>
-		<td>Binanova </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia-Santa Cruz</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>278</td>
-		<td>
 			<a href="https://github.com/jclaros">
 				<img src="https://avatars.githubusercontent.com/u/877155?s=72&v=4" width="24" alt="Avatar of jclaros"> jclaros
 			</a><br/>
@@ -3716,6 +3703,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>278</td>
+		<td>
+			<a href="https://github.com/jhonvidal">
+				<img src="https://avatars.githubusercontent.com/u/1105101?s=72&u=3eede5a03860058739ef54255c560bdda36a21a1&v=4" width="24" alt="Avatar of jhonvidal"> jhonvidal
+			</a><br/>
+			Jhon Ramiro Vidal Alvarez
+		</td>
+		<td>Binanova </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia-Santa Cruz</td>
 		<td>10</td>
 	</tr>
 	<tr>
@@ -4840,7 +4840,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>365</td>
 		<td>
 			<a href="https://github.com/dmendozal">
-				<img src="https://avatars.githubusercontent.com/u/32149661?s=72&u=99380dd4c0a8422301e5a930baed6af1cff5f2ff&v=4" width="24" alt="Avatar of dmendozal"> dmendozal
+				<img src="https://avatars.githubusercontent.com/u/32149661?s=72&u=6343674e5115d5f3ca3b424af9d04dcc0f5346f8&v=4" width="24" alt="Avatar of dmendozal"> dmendozal
 			</a><br/>
 			Daniel Mendoza
 		</td>
@@ -5034,14 +5034,14 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>380</td>
 		<td>
-			<a href="https://github.com/abrahamv">
-				<img src="https://avatars.githubusercontent.com/u/936217?s=72&v=4" width="24" alt="Avatar of abrahamv"> abrahamv
+			<a href="https://github.com/sinticbolivia">
+				<img src="https://avatars.githubusercontent.com/u/6933036?s=72&u=6e2bc39890795eb45a5eb6b9dac21dea845877be&v=4" width="24" alt="Avatar of sinticbolivia"> sinticbolivia
 			</a><br/>
-			abraham mamani veliz
+			Sintic Bolivia
 		</td>
-		<td>No Company</td>
+		<td>Sintic Bolivia </td>
 		<td>No Twitter Username</td>
-		<td>Bolivia</td>
+		<td>La Paz - Bolivia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -5060,14 +5060,14 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>382</td>
 		<td>
-			<a href="https://github.com/sinticbolivia">
-				<img src="https://avatars.githubusercontent.com/u/6933036?s=72&u=6e2bc39890795eb45a5eb6b9dac21dea845877be&v=4" width="24" alt="Avatar of sinticbolivia"> sinticbolivia
+			<a href="https://github.com/abrahamv">
+				<img src="https://avatars.githubusercontent.com/u/936217?s=72&v=4" width="24" alt="Avatar of abrahamv"> abrahamv
 			</a><br/>
-			Sintic Bolivia
+			abraham mamani veliz
 		</td>
-		<td>Sintic Bolivia </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
+		<td>Bolivia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -5138,19 +5138,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>388</td>
 		<td>
-			<a href="https://github.com/hernan-payrumani-mojix-com">
-				<img src="https://avatars.githubusercontent.com/u/8961528?s=72&v=4" width="24" alt="Avatar of hernan-payrumani-mojix-com"> hernan-payrumani-mojix-com
-			</a><br/>
-			Hernan Payrumani
-		</td>
-		<td>Mojix Inc. </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
 			<a href="https://github.com/albertomontellano">
 				<img src="https://avatars.githubusercontent.com/u/5679075?s=72&u=07ea69f0c14bcd2afda52f37d0c6e8409d11b6ee&v=4" width="24" alt="Avatar of albertomontellano"> albertomontellano
 			</a><br/>
@@ -5162,7 +5149,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/qennix">
 				<img src="https://avatars.githubusercontent.com/u/648998?s=72&v=4" width="24" alt="Avatar of qennix"> qennix
@@ -5170,6 +5157,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 			Enrique Ponce de Leon
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a href="https://github.com/hernan-payrumani-mojix-com">
+				<img src="https://avatars.githubusercontent.com/u/8961528?s=72&v=4" width="24" alt="Avatar of hernan-payrumani-mojix-com"> hernan-payrumani-mojix-com
+			</a><br/>
+			Hernan Payrumani
+		</td>
+		<td>Mojix Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>7</td>
@@ -5372,6 +5372,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>406</td>
 		<td>
+			<a href="https://github.com/henrytaby">
+				<img src="https://avatars.githubusercontent.com/u/410918?s=72&u=6c56c2b4e157990fcfe3529e7c4dbb3bfff06b75&v=4" width="24" alt="Avatar of henrytaby"> henrytaby
+			</a><br/>
+			Henry Taby
+		</td>
+		<td>Seth </td>
+		<td><a href="https://twitter.com/HenryTaby">HenryTaby</a></td>
+		<td>La Paz, Bolivia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>407</td>
+		<td>
 			<a href="https://github.com/devpablin">
 				<img src="https://avatars.githubusercontent.com/u/9709728?s=72&u=cc98786f6edf38bcf0c7eeec35ebac3b9e4f17ec&v=4" width="24" alt="Avatar of devpablin"> devpablin
 			</a><br/>
@@ -5380,19 +5393,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Laika </td>
 		<td><a href="https://twitter.com/devpablin">devpablin</a></td>
 		<td>La Paz, Bolivia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>407</td>
-		<td>
-			<a href="https://github.com/yalonso7">
-				<img src="https://avatars.githubusercontent.com/u/39344295?s=72&u=fa3ad3dac979fbf0d5a74f3f97d07f5b6c364f34&v=4" width="24" alt="Avatar of yalonso7"> yalonso7
-			</a><br/>
-			Yulian Alonso
-		</td>
-		<td>Classified </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz De La Sierra, Bolivia</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -6048,19 +6048,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>458</td>
 		<td>
-			<a href="https://github.com/ailinyan">
-				<img src="https://avatars.githubusercontent.com/u/40056357?s=72&u=913d127df0959e43dda46fbfba7dcd94906ed5d7&v=4" width="24" alt="Avatar of ailinyan"> ailinyan
-			</a><br/>
-			Alena
-		</td>
-		<td>北京邮电大学 </td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
 			<a href="https://github.com/jaiko92">
 				<img src="https://avatars.githubusercontent.com/u/14111379?s=72&u=ef8b631456f4e25481d231cb8b41d9cf2fea3c55&v=4" width="24" alt="Avatar of jaiko92"> jaiko92
 			</a><br/>
@@ -6069,6 +6056,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>la santisima trinidad bolivia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/ailinyan">
+				<img src="https://avatars.githubusercontent.com/u/40056357?s=72&u=913d127df0959e43dda46fbfba7dcd94906ed5d7&v=4" width="24" alt="Avatar of ailinyan"> ailinyan
+			</a><br/>
+			Alena
+		</td>
+		<td>北京邮电大学 </td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -6100,19 +6100,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>462</td>
 		<td>
-			<a href="https://github.com/willyfc">
-				<img src="https://avatars.githubusercontent.com/u/833073?s=72&u=c14e8438641663e8a2793d43c714050c868c82e8&v=4" width="24" alt="Avatar of willyfc"> willyfc
-			</a><br/>
-			Willans Flores Casivanis
-		</td>
-		<td>Mojo </td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz - Bolivia</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>463</td>
-		<td>
 			<a href="https://github.com/cristian-mamani-coderoad-com">
 				<img src="https://avatars.githubusercontent.com/u/19472759?s=72&u=9b579df135deb09880d9da39b7bd38d6e5df2a9d&v=4" width="24" alt="Avatar of cristian-mamani-coderoad-com"> cristian-mamani-coderoad-com
 			</a><br/>
@@ -6121,6 +6108,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Coderoad </td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>463</td>
+		<td>
+			<a href="https://github.com/willyfc">
+				<img src="https://avatars.githubusercontent.com/u/833073?s=72&u=c14e8438641663e8a2793d43c714050c868c82e8&v=4" width="24" alt="Avatar of willyfc"> willyfc
+			</a><br/>
+			Willans Flores Casivanis
+		</td>
+		<td>Mojo </td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz - Bolivia</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -6919,19 +6919,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>525</td>
 		<td>
-			<a href="https://github.com/PabloTPZ">
-				<img src="https://avatars.githubusercontent.com/u/21992894?s=72&u=f24f65856452c3e18ea247aeff1a67cd0f0e18f1&v=4" width="24" alt="Avatar of PabloTPZ"> PabloTPZ
-			</a><br/>
-			Pablo Perez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/pablo22546295">pablo22546295</a></td>
-		<td>Bolivia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>526</td>
-		<td>
 			<a href="https://github.com/loboaveces">
 				<img src="https://avatars.githubusercontent.com/u/84980330?s=72&u=62dc54015b4b1eef20a2e84b7ae7ee6beac44df9&v=4" width="24" alt="Avatar of loboaveces"> loboaveces
 			</a><br/>
@@ -6939,6 +6926,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/loboaveces">loboaveces</a></td>
+		<td>Bolivia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/PabloTPZ">
+				<img src="https://avatars.githubusercontent.com/u/21992894?s=72&u=f24f65856452c3e18ea247aeff1a67cd0f0e18f1&v=4" width="24" alt="Avatar of PabloTPZ"> PabloTPZ
+			</a><br/>
+			Pablo Perez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/pablo22546295">pablo22546295</a></td>
 		<td>Bolivia</td>
 		<td>5</td>
 	</tr>
@@ -7010,19 +7010,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>532</td>
 		<td>
-			<a href="https://github.com/poiesis-consulting">
-				<img src="https://avatars.githubusercontent.com/u/23106737?s=72&u=b0986bd6acb31c9a6343a26b799c433667376886&v=4" width="24" alt="Avatar of poiesis-consulting"> poiesis-consulting
-			</a><br/>
-			Poiesis Consulting
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bolivia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>533</td>
-		<td>
 			<a href="https://github.com/saturdaysailpz">
 				<img src="https://avatars.githubusercontent.com/u/56650979?s=72&u=984029db22987458b649fa33ce7af0dc918ca962&v=4" width="24" alt="Avatar of saturdaysailpz"> saturdaysailpz
 			</a><br/>
@@ -7034,20 +7021,20 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>533</td>
 		<td>
-			<a href="https://github.com/ClauACh">
-				<img src="https://avatars.githubusercontent.com/u/11495866?s=72&u=6ebcd9d83d8599984d5f0a58cfeacbed86ca3c34&v=4" width="24" alt="Avatar of ClauACh"> ClauACh
+			<a href="https://github.com/poiesis-consulting">
+				<img src="https://avatars.githubusercontent.com/u/23106737?s=72&u=b0986bd6acb31c9a6343a26b799c433667376886&v=4" width="24" alt="Avatar of poiesis-consulting"> poiesis-consulting
 			</a><br/>
-			No Name
+			Poiesis Consulting
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
+		<td>Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/JGuillermoCST">
 				<img src="https://avatars.githubusercontent.com/u/43872524?s=72&u=c9f02554cffbcd22a069ebca3c565b78ed0fe4ed&v=4" width="24" alt="Avatar of JGuillermoCST"> JGuillermoCST
@@ -7057,6 +7044,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/JGuillermoCST">JGuillermoCST</a></td>
 		<td>La Paz, Baja California Sur</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/ClauACh">
+				<img src="https://avatars.githubusercontent.com/u/11495866?s=72&u=6ebcd9d83d8599984d5f0a58cfeacbed86ca3c34&v=4" width="24" alt="Avatar of ClauACh"> ClauACh
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>La Paz, Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -7153,14 +7153,14 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>543</td>
 		<td>
-			<a href="https://github.com/luisfernandoch">
-				<img src="https://avatars.githubusercontent.com/u/38234277?s=72&v=4" width="24" alt="Avatar of luisfernandoch"> luisfernandoch
+			<a href="https://github.com/Byjhos">
+				<img src="https://avatars.githubusercontent.com/u/33426794?s=72&u=24379a84ccd3020e7e0c8704f487ad18c0d03e6c&v=4" width="24" alt="Avatar of Byjhos"> Byjhos
 			</a><br/>
-			Luis Fernando Choque Arana
+			José Luis
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>La Paz, Bolivia</td>
+		<td>Oruro - Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -7179,14 +7179,14 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>545</td>
 		<td>
-			<a href="https://github.com/Byjhos">
-				<img src="https://avatars.githubusercontent.com/u/33426794?s=72&u=24379a84ccd3020e7e0c8704f487ad18c0d03e6c&v=4" width="24" alt="Avatar of Byjhos"> Byjhos
+			<a href="https://github.com/luisfernandoch">
+				<img src="https://avatars.githubusercontent.com/u/38234277?s=72&v=4" width="24" alt="Avatar of luisfernandoch"> luisfernandoch
 			</a><br/>
-			José Luis
+			Luis Fernando Choque Arana
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Oruro - Bolivia</td>
+		<td>La Paz, Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -7231,6 +7231,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>549</td>
 		<td>
+			<a href="https://github.com/marianita124">
+				<img src="https://avatars.githubusercontent.com/u/78821704?s=72&u=00cdf59a6a56207e4a30920aadd69fb7c7e3c81a&v=4" width="24" alt="Avatar of marianita124"> marianita124
+			</a><br/>
+			Mariana Hurtado
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz, Bolivia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
 			<a href="https://github.com/charlie00788">
 				<img src="https://avatars.githubusercontent.com/u/9145034?s=72&v=4" width="24" alt="Avatar of charlie00788"> charlie00788
 			</a><br/>
@@ -7242,7 +7255,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/cochabambinoski">
 				<img src="https://avatars.githubusercontent.com/u/49800867?s=72&u=10b56b0180f60d02acd1754f9d46d50f2122be6c&v=4" width="24" alt="Avatar of cochabambinoski"> cochabambinoski
@@ -7252,19 +7265,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Freelance Full-stack Developer </td>
 		<td>No Twitter Username</td>
 		<td>Cochabamba-Bolivia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>551</td>
-		<td>
-			<a href="https://github.com/marianita124">
-				<img src="https://avatars.githubusercontent.com/u/78821704?s=72&u=00cdf59a6a56207e4a30920aadd69fb7c7e3c81a&v=4" width="24" alt="Avatar of marianita124"> marianita124
-			</a><br/>
-			Mariana Hurtado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz, Bolivia</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -7725,19 +7725,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>587</td>
 		<td>
-			<a href="https://github.com/finguer">
-				<img src="https://avatars.githubusercontent.com/u/6179776?s=72&u=322b6096ade9dba10b5b671940436262981edf91&v=4" width="24" alt="Avatar of finguer"> finguer
-			</a><br/>
-			finguer
-		</td>
-		<td>Kplian, Disydes </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>588</td>
-		<td>
 			<a href="https://github.com/Davp94">
 				<img src="https://avatars.githubusercontent.com/u/22361322?s=72&u=284375c65099290f12e18253b6c964f8ba277420&v=4" width="24" alt="Avatar of Davp94"> Davp94
 			</a><br/>
@@ -7749,7 +7736,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/marcos-x86">
 				<img src="https://avatars.githubusercontent.com/u/12157902?s=72&u=1c160ddc5d1315a18a4c828a307d19d5f75301fc&v=4" width="24" alt="Avatar of marcos-x86"> marcos-x86
@@ -7762,7 +7749,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/phanzr">
 				<img src="https://avatars.githubusercontent.com/u/17005650?s=72&u=fee1e554168c8c13003bf644e0c100b491eb8a26&v=4" width="24" alt="Avatar of phanzr"> phanzr
@@ -7775,7 +7762,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/FerchoGuzmanValverde">
 				<img src="https://avatars.githubusercontent.com/u/50415144?s=72&u=62cfdcf5c09f8db80087acf9a1f07ef16adb42b6&v=4" width="24" alt="Avatar of FerchoGuzmanValverde"> FerchoGuzmanValverde
@@ -7788,7 +7775,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/Mauro8500">
 				<img src="https://avatars.githubusercontent.com/u/26882415?s=72&u=5b6b4c1f82c99dbfcd9ba0dba4286b3b09b635ae&v=4" width="24" alt="Avatar of Mauro8500"> Mauro8500
@@ -7801,7 +7788,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/abidantriguero">
 				<img src="https://avatars.githubusercontent.com/u/68916047?s=72&u=8ab416b568f1c4e7355bffc5bfae41ec44113301&v=4" width="24" alt="Avatar of abidantriguero"> abidantriguero
@@ -7814,7 +7801,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/jimialex">
 				<img src="https://avatars.githubusercontent.com/u/5096929?s=72&u=d8c80f44959aaa66fc1002cdda9fe1da39fae1a1&v=4" width="24" alt="Avatar of jimialex"> jimialex
@@ -7824,6 +7811,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Alex C. </td>
 		<td><a href="https://twitter.com/axeljim_06">axeljim_06</a></td>
 		<td>la paz, bolivia</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>594</td>
+		<td>
+			<a href="https://github.com/DanielCamSan">
+				<img src="https://avatars.githubusercontent.com/u/45604840?s=72&u=873d3974918946547aa05cbe3f98c8eb73da52a8&v=4" width="24" alt="Avatar of DanielCamSan"> DanielCamSan
+			</a><br/>
+			Daniel Camacho Santa Cruz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -8193,19 +8193,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>623</td>
 		<td>
-			<a href="https://github.com/renatahr">
-				<img src="https://avatars.githubusercontent.com/u/74552919?s=72&u=f7dd4400eae0e3be0ae236fd2ee7eb363ab89691&v=4" width="24" alt="Avatar of renatahr"> renatahr
-			</a><br/>
-			Renata Saucedo Melgar
-		</td>
-		<td>Code Fabric </td>
-		<td>No Twitter Username</td>
-		<td>scz, Bolivia</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>624</td>
-		<td>
 			<a href="https://github.com/AcEvEdoC">
 				<img src="https://avatars.githubusercontent.com/u/59456214?s=72&u=2e1d21a239fb01e6e2fce6f6e38dafe7bf59e1ec&v=4" width="24" alt="Avatar of AcEvEdoC"> AcEvEdoC
 			</a><br/>
@@ -8214,6 +8201,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>La paz B.C.S.  Mexico</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/renatahr">
+				<img src="https://avatars.githubusercontent.com/u/74552919?s=72&u=f7dd4400eae0e3be0ae236fd2ee7eb363ab89691&v=4" width="24" alt="Avatar of renatahr"> renatahr
+			</a><br/>
+			Renata Saucedo Melgar
+		</td>
+		<td>Code Fabric </td>
+		<td>No Twitter Username</td>
+		<td>scz, Bolivia</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -8648,19 +8648,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>658</td>
 		<td>
-			<a href="https://github.com/srodrigo23">
-				<img src="https://avatars.githubusercontent.com/u/7539078?s=72&u=37f43506a98ddb42a29c85730b82f68783b22a4a&v=4" width="24" alt="Avatar of srodrigo23"> srodrigo23
-			</a><br/>
-			Sergio Rodrigo
-		</td>
-		<td>Remote Home </td>
-		<td>No Twitter Username</td>
-		<td>Cochabamba, Bolivia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>659</td>
-		<td>
 			<a href="https://github.com/loginweb-dev">
 				<img src="https://avatars.githubusercontent.com/u/45406884?s=72&u=bc3e40ae2ec2f2857a2beaeb8674f282ca05f68e&v=4" width="24" alt="Avatar of loginweb-dev"> loginweb-dev
 			</a><br/>
@@ -8669,6 +8656,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Loginweb 2020 </td>
 		<td>No Twitter Username</td>
 		<td>Santísima Tinidad - Beni - Bolivia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>659</td>
+		<td>
+			<a href="https://github.com/srodrigo23">
+				<img src="https://avatars.githubusercontent.com/u/7539078?s=72&u=37f43506a98ddb42a29c85730b82f68783b22a4a&v=4" width="24" alt="Avatar of srodrigo23"> srodrigo23
+			</a><br/>
+			Sergio Rodrigo
+		</td>
+		<td>Remote Home </td>
+		<td>No Twitter Username</td>
+		<td>Cochabamba, Bolivia</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -8804,6 +8804,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>670</td>
 		<td>
+			<a href="https://github.com/MaxFSP">
+				<img src="https://avatars.githubusercontent.com/u/72162955?s=72&u=08b20db3f725e916c7ee069f349f69f27d6591f8&v=4" width="24" alt="Avatar of MaxFSP"> MaxFSP
+			</a><br/>
+			Maximiliano Farfan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la Sierra</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>671</td>
+		<td>
 			<a href="https://github.com/LFAUMSA">
 				<img src="https://avatars.githubusercontent.com/u/101900012?s=72&u=7f9b652dff9303a92430e99e7fa461c3cb61e938&v=4" width="24" alt="Avatar of LFAUMSA"> LFAUMSA
 			</a><br/>
@@ -8815,7 +8828,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/farias-hecdin">
 				<img src="https://avatars.githubusercontent.com/u/54963296?s=72&u=6baf1840bc03994c0c525f030e6fdc78895a1e9e&v=4" width="24" alt="Avatar of farias-hecdin"> farias-hecdin
@@ -8825,19 +8838,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sucre, Venezuela</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>672</td>
-		<td>
-			<a href="https://github.com/MaxFSP">
-				<img src="https://avatars.githubusercontent.com/u/72162955?s=72&u=08b20db3f725e916c7ee069f349f69f27d6591f8&v=4" width="24" alt="Avatar of MaxFSP"> MaxFSP
-			</a><br/>
-			Maximiliano Farfan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la Sierra</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -9532,19 +9532,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>726</td>
 		<td>
-			<a href="https://github.com/obemauricio">
-				<img src="https://avatars.githubusercontent.com/u/54610723?s=72&u=0301b5eeb54c95678347f033b8c9fee1293f0d45&v=4" width="24" alt="Avatar of obemauricio"> obemauricio
-			</a><br/>
-			Mauricio Obe
-		</td>
-		<td>Santa Cruz Exchange </td>
-		<td><a href="https://twitter.com/obemauricio">obemauricio</a></td>
-		<td>Santa Cruz, Bolivia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>727</td>
-		<td>
 			<a href="https://github.com/Tukkaz">
 				<img src="https://avatars.githubusercontent.com/u/7467699?s=72&u=5f047db0e0b27c0e6c2f12cf5b61d0d3a9d816f3&v=4" width="24" alt="Avatar of Tukkaz"> Tukkaz
 			</a><br/>
@@ -9556,7 +9543,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/estudioChispa">
 				<img src="https://avatars.githubusercontent.com/u/12258327?s=72&u=0c021f99af79cd118b1f3f3c24b5b6a3f603e4d3&v=4" width="24" alt="Avatar of estudioChispa"> estudioChispa
@@ -9566,6 +9553,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>Estudio Chispa </td>
 		<td>No Twitter Username</td>
 		<td>La Paz, Baja California Sur, Mexico</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>728</td>
+		<td>
+			<a href="https://github.com/obemauricio">
+				<img src="https://avatars.githubusercontent.com/u/54610723?s=72&u=0301b5eeb54c95678347f033b8c9fee1293f0d45&v=4" width="24" alt="Avatar of obemauricio"> obemauricio
+			</a><br/>
+			Mauricio Obe
+		</td>
+		<td>Santa Cruz Exchange </td>
+		<td><a href="https://twitter.com/obemauricio">obemauricio</a></td>
+		<td>Santa Cruz, Bolivia</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -9753,19 +9753,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>743</td>
 		<td>
-			<a href="https://github.com/cristhian25101992">
-				<img src="https://avatars.githubusercontent.com/u/2714585?s=72&u=181ea578b8bb9f72207853375927e8cd6ee3aece&v=4" width="24" alt="Avatar of cristhian25101992"> cristhian25101992
-			</a><br/>
-			Cristhian Renfijo Condori
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Santa Cruz de la sierra</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>744</td>
-		<td>
 			<a href="https://github.com/MEGAtronica-ecu">
 				<img src="https://avatars.githubusercontent.com/u/56449337?s=72&u=321c1a61fa4e85eb8850bb03368efd73aef2bd86&v=4" width="24" alt="Avatar of MEGAtronica-ecu"> MEGAtronica-ecu
 			</a><br/>
@@ -9774,6 +9761,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Quito, Av. Mariscal Sucre S10-401 y Fco. San Miguel</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>744</td>
+		<td>
+			<a href="https://github.com/cristhian25101992">
+				<img src="https://avatars.githubusercontent.com/u/2714585?s=72&u=181ea578b8bb9f72207853375927e8cd6ee3aece&v=4" width="24" alt="Avatar of cristhian25101992"> cristhian25101992
+			</a><br/>
+			Cristhian Renfijo Condori
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Santa Cruz de la sierra</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -11131,6 +11131,19 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>849</td>
 		<td>
+			<a href="https://github.com/Tsubasa1001">
+				<img src="https://avatars.githubusercontent.com/u/49914377?s=72&u=6eede6a1a96e8d580c22a0261be86c4df114c181&v=4" width="24" alt="Avatar of Tsubasa1001"> Tsubasa1001
+			</a><br/>
+			sariahlopez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bolivia, Santa Cruz de la Sierra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>850</td>
+		<td>
 			<a href="https://github.com/nsrichard">
 				<img src="https://avatars.githubusercontent.com/u/5419715?s=72&v=4" width="24" alt="Avatar of nsrichard"> nsrichard
 			</a><br/>
@@ -11142,7 +11155,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>851</td>
 		<td>
 			<a href="https://github.com/kardon-14">
 				<img src="https://avatars.githubusercontent.com/u/65569360?s=72&u=67244d770b66959afc456a1ff7ee3e1522dd385e&v=4" width="24" alt="Avatar of kardon-14"> kardon-14
@@ -11155,7 +11168,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/Miler-arch">
 				<img src="https://avatars.githubusercontent.com/u/70447378?s=72&u=1991e8721de7b4e0b78395aaed969ceebdc641a7&v=4" width="24" alt="Avatar of Miler-arch"> Miler-arch
@@ -11168,7 +11181,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/Coralinex8">
 				<img src="https://avatars.githubusercontent.com/u/65187660?s=72&v=4" width="24" alt="Avatar of Coralinex8"> Coralinex8
@@ -11181,7 +11194,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/ShoarSumi">
 				<img src="https://avatars.githubusercontent.com/u/35211349?s=72&u=9f5964e78362577ce06ee7ce2546ef0c6a69dd41&v=4" width="24" alt="Avatar of ShoarSumi"> ShoarSumi
@@ -11194,7 +11207,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/lanortizv">
 				<img src="https://avatars.githubusercontent.com/u/11711940?s=72&u=b84c647b63daa39a222751d38b6a53ba75a1b01f&v=4" width="24" alt="Avatar of lanortizv"> lanortizv
@@ -11207,7 +11220,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/qellawawa">
 				<img src="https://avatars.githubusercontent.com/u/5291079?s=72&u=f2a639c056a31dc2e1090ee7362b0cf675922e4f&v=4" width="24" alt="Avatar of qellawawa"> qellawawa
@@ -11220,7 +11233,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/valeriaflores10">
 				<img src="https://avatars.githubusercontent.com/u/102979904?s=72&u=c066b0170b017117ac86adf9295ac425a92fa68f&v=4" width="24" alt="Avatar of valeriaflores10"> valeriaflores10
@@ -11233,7 +11246,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>857</td>
+		<td>858</td>
 		<td>
 			<a href="https://github.com/Viktor177">
 				<img src="https://avatars.githubusercontent.com/u/7475857?s=72&u=f3df4647e8a51e34a812df4d052c7fd73ab4fd6e&v=4" width="24" alt="Avatar of Viktor177"> Viktor177
@@ -11246,7 +11259,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/exiach">
 				<img src="https://avatars.githubusercontent.com/u/2590160?s=72&v=4" width="24" alt="Avatar of exiach"> exiach
@@ -11259,7 +11272,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/ivancho98">
 				<img src="https://avatars.githubusercontent.com/u/2394522?s=72&u=70e4ae857fe261e9dc325236a630cb970a28e707&v=4" width="24" alt="Avatar of ivancho98"> ivancho98
@@ -11272,7 +11285,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>860</td>
+		<td>861</td>
 		<td>
 			<a href="https://github.com/manuvelasc0">
 				<img src="https://avatars.githubusercontent.com/u/52538408?s=72&u=bbe5ea92ef8e219b6eb91379da07c3d83021ecda&v=4" width="24" alt="Avatar of manuvelasc0"> manuvelasc0
@@ -11285,7 +11298,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>861</td>
+		<td>862</td>
 		<td>
 			<a href="https://github.com/CB-Mdk">
 				<img src="https://avatars.githubusercontent.com/u/75135631?s=72&u=38e0394ed0263399b4f09f4153c122afb45bd75a&v=4" width="24" alt="Avatar of CB-Mdk"> CB-Mdk
@@ -11298,7 +11311,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>862</td>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/oamelunge">
 				<img src="https://avatars.githubusercontent.com/u/2452780?s=72&u=cdb27009d3cad51ae9ee0e0498b0082f89c4b07f&v=4" width="24" alt="Avatar of oamelunge"> oamelunge
@@ -11311,7 +11324,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/Marcelo0920">
 				<img src="https://avatars.githubusercontent.com/u/45415232?s=72&v=4" width="24" alt="Avatar of Marcelo0920"> Marcelo0920
@@ -11324,7 +11337,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>864</td>
+		<td>865</td>
 		<td>
 			<a href="https://github.com/cristozz">
 				<img src="https://avatars.githubusercontent.com/u/6947041?s=72&u=b30cd485c58ec7917d9bd5786ba2646cf9240144&v=4" width="24" alt="Avatar of cristozz"> cristozz
@@ -11337,7 +11350,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>865</td>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/PitaluaDev">
 				<img src="https://avatars.githubusercontent.com/u/5733379?s=72&u=c7a31ea305d904df4f84630a9659bd5d9fc19866&v=4" width="24" alt="Avatar of PitaluaDev"> PitaluaDev
@@ -11350,7 +11363,7 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>866</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/Ciberbull123">
 				<img src="https://avatars.githubusercontent.com/u/5958258?s=72&v=4" width="24" alt="Avatar of Ciberbull123"> Ciberbull123
@@ -11360,19 +11373,6 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>867</td>
-		<td>
-			<a href="https://github.com/eddycael">
-				<img src="https://avatars.githubusercontent.com/u/2613716?s=72&v=4" width="24" alt="Avatar of eddycael"> eddycael
-			</a><br/>
-			Eddy Cael Mamani Canaviri
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>La Paz - Bolivia</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -11664,14 +11664,14 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>890</td>
 		<td>
-			<a href="https://github.com/leimurillo">
-				<img src="https://avatars.githubusercontent.com/u/48791530?s=72&v=4" width="24" alt="Avatar of leimurillo"> leimurillo
+			<a href="https://github.com/elver-vasquez">
+				<img src="https://avatars.githubusercontent.com/u/9161076?s=72&u=1a0f3cd8f698a1092581e5b6160aa2355237266b&v=4" width="24" alt="Avatar of elver-vasquez"> elver-vasquez
 			</a><br/>
-			Leidys_Murillo
+			elver henry vasquez segales
 		</td>
-		<td>Universidad De Sucre </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Sucre, Colombia</td>
+		<td>ORURO BOLIVIA</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -12106,12 +12106,12 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>924</td>
 		<td>
-			<a href="https://github.com/luuchhoo">
-				<img src="https://avatars.githubusercontent.com/u/34831?s=72&v=4" width="24" alt="Avatar of luuchhoo"> luuchhoo
+			<a href="https://github.com/abelrgr">
+				<img src="https://avatars.githubusercontent.com/u/1250071?s=72&v=4" width="24" alt="Avatar of abelrgr"> abelrgr
 			</a><br/>
-			Luis Linares
+			Abel
 		</td>
-		<td>Ahayo </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>2</td>
@@ -12119,12 +12119,12 @@ There are `981 users`  in Bolivia. You need at least `2 followers` to be on this
 	<tr>
 		<td>925</td>
 		<td>
-			<a href="https://github.com/abelrgr">
-				<img src="https://avatars.githubusercontent.com/u/1250071?s=72&v=4" width="24" alt="Avatar of abelrgr"> abelrgr
+			<a href="https://github.com/luuchhoo">
+				<img src="https://avatars.githubusercontent.com/u/34831?s=72&v=4" width="24" alt="Avatar of luuchhoo"> luuchhoo
 			</a><br/>
-			Abel
+			Luis Linares
 		</td>
-		<td>No Company</td>
+		<td>Ahayo </td>
 		<td>No Twitter Username</td>
 		<td>Bolivia</td>
 		<td>2</td>
