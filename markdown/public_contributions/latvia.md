@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg" alt="Latvia">
 </a>
 
-The `public contributions` by users in Latvia on `2023/7/23 10:03 PM UTC`. This list contains users from `Latvia` and cities `Riga` `Daugavpils` `Liepāja` `Jūrmala` `Ventspils` `Jelgava` `Cēsis`.
+The `public contributions` by users in Latvia on `2023/7/24 3:02 PM UTC`. This list contains users from `Latvia` and cities `Riga` `Daugavpils` `Liepāja` `Jūrmala` `Ventspils` `Jelgava` `Cēsis`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -167,7 +167,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>@countly  </td>
 		<td><a href="https://twitter.com/ar2rsawseen">ar2rsawseen</a></td>
 		<td>Latvia</td>
-		<td>1326</td>
+		<td>1327</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -193,7 +193,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Latvia</td>
-		<td>1282</td>
+		<td>1283</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Latvia, Riga</td>
-		<td>1232</td>
+		<td>1241</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -245,7 +245,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/obj583">obj583</a></td>
 		<td>Latvia</td>
-		<td>1061</td>
+		<td>1066</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,7 +258,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>Skandinaviska Enskilda Banken Ab<br/></td>
 		<td>No Twitter Username</td>
 		<td>Riga, Latvia</td>
-		<td>992</td>
+		<td>997</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Riga</td>
-		<td>901</td>
+		<td>902</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -297,7 +297,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>@whitedigital-eu  </td>
 		<td>No Twitter Username</td>
 		<td>Rīga, Latvia</td>
-		<td>875</td>
+		<td>878</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -393,6 +393,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>23</td>
 		<td>
+			<a href="https://github.com/slikts">
+				<img src="https://avatars.githubusercontent.com/u/137872?s=72&u=0bdb3ce028b11574fa9acb8c59da97125795c920&v=4" width="24" alt="Avatar of slikts"> slikts
+			</a><br/>
+			Reinis Ivanovs
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nelabs_dev">nelabs_dev</a></td>
+		<td>Riga, Latvia</td>
+		<td>673</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
 			<a href="https://github.com/tontonsb">
 				<img src="https://avatars.githubusercontent.com/u/16481303?s=72&u=5ecdb75b2aae048e9fc3c6f336b920cd4dd2d940&v=4" width="24" alt="Avatar of tontonsb"> tontonsb
 			</a><br/>
@@ -402,19 +415,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td><a href="https://twitter.com/tontonsb">tontonsb</a></td>
 		<td>Riga, LV</td>
 		<td>668</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/slikts">
-				<img src="https://avatars.githubusercontent.com/u/137872?s=72&u=0bdb3ce028b11574fa9acb8c59da97125795c920&v=4" width="24" alt="Avatar of slikts"> slikts
-			</a><br/>
-			Reinis Ivanovs
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nelabs_dev">nelabs_dev</a></td>
-		<td>Riga, Latvia</td>
-		<td>656</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -531,7 +531,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>@healthchecks  </td>
 		<td><a href="https://twitter.com/cuu508">cuu508</a></td>
 		<td>Valmiera, Latvia</td>
-		<td>537</td>
+		<td>538</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -596,7 +596,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Latvia</td>
-		<td>485</td>
+		<td>492</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -609,7 +609,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>@multiplayerpiano & @lapishusky </td>
 		<td>No Twitter Username</td>
 		<td>Latvia, Cesis, Rigas iela 8</td>
-		<td>481</td>
+		<td>486</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -752,7 +752,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>@ctco </td>
 		<td>No Twitter Username</td>
 		<td>Riga</td>
-		<td>380</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -934,7 +934,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>@jitbit </td>
 		<td><a href="https://twitter.com/jitbit">jitbit</a></td>
 		<td>Latvia</td>
-		<td>305</td>
+		<td>306</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1238,6 +1238,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/klesun">
+				<img src="https://avatars.githubusercontent.com/u/5202330?s=72&u=43701dbe54075c7e5da2637100654f7b243be949&v=4" width="24" alt="Avatar of klesun"> klesun
+			</a><br/>
+			Artur Klesun
+		</td>
+		<td>Klesun-productions </td>
+		<td>No Twitter Username</td>
+		<td>Riga</td>
+		<td>188</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/acirulis">
 				<img src="https://avatars.githubusercontent.com/u/27766961?s=72&u=14fac08ca27cb765b5ed1f7cc71425e555c1aa86&v=4" width="24" alt="Avatar of acirulis"> acirulis
 			</a><br/>
@@ -1249,7 +1262,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/ncla">
 				<img src="https://avatars.githubusercontent.com/u/5507083?s=72&u=dbb71615a17b079896deb9b435a7df3abb39ce86&v=4" width="24" alt="Avatar of ncla"> ncla
@@ -1262,7 +1275,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/lakiboy">
 				<img src="https://avatars.githubusercontent.com/u/1089265?s=72&u=47a72cb1ba040bd664ce179c913aebbd399c958c&v=4" width="24" alt="Avatar of lakiboy"> lakiboy
@@ -1275,7 +1288,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/likhner">
 				<img src="https://avatars.githubusercontent.com/u/60031799?s=72&u=f952ed390a0b4aeec7f682ea7b3446db7478cb49&v=4" width="24" alt="Avatar of likhner"> likhner
@@ -1288,7 +1301,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/vbarzana">
 				<img src="https://avatars.githubusercontent.com/u/3055285?s=72&u=05bc409abde602b71e685fc5c7bf20da6e6cc3b9&v=4" width="24" alt="Avatar of vbarzana"> vbarzana
@@ -1301,7 +1314,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/YuraKolesnikov">
 				<img src="https://avatars.githubusercontent.com/u/28485518?s=72&u=0dd3e417b9afdf5cebc630e8a5bdf4b031a4a5b9&v=4" width="24" alt="Avatar of YuraKolesnikov"> YuraKolesnikov
@@ -1314,7 +1327,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/GintsM">
 				<img src="https://avatars.githubusercontent.com/u/88575586?s=72&u=28496c98017547225303e348551280edeb9480dc&v=4" width="24" alt="Avatar of GintsM"> GintsM
@@ -1327,7 +1340,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/Edgars-Cirulis">
 				<img src="https://avatars.githubusercontent.com/u/58264013?s=72&u=9d97753186972c02c317448f03da017ea9d18761&v=4" width="24" alt="Avatar of Edgars-Cirulis"> Edgars-Cirulis
@@ -1340,7 +1353,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/valters-tomsons">
 				<img src="https://avatars.githubusercontent.com/u/4209639?s=72&u=45a18ab9c1fa24176e4987f1c271f8adbcc4f7c4&v=4" width="24" alt="Avatar of valters-tomsons"> valters-tomsons
@@ -1353,7 +1366,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/CodedSakura">
 				<img src="https://avatars.githubusercontent.com/u/23125996?s=72&u=a8e515568042605bd9571d2811b7f2cd11dfb7e6&v=4" width="24" alt="Avatar of CodedSakura"> CodedSakura
@@ -1366,7 +1379,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/klappscheinwerfer">
 				<img src="https://avatars.githubusercontent.com/u/75024514?s=72&u=81bd351cbcbb6c265936b69bcb9bc3804868a2da&v=4" width="24" alt="Avatar of klappscheinwerfer"> klappscheinwerfer
@@ -1379,7 +1392,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/NickEU">
 				<img src="https://avatars.githubusercontent.com/u/8581973?s=72&u=7353a148d7f4176a7ea3722c7d145afcea37897c&v=4" width="24" alt="Avatar of NickEU"> NickEU
@@ -1390,19 +1403,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Riga, Latvia</td>
 		<td>169</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
-			<a href="https://github.com/klesun">
-				<img src="https://avatars.githubusercontent.com/u/5202330?s=72&u=43701dbe54075c7e5da2637100654f7b243be949&v=4" width="24" alt="Avatar of klesun"> klesun
-			</a><br/>
-			Artur Klesun
-		</td>
-		<td>Klesun-productions </td>
-		<td>No Twitter Username</td>
-		<td>Riga</td>
-		<td>168</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1641,6 +1641,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>119</td>
 		<td>
+			<a href="https://github.com/martinszeltins">
+				<img src="https://avatars.githubusercontent.com/u/34019878?s=72&u=36b8586b387ad75d7910db1ba4d00b0f6ab29f14&v=4" width="24" alt="Avatar of martinszeltins"> martinszeltins
+			</a><br/>
+			Martins
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Riga, Latvia</td>
+		<td>143</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
 			<a href="https://github.com/RealTriassic">
 				<img src="https://avatars.githubusercontent.com/u/40073455?s=72&u=7e9bea4e80532072c0b364e13bd334a0f618848d&v=4" width="24" alt="Avatar of RealTriassic"> RealTriassic
 			</a><br/>
@@ -1652,25 +1665,12 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/aldis-ameriks">
 				<img src="https://avatars.githubusercontent.com/u/25861734?s=72&u=16f4a234eec20b50e7463fbcba5503e93ec807dc&v=4" width="24" alt="Avatar of aldis-ameriks"> aldis-ameriks
 			</a><br/>
 			Aldis Ameriks
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Riga, Latvia</td>
-		<td>141</td>
-	</tr>
-	<tr>
-		<td>121</td>
-		<td>
-			<a href="https://github.com/martinszeltins">
-				<img src="https://avatars.githubusercontent.com/u/34019878?s=72&u=36b8586b387ad75d7910db1ba4d00b0f6ab29f14&v=4" width="24" alt="Avatar of martinszeltins"> martinszeltins
-			</a><br/>
-			Martins
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -1901,6 +1901,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>139</td>
 		<td>
+			<a href="https://github.com/daGrevis">
+				<img src="https://avatars.githubusercontent.com/u/509529?s=72&v=4" width="24" alt="Avatar of daGrevis"> daGrevis
+			</a><br/>
+			Raitis Stengrevics
+		</td>
+		<td>@orangelv  </td>
+		<td>No Twitter Username</td>
+		<td>Riga, Latvia</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
 			<a href="https://github.com/datorium">
 				<img src="https://avatars.githubusercontent.com/u/45357320?s=72&u=c4b9edc025c92efe26c06800c58f181de76189c3&v=4" width="24" alt="Avatar of datorium"> datorium
 			</a><br/>
@@ -1912,7 +1925,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/nspavlo">
 				<img src="https://avatars.githubusercontent.com/u/5214134?s=72&u=db5156509977e8c11534ed341432685d26896467&v=4" width="24" alt="Avatar of nspavlo"> nspavlo
@@ -1923,19 +1936,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td><a href="https://twitter.com/JansPavlovs">JansPavlovs</a></td>
 		<td>Latvia</td>
 		<td>116</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/daGrevis">
-				<img src="https://avatars.githubusercontent.com/u/509529?s=72&v=4" width="24" alt="Avatar of daGrevis"> daGrevis
-			</a><br/>
-			Raitis Stengrevics
-		</td>
-		<td>@orangelv  </td>
-		<td>No Twitter Username</td>
-		<td>Riga, Latvia</td>
-		<td>115</td>
 	</tr>
 	<tr>
 		<td>142</td>
@@ -1953,19 +1953,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>143</td>
 		<td>
-			<a href="https://github.com/Anrijs">
-				<img src="https://avatars.githubusercontent.com/u/1076297?s=72&v=4" width="24" alt="Avatar of Anrijs"> Anrijs
-			</a><br/>
-			Anrijs
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AnrijsJargans">AnrijsJargans</a></td>
-		<td>Latvia</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
 			<a href="https://github.com/dv1x3r">
 				<img src="https://avatars.githubusercontent.com/u/31878959?s=72&u=355e8fdeda0d8d5d722467cad7ff06204ad9942f&v=4" width="24" alt="Avatar of dv1x3r"> dv1x3r
 			</a><br/>
@@ -1974,6 +1961,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Riga, Latvia</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
+			<a href="https://github.com/Anrijs">
+				<img src="https://avatars.githubusercontent.com/u/1076297?s=72&v=4" width="24" alt="Avatar of Anrijs"> Anrijs
+			</a><br/>
+			Anrijs
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AnrijsJargans">AnrijsJargans</a></td>
+		<td>Latvia</td>
 		<td>110</td>
 	</tr>
 	<tr>
@@ -2408,6 +2408,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>178</td>
 		<td>
+			<a href="https://github.com/daniilsjb">
+				<img src="https://avatars.githubusercontent.com/u/37586652?s=72&u=ceec0441d3f2e3e2f6a0a0cbc45c10c093304486&v=4" width="24" alt="Avatar of daniilsjb"> daniilsjb
+			</a><br/>
+			Daniils Buts
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/daniilsjb">daniilsjb</a></td>
+		<td>Riga, Latvia</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
 			<a href="https://github.com/crrawl">
 				<img src="https://avatars.githubusercontent.com/u/76840337?s=72&u=a49a9499be2cfe73617d5c8f3ac769154785a5af&v=4" width="24" alt="Avatar of crrawl"> crrawl
 			</a><br/>
@@ -2419,7 +2432,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/tahq69">
 				<img src="https://avatars.githubusercontent.com/u/7248215?s=72&u=e945abbfa94a0627f5fdc6eb30461ad268423fdf&v=4" width="24" alt="Avatar of tahq69"> tahq69
@@ -2432,7 +2445,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/TheWWWorm">
 				<img src="https://avatars.githubusercontent.com/u/24833170?s=72&u=fde29d251a35f341d2c47c10c26b020c4586f4bd&v=4" width="24" alt="Avatar of TheWWWorm"> TheWWWorm
@@ -2442,19 +2455,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Latvia, Riga</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
-			<a href="https://github.com/daniilsjb">
-				<img src="https://avatars.githubusercontent.com/u/37586652?s=72&u=ceec0441d3f2e3e2f6a0a0cbc45c10c093304486&v=4" width="24" alt="Avatar of daniilsjb"> daniilsjb
-			</a><br/>
-			Daniils Buts
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/daniilsjb">daniilsjb</a></td>
-		<td>Riga, Latvia</td>
 		<td>83</td>
 	</tr>
 	<tr>
@@ -2954,19 +2954,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>220</td>
 		<td>
-			<a href="https://github.com/dionisvl">
-				<img src="https://avatars.githubusercontent.com/u/17067871?s=72&v=4" width="24" alt="Avatar of dionisvl"> dionisvl
-			</a><br/>
-			Denis
-		</td>
-		<td>Cryptoblockchain </td>
-		<td>No Twitter Username</td>
-		<td>Riga</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>221</td>
-		<td>
 			<a href="https://github.com/boralv">
 				<img src="https://avatars.githubusercontent.com/u/36164764?s=72&u=8ce1e2211ba04eef847b9aad57a11799f1820c24&v=4" width="24" alt="Avatar of boralv"> boralv
 			</a><br/>
@@ -2975,6 +2962,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bordvr">bordvr</a></td>
 		<td>Riga, Latvia</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/dionisvl">
+				<img src="https://avatars.githubusercontent.com/u/17067871?s=72&v=4" width="24" alt="Avatar of dionisvl"> dionisvl
+			</a><br/>
+			Denis
+		</td>
+		<td>Cryptoblockchain </td>
+		<td>No Twitter Username</td>
+		<td>Riga</td>
 		<td>62</td>
 	</tr>
 	<tr>
@@ -4384,6 +4384,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>330</td>
 		<td>
+			<a href="https://github.com/kasparszarinovs">
+				<img src="https://avatars.githubusercontent.com/u/1261294?s=72&u=9156209f1af0f22b37c2117f716ed59d5816d7d6&v=4" width="24" alt="Avatar of kasparszarinovs"> kasparszarinovs
+			</a><br/>
+			Kaspars Zarinovs
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Riga, Latvia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
 			<a href="https://github.com/markvdb">
 				<img src="https://avatars.githubusercontent.com/u/778760?s=72&u=4b6e09e509e8ed0f14aaf232cef9c3d9a21641e3&v=4" width="24" alt="Avatar of markvdb"> markvdb
 			</a><br/>
@@ -4395,7 +4408,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/anahit42">
 				<img src="https://avatars.githubusercontent.com/u/7938403?s=72&u=426814deba72624bc8915dfaba8eae19bab994ea&v=4" width="24" alt="Avatar of anahit42"> anahit42
@@ -4408,7 +4421,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/erlioniel">
 				<img src="https://avatars.githubusercontent.com/u/1926766?s=72&u=67e2b9616113b216e25ea1fb4230a73bf365d265&v=4" width="24" alt="Avatar of erlioniel"> erlioniel
@@ -4421,7 +4434,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/bakape">
 				<img src="https://avatars.githubusercontent.com/u/7851952?s=72&u=f17e11e6211db6ac7da6260e28b09c1853b77cbf&v=4" width="24" alt="Avatar of bakape"> bakape
@@ -4434,7 +4447,20 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
+		<td>
+			<a href="https://github.com/EldarAgalarov">
+				<img src="https://avatars.githubusercontent.com/u/11322690?s=72&u=eb8b62f0561c2b65378efd9257f8689ba56dddd7&v=4" width="24" alt="Avatar of EldarAgalarov"> EldarAgalarov
+			</a><br/>
+			Eldar Agalarov
+		</td>
+		<td>Eldarinvest </td>
+		<td>No Twitter Username</td>
+		<td>Latvia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/cheelahim">
 				<img src="https://avatars.githubusercontent.com/u/5220855?s=72&u=ed1beb1e6736158e6e980d4a2f38c60279c4f2a0&v=4" width="24" alt="Avatar of cheelahim"> cheelahim
@@ -4447,7 +4473,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/RiSearcher">
 				<img src="https://avatars.githubusercontent.com/u/26185129?s=72&v=4" width="24" alt="Avatar of RiSearcher"> RiSearcher
@@ -4460,7 +4486,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/denisgavriloff">
 				<img src="https://avatars.githubusercontent.com/u/61278217?s=72&u=3c42dabeb0a258dd59de977a2e989f63e59af355&v=4" width="24" alt="Avatar of denisgavriloff"> denisgavriloff
@@ -4473,20 +4499,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/EldarAgalarov">
-				<img src="https://avatars.githubusercontent.com/u/11322690?s=72&u=eb8b62f0561c2b65378efd9257f8689ba56dddd7&v=4" width="24" alt="Avatar of EldarAgalarov"> EldarAgalarov
-			</a><br/>
-			Eldar Agalarov
-		</td>
-		<td>Eldarinvest </td>
-		<td>No Twitter Username</td>
-		<td>Latvia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/cnhsn">
 				<img src="https://avatars.githubusercontent.com/u/14225575?s=72&u=f24536e6eb4cd081645466228f1eb4748ab9c2cb&v=4" width="24" alt="Avatar of cnhsn"> cnhsn
@@ -4499,7 +4512,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/DanisDGK">
 				<img src="https://avatars.githubusercontent.com/u/38492793?s=72&u=54dea709fc84c72651fad6914e9fa2421a4a19b7&v=4" width="24" alt="Avatar of DanisDGK"> DanisDGK
@@ -4512,7 +4525,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/DigitCell">
 				<img src="https://avatars.githubusercontent.com/u/66899439?s=72&u=8b60fd87895e7d2340f1986d8bfa2da3b7491e1e&v=4" width="24" alt="Avatar of DigitCell"> DigitCell
@@ -4525,7 +4538,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/rolandinsh">
 				<img src="https://avatars.githubusercontent.com/u/108597?s=72&u=ff4bf80de6a843e439d1d9acd7cc663d6c6de269&v=4" width="24" alt="Avatar of rolandinsh"> rolandinsh
@@ -4538,7 +4551,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/Hiype">
 				<img src="https://avatars.githubusercontent.com/u/47718546?s=72&u=41bbbd8cdc787aacd727a22dc6dc758c74fb9962&v=4" width="24" alt="Avatar of Hiype"> Hiype
@@ -4551,7 +4564,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/UxusNoob">
 				<img src="https://avatars.githubusercontent.com/u/81376237?s=72&u=e1f3175afa2ecde5e3a4495ab3464df57627b340&v=4" width="24" alt="Avatar of UxusNoob"> UxusNoob
@@ -4564,7 +4577,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/festlv">
 				<img src="https://avatars.githubusercontent.com/u/212238?s=72&v=4" width="24" alt="Avatar of festlv"> festlv
@@ -4577,7 +4590,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/KohrAhr">
 				<img src="https://avatars.githubusercontent.com/u/27992564?s=72&u=84e826e77289c6550a3e17955cc3a834218a2b91&v=4" width="24" alt="Avatar of KohrAhr"> KohrAhr
@@ -4590,7 +4603,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/fragallia">
 				<img src="https://avatars.githubusercontent.com/u/970860?s=72&v=4" width="24" alt="Avatar of fragallia"> fragallia
@@ -4603,7 +4616,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/sliceem88">
 				<img src="https://avatars.githubusercontent.com/u/43166842?s=72&u=5f2eeca718152f5975d9d1406be92eb288315c96&v=4" width="24" alt="Avatar of sliceem88"> sliceem88
@@ -4616,7 +4629,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/BOTKooper">
 				<img src="https://avatars.githubusercontent.com/u/26670144?s=72&u=a91ce1f3b1ccf097baefb7c0cbf2709b604feb34&v=4" width="24" alt="Avatar of BOTKooper"> BOTKooper
@@ -4629,7 +4642,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/arvis">
 				<img src="https://avatars.githubusercontent.com/u/715181?s=72&v=4" width="24" alt="Avatar of arvis"> arvis
@@ -4642,7 +4655,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/vaivodeieva">
 				<img src="https://avatars.githubusercontent.com/u/78384667?s=72&u=8bf4592d5750920eb961326e7fbc6202c4409ae8&v=4" width="24" alt="Avatar of vaivodeieva"> vaivodeieva
@@ -4655,7 +4668,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/berkut1">
 				<img src="https://avatars.githubusercontent.com/u/13355990?s=72&v=4" width="24" alt="Avatar of berkut1"> berkut1
@@ -4668,7 +4681,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/valdis">
 				<img src="https://avatars.githubusercontent.com/u/106031?s=72&v=4" width="24" alt="Avatar of valdis"> valdis
@@ -4681,7 +4694,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/tochnonement">
 				<img src="https://avatars.githubusercontent.com/u/48033052?s=72&u=23a88a27e99611154308e04f3258ce6f15acc2e1&v=4" width="24" alt="Avatar of tochnonement"> tochnonement
@@ -4694,7 +4707,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/revati">
 				<img src="https://avatars.githubusercontent.com/u/350991?s=72&u=67de171cdbd4c2d4d23d4d0b1b29979ae341dece&v=4" width="24" alt="Avatar of revati"> revati
@@ -4707,7 +4720,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/choxen">
 				<img src="https://avatars.githubusercontent.com/u/60402744?s=72&u=88be4d13a51cefbc501049731e7d873a189be54f&v=4" width="24" alt="Avatar of choxen"> choxen
@@ -4720,7 +4733,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/jacklovett">
 				<img src="https://avatars.githubusercontent.com/u/30698914?s=72&u=9d64a5d4f57533b1422f72fc5d37e33cd0747163&v=4" width="24" alt="Avatar of jacklovett"> jacklovett
@@ -4733,7 +4746,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/martinsbalodis">
 				<img src="https://avatars.githubusercontent.com/u/890132?s=72&v=4" width="24" alt="Avatar of martinsbalodis"> martinsbalodis
@@ -4746,7 +4759,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/mnemosx">
 				<img src="https://avatars.githubusercontent.com/u/16293217?s=72&u=7a7763ae52a40329b16af49f5578ce1fedf286f3&v=4" width="24" alt="Avatar of mnemosx"> mnemosx
@@ -4759,7 +4772,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/aNereds">
 				<img src="https://avatars.githubusercontent.com/u/82803399?s=72&u=dd7b1b66b69a8b93ebe852dca6131b3a6c0d840c&v=4" width="24" alt="Avatar of aNereds"> aNereds
@@ -4772,7 +4785,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/julijacibulska">
 				<img src="https://avatars.githubusercontent.com/u/11908834?s=72&u=3cba1232551b44dd16985937603940ed3840ad75&v=4" width="24" alt="Avatar of julijacibulska"> julijacibulska
@@ -4785,7 +4798,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/armands-malejevs">
 				<img src="https://avatars.githubusercontent.com/u/12941243?s=72&u=0be6abf3cc73747d3dafab31d5554356bc9c48d2&v=4" width="24" alt="Avatar of armands-malejevs"> armands-malejevs
@@ -4798,7 +4811,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/Squazher">
 				<img src="https://avatars.githubusercontent.com/u/78409524?s=72&u=acb32ab20ccd1d6e323624c4c8c98e08fae3fd91&v=4" width="24" alt="Avatar of Squazher"> Squazher
@@ -4811,7 +4824,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/Igors78">
 				<img src="https://avatars.githubusercontent.com/u/66903652?s=72&u=b17aeabdf9f9e0ded268be92421dbccbb61d764c&v=4" width="24" alt="Avatar of Igors78"> Igors78
@@ -4824,7 +4837,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/Knagis">
 				<img src="https://avatars.githubusercontent.com/u/8700285?s=72&u=e8101a504e9dce9757d111a8a1321715c405bad8&v=4" width="24" alt="Avatar of Knagis"> Knagis
@@ -4834,19 +4847,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rīga, Latvia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
-			<a href="https://github.com/coffius">
-				<img src="https://avatars.githubusercontent.com/u/2510890?s=72&u=aa8e07ea26662f3be1e8e5ec52d0d2929b3e080b&v=4" width="24" alt="Avatar of coffius"> coffius
-			</a><br/>
-			Aleksei Shamenev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Latvia, Riga</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -5125,6 +5125,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>387</td>
 		<td>
+			<a href="https://github.com/CawaKharkov">
+				<img src="https://avatars.githubusercontent.com/u/2708139?s=72&v=4" width="24" alt="Avatar of CawaKharkov"> CawaKharkov
+			</a><br/>
+			Aleksandr Zamiatin
+		</td>
+		<td>Simple.life </td>
+		<td>No Twitter Username</td>
+		<td>Riga</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
 			<a href="https://github.com/MazeW">
 				<img src="https://avatars.githubusercontent.com/u/11300364?s=72&u=151ddbe9f2778074b3b31736ffde209d34ac3675&v=4" width="24" alt="Avatar of MazeW"> MazeW
 			</a><br/>
@@ -5136,7 +5149,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/andris-sevcenko">
 				<img src="https://avatars.githubusercontent.com/u/1891118?s=72&u=bb8e2f371f56c16203eb87a2cf150b38563137fa&v=4" width="24" alt="Avatar of andris-sevcenko"> andris-sevcenko
@@ -5149,7 +5162,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/jurgenzz">
 				<img src="https://avatars.githubusercontent.com/u/10499539?s=72&u=82b6b7be86c620829454ceb2ba740a661b2ef81f&v=4" width="24" alt="Avatar of jurgenzz"> jurgenzz
@@ -5162,7 +5175,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/faso">
 				<img src="https://avatars.githubusercontent.com/u/19239918?s=72&u=4546ede701ace5e01511685f6afe9d267f6b1f69&v=4" width="24" alt="Avatar of faso"> faso
@@ -5175,7 +5188,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/papuass">
 				<img src="https://avatars.githubusercontent.com/u/1764614?s=72&v=4" width="24" alt="Avatar of papuass"> papuass
@@ -5188,7 +5201,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/SafeShows">
 				<img src="https://avatars.githubusercontent.com/u/49234603?s=72&u=eaf4ac2709a3918bef5ecbf41180b938c684ba99&v=4" width="24" alt="Avatar of SafeShows"> SafeShows
@@ -5201,7 +5214,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/rebelC0der">
 				<img src="https://avatars.githubusercontent.com/u/20476773?s=72&u=6f926ee4cffb637c1a50b189e0ca5ca7ba42176f&v=4" width="24" alt="Avatar of rebelC0der"> rebelC0der
@@ -5214,7 +5227,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/lauris">
 				<img src="https://avatars.githubusercontent.com/u/625264?s=72&u=8c710d4f461db75ee9a48b6086f6aeb8ac03fb5d&v=4" width="24" alt="Avatar of lauris"> lauris
@@ -5227,7 +5240,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/evanca">
 				<img src="https://avatars.githubusercontent.com/u/33544598?s=72&u=79233f61c561942fcff782efd950ea33d6764aa7&v=4" width="24" alt="Avatar of evanca"> evanca
@@ -5240,7 +5253,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/renat2985">
 				<img src="https://avatars.githubusercontent.com/u/1230815?s=72&u=de3a606ffde9a6c5c1a0b8a0b973aef0b9ce81d7&v=4" width="24" alt="Avatar of renat2985"> renat2985
@@ -5250,19 +5263,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>Evonicfires </td>
 		<td><a href="https://twitter.com/ramzies">ramzies</a></td>
 		<td>Latvia</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>397</td>
-		<td>
-			<a href="https://github.com/CawaKharkov">
-				<img src="https://avatars.githubusercontent.com/u/2708139?s=72&v=4" width="24" alt="Avatar of CawaKharkov"> CawaKharkov
-			</a><br/>
-			Aleksandr Zamiatin
-		</td>
-		<td>Simple.life </td>
-		<td>No Twitter Username</td>
-		<td>Riga</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -5515,6 +5515,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>417</td>
 		<td>
+			<a href="https://github.com/Teamkodesign">
+				<img src="https://avatars.githubusercontent.com/u/138002920?s=72&u=635bbad0d32ab40fc549f6d92b4aeea15cd0c2b2&v=4" width="24" alt="Avatar of Teamkodesign"> Teamkodesign
+			</a><br/>
+			Kristina
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/krista_ok">krista_ok</a></td>
+		<td>Latvia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>
 			<a href="https://github.com/eriks-briedis">
 				<img src="https://avatars.githubusercontent.com/u/2034234?s=72&v=4" width="24" alt="Avatar of eriks-briedis"> eriks-briedis
 			</a><br/>
@@ -5526,7 +5539,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/JDat">
 				<img src="https://avatars.githubusercontent.com/u/3792125?s=72&u=843703253088245025f5b8f04f4cacf6922a340d&v=4" width="24" alt="Avatar of JDat"> JDat
@@ -5539,7 +5552,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/Kagayakashi">
 				<img src="https://avatars.githubusercontent.com/u/15884480?s=72&u=121cbaa38fcf511456cddd7480ebc7e238508b7f&v=4" width="24" alt="Avatar of Kagayakashi"> Kagayakashi
@@ -5552,7 +5565,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/pixout">
 				<img src="https://avatars.githubusercontent.com/u/7021847?s=72&u=55395a37e2c48ce2d017a7d190e0577fe301a626&v=4" width="24" alt="Avatar of pixout"> pixout
@@ -5565,7 +5578,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/0ki">
 				<img src="https://avatars.githubusercontent.com/u/3155267?s=72&v=4" width="24" alt="Avatar of 0ki"> 0ki
@@ -5578,7 +5591,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/Druvis-Timma">
 				<img src="https://avatars.githubusercontent.com/u/59503032?s=72&u=5353579987e9e1824b82ec0ede2f80e610768232&v=4" width="24" alt="Avatar of Druvis-Timma"> Druvis-Timma
@@ -5591,7 +5604,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/WheretIB">
 				<img src="https://avatars.githubusercontent.com/u/7524683?s=72&v=4" width="24" alt="Avatar of WheretIB"> WheretIB
@@ -5604,7 +5617,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/zingmars">
 				<img src="https://avatars.githubusercontent.com/u/917126?s=72&u=431463f64ff9a4627e12bc52b441e2730239a38e&v=4" width="24" alt="Avatar of zingmars"> zingmars
@@ -5617,7 +5630,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/vermut">
 				<img src="https://avatars.githubusercontent.com/u/779376?s=72&u=783f930b0293015a6509f17f5e40ea86f3d46985&v=4" width="24" alt="Avatar of vermut"> vermut
@@ -5630,7 +5643,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/ampatspell">
 				<img src="https://avatars.githubusercontent.com/u/7923?s=72&v=4" width="24" alt="Avatar of ampatspell"> ampatspell
@@ -5643,7 +5656,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/TheAvalanche">
 				<img src="https://avatars.githubusercontent.com/u/6858921?s=72&u=18b24f6870a6d435ed90f658bf5ddbd621680efb&v=4" width="24" alt="Avatar of TheAvalanche"> TheAvalanche
@@ -5656,7 +5669,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/viktors-telle">
 				<img src="https://avatars.githubusercontent.com/u/3688279?s=72&u=c248f17a43454fd6e9c6694be9d5386129adb37a&v=4" width="24" alt="Avatar of viktors-telle"> viktors-telle
@@ -5669,7 +5682,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/renarl">
 				<img src="https://avatars.githubusercontent.com/u/6177?s=72&u=1ac09c7abfe5c9c51784e736923272c2f830d28b&v=4" width="24" alt="Avatar of renarl"> renarl
@@ -5682,7 +5695,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/kate-ev">
 				<img src="https://avatars.githubusercontent.com/u/65239107?s=72&u=3ccfa72df9fba61776a570bb252b5a8480d0e2f4&v=4" width="24" alt="Avatar of kate-ev"> kate-ev
@@ -5692,19 +5705,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Riga, Latvia</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>431</td>
-		<td>
-			<a href="https://github.com/Teamkodesign">
-				<img src="https://avatars.githubusercontent.com/u/138002920?s=72&u=635bbad0d32ab40fc549f6d92b4aeea15cd0c2b2&v=4" width="24" alt="Avatar of Teamkodesign"> Teamkodesign
-			</a><br/>
-			Kristina
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/krista_ok">krista_ok</a></td>
-		<td>Latvia</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -5801,6 +5801,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>439</td>
 		<td>
+			<a href="https://github.com/migesok">
+				<img src="https://avatars.githubusercontent.com/u/2026954?s=72&v=4" width="24" alt="Avatar of migesok"> migesok
+			</a><br/>
+			Mikhail Sokolov
+		</td>
+		<td>Evolution Gaming </td>
+		<td>No Twitter Username</td>
+		<td>Riga, Latvia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>440</td>
+		<td>
 			<a href="https://github.com/kirsteins">
 				<img src="https://avatars.githubusercontent.com/u/1378813?s=72&u=d31568c3565c50a2d5e849c2050fd98d4c21a7c3&v=4" width="24" alt="Avatar of kirsteins"> kirsteins
 			</a><br/>
@@ -5812,7 +5825,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/Umar3331">
 				<img src="https://avatars.githubusercontent.com/u/63320369?s=72&u=85e0ea0b9f3d19fcdf327c6263de14fb7deb6c7f&v=4" width="24" alt="Avatar of Umar3331"> Umar3331
@@ -5825,7 +5838,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/Asamarus">
 				<img src="https://avatars.githubusercontent.com/u/10806746?s=72&u=38a454473eded97de9b9b7f9a76bedb645ca12cf&v=4" width="24" alt="Avatar of Asamarus"> Asamarus
@@ -5838,7 +5851,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/chuvikovd">
 				<img src="https://avatars.githubusercontent.com/u/15366514?s=72&u=4bbeefc8936252bb37b474ab88efdaa0fb40bd27&v=4" width="24" alt="Avatar of chuvikovd"> chuvikovd
@@ -5851,7 +5864,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/PeterisRepelis">
 				<img src="https://avatars.githubusercontent.com/u/1901704?s=72&u=58c0f20e4dd0687b156f7fd18fc854472180c9cf&v=4" width="24" alt="Avatar of PeterisRepelis"> PeterisRepelis
@@ -5864,7 +5877,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/Aurrix">
 				<img src="https://avatars.githubusercontent.com/u/31369395?s=72&v=4" width="24" alt="Avatar of Aurrix"> Aurrix
@@ -5877,7 +5890,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/Vorago">
 				<img src="https://avatars.githubusercontent.com/u/528857?s=72&v=4" width="24" alt="Avatar of Vorago"> Vorago
@@ -5890,7 +5903,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/VCasecnikovs">
 				<img src="https://avatars.githubusercontent.com/u/29467201?s=72&u=c3f464d31521a32be52c2fd2ebe49660031cadce&v=4" width="24" alt="Avatar of VCasecnikovs"> VCasecnikovs
@@ -5903,7 +5916,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/evaldsurtans">
 				<img src="https://avatars.githubusercontent.com/u/1777062?s=72&u=d48ae2bc7c8f6518288b893011d34c040d2cfe8d&v=4" width="24" alt="Avatar of evaldsurtans"> evaldsurtans
@@ -5911,19 +5924,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 			Evalds Urtans
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Riga, Latvia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
-			<a href="https://github.com/migesok">
-				<img src="https://avatars.githubusercontent.com/u/2026954?s=72&v=4" width="24" alt="Avatar of migesok"> migesok
-			</a><br/>
-			Mikhail Sokolov
-		</td>
-		<td>Evolution Gaming </td>
 		<td>No Twitter Username</td>
 		<td>Riga, Latvia</td>
 		<td>11</td>
@@ -6074,6 +6074,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>460</td>
 		<td>
+			<a href="https://github.com/mlaitinen">
+				<img src="https://avatars.githubusercontent.com/u/1525066?s=72&u=d66c3590163a27f474a6c2421b3b192b29a06e6e&v=4" width="24" alt="Avatar of mlaitinen"> mlaitinen
+			</a><br/>
+			Miku Laitinen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Latvia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
 			<a href="https://github.com/kiril-me">
 				<img src="https://avatars.githubusercontent.com/u/1607432?s=72&u=90118e478d652c9407bdf3936242d8bfc2c6b28e&v=4" width="24" alt="Avatar of kiril-me"> kiril-me
 			</a><br/>
@@ -6085,7 +6098,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/seleckis">
 				<img src="https://avatars.githubusercontent.com/u/988504?s=72&u=edb2849c1a691e037a3eefb7598d82cada250b18&v=4" width="24" alt="Avatar of seleckis"> seleckis
@@ -6098,7 +6111,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/t0xa">
 				<img src="https://avatars.githubusercontent.com/u/3533?s=72&v=4" width="24" alt="Avatar of t0xa"> t0xa
@@ -6111,7 +6124,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/Dinozor">
 				<img src="https://avatars.githubusercontent.com/u/1084354?s=72&u=e059f2e465bb5a307eceee468a66fba7661d4fc9&v=4" width="24" alt="Avatar of Dinozor"> Dinozor
@@ -6124,7 +6137,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/retriku">
 				<img src="https://avatars.githubusercontent.com/u/6028850?s=72&u=904ebbaf23335f94d806e8a185d66508f1d471ef&v=4" width="24" alt="Avatar of retriku"> retriku
@@ -6137,7 +6150,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/edgarsstrods">
 				<img src="https://avatars.githubusercontent.com/u/25812122?s=72&u=7b9ae33e40525f1e263b511dd71dbb2cbf7a182e&v=4" width="24" alt="Avatar of edgarsstrods"> edgarsstrods
@@ -6150,7 +6163,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/mixisLv">
 				<img src="https://avatars.githubusercontent.com/u/3735128?s=72&u=be180b7b07bb87991599d248cb63911b4130fe9a&v=4" width="24" alt="Avatar of mixisLv"> mixisLv
@@ -6163,7 +6176,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/CRCH">
 				<img src="https://avatars.githubusercontent.com/u/16330078?s=72&u=1d215f2c19fd2f95ad398ddfa8a5ed8b0a471550&v=4" width="24" alt="Avatar of CRCH"> CRCH
@@ -6176,7 +6189,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/roberts-eihmanis">
 				<img src="https://avatars.githubusercontent.com/u/3621020?s=72&u=c723faa190314d8cc26ab7440e36d410948b2dd8&v=4" width="24" alt="Avatar of roberts-eihmanis"> roberts-eihmanis
@@ -6189,7 +6202,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/dainis-brjuhoveckis">
 				<img src="https://avatars.githubusercontent.com/u/1030897?s=72&u=a9cd775498a3ad237319fcec9130870adf94f74f&v=4" width="24" alt="Avatar of dainis-brjuhoveckis"> dainis-brjuhoveckis
@@ -6202,7 +6215,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/CalvinGrain">
 				<img src="https://avatars.githubusercontent.com/u/2598703?s=72&u=91121d635391c295af8ef00b5a840231d8ed37f2&v=4" width="24" alt="Avatar of CalvinGrain"> CalvinGrain
@@ -6215,7 +6228,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/shbadr">
 				<img src="https://avatars.githubusercontent.com/u/384442?s=72&u=71b14e4686ee485a11a7cf13f4cb6a9debe5dca5&v=4" width="24" alt="Avatar of shbadr"> shbadr
@@ -6228,7 +6241,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/greenplugin">
 				<img src="https://avatars.githubusercontent.com/u/15276608?s=72&u=ad2f6e58239702cca6fa0bfc9fa689c3e5621447&v=4" width="24" alt="Avatar of greenplugin"> greenplugin
@@ -6241,7 +6254,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/shivergard">
 				<img src="https://avatars.githubusercontent.com/u/1783151?s=72&v=4" width="24" alt="Avatar of shivergard"> shivergard
@@ -6254,7 +6267,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/hansagames">
 				<img src="https://avatars.githubusercontent.com/u/8036190?s=72&u=6dd82ae63895d1ed536d52f1618e03a67186eb94&v=4" width="24" alt="Avatar of hansagames"> hansagames
@@ -6263,19 +6276,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		</td>
 		<td>Hansagames </td>
 		<td><a href="https://twitter.com/HansaGames">HansaGames</a></td>
-		<td>Latvia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/mlaitinen">
-				<img src="https://avatars.githubusercontent.com/u/1525066?s=72&u=d66c3590163a27f474a6c2421b3b192b29a06e6e&v=4" width="24" alt="Avatar of mlaitinen"> mlaitinen
-			</a><br/>
-			Miku Laitinen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Latvia</td>
 		<td>9</td>
 	</tr>
@@ -6607,19 +6607,6 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>501</td>
 		<td>
-			<a href="https://github.com/Pilskalns">
-				<img src="https://avatars.githubusercontent.com/u/6931156?s=72&u=e62710ba5a38b2df0528340bcd13164354184ca2&v=4" width="24" alt="Avatar of Pilskalns"> Pilskalns
-			</a><br/>
-			Andžs
-		</td>
-		<td>@veset  </td>
-		<td>No Twitter Username</td>
-		<td>Riga, Latvia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>502</td>
-		<td>
 			<a href="https://github.com/punund">
 				<img src="https://avatars.githubusercontent.com/u/95124?s=72&v=4" width="24" alt="Avatar of punund"> punund
 			</a><br/>
@@ -6628,6 +6615,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Rīga, Latvia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
+			<a href="https://github.com/Pilskalns">
+				<img src="https://avatars.githubusercontent.com/u/6931156?s=72&u=e62710ba5a38b2df0528340bcd13164354184ca2&v=4" width="24" alt="Avatar of Pilskalns"> Pilskalns
+			</a><br/>
+			Andžs
+		</td>
+		<td>@veset  </td>
+		<td>No Twitter Username</td>
+		<td>Riga, Latvia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -6932,6 +6932,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>526</td>
 		<td>
+			<a href="https://github.com/starcheek">
+				<img src="https://avatars.githubusercontent.com/u/52677618?s=72&u=a4ecdd191646fd8494e1f8c51e3536feca872291&v=4" width="24" alt="Avatar of starcheek"> starcheek
+			</a><br/>
+			Ralfs Ezeriņš
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Latvia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>527</td>
+		<td>
 			<a href="https://github.com/kosovojs">
 				<img src="https://avatars.githubusercontent.com/u/46270007?s=72&u=51ca8fd7f60856402cf23371f15aa8d2ec9ce98a&v=4" width="24" alt="Avatar of kosovojs"> kosovojs
 			</a><br/>
@@ -6943,7 +6956,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/artjoman">
 				<img src="https://avatars.githubusercontent.com/u/9415136?s=72&u=77b25ce5c395bf3f5e8df72c0015123e2db880d8&v=4" width="24" alt="Avatar of artjoman"> artjoman
@@ -6956,7 +6969,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/Juris3D">
 				<img src="https://avatars.githubusercontent.com/u/22710072?s=72&u=54482b2212fe47d7b408a1fed076eb886cd85153&v=4" width="24" alt="Avatar of Juris3D"> Juris3D
@@ -6969,7 +6982,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/chrisAS12">
 				<img src="https://avatars.githubusercontent.com/u/65333249?s=72&u=d894b3f4e82313806c17e674fb8c179837ca43a3&v=4" width="24" alt="Avatar of chrisAS12"> chrisAS12
@@ -6982,7 +6995,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/PlainBane">
 				<img src="https://avatars.githubusercontent.com/u/9573512?s=72&u=b657b1fa8d20115e60e60abaa84b902987f212e0&v=4" width="24" alt="Avatar of PlainBane"> PlainBane
@@ -6995,7 +7008,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/AwesomelyAmazing">
 				<img src="https://avatars.githubusercontent.com/u/2803548?s=72&v=4" width="24" alt="Avatar of AwesomelyAmazing"> AwesomelyAmazing
@@ -7008,7 +7021,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/AndisGrossteins">
 				<img src="https://avatars.githubusercontent.com/u/212789?s=72&v=4" width="24" alt="Avatar of AndisGrossteins"> AndisGrossteins
@@ -7021,7 +7034,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/imevs">
 				<img src="https://avatars.githubusercontent.com/u/1301697?s=72&v=4" width="24" alt="Avatar of imevs"> imevs
@@ -7034,7 +7047,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/sergeym">
 				<img src="https://avatars.githubusercontent.com/u/445293?s=72&v=4" width="24" alt="Avatar of sergeym"> sergeym
@@ -7047,7 +7060,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/flaumanis">
 				<img src="https://avatars.githubusercontent.com/u/1079070?s=72&u=97cdf79f6d85dfaf715f674f4ceaa24b0b4a9847&v=4" width="24" alt="Avatar of flaumanis"> flaumanis
@@ -7060,7 +7073,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/krasilnikovm">
 				<img src="https://avatars.githubusercontent.com/u/20259540?s=72&u=1a1a817f2c9e43bebe7eb3037049847ef10efed0&v=4" width="24" alt="Avatar of krasilnikovm"> krasilnikovm
@@ -7073,7 +7086,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/MrArtyD">
 				<img src="https://avatars.githubusercontent.com/u/82172121?s=72&v=4" width="24" alt="Avatar of MrArtyD"> MrArtyD
@@ -7086,7 +7099,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/ebeigarts">
 				<img src="https://avatars.githubusercontent.com/u/8155?s=72&u=13b5c411636554ef34ff1c792a54a916b9bc0467&v=4" width="24" alt="Avatar of ebeigarts"> ebeigarts
@@ -7099,7 +7112,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/renarsvilnis">
 				<img src="https://avatars.githubusercontent.com/u/3515099?s=72&u=870e9c3daf21ad34715331852afa9ea1894f8ea5&v=4" width="24" alt="Avatar of renarsvilnis"> renarsvilnis
@@ -7112,7 +7125,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/ArnisLielturks">
 				<img src="https://avatars.githubusercontent.com/u/7426555?s=72&u=c1dbfbb97dfe5468ae0d5e8ba4fd1e3ce838b927&v=4" width="24" alt="Avatar of ArnisLielturks"> ArnisLielturks
@@ -7125,7 +7138,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/janisgitendorfs">
 				<img src="https://avatars.githubusercontent.com/u/1249446?s=72&u=fbc6ddd4e32b5a00debf843c48ebe38be8466466&v=4" width="24" alt="Avatar of janisgitendorfs"> janisgitendorfs
@@ -7138,7 +7151,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/dewhitee">
 				<img src="https://avatars.githubusercontent.com/u/13054630?s=72&u=6573549c850cc3a508c1cd6005d225f044f0abeb&v=4" width="24" alt="Avatar of dewhitee"> dewhitee
@@ -7151,25 +7164,12 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/AAigars">
 				<img src="https://avatars.githubusercontent.com/u/25423060?s=72&u=901c2ee8442b0c9995f25d920964be52502dc713&v=4" width="24" alt="Avatar of AAigars"> AAigars
 			</a><br/>
 			Luaa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Latvia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>544</td>
-		<td>
-			<a href="https://github.com/starcheek">
-				<img src="https://avatars.githubusercontent.com/u/52677618?s=72&u=a4ecdd191646fd8494e1f8c51e3536feca872291&v=4" width="24" alt="Avatar of starcheek"> starcheek
-			</a><br/>
-			Ralfs Ezeriņš
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7647,6 +7647,19 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 	<tr>
 		<td>581</td>
 		<td>
+			<a href="https://github.com/wonderwhy-er">
+				<img src="https://avatars.githubusercontent.com/u/1150639?s=72&v=4" width="24" alt="Avatar of wonderwhy-er"> wonderwhy-er
+			</a><br/>
+			Eduard Ruzga
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Riga</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
 			<a href="https://github.com/vgaicuks">
 				<img src="https://avatars.githubusercontent.com/u/442747?s=72&v=4" width="24" alt="Avatar of vgaicuks"> vgaicuks
 			</a><br/>
@@ -7658,7 +7671,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/sreenathkspanikker">
 				<img src="https://avatars.githubusercontent.com/u/11223733?s=72&u=571a52e5fac0cd17532145a4e4817f7c56c1133e&v=4" width="24" alt="Avatar of sreenathkspanikker"> sreenathkspanikker
@@ -7671,7 +7684,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/rokorolov">
 				<img src="https://avatars.githubusercontent.com/u/6349248?s=72&v=4" width="24" alt="Avatar of rokorolov"> rokorolov
@@ -7684,7 +7697,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/say2me">
 				<img src="https://avatars.githubusercontent.com/u/270353?s=72&v=4" width="24" alt="Avatar of say2me"> say2me
@@ -7697,7 +7710,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/avasilevskis">
 				<img src="https://avatars.githubusercontent.com/u/2925633?s=72&u=5a786c7973cb01bba8c1f4653280e22998afae76&v=4" width="24" alt="Avatar of avasilevskis"> avasilevskis
@@ -7710,7 +7723,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/FnTm">
 				<img src="https://avatars.githubusercontent.com/u/1011549?s=72&v=4" width="24" alt="Avatar of FnTm"> FnTm
@@ -7723,7 +7736,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/mehmetceliklv">
 				<img src="https://avatars.githubusercontent.com/u/98238092?s=72&u=de04753ce5a3817597f81dd3174b7ee7eb6e53ba&v=4" width="24" alt="Avatar of mehmetceliklv"> mehmetceliklv
@@ -7736,7 +7749,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/alexxxxey">
 				<img src="https://avatars.githubusercontent.com/u/3143143?s=72&v=4" width="24" alt="Avatar of alexxxxey"> alexxxxey
@@ -7749,7 +7762,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/fr3akX">
 				<img src="https://avatars.githubusercontent.com/u/196724?s=72&v=4" width="24" alt="Avatar of fr3akX"> fr3akX
@@ -7762,7 +7775,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/nattts">
 				<img src="https://avatars.githubusercontent.com/u/15269010?s=72&u=64f942d59b4de413d64dfcbc1baa715722b0b820&v=4" width="24" alt="Avatar of nattts"> nattts
@@ -7775,7 +7788,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/Nikolsonn">
 				<img src="https://avatars.githubusercontent.com/u/26283452?s=72&u=46d8f49afadb77dcb18d7947e8320f3cc8bd43a9&v=4" width="24" alt="Avatar of Nikolsonn"> Nikolsonn
@@ -7788,7 +7801,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/strauhmanis">
 				<img src="https://avatars.githubusercontent.com/u/17160191?s=72&u=ad8490d86c0cd58255be29013031eeefa19ffab7&v=4" width="24" alt="Avatar of strauhmanis"> strauhmanis
@@ -7801,7 +7814,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/KBirzins">
 				<img src="https://avatars.githubusercontent.com/u/14961738?s=72&v=4" width="24" alt="Avatar of KBirzins"> KBirzins
@@ -7814,7 +7827,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/kaytrance">
 				<img src="https://avatars.githubusercontent.com/u/6768891?s=72&v=4" width="24" alt="Avatar of kaytrance"> kaytrance
@@ -7827,7 +7840,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/tomstumshais">
 				<img src="https://avatars.githubusercontent.com/u/4901997?s=72&u=7d1524325de81c0cd8ea1e1569333b0a4aab6526&v=4" width="24" alt="Avatar of tomstumshais"> tomstumshais
@@ -7840,7 +7853,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/FylmTM">
 				<img src="https://avatars.githubusercontent.com/u/626772?s=72&u=115fed0aa91d0ea6ea6adfbbf2dec61cf05bb855&v=4" width="24" alt="Avatar of FylmTM"> FylmTM
@@ -7853,7 +7866,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/UldisRinkevichs">
 				<img src="https://avatars.githubusercontent.com/u/39919590?s=72&u=9ceef6f4afd3a737b1a8fcc627cbfae284f0720a&v=4" width="24" alt="Avatar of UldisRinkevichs"> UldisRinkevichs
@@ -7866,7 +7879,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/zyr3x">
 				<img src="https://avatars.githubusercontent.com/u/392449?s=72&u=4f155b29099429d1f75e6dd4c4af0349f30eee40&v=4" width="24" alt="Avatar of zyr3x"> zyr3x
@@ -7879,7 +7892,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/andrewtch">
 				<img src="https://avatars.githubusercontent.com/u/925330?s=72&v=4" width="24" alt="Avatar of andrewtch"> andrewtch
@@ -7892,7 +7905,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/korovka22">
 				<img src="https://avatars.githubusercontent.com/u/116164055?s=72&u=189516c2c91462225136512eefb9d8cf6b93594e&v=4" width="24" alt="Avatar of korovka22"> korovka22
@@ -7905,7 +7918,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/Akirtovskis">
 				<img src="https://avatars.githubusercontent.com/u/25903618?s=72&u=a45d3312d6260e33b7570ce562f6276fde7eeaec&v=4" width="24" alt="Avatar of Akirtovskis"> Akirtovskis
@@ -7918,7 +7931,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/normundsg">
 				<img src="https://avatars.githubusercontent.com/u/1726922?s=72&v=4" width="24" alt="Avatar of normundsg"> normundsg
@@ -7931,7 +7944,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/yefremov">
 				<img src="https://avatars.githubusercontent.com/u/59296?s=72&u=c4d1172e0c572f3e427d80311a89754fd805df55&v=4" width="24" alt="Avatar of yefremov"> yefremov
@@ -7944,7 +7957,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/intarstudents">
 				<img src="https://avatars.githubusercontent.com/u/227198?s=72&v=4" width="24" alt="Avatar of intarstudents"> intarstudents
@@ -7957,7 +7970,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/andreyv">
 				<img src="https://avatars.githubusercontent.com/u/397308?s=72&v=4" width="24" alt="Avatar of andreyv"> andreyv
@@ -7970,7 +7983,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/okertanov">
 				<img src="https://avatars.githubusercontent.com/u/632513?s=72&v=4" width="24" alt="Avatar of okertanov"> okertanov
@@ -7983,7 +7996,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/seVladimirs">
 				<img src="https://avatars.githubusercontent.com/u/9819889?s=72&u=0d2df225bbb1d06bad20fc52599fbb3ea527bd3c&v=4" width="24" alt="Avatar of seVladimirs"> seVladimirs
@@ -7996,7 +8009,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/pmarcis">
 				<img src="https://avatars.githubusercontent.com/u/3276870?s=72&v=4" width="24" alt="Avatar of pmarcis"> pmarcis
@@ -8009,7 +8022,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/demiters">
 				<img src="https://avatars.githubusercontent.com/u/7239988?s=72&v=4" width="24" alt="Avatar of demiters"> demiters
@@ -8022,7 +8035,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/FrancescoMussi">
 				<img src="https://avatars.githubusercontent.com/u/5312907?s=72&v=4" width="24" alt="Avatar of FrancescoMussi"> FrancescoMussi
@@ -8035,7 +8048,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/aivarsak">
 				<img src="https://avatars.githubusercontent.com/u/29685?s=72&u=ff0c4039b63b10f21d1d80a8a3e97c633e476778&v=4" width="24" alt="Avatar of aivarsak"> aivarsak
@@ -8048,7 +8061,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/klavs">
 				<img src="https://avatars.githubusercontent.com/u/832923?s=72&u=1a7c267cabcd1542d5bc74a0fd9ff80d61d079f6&v=4" width="24" alt="Avatar of klavs"> klavs
@@ -8061,7 +8074,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/TeaTimeForever">
 				<img src="https://avatars.githubusercontent.com/u/1087032?s=72&v=4" width="24" alt="Avatar of TeaTimeForever"> TeaTimeForever
@@ -8074,7 +8087,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/raivis-vitols">
 				<img src="https://avatars.githubusercontent.com/u/1437821?s=72&u=8e2f086c0c86db4f411ff0613f50fafb44853f10&v=4" width="24" alt="Avatar of raivis-vitols"> raivis-vitols
@@ -8087,7 +8100,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/edgars888">
 				<img src="https://avatars.githubusercontent.com/u/111148189?s=72&u=fa353b51853a610dccdc33e379a0e28c049a0924&v=4" width="24" alt="Avatar of edgars888"> edgars888
@@ -8100,7 +8113,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/sraps">
 				<img src="https://avatars.githubusercontent.com/u/452930?s=72&u=585003ccd450efbc7ab5e21fd47c9d236e4f3dbb&v=4" width="24" alt="Avatar of sraps"> sraps
@@ -8113,7 +8126,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/karlis">
 				<img src="https://avatars.githubusercontent.com/u/413523?s=72&u=e0a13cacf3423fa8d5bd96c55b3c87e83ae04c11&v=4" width="24" alt="Avatar of karlis"> karlis
@@ -8126,7 +8139,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/osvalds">
 				<img src="https://avatars.githubusercontent.com/u/3286715?s=72&v=4" width="24" alt="Avatar of osvalds"> osvalds
@@ -8139,7 +8152,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/AbayReushenov">
 				<img src="https://avatars.githubusercontent.com/u/44551481?s=72&u=60903a1878d20c04ede891beb2f2be576e4214f6&v=4" width="24" alt="Avatar of AbayReushenov"> AbayReushenov
@@ -8152,7 +8165,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/mkovel">
 				<img src="https://avatars.githubusercontent.com/u/911244?s=72&u=fd0530bee8db977d04083e4d2e31726070815f5c&v=4" width="24" alt="Avatar of mkovel"> mkovel
@@ -8165,7 +8178,20 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>622</td>
+		<td>
+			<a href="https://github.com/ivarsb">
+				<img src="https://avatars.githubusercontent.com/u/7125872?s=72&v=4" width="24" alt="Avatar of ivarsb"> ivarsb
+			</a><br/>
+			Ivars
+		</td>
+		<td>Mak It </td>
+		<td>No Twitter Username</td>
+		<td>Riga</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/Ameriks">
 				<img src="https://avatars.githubusercontent.com/u/105125?s=72&v=4" width="24" alt="Avatar of Ameriks"> Ameriks
@@ -8178,7 +8204,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/kgusarov">
 				<img src="https://avatars.githubusercontent.com/u/1231997?s=72&v=4" width="24" alt="Avatar of kgusarov"> kgusarov
@@ -8191,7 +8217,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/kobawan">
 				<img src="https://avatars.githubusercontent.com/u/9026911?s=72&u=f8038756e10c2637af1d8003bf1010eb31300c39&v=4" width="24" alt="Avatar of kobawan"> kobawan
@@ -8204,7 +8230,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/janiseglitis">
 				<img src="https://avatars.githubusercontent.com/u/7914164?s=72&u=b23840ee981ff817f0bff2acba64f349d949e58b&v=4" width="24" alt="Avatar of janiseglitis"> janiseglitis
@@ -8217,7 +8243,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/foroco">
 				<img src="https://avatars.githubusercontent.com/u/60884621?s=72&u=19a15c68818b23e1c37761e2bfc29b8b7f235391&v=4" width="24" alt="Avatar of foroco"> foroco
@@ -8230,7 +8256,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/Asim777">
 				<img src="https://avatars.githubusercontent.com/u/630726?s=72&u=ca703a50553a2dcf24d5d848ef85808acdd60b8d&v=4" width="24" alt="Avatar of Asim777"> Asim777
@@ -8243,7 +8269,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/MeatyRenegade">
 				<img src="https://avatars.githubusercontent.com/u/72279696?s=72&u=cd7140030a646c1ba633e3d54ef98b325a9617d5&v=4" width="24" alt="Avatar of MeatyRenegade"> MeatyRenegade
@@ -8256,7 +8282,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/Jahsis">
 				<img src="https://avatars.githubusercontent.com/u/1564280?s=72&u=3624c422e031ae169341a3c72dc184e3c8c5b78c&v=4" width="24" alt="Avatar of Jahsis"> Jahsis
@@ -8269,7 +8295,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/zdanovs">
 				<img src="https://avatars.githubusercontent.com/u/4309685?s=72&v=4" width="24" alt="Avatar of zdanovs"> zdanovs
@@ -8282,7 +8308,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/labs-lv">
 				<img src="https://avatars.githubusercontent.com/u/24902582?s=72&u=e2dbe66aaf00be25ff0359b03d50d37e6190f86c&v=4" width="24" alt="Avatar of labs-lv"> labs-lv
@@ -8295,7 +8321,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/mnemotic">
 				<img src="https://avatars.githubusercontent.com/u/4642186?s=72&u=923820ce1f93d093226ef95e54346ea7b3516e8b&v=4" width="24" alt="Avatar of mnemotic"> mnemotic
@@ -8308,7 +8334,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/vleushin">
 				<img src="https://avatars.githubusercontent.com/u/781553?s=72&u=16b6f71d648d6d3dc55f90bf87f464c83e587093&v=4" width="24" alt="Avatar of vleushin"> vleushin
@@ -8321,7 +8347,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/basecamelectronics">
 				<img src="https://avatars.githubusercontent.com/u/5196794?s=72&u=1ad54b9cb0fcf18cd2513042a34bf3ef1a0171eb&v=4" width="24" alt="Avatar of basecamelectronics"> basecamelectronics
@@ -8334,7 +8360,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/skakri">
 				<img src="https://avatars.githubusercontent.com/u/693982?s=72&v=4" width="24" alt="Avatar of skakri"> skakri
@@ -8347,7 +8373,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/torbjon">
 				<img src="https://avatars.githubusercontent.com/u/49188?s=72&u=cb9243c69d55894c6185a5c696fcfe30b17c3a67&v=4" width="24" alt="Avatar of torbjon"> torbjon
@@ -8360,7 +8386,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/boomix">
 				<img src="https://avatars.githubusercontent.com/u/3994336?s=72&u=ca30e0b02a48e86835368580d3c8fdedf5067a41&v=4" width="24" alt="Avatar of boomix"> boomix
@@ -8373,7 +8399,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/kozerog555">
 				<img src="https://avatars.githubusercontent.com/u/98712720?s=72&v=4" width="24" alt="Avatar of kozerog555"> kozerog555
@@ -8386,7 +8412,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/Xopoc">
 				<img src="https://avatars.githubusercontent.com/u/1535006?s=72&v=4" width="24" alt="Avatar of Xopoc"> Xopoc
@@ -8399,7 +8425,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/rathko">
 				<img src="https://avatars.githubusercontent.com/u/432203?s=72&u=b3ca4c19f8c9be09673b7c2ece18ec80274bd51c&v=4" width="24" alt="Avatar of rathko"> rathko
@@ -8412,7 +8438,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/dnasir">
 				<img src="https://avatars.githubusercontent.com/u/1737051?s=72&u=3887aee0012bb27e3c555a3e53a7008b10655e38&v=4" width="24" alt="Avatar of dnasir"> dnasir
@@ -8425,7 +8451,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/ArnisL">
 				<img src="https://avatars.githubusercontent.com/u/123521?s=72&u=caa54d85ae177a4a3d18029399deaa47edd8c433&v=4" width="24" alt="Avatar of ArnisL"> ArnisL
@@ -8438,7 +8464,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/alberts-s">
 				<img src="https://avatars.githubusercontent.com/u/1869097?s=72&u=6032d159ed07e084a830d4942e83388870c6ce70&v=4" width="24" alt="Avatar of alberts-s"> alberts-s
@@ -8451,7 +8477,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/jklusis">
 				<img src="https://avatars.githubusercontent.com/u/35897850?s=72&u=85b043811274e55fa5a639b92831de578bb6f2ee&v=4" width="24" alt="Avatar of jklusis"> jklusis
@@ -8464,7 +8490,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/mindbound">
 				<img src="https://avatars.githubusercontent.com/u/1147991?s=72&v=4" width="24" alt="Avatar of mindbound"> mindbound
@@ -8477,7 +8503,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/edgarsj">
 				<img src="https://avatars.githubusercontent.com/u/1014843?s=72&v=4" width="24" alt="Avatar of edgarsj"> edgarsj
@@ -8490,7 +8516,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/EasyLover27">
 				<img src="https://avatars.githubusercontent.com/u/33035511?s=72&u=da2a3e6d1713ce545f1e03ffc972723b1f93ba8c&v=4" width="24" alt="Avatar of EasyLover27"> EasyLover27
@@ -8503,7 +8529,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/kurzemnieks">
 				<img src="https://avatars.githubusercontent.com/u/1818587?s=72&v=4" width="24" alt="Avatar of kurzemnieks"> kurzemnieks
@@ -8516,7 +8542,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/ogavrisevs">
 				<img src="https://avatars.githubusercontent.com/u/482749?s=72&v=4" width="24" alt="Avatar of ogavrisevs"> ogavrisevs
@@ -8529,7 +8555,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/TheZeus121">
 				<img src="https://avatars.githubusercontent.com/u/5401412?s=72&u=5d5358ff2947a62066f800957c6b4f7f836e9f5c&v=4" width="24" alt="Avatar of TheZeus121"> TheZeus121
@@ -8542,7 +8568,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/theashyster">
 				<img src="https://avatars.githubusercontent.com/u/18593807?s=72&u=d106577bcc08c992e356fede08d05277bbcb900c&v=4" width="24" alt="Avatar of theashyster"> theashyster
@@ -8555,7 +8581,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/janis-vitols">
 				<img src="https://avatars.githubusercontent.com/u/8654229?s=72&v=4" width="24" alt="Avatar of janis-vitols"> janis-vitols
@@ -8568,7 +8594,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/kremeshnoi">
 				<img src="https://avatars.githubusercontent.com/u/46483893?s=72&u=b1f62809c04c681780d909a95a2b80bcc36a97bd&v=4" width="24" alt="Avatar of kremeshnoi"> kremeshnoi
@@ -8581,20 +8607,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>653</td>
-		<td>
-			<a href="https://github.com/ivarsb">
-				<img src="https://avatars.githubusercontent.com/u/7125872?s=72&v=4" width="24" alt="Avatar of ivarsb"> ivarsb
-			</a><br/>
-			Ivars
-		</td>
-		<td>Mak It </td>
-		<td>No Twitter Username</td>
-		<td>Riga</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/jekabssolo">
 				<img src="https://avatars.githubusercontent.com/u/57091906?s=72&u=94773f32c0dfaef886500c28f8037b2a2ec9d2ae&v=4" width="24" alt="Avatar of jekabssolo"> jekabssolo
@@ -8607,7 +8620,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/MelanijaGrunte">
 				<img src="https://avatars.githubusercontent.com/u/29867543?s=72&u=7ec510deffb74786b695070f510ef66f4a7432fa&v=4" width="24" alt="Avatar of MelanijaGrunte"> MelanijaGrunte
@@ -8620,7 +8633,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/FilipsMasolovs">
 				<img src="https://avatars.githubusercontent.com/u/53852456?s=72&u=66467ae176e4754e98abba2e7654276040da6a58&v=4" width="24" alt="Avatar of FilipsMasolovs"> FilipsMasolovs
@@ -8633,7 +8646,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/130db">
 				<img src="https://avatars.githubusercontent.com/u/205416?s=72&u=b7a9c321b9410685e200214ddb1bc294097e4659&v=4" width="24" alt="Avatar of 130db"> 130db
@@ -8646,7 +8659,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/drfill">
 				<img src="https://avatars.githubusercontent.com/u/411068?s=72&v=4" width="24" alt="Avatar of drfill"> drfill
@@ -8659,7 +8672,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/lauzis">
 				<img src="https://avatars.githubusercontent.com/u/8123663?s=72&u=7b01b78c5259ed927025a5366937bc6bb88ed0bb&v=4" width="24" alt="Avatar of lauzis"> lauzis
@@ -8672,7 +8685,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/luxemate">
 				<img src="https://avatars.githubusercontent.com/u/1465003?s=72&u=bf919f32817e09622ff24ad9aac810ec3885461b&v=4" width="24" alt="Avatar of luxemate"> luxemate
@@ -8685,7 +8698,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/vijexa">
 				<img src="https://avatars.githubusercontent.com/u/19194722?s=72&u=48873e912fac00b8e910380667d23fc95529aa80&v=4" width="24" alt="Avatar of vijexa"> vijexa
@@ -8698,7 +8711,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/ards">
 				<img src="https://avatars.githubusercontent.com/u/1142837?s=72&v=4" width="24" alt="Avatar of ards"> ards
@@ -8711,7 +8724,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/nxsmtech">
 				<img src="https://avatars.githubusercontent.com/u/47241161?s=72&u=08a61f1d8a511b8d9ec11315ef5c74e3ed1b8c35&v=4" width="24" alt="Avatar of nxsmtech"> nxsmtech
@@ -8724,7 +8737,20 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
+		<td>
+			<a href="https://github.com/ktarasjuks">
+				<img src="https://avatars.githubusercontent.com/u/22171278?s=72&u=d39c8c3b9dcd72030088dbf33f919dfce15e045b&v=4" width="24" alt="Avatar of ktarasjuks"> ktarasjuks
+			</a><br/>
+			Konstantins
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Latvia</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/dredupuika">
 				<img src="https://avatars.githubusercontent.com/u/5547412?s=72&u=3357850282da5327e2f88d88d3b3d348954dc8cf&v=4" width="24" alt="Avatar of dredupuika"> dredupuika
@@ -8737,7 +8763,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/IgorGursky">
 				<img src="https://avatars.githubusercontent.com/u/5999530?s=72&u=c4dac5b5f0fd922e59ffc6bb232fe53d8df2b780&v=4" width="24" alt="Avatar of IgorGursky"> IgorGursky
@@ -8750,7 +8776,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/psaruks">
 				<img src="https://avatars.githubusercontent.com/u/18167510?s=72&u=caf8e55578d8fe1f6262d09302995ac3114c5749&v=4" width="24" alt="Avatar of psaruks"> psaruks
@@ -8763,7 +8789,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/Brick85">
 				<img src="https://avatars.githubusercontent.com/u/1073650?s=72&v=4" width="24" alt="Avatar of Brick85"> Brick85
@@ -8776,7 +8802,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/Zanisimo">
 				<img src="https://avatars.githubusercontent.com/u/730782?s=72&v=4" width="24" alt="Avatar of Zanisimo"> Zanisimo
@@ -8789,7 +8815,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/andrejromanov">
 				<img src="https://avatars.githubusercontent.com/u/11188813?s=72&u=d94b54df541966eb6d5b94f4e3699ef90ab943fe&v=4" width="24" alt="Avatar of andrejromanov"> andrejromanov
@@ -8802,7 +8828,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/Fricbergs">
 				<img src="https://avatars.githubusercontent.com/u/16918769?s=72&u=979efbe8cfa1c3fc125152c8c860fbad8b5cc5f5&v=4" width="24" alt="Avatar of Fricbergs"> Fricbergs
@@ -8815,7 +8841,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/tostercx">
 				<img src="https://avatars.githubusercontent.com/u/4965387?s=72&u=367f8cbb68090f8bb21a2571bcb6a1bfe67e5328&v=4" width="24" alt="Avatar of tostercx"> tostercx
@@ -8828,7 +8854,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/TheWhisp">
 				<img src="https://avatars.githubusercontent.com/u/969416?s=72&v=4" width="24" alt="Avatar of TheWhisp"> TheWhisp
@@ -8841,7 +8867,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/teresko">
 				<img src="https://avatars.githubusercontent.com/u/752652?s=72&v=4" width="24" alt="Avatar of teresko"> teresko
@@ -8854,7 +8880,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/aadamovich">
 				<img src="https://avatars.githubusercontent.com/u/2787794?s=72&u=45339ea204ab23c61e4cdf99b9f2a4513f47b017&v=4" width="24" alt="Avatar of aadamovich"> aadamovich
@@ -8867,7 +8893,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/biggora">
 				<img src="https://avatars.githubusercontent.com/u/921170?s=72&v=4" width="24" alt="Avatar of biggora"> biggora
@@ -8880,7 +8906,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/andris-silis">
 				<img src="https://avatars.githubusercontent.com/u/473871?s=72&v=4" width="24" alt="Avatar of andris-silis"> andris-silis
@@ -8893,7 +8919,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/echoAlexey">
 				<img src="https://avatars.githubusercontent.com/u/3122131?s=72&v=4" width="24" alt="Avatar of echoAlexey"> echoAlexey
@@ -8906,7 +8932,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/IngusSkaistkalns">
 				<img src="https://avatars.githubusercontent.com/u/219684?s=72&u=57190a3839ef3eee2c5124a122035d684de6d96b&v=4" width="24" alt="Avatar of IngusSkaistkalns"> IngusSkaistkalns
@@ -8919,7 +8945,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/MarisElsins">
 				<img src="https://avatars.githubusercontent.com/u/2761857?s=72&v=4" width="24" alt="Avatar of MarisElsins"> MarisElsins
@@ -8932,7 +8958,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/AMekss">
 				<img src="https://avatars.githubusercontent.com/u/327187?s=72&v=4" width="24" alt="Avatar of AMekss"> AMekss
@@ -8945,7 +8971,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/gacha">
 				<img src="https://avatars.githubusercontent.com/u/34115?s=72&u=9774a03da68df320a3beda0afee9a6956d7df828&v=4" width="24" alt="Avatar of gacha"> gacha
@@ -8958,7 +8984,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/aligungor">
 				<img src="https://avatars.githubusercontent.com/u/8948265?s=72&u=2639d697417d453f529bb13f85bcbce0033ec087&v=4" width="24" alt="Avatar of aligungor"> aligungor
@@ -8971,7 +8997,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/vestel">
 				<img src="https://avatars.githubusercontent.com/u/10640?s=72&v=4" width="24" alt="Avatar of vestel"> vestel
@@ -8984,7 +9010,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/peremenov">
 				<img src="https://avatars.githubusercontent.com/u/4930417?s=72&u=6b00a310370078be33b4a50fbfaf9b7c28759a6b&v=4" width="24" alt="Avatar of peremenov"> peremenov
@@ -8997,7 +9023,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/kavacky">
 				<img src="https://avatars.githubusercontent.com/u/956387?s=72&u=209c2b26a29df6a3d331a41f1c1f0dd0ab0e3271&v=4" width="24" alt="Avatar of kavacky"> kavacky
@@ -9010,7 +9036,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/Mad182">
 				<img src="https://avatars.githubusercontent.com/u/798148?s=72&v=4" width="24" alt="Avatar of Mad182"> Mad182
@@ -9023,7 +9049,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/dainis">
 				<img src="https://avatars.githubusercontent.com/u/946253?s=72&v=4" width="24" alt="Avatar of dainis"> dainis
@@ -9036,7 +9062,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/ORzazade">
 				<img src="https://avatars.githubusercontent.com/u/14540879?s=72&u=a6d81c952d9c76f2967ada40f5cb5f49dad13846&v=4" width="24" alt="Avatar of ORzazade"> ORzazade
@@ -9049,7 +9075,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/JPurinsh">
 				<img src="https://avatars.githubusercontent.com/u/9694744?s=72&u=eca4419acdf37c7860c438697b27fbdb7d7907fc&v=4" width="24" alt="Avatar of JPurinsh"> JPurinsh
@@ -9062,7 +9088,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/chernecov">
 				<img src="https://avatars.githubusercontent.com/u/2867987?s=72&u=52b4e92f801de06b48fdbb69751dd00b2fc58fa3&v=4" width="24" alt="Avatar of chernecov"> chernecov
@@ -9075,7 +9101,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/Azael05x">
 				<img src="https://avatars.githubusercontent.com/u/2225798?s=72&u=76c6fa5dec80ddacbef96d2073995c331486e4eb&v=4" width="24" alt="Avatar of Azael05x"> Azael05x
@@ -9088,7 +9114,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/podlodkin">
 				<img src="https://avatars.githubusercontent.com/u/23024800?s=72&u=f9bc89f2900ac916c2517178da6d62b8b8398d0c&v=4" width="24" alt="Avatar of podlodkin"> podlodkin
@@ -9101,7 +9127,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/martins-olekss">
 				<img src="https://avatars.githubusercontent.com/u/7877155?s=72&u=2d792a4e38012ce939fe011c058c8808a42708b6&v=4" width="24" alt="Avatar of martins-olekss"> martins-olekss
@@ -9114,7 +9140,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/artursbraucs">
 				<img src="https://avatars.githubusercontent.com/u/449755?s=72&v=4" width="24" alt="Avatar of artursbraucs"> artursbraucs
@@ -9127,7 +9153,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/raivisr">
 				<img src="https://avatars.githubusercontent.com/u/1376160?s=72&v=4" width="24" alt="Avatar of raivisr"> raivisr
@@ -9140,20 +9166,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>696</td>
-		<td>
-			<a href="https://github.com/raimonds1503">
-				<img src="https://avatars.githubusercontent.com/u/450738?s=72&u=eb873a579249a1098d8c7caf40ce4179aff67cd9&v=4" width="24" alt="Avatar of raimonds1503"> raimonds1503
-			</a><br/>
-			Raimonds
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Latvia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/mtsyganov">
 				<img src="https://avatars.githubusercontent.com/u/129711?s=72&u=17d8d0fdabff95aec8eaf3c3d67527dd705b0aa0&v=4" width="24" alt="Avatar of mtsyganov"> mtsyganov
@@ -9166,7 +9179,20 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
+		<td>
+			<a href="https://github.com/raimonds1503">
+				<img src="https://avatars.githubusercontent.com/u/450738?s=72&u=eb873a579249a1098d8c7caf40ce4179aff67cd9&v=4" width="24" alt="Avatar of raimonds1503"> raimonds1503
+			</a><br/>
+			Raimonds
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Latvia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/meyaroslav">
 				<img src="https://avatars.githubusercontent.com/u/83348992?s=72&v=4" width="24" alt="Avatar of meyaroslav"> meyaroslav
@@ -9179,7 +9205,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/unrealevil">
 				<img src="https://avatars.githubusercontent.com/u/814166?s=72&v=4" width="24" alt="Avatar of unrealevil"> unrealevil
@@ -9192,7 +9218,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/HoldMySoul">
 				<img src="https://avatars.githubusercontent.com/u/34235820?s=72&u=2b4ef2fdf38a2f7cb7a8bc829a1e3569d8a18ae6&v=4" width="24" alt="Avatar of HoldMySoul"> HoldMySoul
@@ -9205,7 +9231,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/Mar1cX">
 				<img src="https://avatars.githubusercontent.com/u/12726926?s=72&u=74f41a92558627017e61d0de79338cb590cc665b&v=4" width="24" alt="Avatar of Mar1cX"> Mar1cX
@@ -9218,7 +9244,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/olegel">
 				<img src="https://avatars.githubusercontent.com/u/2486501?s=72&v=4" width="24" alt="Avatar of olegel"> olegel
@@ -9231,7 +9257,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/amjaliks">
 				<img src="https://avatars.githubusercontent.com/u/452914?s=72&v=4" width="24" alt="Avatar of amjaliks"> amjaliks
@@ -9244,7 +9270,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/sirks">
 				<img src="https://avatars.githubusercontent.com/u/18558317?s=72&u=4ea003cb1ebaee2b073c0ecda5567b4917afba15&v=4" width="24" alt="Avatar of sirks"> sirks
@@ -9257,7 +9283,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/mg-code">
 				<img src="https://avatars.githubusercontent.com/u/1376496?s=72&u=3933058a1db5e5910c0000ab8846c6fdb9471b95&v=4" width="24" alt="Avatar of mg-code"> mg-code
@@ -9270,20 +9296,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>706</td>
-		<td>
-			<a href="https://github.com/wonderwhy-er">
-				<img src="https://avatars.githubusercontent.com/u/1150639?s=72&v=4" width="24" alt="Avatar of wonderwhy-er"> wonderwhy-er
-			</a><br/>
-			Eduard Ruzga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Riga</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/djemeljanovs">
 				<img src="https://avatars.githubusercontent.com/u/5716684?s=72&u=8e913bf5af109476ffaa188d3a1fca67c8ca663f&v=4" width="24" alt="Avatar of djemeljanovs"> djemeljanovs
@@ -9296,7 +9309,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/osegrums">
 				<img src="https://avatars.githubusercontent.com/u/321145?s=72&v=4" width="24" alt="Avatar of osegrums"> osegrums
@@ -9309,7 +9322,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/valduris">
 				<img src="https://avatars.githubusercontent.com/u/1868843?s=72&u=f650ae81d501102f3f0759b1058d42a6383f8be7&v=4" width="24" alt="Avatar of valduris"> valduris
@@ -9322,7 +9335,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/aivarsi">
 				<img src="https://avatars.githubusercontent.com/u/7945789?s=72&v=4" width="24" alt="Avatar of aivarsi"> aivarsi
@@ -9335,7 +9348,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/ototo">
 				<img src="https://avatars.githubusercontent.com/u/844173?s=72&u=10f9f49042100f4c1041e2fe29bab326419e6fd5&v=4" width="24" alt="Avatar of ototo"> ototo
@@ -9348,7 +9361,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/cerpins">
 				<img src="https://avatars.githubusercontent.com/u/52047345?s=72&u=39fee268ff3e163591a6368d33f3e9fea9abe76d&v=4" width="24" alt="Avatar of cerpins"> cerpins
@@ -9361,7 +9374,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/client">
 				<img src="https://avatars.githubusercontent.com/u/53742587?s=72&u=2c57ec8e799faea6141c1124baca259d23d8edd8&v=4" width="24" alt="Avatar of client"> client
@@ -9374,7 +9387,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/sonicflare">
 				<img src="https://avatars.githubusercontent.com/u/7475460?s=72&v=4" width="24" alt="Avatar of sonicflare"> sonicflare
@@ -9387,7 +9400,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/jzaikovs">
 				<img src="https://avatars.githubusercontent.com/u/4089612?s=72&u=de87451a59ee433b360d0de6ebcdb24db45c5e74&v=4" width="24" alt="Avatar of jzaikovs"> jzaikovs
@@ -9400,7 +9413,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/luhmirin-s">
 				<img src="https://avatars.githubusercontent.com/u/2182889?s=72&u=bf6b1706f8e881e361924d5f495bff7cbb251499&v=4" width="24" alt="Avatar of luhmirin-s"> luhmirin-s
@@ -9413,7 +9426,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/armandsar">
 				<img src="https://avatars.githubusercontent.com/u/3834314?s=72&v=4" width="24" alt="Avatar of armandsar"> armandsar
@@ -9426,46 +9439,7 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>718</td>
-		<td>
-			<a href="https://github.com/vebers">
-				<img src="https://avatars.githubusercontent.com/u/1089346?s=72&u=d892b0053cc0fe39e34c81039de4621ba310b130&v=4" width="24" alt="Avatar of vebers"> vebers
-			</a><br/>
-			Kristians Vebers
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Latvia</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>719</td>
-		<td>
-			<a href="https://github.com/execmd">
-				<img src="https://avatars.githubusercontent.com/u/5129798?s=72&u=5faecae2bb76c2f578d7d95942e00fc729558403&v=4" width="24" alt="Avatar of execmd"> execmd
-			</a><br/>
-			Denis
-		</td>
-		<td>Rootapi Llc </td>
-		<td>No Twitter Username</td>
-		<td>Riga, Latvia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>720</td>
-		<td>
-			<a href="https://github.com/jmalinens">
-				<img src="https://avatars.githubusercontent.com/u/569039?s=72&v=4" width="24" alt="Avatar of jmalinens"> jmalinens
-			</a><br/>
-			Juris Malinens
-		</td>
-		<td>Inbokss </td>
-		<td>No Twitter Username</td>
-		<td>Latvia</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>721</td>
 		<td>
 			<a href="https://github.com/wakecold">
 				<img src="https://avatars.githubusercontent.com/u/28859640?s=72&u=2972baeb48287367183fec324d059e9c157009d2&v=4" width="24" alt="Avatar of wakecold"> wakecold
@@ -9478,14 +9452,40 @@ There are `962 users`  in Latvia. You need at least `4 followers` to be on this 
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>720</td>
 		<td>
-			<a href="https://github.com/ktarasjuks">
-				<img src="https://avatars.githubusercontent.com/u/22171278?s=72&u=d39c8c3b9dcd72030088dbf33f919dfce15e045b&v=4" width="24" alt="Avatar of ktarasjuks"> ktarasjuks
+			<a href="https://github.com/vebers">
+				<img src="https://avatars.githubusercontent.com/u/1089346?s=72&u=d892b0053cc0fe39e34c81039de4621ba310b130&v=4" width="24" alt="Avatar of vebers"> vebers
 			</a><br/>
-			Konstantins
+			Kristians Vebers
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Latvia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>721</td>
+		<td>
+			<a href="https://github.com/execmd">
+				<img src="https://avatars.githubusercontent.com/u/5129798?s=72&u=5faecae2bb76c2f578d7d95942e00fc729558403&v=4" width="24" alt="Avatar of execmd"> execmd
+			</a><br/>
+			Denis
+		</td>
+		<td>Rootapi Llc </td>
+		<td>No Twitter Username</td>
+		<td>Riga, Latvia</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>722</td>
+		<td>
+			<a href="https://github.com/jmalinens">
+				<img src="https://avatars.githubusercontent.com/u/569039?s=72&v=4" width="24" alt="Avatar of jmalinens"> jmalinens
+			</a><br/>
+			Juris Malinens
+		</td>
+		<td>Inbokss </td>
 		<td>No Twitter Username</td>
 		<td>Latvia</td>
 		<td>1</td>
