@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/7/25 8:11 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/7/26 1:29 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `120 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `122 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -158,8 +158,8 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DrNgarleita">DrNgarleita</a></td>
 		<td>Chad</td>
-		<td>51</td>
-		<td>198</td>
+		<td>52</td>
+		<td>199</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -368,8 +368,8 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena / Tchad</td>
-		<td>18</td>
-		<td>18</td>
+		<td>19</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -486,6 +486,20 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>28</td>
 		<td>
+			<a href="https://github.com/axebra12">
+				<img src="https://avatars.githubusercontent.com/u/120608686?s=72&u=0955e33b8a625d588334e8990ce8eb8510e6e6ca&v=4" width="24" alt="Avatar of axebra12"> axebra12
+			</a><br/>
+			Yingra Bara
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bara_yingea">bara_yingea</a></td>
+		<td>N'Djamena, Chad</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
 			<a href="https://github.com/Ghisdev">
 				<img src="https://avatars.githubusercontent.com/u/104063977?s=72&u=daed7adece3c00328a59b69f8a8d129c43c682b8&v=4" width="24" alt="Avatar of Ghisdev"> Ghisdev
 			</a><br/>
@@ -498,7 +512,7 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/s20154">
 				<img src="https://avatars.githubusercontent.com/u/56227329?s=72&u=1d62187a1bb2e49fa7a78e866a8a7f32e894d3b0&v=4" width="24" alt="Avatar of s20154"> s20154
@@ -512,7 +526,7 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>31</td>
 		<td>
 			<a href="https://github.com/hissene">
 				<img src="https://avatars.githubusercontent.com/u/10146460?s=72&u=9f290c50fc89de024d9d465b6ed2271243d5bdd8&v=4" width="24" alt="Avatar of hissene"> hissene
@@ -526,7 +540,7 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/omellodacatlol20202">
 				<img src="https://avatars.githubusercontent.com/u/114786213?s=72&u=0c98a090c9385ec256cbf4c5e7ab4b1060ea68f3&v=4" width="24" alt="Avatar of omellodacatlol20202"> omellodacatlol20202
@@ -540,7 +554,7 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>32</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/gitmhd">
 				<img src="https://avatars.githubusercontent.com/u/86744371?s=72&u=927957d9d9129b1c9b88f3a16dd346c20c768f61&v=4" width="24" alt="Avatar of gitmhd"> gitmhd
@@ -554,7 +568,7 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>33</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/ssougour">
 				<img src="https://avatars.githubusercontent.com/u/47749593?s=72&v=4" width="24" alt="Avatar of ssougour"> ssougour
@@ -568,7 +582,7 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/issahassan5555">
 				<img src="https://avatars.githubusercontent.com/u/109672163?s=72&v=4" width="24" alt="Avatar of issahassan5555"> issahassan5555
@@ -582,7 +596,7 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/Solid2017">
 				<img src="https://avatars.githubusercontent.com/u/30882006?s=72&u=85f8d1355f3f9a3849a4e41d977cd5371a89390e&v=4" width="24" alt="Avatar of Solid2017"> Solid2017
@@ -596,7 +610,7 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/MadTheViking">
 				<img src="https://avatars.githubusercontent.com/u/23707873?s=72&u=08b49f9a49fc13dd1efc48ab93410a17e9126242&v=4" width="24" alt="Avatar of MadTheViking"> MadTheViking
@@ -606,20 +620,6 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad, Boi</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/DharMannn">
-				<img src="https://avatars.githubusercontent.com/u/103457705?s=72&u=e7d28e1961b01bceffc5029cd4314eb2139c8bcc&v=4" width="24" alt="Avatar of DharMannn"> DharMannn
-			</a><br/>
-			DharMannnnnnnnnnnnn
-		</td>
-		<td>Urmom.com </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
@@ -760,6 +760,20 @@ There are `120 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Chad, Africa</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/Ker852284rBrowne">
+				<img src="https://avatars.githubusercontent.com/u/140232503?s=72&v=4" width="24" alt="Avatar of Ker852284rBrowne"> Ker852284rBrowne
+			</a><br/>
+			Alexander Cox
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>8631 Chad Harbor Suite 233 Lake Melissahaven / NM 71099</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
