@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg" alt="Congo">
 </a>
 
-The `number of followers` of users in Congo on `2023/7/28 12:58 AM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
+The `number of followers` of users in Congo on `2023/7/28 6:44 PM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Freelance Full-stack Developer </td>
 		<td><a href="https://twitter.com/gullain_bisimwa">gullain_bisimwa</a></td>
 		<td>Democratic Republic of the Congo</td>
-		<td>184</td>
+		<td>185</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -193,7 +193,7 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Kdea Academy </td>
 		<td><a href="https://twitter.com/s_kinyamba">s_kinyamba</a></td>
 		<td>DR CONGO</td>
-		<td>89</td>
+		<td>90</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -297,7 +297,7 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Smico Sa </td>
 		<td><a href="https://twitter.com/HeritierLionge">HeritierLionge</a></td>
 		<td>Goma, Congo</td>
-		<td>49</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -692,6 +692,19 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>46</td>
 		<td>
+			<a href="https://github.com/danielsafari143">
+				<img src="https://avatars.githubusercontent.com/u/113584219?s=72&u=ac48dba5fa236351ceeb0310182c08f5b2e8d5c0&v=4" width="24" alt="Avatar of danielsafari143"> danielsafari143
+			</a><br/>
+			Safari Hamuli 
+		</td>
+		<td>Full-stack Developer </td>
+		<td><a href="https://twitter.com/DanielSafari143">DanielSafari143</a></td>
+		<td>DR Congo </td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td>
 			<a href="https://github.com/jenCkw">
 				<img src="https://avatars.githubusercontent.com/u/66321916?s=72&u=eb51394399095aa80063a30738b1cada779597df&v=4" width="24" alt="Avatar of jenCkw"> jenCkw
 			</a><br/>
@@ -703,7 +716,7 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/kambereBr">
 				<img src="https://avatars.githubusercontent.com/u/29512462?s=72&u=3fa9566680ca33af18091cc3f90c83569aaceaac&v=4" width="24" alt="Avatar of kambereBr"> kambereBr
@@ -713,19 +726,6 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Full-stack Developer At Evoludata<br/></td>
 		<td><a href="https://twitter.com/kambereBr">kambereBr</a></td>
 		<td>DR Congo</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
-			<a href="https://github.com/danielsafari143">
-				<img src="https://avatars.githubusercontent.com/u/113584219?s=72&u=ac48dba5fa236351ceeb0310182c08f5b2e8d5c0&v=4" width="24" alt="Avatar of danielsafari143"> danielsafari143
-			</a><br/>
-			Safari Hamuli 
-		</td>
-		<td>Full-stack Developer </td>
-		<td><a href="https://twitter.com/DanielSafari143">DanielSafari143</a></td>
-		<td>DR Congo </td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -1836,19 +1836,6 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>134</td>
 		<td>
-			<a href="https://github.com/PrinceYoulou">
-				<img src="https://avatars.githubusercontent.com/u/13778417?s=72&u=c7742d924f970e0046fdcc7cc1eb666b2907e159&v=4" width="24" alt="Avatar of PrinceYoulou"> PrinceYoulou
-			</a><br/>
-			Prince Youlou
-		</td>
-		<td>Intense Pixel Studio </td>
-		<td>No Twitter Username</td>
-		<td>Brazzaville, Congo</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
 			<a href="https://github.com/JordanLlumbwe">
 				<img src="https://avatars.githubusercontent.com/u/35976400?s=72&u=a73ccad2a54a94e167aa8733cc807b0043798cc6&v=4" width="24" alt="Avatar of JordanLlumbwe"> JordanLlumbwe
 			</a><br/>
@@ -1857,6 +1844,19 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kinshasa DR Congo</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/PrinceYoulou">
+				<img src="https://avatars.githubusercontent.com/u/13778417?s=72&u=c7742d924f970e0046fdcc7cc1eb666b2907e159&v=4" width="24" alt="Avatar of PrinceYoulou"> PrinceYoulou
+			</a><br/>
+			Prince Youlou
+		</td>
+		<td>Intense Pixel Studio </td>
+		<td>No Twitter Username</td>
+		<td>Brazzaville, Congo</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -2408,19 +2408,6 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>178</td>
 		<td>
-			<a href="https://github.com/Akilimali003">
-				<img src="https://avatars.githubusercontent.com/u/27545925?s=72&u=fe4438196cb2f1716ae88cc1928c354e511f3599&v=4" width="24" alt="Avatar of Akilimali003"> Akilimali003
-			</a><br/>
-			Akilimali Samuel Vijey
-		</td>
-		<td>Gamesoft® </td>
-		<td><a href="https://twitter.com/AkilimaliVijey">AkilimaliVijey</a></td>
-		<td>Goma, Congo DR</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
 			<a href="https://github.com/hmunyeku">
 				<img src="https://avatars.githubusercontent.com/u/24565689?s=72&u=f1a8dbe044a13461f77af7438b2f390eb2b14228&v=4" width="24" alt="Avatar of hmunyeku"> hmunyeku
 			</a><br/>
@@ -2429,6 +2416,19 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>Bingroup Sis </td>
 		<td>No Twitter Username</td>
 		<td>Pointe-Noire</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>179</td>
+		<td>
+			<a href="https://github.com/Akilimali003">
+				<img src="https://avatars.githubusercontent.com/u/27545925?s=72&u=fe4438196cb2f1716ae88cc1928c354e511f3599&v=4" width="24" alt="Avatar of Akilimali003"> Akilimali003
+			</a><br/>
+			Akilimali Samuel Vijey
+		</td>
+		<td>Gamesoft® </td>
+		<td><a href="https://twitter.com/AkilimaliVijey">AkilimaliVijey</a></td>
+		<td>Goma, Congo DR</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -2850,14 +2850,14 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>212</td>
 		<td>
-			<a href="https://github.com/KSLM">
-				<img src="https://avatars.githubusercontent.com/u/8588837?s=72&u=4207699a57dcc0c72bb9ba5df1a75c55b86cee4b&v=4" width="24" alt="Avatar of KSLM"> KSLM
+			<a href="https://github.com/Zaphnath-paneah">
+				<img src="https://avatars.githubusercontent.com/u/13553883?s=72&u=8d1267400463af70b50ea9426a8789e19bea9fe7&v=4" width="24" alt="Avatar of Zaphnath-paneah"> Zaphnath-paneah
 			</a><br/>
-			Patrick KASELE
+			Trésor NGASSAKI SITA
 		</td>
-		<td>Congo Green Citizen </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kinshasa, Democratic Republic of Congo</td>
+		<td>BRAZZAVILLE </td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -3409,19 +3409,6 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>255</td>
 		<td>
-			<a href="https://github.com/BMalumbi">
-				<img src="https://avatars.githubusercontent.com/u/90482582?s=72&u=7764f50e2eddfa8653691dd9fbc637033dc549d3&v=4" width="24" alt="Avatar of BMalumbi"> BMalumbi
-			</a><br/>
-			Benoit BEYA
-		</td>
-		<td>Archiciel </td>
-		<td>No Twitter Username</td>
-		<td>RD CONGO</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
 			<a href="https://github.com/Pascalkasongo">
 				<img src="https://avatars.githubusercontent.com/u/51240246?s=72&v=4" width="24" alt="Avatar of Pascalkasongo"> Pascalkasongo
 			</a><br/>
@@ -3430,6 +3417,19 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>republique democratique du congo</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/BMalumbi">
+				<img src="https://avatars.githubusercontent.com/u/90482582?s=72&u=7764f50e2eddfa8653691dd9fbc637033dc549d3&v=4" width="24" alt="Avatar of BMalumbi"> BMalumbi
+			</a><br/>
+			Benoit BEYA
+		</td>
+		<td>Archiciel </td>
+		<td>No Twitter Username</td>
+		<td>RD CONGO</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -3915,19 +3915,6 @@ There are `611 users`  in Congo. You need at least `0 followers` to be on this l
 	</tr>
 	<tr>
 		<td>294</td>
-		<td>
-			<a href="https://github.com/97JOSPIN">
-				<img src="https://avatars.githubusercontent.com/u/89257121?s=72&u=5749226e1cbded15875e7e50a70f21b435386ffa&v=4" width="24" alt="Avatar of 97JOSPIN"> 97JOSPIN
-			</a><br/>
-			HABAMUNGU BAHINZA Jospin
-		</td>
-		<td>Umoja Digital Tech Agency<br/></td>
-		<td>No Twitter Username</td>
-		<td>Congo, Democratic Republic of</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>295</td>
 		<td>
 			<a href="https://github.com/JasonPhilippe">
 				<img src="https://avatars.githubusercontent.com/u/96752981?s=72&u=2ab64079c5eedb670f75201f69fb71f89ad36969&v=4" width="24" alt="Avatar of JasonPhilippe"> JasonPhilippe
