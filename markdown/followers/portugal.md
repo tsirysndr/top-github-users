@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Portugal">
 </a>
 
-The `number of followers` of users in Portugal on `2023/7/31 11:42 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
+The `number of followers` of users in Portugal on `2023/8/1 5:10 PM UTC`. This list contains users from `Portugal` and cities `Lisbon` `Porto` `Braga` `Coimbra`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/jonasschmedtman">jonasschmedtman</a></td>
 		<td>Faro, Portugal</td>
-		<td>18968</td>
+		<td>18987</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@datacumulus, @conduktor </td>
 		<td>No Twitter Username</td>
 		<td>Lisbon + moving around the world</td>
-		<td>7634</td>
+		<td>7639</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@codrops  </td>
 		<td><a href="https://twitter.com/crnacura">crnacura</a></td>
 		<td>Portimão, Portugal</td>
-		<td>6675</td>
+		<td>6676</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@laravel  </td>
 		<td><a href="https://twitter.com/enunomaduro">enunomaduro</a></td>
 		<td>Portugal</td>
-		<td>5783</td>
+		<td>5789</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@redhatofficial </td>
 		<td><a href="https://twitter.com/rochacbruno">rochacbruno</a></td>
 		<td>Viana do Castelo, Portugal</td>
-		<td>4035</td>
+		<td>4036</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@tigerbeetle </td>
 		<td>No Twitter Username</td>
 		<td>Lisbon</td>
-		<td>3604</td>
+		<td>3609</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -219,7 +219,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@django, @djangolondon </td>
 		<td><a href="https://twitter.com/adamchainz">adamchainz</a></td>
 		<td>London / Lisbon</td>
-		<td>3308</td>
+		<td>3311</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -284,7 +284,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@suspicious-shell-ac </td>
 		<td>No Twitter Username</td>
 		<td>Lisbon - portugal</td>
-		<td>1996</td>
+		<td>1997</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -297,7 +297,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@form3tech-oss </td>
 		<td><a href="https://twitter.com/filhodanuvem">filhodanuvem</a></td>
 		<td>Lisbon - Portugal</td>
-		<td>1967</td>
+		<td>1966</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -310,7 +310,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Bydas </td>
 		<td>No Twitter Username</td>
 		<td>Porto</td>
-		<td>1907</td>
+		<td>1908</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -336,7 +336,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>On2 & Braziljs </td>
 		<td><a href="https://twitter.com/jaydson">jaydson</a></td>
 		<td>Porto Alegre, Brazil</td>
-		<td>1655</td>
+		<td>1656</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -349,7 +349,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@cloudflare  </td>
 		<td><a href="https://twitter.com/vastur">vastur</a></td>
 		<td>Lisbon, Portugal</td>
-		<td>1629</td>
+		<td>1631</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -362,7 +362,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Simcoder </td>
 		<td><a href="https://twitter.com/simcoder_here">simcoder_here</a></td>
 		<td>Porto, Portugal</td>
-		<td>1552</td>
+		<td>1554</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -388,7 +388,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Put.as </td>
 		<td><a href="https://twitter.com/osxreverser">osxreverser</a></td>
 		<td>Portugal</td>
-		<td>1448</td>
+		<td>1449</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -466,7 +466,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@kingofbugbounty </td>
 		<td><a href="https://twitter.com/KingOfBugbounty">KingOfBugbounty</a></td>
 		<td>Porto alegre</td>
-		<td>1041</td>
+		<td>1040</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,7 +479,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Iefp - Instituto Do<br/>Emprego<br/>E<br/>Formação<br/>Profissional<br/></td>
 		<td><a href="https://twitter.com/cleidi_barbosa">cleidi_barbosa</a></td>
 		<td>Lisboa, Portugal</td>
-		<td>1004</td>
+		<td>1003</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -518,7 +518,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@xataio </td>
 		<td><a href="https://twitter.com/miuki_miu">miuki_miu</a></td>
 		<td>Lisbon, Portugal</td>
-		<td>927</td>
+		<td>928</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -609,7 +609,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/rafaelgalleani">rafaelgalleani</a></td>
 		<td>Portugal</td>
-		<td>768</td>
+		<td>769</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -778,7 +778,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Institute For Systems And<br/>Robotics<br/></td>
 		<td><a href="https://twitter.com/FMCalisto">FMCalisto</a></td>
 		<td>Portugal</td>
-		<td>575</td>
+		<td>576</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -809,19 +809,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/0x00-0x00">
-				<img src="https://avatars.githubusercontent.com/u/23364530?s=72&u=889c5c02df3af4c526666beb0c12dd7af8c4f87e&v=4" width="24" alt="Avatar of 0x00-0x00"> 0x00-0x00
-			</a><br/>
-			Andre Marques (zc00l)
-		</td>
-		<td>Personal Profile </td>
-		<td>No Twitter Username</td>
-		<td>Lisbon, Portugal</td>
-		<td>523</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/DenisAzeved0">
 				<img src="https://avatars.githubusercontent.com/u/21110454?s=72&u=77dd9674332889419271298be052c632a3fab31b&v=4" width="24" alt="Avatar of DenisAzeved0"> DenisAzeved0
 			</a><br/>
@@ -830,6 +817,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Dna Tecnologia </td>
 		<td><a href="https://twitter.com/denisdeazevedo">denisdeazevedo</a></td>
 		<td>Porto Alegre/RS - Brasil</td>
+		<td>524</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/0x00-0x00">
+				<img src="https://avatars.githubusercontent.com/u/23364530?s=72&u=889c5c02df3af4c526666beb0c12dd7af8c4f87e&v=4" width="24" alt="Avatar of 0x00-0x00"> 0x00-0x00
+			</a><br/>
+			Andre Marques (zc00l)
+		</td>
+		<td>Personal Profile </td>
+		<td>No Twitter Username</td>
+		<td>Lisbon, Portugal</td>
 		<td>523</td>
 	</tr>
 	<tr>
@@ -960,7 +960,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Rocket.chat </td>
 		<td>No Twitter Username</td>
 		<td>Porto Alegre, Brasil</td>
-		<td>432</td>
+		<td>433</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -973,7 +973,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Porto - Portugal</td>
-		<td>429</td>
+		<td>430</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1103,7 +1103,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alcueca">alcueca</a></td>
 		<td>Lisbon, Portugal</td>
-		<td>388</td>
+		<td>389</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1129,7 +1129,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Do It Lean </td>
 		<td><a href="https://twitter.com/correiajpv">correiajpv</a></td>
 		<td>Porto, Portugal</td>
-		<td>377</td>
+		<td>378</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1207,7 +1207,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Porto - Portugal</td>
-		<td>338</td>
+		<td>339</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1363,7 +1363,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@feedzai  </td>
 		<td><a href="https://twitter.com/waldyrious">waldyrious</a></td>
 		<td>Braga, Portugal</td>
-		<td>311</td>
+		<td>312</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1376,7 +1376,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Porto Alegre, RS, Brasil</td>
-		<td>309</td>
+		<td>310</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1602,6 +1602,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>116</td>
 		<td>
+			<a href="https://github.com/viniciosneves">
+				<img src="https://avatars.githubusercontent.com/u/9221969?s=72&u=1182ec4dc61e61397f052acac607bb6e6faadb79&v=4" width="24" alt="Avatar of viniciosneves"> viniciosneves
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Braga</td>
+		<td>252</td>
+	</tr>
+	<tr>
+		<td>117</td>
+		<td>
 			<a href="https://github.com/rogeriopvl">
 				<img src="https://avatars.githubusercontent.com/u/38240?s=72&u=402087e2c97777acbf44cfec6d373521f1d4653f&v=4" width="24" alt="Avatar of rogeriopvl"> rogeriopvl
 			</a><br/>
@@ -1613,7 +1626,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/ruimarinho">
 				<img src="https://avatars.githubusercontent.com/u/288709?s=72&u=c2206452eb6daca487271043853a7b37e43dbfde&v=4" width="24" alt="Avatar of ruimarinho"> ruimarinho
@@ -1626,20 +1639,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>119</td>
 		<td>
-			<a href="https://github.com/viniciosneves">
-				<img src="https://avatars.githubusercontent.com/u/9221969?s=72&u=1182ec4dc61e61397f052acac607bb6e6faadb79&v=4" width="24" alt="Avatar of viniciosneves"> viniciosneves
+			<a href="https://github.com/ponces">
+				<img src="https://avatars.githubusercontent.com/u/4687488?s=72&u=3cff1eb355ba66db565fc259fa079969bcea43eb&v=4" width="24" alt="Avatar of ponces"> ponces
 			</a><br/>
-			No Name
+			ponces
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Braga</td>
-		<td>250</td>
+		<td>Critical Manufacturing </td>
+		<td><a href="https://twitter.com/ponces___">ponces___</a></td>
+		<td>Porto, Portugal</td>
+		<td>248</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/GNSPS">
 				<img src="https://avatars.githubusercontent.com/u/4008213?s=72&u=494117088f5745dc98284a2e29ce05229c744e9a&v=4" width="24" alt="Avatar of GNSPS"> GNSPS
@@ -1650,19 +1663,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td><a href="https://twitter.com/GNSPS">GNSPS</a></td>
 		<td>Portugal</td>
 		<td>248</td>
-	</tr>
-	<tr>
-		<td>120</td>
-		<td>
-			<a href="https://github.com/ponces">
-				<img src="https://avatars.githubusercontent.com/u/4687488?s=72&u=3cff1eb355ba66db565fc259fa079969bcea43eb&v=4" width="24" alt="Avatar of ponces"> ponces
-			</a><br/>
-			ponces
-		</td>
-		<td>Critical Manufacturing </td>
-		<td><a href="https://twitter.com/ponces___">ponces___</a></td>
-		<td>Porto, Portugal</td>
-		<td>247</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1740,7 +1740,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Https://livro-sarmou </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>238</td>
+		<td>237</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -1836,6 +1836,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>134</td>
 		<td>
+			<a href="https://github.com/pedroperegrinaa">
+				<img src="https://avatars.githubusercontent.com/u/57403682?s=72&u=c5770bb1d382102dec96dfce9eb6ea9d3d5cf68a&v=4" width="24" alt="Avatar of pedroperegrinaa"> pedroperegrinaa
+			</a><br/>
+			Pedro Peregrina
+		</td>
+		<td>@dalacodesistemas </td>
+		<td><a href="https://twitter.com/pedroperegrinaa">pedroperegrinaa</a></td>
+		<td>Porto Seguro, Bahia, Brazil</td>
+		<td>219</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
 			<a href="https://github.com/amasiero">
 				<img src="https://avatars.githubusercontent.com/u/1767253?s=72&u=00bdfc70bd4f77d6832b8cef127b291df19324a2&v=4" width="24" alt="Avatar of amasiero"> amasiero
 			</a><br/>
@@ -1847,7 +1860,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>219</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/miguelpruivo">
 				<img src="https://avatars.githubusercontent.com/u/27860743?s=72&v=4" width="24" alt="Avatar of miguelpruivo"> miguelpruivo
@@ -1857,20 +1870,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MiguelRuivo">MiguelRuivo</a></td>
 		<td>Portugal</td>
-		<td>218</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/pedroperegrinaa">
-				<img src="https://avatars.githubusercontent.com/u/57403682?s=72&u=c5770bb1d382102dec96dfce9eb6ea9d3d5cf68a&v=4" width="24" alt="Avatar of pedroperegrinaa"> pedroperegrinaa
-			</a><br/>
-			Pedro Peregrina
-		</td>
-		<td>@dalacodesistemas </td>
-		<td><a href="https://twitter.com/pedroperegrinaa">pedroperegrinaa</a></td>
-		<td>Porto Seguro, Bahia, Brazil</td>
-		<td>217</td>
+		<td>219</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -1961,7 +1961,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Sys4soft </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>207</td>
+		<td>208</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -1992,6 +1992,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>146</td>
 		<td>
+			<a href="https://github.com/leandronsp">
+				<img src="https://avatars.githubusercontent.com/u/385640?s=72&u=7b133d4a9c3502c71657d2f3f0cb3fa58ae86900&v=4" width="24" alt="Avatar of leandronsp"> leandronsp
+			</a><br/>
+			Leandro Proença
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/leandronsp">leandronsp</a></td>
+		<td>Portugal or Brazil</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
 			<a href="https://github.com/rgl">
 				<img src="https://avatars.githubusercontent.com/u/43356?s=72&v=4" width="24" alt="Avatar of rgl"> rgl
 			</a><br/>
@@ -2003,7 +2016,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/renatomarinho">
 				<img src="https://avatars.githubusercontent.com/u/26571?s=72&u=7d1be9871e6b5240cd77973486acd798ae371db8&v=4" width="24" alt="Avatar of renatomarinho"> renatomarinho
@@ -2016,7 +2029,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/ThibH">
 				<img src="https://avatars.githubusercontent.com/u/8869767?s=72&u=a81c38b28aa722de7bcaa3b1c554601bff37ae65&v=4" width="24" alt="Avatar of ThibH"> ThibH
@@ -2027,19 +2040,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td><a href="https://twitter.com/ThibaultHoudon">ThibaultHoudon</a></td>
 		<td>Portugal</td>
 		<td>203</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
-			<a href="https://github.com/leandronsp">
-				<img src="https://avatars.githubusercontent.com/u/385640?s=72&u=7b133d4a9c3502c71657d2f3f0cb3fa58ae86900&v=4" width="24" alt="Avatar of leandronsp"> leandronsp
-			</a><br/>
-			Leandro Proença
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/leandronsp">leandronsp</a></td>
-		<td>Portugal or Brazil</td>
-		<td>202</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2156,20 +2156,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/xico2k">xico2k</a></td>
 		<td>Portugal</td>
-		<td>191</td>
+		<td>192</td>
 	</tr>
 	<tr>
 		<td>159</td>
 		<td>
-			<a href="https://github.com/milenevlacerda">
-				<img src="https://avatars.githubusercontent.com/u/19351600?s=72&u=5e76eda4e565865e4e14055a019221680cf7c28e&v=4" width="24" alt="Avatar of milenevlacerda"> milenevlacerda
+			<a href="https://github.com/kaiosilveira">
+				<img src="https://avatars.githubusercontent.com/u/20289884?s=72&u=4ace3e8cf1a5e64e4a72176f7aabd278f9a1fc88&v=4" width="24" alt="Avatar of kaiosilveira"> kaiosilveira
 			</a><br/>
-			Milene Vieira Lacerda
+			Kaio Silveira
 		</td>
-		<td>Alright Adtech Company </td>
-		<td><a href="https://twitter.com/milenevlacerda">milenevlacerda</a></td>
-		<td>Porto Alegre, RS</td>
-		<td>191</td>
+		<td>Bloq.it </td>
+		<td><a href="https://twitter.com/kaio_dev">kaio_dev</a></td>
+		<td>Lisbon, Portugal</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -2187,15 +2187,15 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>161</td>
 		<td>
-			<a href="https://github.com/kaiosilveira">
-				<img src="https://avatars.githubusercontent.com/u/20289884?s=72&u=4ace3e8cf1a5e64e4a72176f7aabd278f9a1fc88&v=4" width="24" alt="Avatar of kaiosilveira"> kaiosilveira
+			<a href="https://github.com/milenevlacerda">
+				<img src="https://avatars.githubusercontent.com/u/19351600?s=72&u=5e76eda4e565865e4e14055a019221680cf7c28e&v=4" width="24" alt="Avatar of milenevlacerda"> milenevlacerda
 			</a><br/>
-			Kaio Silveira
+			Milene Vieira Lacerda
 		</td>
-		<td>Bloq.it </td>
-		<td><a href="https://twitter.com/kaio_dev">kaio_dev</a></td>
-		<td>Lisbon, Portugal</td>
-		<td>189</td>
+		<td>Alright Adtech Company </td>
+		<td><a href="https://twitter.com/milenevlacerda">milenevlacerda</a></td>
+		<td>Porto Alegre, RS</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -2377,7 +2377,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@pagerduty </td>
 		<td>No Twitter Username</td>
 		<td>Porto, Portugal</td>
-		<td>179</td>
+		<td>180</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -2520,7 +2520,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@huggingface </td>
 		<td><a href="https://twitter.com/joao_gante">joao_gante</a></td>
 		<td>Lisbon</td>
-		<td>171</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>187</td>
@@ -2707,6 +2707,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>201</td>
 		<td>
+			<a href="https://github.com/maxbyz">
+				<img src="https://avatars.githubusercontent.com/u/13717208?s=72&v=4" width="24" alt="Avatar of maxbyz"> maxbyz
+			</a><br/>
+			Gkoran Stoilkovits
+		</td>
+		<td>Atelier Stoilkovits </td>
+		<td><a href="https://twitter.com/eicon">eicon</a></td>
+		<td>Porto Heli</td>
+		<td>166</td>
+	</tr>
+	<tr>
+		<td>202</td>
+		<td>
 			<a href="https://github.com/fredmoreira">
 				<img src="https://avatars.githubusercontent.com/u/7239103?s=72&u=553448b279bde209894bbfe4740215cfe39f51de&v=4" width="24" alt="Avatar of fredmoreira"> fredmoreira
 			</a><br/>
@@ -2716,19 +2729,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td><a href="https://twitter.com/fredaomoreira">fredaomoreira</a></td>
 		<td>Porto, Portugal</td>
 		<td>166</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/maxbyz">
-				<img src="https://avatars.githubusercontent.com/u/13717208?s=72&v=4" width="24" alt="Avatar of maxbyz"> maxbyz
-			</a><br/>
-			Gkoran Stoilkovits
-		</td>
-		<td>Atelier Stoilkovits </td>
-		<td><a href="https://twitter.com/eicon">eicon</a></td>
-		<td>Porto Heli</td>
-		<td>165</td>
 	</tr>
 	<tr>
 		<td>203</td>
@@ -2785,6 +2785,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>207</td>
 		<td>
+			<a href="https://github.com/jotavare">
+				<img src="https://avatars.githubusercontent.com/u/38820667?s=72&u=1fc25feefbc66df300522a402ec36abe2a7b92ee&v=4" width="24" alt="Avatar of jotavare"> jotavare
+			</a><br/>
+			João Oliveira
+		</td>
+		<td>42 Porto / Isep<br/></td>
+		<td>No Twitter Username</td>
+		<td>Santa Maria da Feira, Portugal</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
 			<a href="https://github.com/goncalossilva">
 				<img src="https://avatars.githubusercontent.com/u/102931?s=72&u=6491495fdf48bac2320b9d8585e35c406c970433&v=4" width="24" alt="Avatar of goncalossilva"> goncalossilva
 			</a><br/>
@@ -2796,7 +2809,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/RuiRomano">
 				<img src="https://avatars.githubusercontent.com/u/10808715?s=72&u=b3a7da862a9410c2d3a816e6ec89bfd83a08f3a2&v=4" width="24" alt="Avatar of RuiRomano"> RuiRomano
@@ -2807,19 +2820,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td><a href="https://twitter.com/RuiRomano">RuiRomano</a></td>
 		<td>Portugal</td>
 		<td>159</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/jotavare">
-				<img src="https://avatars.githubusercontent.com/u/38820667?s=72&u=1fc25feefbc66df300522a402ec36abe2a7b92ee&v=4" width="24" alt="Avatar of jotavare"> jotavare
-			</a><br/>
-			João Oliveira
-		</td>
-		<td>42 Porto / Isep<br/></td>
-		<td>No Twitter Username</td>
-		<td>Santa Maria da Feira, Portugal</td>
-		<td>158</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -2863,6 +2863,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>213</td>
 		<td>
+			<a href="https://github.com/uLucasFraga">
+				<img src="https://avatars.githubusercontent.com/u/23031781?s=72&u=92be2523df55f5a6aae6fee705fc3917ee899c00&v=4" width="24" alt="Avatar of uLucasFraga"> uLucasFraga
+			</a><br/>
+			lucas.fraga
+		</td>
+		<td>Integer </td>
+		<td><a href="https://twitter.com/ulucasfraga">ulucasfraga</a></td>
+		<td>Lisbon - PT</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
 			<a href="https://github.com/JPBotelho">
 				<img src="https://avatars.githubusercontent.com/u/19894116?s=72&u=0059e56afd06e112bf1f43cb9e66ce4909c379a1&v=4" width="24" alt="Avatar of JPBotelho"> JPBotelho
 			</a><br/>
@@ -2874,7 +2887,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/ftonato">
 				<img src="https://avatars.githubusercontent.com/u/5417662?s=72&u=501cb0b9f82c273660f04887d650f2a7dfe8d00c&v=4" width="24" alt="Avatar of ftonato"> ftonato
@@ -2887,7 +2900,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/LucasAlegre">
 				<img src="https://avatars.githubusercontent.com/u/20215161?s=72&u=802f779c4585f765171ce1d482b5aef9c7b84fb9&v=4" width="24" alt="Avatar of LucasAlegre"> LucasAlegre
@@ -2897,19 +2910,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Institute Of Informatics -<br/>Ufrgs<br/></td>
 		<td><a href="https://twitter.com/lnalegre">lnalegre</a></td>
 		<td>Porto Alegre</td>
-		<td>156</td>
-	</tr>
-	<tr>
-		<td>216</td>
-		<td>
-			<a href="https://github.com/uLucasFraga">
-				<img src="https://avatars.githubusercontent.com/u/23031781?s=72&u=92be2523df55f5a6aae6fee705fc3917ee899c00&v=4" width="24" alt="Avatar of uLucasFraga"> uLucasFraga
-			</a><br/>
-			lucas.fraga
-		</td>
-		<td>Integer </td>
-		<td><a href="https://twitter.com/ulucasfraga">ulucasfraga</a></td>
-		<td>Lisbon - PT</td>
 		<td>156</td>
 	</tr>
 	<tr>
@@ -3006,6 +3006,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>224</td>
 		<td>
+			<a href="https://github.com/TGlide">
+				<img src="https://avatars.githubusercontent.com/u/26071571?s=72&u=4cc3f87a710c5066323c92a133b63586ee3c67c4&v=4" width="24" alt="Avatar of TGlide"> TGlide
+			</a><br/>
+			Thomas G. Lopes
+		</td>
+		<td>@appwrite  </td>
+		<td><a href="https://twitter.com/thomasglopes">thomasglopes</a></td>
+		<td>Portugal</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
 			<a href="https://github.com/Rafawastaken">
 				<img src="https://avatars.githubusercontent.com/u/79776004?s=72&u=fb2fe7d447031ee7e201e620be086099ba49eac9&v=4" width="24" alt="Avatar of Rafawastaken"> Rafawastaken
 			</a><br/>
@@ -3017,7 +3030,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/DEGoodmanWilson">
 				<img src="https://avatars.githubusercontent.com/u/521866?s=72&u=0eb8c723888eb1804ac492d250ebaacee0c23e79&v=4" width="24" alt="Avatar of DEGoodmanWilson"> DEGoodmanWilson
@@ -3028,19 +3041,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Lisbon</td>
 		<td>151</td>
-	</tr>
-	<tr>
-		<td>226</td>
-		<td>
-			<a href="https://github.com/TGlide">
-				<img src="https://avatars.githubusercontent.com/u/26071571?s=72&u=4cc3f87a710c5066323c92a133b63586ee3c67c4&v=4" width="24" alt="Avatar of TGlide"> TGlide
-			</a><br/>
-			Thomas G. Lopes
-		</td>
-		<td>@appwrite  </td>
-		<td><a href="https://twitter.com/thomasglopes">thomasglopes</a></td>
-		<td>Portugal</td>
-		<td>150</td>
 	</tr>
 	<tr>
 		<td>227</td>
@@ -3253,19 +3253,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>243</td>
 		<td>
-			<a href="https://github.com/oguzeroglu">
-				<img src="https://avatars.githubusercontent.com/u/15003836?s=72&u=da4866f493cf5c41630fa7ee7939aac972796782&v=4" width="24" alt="Avatar of oguzeroglu"> oguzeroglu
-			</a><br/>
-			Oğuz Eroğlu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lisbon</td>
-		<td>147</td>
-	</tr>
-	<tr>
-		<td>244</td>
-		<td>
 			<a href="https://github.com/lucasramos95">
 				<img src="https://avatars.githubusercontent.com/u/108039029?s=72&u=837733ade4650f7d8b568c7572ea8aa49ac592a3&v=4" width="24" alt="Avatar of lucasramos95"> lucasramos95
 			</a><br/>
@@ -3274,6 +3261,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Porto Alegre - RS, Brazil.</td>
+		<td>146</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/oguzeroglu">
+				<img src="https://avatars.githubusercontent.com/u/15003836?s=72&u=da4866f493cf5c41630fa7ee7939aac972796782&v=4" width="24" alt="Avatar of oguzeroglu"> oguzeroglu
+			</a><br/>
+			Oğuz Eroğlu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lisbon</td>
 		<td>146</td>
 	</tr>
 	<tr>
@@ -3448,6 +3448,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>258</td>
 		<td>
+			<a href="https://github.com/filipeoliveiraa">
+				<img src="https://avatars.githubusercontent.com/u/285038?s=72&u=a639db30b4fec3c830fbda003440497e4ecce578&v=4" width="24" alt="Avatar of filipeoliveiraa"> filipeoliveiraa
+			</a><br/>
+			Filipe Oliveira
+		</td>
+		<td>@glandrive @apbi @givingtuesdaypt <br/></td>
+		<td><a href="https://twitter.com/filipeoliveiraa">filipeoliveiraa</a></td>
+		<td>Portugal</td>
+		<td>142</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
 			<a href="https://github.com/Dessamgl">
 				<img src="https://avatars.githubusercontent.com/u/40497345?s=72&u=e4dab0ff4a96caa7ee5c64892b5d978d3d11fa9d&v=4" width="24" alt="Avatar of Dessamgl"> Dessamgl
 			</a><br/>
@@ -3459,7 +3472,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/nicolastakashi">
 				<img src="https://avatars.githubusercontent.com/u/8205546?s=72&u=1b5452b1c1d9829fe94abbc4dff05ff70b010684&v=4" width="24" alt="Avatar of nicolastakashi"> nicolastakashi
@@ -3472,7 +3485,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/codacy-badger">
 				<img src="https://avatars.githubusercontent.com/u/23704769?s=72&u=21e928698454bf73cc4411e14226b3847d39703a&v=4" width="24" alt="Avatar of codacy-badger"> codacy-badger
@@ -3485,7 +3498,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/BrunoBernardino">
 				<img src="https://avatars.githubusercontent.com/u/1239616?s=72&u=b3442012a676f4ca8731d4b7164cecd53f55572c&v=4" width="24" alt="Avatar of BrunoBernardino"> BrunoBernardino
@@ -3498,7 +3511,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/zamith">
 				<img src="https://avatars.githubusercontent.com/u/166304?s=72&v=4" width="24" alt="Avatar of zamith"> zamith
@@ -3511,20 +3524,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>264</td>
 		<td>
-			<a href="https://github.com/filipeoliveiraa">
-				<img src="https://avatars.githubusercontent.com/u/285038?s=72&u=a639db30b4fec3c830fbda003440497e4ecce578&v=4" width="24" alt="Avatar of filipeoliveiraa"> filipeoliveiraa
+			<a href="https://github.com/pabrrs">
+				<img src="https://avatars.githubusercontent.com/u/20517508?s=72&u=2fb15fa5a066845a7b3b3f7b47d57d2124b6e74d&v=4" width="24" alt="Avatar of pabrrs"> pabrrs
 			</a><br/>
-			Filipe Oliveira
+			Paulo Barros
 		</td>
-		<td>@glandrive @apbi @givingtuesdaypt <br/></td>
-		<td><a href="https://twitter.com/filipeoliveiraa">filipeoliveiraa</a></td>
-		<td>Portugal</td>
+		<td>Senior Data Engineer At<br/>@sinch<br/></td>
+		<td>No Twitter Username</td>
+		<td>Porto Velho - RO (remote worldwide)</td>
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/desireesantos">
 				<img src="https://avatars.githubusercontent.com/u/986738?s=72&u=956d05c71fd02a6c824c098bd28b311ea78b5608&v=4" width="24" alt="Avatar of desireesantos"> desireesantos
@@ -3537,7 +3550,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/miguelcobain">
 				<img src="https://avatars.githubusercontent.com/u/631691?s=72&v=4" width="24" alt="Avatar of miguelcobain"> miguelcobain
@@ -3550,7 +3563,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/JGAntunes">
 				<img src="https://avatars.githubusercontent.com/u/5799039?s=72&v=4" width="24" alt="Avatar of JGAntunes"> JGAntunes
@@ -3563,7 +3576,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/gsferreira">
 				<img src="https://avatars.githubusercontent.com/u/1719764?s=72&u=2e37161049ea4e7f9e855147bbbaacd644a2a9bd&v=4" width="24" alt="Avatar of gsferreira"> gsferreira
@@ -3573,19 +3586,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@farfetch </td>
 		<td><a href="https://twitter.com/gsferreira">gsferreira</a></td>
 		<td>Porto, Portugal</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>268</td>
-		<td>
-			<a href="https://github.com/pabrrs">
-				<img src="https://avatars.githubusercontent.com/u/20517508?s=72&u=2fb15fa5a066845a7b3b3f7b47d57d2124b6e74d&v=4" width="24" alt="Avatar of pabrrs"> pabrrs
-			</a><br/>
-			Paulo Barros
-		</td>
-		<td>Senior Data Engineer At<br/>@sinch<br/></td>
-		<td>No Twitter Username</td>
-		<td>Porto Velho - RO (remote worldwide)</td>
 		<td>140</td>
 	</tr>
 	<tr>
@@ -3703,7 +3703,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Assert+ </td>
 		<td><a href="https://twitter.com/jhonatasmatoss">jhonatasmatoss</a></td>
 		<td>Porto - PT</td>
-		<td>136</td>
+		<td>137</td>
 	</tr>
 	<tr>
 		<td>278</td>
@@ -4332,19 +4332,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>326</td>
 		<td>
-			<a href="https://github.com/diegonvs">
-				<img src="https://avatars.githubusercontent.com/u/7663513?s=72&u=0ea0ccec20ea68834365504fd8bd8e95fe34fcf9&v=4" width="24" alt="Avatar of diegonvs"> diegonvs
-			</a><br/>
-			Diego Nascimento
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/diegonvs97">diegonvs97</a></td>
-		<td>Lisbon, Portugal</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>327</td>
-		<td>
 			<a href="https://github.com/brunnolou">
 				<img src="https://avatars.githubusercontent.com/u/2729225?s=72&u=200dc2a8c29616d480bac6d380c5a6423e230782&v=4" width="24" alt="Avatar of brunnolou"> brunnolou
 			</a><br/>
@@ -4356,7 +4343,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/viviangcastro">
 				<img src="https://avatars.githubusercontent.com/u/63025717?s=72&u=3a662f9ed4545ee9fca8fe1633fdf1e277b2b7f4&v=4" width="24" alt="Avatar of viviangcastro"> viviangcastro
@@ -4369,7 +4356,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/catarinamachado">
 				<img src="https://avatars.githubusercontent.com/u/30869645?s=72&u=26468aade8f5926d011b2c41bced46fd8b0d6c4a&v=4" width="24" alt="Avatar of catarinamachado"> catarinamachado
@@ -4382,7 +4369,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/lucasmonstrox">
 				<img src="https://avatars.githubusercontent.com/u/1239463?s=72&u=63cfb8adbce4ad852c30196d767c24ec4e97aeb1&v=4" width="24" alt="Avatar of lucasmonstrox"> lucasmonstrox
@@ -4392,6 +4379,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lucasmonstrox">lucasmonstrox</a></td>
 		<td>Gaia, Portugal</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
+			<a href="https://github.com/diegonvs">
+				<img src="https://avatars.githubusercontent.com/u/7663513?s=72&u=0ea0ccec20ea68834365504fd8bd8e95fe34fcf9&v=4" width="24" alt="Avatar of diegonvs"> diegonvs
+			</a><br/>
+			Diego Nascimento
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/diegonvs97">diegonvs97</a></td>
+		<td>Lisbon, Portugal</td>
 		<td>121</td>
 	</tr>
 	<tr>
@@ -4449,19 +4449,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>335</td>
 		<td>
-			<a href="https://github.com/jefferson-calmon">
-				<img src="https://avatars.githubusercontent.com/u/62778628?s=72&u=fb19513d24cea30ab82f0fd8d05fcf3940243675&v=4" width="24" alt="Avatar of jefferson-calmon"> jefferson-calmon
-			</a><br/>
-			Jefferson Calmon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Porto Seguro, Bahia</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
 			<a href="https://github.com/Relfos">
 				<img src="https://avatars.githubusercontent.com/u/6756286?s=72&u=b0bee34370ddaaffcffb5b5c7f7b8b362548fb10&v=4" width="24" alt="Avatar of Relfos"> Relfos
 			</a><br/>
@@ -4473,20 +4460,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/NotZeetaa">
-				<img src="https://avatars.githubusercontent.com/u/67799176?s=72&u=51ca70290c2b61d1947d70a90ee05b8d8a4093b9&v=4" width="24" alt="Avatar of NotZeetaa"> NotZeetaa
-			</a><br/>
-			NotZeetaa
-		</td>
-		<td>@projects-nexus </td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>338</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/pmhsfelix">
 				<img src="https://avatars.githubusercontent.com/u/364600?s=72&u=d784d2def6b50edfea1f8521a22a10bf2c059c86&v=4" width="24" alt="Avatar of pmhsfelix"> pmhsfelix
@@ -4499,111 +4473,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>339</td>
-		<td>
-			<a href="https://github.com/arainho">
-				<img src="https://avatars.githubusercontent.com/u/9482434?s=72&u=d687e451b5ac06d8899e43db6369578c9a2dc670&v=4" width="24" alt="Avatar of arainho"> arainho
-			</a><br/>
-			André Rainho
-		</td>
-		<td>@mindera </td>
-		<td><a href="https://twitter.com/arainho_it">arainho_it</a></td>
-		<td>Aveiro - Portugal</td>
-		<td>119</td>
-	</tr>
-	<tr>
-		<td>340</td>
-		<td>
-			<a href="https://github.com/0xferit">
-				<img src="https://avatars.githubusercontent.com/u/3106907?s=72&u=156a7a0d0df01dfde11e7f49d7f9477bcb4a82b7&v=4" width="24" alt="Avatar of 0xferit"> 0xferit
-			</a><br/>
-			Ferit
-		</td>
-		<td>@proveuswrong  </td>
-		<td><a href="https://twitter.com/0xferit">0xferit</a></td>
-		<td>Lisbon</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>341</td>
-		<td>
-			<a href="https://github.com/aferreira44">
-				<img src="https://avatars.githubusercontent.com/u/28768905?s=72&u=7e11be469c81d032b06be04bdbfa8ceb81c5d978&v=4" width="24" alt="Avatar of aferreira44"> aferreira44
-			</a><br/>
-			André Ferreira
-		</td>
-		<td>Codetrends.io </td>
-		<td><a href="https://twitter.com/aferreira44">aferreira44</a></td>
-		<td>Lisbon, Portugal</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a href="https://github.com/marado">
-				<img src="https://avatars.githubusercontent.com/u/33163?s=72&u=4073a8f9160ee1f4babdb073f823cfe0518c1959&v=4" width="24" alt="Avatar of marado"> marado
-			</a><br/>
-			Marcos Marado
-		</td>
-		<td>Bsp.ninja </td>
-		<td><a href="https://twitter.com/mind_booster">mind_booster</a></td>
-		<td>Portugal</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>343</td>
-		<td>
-			<a href="https://github.com/goodrahstar">
-				<img src="https://avatars.githubusercontent.com/u/5167126?s=72&u=3a20e135bc35d6f776be21699ac33ef84597d81b&v=4" width="24" alt="Avatar of goodrahstar"> goodrahstar
-			</a><br/>
-			Rahul Kumar
-		</td>
-		<td>Apres.io </td>
-		<td>No Twitter Username</td>
-		<td>Lisbon</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>344</td>
-		<td>
-			<a href="https://github.com/gonmarques">
-				<img src="https://avatars.githubusercontent.com/u/8425975?s=72&u=7f797305aec5edbdd664485bb165a5d872347a29&v=4" width="24" alt="Avatar of gonmarques"> gonmarques
-			</a><br/>
-			Gonçalo Marques
-		</td>
-		<td>@equalexperts </td>
-		<td>No Twitter Username</td>
-		<td>Lisbon</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>345</td>
-		<td>
-			<a href="https://github.com/geocar">
-				<img src="https://avatars.githubusercontent.com/u/158247?s=72&u=ac7f3208451e60835a5ad7afab0d3ad7bed6b33c&v=4" width="24" alt="Avatar of geocar"> geocar
-			</a><br/>
-			Geo Carncross
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/roll">
-				<img src="https://avatars.githubusercontent.com/u/557395?s=72&u=f81a5a6cc2725585e1029a8ae5a701d9838195dc&v=4" width="24" alt="Avatar of roll"> roll
-			</a><br/>
-			roll
-		</td>
-		<td>Open Knowledge Foundation </td>
-		<td>No Twitter Username</td>
-		<td>Loulé, Faro, Portugal</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>347</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/andrefmrocha">
 				<img src="https://avatars.githubusercontent.com/u/33755974?s=72&u=a970e204bf4edca01679b3bb63db0e2a5929eded&v=4" width="24" alt="Avatar of andrefmrocha"> andrefmrocha
@@ -4616,7 +4486,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/mgrankin">
 				<img src="https://avatars.githubusercontent.com/u/3540879?s=72&u=9f6a3279b675627ebff101dd91e797a70b5540af&v=4" width="24" alt="Avatar of mgrankin"> mgrankin
@@ -4629,7 +4499,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/brunokrebs">
 				<img src="https://avatars.githubusercontent.com/u/15347252?s=72&u=f5985329c4cfe04f51aa6fa55627b2ae702f74aa&v=4" width="24" alt="Avatar of brunokrebs"> brunokrebs
@@ -4642,7 +4512,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/guilhermeslacerda">
 				<img src="https://avatars.githubusercontent.com/u/945609?s=72&u=8b3f15edb6e292b89dad6460dcfa893175c9c392&v=4" width="24" alt="Avatar of guilhermeslacerda"> guilhermeslacerda
@@ -4655,7 +4525,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/DoStini">
 				<img src="https://avatars.githubusercontent.com/u/23351316?s=72&u=81372fbe14e82694b95f9853efd58354e380fbd6&v=4" width="24" alt="Avatar of DoStini"> DoStini
@@ -4668,7 +4538,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/raloliver">
 				<img src="https://avatars.githubusercontent.com/u/4580335?s=72&u=74e04ca623368176ea56e32a9a903051cd093e39&v=4" width="24" alt="Avatar of raloliver"> raloliver
@@ -4681,7 +4551,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/andreoav">
+				<img src="https://avatars.githubusercontent.com/u/508827?s=72&u=26b394f330389729ee82475741c204df8878b1b4&v=4" width="24" alt="Avatar of andreoav"> andreoav
+			</a><br/>
+			Andreo Vieira
+		</td>
+		<td>Agi </td>
+		<td><a href="https://twitter.com/andreoav07">andreoav07</a></td>
+		<td>Porto Alegre</td>
+		<td>115</td>
+	</tr>
+	<tr>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/jcazevedo">
 				<img src="https://avatars.githubusercontent.com/u/143188?s=72&v=4" width="24" alt="Avatar of jcazevedo"> jcazevedo
@@ -4694,7 +4577,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/gritt">
 				<img src="https://avatars.githubusercontent.com/u/6766519?s=72&u=2bee05d8fc395471c2f19457e615dd5dd7807e8c&v=4" width="24" alt="Avatar of gritt"> gritt
@@ -4707,7 +4590,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>346</td>
+		<td>
+			<a href="https://github.com/gritt">
+				<img src="https://avatars.githubusercontent.com/u/6766519?s=72&u=2bee05d8fc395471c2f19457e615dd5dd7807e8c&v=4" width="24" alt="Avatar of gritt"> gritt
+			</a><br/>
+			Gilvan Ritter
+		</td>
+		<td>@nubank </td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/AlessandroGeras">
 				<img src="https://avatars.githubusercontent.com/u/96837746?s=72&u=baffffe3b0955a0612648f3fe044b66c679f6394&v=4" width="24" alt="Avatar of AlessandroGeras"> AlessandroGeras
@@ -4720,20 +4616,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>348</td>
 		<td>
-			<a href="https://github.com/andreoav">
-				<img src="https://avatars.githubusercontent.com/u/508827?s=72&u=26b394f330389729ee82475741c204df8878b1b4&v=4" width="24" alt="Avatar of andreoav"> andreoav
+			<a href="https://github.com/AlessandroGeras">
+				<img src="https://avatars.githubusercontent.com/u/96837746?s=72&u=baffffe3b0955a0612648f3fe044b66c679f6394&v=4" width="24" alt="Avatar of AlessandroGeras"> AlessandroGeras
 			</a><br/>
-			Andreo Vieira
+			Alessandro Geras
 		</td>
-		<td>Agi </td>
-		<td><a href="https://twitter.com/andreoav07">andreoav07</a></td>
-		<td>Porto Alegre</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre, Brazil</td>
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/shogunpurple">
 				<img src="https://avatars.githubusercontent.com/u/11256663?s=72&u=6d4050dda6c624fcee6acf46ddf933a65c54be60&v=4" width="24" alt="Avatar of shogunpurple"> shogunpurple
@@ -4746,7 +4642,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>350</td>
+		<td>
+			<a href="https://github.com/shogunpurple">
+				<img src="https://avatars.githubusercontent.com/u/11256663?s=72&u=6d4050dda6c624fcee6acf46ddf933a65c54be60&v=4" width="24" alt="Avatar of shogunpurple"> shogunpurple
+			</a><br/>
+			Martin McKeaveney
+		</td>
+		<td>@budibase </td>
+		<td><a href="https://twitter.com/martinmck_">martinmck_</a></td>
+		<td>Lisbon, Portugal</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/vitormeriat">
 				<img src="https://avatars.githubusercontent.com/u/1611613?s=72&u=f1c30ebf4e9326366e09d56ec0b4daccbf6f4361&v=4" width="24" alt="Avatar of vitormeriat"> vitormeriat
@@ -4759,7 +4668,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>352</td>
+		<td>
+			<a href="https://github.com/vitormeriat">
+				<img src="https://avatars.githubusercontent.com/u/1611613?s=72&u=f1c30ebf4e9326366e09d56ec0b4daccbf6f4361&v=4" width="24" alt="Avatar of vitormeriat"> vitormeriat
+			</a><br/>
+			Vitor Meriat
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vitormeriat">vitormeriat</a></td>
+		<td>Lisbon</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/fellyph">
 				<img src="https://avatars.githubusercontent.com/u/330792?s=72&u=ca4d70244a8cc6cc65a929f2f33238876fbc3fff&v=4" width="24" alt="Avatar of fellyph"> fellyph
@@ -4772,7 +4694,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/fellyph">
+				<img src="https://avatars.githubusercontent.com/u/330792?s=72&u=ca4d70244a8cc6cc65a929f2f33238876fbc3fff&v=4" width="24" alt="Avatar of fellyph"> fellyph
+			</a><br/>
+			Fellyph Cintra
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fellyph">fellyph</a></td>
+		<td>Lagos, Portugal</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/rjperes">
 				<img src="https://avatars.githubusercontent.com/u/159433?s=72&v=4" width="24" alt="Avatar of rjperes"> rjperes
@@ -4785,7 +4720,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>356</td>
+		<td>
+			<a href="https://github.com/rjperes">
+				<img src="https://avatars.githubusercontent.com/u/159433?s=72&v=4" width="24" alt="Avatar of rjperes"> rjperes
+			</a><br/>
+			Ricardo Peres
+		</td>
+		<td>Rumos </td>
+		<td><a href="https://twitter.com/RJPeres75">RJPeres75</a></td>
+		<td>Coimbra, Portugal</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/RafaelAPB">
 				<img src="https://avatars.githubusercontent.com/u/11261236?s=72&u=d5675b6ec2e16a630baf18571d03ddc2f0a09e5b&v=4" width="24" alt="Avatar of RafaelAPB"> RafaelAPB
@@ -4798,7 +4746,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>358</td>
+		<td>
+			<a href="https://github.com/RafaelAPB">
+				<img src="https://avatars.githubusercontent.com/u/11261236?s=72&u=d5675b6ec2e16a630baf18571d03ddc2f0a09e5b&v=4" width="24" alt="Avatar of RafaelAPB"> RafaelAPB
+			</a><br/>
+			Rafael Belchior
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lisbon</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/marugy99">
 				<img src="https://avatars.githubusercontent.com/u/21242637?s=72&u=83fd9e98672915ba8cb0f82a5889ee058e8ca571&v=4" width="24" alt="Avatar of marugy99"> marugy99
@@ -4811,7 +4772,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>360</td>
+		<td>
+			<a href="https://github.com/marugy99">
+				<img src="https://avatars.githubusercontent.com/u/21242637?s=72&u=83fd9e98672915ba8cb0f82a5889ee058e8ca571&v=4" width="24" alt="Avatar of marugy99"> marugy99
+			</a><br/>
+			Maru
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/marulucenat">marulucenat</a></td>
+		<td>Portugal</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/kmandzzz">
 				<img src="https://avatars.githubusercontent.com/u/72948500?s=72&u=81adba42b7b2104780114456c9d8603a04a16602&v=4" width="24" alt="Avatar of kmandzzz"> kmandzzz
@@ -4821,6 +4795,32 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Https://bravegenerat </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/kmandzzz">
+				<img src="https://avatars.githubusercontent.com/u/72948500?s=72&u=81adba42b7b2104780114456c9d8603a04a16602&v=4" width="24" alt="Avatar of kmandzzz"> kmandzzz
+			</a><br/>
+			Amanda Oliveira
+		</td>
+		<td>Https://bravegenerat </td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>112</td>
+	</tr>
+	<tr>
+		<td>363</td>
+		<td>
+			<a href="https://github.com/RodrigoRosmaninho">
+				<img src="https://avatars.githubusercontent.com/u/16208923?s=72&u=14b7ae7b57d6237c423a87c2b046b2a14067cd93&v=4" width="24" alt="Avatar of RodrigoRosmaninho"> RodrigoRosmaninho
+			</a><br/>
+			Rodrigo Rosmaninho
+		</td>
+		<td>@nap-it </td>
+		<td>No Twitter Username</td>
+		<td>Aveiro, Portugal</td>
 		<td>112</td>
 	</tr>
 	<tr>
@@ -5242,6 +5242,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>396</td>
 		<td>
+			<a href="https://github.com/orivelton">
+				<img src="https://avatars.githubusercontent.com/u/7022794?s=72&u=09c4ed692750b41143c273228bac95b830f6ebf0&v=4" width="24" alt="Avatar of orivelton"> orivelton
+			</a><br/>
+			Orivelton Cesar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>106</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
 			<a href="https://github.com/ricardotulio">
 				<img src="https://avatars.githubusercontent.com/u/5113666?s=72&u=fcca338232249289bccd81169d467c7d36aca08d&v=4" width="24" alt="Avatar of ricardotulio"> ricardotulio
 			</a><br/>
@@ -5253,7 +5266,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/bernardobrezende">
 				<img src="https://avatars.githubusercontent.com/u/526075?s=72&v=4" width="24" alt="Avatar of bernardobrezende"> bernardobrezende
@@ -5266,7 +5279,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/harlley">
 				<img src="https://avatars.githubusercontent.com/u/52423?s=72&u=f29d06e2be5268f2d70e01aa28d617655e604847&v=4" width="24" alt="Avatar of harlley"> harlley
@@ -5279,7 +5292,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/herulume">
 				<img src="https://avatars.githubusercontent.com/u/9318723?s=72&u=e51581b1eab58a2e6ddb14781a7d1a434db967d0&v=4" width="24" alt="Avatar of herulume"> herulume
@@ -5292,7 +5305,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/matildeopbravo">
 				<img src="https://avatars.githubusercontent.com/u/56790511?s=72&u=89b186f7cac2080568a8203ad27d44c4f0cd66a4&v=4" width="24" alt="Avatar of matildeopbravo"> matildeopbravo
@@ -5305,7 +5318,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/aquelemiguel">
 				<img src="https://avatars.githubusercontent.com/u/5618493?s=72&u=0072aa9081b83d1bce1428830e575071c672c015&v=4" width="24" alt="Avatar of aquelemiguel"> aquelemiguel
@@ -5315,19 +5328,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@yldio </td>
 		<td>No Twitter Username</td>
 		<td>Porto, Portugal</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>402</td>
-		<td>
-			<a href="https://github.com/orivelton">
-				<img src="https://avatars.githubusercontent.com/u/7022794?s=72&u=09c4ed692750b41143c273228bac95b830f6ebf0&v=4" width="24" alt="Avatar of orivelton"> orivelton
-			</a><br/>
-			Orivelton Cesar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
 		<td>105</td>
 	</tr>
 	<tr>
@@ -5567,19 +5567,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>421</td>
 		<td>
-			<a href="https://github.com/pgaspar">
-				<img src="https://avatars.githubusercontent.com/u/31735?s=72&u=fdc755f4f6572fc023752d5a4eb40c569cb931c9&v=4" width="24" alt="Avatar of pgaspar"> pgaspar
-			</a><br/>
-			Pedro Gaspar
-		</td>
-		<td>@podia </td>
-		<td><a href="https://twitter.com/pedrogaspar">pedrogaspar</a></td>
-		<td>Coimbra, Portugal</td>
-		<td>100</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
 			<a href="https://github.com/rafaelfaustini">
 				<img src="https://avatars.githubusercontent.com/u/26970976?s=72&u=4e6558ef343778d2217569e4c0fc6ccf2727bbe6&v=4" width="24" alt="Avatar of rafaelfaustini"> rafaelfaustini
 			</a><br/>
@@ -5588,6 +5575,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@snizersoftwares  </td>
 		<td>No Twitter Username</td>
 		<td>Lisbon</td>
+		<td>101</td>
+	</tr>
+	<tr>
+		<td>422</td>
+		<td>
+			<a href="https://github.com/pgaspar">
+				<img src="https://avatars.githubusercontent.com/u/31735?s=72&u=fdc755f4f6572fc023752d5a4eb40c569cb931c9&v=4" width="24" alt="Avatar of pgaspar"> pgaspar
+			</a><br/>
+			Pedro Gaspar
+		</td>
+		<td>@podia </td>
+		<td><a href="https://twitter.com/pedrogaspar">pedrogaspar</a></td>
+		<td>Coimbra, Portugal</td>
 		<td>100</td>
 	</tr>
 	<tr>
@@ -5684,6 +5684,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>430</td>
 		<td>
+			<a href="https://github.com/pmoura">
+				<img src="https://avatars.githubusercontent.com/u/294478?s=72&v=4" width="24" alt="Avatar of pmoura"> pmoura
+			</a><br/>
+			Paulo Moura
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LogtalkDotOrg">LogtalkDotOrg</a></td>
+		<td>Portugal</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>431</td>
+		<td>
 			<a href="https://github.com/nbluis">
 				<img src="https://avatars.githubusercontent.com/u/24320?s=72&u=6847f4765885b25fbb24b06d94f57be0ab3ddc97&v=4" width="24" alt="Avatar of nbluis"> nbluis
 			</a><br/>
@@ -5695,7 +5708,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/mucahit">
 				<img src="https://avatars.githubusercontent.com/u/5108459?s=72&u=5604978bd9247c29ecb89ec259266587b92283f4&v=4" width="24" alt="Avatar of mucahit"> mucahit
@@ -5708,20 +5721,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/rgllm">
 				<img src="https://avatars.githubusercontent.com/u/9056941?s=72&v=4" width="24" alt="Avatar of rgllm"> rgllm
 			</a><br/>
 			Rogério Moreira
 		</td>
-		<td>Mindera </td>
+		<td>@mindera  </td>
 		<td><a href="https://twitter.com/rgllm">rgllm</a></td>
 		<td>Portugal</td>
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/daviprm">
 				<img src="https://avatars.githubusercontent.com/u/52049879?s=72&u=0fd9a6bb8b008a27c4694cf392a1b773d00dd5ea&v=4" width="24" alt="Avatar of daviprm"> daviprm
@@ -5731,19 +5744,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Software Engineering At Unisinos<br/></td>
 		<td><a href="https://twitter.com/daviprm">daviprm</a></td>
 		<td>Porto Alegre - RS</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>434</td>
-		<td>
-			<a href="https://github.com/mroya">
-				<img src="https://avatars.githubusercontent.com/u/97795932?s=72&u=b1545a933e47d634adbaf539f3acf2b7c8dc6bab&v=4" width="24" alt="Avatar of mroya"> mroya
-			</a><br/>
-			Márcio Roya
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/marcioroya">marcioroya</a></td>
-		<td>Porto Alegre, Brazil</td>
 		<td>98</td>
 	</tr>
 	<tr>
@@ -5788,14 +5788,14 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>438</td>
 		<td>
-			<a href="https://github.com/pmoura">
-				<img src="https://avatars.githubusercontent.com/u/294478?s=72&v=4" width="24" alt="Avatar of pmoura"> pmoura
+			<a href="https://github.com/viniciusbeckerbernardini">
+				<img src="https://avatars.githubusercontent.com/u/26171275?s=72&v=4" width="24" alt="Avatar of viniciusbeckerbernardini"> viniciusbeckerbernardini
 			</a><br/>
-			Paulo Moura
+			Vinícius Becker  Bernardini
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/LogtalkDotOrg">LogtalkDotOrg</a></td>
-		<td>Portugal</td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre, Brazil</td>
 		<td>97</td>
 	</tr>
 	<tr>
@@ -5827,6 +5827,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>441</td>
 		<td>
+			<a href="https://github.com/mroya">
+				<img src="https://avatars.githubusercontent.com/u/97795932?s=72&u=b1545a933e47d634adbaf539f3acf2b7c8dc6bab&v=4" width="24" alt="Avatar of mroya"> mroya
+			</a><br/>
+			Márcio Roya
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/marcioroya">marcioroya</a></td>
+		<td>Porto Alegre, Brazil</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>442</td>
+		<td>
 			<a href="https://github.com/biromiro">
 				<img src="https://avatars.githubusercontent.com/u/45906176?s=72&u=1fef7ea37f7f91e4973619b31cb04ff599bedc0e&v=4" width="24" alt="Avatar of biromiro"> biromiro
 			</a><br/>
@@ -5838,7 +5851,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/dudagenehr">
 				<img src="https://avatars.githubusercontent.com/u/70721937?s=72&u=3858ccbb690a1a8d33bef114e833a873ed745c82&v=4" width="24" alt="Avatar of dudagenehr"> dudagenehr
@@ -5851,7 +5864,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/eduardacf">
 				<img src="https://avatars.githubusercontent.com/u/48859707?s=72&u=4902b08fa7e6d2209f1b9a5b67e5aec65b8d4192&v=4" width="24" alt="Avatar of eduardacf"> eduardacf
@@ -5864,7 +5877,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/marcelopspereira">
 				<img src="https://avatars.githubusercontent.com/u/1228114?s=72&u=9f0d38f546a660c0f79d6b372a06a35a12664ad0&v=4" width="24" alt="Avatar of marcelopspereira"> marcelopspereira
@@ -5877,7 +5890,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/erickpintor">
 				<img src="https://avatars.githubusercontent.com/u/813042?s=72&u=7391484d91b498f2c24e1c7c41eb2709de35fa20&v=4" width="24" alt="Avatar of erickpintor"> erickpintor
@@ -5890,7 +5903,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/Nuno-Jesus">
 				<img src="https://avatars.githubusercontent.com/u/93390807?s=72&u=5290d0f505cb390a5fdbd3c4c1759b2b6e293693&v=4" width="24" alt="Avatar of Nuno-Jesus"> Nuno-Jesus
@@ -5900,19 +5913,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Porto, Portugal</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
-			<a href="https://github.com/viniciusbeckerbernardini">
-				<img src="https://avatars.githubusercontent.com/u/26171275?s=72&v=4" width="24" alt="Avatar of viniciusbeckerbernardini"> viniciusbeckerbernardini
-			</a><br/>
-			Vinícius Becker  Bernardini
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre, Brazil</td>
 		<td>96</td>
 	</tr>
 	<tr>
@@ -6139,6 +6139,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>465</td>
 		<td>
+			<a href="https://github.com/jesspsilva">
+				<img src="https://avatars.githubusercontent.com/u/24191107?s=72&u=2038438cf223ed7ae9f12fc0fbf30336ef04ca57&v=4" width="24" alt="Avatar of jesspsilva"> jesspsilva
+			</a><br/>
+			Jessica
+		</td>
+		<td>@pixelmatters </td>
+		<td>No Twitter Username</td>
+		<td>Porto</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
 			<a href="https://github.com/anamanzandev">
 				<img src="https://avatars.githubusercontent.com/u/17476736?s=72&u=a97c6dda37aef011a0f669328c20ba35a7b0375e&v=4" width="24" alt="Avatar of anamanzandev"> anamanzandev
 			</a><br/>
@@ -6150,7 +6163,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/inessadl">
 				<img src="https://avatars.githubusercontent.com/u/2906907?s=72&u=5e14517b430f530dbc2aeea9cbe75d7a1e1faf66&v=4" width="24" alt="Avatar of inessadl"> inessadl
@@ -6163,7 +6176,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/pedropcruz">
 				<img src="https://avatars.githubusercontent.com/u/6757946?s=72&u=73b67c4b8c2f70051c1b702b574ad2004dc9f02e&v=4" width="24" alt="Avatar of pedropcruz"> pedropcruz
@@ -6176,7 +6189,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/jbduarte">
 				<img src="https://avatars.githubusercontent.com/u/6477875?s=72&u=abe158d9d0b46af5a5f9c26af4220bfe9caa45de&v=4" width="24" alt="Avatar of jbduarte"> jbduarte
@@ -6189,7 +6202,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/RuiL1904">
 				<img src="https://avatars.githubusercontent.com/u/76881129?s=72&u=5a621303b9ddaeffef1c21269870abe14831a748&v=4" width="24" alt="Avatar of RuiL1904"> RuiL1904
@@ -6202,7 +6215,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/rodloboz">
 				<img src="https://avatars.githubusercontent.com/u/23458442?s=72&u=93b609a220e7721c2d0083ca5cd6a18a414aaaf1&v=4" width="24" alt="Avatar of rodloboz"> rodloboz
@@ -6215,7 +6228,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/mikedld">
 				<img src="https://avatars.githubusercontent.com/u/298203?s=72&v=4" width="24" alt="Avatar of mikedld"> mikedld
@@ -6225,19 +6238,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@nable-org </td>
 		<td>No Twitter Username</td>
 		<td>Lisbon, Portugal</td>
-		<td>92</td>
-	</tr>
-	<tr>
-		<td>472</td>
-		<td>
-			<a href="https://github.com/jesspsilva">
-				<img src="https://avatars.githubusercontent.com/u/24191107?s=72&u=2038438cf223ed7ae9f12fc0fbf30336ef04ca57&v=4" width="24" alt="Avatar of jesspsilva"> jesspsilva
-			</a><br/>
-			Jessica
-		</td>
-		<td>@pixelmatters </td>
-		<td>No Twitter Username</td>
-		<td>Porto</td>
 		<td>92</td>
 	</tr>
 	<tr>
@@ -6360,19 +6360,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>482</td>
 		<td>
-			<a href="https://github.com/dinispeixoto">
-				<img src="https://avatars.githubusercontent.com/u/15003993?s=72&u=e781eeb991f0f3b0573ab449993f4c3b82773f0b&v=4" width="24" alt="Avatar of dinispeixoto"> dinispeixoto
-			</a><br/>
-			Dinis Peixoto
-		</td>
-		<td>@checkout @cesium @coderdojobraga <br/></td>
-		<td><a href="https://twitter.com/dinispeixoto">dinispeixoto</a></td>
-		<td>Braga</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
 			<a href="https://github.com/gladson">
 				<img src="https://avatars.githubusercontent.com/u/1013698?s=72&u=90d4250da4a84fa8f7f9faed9f4a3bfa375777e5&v=4" width="24" alt="Avatar of gladson"> gladson
 			</a><br/>
@@ -6381,6 +6368,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Immensa </td>
 		<td>No Twitter Username</td>
 		<td>Brazil, Rondônia - Porto velho</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>483</td>
+		<td>
+			<a href="https://github.com/dinispeixoto">
+				<img src="https://avatars.githubusercontent.com/u/15003993?s=72&u=e781eeb991f0f3b0573ab449993f4c3b82773f0b&v=4" width="24" alt="Avatar of dinispeixoto"> dinispeixoto
+			</a><br/>
+			Dinis Peixoto
+		</td>
+		<td>@checkout @cesium @coderdojobraga <br/></td>
+		<td><a href="https://twitter.com/dinispeixoto">dinispeixoto</a></td>
+		<td>Braga</td>
 		<td>91</td>
 	</tr>
 	<tr>
@@ -6594,8 +6594,8 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>500</td>
 		<td>
-			<a href="https://github.com/gamekaiju">
-				<img src="https://avatars.githubusercontent.com/u/71205864?s=72&u=8d77326bb8e102aa783422f892a7cbc9e913a3bd&v=4" width="24" alt="Avatar of gamekaiju"> gamekaiju
+			<a href="https://github.com/feremabraz">
+				<img src="https://avatars.githubusercontent.com/u/71205864?s=72&u=8d77326bb8e102aa783422f892a7cbc9e913a3bd&v=4" width="24" alt="Avatar of feremabraz"> feremabraz
 			</a><br/>
 			Fernando Braz
 		</td>
@@ -6672,6 +6672,32 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>506</td>
 		<td>
+			<a href="https://github.com/nfo94">
+				<img src="https://avatars.githubusercontent.com/u/24434214?s=72&u=76c31e84303144cfec33231b9e3327f0840760cb&v=4" width="24" alt="Avatar of nfo94"> nfo94
+			</a><br/>
+			Natália Oliveira
+		</td>
+		<td>@jusbrasil </td>
+		<td>No Twitter Username</td>
+		<td>Porto, Portugal</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>507</td>
+		<td>
+			<a href="https://github.com/JoseDeFreitas">
+				<img src="https://avatars.githubusercontent.com/u/37962411?s=72&u=93b8c10cc8b49f082baef30ce8df11f7d19c6898&v=4" width="24" alt="Avatar of JoseDeFreitas"> JoseDeFreitas
+			</a><br/>
+			José de Freitas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
 			<a href="https://github.com/TommyAlmeida">
 				<img src="https://avatars.githubusercontent.com/u/13879589?s=72&u=ad8066838ff53af7385429173d8830dccf07789c&v=4" width="24" alt="Avatar of TommyAlmeida"> TommyAlmeida
 			</a><br/>
@@ -6683,7 +6709,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/MaNegrao">
 				<img src="https://avatars.githubusercontent.com/u/31110971?s=72&u=c0799d326713d115f0380e03ab1510e457f33b94&v=4" width="24" alt="Avatar of MaNegrao"> MaNegrao
@@ -6696,7 +6722,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/fdmanana">
 				<img src="https://avatars.githubusercontent.com/u/170624?s=72&u=62d54821ed566b34fc42e8cb448c01fb4023b0c2&v=4" width="24" alt="Avatar of fdmanana"> fdmanana
@@ -6709,7 +6735,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/Emerson-02">
 				<img src="https://avatars.githubusercontent.com/u/69188698?s=72&u=7f74aae7a32995ff8f07a53e673b57725ee665f8&v=4" width="24" alt="Avatar of Emerson-02"> Emerson-02
@@ -6722,7 +6748,33 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/andrepimenta">
+				<img src="https://avatars.githubusercontent.com/u/4960833?s=72&u=cdf1ce22918d3ad4385cdd55d1b9539f41b20253&v=4" width="24" alt="Avatar of andrepimenta"> andrepimenta
+			</a><br/>
+			Andre Pimenta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lisbon, Portugal</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
+			<a href="https://github.com/portothree">
+				<img src="https://avatars.githubusercontent.com/u/3718120?s=72&u=dc1ccdd07398325729bbb2fa9a75ffb0f60bc881&v=4" width="24" alt="Avatar of portothree"> portothree
+			</a><br/>
+			Gustavo Porto
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lisbon, Portugal</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/bruno12mota">
 				<img src="https://avatars.githubusercontent.com/u/4086031?s=72&u=9846be19bb29202e05adefbab39f0e0793b8981d&v=4" width="24" alt="Avatar of bruno12mota"> bruno12mota
@@ -6735,7 +6787,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/ricardofbarros">
 				<img src="https://avatars.githubusercontent.com/u/6867996?s=72&u=f6abfa02a39903ecca01abc0056c3a66b704ace6&v=4" width="24" alt="Avatar of ricardofbarros"> ricardofbarros
@@ -6748,7 +6800,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/adamatti">
 				<img src="https://avatars.githubusercontent.com/u/89515?s=72&v=4" width="24" alt="Avatar of adamatti"> adamatti
@@ -6761,33 +6813,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>513</td>
-		<td>
-			<a href="https://github.com/nfo94">
-				<img src="https://avatars.githubusercontent.com/u/24434214?s=72&u=76c31e84303144cfec33231b9e3327f0840760cb&v=4" width="24" alt="Avatar of nfo94"> nfo94
-			</a><br/>
-			Natália Oliveira
-		</td>
-		<td>@jusbrasil </td>
-		<td>No Twitter Username</td>
-		<td>Porto, Portugal</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>514</td>
-		<td>
-			<a href="https://github.com/JoseDeFreitas">
-				<img src="https://avatars.githubusercontent.com/u/37962411?s=72&u=93b8c10cc8b49f082baef30ce8df11f7d19c6898&v=4" width="24" alt="Avatar of JoseDeFreitas"> JoseDeFreitas
-			</a><br/>
-			José de Freitas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>515</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/FranciscoMendes10866">
 				<img src="https://avatars.githubusercontent.com/u/51827441?s=72&u=a329209143e17fe04fccb150a05f6af7979a4bd3&v=4" width="24" alt="Avatar of FranciscoMendes10866"> FranciscoMendes10866
@@ -6800,20 +6826,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>516</td>
-		<td>
-			<a href="https://github.com/andrepimenta">
-				<img src="https://avatars.githubusercontent.com/u/4960833?s=72&u=cdf1ce22918d3ad4385cdd55d1b9539f41b20253&v=4" width="24" alt="Avatar of andrepimenta"> andrepimenta
-			</a><br/>
-			Andre Pimenta
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lisbon, Portugal</td>
-		<td>86</td>
-	</tr>
-	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/rlafuente">
 				<img src="https://avatars.githubusercontent.com/u/159868?s=72&u=97f192854cf4792dce1bfb29df81fc9b515d80cd&v=4" width="24" alt="Avatar of rlafuente"> rlafuente
@@ -6826,7 +6839,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/filipecifali">
 				<img src="https://avatars.githubusercontent.com/u/975041?s=72&v=4" width="24" alt="Avatar of filipecifali"> filipecifali
@@ -6839,7 +6852,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/andrelago13">
 				<img src="https://avatars.githubusercontent.com/u/9060644?s=72&u=c4543105db1a288758406ca6ea261bfe67e96403&v=4" width="24" alt="Avatar of andrelago13"> andrelago13
@@ -6852,7 +6865,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/0x0999">
 				<img src="https://avatars.githubusercontent.com/u/68744537?s=72&u=f1d984c4111b4a5cc12f6a4cd18fe81164c5485d&v=4" width="24" alt="Avatar of 0x0999"> 0x0999
@@ -6863,19 +6876,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
 		<td>86</td>
-	</tr>
-	<tr>
-		<td>521</td>
-		<td>
-			<a href="https://github.com/portothree">
-				<img src="https://avatars.githubusercontent.com/u/3718120?s=72&u=dc1ccdd07398325729bbb2fa9a75ffb0f60bc881&v=4" width="24" alt="Avatar of portothree"> portothree
-			</a><br/>
-			Gustavo Porto
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lisbon, Portugal</td>
-		<td>85</td>
 	</tr>
 	<tr>
 		<td>522</td>
@@ -7179,6 +7179,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>545</td>
 		<td>
+			<a href="https://github.com/Nanda-Souza">
+				<img src="https://avatars.githubusercontent.com/u/112660650?s=72&u=9fb36485b636553ab60db57494f51bb2ed6eee8d&v=4" width="24" alt="Avatar of Nanda-Souza"> Nanda-Souza
+			</a><br/>
+			Fernanda Souza Oliveira
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre, RS - Brazil</td>
+		<td>82</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
 			<a href="https://github.com/Vitorrrocha">
 				<img src="https://avatars.githubusercontent.com/u/44412471?s=72&u=756d7aae505d1a2b6dc11f70aa90a72c342c3b62&v=4" width="24" alt="Avatar of Vitorrrocha"> Vitorrrocha
 			</a><br/>
@@ -7190,7 +7203,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/gui1612">
 				<img src="https://avatars.githubusercontent.com/u/16765627?s=72&u=87b6966ad0943b6f5f87a313ccf6a79da9d21c49&v=4" width="24" alt="Avatar of gui1612"> gui1612
@@ -7203,7 +7216,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/Slimakoi">
 				<img src="https://avatars.githubusercontent.com/u/24621566?s=72&u=f25bf794956aa3b8a3607ec8127f9ee4053bf457&v=4" width="24" alt="Avatar of Slimakoi"> Slimakoi
@@ -7216,7 +7229,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/lucasswed">
 				<img src="https://avatars.githubusercontent.com/u/76165259?s=72&u=e38e9360a671af35efe9a4ae40ce5d25c0a507dc&v=4" width="24" alt="Avatar of lucasswed"> lucasswed
@@ -7229,7 +7242,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/math-reis">
 				<img src="https://avatars.githubusercontent.com/u/68642554?s=72&u=31977dfb1b369ba9fa25bfe4c09122ecc7eb1b55&v=4" width="24" alt="Avatar of math-reis"> math-reis
@@ -7242,7 +7255,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/rqueiros">
 				<img src="https://avatars.githubusercontent.com/u/741554?s=72&u=186fc76fe3db463f0ebbf357f1b57be8114c219f&v=4" width="24" alt="Avatar of rqueiros"> rqueiros
@@ -7255,7 +7268,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/gss-patricia">
 				<img src="https://avatars.githubusercontent.com/u/12343794?s=72&u=0a4e61fff7e2ff66d81eb989e8d06fe66ae84e03&v=4" width="24" alt="Avatar of gss-patricia"> gss-patricia
@@ -7268,7 +7281,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/cmalbuquerque">
 				<img src="https://avatars.githubusercontent.com/u/38322440?s=72&u=46863c0359f268cffdef30460b733d815e2adb2a&v=4" width="24" alt="Avatar of cmalbuquerque"> cmalbuquerque
@@ -7281,7 +7294,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/mariajbp">
 				<img src="https://avatars.githubusercontent.com/u/32769382?s=72&u=5cc9e9af69ebe54f0fd51be5ea907e9ac24f4a9b&v=4" width="24" alt="Avatar of mariajbp"> mariajbp
@@ -7294,7 +7307,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/viacheslavpleshkov">
 				<img src="https://avatars.githubusercontent.com/u/31387495?s=72&u=d859fece88698b415351cf71ea3d4d2e30c39c61&v=4" width="24" alt="Avatar of viacheslavpleshkov"> viacheslavpleshkov
@@ -7307,7 +7320,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/ruipenso">
 				<img src="https://avatars.githubusercontent.com/u/73298?s=72&u=4b85df011c8b813d588763d9aac847147788844b&v=4" width="24" alt="Avatar of ruipenso"> ruipenso
@@ -7320,7 +7333,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/mikaelpatel">
 				<img src="https://avatars.githubusercontent.com/u/2774083?s=72&u=fa4b7733b2c3240e52b5bce9c74c8f85cc80e621&v=4" width="24" alt="Avatar of mikaelpatel"> mikaelpatel
@@ -7333,7 +7346,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/lucascorrea">
 				<img src="https://avatars.githubusercontent.com/u/385947?s=72&u=bba7e94645ffa25182ccf2481d95b9617423b0fe&v=4" width="24" alt="Avatar of lucascorrea"> lucascorrea
@@ -7346,7 +7359,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/analistacarlosh">
 				<img src="https://avatars.githubusercontent.com/u/2495963?s=72&u=1298d8a928c17c17c814a161b64db3fd2c1e80bc&v=4" width="24" alt="Avatar of analistacarlosh"> analistacarlosh
@@ -7359,7 +7372,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/diogocapela">
 				<img src="https://avatars.githubusercontent.com/u/10655554?s=72&u=acad4f2bbce1999de99e6aaa12813271c8f1719f&v=4" width="24" alt="Avatar of diogocapela"> diogocapela
@@ -7372,7 +7385,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/cristijung">
 				<img src="https://avatars.githubusercontent.com/u/17149877?s=72&u=e9a12c52c97aed3b3b0376d2755c864016ab1854&v=4" width="24" alt="Avatar of cristijung"> cristijung
@@ -7385,7 +7398,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/jmg-duarte">
 				<img src="https://avatars.githubusercontent.com/u/15343819?s=72&u=368dadf3943b0d14f5258d94b0d6e1f1f14fbc45&v=4" width="24" alt="Avatar of jmg-duarte"> jmg-duarte
@@ -7398,7 +7411,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/juliajforesti">
 				<img src="https://avatars.githubusercontent.com/u/60678893?s=72&u=5d794706a71181b753201c09b6e96ece5c115297&v=4" width="24" alt="Avatar of juliajforesti"> juliajforesti
@@ -7411,7 +7424,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/marcelopoars">
 				<img src="https://avatars.githubusercontent.com/u/3664022?s=72&u=1a92fdcd25681d95abf0784e7c138a8bd069094f&v=4" width="24" alt="Avatar of marcelopoars"> marcelopoars
@@ -7424,7 +7437,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/jroliveira">
 				<img src="https://avatars.githubusercontent.com/u/1851350?s=72&u=d90a7078f86afc07e488c3c7402eea02b827d9a8&v=4" width="24" alt="Avatar of jroliveira"> jroliveira
@@ -7437,7 +7450,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/TaianeM">
 				<img src="https://avatars.githubusercontent.com/u/66003232?s=72&u=5ecb5df943bd37278d000d54092d8a3c35a14d89&v=4" width="24" alt="Avatar of TaianeM"> TaianeM
@@ -7450,7 +7463,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/renatovico">
 				<img src="https://avatars.githubusercontent.com/u/299319?s=72&u=dee36c9a5b6f63b26150bf40f511f067fec59dcf&v=4" width="24" alt="Avatar of renatovico"> renatovico
@@ -7463,7 +7476,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/lenonleite">
 				<img src="https://avatars.githubusercontent.com/u/218436?s=72&v=4" width="24" alt="Avatar of lenonleite"> lenonleite
@@ -7476,7 +7489,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/CaMaschion">
 				<img src="https://avatars.githubusercontent.com/u/48969727?s=72&u=ab2e0884071557bc185b0dffb65a166fdd7beab4&v=4" width="24" alt="Avatar of CaMaschion"> CaMaschion
@@ -7489,7 +7502,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/GambuzX">
 				<img src="https://avatars.githubusercontent.com/u/32744387?s=72&u=ac911ba172c9506c5a8cca9a17703878fb090405&v=4" width="24" alt="Avatar of GambuzX"> GambuzX
@@ -7502,7 +7515,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/paulofreitas-py">
 				<img src="https://avatars.githubusercontent.com/u/42820569?s=72&u=756d1c6a756b352a1095e7cb9289d3170f909765&v=4" width="24" alt="Avatar of paulofreitas-py"> paulofreitas-py
@@ -7515,7 +7528,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/129Camal">
 				<img src="https://avatars.githubusercontent.com/u/17687234?s=72&u=3f8d3a673cb4b8d654d39b7305f5f0e5da1c9893&v=4" width="24" alt="Avatar of 129Camal"> 129Camal
@@ -7528,7 +7541,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/pedrobalage">
 				<img src="https://avatars.githubusercontent.com/u/2903746?s=72&u=1c519c365eb5dff323138e6375aa1256fb4ce6c6&v=4" width="24" alt="Avatar of pedrobalage"> pedrobalage
@@ -7541,7 +7554,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/veruskadeoliver">
 				<img src="https://avatars.githubusercontent.com/u/81496721?s=72&u=96573a7c053516c87be1d3e5dc6ec438cac1c581&v=4" width="24" alt="Avatar of veruskadeoliver"> veruskadeoliver
@@ -7554,7 +7567,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/Fabio-A-Sa">
 				<img src="https://avatars.githubusercontent.com/u/72668966?s=72&u=dbf839c4635de66a3c7f5ba5dacc3793c25fe930&v=4" width="24" alt="Avatar of Fabio-A-Sa"> Fabio-A-Sa
@@ -7567,7 +7580,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/callmephilip">
 				<img src="https://avatars.githubusercontent.com/u/492025?s=72&u=96f0418e9fa74faf786ee64e3dcff726d23c5d05&v=4" width="24" alt="Avatar of callmephilip"> callmephilip
@@ -7580,7 +7593,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/laionazeredo">
 				<img src="https://avatars.githubusercontent.com/u/57836931?s=72&u=e291e8807c4a01f8d3a24b8abb0e3921871da1c2&v=4" width="24" alt="Avatar of laionazeredo"> laionazeredo
@@ -7593,7 +7606,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/lucasmezencio">
 				<img src="https://avatars.githubusercontent.com/u/472412?s=72&u=4a70f0c169a39da1136b1ca749c26f4b7d178610&v=4" width="24" alt="Avatar of lucasmezencio"> lucasmezencio
@@ -7603,19 +7616,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Lead Software Engineer @<br/>Time2play<br/>Media<br/></td>
 		<td><a href="https://twitter.com/lucasmezencio">lucasmezencio</a></td>
 		<td>Estoril, Lisbon - Portugal</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>578</td>
-		<td>
-			<a href="https://github.com/Nanda-Souza">
-				<img src="https://avatars.githubusercontent.com/u/112660650?s=72&u=9fb36485b636553ab60db57494f51bb2ed6eee8d&v=4" width="24" alt="Avatar of Nanda-Souza"> Nanda-Souza
-			</a><br/>
-			Fernanda Souza Oliveira
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre, RS - Brazil</td>
 		<td>80</td>
 	</tr>
 	<tr>
@@ -7868,6 +7868,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>598</td>
 		<td>
+			<a href="https://github.com/EmanuelGF">
+				<img src="https://avatars.githubusercontent.com/u/25751489?s=72&u=80178b313baf0180494aa6301e83cb925466b1fa&v=4" width="24" alt="Avatar of EmanuelGF"> EmanuelGF
+			</a><br/>
+			emanuel-dev
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>599</td>
+		<td>
 			<a href="https://github.com/ricardopereira33">
 				<img src="https://avatars.githubusercontent.com/u/16037370?s=72&u=b14d0b01a92ede4c761c0fb1600966bd6cd09292&v=4" width="24" alt="Avatar of ricardopereira33"> ricardopereira33
 			</a><br/>
@@ -7879,7 +7892,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/JAugustoGuimaraes">
 				<img src="https://avatars.githubusercontent.com/u/1640514?s=72&u=1f17c392d80871bec26b5b5f49a361edf79b6cf7&v=4" width="24" alt="Avatar of JAugustoGuimaraes"> JAugustoGuimaraes
@@ -7892,7 +7905,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/NickAcPT">
 				<img src="https://avatars.githubusercontent.com/u/32451103?s=72&u=ec47c333b621e27e9224e63cc28b98a5d61a7bc7&v=4" width="24" alt="Avatar of NickAcPT"> NickAcPT
@@ -7905,7 +7918,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/antedeguemon">
 				<img src="https://avatars.githubusercontent.com/u/5060004?s=72&u=fd97449437dbbea9a19f7ad859bfb4612ac18328&v=4" width="24" alt="Avatar of antedeguemon"> antedeguemon
@@ -7918,7 +7931,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/JonnyBGod">
 				<img src="https://avatars.githubusercontent.com/u/405206?s=72&v=4" width="24" alt="Avatar of JonnyBGod"> JonnyBGod
@@ -7931,7 +7944,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/atduarte">
 				<img src="https://avatars.githubusercontent.com/u/666176?s=72&u=82fa5c240e45c8f34a4f5699e367feec6ae8e115&v=4" width="24" alt="Avatar of atduarte"> atduarte
@@ -7944,7 +7957,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/bsonntag">
 				<img src="https://avatars.githubusercontent.com/u/6205451?s=72&u=26bd7bf56c4d4b7e1729a407b027c448acadca7e&v=4" width="24" alt="Avatar of bsonntag"> bsonntag
@@ -7957,7 +7970,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/jessicalemos">
 				<img src="https://avatars.githubusercontent.com/u/32941964?s=72&u=767e43b9307d1ad03945bd5bdb1611e63b3c4223&v=4" width="24" alt="Avatar of jessicalemos"> jessicalemos
@@ -7970,7 +7983,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/maisamaximo">
 				<img src="https://avatars.githubusercontent.com/u/16991001?s=72&u=22a1cf95b11e1b758019be60b7b346933729c55d&v=4" width="24" alt="Avatar of maisamaximo"> maisamaximo
@@ -7983,7 +7996,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/Marantesss">
 				<img src="https://avatars.githubusercontent.com/u/36729905?s=72&u=72cb2f98d798d77270b0d49a3f9063c29d37d3ac&v=4" width="24" alt="Avatar of Marantesss"> Marantesss
@@ -7996,7 +8009,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/caioguedes">
 				<img src="https://avatars.githubusercontent.com/u/2953198?s=72&u=3140fc283b14e20c4394f8888f0b4a642f300659&v=4" width="24" alt="Avatar of caioguedes"> caioguedes
@@ -8009,7 +8022,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/maurobaraldi">
 				<img src="https://avatars.githubusercontent.com/u/109297?s=72&u=d242fb50c96af0bbdd488fb41b3435ee70a49fc0&v=4" width="24" alt="Avatar of maurobaraldi"> maurobaraldi
@@ -8019,19 +8032,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Farfetch </td>
 		<td>No Twitter Username</td>
 		<td>Braga, Portugal</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>610</td>
-		<td>
-			<a href="https://github.com/EmanuelGF">
-				<img src="https://avatars.githubusercontent.com/u/25751489?s=72&u=80178b313baf0180494aa6301e83cb925466b1fa&v=4" width="24" alt="Avatar of EmanuelGF"> EmanuelGF
-			</a><br/>
-			emanuel-dev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
 		<td>78</td>
 	</tr>
 	<tr>
@@ -8102,19 +8102,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>616</td>
 		<td>
-			<a href="https://github.com/jhonipereira">
-				<img src="https://avatars.githubusercontent.com/u/113802785?s=72&u=5d594837f99097928fd9736fe0034242e5a52dd9&v=4" width="24" alt="Avatar of jhonipereira"> jhonipereira
-			</a><br/>
-			Jhoni Pereira
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jhoni_tech">jhoni_tech</a></td>
-		<td>Portugal</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>617</td>
-		<td>
 			<a href="https://github.com/lrascao">
 				<img src="https://avatars.githubusercontent.com/u/639415?s=72&v=4" width="24" alt="Avatar of lrascao"> lrascao
 			</a><br/>
@@ -8126,7 +8113,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/martinhoaragao">
 				<img src="https://avatars.githubusercontent.com/u/7093119?s=72&u=3b0aeeb204ca3706a4aad089008afe690f2cd778&v=4" width="24" alt="Avatar of martinhoaragao"> martinhoaragao
@@ -8139,7 +8126,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/ta-data-lis">
 				<img src="https://avatars.githubusercontent.com/u/54109907?s=72&u=36941c2652d21aa37416affa0e1e04dc5463dc13&v=4" width="24" alt="Avatar of ta-data-lis"> ta-data-lis
@@ -8152,7 +8139,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/Barca88">
 				<img src="https://avatars.githubusercontent.com/u/21231482?s=72&u=88e6b88733f419805c30166285ed832764ce3028&v=4" width="24" alt="Avatar of Barca88"> Barca88
@@ -8165,7 +8152,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/fernandabonetti">
 				<img src="https://avatars.githubusercontent.com/u/11467667?s=72&u=053fe515cd4e90fea43fd4d0d88ff78bb5b9cd28&v=4" width="24" alt="Avatar of fernandabonetti"> fernandabonetti
@@ -8178,7 +8165,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/zesilva63">
 				<img src="https://avatars.githubusercontent.com/u/13302089?s=72&u=b47e796172531b01c333f110ac5111317f2ae437&v=4" width="24" alt="Avatar of zesilva63"> zesilva63
@@ -8191,7 +8178,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/webcracy">
 				<img src="https://avatars.githubusercontent.com/u/28333?s=72&u=9b16d845bd18d965b7595fe332b979dfbd4020a4&v=4" width="24" alt="Avatar of webcracy"> webcracy
@@ -8204,7 +8191,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/johnsardine">
 				<img src="https://avatars.githubusercontent.com/u/679335?s=72&v=4" width="24" alt="Avatar of johnsardine"> johnsardine
@@ -8217,7 +8204,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/luciano-jr">
 				<img src="https://avatars.githubusercontent.com/u/3333167?s=72&u=9990dcff9db4b8ccf76796c98f65e83b49ee3cfe&v=4" width="24" alt="Avatar of luciano-jr"> luciano-jr
@@ -8230,7 +8217,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/rafaelferreirapt">
 				<img src="https://avatars.githubusercontent.com/u/4203171?s=72&u=5258f17693c696facdf347558a197e1290a274ce&v=4" width="24" alt="Avatar of rafaelferreirapt"> rafaelferreirapt
@@ -8243,7 +8230,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/ordepdev">
 				<img src="https://avatars.githubusercontent.com/u/1714825?s=72&u=8f24a1d2cf754b3a50cbaabc47e0e2bcddade9b3&v=4" width="24" alt="Avatar of ordepdev"> ordepdev
@@ -8256,7 +8243,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/stvkoch">
 				<img src="https://avatars.githubusercontent.com/u/14454?s=72&u=96ddb7dd076dc29868c2baf5b62f97ce69af3b75&v=4" width="24" alt="Avatar of stvkoch"> stvkoch
@@ -8269,7 +8256,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/machadovilaca">
 				<img src="https://avatars.githubusercontent.com/u/21959383?s=72&u=683d95df81262771016663068c87856bd519c99b&v=4" width="24" alt="Avatar of machadovilaca"> machadovilaca
@@ -8282,7 +8269,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/matheusrocha89">
 				<img src="https://avatars.githubusercontent.com/u/3718366?s=72&u=11136c58e050ca3d26e98ad07a319e1369301017&v=4" width="24" alt="Avatar of matheusrocha89"> matheusrocha89
@@ -8292,6 +8279,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Urbint </td>
 		<td><a href="https://twitter.com/matheusrocha">matheusrocha</a></td>
 		<td>Porto, Portugal.</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>630</td>
+		<td>
+			<a href="https://github.com/olaviolacerda">
+				<img src="https://avatars.githubusercontent.com/u/18356605?s=72&u=90947f034367a8d6589c00a4d7d1b5865495a9a5&v=4" width="24" alt="Avatar of olaviolacerda"> olaviolacerda
+			</a><br/>
+			Olavio Lacerda 
+		</td>
+		<td>Bolttech </td>
+		<td><a href="https://twitter.com/olaviolacerda">olaviolacerda</a></td>
+		<td>Porto Alegre/RS - Brazil</td>
 		<td>76</td>
 	</tr>
 	<tr>
@@ -8323,6 +8323,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>633</td>
 		<td>
+			<a href="https://github.com/jhonipereira">
+				<img src="https://avatars.githubusercontent.com/u/113802785?s=72&u=5d594837f99097928fd9736fe0034242e5a52dd9&v=4" width="24" alt="Avatar of jhonipereira"> jhonipereira
+			</a><br/>
+			Jhoni Pereira
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jhoni_tech">jhoni_tech</a></td>
+		<td>Portugal</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>634</td>
+		<td>
 			<a href="https://github.com/filipesperandio">
 				<img src="https://avatars.githubusercontent.com/u/316873?s=72&u=e7ce98e0460222d218feabb1b4b8b71b1c22e69c&v=4" width="24" alt="Avatar of filipesperandio"> filipesperandio
 			</a><br/>
@@ -8334,7 +8347,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/Joao7-w7">
 				<img src="https://avatars.githubusercontent.com/u/79376309?s=72&u=447038579da01f857f18c34adaea869229bee6db&v=4" width="24" alt="Avatar of Joao7-w7"> Joao7-w7
@@ -8347,7 +8360,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/glauco">
 				<img src="https://avatars.githubusercontent.com/u/76370?s=72&v=4" width="24" alt="Avatar of glauco"> glauco
@@ -8360,7 +8373,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/clebercampomori">
 				<img src="https://avatars.githubusercontent.com/u/8109776?s=72&u=1767691e54b37ffefb1f6a904ec546109014566f&v=4" width="24" alt="Avatar of clebercampomori"> clebercampomori
@@ -8373,7 +8386,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/trecenti">
 				<img src="https://avatars.githubusercontent.com/u/314872?s=72&u=5cd1c3863fec0525769d94d9f09689604750f8b2&v=4" width="24" alt="Avatar of trecenti"> trecenti
@@ -8386,7 +8399,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/pedrocaseiro">
 				<img src="https://avatars.githubusercontent.com/u/8680198?s=72&u=a8e39cb3d75579adbb8d572bf273c48237d9983b&v=4" width="24" alt="Avatar of pedrocaseiro"> pedrocaseiro
@@ -8399,7 +8412,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/hkakutalua">
 				<img src="https://avatars.githubusercontent.com/u/3662164?s=72&u=8db83ab3eeea8a34164965fecb63b7f1aa62f088&v=4" width="24" alt="Avatar of hkakutalua"> hkakutalua
@@ -8412,7 +8425,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/lucalanca">
 				<img src="https://avatars.githubusercontent.com/u/389459?s=72&u=e34f928aed284f9727f5a6bc61e771bc57795b20&v=4" width="24" alt="Avatar of lucalanca"> lucalanca
@@ -8425,7 +8438,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/ruiquelhas">
 				<img src="https://avatars.githubusercontent.com/u/413255?s=72&u=9cbb4bcdae1327626847897b4e3b80808947f825&v=4" width="24" alt="Avatar of ruiquelhas"> ruiquelhas
@@ -8438,7 +8451,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/crsantos">
 				<img src="https://avatars.githubusercontent.com/u/25558?s=72&u=de20deb54832dec695ac8188e5092181c756a14d&v=4" width="24" alt="Avatar of crsantos"> crsantos
@@ -8451,7 +8464,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/Gabriel-Cervo">
 				<img src="https://avatars.githubusercontent.com/u/56052678?s=72&u=92c7b9e7ebac7c4a7caee2cd2b67165b460678dd&v=4" width="24" alt="Avatar of Gabriel-Cervo"> Gabriel-Cervo
@@ -8464,7 +8477,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/BunyMan">
 				<img src="https://avatars.githubusercontent.com/u/90333740?s=72&u=922cb14be8b250f478601cc251ab3236c55ba83e&v=4" width="24" alt="Avatar of BunyMan"> BunyMan
@@ -8477,7 +8490,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/bernardobelchior">
 				<img src="https://avatars.githubusercontent.com/u/12778398?s=72&u=4519d00f1c7b946201a23872921e38879b3db9c4&v=4" width="24" alt="Avatar of bernardobelchior"> bernardobelchior
@@ -8490,7 +8503,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/otaudopatrick">
 				<img src="https://avatars.githubusercontent.com/u/44445007?s=72&u=ebaf88f6180a20af97a01cd15030657f8644d73a&v=4" width="24" alt="Avatar of otaudopatrick"> otaudopatrick
@@ -8503,7 +8516,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/AlexCatarino">
 				<img src="https://avatars.githubusercontent.com/u/6889033?s=72&u=fa2a738185a557d958fb66f7b44f54de1ae33030&v=4" width="24" alt="Avatar of AlexCatarino"> AlexCatarino
@@ -8516,7 +8529,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/datsfilipe">
 				<img src="https://avatars.githubusercontent.com/u/76636791?s=72&u=33b9889f45b86d1ebf743a448a9352da0ab7b57c&v=4" width="24" alt="Avatar of datsfilipe"> datsfilipe
@@ -8529,7 +8542,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/eduardobittencourt">
 				<img src="https://avatars.githubusercontent.com/u/25224459?s=72&v=4" width="24" alt="Avatar of eduardobittencourt"> eduardobittencourt
@@ -8542,7 +8555,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/cimendes">
 				<img src="https://avatars.githubusercontent.com/u/15690332?s=72&u=15402da9b2df6c6a3bef6442ce50cf1a74c1e3e7&v=4" width="24" alt="Avatar of cimendes"> cimendes
@@ -8555,7 +8568,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/nurv">
 				<img src="https://avatars.githubusercontent.com/u/132118?s=72&u=85210ff8c822126538dae5db7d5a4acf8a059ae2&v=4" width="24" alt="Avatar of nurv"> nurv
@@ -8568,7 +8581,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/jhonathancs">
 				<img src="https://avatars.githubusercontent.com/u/83834773?s=72&u=982f75ff7d9d2f5386d0e7bab6a0c53566c73cc7&v=4" width="24" alt="Avatar of jhonathancs"> jhonathancs
@@ -8578,19 +8591,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Tryber </td>
 		<td>No Twitter Username</td>
 		<td>Porto Velho - RO</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>653</td>
-		<td>
-			<a href="https://github.com/olaviolacerda">
-				<img src="https://avatars.githubusercontent.com/u/18356605?s=72&u=90947f034367a8d6589c00a4d7d1b5865495a9a5&v=4" width="24" alt="Avatar of olaviolacerda"> olaviolacerda
-			</a><br/>
-			Olavio Lacerda 
-		</td>
-		<td>Bolttech </td>
-		<td><a href="https://twitter.com/olaviolacerda">olaviolacerda</a></td>
-		<td>Porto Alegre/RS - Brazil</td>
 		<td>74</td>
 	</tr>
 	<tr>
@@ -8609,6 +8609,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>655</td>
 		<td>
+			<a href="https://github.com/code36u4r60">
+				<img src="https://avatars.githubusercontent.com/u/17265214?s=72&u=b9c6a2a325b56ef9cfd899e68dc0f3ecc115dd00&v=4" width="24" alt="Avatar of code36u4r60"> code36u4r60
+			</a><br/>
+			Eduardo Queirós
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>656</td>
+		<td>
 			<a href="https://github.com/JuliaV05">
 				<img src="https://avatars.githubusercontent.com/u/106852581?s=72&u=af5506e6ea2dea099c34c88d8f06c7b2ecfbc3d7&v=4" width="24" alt="Avatar of JuliaV05"> JuliaV05
 			</a><br/>
@@ -8620,7 +8633,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/emanoelvianna">
 				<img src="https://avatars.githubusercontent.com/u/4459681?s=72&u=393d5362d50e4cfdfb7d8c16e6552d7583ff50ee&v=4" width="24" alt="Avatar of emanoelvianna"> emanoelvianna
@@ -8633,7 +8646,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/fcecagno">
 				<img src="https://avatars.githubusercontent.com/u/502164?s=72&v=4" width="24" alt="Avatar of fcecagno"> fcecagno
@@ -8646,7 +8659,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/DanniloAlmeida">
 				<img src="https://avatars.githubusercontent.com/u/77454609?s=72&u=d2b5d7ee9f75c3b3176341247adafd3ca9f2809e&v=4" width="24" alt="Avatar of DanniloAlmeida"> DanniloAlmeida
@@ -8659,7 +8672,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/luminoso">
 				<img src="https://avatars.githubusercontent.com/u/296323?s=72&u=8802e355c141f2faca7f7e4c036daa794b8a4901&v=4" width="24" alt="Avatar of luminoso"> luminoso
@@ -8672,7 +8685,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/joaogouveia89">
 				<img src="https://avatars.githubusercontent.com/u/10503530?s=72&u=5d1b3eff090bd548677394d51d24edbec0017c7d&v=4" width="24" alt="Avatar of joaogouveia89"> joaogouveia89
@@ -8685,7 +8698,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/f0rmig4">
 				<img src="https://avatars.githubusercontent.com/u/485849?s=72&u=5dddf6ad2fe7182d72b8e07c785da2f239f05848&v=4" width="24" alt="Avatar of f0rmig4"> f0rmig4
@@ -8698,7 +8711,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/62Gerente">
 				<img src="https://avatars.githubusercontent.com/u/1471378?s=72&u=cea4d7bc17d6766246d7c939767e76fa94b72cec&v=4" width="24" alt="Avatar of 62Gerente"> 62Gerente
@@ -8711,7 +8724,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/andrefreitas">
 				<img src="https://avatars.githubusercontent.com/u/1192089?s=72&u=3cb520d69e25db9b585b8feb28dffc968bca1c17&v=4" width="24" alt="Avatar of andrefreitas"> andrefreitas
@@ -8724,7 +8737,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/guilhermesimoes">
 				<img src="https://avatars.githubusercontent.com/u/531168?s=72&u=31a1afebd768e1169ffc9819e25a67b047c69d68&v=4" width="24" alt="Avatar of guilhermesimoes"> guilhermesimoes
@@ -8737,7 +8750,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/aitorvs">
 				<img src="https://avatars.githubusercontent.com/u/6786896?s=72&u=1d8a633f8fa515cccab7b9f0a36b28d9fee3ee0a&v=4" width="24" alt="Avatar of aitorvs"> aitorvs
@@ -8750,7 +8763,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/Azhariel">
 				<img src="https://avatars.githubusercontent.com/u/9439404?s=72&u=d6365c851519d8e282083f47570d9aa8731ecf4d&v=4" width="24" alt="Avatar of Azhariel"> Azhariel
@@ -8763,7 +8776,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/pedro-mendonca">
 				<img src="https://avatars.githubusercontent.com/u/7371591?s=72&v=4" width="24" alt="Avatar of pedro-mendonca"> pedro-mendonca
@@ -8776,7 +8789,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/laraujo7">
 				<img src="https://avatars.githubusercontent.com/u/44007026?s=72&u=0a1479a36531aa73505578a22c70e4782e079358&v=4" width="24" alt="Avatar of laraujo7"> laraujo7
@@ -8789,7 +8802,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/ivandrofly">
 				<img src="https://avatars.githubusercontent.com/u/6579818?s=72&u=e7b00108062e8d9edac43f54024a9efe46c5a44a&v=4" width="24" alt="Avatar of ivandrofly"> ivandrofly
@@ -8802,7 +8815,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/memming">
 				<img src="https://avatars.githubusercontent.com/u/1228661?s=72&v=4" width="24" alt="Avatar of memming"> memming
@@ -8815,7 +8828,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/pedroduartecosta">
 				<img src="https://avatars.githubusercontent.com/u/9059178?s=72&v=4" width="24" alt="Avatar of pedroduartecosta"> pedroduartecosta
@@ -8825,19 +8838,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Porto</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>672</td>
-		<td>
-			<a href="https://github.com/code36u4r60">
-				<img src="https://avatars.githubusercontent.com/u/17265214?s=72&u=b9c6a2a325b56ef9cfd899e68dc0f3ecc115dd00&v=4" width="24" alt="Avatar of code36u4r60"> code36u4r60
-			</a><br/>
-			Eduardo Queirós
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
 		<td>73</td>
 	</tr>
 	<tr>
@@ -9051,12 +9051,12 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>689</td>
 		<td>
-			<a href="https://github.com/LeandroCordeiro97">
-				<img src="https://avatars.githubusercontent.com/u/96998352?s=72&u=7be2ae363f18cae06b7824bf829cf543dd30050d&v=4" width="24" alt="Avatar of LeandroCordeiro97"> LeandroCordeiro97
+			<a href="https://github.com/EwertonDaniel">
+				<img src="https://avatars.githubusercontent.com/u/42904786?s=72&v=4" width="24" alt="Avatar of EwertonDaniel"> EwertonDaniel
 			</a><br/>
-			Leandro Cordeiro
+			Ewerton Daniel
 		</td>
-		<td>No Company</td>
+		<td>Alfasoft </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
 		<td>72</td>
@@ -9233,6 +9233,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>703</td>
 		<td>
+			<a href="https://github.com/LeandroCordeiro97">
+				<img src="https://avatars.githubusercontent.com/u/96998352?s=72&u=7be2ae363f18cae06b7824bf829cf543dd30050d&v=4" width="24" alt="Avatar of LeandroCordeiro97"> LeandroCordeiro97
+			</a><br/>
+			Leandro Cordeiro
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
 			<a href="https://github.com/christophermoura">
 				<img src="https://avatars.githubusercontent.com/u/14416?s=72&u=8dcda3b18d662aa4aff6aa4bddd1334ec0dd2cc0&v=4" width="24" alt="Avatar of christophermoura"> christophermoura
 			</a><br/>
@@ -9244,7 +9257,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/khkasper">
 				<img src="https://avatars.githubusercontent.com/u/85760820?s=72&u=5567ace963e21ae31ec5259ec4fcfdaa1839ac0c&v=4" width="24" alt="Avatar of khkasper"> khkasper
@@ -9257,7 +9270,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/raqssr">
 				<img src="https://avatars.githubusercontent.com/u/18335485?s=72&u=04d31def4b2d2bf5a42cc759d882b246c8bc7485&v=4" width="24" alt="Avatar of raqssr"> raqssr
@@ -9270,7 +9283,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/CasalMiriam">
 				<img src="https://avatars.githubusercontent.com/u/90770784?s=72&u=f0342329c92b9d76b3668639039a78116b8dcf16&v=4" width="24" alt="Avatar of CasalMiriam"> CasalMiriam
@@ -9283,7 +9296,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/fao89">
 				<img src="https://avatars.githubusercontent.com/u/17153022?s=72&v=4" width="24" alt="Avatar of fao89"> fao89
@@ -9296,7 +9309,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
+		<td>
+			<a href="https://github.com/rafaelsantanna">
+				<img src="https://avatars.githubusercontent.com/u/14945146?s=72&u=6245417bf9f9f140e78952f19ec68465dfa7d41a&v=4" width="24" alt="Avatar of rafaelsantanna"> rafaelsantanna
+			</a><br/>
+			Rafael Sant' Anna
+		</td>
+		<td>Sawaup </td>
+		<td>No Twitter Username</td>
+		<td>Viana do Castelo, Portugal</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/gabicantarini">
 				<img src="https://avatars.githubusercontent.com/u/89015121?s=72&u=55e2af356968d5c6c1d7ca47f28119f754109a80&v=4" width="24" alt="Avatar of gabicantarini"> gabicantarini
@@ -9309,7 +9335,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/joaopedrodcf">
 				<img src="https://avatars.githubusercontent.com/u/11476152?s=72&u=e6ee3d053d5a4b828189c3f5ad2465042ed556ee&v=4" width="24" alt="Avatar of joaopedrodcf"> joaopedrodcf
@@ -9322,7 +9348,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/marciafc">
 				<img src="https://avatars.githubusercontent.com/u/15793126?s=72&u=d64652579c758014dc0a453ecaab5905db796ad4&v=4" width="24" alt="Avatar of marciafc"> marciafc
@@ -9335,7 +9361,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/relsi">
 				<img src="https://avatars.githubusercontent.com/u/161491?s=72&u=9eb817192abf2aa5806c5ff1ff5a7497ed0ade49&v=4" width="24" alt="Avatar of relsi"> relsi
@@ -9348,7 +9374,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/RubenBranco">
 				<img src="https://avatars.githubusercontent.com/u/26976462?s=72&u=c2126569e825b750c002f05955e75200a1ee1d96&v=4" width="24" alt="Avatar of RubenBranco"> RubenBranco
@@ -9361,7 +9387,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/fabiomen10">
 				<img src="https://avatars.githubusercontent.com/u/12684528?s=72&u=2d1c8415a56f790b88a72241ca7db074ea9d3515&v=4" width="24" alt="Avatar of fabiomen10"> fabiomen10
@@ -9374,7 +9400,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/schultz-gabriel">
 				<img src="https://avatars.githubusercontent.com/u/81654505?s=72&u=e8121b7aa1f155a1a5f5c7f50912bdf56397db8a&v=4" width="24" alt="Avatar of schultz-gabriel"> schultz-gabriel
@@ -9387,7 +9413,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/puyol105">
 				<img src="https://avatars.githubusercontent.com/u/11221161?s=72&u=026ca7773930b2ee30e70c2cf38b2755fb22f73d&v=4" width="24" alt="Avatar of puyol105"> puyol105
@@ -9400,7 +9426,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/henriquels25">
 				<img src="https://avatars.githubusercontent.com/u/4086440?s=72&u=00246f395f34175a836070190c667dd7e2347c4d&v=4" width="24" alt="Avatar of henriquels25"> henriquels25
@@ -9413,7 +9439,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/gersonlimadev">
 				<img src="https://avatars.githubusercontent.com/u/485899?s=72&u=4022d6f1723461171e7a496207f6420b5561d4cc&v=4" width="24" alt="Avatar of gersonlimadev"> gersonlimadev
@@ -9426,7 +9452,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/DanielFran">
 				<img src="https://avatars.githubusercontent.com/u/3706415?s=72&u=f317f4b5cc3a9ab003f3e2ad6a2a2f1956a70fb3&v=4" width="24" alt="Avatar of DanielFran"> DanielFran
@@ -9436,32 +9462,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dandrfranco">dandrfranco</a></td>
 		<td>Portugal</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>719</td>
-		<td>
-			<a href="https://github.com/tofran">
-				<img src="https://avatars.githubusercontent.com/u/5692603?s=72&u=12be2ebcfab4884a2540cef6ac84b02729d1cef9&v=4" width="24" alt="Avatar of tofran"> tofran
-			</a><br/>
-			Francisco Marques
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tofran_">tofran_</a></td>
-		<td>Portugal</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>720</td>
-		<td>
-			<a href="https://github.com/rafaelsantanna">
-				<img src="https://avatars.githubusercontent.com/u/14945146?s=72&u=6245417bf9f9f140e78952f19ec68465dfa7d41a&v=4" width="24" alt="Avatar of rafaelsantanna"> rafaelsantanna
-			</a><br/>
-			Rafael Sant' Anna
-		</td>
-		<td>Sawaup </td>
-		<td>No Twitter Username</td>
-		<td>Viana do Castelo, Portugal</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -9480,6 +9480,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>722</td>
 		<td>
+			<a href="https://github.com/tofran">
+				<img src="https://avatars.githubusercontent.com/u/5692603?s=72&u=12be2ebcfab4884a2540cef6ac84b02729d1cef9&v=4" width="24" alt="Avatar of tofran"> tofran
+			</a><br/>
+			Francisco Marques
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tofran_">tofran_</a></td>
+		<td>Portugal</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>723</td>
+		<td>
 			<a href="https://github.com/AndreVarandas">
 				<img src="https://avatars.githubusercontent.com/u/11405075?s=72&u=79d61711b5d7a0b9a087398aa4e869ea41dd1ace&v=4" width="24" alt="Avatar of AndreVarandas"> AndreVarandas
 			</a><br/>
@@ -9491,7 +9504,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/alessandraluzm">
 				<img src="https://avatars.githubusercontent.com/u/20958657?s=72&u=fc681353e9e89f87bc2c08ca7541b170b39073c6&v=4" width="24" alt="Avatar of alessandraluzm"> alessandraluzm
@@ -9504,7 +9517,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/perigoso">
 				<img src="https://avatars.githubusercontent.com/u/39195157?s=72&u=d5e5379f99f73f4fb3c15954855af49b2540f153&v=4" width="24" alt="Avatar of perigoso"> perigoso
@@ -9517,7 +9530,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>726</td>
 		<td>
 			<a href="https://github.com/tacitcoast">
 				<img src="https://avatars.githubusercontent.com/u/44261093?s=72&u=031d51098afb6a79d33fc21f44067c3d1682e927&v=4" width="24" alt="Avatar of tacitcoast"> tacitcoast
@@ -9530,7 +9543,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/pviniciusm">
 				<img src="https://avatars.githubusercontent.com/u/5923585?s=72&u=0938a577204617a9c282fc7ea821939631d9e70e&v=4" width="24" alt="Avatar of pviniciusm"> pviniciusm
@@ -9543,7 +9556,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/magalhas">
 				<img src="https://avatars.githubusercontent.com/u/1500063?s=72&v=4" width="24" alt="Avatar of magalhas"> magalhas
@@ -9556,7 +9569,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/joaoreis16">
 				<img src="https://avatars.githubusercontent.com/u/65984171?s=72&u=053acca0206c299ea957bf907d71046a31320fb4&v=4" width="24" alt="Avatar of joaoreis16"> joaoreis16
@@ -9569,7 +9582,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a href="https://github.com/SopadeGalinha">
 				<img src="https://avatars.githubusercontent.com/u/75684404?s=72&u=20ddcbcca35f4508be8d64cc7555e8d4e1b734ff&v=4" width="24" alt="Avatar of SopadeGalinha"> SopadeGalinha
@@ -9579,19 +9592,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Nos Portugal </td>
 		<td>No Twitter Username</td>
 		<td>Porto</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>730</td>
-		<td>
-			<a href="https://github.com/EwertonDaniel">
-				<img src="https://avatars.githubusercontent.com/u/42904786?s=72&v=4" width="24" alt="Avatar of EwertonDaniel"> EwertonDaniel
-			</a><br/>
-			Ewerton Daniel
-		</td>
-		<td>Alfasoft </td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -10221,6 +10221,32 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>779</td>
 		<td>
+			<a href="https://github.com/marianabpacheco">
+				<img src="https://avatars.githubusercontent.com/u/83087985?s=72&u=1c1481c3553cb0fee7ee5774868b358a81dc6c12&v=4" width="24" alt="Avatar of marianabpacheco"> marianabpacheco
+			</a><br/>
+			Mariana Pacheco
+		</td>
+		<td>Getnet </td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre - RS </td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>780</td>
+		<td>
+			<a href="https://github.com/netodeolino">
+				<img src="https://avatars.githubusercontent.com/u/15053160?s=72&u=59bcd481fb9e21903f2a9dc5409d3443f76d772b&v=4" width="24" alt="Avatar of netodeolino"> netodeolino
+			</a><br/>
+			Neto Deolino
+		</td>
+		<td>Boost It </td>
+		<td>No Twitter Username</td>
+		<td>Porto, Portugal</td>
+		<td>66</td>
+	</tr>
+	<tr>
+		<td>781</td>
+		<td>
 			<a href="https://github.com/isisfa">
 				<img src="https://avatars.githubusercontent.com/u/72226543?s=72&u=6371e098a308bef7dee7c9a3426e4e605ac54e62&v=4" width="24" alt="Avatar of isisfa"> isisfa
 			</a><br/>
@@ -10232,7 +10258,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/ncoelho">
 				<img src="https://avatars.githubusercontent.com/u/1238429?s=72&u=a95cd87b96db4d1b9a76488caa14c59ea02a599e&v=4" width="24" alt="Avatar of ncoelho"> ncoelho
@@ -10245,7 +10271,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/gelias">
 				<img src="https://avatars.githubusercontent.com/u/379981?s=72&v=4" width="24" alt="Avatar of gelias"> gelias
@@ -10258,7 +10284,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/nunolourenco">
 				<img src="https://avatars.githubusercontent.com/u/88342?s=72&u=bb7e9925edb901053580b6a6fc6321f0f4a04e69&v=4" width="24" alt="Avatar of nunolourenco"> nunolourenco
@@ -10271,7 +10297,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/ruiantunes">
 				<img src="https://avatars.githubusercontent.com/u/28015398?s=72&u=963bdbf372daabf8629ea873ffc1aba9fc3ebea6&v=4" width="24" alt="Avatar of ruiantunes"> ruiantunes
@@ -10284,7 +10310,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/zbastos">
 				<img src="https://avatars.githubusercontent.com/u/17802683?s=72&v=4" width="24" alt="Avatar of zbastos"> zbastos
@@ -10297,7 +10323,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/naso">
 				<img src="https://avatars.githubusercontent.com/u/1329175?s=72&u=880aa2259eb47f5e3609b66af2d9b3c04d0072a7&v=4" width="24" alt="Avatar of naso"> naso
@@ -10310,7 +10336,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/NikoNeugebauer">
 				<img src="https://avatars.githubusercontent.com/u/13985855?s=72&v=4" width="24" alt="Avatar of NikoNeugebauer"> NikoNeugebauer
@@ -10323,7 +10349,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/ivolimasilva">
 				<img src="https://avatars.githubusercontent.com/u/9535048?s=72&u=56270a2d0d8c7e8ac12caeec545409ceb94a7478&v=4" width="24" alt="Avatar of ivolimasilva"> ivolimasilva
@@ -10336,7 +10362,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/psantos10">
 				<img src="https://avatars.githubusercontent.com/u/374424?s=72&u=8f380493d346272ce1857455b4046de19b6c0c77&v=4" width="24" alt="Avatar of psantos10"> psantos10
@@ -10349,7 +10375,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/F4NT0">
 				<img src="https://avatars.githubusercontent.com/u/18719295?s=72&u=06afaf3c9e55cdf831d06211baa4d38111a1ac85&v=4" width="24" alt="Avatar of F4NT0"> F4NT0
@@ -10362,7 +10388,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/diogotvf7">
 				<img src="https://avatars.githubusercontent.com/u/93603699?s=72&u=40477b58eb3daecbff3d4599af9ac547ed653b30&v=4" width="24" alt="Avatar of diogotvf7"> diogotvf7
@@ -10375,7 +10401,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/CjS77">
 				<img src="https://avatars.githubusercontent.com/u/7573551?s=72&u=325c9602375f6f11317d6f8a644f6d37485b238d&v=4" width="24" alt="Avatar of CjS77"> CjS77
@@ -10388,7 +10414,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/hpnog">
 				<img src="https://avatars.githubusercontent.com/u/10420782?s=72&u=3e3239442a39d4aadc44f058d896ddccb5f7efcf&v=4" width="24" alt="Avatar of hpnog"> hpnog
@@ -10401,7 +10427,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/albttx">
 				<img src="https://avatars.githubusercontent.com/u/8089712?s=72&u=26b72589b2c0780ea74e699e857586287c09ba5e&v=4" width="24" alt="Avatar of albttx"> albttx
@@ -10414,7 +10440,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/limwa">
 				<img src="https://avatars.githubusercontent.com/u/13498603?s=72&u=75ee4ecdf24b06fb99b52a459dc46ef2522ce2f2&v=4" width="24" alt="Avatar of limwa"> limwa
@@ -10427,7 +10453,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/rapzo">
 				<img src="https://avatars.githubusercontent.com/u/147788?s=72&v=4" width="24" alt="Avatar of rapzo"> rapzo
@@ -10440,7 +10466,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/thais">
 				<img src="https://avatars.githubusercontent.com/u/4603029?s=72&u=847e7cc6ab0438faed384a11a37144d80436ebdf&v=4" width="24" alt="Avatar of thais"> thais
@@ -10453,7 +10479,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/p4checo">
 				<img src="https://avatars.githubusercontent.com/u/1391324?s=72&u=5930b0a264aa1790bb412e6b8d9bb017fe686935&v=4" width="24" alt="Avatar of p4checo"> p4checo
@@ -10466,7 +10492,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>800</td>
+		<td>
+			<a href="https://github.com/antoniojmsjr">
+				<img src="https://avatars.githubusercontent.com/u/20980984?s=72&u=b9f8d12298c899a88c7631c78ec9553ac4b4c4f2&v=4" width="24" alt="Avatar of antoniojmsjr"> antoniojmsjr
+			</a><br/>
+			Antônio José Medeiros Schneider Jr.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre/RS</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/Christinabright1">
 				<img src="https://avatars.githubusercontent.com/u/29335212?s=72&u=168adbf02b15f2891ae71018fc3d4c5ad453b964&v=4" width="24" alt="Avatar of Christinabright1"> Christinabright1
@@ -10479,33 +10518,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>799</td>
-		<td>
-			<a href="https://github.com/marianabpacheco">
-				<img src="https://avatars.githubusercontent.com/u/83087985?s=72&u=1c1481c3553cb0fee7ee5774868b358a81dc6c12&v=4" width="24" alt="Avatar of marianabpacheco"> marianabpacheco
-			</a><br/>
-			Mariana Pacheco
-		</td>
-		<td>Getnet </td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre - RS </td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>800</td>
-		<td>
-			<a href="https://github.com/netodeolino">
-				<img src="https://avatars.githubusercontent.com/u/15053160?s=72&u=59bcd481fb9e21903f2a9dc5409d3443f76d772b&v=4" width="24" alt="Avatar of netodeolino"> netodeolino
-			</a><br/>
-			Neto Deolino
-		</td>
-		<td>Boost It </td>
-		<td>No Twitter Username</td>
-		<td>Porto, Portugal</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>801</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/SpinnerZ">
 				<img src="https://avatars.githubusercontent.com/u/13842974?s=72&u=68809ba8b8a69bf80d56f2a32c829b6d59a9eebc&v=4" width="24" alt="Avatar of SpinnerZ"> SpinnerZ
@@ -10518,7 +10531,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/carlosnovaduarte">
 				<img src="https://avatars.githubusercontent.com/u/25884573?s=72&u=fce7baba048af82d5ec2a6b31be224331601539f&v=4" width="24" alt="Avatar of carlosnovaduarte"> carlosnovaduarte
@@ -10531,7 +10544,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/andre-martins">
 				<img src="https://avatars.githubusercontent.com/u/1390019?s=72&v=4" width="24" alt="Avatar of andre-martins"> andre-martins
@@ -10544,7 +10557,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/Shaman37">
 				<img src="https://avatars.githubusercontent.com/u/17680666?s=72&u=4a8d188f90e968c393cf76b5bd48dcd47975d4ff&v=4" width="24" alt="Avatar of Shaman37"> Shaman37
@@ -10557,7 +10570,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>806</td>
 		<td>
 			<a href="https://github.com/felisio">
 				<img src="https://avatars.githubusercontent.com/u/647676?s=72&u=5c0b675f39a1d68cafe906e53e69af6b07ce4a88&v=4" width="24" alt="Avatar of felisio"> felisio
@@ -10570,7 +10583,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>807</td>
 		<td>
 			<a href="https://github.com/albogabriel">
 				<img src="https://avatars.githubusercontent.com/u/350155?s=72&u=06c5bd09181bb365b934cc6526cbb48513160a51&v=4" width="24" alt="Avatar of albogabriel"> albogabriel
@@ -10583,7 +10596,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/MackMendes">
 				<img src="https://avatars.githubusercontent.com/u/8325534?s=72&u=402a45520301bd895ec69b659bb3c7144958f159&v=4" width="24" alt="Avatar of MackMendes"> MackMendes
@@ -10596,7 +10609,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>809</td>
+		<td>
+			<a href="https://github.com/NelsonReis">
+				<img src="https://avatars.githubusercontent.com/u/874987?s=72&v=4" width="24" alt="Avatar of NelsonReis"> NelsonReis
+			</a><br/>
+			Nelson Reis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/Jeckerson">
 				<img src="https://avatars.githubusercontent.com/u/3289702?s=72&u=c8a4fb82b0125d66b4797ab9cd72fc96d063bd75&v=4" width="24" alt="Avatar of Jeckerson"> Jeckerson
@@ -10609,7 +10635,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>811</td>
 		<td>
 			<a href="https://github.com/meqif">
 				<img src="https://avatars.githubusercontent.com/u/1706?s=72&u=b05c368e0efb4b47c4a23988385b9cf003e1a18b&v=4" width="24" alt="Avatar of meqif"> meqif
@@ -10622,7 +10648,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>812</td>
 		<td>
 			<a href="https://github.com/ruimgbarros">
 				<img src="https://avatars.githubusercontent.com/u/11280323?s=72&u=2ba95bbc7ffbe52d0df9dfc039e357ef13bcd738&v=4" width="24" alt="Avatar of ruimgbarros"> ruimgbarros
@@ -10635,7 +10661,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/FGuerreir0">
 				<img src="https://avatars.githubusercontent.com/u/61524606?s=72&u=dbe052f307431c2bef533b2f3f5269a2326d754d&v=4" width="24" alt="Avatar of FGuerreir0"> FGuerreir0
@@ -10648,7 +10674,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/alexandre-machado">
 				<img src="https://avatars.githubusercontent.com/u/1766903?s=72&u=69221e3f81f1417b5c186d537510d205f54c5b0b&v=4" width="24" alt="Avatar of alexandre-machado"> alexandre-machado
@@ -10661,7 +10687,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/tbueno">
 				<img src="https://avatars.githubusercontent.com/u/7570?s=72&u=922fa11b3fb5c9ee73315c554758745de5efbf87&v=4" width="24" alt="Avatar of tbueno"> tbueno
@@ -10674,7 +10700,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/BeeMargarida">
 				<img src="https://avatars.githubusercontent.com/u/25725586?s=72&u=eca4df43d315190987dfd4a355a1b0b218a1eb19&v=4" width="24" alt="Avatar of BeeMargarida"> BeeMargarida
@@ -10687,7 +10713,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>817</td>
 		<td>
 			<a href="https://github.com/ttoino">
 				<img src="https://avatars.githubusercontent.com/u/14280476?s=72&u=22d0786f248fb27f11bfca26786cec594f1edbd8&v=4" width="24" alt="Avatar of ttoino"> ttoino
@@ -10700,7 +10726,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/fmcarvalho">
 				<img src="https://avatars.githubusercontent.com/u/578217?s=72&u=aa062a6994db417351467a26a78fc0822bc9952c&v=4" width="24" alt="Avatar of fmcarvalho"> fmcarvalho
@@ -10713,7 +10739,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/inkeliz">
 				<img src="https://avatars.githubusercontent.com/u/4644332?s=72&u=987ecaac3fab4e630502400e236e963da601e60b&v=4" width="24" alt="Avatar of inkeliz"> inkeliz
@@ -10726,7 +10752,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/thales-goncalves">
 				<img src="https://avatars.githubusercontent.com/u/11820690?s=72&u=977d19e677c749524da5dbf15328f4f0a66db180&v=4" width="24" alt="Avatar of thales-goncalves"> thales-goncalves
@@ -10739,7 +10765,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>821</td>
 		<td>
 			<a href="https://github.com/itsfolf">
 				<img src="https://avatars.githubusercontent.com/u/9268058?s=72&u=982197c5cb60eaca3a71584cafa2131fea7b529b&v=4" width="24" alt="Avatar of itsfolf"> itsfolf
@@ -10752,7 +10778,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/Megamind51">
 				<img src="https://avatars.githubusercontent.com/u/28385541?s=72&v=4" width="24" alt="Avatar of Megamind51"> Megamind51
@@ -10765,7 +10791,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/alfredopalhares">
 				<img src="https://avatars.githubusercontent.com/u/223763?s=72&u=0d048d9ee245b1ea4f093f96a749682e86e8f671&v=4" width="24" alt="Avatar of alfredopalhares"> alfredopalhares
@@ -10778,7 +10804,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/philippWassibauer">
 				<img src="https://avatars.githubusercontent.com/u/22848?s=72&v=4" width="24" alt="Avatar of philippWassibauer"> philippWassibauer
@@ -10791,20 +10817,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>823</td>
-		<td>
-			<a href="https://github.com/antoniojmsjr">
-				<img src="https://avatars.githubusercontent.com/u/20980984?s=72&u=b9f8d12298c899a88c7631c78ec9553ac4b4c4f2&v=4" width="24" alt="Avatar of antoniojmsjr"> antoniojmsjr
-			</a><br/>
-			Antônio José Medeiros Schneider Jr.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre/RS</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>824</td>
+		<td>825</td>
 		<td>
 			<a href="https://github.com/antbz">
 				<img src="https://avatars.githubusercontent.com/u/44203439?s=72&u=007617220776ca99c70eb23200c6705d99895ae2&v=4" width="24" alt="Avatar of antbz"> antbz
@@ -10817,7 +10830,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/amandasavluchinske">
 				<img src="https://avatars.githubusercontent.com/u/23136839?s=72&u=5223b3d2ba370409576f50a1d7241c0c77a2ecd0&v=4" width="24" alt="Avatar of amandasavluchinske"> amandasavluchinske
@@ -10830,7 +10843,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/michelmelo">
 				<img src="https://avatars.githubusercontent.com/u/159223?s=72&u=d8ab1c92753ab92ef565db00c2d7ad3c9ee7d8a9&v=4" width="24" alt="Avatar of michelmelo"> michelmelo
@@ -10843,7 +10856,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/FilipaRamos">
 				<img src="https://avatars.githubusercontent.com/u/9221520?s=72&u=c00741eb87f74acaa1a1c24d13d23c63d5b95d69&v=4" width="24" alt="Avatar of FilipaRamos"> FilipaRamos
@@ -10856,7 +10869,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/DXOGO">
 				<img src="https://avatars.githubusercontent.com/u/73489245?s=72&u=2075579e25e299eab00c6b072dbdf6d769cb9278&v=4" width="24" alt="Avatar of DXOGO"> DXOGO
@@ -10869,7 +10882,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/OXINARF">
 				<img src="https://avatars.githubusercontent.com/u/1778527?s=72&u=9946c9613fd9d67143515889e812c790251aad81&v=4" width="24" alt="Avatar of OXINARF"> OXINARF
@@ -10882,7 +10895,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/renatovalente5">
 				<img src="https://avatars.githubusercontent.com/u/32987104?s=72&u=4e6396b0a1377533bfabf83f2c48e787ad1fc06a&v=4" width="24" alt="Avatar of renatovalente5"> renatovalente5
@@ -10895,7 +10908,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/alexishida">
 				<img src="https://avatars.githubusercontent.com/u/4440663?s=72&u=a9b2ae023f057c64bcbb5e98149dc989665fcc87&v=4" width="24" alt="Avatar of alexishida"> alexishida
@@ -10905,19 +10918,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/alexishida">alexishida</a></td>
 		<td>Porto Velho - Rondônia - Brazil</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>832</td>
-		<td>
-			<a href="https://github.com/NelsonReis">
-				<img src="https://avatars.githubusercontent.com/u/874987?s=72&v=4" width="24" alt="Avatar of NelsonReis"> NelsonReis
-			</a><br/>
-			Nelson Reis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
 		<td>64</td>
 	</tr>
 	<tr>
@@ -10962,6 +10962,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>836</td>
 		<td>
+			<a href="https://github.com/TiagoSeverino">
+				<img src="https://avatars.githubusercontent.com/u/14254842?s=72&u=048b57117249dd61b946d8550c311dbf6c755e74&v=4" width="24" alt="Avatar of TiagoSeverino"> TiagoSeverino
+			</a><br/>
+			Tiago Severino
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>837</td>
+		<td>
 			<a href="https://github.com/olafveerman">
 				<img src="https://avatars.githubusercontent.com/u/751330?s=72&u=9732104892b58e35eb4d6e6fad3079500b943cee&v=4" width="24" alt="Avatar of olafveerman"> olafveerman
 			</a><br/>
@@ -10973,7 +10986,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>838</td>
 		<td>
 			<a href="https://github.com/Zialus">
 				<img src="https://avatars.githubusercontent.com/u/184437?s=72&v=4" width="24" alt="Avatar of Zialus"> Zialus
@@ -10983,19 +10996,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Fcup </td>
 		<td>No Twitter Username</td>
 		<td>Portugal</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>838</td>
-		<td>
-			<a href="https://github.com/jcamposmelo">
-				<img src="https://avatars.githubusercontent.com/u/101723959?s=72&u=94cc90702bcc8edda4d37b6a3d6facc875565fc3&v=4" width="24" alt="Avatar of jcamposmelo"> jcamposmelo
-			</a><br/>
-			Jorge Campos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Jorge_Campos23">Jorge_Campos23</a></td>
-		<td>Porto Alegre,RS / Brazil</td>
 		<td>63</td>
 	</tr>
 	<tr>
@@ -11157,19 +11157,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>851</td>
 		<td>
-			<a href="https://github.com/TiagoSeverino">
-				<img src="https://avatars.githubusercontent.com/u/14254842?s=72&u=048b57117249dd61b946d8550c311dbf6c755e74&v=4" width="24" alt="Avatar of TiagoSeverino"> TiagoSeverino
-			</a><br/>
-			Tiago Severino
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>852</td>
-		<td>
 			<a href="https://github.com/mrfyda">
 				<img src="https://avatars.githubusercontent.com/u/593860?s=72&u=bdab19a23e3bf71abd0a32ab208fe80e164d4ad2&v=4" width="24" alt="Avatar of mrfyda"> mrfyda
 			</a><br/>
@@ -11181,7 +11168,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/pfac">
 				<img src="https://avatars.githubusercontent.com/u/1141870?s=72&v=4" width="24" alt="Avatar of pfac"> pfac
@@ -11194,7 +11181,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/CarlosJunioor">
 				<img src="https://avatars.githubusercontent.com/u/104463604?s=72&u=02af1a4cf81755dc798023a2e23995d55d8329ce&v=4" width="24" alt="Avatar of CarlosJunioor"> CarlosJunioor
@@ -11207,7 +11194,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/pemesteves">
 				<img src="https://avatars.githubusercontent.com/u/36743339?s=72&u=732f5c975ab83dda583b4bc67dcf26f656450327&v=4" width="24" alt="Avatar of pemesteves"> pemesteves
@@ -11217,6 +11204,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/pemesteves">pemesteves</a></td>
 		<td>Amarante; Porto</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>855</td>
+		<td>
+			<a href="https://github.com/jcamposmelo">
+				<img src="https://avatars.githubusercontent.com/u/101723959?s=72&u=94cc90702bcc8edda4d37b6a3d6facc875565fc3&v=4" width="24" alt="Avatar of jcamposmelo"> jcamposmelo
+			</a><br/>
+			Jorge Campos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Jorge_Campos23">Jorge_Campos23</a></td>
+		<td>Porto Alegre,RS / Brazil</td>
 		<td>62</td>
 	</tr>
 	<tr>
@@ -11352,19 +11352,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>866</td>
 		<td>
-			<a href="https://github.com/gbrlsnchs">
-				<img src="https://avatars.githubusercontent.com/u/7577128?s=72&u=c896dea2b7a2d5b18d28b08d2b28dd8eff2f5b55&v=4" width="24" alt="Avatar of gbrlsnchs"> gbrlsnchs
-			</a><br/>
-			Gabriel Sanches
-		</td>
-		<td>@x-team </td>
-		<td><a href="https://twitter.com/gbrlsnchs">gbrlsnchs</a></td>
-		<td>Porto Alegre, Brazil</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>867</td>
-		<td>
 			<a href="https://github.com/BelooS">
 				<img src="https://avatars.githubusercontent.com/u/4697236?s=72&u=256c99ab368f99cf6a3d50e8aafc14508cabe020&v=4" width="24" alt="Avatar of BelooS"> BelooS
 			</a><br/>
@@ -11376,7 +11363,33 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
+		<td>867</td>
+		<td>
+			<a href="https://github.com/gbrlsnchs">
+				<img src="https://avatars.githubusercontent.com/u/7577128?s=72&u=c896dea2b7a2d5b18d28b08d2b28dd8eff2f5b55&v=4" width="24" alt="Avatar of gbrlsnchs"> gbrlsnchs
+			</a><br/>
+			Gabriel Sanches
+		</td>
+		<td>@x-team </td>
+		<td><a href="https://twitter.com/gbrlsnchs">gbrlsnchs</a></td>
+		<td>Porto Alegre, Brazil</td>
+		<td>61</td>
+	</tr>
+	<tr>
 		<td>868</td>
+		<td>
+			<a href="https://github.com/arthurfalcao">
+				<img src="https://avatars.githubusercontent.com/u/22386383?s=72&u=4e1b89ce87d73a1fd0036fe3f7749240d982770a&v=4" width="24" alt="Avatar of arthurfalcao"> arthurfalcao
+			</a><br/>
+			Arthur Falcão
+		</td>
+		<td>@swordhealth </td>
+		<td>No Twitter Username</td>
+		<td>Covilhã, Portugal</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>869</td>
 		<td>
 			<a href="https://github.com/Jorge-Neves">
 				<img src="https://avatars.githubusercontent.com/u/86286519?s=72&u=d0166d8a4705eade7057af72df67b8d6abba755c&v=4" width="24" alt="Avatar of Jorge-Neves"> Jorge-Neves
@@ -11389,7 +11402,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>869</td>
+		<td>870</td>
 		<td>
 			<a href="https://github.com/SimaoQuintela">
 				<img src="https://avatars.githubusercontent.com/u/71183501?s=72&u=4326f2b29f8e598d39a1ede6a5d73ed4e9701e33&v=4" width="24" alt="Avatar of SimaoQuintela"> SimaoQuintela
@@ -11402,7 +11415,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/harrishancock">
 				<img src="https://avatars.githubusercontent.com/u/1030771?s=72&u=5da0d8a4a7f912c2d6904b2825dc6493b45aa695&v=4" width="24" alt="Avatar of harrishancock"> harrishancock
@@ -11415,7 +11428,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>871</td>
+		<td>872</td>
 		<td>
 			<a href="https://github.com/didil">
 				<img src="https://avatars.githubusercontent.com/u/1284255?s=72&u=7fac2e4c4a5a4090189a64be9d2391ce30c9d31c&v=4" width="24" alt="Avatar of didil"> didil
@@ -11428,7 +11441,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>872</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/Luizcontes">
 				<img src="https://avatars.githubusercontent.com/u/70711596?s=72&u=be9999fd82a8e4aa7ccf064c9ae1e37232b12060&v=4" width="24" alt="Avatar of Luizcontes"> Luizcontes
@@ -11441,7 +11454,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/phckopper">
 				<img src="https://avatars.githubusercontent.com/u/4000637?s=72&u=f664d3721a5e5e4a165f0293d91b37c3a314aee3&v=4" width="24" alt="Avatar of phckopper"> phckopper
@@ -11454,7 +11467,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/marcusvmsa">
 				<img src="https://avatars.githubusercontent.com/u/371302?s=72&u=f1f130354bbf07ee03004ad509184ad7205d5cf7&v=4" width="24" alt="Avatar of marcusvmsa"> marcusvmsa
@@ -11467,7 +11480,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/julianoboese">
 				<img src="https://avatars.githubusercontent.com/u/93009900?s=72&u=a776981848583a21309ee74825cfbab7281802a5&v=4" width="24" alt="Avatar of julianoboese"> julianoboese
@@ -11480,7 +11493,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/vacom">
 				<img src="https://avatars.githubusercontent.com/u/3766024?s=72&u=cb7f410266e84a108331d9f245830ee3816a83b4&v=4" width="24" alt="Avatar of vacom"> vacom
@@ -11493,7 +11506,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/DebsAndrade">
 				<img src="https://avatars.githubusercontent.com/u/100317147?s=72&u=2737fd5d80312200474f52e65cd8ffc366da4163&v=4" width="24" alt="Avatar of DebsAndrade"> DebsAndrade
@@ -11506,7 +11519,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/jpneto">
 				<img src="https://avatars.githubusercontent.com/u/886455?s=72&u=d1088f2505f4de23c47ab5deafb0ab505e249588&v=4" width="24" alt="Avatar of jpneto"> jpneto
@@ -11519,7 +11532,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/AndreMaz">
 				<img src="https://avatars.githubusercontent.com/u/9802754?s=72&u=e521d084fe0e4d7188a22434f29bc5385f127775&v=4" width="24" alt="Avatar of AndreMaz"> AndreMaz
@@ -11532,7 +11545,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/gustavodev1998">
 				<img src="https://avatars.githubusercontent.com/u/68746625?s=72&u=8cebc1ba0c0204e062975753a738a1d603c486b4&v=4" width="24" alt="Avatar of gustavodev1998"> gustavodev1998
@@ -11545,7 +11558,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/lightglitch">
 				<img src="https://avatars.githubusercontent.com/u/196953?s=72&v=4" width="24" alt="Avatar of lightglitch"> lightglitch
@@ -11558,7 +11571,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/gabizorzo">
 				<img src="https://avatars.githubusercontent.com/u/72532540?s=72&u=d3acc95fc7822e68f845fc80bd579970f11cd25d&v=4" width="24" alt="Avatar of gabizorzo"> gabizorzo
@@ -11571,7 +11584,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/wiiaboo">
 				<img src="https://avatars.githubusercontent.com/u/111605?s=72&v=4" width="24" alt="Avatar of wiiaboo"> wiiaboo
@@ -11584,7 +11597,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/tpinto">
 				<img src="https://avatars.githubusercontent.com/u/4202?s=72&u=abba3919375f12cf775a988b6af350b4819a367e&v=4" width="24" alt="Avatar of tpinto"> tpinto
@@ -11597,7 +11610,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/fernandorego">
 				<img src="https://avatars.githubusercontent.com/u/64474631?s=72&u=9fd1bfd985b135a9a3f0e618142e571da8fd67e7&v=4" width="24" alt="Avatar of fernandorego"> fernandorego
@@ -11610,7 +11623,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/AvilaAndre">
 				<img src="https://avatars.githubusercontent.com/u/75994325?s=72&u=ea5d78b4f57ab7fcc2d78f994d87195606f259a1&v=4" width="24" alt="Avatar of AvilaAndre"> AvilaAndre
@@ -11623,7 +11636,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/ironworld">
 				<img src="https://avatars.githubusercontent.com/u/125046?s=72&u=0e12e38249d17226ec954e908fa6b6f162a070fb&v=4" width="24" alt="Avatar of ironworld"> ironworld
@@ -11636,7 +11649,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/karlprieb">
 				<img src="https://avatars.githubusercontent.com/u/9200155?s=72&u=a1be57a243690b81a65ad795855ce955215bd4b3&v=4" width="24" alt="Avatar of karlprieb"> karlprieb
@@ -11649,7 +11662,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/phborba">
 				<img src="https://avatars.githubusercontent.com/u/6131641?s=72&u=5f627e28cad0898abcc1f5b6be769c6cbc9f2cfa&v=4" width="24" alt="Avatar of phborba"> phborba
@@ -11662,7 +11675,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/jaimecbernardo">
 				<img src="https://avatars.githubusercontent.com/u/26118718?s=72&v=4" width="24" alt="Avatar of jaimecbernardo"> jaimecbernardo
@@ -11675,7 +11688,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/MarioRodrigues10">
 				<img src="https://avatars.githubusercontent.com/u/93675410?s=72&u=1272d39b9f95a8fa8d53ca5b360f956de6251148&v=4" width="24" alt="Avatar of MarioRodrigues10"> MarioRodrigues10
@@ -11685,19 +11698,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>Universidade Do Minho </td>
 		<td><a href="https://twitter.com/MarioWhileCode">MarioWhileCode</a></td>
 		<td>Braga</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>892</td>
-		<td>
-			<a href="https://github.com/arthurfalcao">
-				<img src="https://avatars.githubusercontent.com/u/22386383?s=72&u=4e1b89ce87d73a1fd0036fe3f7749240d982770a&v=4" width="24" alt="Avatar of arthurfalcao"> arthurfalcao
-			</a><br/>
-			Arthur Falcão
-		</td>
-		<td>@swordhealth </td>
-		<td>No Twitter Username</td>
-		<td>Covilhã, Portugal</td>
 		<td>60</td>
 	</tr>
 	<tr>
@@ -11781,6 +11781,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>899</td>
 		<td>
+			<a href="https://github.com/filipeguimaraes">
+				<img src="https://avatars.githubusercontent.com/u/34964461?s=72&u=e1e1df7ac4b0ea76c2ebafeb36fea24de645d0c2&v=4" width="24" alt="Avatar of filipeguimaraes"> filipeguimaraes
+			</a><br/>
+			Filipe Guimarães
+		</td>
+		<td>University Of Minho </td>
+		<td>No Twitter Username</td>
+		<td>Braga</td>
+		<td>60</td>
+	</tr>
+	<tr>
+		<td>900</td>
+		<td>
 			<a href="https://github.com/Milton-Viegas">
 				<img src="https://avatars.githubusercontent.com/u/86444588?s=72&u=ddcd301c41a7814acfb0e7b0e93d22c96cb97080&v=4" width="24" alt="Avatar of Milton-Viegas"> Milton-Viegas
 			</a><br/>
@@ -11792,7 +11805,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/gioman">
 				<img src="https://avatars.githubusercontent.com/u/1951107?s=72&u=ab1222fa896e20db2ab88c2383d0e5c64fcbe910&v=4" width="24" alt="Avatar of gioman"> gioman
@@ -11802,19 +11815,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>@naturalgis  </td>
 		<td>No Twitter Username</td>
 		<td>Évora, Portugal</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>901</td>
-		<td>
-			<a href="https://github.com/Vitor7rs">
-				<img src="https://avatars.githubusercontent.com/u/86400522?s=72&u=bf01e4665c92508a17e8863a6dae0c53af157daf&v=4" width="24" alt="Avatar of Vitor7rs"> Vitor7rs
-			</a><br/>
-			José Vitor
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre, RS, BRAZIL</td>
 		<td>60</td>
 	</tr>
 	<tr>
@@ -11950,19 +11950,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>912</td>
 		<td>
-			<a href="https://github.com/filipeguimaraes">
-				<img src="https://avatars.githubusercontent.com/u/34964461?s=72&u=e1e1df7ac4b0ea76c2ebafeb36fea24de645d0c2&v=4" width="24" alt="Avatar of filipeguimaraes"> filipeguimaraes
-			</a><br/>
-			Filipe Guimarães
-		</td>
-		<td>University Of Minho </td>
-		<td>No Twitter Username</td>
-		<td>Braga</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>913</td>
-		<td>
 			<a href="https://github.com/ediano">
 				<img src="https://avatars.githubusercontent.com/u/81658458?s=72&u=ba998d0f908ff6310bc4eeefdfbb670366536888&v=4" width="24" alt="Avatar of ediano"> ediano
 			</a><br/>
@@ -11974,7 +11961,33 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
+		<td>913</td>
+		<td>
+			<a href="https://github.com/marcinhuu">
+				<img src="https://avatars.githubusercontent.com/u/53786456?s=72&u=091b629a18a9e317ed9c7087e419d3b3f151caa2&v=4" width="24" alt="Avatar of marcinhuu"> marcinhuu
+			</a><br/>
+			marcinhu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Portugal</td>
+		<td>59</td>
+	</tr>
+	<tr>
 		<td>914</td>
+		<td>
+			<a href="https://github.com/Vitor7rs">
+				<img src="https://avatars.githubusercontent.com/u/86400522?s=72&u=bf01e4665c92508a17e8863a6dae0c53af157daf&v=4" width="24" alt="Avatar of Vitor7rs"> Vitor7rs
+			</a><br/>
+			José Vitor
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre, RS, BRAZIL</td>
+		<td>59</td>
+	</tr>
+	<tr>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/otnemrasordep">
 				<img src="https://avatars.githubusercontent.com/u/55832708?s=72&u=e473e14b6d036858bfe1f188714bc52a7e9821d1&v=4" width="24" alt="Avatar of otnemrasordep"> otnemrasordep
@@ -11987,7 +12000,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/jersobh">
 				<img src="https://avatars.githubusercontent.com/u/4663106?s=72&u=d2826649732e80328bbd578ad77fe9a2fc30c740&v=4" width="24" alt="Avatar of jersobh"> jersobh
@@ -12000,7 +12013,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/aparra">
 				<img src="https://avatars.githubusercontent.com/u/259656?s=72&u=aa984fb11efad21cbec6451b7089f988e5952bed&v=4" width="24" alt="Avatar of aparra"> aparra
@@ -12013,7 +12026,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/jfcpcosta">
 				<img src="https://avatars.githubusercontent.com/u/1459321?s=72&v=4" width="24" alt="Avatar of jfcpcosta"> jfcpcosta
@@ -12026,7 +12039,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/Rafsdias">
 				<img src="https://avatars.githubusercontent.com/u/52940075?s=72&u=37f166717fd557194d81278ebd4f6f618fc18817&v=4" width="24" alt="Avatar of Rafsdias"> Rafsdias
@@ -12039,7 +12052,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/david">
 				<img src="https://avatars.githubusercontent.com/u/293?s=72&v=4" width="24" alt="Avatar of david"> david
@@ -12052,7 +12065,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/lidiamcfreitas">
 				<img src="https://avatars.githubusercontent.com/u/3251469?s=72&u=97648ddf2abef56d42f0a1083d25f661363e3965&v=4" width="24" alt="Avatar of lidiamcfreitas"> lidiamcfreitas
@@ -12065,7 +12078,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/Greaser">
 				<img src="https://avatars.githubusercontent.com/u/6925644?s=72&v=4" width="24" alt="Avatar of Greaser"> Greaser
@@ -12078,7 +12091,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/underfisk">
 				<img src="https://avatars.githubusercontent.com/u/15980884?s=72&u=20f5ac8bbf1ea8032bf5ef548ad5c6bf4082f3b5&v=4" width="24" alt="Avatar of underfisk"> underfisk
@@ -12087,19 +12100,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		</td>
 		<td>@circadian-risk  </td>
 		<td><a href="https://twitter.com/enigmacpp">enigmacpp</a></td>
-		<td>Portugal</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>923</td>
-		<td>
-			<a href="https://github.com/wtfiscrq">
-				<img src="https://avatars.githubusercontent.com/u/8532541?s=72&u=d74cba979a80a4414ed946587f0ea0f886578255&v=4" width="24" alt="Avatar of wtfiscrq"> wtfiscrq
-			</a><br/>
-			João Cerqueira
-		</td>
-		<td>@carlsberg @reposaur </td>
-		<td><a href="https://twitter.com/wtfiscrq">wtfiscrq</a></td>
 		<td>Portugal</td>
 		<td>58</td>
 	</tr>
@@ -12171,6 +12171,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>929</td>
 		<td>
+			<a href="https://github.com/g4brielklein">
+				<img src="https://avatars.githubusercontent.com/u/22963494?s=72&u=4ee80567d037a115f8fd92a8e90fa13a626904f1&v=4" width="24" alt="Avatar of g4brielklein"> g4brielklein
+			</a><br/>
+			Gabriel Klein
+		</td>
+		<td>Deskfy </td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre, RS - Brazil</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>930</td>
+		<td>
 			<a href="https://github.com/gustaavoevangelista">
 				<img src="https://avatars.githubusercontent.com/u/98755412?s=72&u=f502e05446dfc92301271355345d2256704926f7&v=4" width="24" alt="Avatar of gustaavoevangelista"> gustaavoevangelista
 			</a><br/>
@@ -12182,7 +12195,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/FernandoRogelin">
 				<img src="https://avatars.githubusercontent.com/u/32275453?s=72&u=05bb5d2f4f7654348b67119601e0e3317211a4fe&v=4" width="24" alt="Avatar of FernandoRogelin"> FernandoRogelin
@@ -12195,7 +12208,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/vinibiavatti1">
 				<img src="https://avatars.githubusercontent.com/u/27300655?s=72&u=c035773b5a0de687b5d9b592da56ee64e606d32e&v=4" width="24" alt="Avatar of vinibiavatti1"> vinibiavatti1
@@ -12208,7 +12221,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/o-leolleo">
 				<img src="https://avatars.githubusercontent.com/u/7240448?s=72&u=4ea56ee58abd2e1688e610540da05b439815914b&v=4" width="24" alt="Avatar of o-leolleo"> o-leolleo
@@ -12218,19 +12231,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Maia, Porto</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>933</td>
-		<td>
-			<a href="https://github.com/marcinhuu">
-				<img src="https://avatars.githubusercontent.com/u/53786456?s=72&u=091b629a18a9e317ed9c7087e419d3b3f151caa2&v=4" width="24" alt="Avatar of marcinhuu"> marcinhuu
-			</a><br/>
-			marcinhu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Portugal</td>
 		<td>58</td>
 	</tr>
 	<tr>
@@ -12392,6 +12392,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>946</td>
 		<td>
+			<a href="https://github.com/wtfiscrq">
+				<img src="https://avatars.githubusercontent.com/u/8532541?s=72&u=d74cba979a80a4414ed946587f0ea0f886578255&v=4" width="24" alt="Avatar of wtfiscrq"> wtfiscrq
+			</a><br/>
+			João Cerqueira
+		</td>
+		<td>@carlsberg @reposaur </td>
+		<td><a href="https://twitter.com/wtfiscrq">wtfiscrq</a></td>
+		<td>Portugal</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>947</td>
+		<td>
 			<a href="https://github.com/andersprenger">
 				<img src="https://avatars.githubusercontent.com/u/49244234?s=72&u=a6ac6f183a8086ce2425b667de4f52c3c1fa4786&v=4" width="24" alt="Avatar of andersprenger"> andersprenger
 			</a><br/>
@@ -12403,7 +12416,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/carlosfaria94">
 				<img src="https://avatars.githubusercontent.com/u/4710889?s=72&u=5bd8fdb6e0185f9435476e222a2e328bf1371d6e&v=4" width="24" alt="Avatar of carlosfaria94"> carlosfaria94
@@ -12416,33 +12429,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>948</td>
-		<td>
-			<a href="https://github.com/esionascimento">
-				<img src="https://avatars.githubusercontent.com/u/74088591?s=72&u=00aefce6de180be8d86353fcc3613de43de2423b&v=4" width="24" alt="Avatar of esionascimento"> esionascimento
-			</a><br/>
-			esionascimento
-		</td>
-		<td>Esio.rsn1@gmail.com </td>
-		<td>No Twitter Username</td>
-		<td>Porto Velho</td>
-		<td>57</td>
-	</tr>
-	<tr>
 		<td>949</td>
-		<td>
-			<a href="https://github.com/gabriel-russo">
-				<img src="https://avatars.githubusercontent.com/u/57543567?s=72&u=faf3bbdb8754b30468b16a644e80f3b3a92abe64&v=4" width="24" alt="Avatar of gabriel-russo"> gabriel-russo
-			</a><br/>
-			Gabriel Russo
-		</td>
-		<td>Cogeo - Sedam </td>
-		<td>No Twitter Username</td>
-		<td>Porto Velho - Rondônia, Brasil</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>950</td>
 		<td>
 			<a href="https://github.com/juliosampaio">
 				<img src="https://avatars.githubusercontent.com/u/552040?s=72&u=346d0aee575c0e7d887226b7c4ad4c94fbc19516&v=4" width="24" alt="Avatar of juliosampaio"> juliosampaio
@@ -12455,7 +12442,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/jgradim">
 				<img src="https://avatars.githubusercontent.com/u/102879?s=72&u=03e6ded16e3f52e5f1d997e9de10a766e61d5bda&v=4" width="24" alt="Avatar of jgradim"> jgradim
@@ -12468,7 +12455,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/mathiasgheno">
 				<img src="https://avatars.githubusercontent.com/u/14915619?s=72&u=67026fd00fa66090e66b15fb4304812d4e5fa35a&v=4" width="24" alt="Avatar of mathiasgheno"> mathiasgheno
@@ -12481,20 +12468,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>953</td>
-		<td>
-			<a href="https://github.com/g4brielklein">
-				<img src="https://avatars.githubusercontent.com/u/22963494?s=72&u=4ee80567d037a115f8fd92a8e90fa13a626904f1&v=4" width="24" alt="Avatar of g4brielklein"> g4brielklein
-			</a><br/>
-			Gabriel Klein
-		</td>
-		<td>Deskfy </td>
-		<td>No Twitter Username</td>
-		<td>Porto Alegre, RS - Brazil</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>954</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/ThiagoBfim">
 				<img src="https://avatars.githubusercontent.com/u/21961879?s=72&u=fb8fa808c6fc5943d1404bd25cdd4d1e22b6b7a4&v=4" width="24" alt="Avatar of ThiagoBfim"> ThiagoBfim
@@ -12507,7 +12481,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/Gustash">
 				<img src="https://avatars.githubusercontent.com/u/8539174?s=72&u=92dff400bbf92072c10462aa7c67610940d60982&v=4" width="24" alt="Avatar of Gustash"> Gustash
@@ -12520,7 +12494,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>954</td>
+		<td>
+			<a href="https://github.com/adcosta">
+				<img src="https://avatars.githubusercontent.com/u/118270?s=72&v=4" width="24" alt="Avatar of adcosta"> adcosta
+			</a><br/>
+			António Duarte Costa
+		</td>
+		<td>Universidade Do Minho </td>
+		<td><a href="https://twitter.com/adcosta">adcosta</a></td>
+		<td>Braga - Portugal</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/orogersilva">
 				<img src="https://avatars.githubusercontent.com/u/8772916?s=72&u=6446f3f699bf84339df685884688d29e1a3c1677&v=4" width="24" alt="Avatar of orogersilva"> orogersilva
@@ -12533,7 +12520,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/JPedroSilveira">
 				<img src="https://avatars.githubusercontent.com/u/20479321?s=72&u=af38cdb7a78ce31d7e9b3cf9b7c59ec80686ea5d&v=4" width="24" alt="Avatar of JPedroSilveira"> JPedroSilveira
@@ -12546,7 +12533,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/ClaudioESSilva">
 				<img src="https://avatars.githubusercontent.com/u/19521315?s=72&u=27260cf71345524fa6398fd6b725e400167aa744&v=4" width="24" alt="Avatar of ClaudioESSilva"> ClaudioESSilva
@@ -12559,7 +12546,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/edygar">
 				<img src="https://avatars.githubusercontent.com/u/566280?s=72&u=25e6f7bc218ab41ba2403981e45b562766814b7c&v=4" width="24" alt="Avatar of edygar"> edygar
@@ -12572,7 +12559,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>959</td>
 		<td>
 			<a href="https://github.com/herodrigues">
 				<img src="https://avatars.githubusercontent.com/u/1832537?s=72&u=fdff88874114fd28e7fda78a2bbd91085a7845a8&v=4" width="24" alt="Avatar of herodrigues"> herodrigues
@@ -12585,7 +12572,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>960</td>
 		<td>
 			<a href="https://github.com/jaxxibae">
 				<img src="https://avatars.githubusercontent.com/u/32089154?s=72&u=a684fce27db6e9d081e7f86b4a3ba721f4bfe9eb&v=4" width="24" alt="Avatar of jaxxibae"> jaxxibae
@@ -12598,7 +12585,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/diegosorrilha">
 				<img src="https://avatars.githubusercontent.com/u/1810599?s=72&v=4" width="24" alt="Avatar of diegosorrilha"> diegosorrilha
@@ -12611,7 +12598,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/jcramalho">
 				<img src="https://avatars.githubusercontent.com/u/7388119?s=72&u=6574463727e46639b23dac53311b3098e3afa5ba&v=4" width="24" alt="Avatar of jcramalho"> jcramalho
@@ -12624,7 +12611,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/fcsest">
 				<img src="https://avatars.githubusercontent.com/u/49082246?s=72&u=914592816a562ba22e4534a90a505e1d28c77f8b&v=4" width="24" alt="Avatar of fcsest"> fcsest
@@ -12637,7 +12624,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/letalumil">
 				<img src="https://avatars.githubusercontent.com/u/4415850?s=72&v=4" width="24" alt="Avatar of letalumil"> letalumil
@@ -12650,7 +12637,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>966</td>
+		<td>965</td>
 		<td>
 			<a href="https://github.com/SupSuper">
 				<img src="https://avatars.githubusercontent.com/u/603444?s=72&u=eaab832e265264fd2f102528d4f0745b2d8171e2&v=4" width="24" alt="Avatar of SupSuper"> SupSuper
@@ -12663,7 +12650,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>967</td>
+		<td>966</td>
 		<td>
 			<a href="https://github.com/aperaltasantos">
 				<img src="https://avatars.githubusercontent.com/u/37326088?s=72&u=86adee56ffb52a424e49026dd7bd3226951f6a7b&v=4" width="24" alt="Avatar of aperaltasantos"> aperaltasantos
@@ -12676,7 +12663,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>968</td>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/AugustoKlaic">
 				<img src="https://avatars.githubusercontent.com/u/12274850?s=72&u=bdd2d2bacb5eea18af1fe9ade717d866f73e5f9d&v=4" width="24" alt="Avatar of AugustoKlaic"> AugustoKlaic
@@ -12689,7 +12676,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>969</td>
+		<td>968</td>
 		<td>
 			<a href="https://github.com/cog">
 				<img src="https://avatars.githubusercontent.com/u/18385?s=72&v=4" width="24" alt="Avatar of cog"> cog
@@ -12702,7 +12689,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>970</td>
+		<td>969</td>
 		<td>
 			<a href="https://github.com/SALajes">
 				<img src="https://avatars.githubusercontent.com/u/38894031?s=72&u=ba26412c8f9bbc21ae87d8db5b15ad2e3479fc86&v=4" width="24" alt="Avatar of SALajes"> SALajes
@@ -12715,7 +12702,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>971</td>
+		<td>970</td>
 		<td>
 			<a href="https://github.com/SergiySW">
 				<img src="https://avatars.githubusercontent.com/u/18710136?s=72&v=4" width="24" alt="Avatar of SergiySW"> SergiySW
@@ -12728,7 +12715,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>972</td>
+		<td>971</td>
 		<td>
 			<a href="https://github.com/raphaelbraun">
 				<img src="https://avatars.githubusercontent.com/u/6829086?s=72&u=2005bbafb34dfe1d3f3181fcfacc0f0dac07314b&v=4" width="24" alt="Avatar of raphaelbraun"> raphaelbraun
@@ -12738,6 +12725,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Porto Alegre</td>
+		<td>57</td>
+	</tr>
+	<tr>
+		<td>972</td>
+		<td>
+			<a href="https://github.com/mariarubinger">
+				<img src="https://avatars.githubusercontent.com/u/66969881?s=72&u=896cc4f9bdc929eb4f30f3c9bcfce04fdd97b793&v=4" width="24" alt="Avatar of mariarubinger"> mariarubinger
+			</a><br/>
+			Maria Clara Rubinger de Sousa
+		</td>
+		<td>Aoop Cloud Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Portugal / Brazil</td>
 		<td>57</td>
 	</tr>
 	<tr>
@@ -12756,19 +12756,6 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 	<tr>
 		<td>974</td>
 		<td>
-			<a href="https://github.com/mariarubinger">
-				<img src="https://avatars.githubusercontent.com/u/66969881?s=72&u=896cc4f9bdc929eb4f30f3c9bcfce04fdd97b793&v=4" width="24" alt="Avatar of mariarubinger"> mariarubinger
-			</a><br/>
-			Maria Clara Rubinger de Sousa
-		</td>
-		<td>Aoop Cloud Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Portugal / Brazil</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>975</td>
-		<td>
 			<a href="https://github.com/pmalves">
 				<img src="https://avatars.githubusercontent.com/u/272348?s=72&v=4" width="24" alt="Avatar of pmalves"> pmalves
 			</a><br/>
@@ -12780,7 +12767,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>976</td>
+		<td>975</td>
 		<td>
 			<a href="https://github.com/IngridDuarte">
 				<img src="https://avatars.githubusercontent.com/u/43010448?s=72&u=b0509cd7eff20eaa06e4ef226aa45f4a19bc8524&v=4" width="24" alt="Avatar of IngridDuarte"> IngridDuarte
@@ -12793,7 +12780,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>977</td>
+		<td>976</td>
 		<td>
 			<a href="https://github.com/xDouglas90">
 				<img src="https://avatars.githubusercontent.com/u/23640888?s=72&u=d979e4f3352e3c1381a79f30e60f8c546ce6bedc&v=4" width="24" alt="Avatar of xDouglas90"> xDouglas90
@@ -12806,20 +12793,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>978</td>
-		<td>
-			<a href="https://github.com/erichkist">
-				<img src="https://avatars.githubusercontent.com/u/130042?s=72&u=3dc4f10c45989ab9f82986b88ed064d151b0ba8e&v=4" width="24" alt="Avatar of erichkist"> erichkist
-			</a><br/>
-			Erich Kist
-		</td>
-		<td>@ifttt </td>
-		<td>No Twitter Username</td>
-		<td>Braga, Portugal</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>979</td>
+		<td>977</td>
 		<td>
 			<a href="https://github.com/nunofachada">
 				<img src="https://avatars.githubusercontent.com/u/3018963?s=72&u=ae948e32c1f287bc3b6d4e29f9a260425a28cd49&v=4" width="24" alt="Avatar of nunofachada"> nunofachada
@@ -12832,7 +12806,20 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>980</td>
+		<td>978</td>
+		<td>
+			<a href="https://github.com/esionascimento">
+				<img src="https://avatars.githubusercontent.com/u/74088591?s=72&u=00aefce6de180be8d86353fcc3613de43de2423b&v=4" width="24" alt="Avatar of esionascimento"> esionascimento
+			</a><br/>
+			esionascimento
+		</td>
+		<td>Esio.rsn1@gmail.com </td>
+		<td>No Twitter Username</td>
+		<td>Porto Velho</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>979</td>
 		<td>
 			<a href="https://github.com/fcaramez">
 				<img src="https://avatars.githubusercontent.com/u/88372875?s=72&u=89175f750daf32103ea7916338530810b1c9001b&v=4" width="24" alt="Avatar of fcaramez"> fcaramez
@@ -12845,7 +12832,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>981</td>
+		<td>980</td>
 		<td>
 			<a href="https://github.com/ruthinunes">
 				<img src="https://avatars.githubusercontent.com/u/103539429?s=72&u=c8ab9a4485c2259c15715af2c8921dcf3e095751&v=4" width="24" alt="Avatar of ruthinunes"> ruthinunes
@@ -12858,7 +12845,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>982</td>
+		<td>981</td>
 		<td>
 			<a href="https://github.com/faelpatrick">
 				<img src="https://avatars.githubusercontent.com/u/45822152?s=72&u=cc2e28135c92b81e69b141ee46cc54b8813b20db&v=4" width="24" alt="Avatar of faelpatrick"> faelpatrick
@@ -12871,7 +12858,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>983</td>
+		<td>982</td>
 		<td>
 			<a href="https://github.com/rodrigoprestesmachado">
 				<img src="https://avatars.githubusercontent.com/u/7852824?s=72&u=84b1a97dc3b458d73f63b57175c094b618e02225&v=4" width="24" alt="Avatar of rodrigoprestesmachado"> rodrigoprestesmachado
@@ -12884,7 +12871,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>984</td>
+		<td>983</td>
 		<td>
 			<a href="https://github.com/nmariz">
 				<img src="https://avatars.githubusercontent.com/u/1602?s=72&u=6bf5f3463e93c2a62c7cfd993780a74df0343db4&v=4" width="24" alt="Avatar of nmariz"> nmariz
@@ -12897,7 +12884,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>985</td>
+		<td>984</td>
 		<td>
 			<a href="https://github.com/DevGabrielSouza">
 				<img src="https://avatars.githubusercontent.com/u/44179376?s=72&u=8e8a9ec55e08eadafc14eafd44bbab82d03095fb&v=4" width="24" alt="Avatar of DevGabrielSouza"> DevGabrielSouza
@@ -12910,7 +12897,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>986</td>
+		<td>985</td>
 		<td>
 			<a href="https://github.com/rcosteira79">
 				<img src="https://avatars.githubusercontent.com/u/5026617?s=72&v=4" width="24" alt="Avatar of rcosteira79"> rcosteira79
@@ -12923,7 +12910,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>987</td>
+		<td>986</td>
 		<td>
 			<a href="https://github.com/vinicassol">
 				<img src="https://avatars.githubusercontent.com/u/20646897?s=72&u=0df5102f11484f56e1a29187822554a8bd81a9d4&v=4" width="24" alt="Avatar of vinicassol"> vinicassol
@@ -12936,7 +12923,7 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>988</td>
+		<td>987</td>
 		<td>
 			<a href="https://github.com/lcalisto">
 				<img src="https://avatars.githubusercontent.com/u/4139084?s=72&u=4223b86cc93fe1d9d003a7fb32ffc9e71a82b01d&v=4" width="24" alt="Avatar of lcalisto"> lcalisto
@@ -12946,6 +12933,19 @@ There are `989 users`  in Portugal. You need at least `56 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/luis_calisto">luis_calisto</a></td>
 		<td>Portugal</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>988</td>
+		<td>
+			<a href="https://github.com/henriquesss">
+				<img src="https://avatars.githubusercontent.com/u/20709402?s=72&u=bc67642e78183fb6f3d041df38f88323befdb966&v=4" width="24" alt="Avatar of henriquesss"> henriquesss
+			</a><br/>
+			Lucas Henriques
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Porto Alegre - RS</td>
 		<td>56</td>
 	</tr>
 	<tr>
