@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` and `private contributions` by users in Burkina Faso on `2023/8/2 12:11 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` and `private contributions` by users in Burkina Faso on `2023/8/2 5:44 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/fasodev">fasodev</a></td>
 		<td>Burkina-Faso,Ouagadougou</td>
 		<td>551</td>
-		<td>2727</td>
+		<td>2728</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -186,8 +186,8 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
-		<td>431</td>
-		<td>991</td>
+		<td>433</td>
+		<td>994</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
 		<td>163</td>
-		<td>863</td>
+		<td>882</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,7 +215,7 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>BURKINAFASO/OUAGADOUGOU</td>
 		<td>123</td>
-		<td>827</td>
+		<td>875</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -340,8 +340,8 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Haalem </td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou,Burkina Faso</td>
-		<td>127</td>
-		<td>127</td>
+		<td>128</td>
+		<td>128</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -1102,6 +1102,20 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>72</td>
 		<td>
+			<a href="https://github.com/enokby">
+				<img src="https://avatars.githubusercontent.com/u/5192802?s=72&u=aa5dd16f933fc9617b9647291ed9e034250b417d&v=4" width="24" alt="Avatar of enokby"> enokby
+			</a><br/>
+			Mohamed Kabir Koné
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/enokby">enokby</a></td>
+		<td>Ouagadougou, Burkina Faso</td>
+		<td>2</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
 			<a href="https://github.com/Coularnauld">
 				<img src="https://avatars.githubusercontent.com/u/103682514?s=72&u=9fe51da3afca715344725ff0a815bb01f8558a0f&v=4" width="24" alt="Avatar of Coularnauld"> Coularnauld
 			</a><br/>
@@ -1114,7 +1128,7 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/noutin2020">
 				<img src="https://avatars.githubusercontent.com/u/69206657?s=72&u=0d2ac9925855d35815f200bfc72db8ff5b711a98&v=4" width="24" alt="Avatar of noutin2020"> noutin2020
@@ -1128,7 +1142,7 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/inoussasangare">
 				<img src="https://avatars.githubusercontent.com/u/83760991?s=72&v=4" width="24" alt="Avatar of inoussasangare"> inoussasangare
@@ -1142,7 +1156,7 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/Wendep">
 				<img src="https://avatars.githubusercontent.com/u/97541743?s=72&v=4" width="24" alt="Avatar of Wendep"> Wendep
@@ -1156,7 +1170,7 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/germainodg">
 				<img src="https://avatars.githubusercontent.com/u/99972275?s=72&u=d7c324347d5f93414db334edab5de5ab3f84601c&v=4" width="24" alt="Avatar of germainodg"> germainodg
@@ -1167,20 +1181,6 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/GermainOdg">GermainOdg</a></td>
 		<td>OUAGADOUGOU</td>
 		<td>8</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/enokby">
-				<img src="https://avatars.githubusercontent.com/u/5192802?s=72&u=aa5dd16f933fc9617b9647291ed9e034250b417d&v=4" width="24" alt="Avatar of enokby"> enokby
-			</a><br/>
-			Mohamed Kabir Koné
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/enokby">enokby</a></td>
-		<td>Ouagadougou, Burkina Faso</td>
-		<td>1</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -1970,20 +1970,6 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>134</td>
 		<td>
-			<a href="https://github.com/Issouf667">
-				<img src="https://avatars.githubusercontent.com/u/114653670?s=72&v=4" width="24" alt="Avatar of Issouf667"> Issouf667
-			</a><br/>
-			Hamada Issouf
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou-Burkina Faso</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
 			<a href="https://github.com/geraldbary">
 				<img src="https://avatars.githubusercontent.com/u/6083942?s=72&v=4" width="24" alt="Avatar of geraldbary"> geraldbary
 			</a><br/>
@@ -1992,6 +1978,20 @@ There are `280 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Osis </td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
+			<a href="https://github.com/Issouf667">
+				<img src="https://avatars.githubusercontent.com/u/114653670?s=72&v=4" width="24" alt="Avatar of Issouf667"> Issouf667
+			</a><br/>
+			Hamada Issouf
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou-Burkina Faso</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
