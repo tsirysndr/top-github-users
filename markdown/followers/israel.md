@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `number of followers` of users in Israel on `2023/8/5 7:48 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `number of followers` of users in Israel on `2023/8/6 1:08 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>@ent And @ariga </td>
 		<td><a href="https://twitter.com/arielmashraki">arielmashraki</a></td>
 		<td>Tel Aviv, Israel</td>
-		<td>4621</td>
+		<td>4630</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Yoni Goldberg </td>
 		<td><a href="https://twitter.com/goldbergyoni">goldbergyoni</a></td>
 		<td>Israel</td>
-		<td>4049</td>
+		<td>4050</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -180,7 +180,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>@the-guild-org </td>
 		<td><a href="https://twitter.com/dotansimha">dotansimha</a></td>
 		<td>Israel</td>
-		<td>1794</td>
+		<td>1795</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -245,7 +245,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Spectralops </td>
 		<td><a href="https://twitter.com/jondot">jondot</a></td>
 		<td>Tel Aviv, Israel</td>
-		<td>1379</td>
+		<td>1378</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_alaev">_alaev</a></td>
 		<td>Tel Aviv, Israel</td>
-		<td>1280</td>
+		<td>1281</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -336,7 +336,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>@appwrite </td>
 		<td><a href="https://twitter.com/eldadfux">eldadfux</a></td>
 		<td>Tel Aviv</td>
-		<td>860</td>
+		<td>861</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -375,7 +375,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>:( </td>
 		<td><a href="https://twitter.com/alexander_akait">alexander_akait</a></td>
 		<td>Israel, Tel-Aviv /// Russia, Saint Petersburg/Kirov</td>
-		<td>779</td>
+		<td>780</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -479,7 +479,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>@dragonflydb  </td>
 		<td><a href="https://twitter.com/romanger">romanger</a></td>
 		<td>Tel Aviv</td>
-		<td>490</td>
+		<td>497</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -531,7 +531,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Self Employed Trainer </td>
 		<td>No Twitter Username</td>
 		<td>Modiin, Israel</td>
-		<td>470</td>
+		<td>472</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -817,7 +817,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>@anlominus </td>
 		<td><a href="https://twitter.com/AnLoMinus">AnLoMinus</a></td>
 		<td>Israel</td>
-		<td>327</td>
+		<td>326</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -960,7 +960,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/iddan">iddan</a></td>
 		<td>Tel Aviv, Israel</td>
-		<td>254</td>
+		<td>255</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -1025,7 +1025,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Anywhere Software </td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>237</td>
+		<td>238</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1103,7 +1103,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>225</td>
+		<td>229</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1480,7 +1480,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Ironsource </td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>165</td>
+		<td>166</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1532,7 +1532,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Qurisai </td>
 		<td><a href="https://twitter.com/barakplasma">barakplasma</a></td>
 		<td>Tel Aviv, Israel</td>
-		<td>159</td>
+		<td>160</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -2681,6 +2681,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>199</td>
 		<td>
+			<a href="https://github.com/donno2048">
+				<img src="https://avatars.githubusercontent.com/u/61805754?s=72&u=aa5d2da87f1e4f99714d8c44339bc4d9f2585853&v=4" width="24" alt="Avatar of donno2048"> donno2048
+			</a><br/>
+			Elisha Hollander
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
 			<a href="https://github.com/ziniman">
 				<img src="https://avatars.githubusercontent.com/u/8765799?s=72&u=dfc89b879ed32ca414a72322ceb14ee3f8b6513d&v=4" width="24" alt="Avatar of ziniman"> ziniman
 			</a><br/>
@@ -2692,7 +2705,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/david-gang">
 				<img src="https://avatars.githubusercontent.com/u/1292882?s=72&v=4" width="24" alt="Avatar of david-gang"> david-gang
@@ -2705,7 +2718,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/itayhubara">
 				<img src="https://avatars.githubusercontent.com/u/6756972?s=72&u=16bff963b5972359e3efa01c0a09a48a78566bee&v=4" width="24" alt="Avatar of itayhubara"> itayhubara
@@ -2718,7 +2731,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/ronmamo">
 				<img src="https://avatars.githubusercontent.com/u/2588829?s=72&u=2e39d9740796f4e16a477edf34779dfff45252dd&v=4" width="24" alt="Avatar of ronmamo"> ronmamo
@@ -2731,7 +2744,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/asafdav">
 				<img src="https://avatars.githubusercontent.com/u/1223211?s=72&v=4" width="24" alt="Avatar of asafdav"> asafdav
@@ -2742,19 +2755,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Tel Aviv, Israel</td>
 		<td>98</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/jossef">
-				<img src="https://avatars.githubusercontent.com/u/1287098?s=72&v=4" width="24" alt="Avatar of jossef"> jossef
-			</a><br/>
-			Jossef Harush Kadouri
-		</td>
-		<td>@checkmarx </td>
-		<td><a href="https://twitter.com/jossefharush">jossefharush</a></td>
-		<td>Tel Aviv, Israel</td>
-		<td>97</td>
 	</tr>
 	<tr>
 		<td>205</td>
@@ -2785,6 +2785,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>207</td>
 		<td>
+			<a href="https://github.com/jossef">
+				<img src="https://avatars.githubusercontent.com/u/1287098?s=72&v=4" width="24" alt="Avatar of jossef"> jossef
+			</a><br/>
+			Jossef Harush Kadouri
+		</td>
+		<td>@checkmarx </td>
+		<td><a href="https://twitter.com/jossefharush">jossefharush</a></td>
+		<td>Tel Aviv, Israel</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
 			<a href="https://github.com/felixkreuk">
 				<img src="https://avatars.githubusercontent.com/u/19976167?s=72&u=6d6dff49d8fc17e0f15406440469b4980abffef5&v=4" width="24" alt="Avatar of felixkreuk"> felixkreuk
 			</a><br/>
@@ -2796,7 +2809,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/korenyoni">
 				<img src="https://avatars.githubusercontent.com/u/10080107?s=72&u=4b09660496e777116983d128d79344113bedf221&v=4" width="24" alt="Avatar of korenyoni"> korenyoni
@@ -2809,25 +2822,12 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/AvnerCohen">
 				<img src="https://avatars.githubusercontent.com/u/1297254?s=72&v=4" width="24" alt="Avatar of AvnerCohen"> AvnerCohen
 			</a><br/>
 			Avner Cohen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/donno2048">
-				<img src="https://avatars.githubusercontent.com/u/61805754?s=72&u=aa5d2da87f1e4f99714d8c44339bc4d9f2585853&v=4" width="24" alt="Avatar of donno2048"> donno2048
-			</a><br/>
-			Elisha Hollander
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2876,6 +2876,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>214</td>
 		<td>
+			<a href="https://github.com/amit-davidson">
+				<img src="https://avatars.githubusercontent.com/u/34520943?s=72&u=6f84e87bf43450063959ba4483d8c055aa9cd838&v=4" width="24" alt="Avatar of amit-davidson"> amit-davidson
+			</a><br/>
+			Amit Davidson
+		</td>
+		<td> The Hebrew University<br/>Of<br/>Jerusalem<br/></td>
+		<td><a href="https://twitter.com/Amit_Davidson">Amit_Davidson</a></td>
+		<td>Tel Aviv, Israel</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
 			<a href="https://github.com/yevgenypats">
 				<img src="https://avatars.githubusercontent.com/u/16490766?s=72&u=22774e74655c855574586758cd7fcd21cf9b5fb1&v=4" width="24" alt="Avatar of yevgenypats"> yevgenypats
 			</a><br/>
@@ -2887,7 +2900,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/aantn">
 				<img src="https://avatars.githubusercontent.com/u/494087?s=72&u=71d1030b5e2c06ce74adfaf127913e5baceb2da0&v=4" width="24" alt="Avatar of aantn"> aantn
@@ -2900,7 +2913,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/adiyoss">
 				<img src="https://avatars.githubusercontent.com/u/8288783?s=72&u=a31217f8ba6de677c51a7b89b01b8abe969ffaa7&v=4" width="24" alt="Avatar of adiyoss"> adiyoss
@@ -2913,7 +2926,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/noamr">
 				<img src="https://avatars.githubusercontent.com/u/88566?s=72&u=b5551d5208a9a90fc7510a9f5502dd4c0afeb05a&v=4" width="24" alt="Avatar of noamr"> noamr
@@ -2923,19 +2936,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nomsternom">nomsternom</a></td>
 		<td>Israel</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
-			<a href="https://github.com/amit-davidson">
-				<img src="https://avatars.githubusercontent.com/u/34520943?s=72&u=6f84e87bf43450063959ba4483d8c055aa9cd838&v=4" width="24" alt="Avatar of amit-davidson"> amit-davidson
-			</a><br/>
-			Amit Davidson
-		</td>
-		<td> The Hebrew University<br/>Of<br/>Jerusalem<br/></td>
-		<td><a href="https://twitter.com/Amit_Davidson">Amit_Davidson</a></td>
-		<td>Tel Aviv, Israel</td>
 		<td>89</td>
 	</tr>
 	<tr>
@@ -3331,6 +3331,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>249</td>
 		<td>
+			<a href="https://github.com/shaib">
+				<img src="https://avatars.githubusercontent.com/u/129187?s=72&v=4" width="24" alt="Avatar of shaib"> shaib
+			</a><br/>
+			Shai Berger
+		</td>
+		<td>Hamakor & Kaplan Open<br/>Source<br/>Consulting<br/></td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
 			<a href="https://github.com/yosit">
 				<img src="https://avatars.githubusercontent.com/u/123805?s=72&u=564edc54ebda8cf3a4ff3157c7694b04d1f59960&v=4" width="24" alt="Avatar of yosit"> yosit
 			</a><br/>
@@ -3342,7 +3355,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/aviramha">
 				<img src="https://avatars.githubusercontent.com/u/41201924?s=72&u=6883cc4fc13a7b2e60d4deddd4be06f9c5287880&v=4" width="24" alt="Avatar of aviramha"> aviramha
@@ -3355,7 +3368,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/amir73il">
 				<img src="https://avatars.githubusercontent.com/u/453028?s=72&u=d6fb916880ab76c57d82a9a7b7bc2c64d70419af&v=4" width="24" alt="Avatar of amir73il"> amir73il
@@ -3363,19 +3376,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 			Amir Goldstein
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
-			<a href="https://github.com/shaib">
-				<img src="https://avatars.githubusercontent.com/u/129187?s=72&v=4" width="24" alt="Avatar of shaib"> shaib
-			</a><br/>
-			Shai Berger
-		</td>
-		<td>Hamakor & Kaplan Open<br/>Source<br/>Consulting<br/></td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>80</td>
@@ -3721,6 +3721,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>279</td>
 		<td>
+			<a href="https://github.com/shai-almog">
+				<img src="https://avatars.githubusercontent.com/u/67850168?s=72&u=c0a293777faf24733504468f578075cc08bc708e&v=4" width="24" alt="Avatar of shai-almog"> shai-almog
+			</a><br/>
+			Shai Almog
+		</td>
+		<td>@codenameone </td>
+		<td><a href="https://twitter.com/debugagent">debugagent</a></td>
+		<td>Tel Aviv</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>280</td>
+		<td>
 			<a href="https://github.com/YaakovHatam">
 				<img src="https://avatars.githubusercontent.com/u/6986221?s=72&u=32ebd075e60a2ce730aea280ca23e2fb732130dc&v=4" width="24" alt="Avatar of YaakovHatam"> YaakovHatam
 			</a><br/>
@@ -3732,7 +3745,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/eliezergensburger">
 				<img src="https://avatars.githubusercontent.com/u/22365623?s=72&u=976bd8b41d1dd75195a49b96da01c34d2f2e3ef2&v=4" width="24" alt="Avatar of eliezergensburger"> eliezergensburger
@@ -3743,19 +3756,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Jerusalem, ISRAEL</td>
 		<td>73</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/shai-almog">
-				<img src="https://avatars.githubusercontent.com/u/67850168?s=72&u=c0a293777faf24733504468f578075cc08bc708e&v=4" width="24" alt="Avatar of shai-almog"> shai-almog
-			</a><br/>
-			Shai Almog
-		</td>
-		<td>@codenameone </td>
-		<td><a href="https://twitter.com/debugagent">debugagent</a></td>
-		<td>Tel Aviv</td>
-		<td>72</td>
 	</tr>
 	<tr>
 		<td>282</td>
@@ -3838,6 +3838,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>288</td>
 		<td>
+			<a href="https://github.com/beneshed">
+				<img src="https://avatars.githubusercontent.com/u/696445?s=72&v=4" width="24" alt="Avatar of beneshed"> beneshed
+			</a><br/>
+			Ben Eshed
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tel Aviv, Israel</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
 			<a href="https://github.com/PavelRavvich">
 				<img src="https://avatars.githubusercontent.com/u/21992899?s=72&u=5d6b21516ce8b5f849b358f6ab4847a684b62416&v=4" width="24" alt="Avatar of PavelRavvich"> PavelRavvich
 			</a><br/>
@@ -3849,7 +3862,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/sitzikbs">
 				<img src="https://avatars.githubusercontent.com/u/13794171?s=72&u=00ccf9dcf7edbb3b71134c2141be10cd1e08dcc2&v=4" width="24" alt="Avatar of sitzikbs"> sitzikbs
@@ -3862,7 +3875,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/denvash">
 				<img src="https://avatars.githubusercontent.com/u/27515937?s=72&u=1c9d694c65e238f2b66445a2107edd21ceb126bd&v=4" width="24" alt="Avatar of denvash"> denvash
@@ -3872,19 +3885,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>@facebook </td>
 		<td><a href="https://twitter.com/DennisVash">DennisVash</a></td>
 		<td>Israel</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>291</td>
-		<td>
-			<a href="https://github.com/beneshed">
-				<img src="https://avatars.githubusercontent.com/u/696445?s=72&v=4" width="24" alt="Avatar of beneshed"> beneshed
-			</a><br/>
-			Ben Eshed
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tel Aviv, Israel</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -3903,19 +3903,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>293</td>
 		<td>
-			<a href="https://github.com/tomxor">
-				<img src="https://avatars.githubusercontent.com/u/1352945?s=72&u=3bfdd1198d9ff3886f1264caea8ff3043c96e3b9&v=4" width="24" alt="Avatar of tomxor"> tomxor
-			</a><br/>
-			Tom Reznik
-		</td>
-		<td>@zetz-io  </td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>294</td>
-		<td>
 			<a href="https://github.com/julienben">
 				<img src="https://avatars.githubusercontent.com/u/8948127?s=72&u=aae6193f1cf46c44b054b61e21b3abcd077733be&v=4" width="24" alt="Avatar of julienben"> julienben
 			</a><br/>
@@ -3927,7 +3914,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/dmitryweiner">
 				<img src="https://avatars.githubusercontent.com/u/6175334?s=72&v=4" width="24" alt="Avatar of dmitryweiner"> dmitryweiner
@@ -3937,6 +3924,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Haifa, Israel</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
+			<a href="https://github.com/tomxor">
+				<img src="https://avatars.githubusercontent.com/u/1352945?s=72&u=3bfdd1198d9ff3886f1264caea8ff3043c96e3b9&v=4" width="24" alt="Avatar of tomxor"> tomxor
+			</a><br/>
+			Tom Reznik
+		</td>
+		<td>@zetz-io  </td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
 		<td>69</td>
 	</tr>
 	<tr>
@@ -4280,6 +4280,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>322</td>
 		<td>
+			<a href="https://github.com/assafelovic">
+				<img src="https://avatars.githubusercontent.com/u/13554167?s=72&u=95845045a1f76c09988d29132c892c92532848b0&v=4" width="24" alt="Avatar of assafelovic"> assafelovic
+			</a><br/>
+			Assaf Elovic
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/assaf_elovic">assaf_elovic</a></td>
+		<td>Israel</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>323</td>
+		<td>
 			<a href="https://github.com/nyh">
 				<img src="https://avatars.githubusercontent.com/u/584227?s=72&v=4" width="24" alt="Avatar of nyh"> nyh
 			</a><br/>
@@ -4291,7 +4304,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/avishayil">
 				<img src="https://avatars.githubusercontent.com/u/827024?s=72&u=4d7b276b4025cf118332aba8e21f9e4c0f84af4e&v=4" width="24" alt="Avatar of avishayil"> avishayil
@@ -4304,7 +4317,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/DimaMinka">
 				<img src="https://avatars.githubusercontent.com/u/12497991?s=72&v=4" width="24" alt="Avatar of DimaMinka"> DimaMinka
@@ -4317,7 +4330,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/roeeaharoni">
 				<img src="https://avatars.githubusercontent.com/u/6319492?s=72&u=e1b5aa5758c65b5ee28350d42c8a99a6d20c1a7e&v=4" width="24" alt="Avatar of roeeaharoni"> roeeaharoni
@@ -4330,7 +4343,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/natanrolnik">
 				<img src="https://avatars.githubusercontent.com/u/1164565?s=72&u=d4340d064aaf65ebbb0eb7384b5b9be1f4fd2ee6&v=4" width="24" alt="Avatar of natanrolnik"> natanrolnik
@@ -4343,7 +4356,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/DanielAvinoam">
 				<img src="https://avatars.githubusercontent.com/u/71561723?s=72&u=093bd12bc723800cd2bd99cb3fbb01bf12bb26b2&v=4" width="24" alt="Avatar of DanielAvinoam"> DanielAvinoam
@@ -4356,7 +4369,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/abrl91">
 				<img src="https://avatars.githubusercontent.com/u/39680385?s=72&u=3e5196e72257fe14511cd32fe271fa9c223cef30&v=4" width="24" alt="Avatar of abrl91"> abrl91
@@ -4366,19 +4379,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Amplication </td>
 		<td><a href="https://twitter.com/BarletzA52">BarletzA52</a></td>
 		<td>Tel-Aviv</td>
-		<td>63</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/assafelovic">
-				<img src="https://avatars.githubusercontent.com/u/13554167?s=72&u=95845045a1f76c09988d29132c892c92532848b0&v=4" width="24" alt="Avatar of assafelovic"> assafelovic
-			</a><br/>
-			Assaf Elovic
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/assaf_elovic">assaf_elovic</a></td>
-		<td>Israel</td>
 		<td>63</td>
 	</tr>
 	<tr>
@@ -5008,19 +5008,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>378</td>
 		<td>
-			<a href="https://github.com/OrchaniousS">
-				<img src="https://avatars.githubusercontent.com/u/20324059?s=72&u=d26d89d8d66a53028cf19b4cbd4d20c921eb7089&v=4" width="24" alt="Avatar of OrchaniousS"> OrchaniousS
-			</a><br/>
-			Orchan Magramov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tel Aviv, Israel</td>
-		<td>57</td>
-	</tr>
-	<tr>
-		<td>379</td>
-		<td>
 			<a href="https://github.com/romanrakhlin">
 				<img src="https://avatars.githubusercontent.com/u/51785794?s=72&u=bdf6a59a77aaa08bfdec714a51af3ca76b252012&v=4" width="24" alt="Avatar of romanrakhlin"> romanrakhlin
 			</a><br/>
@@ -5032,7 +5019,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/elad661">
 				<img src="https://avatars.githubusercontent.com/u/498903?s=72&u=871e1e6189cb517a923f8239bd4a4356406c12c5&v=4" width="24" alt="Avatar of elad661"> elad661
@@ -5045,7 +5032,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/EliezerIsrael">
 				<img src="https://avatars.githubusercontent.com/u/226930?s=72&v=4" width="24" alt="Avatar of EliezerIsrael"> EliezerIsrael
@@ -5058,7 +5045,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/UriahShaulMandel">
 				<img src="https://avatars.githubusercontent.com/u/43012268?s=72&u=bfab34c963c94fc576f2750f278f2353af894802&v=4" width="24" alt="Avatar of UriahShaulMandel"> UriahShaulMandel
@@ -5071,7 +5058,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/rabeeh">
 				<img src="https://avatars.githubusercontent.com/u/1255792?s=72&v=4" width="24" alt="Avatar of rabeeh"> rabeeh
@@ -5081,6 +5068,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Solidrun </td>
 		<td>No Twitter Username</td>
 		<td>Yokneam, Israel</td>
+		<td>56</td>
+	</tr>
+	<tr>
+		<td>383</td>
+		<td>
+			<a href="https://github.com/OrchaniousS">
+				<img src="https://avatars.githubusercontent.com/u/20324059?s=72&u=d26d89d8d66a53028cf19b4cbd4d20c921eb7089&v=4" width="24" alt="Avatar of OrchaniousS"> OrchaniousS
+			</a><br/>
+			Orchan Magramov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tel Aviv, Israel</td>
 		<td>56</td>
 	</tr>
 	<tr>
@@ -5151,6 +5151,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>389</td>
 		<td>
+			<a href="https://github.com/0i0">
+				<img src="https://avatars.githubusercontent.com/u/467087?s=72&v=4" width="24" alt="Avatar of 0i0"> 0i0
+			</a><br/>
+			Léo Hakim
+		</td>
+		<td>Hourone.ai </td>
+		<td>No Twitter Username</td>
+		<td>Tel-Aviv, Israel</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
 			<a href="https://github.com/ydaniv">
 				<img src="https://avatars.githubusercontent.com/u/116658?s=72&u=e8480efcf11f4b527687463954b181f2e8e34b2e&v=4" width="24" alt="Avatar of ydaniv"> ydaniv
 			</a><br/>
@@ -5162,7 +5175,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/sankethvedula">
 				<img src="https://avatars.githubusercontent.com/u/7271095?s=72&v=4" width="24" alt="Avatar of sankethvedula"> sankethvedula
@@ -5175,7 +5188,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/dviraran">
 				<img src="https://avatars.githubusercontent.com/u/25491981?s=72&v=4" width="24" alt="Avatar of dviraran"> dviraran
@@ -5188,7 +5201,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/shevron">
 				<img src="https://avatars.githubusercontent.com/u/65563?s=72&v=4" width="24" alt="Avatar of shevron"> shevron
@@ -5201,7 +5214,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/QWERTxD">
 				<img src="https://avatars.githubusercontent.com/u/77858402?s=72&u=75166c1f54652b1253ffd67c0a8ff6f76e4ec5f6&v=4" width="24" alt="Avatar of QWERTxD"> QWERTxD
@@ -5214,7 +5227,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/igalklebanov">
 				<img src="https://avatars.githubusercontent.com/u/14938291?s=72&u=704cf0a447d678ce1ca31bad521c6310815c585c&v=4" width="24" alt="Avatar of igalklebanov"> igalklebanov
@@ -5227,7 +5240,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/yoav-lavi">
 				<img src="https://avatars.githubusercontent.com/u/14347895?s=72&u=afef274dcb3b73004c882ac0343f87898ce80ede&v=4" width="24" alt="Avatar of yoav-lavi"> yoav-lavi
@@ -5240,7 +5253,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/GabiGrin">
 				<img src="https://avatars.githubusercontent.com/u/3727015?s=72&u=375cd70f5d0e96821fe283684b78d4692c0a70a3&v=4" width="24" alt="Avatar of GabiGrin"> GabiGrin
@@ -5250,19 +5263,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Flyde </td>
 		<td><a href="https://twitter.com/GabiGrinberg">GabiGrinberg</a></td>
 		<td>Tel Aviv, Israel</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>397</td>
-		<td>
-			<a href="https://github.com/0i0">
-				<img src="https://avatars.githubusercontent.com/u/467087?s=72&v=4" width="24" alt="Avatar of 0i0"> 0i0
-			</a><br/>
-			Léo Hakim
-		</td>
-		<td>Hourone.ai </td>
-		<td>No Twitter Username</td>
-		<td>Tel-Aviv, Israel</td>
 		<td>54</td>
 	</tr>
 	<tr>
@@ -5593,19 +5593,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>423</td>
 		<td>
-			<a href="https://github.com/orenelbaum">
-				<img src="https://avatars.githubusercontent.com/u/66243763?s=72&u=414d189fcfea9a286fe6aa529ed5fca78b92f578&v=4" width="24" alt="Avatar of orenelbaum"> orenelbaum
-			</a><br/>
-			Oren Elbaum
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/OrenElbaum">OrenElbaum</a></td>
-		<td>Israel</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>424</td>
-		<td>
 			<a href="https://github.com/aarongreenwald">
 				<img src="https://avatars.githubusercontent.com/u/6300588?s=72&u=f1b9963c958f0a7e163a94adbb424250fd700a30&v=4" width="24" alt="Avatar of aarongreenwald"> aarongreenwald
 			</a><br/>
@@ -5617,7 +5604,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/marikb">
 				<img src="https://avatars.githubusercontent.com/u/32127651?s=72&u=5b0eddfe71742c47106ed9794b4caf746f096989&v=4" width="24" alt="Avatar of marikb"> marikb
@@ -5630,7 +5617,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/Theminijohn">
 				<img src="https://avatars.githubusercontent.com/u/2203679?s=72&u=c2f111e47c61e309deeb3af29760b507a9e8fa11&v=4" width="24" alt="Avatar of Theminijohn"> Theminijohn
@@ -5643,7 +5630,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/thedod">
 				<img src="https://avatars.githubusercontent.com/u/225574?s=72&v=4" width="24" alt="Avatar of thedod"> thedod
@@ -5656,7 +5643,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/tomyitav">
 				<img src="https://avatars.githubusercontent.com/u/16193919?s=72&u=9b090095351e198094f7841460b98d8c624d8345&v=4" width="24" alt="Avatar of tomyitav"> tomyitav
@@ -5669,7 +5656,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/Extamov">
 				<img src="https://avatars.githubusercontent.com/u/26222159?s=72&u=21607f50dba869b0ae04b47a5f6c976c2e59c02d&v=4" width="24" alt="Avatar of Extamov"> Extamov
@@ -5682,7 +5669,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/vporton">
 				<img src="https://avatars.githubusercontent.com/u/2900574?s=72&v=4" width="24" alt="Avatar of vporton"> vporton
@@ -5695,7 +5682,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/AlmogBaku">
 				<img src="https://avatars.githubusercontent.com/u/98982?s=72&v=4" width="24" alt="Avatar of AlmogBaku"> AlmogBaku
@@ -5708,7 +5695,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/dhtdht020">
 				<img src="https://avatars.githubusercontent.com/u/18469146?s=72&u=55b7f2ee22c867ac73aaa636e1524532ca23131b&v=4" width="24" alt="Avatar of dhtdht020"> dhtdht020
@@ -5721,7 +5708,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/ozkatz">
 				<img src="https://avatars.githubusercontent.com/u/205955?s=72&u=46506a3f453ddcc4df6b3aac9957c2a70c9d6f93&v=4" width="24" alt="Avatar of ozkatz"> ozkatz
@@ -5731,6 +5718,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>@treeverse </td>
 		<td><a href="https://twitter.com/ozkatz100">ozkatz100</a></td>
 		<td>Tel Aviv, Israel</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>433</td>
+		<td>
+			<a href="https://github.com/orenelbaum">
+				<img src="https://avatars.githubusercontent.com/u/66243763?s=72&u=414d189fcfea9a286fe6aa529ed5fca78b92f578&v=4" width="24" alt="Avatar of orenelbaum"> orenelbaum
+			</a><br/>
+			Oren Elbaum
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/OrenElbaum">OrenElbaum</a></td>
+		<td>Israel</td>
 		<td>50</td>
 	</tr>
 	<tr>
@@ -7179,6 +7179,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>545</td>
 		<td>
+			<a href="https://github.com/alkavan">
+				<img src="https://avatars.githubusercontent.com/u/188295?s=72&u=e46b446e8e49b32857a8bf9d66e3d54e5b859b5e&v=4" width="24" alt="Avatar of alkavan"> alkavan
+			</a><br/>
+			Igal Alkon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
 			<a href="https://github.com/idoideas">
 				<img src="https://avatars.githubusercontent.com/u/4907608?s=72&v=4" width="24" alt="Avatar of idoideas"> idoideas
 			</a><br/>
@@ -7190,7 +7203,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/em0ney">
 				<img src="https://avatars.githubusercontent.com/u/5679658?s=72&u=4c3c9f0c67a3aa9388dc81578fec0503f2a40af8&v=4" width="24" alt="Avatar of em0ney"> em0ney
@@ -7203,7 +7216,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>548</td>
 		<td>
 			<a href="https://github.com/gilmaimon">
 				<img src="https://avatars.githubusercontent.com/u/19908473?s=72&u=03d2a185149f20ab0433476cb353a2eaea181180&v=4" width="24" alt="Avatar of gilmaimon"> gilmaimon
@@ -7216,7 +7229,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/osleg">
 				<img src="https://avatars.githubusercontent.com/u/207721?s=72&v=4" width="24" alt="Avatar of osleg"> osleg
@@ -7229,7 +7242,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/Scimonster">
 				<img src="https://avatars.githubusercontent.com/u/2826514?s=72&v=4" width="24" alt="Avatar of Scimonster"> Scimonster
@@ -7242,7 +7255,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/PerceptionPointTeam">
 				<img src="https://avatars.githubusercontent.com/u/16766143?s=72&v=4" width="24" alt="Avatar of PerceptionPointTeam"> PerceptionPointTeam
@@ -7255,7 +7268,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/doron2402">
 				<img src="https://avatars.githubusercontent.com/u/2269831?s=72&v=4" width="24" alt="Avatar of doron2402"> doron2402
@@ -7268,7 +7281,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/Isan-Rivkin">
 				<img src="https://avatars.githubusercontent.com/u/22504565?s=72&u=533b4db7671e6043e55827aec942b9bd1fcb67f3&v=4" width="24" alt="Avatar of Isan-Rivkin"> Isan-Rivkin
@@ -7281,7 +7294,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/LiorRabinovich">
 				<img src="https://avatars.githubusercontent.com/u/25436075?s=72&u=8bcd62dc5f17dcc51f0e91023f2be7b23187e97d&v=4" width="24" alt="Avatar of LiorRabinovich"> LiorRabinovich
@@ -7294,7 +7307,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/nicolezimerman">
 				<img src="https://avatars.githubusercontent.com/u/68829594?s=72&u=94c2eb84d9eb61fa385b5e900f8fec827f3cd61f&v=4" width="24" alt="Avatar of nicolezimerman"> nicolezimerman
@@ -7307,7 +7320,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/hamatoyogi">
 				<img src="https://avatars.githubusercontent.com/u/6682981?s=72&u=f2be9ecfcd13da86512966024c8cfb6448666487&v=4" width="24" alt="Avatar of hamatoyogi"> hamatoyogi
@@ -7320,7 +7333,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/Hadar933">
 				<img src="https://avatars.githubusercontent.com/u/45313790?s=72&u=01e23d0080526e5a6436f8f6963a5177aae264f3&v=4" width="24" alt="Avatar of Hadar933"> Hadar933
@@ -7333,7 +7346,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/karenyavine">
 				<img src="https://avatars.githubusercontent.com/u/22000159?s=72&u=49192801511c9adbfb2b28601512fb2c1eea0169&v=4" width="24" alt="Avatar of karenyavine"> karenyavine
@@ -7346,7 +7359,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/dbickson">
 				<img src="https://avatars.githubusercontent.com/u/4495523?s=72&v=4" width="24" alt="Avatar of dbickson"> dbickson
@@ -7356,19 +7369,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Visual Layer </td>
 		<td>No Twitter Username</td>
 		<td>Tel Aviv</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>559</td>
-		<td>
-			<a href="https://github.com/alkavan">
-				<img src="https://avatars.githubusercontent.com/u/188295?s=72&u=e46b446e8e49b32857a8bf9d66e3d54e5b859b5e&v=4" width="24" alt="Avatar of alkavan"> alkavan
-			</a><br/>
-			Igal Alkon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -7465,6 +7465,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>567</td>
 		<td>
+			<a href="https://github.com/dorlaor">
+				<img src="https://avatars.githubusercontent.com/u/1735237?s=72&u=9bbb072a415ca6cac116709c1ead9018d351d31d&v=4" width="24" alt="Avatar of dorlaor"> dorlaor
+			</a><br/>
+			Dor Laor
+		</td>
+		<td>Scylladb </td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>568</td>
+		<td>
 			<a href="https://github.com/ManuelNemirovsky">
 				<img src="https://avatars.githubusercontent.com/u/20153678?s=72&u=7b99a8294c02ea01a7c90b726ec290244d2158e1&v=4" width="24" alt="Avatar of ManuelNemirovsky"> ManuelNemirovsky
 			</a><br/>
@@ -7473,19 +7486,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>Contrast Security </td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>568</td>
-		<td>
-			<a href="https://github.com/maximn">
-				<img src="https://avatars.githubusercontent.com/u/817162?s=72&u=9de884c167eeab6c7328f13bb362ce8da1f2fd2c&v=4" width="24" alt="Avatar of maximn"> maximn
-			</a><br/>
-			Maxim Novak
-		</td>
-		<td>Wix </td>
-		<td><a href="https://twitter.com/maximnovak">maximnovak</a></td>
-		<td>Tel Aviv</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -8453,19 +8453,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>643</td>
 		<td>
-			<a href="https://github.com/NatiTesfay">
-				<img src="https://avatars.githubusercontent.com/u/102303360?s=72&u=cbbe2f2e8baf8bf28554e8348d84928e956c87ef&v=4" width="24" alt="Avatar of NatiTesfay"> NatiTesfay
-			</a><br/>
-			Netanel Tesfay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>644</td>
-		<td>
 			<a href="https://github.com/IlanFrumer">
 				<img src="https://avatars.githubusercontent.com/u/3116399?s=72&u=31f94de39e6d04b73b30354098eb699530cc3769&v=4" width="24" alt="Avatar of IlanFrumer"> IlanFrumer
 			</a><br/>
@@ -8477,7 +8464,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/ofirdagan">
 				<img src="https://avatars.githubusercontent.com/u/6453061?s=72&u=26613ee8408c2d22991880b707e2f09731605d00&v=4" width="24" alt="Avatar of ofirdagan"> ofirdagan
@@ -8490,7 +8477,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/morsh">
 				<img src="https://avatars.githubusercontent.com/u/5322722?s=72&u=daadae7c80df524e4eab594657a03f489ddd88a0&v=4" width="24" alt="Avatar of morsh"> morsh
@@ -8503,7 +8490,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/rotem154154">
 				<img src="https://avatars.githubusercontent.com/u/5027057?s=72&u=7e73a98bbedb4240b564058d25e400d2e2a15f27&v=4" width="24" alt="Avatar of rotem154154"> rotem154154
@@ -8516,7 +8503,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/ssaroussi">
 				<img src="https://avatars.githubusercontent.com/u/19860280?s=72&u=68cfa5f9d617e234b5d8a99b0915825b70c039d7&v=4" width="24" alt="Avatar of ssaroussi"> ssaroussi
@@ -8529,7 +8516,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/eyaltrabelsi">
 				<img src="https://avatars.githubusercontent.com/u/19736629?s=72&u=9bdbcf2f5758e805a777dfb34fe79aeb53dc99af&v=4" width="24" alt="Avatar of eyaltrabelsi"> eyaltrabelsi
@@ -8542,7 +8529,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/look4regev">
 				<img src="https://avatars.githubusercontent.com/u/4006829?s=72&u=7ff8668751e0e95482919a84fdc3f8c78675f969&v=4" width="24" alt="Avatar of look4regev"> look4regev
@@ -8555,7 +8542,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/maticrivo">
 				<img src="https://avatars.githubusercontent.com/u/21134?s=72&v=4" width="24" alt="Avatar of maticrivo"> maticrivo
@@ -8568,7 +8555,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/nitzantomer">
 				<img src="https://avatars.githubusercontent.com/u/1661086?s=72&u=abfd93085f5877389a329f9333b572e909adf16f&v=4" width="24" alt="Avatar of nitzantomer"> nitzantomer
@@ -8581,7 +8568,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/ahadas">
 				<img src="https://avatars.githubusercontent.com/u/6020068?s=72&v=4" width="24" alt="Avatar of ahadas"> ahadas
@@ -8594,7 +8581,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/iliapolo">
 				<img src="https://avatars.githubusercontent.com/u/1428812?s=72&v=4" width="24" alt="Avatar of iliapolo"> iliapolo
@@ -8607,7 +8594,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/mavarazy">
 				<img src="https://avatars.githubusercontent.com/u/822488?s=72&u=f81f1fcee09b945fc5aeb1e0d0761dbb773dd261&v=4" width="24" alt="Avatar of mavarazy"> mavarazy
@@ -8620,7 +8607,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/eyalbe4">
 				<img src="https://avatars.githubusercontent.com/u/7830056?s=72&u=12ab7d2bf42805579d213a6f22e0796cbccda17d&v=4" width="24" alt="Avatar of eyalbe4"> eyalbe4
@@ -8633,7 +8620,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/erasta">
 				<img src="https://avatars.githubusercontent.com/u/7118772?s=72&u=1d1846c40e27d07df628b575db4c087096b7db17&v=4" width="24" alt="Avatar of erasta"> erasta
@@ -8646,7 +8633,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/kggold4">
 				<img src="https://avatars.githubusercontent.com/u/68167734?s=72&u=d913644d052b4f863489a7c6276921fb3df69f3b&v=4" width="24" alt="Avatar of kggold4"> kggold4
@@ -8659,7 +8646,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/Radagaisus">
 				<img src="https://avatars.githubusercontent.com/u/550061?s=72&u=a05b77579314f227c4c2bed1f327d99460d89cf6&v=4" width="24" alt="Avatar of Radagaisus"> Radagaisus
@@ -8672,7 +8659,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/geymed">
 				<img src="https://avatars.githubusercontent.com/u/2660715?s=72&u=1c1dc960a8cb521829d8bc4d226402c198a7f091&v=4" width="24" alt="Avatar of geymed"> geymed
@@ -8685,7 +8672,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/NadavTasher">
 				<img src="https://avatars.githubusercontent.com/u/22955993?s=72&u=f2d21f33dfb8c1cb227b5c73d195bb9b231c2730&v=4" width="24" alt="Avatar of NadavTasher"> NadavTasher
@@ -8698,7 +8685,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/regevbr">
 				<img src="https://avatars.githubusercontent.com/u/5775519?s=72&u=0f2560766259407448072a333192987206919d36&v=4" width="24" alt="Avatar of regevbr"> regevbr
@@ -8711,7 +8698,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/syrte">
 				<img src="https://avatars.githubusercontent.com/u/7038335?s=72&u=79616a6ae9bdd8bc115d450dbc94d5666f360e05&v=4" width="24" alt="Avatar of syrte"> syrte
@@ -8724,7 +8711,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/yogevbd">
 				<img src="https://avatars.githubusercontent.com/u/10794586?s=72&u=6d1bd0dc7000e8be8e8e5c4d438a77566c80440f&v=4" width="24" alt="Avatar of yogevbd"> yogevbd
@@ -8737,7 +8724,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/yotamN">
 				<img src="https://avatars.githubusercontent.com/u/5249239?s=72&u=b5663fb865b3bb7601f7f26a9d9515ebd243683b&v=4" width="24" alt="Avatar of yotamN"> yotamN
@@ -8750,7 +8737,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/johananl">
 				<img src="https://avatars.githubusercontent.com/u/14969425?s=72&u=40c13a3fe4886c0c8a9a4a53531de8c0753f1e2f&v=4" width="24" alt="Avatar of johananl"> johananl
@@ -8759,6 +8746,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		</td>
 		<td>@microsoft </td>
 		<td><a href="https://twitter.com/j_lieb">j_lieb</a></td>
+		<td>Israel</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
+			<a href="https://github.com/NatiTesfay">
+				<img src="https://avatars.githubusercontent.com/u/102303360?s=72&u=cbbe2f2e8baf8bf28554e8348d84928e956c87ef&v=4" width="24" alt="Avatar of NatiTesfay"> NatiTesfay
+			</a><br/>
+			Netanel Tesfay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>34</td>
 	</tr>
@@ -10683,7 +10683,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		</td>
 		<td>Digital Activity </td>
 		<td>No Twitter Username</td>
-		<td>Israel</td>
+		<td>Rishon LeZion, Israel</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -11105,14 +11105,14 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>847</td>
 		<td>
-			<a href="https://github.com/haggaie">
-				<img src="https://avatars.githubusercontent.com/u/35070?s=72&u=718bb6170f796eb590440f4f8adce9c13355b112&v=4" width="24" alt="Avatar of haggaie"> haggaie
+			<a href="https://github.com/ykadosh">
+				<img src="https://avatars.githubusercontent.com/u/7763083?s=72&u=18497d1e1becbe22c5626513e84f3ea5cfcdb05c&v=4" width="24" alt="Avatar of ykadosh"> ykadosh
 			</a><br/>
-			Haggai Eran
+			Yoav Kadosh
 		</td>
-		<td>Nvidia </td>
-		<td>No Twitter Username</td>
-		<td>Yokneam, Israel</td>
+		<td>Microsoft </td>
+		<td><a href="https://twitter.com/yoavikadosh">yoavikadosh</a></td>
+		<td>Israel</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -11131,6 +11131,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>849</td>
 		<td>
+			<a href="https://github.com/haggaie">
+				<img src="https://avatars.githubusercontent.com/u/35070?s=72&u=718bb6170f796eb590440f4f8adce9c13355b112&v=4" width="24" alt="Avatar of haggaie"> haggaie
+			</a><br/>
+			Haggai Eran
+		</td>
+		<td>Nvidia </td>
+		<td>No Twitter Username</td>
+		<td>Yokneam, Israel</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>850</td>
+		<td>
 			<a href="https://github.com/svlasov">
 				<img src="https://avatars.githubusercontent.com/u/8609?s=72&v=4" width="24" alt="Avatar of svlasov"> svlasov
 			</a><br/>
@@ -11142,7 +11155,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>850</td>
+		<td>851</td>
 		<td>
 			<a href="https://github.com/driver733">
 				<img src="https://avatars.githubusercontent.com/u/10466206?s=72&u=dd2a734b32fb5fa94336730cdd92a366d9c96657&v=4" width="24" alt="Avatar of driver733"> driver733
@@ -11155,7 +11168,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>851</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/lockwooddev">
 				<img src="https://avatars.githubusercontent.com/u/867686?s=72&u=d5aec46f1628778092d25476b8385a752228c5c4&v=4" width="24" alt="Avatar of lockwooddev"> lockwooddev
@@ -11168,7 +11181,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>853</td>
 		<td>
 			<a href="https://github.com/MosheWorld">
 				<img src="https://avatars.githubusercontent.com/u/29663137?s=72&u=57112af6988cdc49778bc397dec98562c2e6bafa&v=4" width="24" alt="Avatar of MosheWorld"> MosheWorld
@@ -11181,7 +11194,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>854</td>
 		<td>
 			<a href="https://github.com/achiyazigi">
 				<img src="https://avatars.githubusercontent.com/u/73824224?s=72&u=66ae35ff1bec5895e99fe3f8f36f91ad04ed63ae&v=4" width="24" alt="Avatar of achiyazigi"> achiyazigi
@@ -11194,7 +11207,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>854</td>
+		<td>855</td>
 		<td>
 			<a href="https://github.com/BinyaminSharet">
 				<img src="https://avatars.githubusercontent.com/u/1523900?s=72&v=4" width="24" alt="Avatar of BinyaminSharet"> BinyaminSharet
@@ -11207,7 +11220,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>856</td>
 		<td>
 			<a href="https://github.com/ramybenaroya">
 				<img src="https://avatars.githubusercontent.com/u/4154801?s=72&u=5298ae196b5af8664b9d182f167be19ff0f84fe8&v=4" width="24" alt="Avatar of ramybenaroya"> ramybenaroya
@@ -11220,7 +11233,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/stavalfi">
 				<img src="https://avatars.githubusercontent.com/u/12954665?s=72&u=1ae991b6dd986787412e1a6700b8bb0649c81f55&v=4" width="24" alt="Avatar of stavalfi"> stavalfi
@@ -11233,33 +11246,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>857</td>
-		<td>
-			<a href="https://github.com/Yinon-bar">
-				<img src="https://avatars.githubusercontent.com/u/63056754?s=72&u=e096c73f5163ad7df70e6b9483c92871fe942da4&v=4" width="24" alt="Avatar of Yinon-bar"> Yinon-bar
-			</a><br/>
-			Yinon Bar
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>jerusalem, israel</td>
-		<td>26</td>
-	</tr>
-	<tr>
 		<td>858</td>
-		<td>
-			<a href="https://github.com/yuriskinfo">
-				<img src="https://avatars.githubusercontent.com/u/11923877?s=72&u=85823138e426d6a92e08eb953a9e38c3eb20a118&v=4" width="24" alt="Avatar of yuriskinfo"> yuriskinfo
-			</a><br/>
-			Slobodyanyuk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>859</td>
 		<td>
 			<a href="https://github.com/aviadhahami">
 				<img src="https://avatars.githubusercontent.com/u/7353632?s=72&u=f76494da0416862b2da1c78ffa79cbbea063c234&v=4" width="24" alt="Avatar of aviadhahami"> aviadhahami
@@ -11272,7 +11259,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>860</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/bitterbit">
 				<img src="https://avatars.githubusercontent.com/u/4591339?s=72&v=4" width="24" alt="Avatar of bitterbit"> bitterbit
@@ -11285,7 +11272,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>861</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/Lashaka">
 				<img src="https://avatars.githubusercontent.com/u/69360460?s=72&u=e4c437d828b7f649c34411f4d6dce35431d55d83&v=4" width="24" alt="Avatar of Lashaka"> Lashaka
@@ -11298,7 +11285,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>862</td>
+		<td>861</td>
 		<td>
 			<a href="https://github.com/myarichuk">
 				<img src="https://avatars.githubusercontent.com/u/1473701?s=72&v=4" width="24" alt="Avatar of myarichuk"> myarichuk
@@ -11311,7 +11298,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>862</td>
 		<td>
 			<a href="https://github.com/YuviGold">
 				<img src="https://avatars.githubusercontent.com/u/29873449?s=72&u=66225054085f2d4dbd7bec71eb05643228fd0daa&v=4" width="24" alt="Avatar of YuviGold"> YuviGold
@@ -11324,7 +11311,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>864</td>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/gkpln3">
 				<img src="https://avatars.githubusercontent.com/u/8081679?s=72&u=0233565d94af13b7d3997db908abeae9ced843ba&v=4" width="24" alt="Avatar of gkpln3"> gkpln3
@@ -11337,7 +11324,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>865</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/jewishmoses">
 				<img src="https://avatars.githubusercontent.com/u/59233368?s=72&u=3156d4e983a7e09bf40acfd0beb967046da0d526&v=4" width="24" alt="Avatar of jewishmoses"> jewishmoses
@@ -11350,7 +11337,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>866</td>
+		<td>865</td>
 		<td>
 			<a href="https://github.com/alonmuroch">
 				<img src="https://avatars.githubusercontent.com/u/3773981?s=72&u=3d97b991ae3b45196736da8004d9ce2460098fa2&v=4" width="24" alt="Avatar of alonmuroch"> alonmuroch
@@ -11363,7 +11350,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>867</td>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/RedstonedLife">
 				<img src="https://avatars.githubusercontent.com/u/37072229?s=72&u=91cb100fa823e933178b865fed177b8f423de7fd&v=4" width="24" alt="Avatar of RedstonedLife"> RedstonedLife
@@ -11376,7 +11363,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>868</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/abrahammurciano">
 				<img src="https://avatars.githubusercontent.com/u/25041135?s=72&v=4" width="24" alt="Avatar of abrahammurciano"> abrahammurciano
@@ -11389,7 +11376,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>869</td>
+		<td>868</td>
 		<td>
 			<a href="https://github.com/AlmogJakov">
 				<img src="https://avatars.githubusercontent.com/u/68508896?s=72&u=4d68d006f831204939decc26c5b4c9e0e965cf29&v=4" width="24" alt="Avatar of AlmogJakov"> AlmogJakov
@@ -11402,7 +11389,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>869</td>
 		<td>
 			<a href="https://github.com/gonenduk">
 				<img src="https://avatars.githubusercontent.com/u/1597854?s=72&u=f23cc8a87869c0d249b8e38c2133d9fef29f8f90&v=4" width="24" alt="Avatar of gonenduk"> gonenduk
@@ -11415,7 +11402,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>871</td>
+		<td>870</td>
 		<td>
 			<a href="https://github.com/KesemSharabi">
 				<img src="https://avatars.githubusercontent.com/u/54834915?s=72&u=4a8dbc15ccb81a727777c8e5092e61c776b4a83c&v=4" width="24" alt="Avatar of KesemSharabi"> KesemSharabi
@@ -11428,7 +11415,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>872</td>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/nloyfer">
 				<img src="https://avatars.githubusercontent.com/u/11374665?s=72&u=9e32c5c8efdbd9998b3c3d2eed941bef68204069&v=4" width="24" alt="Avatar of nloyfer"> nloyfer
@@ -11441,7 +11428,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>872</td>
 		<td>
 			<a href="https://github.com/Metallicode">
 				<img src="https://avatars.githubusercontent.com/u/41553615?s=72&u=57557c601ece2825f627145e97ac5d2dc2e53b3d&v=4" width="24" alt="Avatar of Metallicode"> Metallicode
@@ -11454,20 +11441,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>874</td>
-		<td>
-			<a href="https://github.com/ykadosh">
-				<img src="https://avatars.githubusercontent.com/u/7763083?s=72&u=18497d1e1becbe22c5626513e84f3ea5cfcdb05c&v=4" width="24" alt="Avatar of ykadosh"> ykadosh
-			</a><br/>
-			Yoav Kadosh
-		</td>
-		<td>Microsoft </td>
-		<td><a href="https://twitter.com/yoavikadosh">yoavikadosh</a></td>
-		<td>Israel</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>875</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/BigB00st">
 				<img src="https://avatars.githubusercontent.com/u/45171153?s=72&v=4" width="24" alt="Avatar of BigB00st"> BigB00st
@@ -11480,7 +11454,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/eranchetz">
 				<img src="https://avatars.githubusercontent.com/u/357094?s=72&v=4" width="24" alt="Avatar of eranchetz"> eranchetz
@@ -11493,7 +11467,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/EliArad">
 				<img src="https://avatars.githubusercontent.com/u/10128516?s=72&u=78c189a0926f031bdd431177429c12c2d079249b&v=4" width="24" alt="Avatar of EliArad"> EliArad
@@ -11506,7 +11480,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/snird">
 				<img src="https://avatars.githubusercontent.com/u/2139589?s=72&u=5a5cbc6a8014e8b117ff03de5cbaef34e307e114&v=4" width="24" alt="Avatar of snird"> snird
@@ -11519,7 +11493,20 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>877</td>
+		<td>
+			<a href="https://github.com/snird">
+				<img src="https://avatars.githubusercontent.com/u/2139589?s=72&u=5a5cbc6a8014e8b117ff03de5cbaef34e307e114&v=4" width="24" alt="Avatar of snird"> snird
+			</a><br/>
+			Snir David
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tel Aviv</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/dimaxweb">
 				<img src="https://avatars.githubusercontent.com/u/1259726?s=72&v=4" width="24" alt="Avatar of dimaxweb"> dimaxweb
@@ -11532,7 +11519,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/itailv">
 				<img src="https://avatars.githubusercontent.com/u/40122948?s=72&u=3df07c33c87aa1f07f7883331aa1805a188dc9cc&v=4" width="24" alt="Avatar of itailv"> itailv
@@ -11545,7 +11532,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/yaronv">
 				<img src="https://avatars.githubusercontent.com/u/6782636?s=72&u=7bdc9fd55ed7432559c28fb62289dd151f0796d6&v=4" width="24" alt="Avatar of yaronv"> yaronv
@@ -11558,7 +11545,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/ronubo">
 				<img src="https://avatars.githubusercontent.com/u/951600?s=72&v=4" width="24" alt="Avatar of ronubo"> ronubo
@@ -11571,7 +11558,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/Rafael1s">
 				<img src="https://avatars.githubusercontent.com/u/20628246?s=72&u=18f7ef6b08be5326ee03dbdbc273e3171771ec72&v=4" width="24" alt="Avatar of Rafael1s"> Rafael1s
@@ -11584,7 +11571,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/orenhe">
 				<img src="https://avatars.githubusercontent.com/u/455139?s=72&v=4" width="24" alt="Avatar of orenhe"> orenhe
@@ -11597,7 +11584,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/idanama">
 				<img src="https://avatars.githubusercontent.com/u/30636112?s=72&u=3683c77bb0a42aa9e23f37e161398fbbe8d1958f&v=4" width="24" alt="Avatar of idanama"> idanama
@@ -11610,7 +11597,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/GuyKahlon">
 				<img src="https://avatars.githubusercontent.com/u/3619880?s=72&u=f8396c4d689b7ee27740d3cfac8376d8e448c91a&v=4" width="24" alt="Avatar of GuyKahlon"> GuyKahlon
@@ -11623,7 +11610,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/sottwell">
 				<img src="https://avatars.githubusercontent.com/u/1073780?s=72&v=4" width="24" alt="Avatar of sottwell"> sottwell
@@ -11634,6 +11621,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Mitzpe Ramon, Israel</td>
 		<td>26</td>
+	</tr>
+	<tr>
+		<td>887</td>
+		<td>
+			<a href="https://github.com/Yinon-bar">
+				<img src="https://avatars.githubusercontent.com/u/63056754?s=72&u=e096c73f5163ad7df70e6b9483c92871fe942da4&v=4" width="24" alt="Avatar of Yinon-bar"> Yinon-bar
+			</a><br/>
+			Yinon Bar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>jerusalem, israel</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>888</td>
@@ -11729,6 +11729,19 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 	<tr>
 		<td>895</td>
 		<td>
+			<a href="https://github.com/elisim">
+				<img src="https://avatars.githubusercontent.com/u/17675462?s=72&u=e0ade0518283cc5b63cae334c95d54d1aec8cec1&v=4" width="24" alt="Avatar of elisim"> elisim
+			</a><br/>
+			Eli Simhayev
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/EliSimhayev">EliSimhayev</a></td>
+		<td>Israel</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>896</td>
+		<td>
 			<a href="https://github.com/Kaperstone">
 				<img src="https://avatars.githubusercontent.com/u/8384463?s=72&u=095c994cc0a944a9719d8d4ee5a4994496e54666&v=4" width="24" alt="Avatar of Kaperstone"> Kaperstone
 			</a><br/>
@@ -11740,7 +11753,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/rgolangh">
 				<img src="https://avatars.githubusercontent.com/u/4987932?s=72&v=4" width="24" alt="Avatar of rgolangh"> rgolangh
@@ -11753,7 +11766,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/asafm">
 				<img src="https://avatars.githubusercontent.com/u/989425?s=72&u=df2ab6a6d9d3ac312d8472de48e06ea2e631bd09&v=4" width="24" alt="Avatar of asafm"> asafm
@@ -11766,7 +11779,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/motidahari">
 				<img src="https://avatars.githubusercontent.com/u/13586201?s=72&u=7d33fc9a4459932fc0b93f72827d498219a3b84f&v=4" width="24" alt="Avatar of motidahari"> motidahari
@@ -11779,7 +11792,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/drorgl">
 				<img src="https://avatars.githubusercontent.com/u/1523520?s=72&u=2a51b4058e14d2ca30b3b40bb9e06dd457ed525e&v=4" width="24" alt="Avatar of drorgl"> drorgl
@@ -11792,7 +11805,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/Jewgah">
 				<img src="https://avatars.githubusercontent.com/u/57345931?s=72&u=509dbdea49f2bac8f099b573b85bd43f28e5d089&v=4" width="24" alt="Avatar of Jewgah"> Jewgah
@@ -11805,7 +11818,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/amitgilad3">
 				<img src="https://avatars.githubusercontent.com/u/7702311?s=72&u=9fba9f3f1681452527a3799336c6ebf06aa110c9&v=4" width="24" alt="Avatar of amitgilad3"> amitgilad3
@@ -11818,7 +11831,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/arieh">
 				<img src="https://avatars.githubusercontent.com/u/90932?s=72&v=4" width="24" alt="Avatar of arieh"> arieh
@@ -11831,7 +11844,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/IdanCo">
 				<img src="https://avatars.githubusercontent.com/u/10364499?s=72&u=a6a41c071a5683bd2a97455ed365dc73ff37a1a8&v=4" width="24" alt="Avatar of IdanCo"> IdanCo
@@ -11844,7 +11857,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/arielferdman">
 				<img src="https://avatars.githubusercontent.com/u/22426799?s=72&u=1aa01c0e6da30dc969387dd327a16a26204331fb&v=4" width="24" alt="Avatar of arielferdman"> arielferdman
@@ -11857,7 +11870,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/burdandrei">
 				<img src="https://avatars.githubusercontent.com/u/2526486?s=72&v=4" width="24" alt="Avatar of burdandrei"> burdandrei
@@ -11870,7 +11883,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/talzich">
 				<img src="https://avatars.githubusercontent.com/u/35036457?s=72&u=6fd36e301e70b6cc61d40ac3909f752937cd2ae1&v=4" width="24" alt="Avatar of talzich"> talzich
@@ -11883,7 +11896,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/faxinadu">
 				<img src="https://avatars.githubusercontent.com/u/34368899?s=72&u=c163cbe32b345ed7ee07427d3c628040e5cb453f&v=4" width="24" alt="Avatar of faxinadu"> faxinadu
@@ -11896,7 +11909,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/nashcontrol">
 				<img src="https://avatars.githubusercontent.com/u/5476113?s=72&u=829e85aed229be20c80f9e7c57036671f683ce74&v=4" width="24" alt="Avatar of nashcontrol"> nashcontrol
@@ -11909,7 +11922,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/reah">
 				<img src="https://avatars.githubusercontent.com/u/4263384?s=72&u=c2685be599f902d8dd31d297c20f728d2c4f0b42&v=4" width="24" alt="Avatar of reah"> reah
@@ -11922,7 +11935,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/ranhsd">
 				<img src="https://avatars.githubusercontent.com/u/3685671?s=72&u=b9aca8fe0f376c0341afb026b168c0f06a0c0198&v=4" width="24" alt="Avatar of ranhsd"> ranhsd
@@ -11935,7 +11948,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/barhoring">
 				<img src="https://avatars.githubusercontent.com/u/16229686?s=72&u=97b15c7a0f353b6097b4df96bdc6fc59d64b9729&v=4" width="24" alt="Avatar of barhoring"> barhoring
@@ -11948,7 +11961,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/binyamindavid">
 				<img src="https://avatars.githubusercontent.com/u/972227?s=72&u=588a6f2b90f1e5203580876813494ebfe57b9e44&v=4" width="24" alt="Avatar of binyamindavid"> binyamindavid
@@ -11961,7 +11974,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/ramimoshe">
 				<img src="https://avatars.githubusercontent.com/u/6533521?s=72&u=5bdbb9d610af4e485d70e466cff30626602b817e&v=4" width="24" alt="Avatar of ramimoshe"> ramimoshe
@@ -11974,7 +11987,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/glidror">
 				<img src="https://avatars.githubusercontent.com/u/36193858?s=72&v=4" width="24" alt="Avatar of glidror"> glidror
@@ -11987,7 +12000,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/arthur-flam">
 				<img src="https://avatars.githubusercontent.com/u/2649055?s=72&u=e829d859e187e51243a4f4cd46589e027df536f7&v=4" width="24" alt="Avatar of arthur-flam"> arthur-flam
@@ -12000,7 +12013,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/mtcherni95">
 				<img src="https://avatars.githubusercontent.com/u/39140425?s=72&u=c5c8bdf342c9952a16a72bd9c01bb1ad408016ca&v=4" width="24" alt="Avatar of mtcherni95"> mtcherni95
@@ -12013,7 +12026,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/LiozElmalem">
 				<img src="https://avatars.githubusercontent.com/u/44621326?s=72&u=bc540673f7bb19f6ca0e455d475c99d852199187&v=4" width="24" alt="Avatar of LiozElmalem"> LiozElmalem
@@ -12026,7 +12039,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/EladKeyshawn">
 				<img src="https://avatars.githubusercontent.com/u/17123769?s=72&u=db54a67c5f2554593c90031bd4874ba6be10cf44&v=4" width="24" alt="Avatar of EladKeyshawn"> EladKeyshawn
@@ -12039,7 +12052,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/amirnissim">
 				<img src="https://avatars.githubusercontent.com/u/1098126?s=72&v=4" width="24" alt="Avatar of amirnissim"> amirnissim
@@ -12052,7 +12065,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/rdavid">
 				<img src="https://avatars.githubusercontent.com/u/164628?s=72&u=425d67509540a082e4340450e403c21ae36e3a3a&v=4" width="24" alt="Avatar of rdavid"> rdavid
@@ -12065,7 +12078,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/uriklar">
 				<img src="https://avatars.githubusercontent.com/u/2545447?s=72&v=4" width="24" alt="Avatar of uriklar"> uriklar
@@ -12078,7 +12091,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/chiptus">
 				<img src="https://avatars.githubusercontent.com/u/1381655?s=72&u=58fb007e62c263f944f6e2997c35505df8b5382d&v=4" width="24" alt="Avatar of chiptus"> chiptus
@@ -12091,7 +12104,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/matveisch">
 				<img src="https://avatars.githubusercontent.com/u/46415685?s=72&u=d95def099a415a51d3bfe0078a8ddb0fc468035b&v=4" width="24" alt="Avatar of matveisch"> matveisch
@@ -12104,7 +12117,20 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>925</td>
+		<td>
+			<a href="https://github.com/DanielMalede">
+				<img src="https://avatars.githubusercontent.com/u/102303436?s=72&u=955a3204992ec532f3de5344ec906ddd9119e5a4&v=4" width="24" alt="Avatar of DanielMalede"> DanielMalede
+			</a><br/>
+			Full Stack Developer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Israel</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/gavrie">
 				<img src="https://avatars.githubusercontent.com/u/288652?s=72&u=5bab404b3958e80433a097dacda97797ee9c5ee4&v=4" width="24" alt="Avatar of gavrie"> gavrie
@@ -12117,7 +12143,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/Seanitzel">
 				<img src="https://avatars.githubusercontent.com/u/16267397?s=72&u=b5edb265d5a13bfe4fb117fb872a3474df3c6708&v=4" width="24" alt="Avatar of Seanitzel"> Seanitzel
@@ -12130,7 +12156,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/galElmalah">
 				<img src="https://avatars.githubusercontent.com/u/40733145?s=72&u=333a1fbc90a4c4817b2c9c7e6ce54a33975134bd&v=4" width="24" alt="Avatar of galElmalah"> galElmalah
@@ -12143,7 +12169,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/guysmoilov">
 				<img src="https://avatars.githubusercontent.com/u/611655?s=72&u=966f9868bb057d2d4deba8e9934b95b9ee6662df&v=4" width="24" alt="Avatar of guysmoilov"> guysmoilov
@@ -12156,7 +12182,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/PeterShershov">
 				<img src="https://avatars.githubusercontent.com/u/16524839?s=72&u=80eabafe28f2bb526bf065bf76bf9490ca223f4e&v=4" width="24" alt="Avatar of PeterShershov"> PeterShershov
@@ -12169,7 +12195,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/ngutman">
 				<img src="https://avatars.githubusercontent.com/u/1540134?s=72&u=99dac224be3d26684cbe4cab5e411e4cd1865246&v=4" width="24" alt="Avatar of ngutman"> ngutman
@@ -12182,7 +12208,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/kourgeorge">
 				<img src="https://avatars.githubusercontent.com/u/12570182?s=72&u=51429c8e75f25f105867d90c8115ea654106b154&v=4" width="24" alt="Avatar of kourgeorge"> kourgeorge
@@ -12195,7 +12221,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/RoySenpai">
 				<img src="https://avatars.githubusercontent.com/u/8429686?s=72&u=04020ad7577f560a0ac9458e39b1ed85b2a3ec02&v=4" width="24" alt="Avatar of RoySenpai"> RoySenpai
@@ -12208,7 +12234,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/rotemreiss">
 				<img src="https://avatars.githubusercontent.com/u/9288082?s=72&u=f4e402c11e57ff011dd7f2ae1aeb7c0df2f86c7c&v=4" width="24" alt="Avatar of rotemreiss"> rotemreiss
@@ -12221,7 +12247,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/yaronsumel">
 				<img src="https://avatars.githubusercontent.com/u/4710984?s=72&u=09a6ae27bcf5020de5a9965c7c3b81162eeb85cf&v=4" width="24" alt="Avatar of yaronsumel"> yaronsumel
@@ -12234,20 +12260,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>934</td>
-		<td>
-			<a href="https://github.com/elisim">
-				<img src="https://avatars.githubusercontent.com/u/17675462?s=72&u=e0ade0518283cc5b63cae334c95d54d1aec8cec1&v=4" width="24" alt="Avatar of elisim"> elisim
-			</a><br/>
-			Eli Simhayev
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/EliSimhayev">EliSimhayev</a></td>
-		<td>Israel</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>935</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/barak007">
 				<img src="https://avatars.githubusercontent.com/u/2240471?s=72&v=4" width="24" alt="Avatar of barak007"> barak007
@@ -12260,7 +12273,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/itielMaimon">
 				<img src="https://avatars.githubusercontent.com/u/19761142?s=72&u=8bb7acf8cee801fa275d8bfc1892bba85a242b5a&v=4" width="24" alt="Avatar of itielMaimon"> itielMaimon
@@ -12273,7 +12286,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>937</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/OmriBarZik">
 				<img src="https://avatars.githubusercontent.com/u/16163470?s=72&v=4" width="24" alt="Avatar of OmriBarZik"> OmriBarZik
@@ -12286,7 +12299,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/noaabarki">
 				<img src="https://avatars.githubusercontent.com/u/47917189?s=72&u=af56f70c4c1f458c6e027afb3ea20943c9f34d4d&v=4" width="24" alt="Avatar of noaabarki"> noaabarki
@@ -12299,7 +12312,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/dleshem">
 				<img src="https://avatars.githubusercontent.com/u/1689757?s=72&v=4" width="24" alt="Avatar of dleshem"> dleshem
@@ -12312,7 +12325,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/Daniel-israelov">
 				<img src="https://avatars.githubusercontent.com/u/72816570?s=72&u=8a2f530d078745d41eb0c82b03becd8c626a9586&v=4" width="24" alt="Avatar of Daniel-israelov"> Daniel-israelov
@@ -12325,7 +12338,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/AmeenAli">
 				<img src="https://avatars.githubusercontent.com/u/6931771?s=72&u=c7878359e510edee6a931f8ba420e7425b735bff&v=4" width="24" alt="Avatar of AmeenAli"> AmeenAli
@@ -12338,7 +12351,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/pauljacobson">
 				<img src="https://avatars.githubusercontent.com/u/2912202?s=72&v=4" width="24" alt="Avatar of pauljacobson"> pauljacobson
@@ -12351,7 +12364,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/AyalX">
 				<img src="https://avatars.githubusercontent.com/u/25435680?s=72&u=a41842bf6dba1634f9b5b7cb967c57d3f09d87e4&v=4" width="24" alt="Avatar of AyalX"> AyalX
@@ -12364,7 +12377,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/yahalom98">
 				<img src="https://avatars.githubusercontent.com/u/17437830?s=72&u=5e85cf1ac4860baa77fa9405f5211ce1a99bea5d&v=4" width="24" alt="Avatar of yahalom98"> yahalom98
@@ -12377,7 +12390,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/netaz">
 				<img src="https://avatars.githubusercontent.com/u/229801?s=72&u=83ec130aaa7247c7381edeb6cda5fc25624ab501&v=4" width="24" alt="Avatar of netaz"> netaz
@@ -12390,7 +12403,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/omerwe">
 				<img src="https://avatars.githubusercontent.com/u/10100979?s=72&u=19f95dff2d3f43a9ede54c6060c436c045545ef4&v=4" width="24" alt="Avatar of omerwe"> omerwe
@@ -12403,7 +12416,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/agamsol">
 				<img src="https://avatars.githubusercontent.com/u/43265196?s=72&u=9897f203b46429f43f1bb31a400879643573450a&v=4" width="24" alt="Avatar of agamsol"> agamsol
@@ -12416,7 +12429,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/itayw">
 				<img src="https://avatars.githubusercontent.com/u/4245001?s=72&u=d5b7b0e17da5764ce0d1b8cbe92470d51a52df7f&v=4" width="24" alt="Avatar of itayw"> itayw
@@ -12429,7 +12442,7 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/eladsal">
 				<img src="https://avatars.githubusercontent.com/u/1942312?s=72&v=4" width="24" alt="Avatar of eladsal"> eladsal
@@ -12437,19 +12450,6 @@ There are `961 users`  in Israel. You need at least `24 followers` to be on this
 			Elad Salomons
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Israel</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>950</td>
-		<td>
-			<a href="https://github.com/elai950">
-				<img src="https://avatars.githubusercontent.com/u/37900883?s=72&u=f736d0eb23db40b2b4c2ca7e3847b443485f5128&v=4" width="24" alt="Avatar of elai950"> elai950
-			</a><br/>
-			Elai Zuberman
-		</td>
-		<td>Pango </td>
 		<td>No Twitter Username</td>
 		<td>Israel</td>
 		<td>24</td>
