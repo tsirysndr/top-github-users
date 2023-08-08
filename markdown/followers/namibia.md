@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" alt="Namibia">
 </a>
 
-The `number of followers` of users in Namibia on `2023/8/8 2:58 AM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
+The `number of followers` of users in Namibia on `2023/8/8 8:45 PM UTC`. This list contains users from `Namibia` and cities `Windhoek` `Swakopmund` `Walvis-bay` `Otjiwarongo`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -180,7 +180,7 @@ There are `695 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>@ssc-na  </td>
 		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
-		<td>46</td>
+		<td>45</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -1394,19 +1394,6 @@ There are `695 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>100</td>
 		<td>
-			<a href="https://github.com/DukeKempel">
-				<img src="https://avatars.githubusercontent.com/u/14172094?s=72&u=9d9b978876fe23cf978ef531c2f786e82983c600&v=4" width="24" alt="Avatar of DukeKempel"> DukeKempel
-			</a><br/>
-			DukeKempel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
 			<a href="https://github.com/simonpsc">
 				<img src="https://avatars.githubusercontent.com/u/40866980?s=72&u=d064a38f1758005087a87fe1db096b245eb3c93b&v=4" width="24" alt="Avatar of simonpsc"> simonpsc
 			</a><br/>
@@ -1414,6 +1401,19 @@ There are `695 users`  in Namibia. You need at least `0 followers` to be on this
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Simwasa">Simwasa</a></td>
+		<td>Windhoek, Namibia</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/DukeKempel">
+				<img src="https://avatars.githubusercontent.com/u/14172094?s=72&u=9d9b978876fe23cf978ef531c2f786e82983c600&v=4" width="24" alt="Avatar of DukeKempel"> DukeKempel
+			</a><br/>
+			DukeKempel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Windhoek, Namibia</td>
 		<td>5</td>
 	</tr>
@@ -2122,32 +2122,6 @@ There are `695 users`  in Namibia. You need at least `0 followers` to be on this
 	<tr>
 		<td>156</td>
 		<td>
-			<a href="https://github.com/joe-sef">
-				<img src="https://avatars.githubusercontent.com/u/28350860?s=72&u=e4817d89bfcdd51a9e0d616795eb2c3d2fbabe03&v=4" width="24" alt="Avatar of joe-sef"> joe-sef
-			</a><br/>
-			Josef Ipinge
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Namibia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/kunwijik">
-				<img src="https://avatars.githubusercontent.com/u/8808472?s=72&v=4" width="24" alt="Avatar of kunwijik"> kunwijik
-			</a><br/>
-			Eli Kasai
-		</td>
-		<td>University Of Namibia </td>
-		<td>No Twitter Username</td>
-		<td>Windhoek, Namibia</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>158</td>
-		<td>
 			<a href="https://github.com/brentblake">
 				<img src="https://avatars.githubusercontent.com/u/88505778?s=72&v=4" width="24" alt="Avatar of brentblake"> brentblake
 			</a><br/>
@@ -2159,7 +2133,7 @@ There are `695 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/marcocadete">
 				<img src="https://avatars.githubusercontent.com/u/28997066?s=72&u=04d42ba2e73d8b6ccf8f067c0541b1f73cdaeeb1&v=4" width="24" alt="Avatar of marcocadete"> marcocadete
@@ -2169,6 +2143,32 @@ There are `695 users`  in Namibia. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Namibia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>158</td>
+		<td>
+			<a href="https://github.com/joe-sef">
+				<img src="https://avatars.githubusercontent.com/u/28350860?s=72&u=e4817d89bfcdd51a9e0d616795eb2c3d2fbabe03&v=4" width="24" alt="Avatar of joe-sef"> joe-sef
+			</a><br/>
+			Josef Ipinge
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Namibia</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/kunwijik">
+				<img src="https://avatars.githubusercontent.com/u/8808472?s=72&v=4" width="24" alt="Avatar of kunwijik"> kunwijik
+			</a><br/>
+			Eli Kasai
+		</td>
+		<td>University Of Namibia </td>
+		<td>No Twitter Username</td>
+		<td>Windhoek, Namibia</td>
 		<td>3</td>
 	</tr>
 	<tr>
