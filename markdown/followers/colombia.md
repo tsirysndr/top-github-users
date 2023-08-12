@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia">
 </a>
 
-The `number of followers` of users in Colombia on `2023/8/11 5:58 PM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
+The `number of followers` of users in Colombia on `2023/8/12 11:09 AM UTC`. This list contains users from `Colombia` and cities `Bogotá` `Medellín` `Cali` `Cartagena` `Barranquilla`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/teffcode">teffcode</a></td>
 		<td>Medellín, Antioquia</td>
-		<td>2718</td>
+		<td>2719</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellín, Colombia</td>
-		<td>2636</td>
+		<td>2637</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@platzi </td>
 		<td><a href="https://twitter.com/fjuandc">fjuandc</a></td>
 		<td>Bogota, Colombia.</td>
-		<td>1495</td>
+		<td>1496</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@0xandro </td>
 		<td><a href="https://twitter.com/jofpin">jofpin</a></td>
 		<td>Colombia ⇆ Singapore</td>
-		<td>1052</td>
+		<td>1053</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -323,7 +323,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Baxusnft </td>
 		<td><a href="https://twitter.com/jdnichollsc">jdnichollsc</a></td>
 		<td>Colombia</td>
-		<td>489</td>
+		<td>490</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -349,7 +349,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Quansight, Inc. / Sihsa<br/>Ltda<br/></td>
 		<td><a href="https://twitter.com/goanpeca">goanpeca</a></td>
 		<td>Bogotá, Colombia</td>
-		<td>470</td>
+		<td>471</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -375,7 +375,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@sechacklabs </td>
 		<td><a href="https://twitter.com/edu4rdshl">edu4rdshl</a></td>
 		<td>Colombia</td>
-		<td>457</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -401,7 +401,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Protocol Labs @protocol @filecoin-saturn<br/></td>
 		<td><a href="https://twitter.com/DiegoRBaquero">DiegoRBaquero</a></td>
 		<td>Colombia</td>
-		<td>449</td>
+		<td>450</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -453,7 +453,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>393</td>
+		<td>395</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -557,7 +557,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Globant </td>
 		<td><a href="https://twitter.com/alexlondon07">alexlondon07</a></td>
 		<td>Medellín - Colombia</td>
-		<td>329</td>
+		<td>330</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -570,7 +570,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Make It Real </td>
 		<td><a href="https://twitter.com/khriztianmoreno">khriztianmoreno</a></td>
 		<td>Medellin, Colombia</td>
-		<td>326</td>
+		<td>327</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -596,7 +596,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@edteamlat </td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
-		<td>314</td>
+		<td>315</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -627,6 +627,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/romelperez">
+				<img src="https://avatars.githubusercontent.com/u/1393135?s=72&u=30ad633e207d2bae7f56ecbe407959f62b9bbcb5&v=4" width="24" alt="Avatar of romelperez"> romelperez
+			</a><br/>
+			Romel Perez
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/romelperez07">romelperez07</a></td>
+		<td>Colombia</td>
+		<td>295</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/HectorPulido">
 				<img src="https://avatars.githubusercontent.com/u/30538313?s=72&u=9a07f4a19dca0d76502cb7af58c79d49ea032f86&v=4" width="24" alt="Avatar of HectorPulido"> HectorPulido
 			</a><br/>
@@ -636,19 +649,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td><a href="https://twitter.com/Hector_Pulido_">Hector_Pulido_</a></td>
 		<td>Colombia</td>
 		<td>295</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/romelperez">
-				<img src="https://avatars.githubusercontent.com/u/1393135?s=72&u=30ad633e207d2bae7f56ecbe407959f62b9bbcb5&v=4" width="24" alt="Avatar of romelperez"> romelperez
-			</a><br/>
-			Romel Perez
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/romelperez07">romelperez07</a></td>
-		<td>Colombia</td>
-		<td>294</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -739,7 +739,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Nodesource </td>
 		<td>No Twitter Username</td>
 		<td>Medellin, Colombia</td>
-		<td>249</td>
+		<td>250</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -752,7 +752,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
-		<td>249</td>
+		<td>250</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -869,7 +869,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@innovateondemand </td>
 		<td><a href="https://twitter.com/cgope">cgope</a></td>
 		<td>Colombia</td>
-		<td>209</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1012,7 +1012,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@digitai_ </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
-		<td>187</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1181,7 +1181,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lporras16">lporras16</a></td>
 		<td>Barranquilla, Colombia</td>
-		<td>159</td>
+		<td>158</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1238,6 +1238,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>88</td>
 		<td>
+			<a href="https://github.com/fhernanb">
+				<img src="https://avatars.githubusercontent.com/u/5994282?s=72&u=38adc1607011c131e47863c421f2230d291ec924&v=4" width="24" alt="Avatar of fhernanb"> fhernanb
+			</a><br/>
+			Freddy Hernández
+		</td>
+		<td>Universidad Nacional De Colombia<br/>Sede<br/>Medellín<br/></td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>152</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
 			<a href="https://github.com/champi-dev">
 				<img src="https://avatars.githubusercontent.com/u/25520803?s=72&u=0caf5a4bd7f77a84adc032c96d74340a42dd5354&v=4" width="24" alt="Avatar of champi-dev"> champi-dev
 			</a><br/>
@@ -1247,19 +1260,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>152</td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>
-			<a href="https://github.com/fhernanb">
-				<img src="https://avatars.githubusercontent.com/u/5994282?s=72&u=38adc1607011c131e47863c421f2230d291ec924&v=4" width="24" alt="Avatar of fhernanb"> fhernanb
-			</a><br/>
-			Freddy Hernández
-		</td>
-		<td>Universidad Nacional De Colombia<br/>Sede<br/>Medellín<br/></td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>151</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1381,19 +1381,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>99</td>
 		<td>
-			<a href="https://github.com/Bethsyf">
-				<img src="https://avatars.githubusercontent.com/u/84050237?s=72&u=d5887f9c02c48d83e914cffe76898b4c53987dba&v=4" width="24" alt="Avatar of Bethsyf"> Bethsyf
-			</a><br/>
-			Bethsy Falcon
-		</td>
-		<td>@kutai-co </td>
-		<td><a href="https://twitter.com/bethsyf">bethsyf</a></td>
-		<td>Medellín, Colombia</td>
-		<td>140</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
 			<a href="https://github.com/giovannyortegon">
 				<img src="https://avatars.githubusercontent.com/u/37087716?s=72&u=1c6471e6c853056b54de8a1ae62f4f4b5ed6358a&v=4" width="24" alt="Avatar of giovannyortegon"> giovannyortegon
 			</a><br/>
@@ -1402,7 +1389,20 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
-		<td>140</td>
+		<td>141</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a href="https://github.com/Bethsyf">
+				<img src="https://avatars.githubusercontent.com/u/84050237?s=72&u=d5887f9c02c48d83e914cffe76898b4c53987dba&v=4" width="24" alt="Avatar of Bethsyf"> Bethsyf
+			</a><br/>
+			Bethsy Falcon
+		</td>
+		<td>@kutai-co </td>
+		<td><a href="https://twitter.com/bethsyf">bethsyf</a></td>
+		<td>Medellín, Colombia</td>
+		<td>139</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1467,7 +1467,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@ean  </td>
 		<td><a href="https://twitter.com/MiliDUBA">MiliDUBA</a></td>
 		<td>Colombia</td>
-		<td>134</td>
+		<td>135</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1511,19 +1511,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>109</td>
 		<td>
-			<a href="https://github.com/Lizz010">
-				<img src="https://avatars.githubusercontent.com/u/105832954?s=72&u=288f48b03344e5ed86b8e4a6654a05f061466a55&v=4" width="24" alt="Avatar of Lizz010"> Lizz010
-			</a><br/>
-			Liz P.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
 			<a href="https://github.com/augustosalazar">
 				<img src="https://avatars.githubusercontent.com/u/4458129?s=72&u=f317c99d93b590a544b954ea4ca7cfa419fff9c0&v=4" width="24" alt="Avatar of augustosalazar"> augustosalazar
 			</a><br/>
@@ -1535,7 +1522,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/camilooob">
 				<img src="https://avatars.githubusercontent.com/u/32441824?s=72&u=39dab24c565cce86c85c3169ed808dfadf941a35&v=4" width="24" alt="Avatar of camilooob"> camilooob
@@ -1546,6 +1533,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td><a href="https://twitter.com/camilooob">camilooob</a></td>
 		<td>Bogota, Colombia</td>
 		<td>130</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/Lizz010">
+				<img src="https://avatars.githubusercontent.com/u/105832954?s=72&u=288f48b03344e5ed86b8e4a6654a05f061466a55&v=4" width="24" alt="Avatar of Lizz010"> Lizz010
+			</a><br/>
+			Liz P.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>129</td>
 	</tr>
 	<tr>
 		<td>112</td>
@@ -1584,7 +1584,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Esri Colombia </td>
 		<td><a href="https://twitter.com/IngJuanMaSuarez">IngJuanMaSuarez</a></td>
 		<td>Colombia</td>
-		<td>127</td>
+		<td>128</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -1836,6 +1836,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>134</td>
 		<td>
+			<a href="https://github.com/SharaGB">
+				<img src="https://avatars.githubusercontent.com/u/90220978?s=72&u=acf3c98a334700f97915bb8db03a9b1f12bc9e29&v=4" width="24" alt="Avatar of SharaGB"> SharaGB
+			</a><br/>
+			Shara García Betancur 
+		</td>
+		<td>Holberton School </td>
+		<td><a href="https://twitter.com/_Rassvet_x">_Rassvet_x</a></td>
+		<td>Medellín, Colombia </td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
 			<a href="https://github.com/luismescobarf">
 				<img src="https://avatars.githubusercontent.com/u/35964032?s=72&u=cde5c1d21ac8d1e300fc13c0d7db33f2468a138c&v=4" width="24" alt="Avatar of luismescobarf"> luismescobarf
 			</a><br/>
@@ -1845,19 +1858,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td><a href="https://twitter.com/luismescobarf">luismescobarf</a></td>
 		<td>Pereira, Risaralda, Colombia</td>
 		<td>114</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/SharaGB">
-				<img src="https://avatars.githubusercontent.com/u/90220978?s=72&u=acf3c98a334700f97915bb8db03a9b1f12bc9e29&v=4" width="24" alt="Avatar of SharaGB"> SharaGB
-			</a><br/>
-			Shara García Betancur 
-		</td>
-		<td>Holberton School </td>
-		<td><a href="https://twitter.com/_Rassvet_x">_Rassvet_x</a></td>
-		<td>Medellín, Colombia </td>
-		<td>113</td>
 	</tr>
 	<tr>
 		<td>136</td>
@@ -1909,7 +1909,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@torreco </td>
 		<td>No Twitter Username</td>
 		<td>Medellín - Colombia</td>
-		<td>110</td>
+		<td>111</td>
 	</tr>
 	<tr>
 		<td>140</td>
@@ -2096,6 +2096,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>154</td>
 		<td>
+			<a href="https://github.com/camilaleniss">
+				<img src="https://avatars.githubusercontent.com/u/34484913?s=72&u=727a4d5d6593852cc0b28358b0eec7814197b441&v=4" width="24" alt="Avatar of camilaleniss"> camilaleniss
+			</a><br/>
+			Maria Camila Lenis Restrepo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ladivaloper">ladivaloper</a></td>
+		<td>Cali, Colombia</td>
+		<td>104</td>
+	</tr>
+	<tr>
+		<td>155</td>
+		<td>
 			<a href="https://github.com/KingDarBoja">
 				<img src="https://avatars.githubusercontent.com/u/30560560?s=72&u=8e9f7826d598d9e9cab2eb036e02ff067b4ded95&v=4" width="24" alt="Avatar of KingDarBoja"> KingDarBoja
 			</a><br/>
@@ -2107,7 +2120,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/estrada9166">
 				<img src="https://avatars.githubusercontent.com/u/15656860?s=72&u=08f8cf5d895c77c9f16818ec79151565d186f716&v=4" width="24" alt="Avatar of estrada9166"> estrada9166
@@ -2120,7 +2133,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/andres-root">
 				<img src="https://avatars.githubusercontent.com/u/2503245?s=72&u=62a6ad7bb77f7ff8430fd3a201b66152d35c0a0b&v=4" width="24" alt="Avatar of andres-root"> andres-root
@@ -2130,19 +2143,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/codexmancer">codexmancer</a></td>
 		<td>Medellin, Colombia.</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a href="https://github.com/camilaleniss">
-				<img src="https://avatars.githubusercontent.com/u/34484913?s=72&u=727a4d5d6593852cc0b28358b0eec7814197b441&v=4" width="24" alt="Avatar of camilaleniss"> camilaleniss
-			</a><br/>
-			Maria Camila Lenis Restrepo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ladivaloper">ladivaloper</a></td>
-		<td>Cali, Colombia</td>
 		<td>103</td>
 	</tr>
 	<tr>
@@ -2265,6 +2265,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>167</td>
 		<td>
+			<a href="https://github.com/carogomezt">
+				<img src="https://avatars.githubusercontent.com/u/17128791?s=72&u=ee51c4249ae8d72898f674825af99a965317d5cb&v=4" width="24" alt="Avatar of carogomezt"> carogomezt
+			</a><br/>
+			Carolina Gómez Trejos
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/caro_gomezt">caro_gomezt</a></td>
+		<td>Colombia</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
 			<a href="https://github.com/cdmunoz">
 				<img src="https://avatars.githubusercontent.com/u/1638437?s=72&u=050b5c41886b6a1981b964d14ca5b39256405493&v=4" width="24" alt="Avatar of cdmunoz"> cdmunoz
 			</a><br/>
@@ -2276,7 +2289,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/davixcky">
 				<img src="https://avatars.githubusercontent.com/u/34346877?s=72&u=b77da36ccdc3ea5937fae544c25a96a73f4a17df&v=4" width="24" alt="Avatar of davixcky"> davixcky
@@ -2289,7 +2302,20 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
+		<td>
+			<a href="https://github.com/manuelzapata">
+				<img src="https://avatars.githubusercontent.com/u/427391?s=72&u=ddb037a1fdbc56107716638a5fc30fa791decf9e&v=4" width="24" alt="Avatar of manuelzapata"> manuelzapata
+			</a><br/>
+			Manuel Zapata
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/claudiainbytes">
 				<img src="https://avatars.githubusercontent.com/u/2236929?s=72&u=29a210954b5fb055dacff816dcea6d0a621d6d5b&v=4" width="24" alt="Avatar of claudiainbytes"> claudiainbytes
@@ -2302,7 +2328,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/agzsoftsi">
 				<img src="https://avatars.githubusercontent.com/u/7608129?s=72&u=1b0148d4e46d19999d70360014d1a05e4a599f4f&v=4" width="24" alt="Avatar of agzsoftsi"> agzsoftsi
@@ -2315,7 +2341,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/camartinezbu">
 				<img src="https://avatars.githubusercontent.com/u/47795078?s=72&u=8f55492daeb32d2f9484f1bd0e3e3809ed5fb901&v=4" width="24" alt="Avatar of camartinezbu"> camartinezbu
@@ -2328,33 +2354,20 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>172</td>
-		<td>
-			<a href="https://github.com/carogomezt">
-				<img src="https://avatars.githubusercontent.com/u/17128791?s=72&u=ee51c4249ae8d72898f674825af99a965317d5cb&v=4" width="24" alt="Avatar of carogomezt"> carogomezt
-			</a><br/>
-			Carolina Gómez Trejos
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/caro_gomezt">caro_gomezt</a></td>
-		<td>Colombia</td>
-		<td>97</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/manuelzapata">
-				<img src="https://avatars.githubusercontent.com/u/427391?s=72&u=ddb037a1fdbc56107716638a5fc30fa791decf9e&v=4" width="24" alt="Avatar of manuelzapata"> manuelzapata
-			</a><br/>
-			Manuel Zapata
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>97</td>
-	</tr>
-	<tr>
 		<td>174</td>
+		<td>
+			<a href="https://github.com/JoseRZapata">
+				<img src="https://avatars.githubusercontent.com/u/7782210?s=72&u=d324e69ee836f2ab4e7000289c62bcbc55b2de8a&v=4" width="24" alt="Avatar of JoseRZapata"> JoseRZapata
+			</a><br/>
+			Jose R. Zapata
+		</td>
+		<td>Universidad Pontificia Bolivariana </td>
+		<td><a href="https://twitter.com/joserzapata">joserzapata</a></td>
+		<td>Colombia</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/xoThatsmeVeahxo">
 				<img src="https://avatars.githubusercontent.com/u/99369443?s=72&u=2953ddbe4637b18048ac753fec366ec5dff4d8eb&v=4" width="24" alt="Avatar of xoThatsmeVeahxo"> xoThatsmeVeahxo
@@ -2367,7 +2380,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/hguzman">
 				<img src="https://avatars.githubusercontent.com/u/1308210?s=72&u=55d29b427bff29bd5dd861f33f7dcd2f3957836a&v=4" width="24" alt="Avatar of hguzman"> hguzman
@@ -2377,19 +2390,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Carsok S.a.s </td>
 		<td>No Twitter Username</td>
 		<td>Calle 35 # 27 - 145 Barranquilla - Colombia</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
-			<a href="https://github.com/JoseRZapata">
-				<img src="https://avatars.githubusercontent.com/u/7782210?s=72&u=d324e69ee836f2ab4e7000289c62bcbc55b2de8a&v=4" width="24" alt="Avatar of JoseRZapata"> JoseRZapata
-			</a><br/>
-			Jose R. Zapata
-		</td>
-		<td>Universidad Pontificia Bolivariana </td>
-		<td><a href="https://twitter.com/joserzapata">joserzapata</a></td>
-		<td>Colombia</td>
 		<td>95</td>
 	</tr>
 	<tr>
@@ -2733,6 +2733,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>203</td>
 		<td>
+			<a href="https://github.com/EdgarOrtegaRamirez">
+				<img src="https://avatars.githubusercontent.com/u/2790520?s=72&u=07c0aa088185c30a8e42c13a6bf023c7e010dd3e&v=4" width="24" alt="Avatar of EdgarOrtegaRamirez"> EdgarOrtegaRamirez
+			</a><br/>
+			Edgar Ortega
+		</td>
+		<td>@fullstacklabs   </td>
+		<td>No Twitter Username</td>
+		<td>Barranquilla, Colombia</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
 			<a href="https://github.com/Ethodeus">
 				<img src="https://avatars.githubusercontent.com/u/101031188?s=72&u=7d7d6a357fae0d4945a4b6eba304967078dc2030&v=4" width="24" alt="Avatar of Ethodeus"> Ethodeus
 			</a><br/>
@@ -2744,7 +2757,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/kenpulicorre">
 				<img src="https://avatars.githubusercontent.com/u/80223182?s=72&v=4" width="24" alt="Avatar of kenpulicorre"> kenpulicorre
@@ -2757,7 +2770,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/anamariasosam">
 				<img src="https://avatars.githubusercontent.com/u/2703269?s=72&u=6daca2bbce76a92beda93e3f9e8fa9d88958802d&v=4" width="24" alt="Avatar of anamariasosam"> anamariasosam
@@ -2770,7 +2783,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/gomayonqui">
 				<img src="https://avatars.githubusercontent.com/u/1708733?s=72&u=65dae7d3a3dfe5b0c26a1491f9320bb403b591fd&v=4" width="24" alt="Avatar of gomayonqui"> gomayonqui
@@ -2783,7 +2796,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/GeraldineE">
 				<img src="https://avatars.githubusercontent.com/u/17073932?s=72&u=3fcd8283ea22d0be8df4d6f3dce927fb86ad04fe&v=4" width="24" alt="Avatar of GeraldineE"> GeraldineE
@@ -2796,7 +2809,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/EstebanDalelR">
 				<img src="https://avatars.githubusercontent.com/u/11527621?s=72&u=cf40f2fab7cdd9d0aeb88fc18db485abd3ea0a5c&v=4" width="24" alt="Avatar of EstebanDalelR"> EstebanDalelR
@@ -2809,7 +2822,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/ansegura7">
 				<img src="https://avatars.githubusercontent.com/u/36505798?s=72&u=e023f5faf826527b1876c245ed04fb6bd76f41ef&v=4" width="24" alt="Avatar of ansegura7"> ansegura7
@@ -2822,33 +2835,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>210</td>
-		<td>
-			<a href="https://github.com/EdgarOrtegaRamirez">
-				<img src="https://avatars.githubusercontent.com/u/2790520?s=72&u=07c0aa088185c30a8e42c13a6bf023c7e010dd3e&v=4" width="24" alt="Avatar of EdgarOrtegaRamirez"> EdgarOrtegaRamirez
-			</a><br/>
-			Edgar Ortega
-		</td>
-		<td>@fullstacklabs   </td>
-		<td>No Twitter Username</td>
-		<td>Barranquilla, Colombia</td>
-		<td>85</td>
-	</tr>
-	<tr>
 		<td>211</td>
-		<td>
-			<a href="https://github.com/merlinepedra">
-				<img src="https://avatars.githubusercontent.com/u/3269069?s=72&u=a0f019d2a5e10173e74f7883af7e3b43c999afa9&v=4" width="24" alt="Avatar of merlinepedra"> merlinepedra
-			</a><br/>
-			Pedraza A. Henry
-		</td>
-		<td>Merline App´s </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>212</td>
 		<td>
 			<a href="https://github.com/josearangos">
 				<img src="https://avatars.githubusercontent.com/u/13352055?s=72&u=ba3daa9e3d73217a73c2114bc23162f18d7e625b&v=4" width="24" alt="Avatar of josearangos"> josearangos
@@ -2861,7 +2848,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/steff456">
 				<img src="https://avatars.githubusercontent.com/u/20992645?s=72&v=4" width="24" alt="Avatar of steff456"> steff456
@@ -2871,6 +2858,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@quansight </td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/merlinepedra">
+				<img src="https://avatars.githubusercontent.com/u/3269069?s=72&u=a0f019d2a5e10173e74f7883af7e3b43c999afa9&v=4" width="24" alt="Avatar of merlinepedra"> merlinepedra
+			</a><br/>
+			Pedraza A. Henry
+		</td>
+		<td>Merline App´s </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
 		<td>84</td>
 	</tr>
 	<tr>
@@ -3097,6 +3097,32 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>231</td>
 		<td>
+			<a href="https://github.com/sneyderdev">
+				<img src="https://avatars.githubusercontent.com/u/48073625?s=72&u=c4e1d1cf83a6f391e5073e0d3e67c06baaa3fbea&v=4" width="24" alt="Avatar of sneyderdev"> sneyderdev
+			</a><br/>
+			Sneyder Barreto 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sneyderdev">sneyderdev</a></td>
+		<td>Colombia</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a href="https://github.com/ucd-dnp">
+				<img src="https://avatars.githubusercontent.com/u/48596716?s=72&u=f186f98ff60a51ba9fd1e57828ad6fc0288f1a48&v=4" width="24" alt="Avatar of ucd-dnp"> ucd-dnp
+			</a><br/>
+			Unidad de Científicos de Datos
+		</td>
+		<td>Departamento Nacional De Planeación<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
 			<a href="https://github.com/angoca">
 				<img src="https://avatars.githubusercontent.com/u/294317?s=72&v=4" width="24" alt="Avatar of angoca"> angoca
 			</a><br/>
@@ -3108,7 +3134,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/lauralpezb">
 				<img src="https://avatars.githubusercontent.com/u/62390441?s=72&u=325521d90521ecffac68e5c72f15770386243aee&v=4" width="24" alt="Avatar of lauralpezb"> lauralpezb
@@ -3121,7 +3147,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/02KellyV">
 				<img src="https://avatars.githubusercontent.com/u/32434905?s=72&u=d7ff4453a845c1cb7e378c12d3d06d42dbcb30f1&v=4" width="24" alt="Avatar of 02KellyV"> 02KellyV
@@ -3131,32 +3157,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Meltstudio.co </td>
 		<td><a href="https://twitter.com/02KellyV">02KellyV</a></td>
 		<td>Colombia</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>234</td>
-		<td>
-			<a href="https://github.com/sneyderdev">
-				<img src="https://avatars.githubusercontent.com/u/48073625?s=72&u=c4e1d1cf83a6f391e5073e0d3e67c06baaa3fbea&v=4" width="24" alt="Avatar of sneyderdev"> sneyderdev
-			</a><br/>
-			Sneyder Barreto 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sneyderdev">sneyderdev</a></td>
-		<td>Colombia</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/ucd-dnp">
-				<img src="https://avatars.githubusercontent.com/u/48596716?s=72&u=f186f98ff60a51ba9fd1e57828ad6fc0288f1a48&v=4" width="24" alt="Avatar of ucd-dnp"> ucd-dnp
-			</a><br/>
-			Unidad de Científicos de Datos
-		</td>
-		<td>Departamento Nacional De Planeación<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
 		<td>80</td>
 	</tr>
 	<tr>
@@ -4033,19 +4033,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>303</td>
 		<td>
-			<a href="https://github.com/SecHackLabs">
-				<img src="https://avatars.githubusercontent.com/u/22496590?s=72&u=5832256b9d0972bfe31bbf013f49b4a694d8d039&v=4" width="24" alt="Avatar of SecHackLabs"> SecHackLabs
-			</a><br/>
-			Security Hack Labs.
-		</td>
-		<td>Security Hack Labs. </td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia.</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
 			<a href="https://github.com/sampol18">
 				<img src="https://avatars.githubusercontent.com/u/6465807?s=72&u=904ad4fc1f1bd026f88cc22855b2b7535699a185&v=4" width="24" alt="Avatar of sampol18"> sampol18
 			</a><br/>
@@ -4054,6 +4041,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bogotá</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>304</td>
+		<td>
+			<a href="https://github.com/SecHackLabs">
+				<img src="https://avatars.githubusercontent.com/u/22496590?s=72&u=5832256b9d0972bfe31bbf013f49b4a694d8d039&v=4" width="24" alt="Avatar of SecHackLabs"> SecHackLabs
+			</a><br/>
+			Security Hack Labs.
+		</td>
+		<td>Security Hack Labs. </td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia.</td>
 		<td>65</td>
 	</tr>
 	<tr>
@@ -4982,19 +4982,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>376</td>
 		<td>
-			<a href="https://github.com/merlinepedra25">
-				<img src="https://avatars.githubusercontent.com/u/69723528?s=72&u=d095c3604f68796eb601dddab4756bc1964667d3&v=4" width="24" alt="Avatar of merlinepedra25"> merlinepedra25
-			</a><br/>
-			Gaspacho25
-		</td>
-		<td>Merline App´s 2 </td>
-		<td><a href="https://twitter.com/MerlinePedra">MerlinePedra</a></td>
-		<td>Colombia</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>377</td>
-		<td>
 			<a href="https://github.com/juliocesar-io">
 				<img src="https://avatars.githubusercontent.com/u/5655753?s=72&u=76e97553fa30e4b3b8e52768a68b590859acbf0c&v=4" width="24" alt="Avatar of juliocesar-io"> juliocesar-io
 			</a><br/>
@@ -5006,7 +4993,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/pioneras">
 				<img src="https://avatars.githubusercontent.com/u/17603347?s=72&u=f6d75854bb9f55febb9958c4c259a3c145ace9e5&v=4" width="24" alt="Avatar of pioneras"> pioneras
@@ -5019,7 +5006,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/NathaEEUD">
 				<img src="https://avatars.githubusercontent.com/u/31085824?s=72&u=337bab34eee7338a154ca519562fe437c7f692ea&v=4" width="24" alt="Avatar of NathaEEUD"> NathaEEUD
@@ -5032,7 +5019,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/dboterom">
 				<img src="https://avatars.githubusercontent.com/u/74969346?s=72&u=ff6c536dc695a876e20049d1b4a95e190ea61175&v=4" width="24" alt="Avatar of dboterom"> dboterom
@@ -5045,7 +5032,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/omeinsotelo">
 				<img src="https://avatars.githubusercontent.com/u/55119657?s=72&u=c7b82a1d78c8ba36e8821e921c79eb18aeb80a91&v=4" width="24" alt="Avatar of omeinsotelo"> omeinsotelo
@@ -5058,7 +5045,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/MiltonLn">
 				<img src="https://avatars.githubusercontent.com/u/7388681?s=72&u=d415129da7a8abafef464a58ec4c9d33c1ad4652&v=4" width="24" alt="Avatar of MiltonLn"> MiltonLn
@@ -5071,7 +5058,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/eldalo">
 				<img src="https://avatars.githubusercontent.com/u/2158847?s=72&u=fe02305d8fdb1245c743a2eb0b361ae63d86a612&v=4" width="24" alt="Avatar of eldalo"> eldalo
@@ -5084,7 +5071,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/cardotrejos">
 				<img src="https://avatars.githubusercontent.com/u/8602086?s=72&u=1a67f921cce8e3c89bed92f3f51d1299284e2e40&v=4" width="24" alt="Avatar of cardotrejos"> cardotrejos
@@ -5097,7 +5084,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/pandres95">
 				<img src="https://avatars.githubusercontent.com/u/2502577?s=72&v=4" width="24" alt="Avatar of pandres95"> pandres95
@@ -5110,7 +5097,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/Heric-Olier">
 				<img src="https://avatars.githubusercontent.com/u/17723079?s=72&u=368eb55cdd1e409aa7d269967b9bcfde6ba02ecc&v=4" width="24" alt="Avatar of Heric-Olier"> Heric-Olier
@@ -5123,7 +5110,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/EdwinPuertas">
 				<img src="https://avatars.githubusercontent.com/u/1892308?s=72&u=2f6e21b4a137745cb18b924fb0a4594ea21e69c0&v=4" width="24" alt="Avatar of EdwinPuertas"> EdwinPuertas
@@ -5136,7 +5123,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/MitchAguilar">
 				<img src="https://avatars.githubusercontent.com/u/25367106?s=72&u=7df10fe9c55be866000fa8c5bcdd1c65b6fc12dd&v=4" width="24" alt="Avatar of MitchAguilar"> MitchAguilar
@@ -5149,7 +5136,33 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
+		<td>388</td>
+		<td>
+			<a href="https://github.com/johannpereze">
+				<img src="https://avatars.githubusercontent.com/u/84161317?s=72&u=845a05e501814afb7e5809c4c6c9752d6b6b3c84&v=4" width="24" alt="Avatar of johannpereze"> johannpereze
+			</a><br/>
+			Johann Perez E
+		</td>
+		<td>Neostella </td>
+		<td><a href="https://twitter.com/johannpereze">johannpereze</a></td>
+		<td>Medellín. Colombia</td>
+		<td>55</td>
+	</tr>
+	<tr>
 		<td>389</td>
+		<td>
+			<a href="https://github.com/merlinepedra25">
+				<img src="https://avatars.githubusercontent.com/u/69723528?s=72&u=d095c3604f68796eb601dddab4756bc1964667d3&v=4" width="24" alt="Avatar of merlinepedra25"> merlinepedra25
+			</a><br/>
+			Gaspacho25
+		</td>
+		<td>Merline App´s 2 </td>
+		<td><a href="https://twitter.com/MerlinePedra">MerlinePedra</a></td>
+		<td>Colombia</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/julgachancipa">
 				<img src="https://avatars.githubusercontent.com/u/46653809?s=72&u=4e44524a5b798552d41fbe2dee827a9cbf968105&v=4" width="24" alt="Avatar of julgachancipa"> julgachancipa
@@ -5162,7 +5175,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/recantilloSena">
 				<img src="https://avatars.githubusercontent.com/u/48037613?s=72&u=fe4b8f2bfdffffa6f6fd773fdb4dd5f7c52ca998&v=4" width="24" alt="Avatar of recantilloSena"> recantilloSena
@@ -5175,7 +5188,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/Goye">
 				<img src="https://avatars.githubusercontent.com/u/11186639?s=72&u=e8897e62198b2e2ec9598e9eef1de93fa4c89e7b&v=4" width="24" alt="Avatar of Goye"> Goye
@@ -5188,7 +5201,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/miguelnietoa">
 				<img src="https://avatars.githubusercontent.com/u/39246879?s=72&u=dcb8af6fb6bf415fbaa4ba97627bbd665bfbae1e&v=4" width="24" alt="Avatar of miguelnietoa"> miguelnietoa
@@ -5201,7 +5214,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/scastillo">
 				<img src="https://avatars.githubusercontent.com/u/170664?s=72&v=4" width="24" alt="Avatar of scastillo"> scastillo
@@ -5211,19 +5224,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>@baristaventures  </td>
 		<td>No Twitter Username</td>
 		<td>Medellin, Colombia</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/johannpereze">
-				<img src="https://avatars.githubusercontent.com/u/84161317?s=72&u=845a05e501814afb7e5809c4c6c9752d6b6b3c84&v=4" width="24" alt="Avatar of johannpereze"> johannpereze
-			</a><br/>
-			Johann Perez E
-		</td>
-		<td>Neostella </td>
-		<td><a href="https://twitter.com/johannpereze">johannpereze</a></td>
-		<td>Medellín. Colombia</td>
 		<td>54</td>
 	</tr>
 	<tr>
@@ -5424,19 +5424,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>410</td>
 		<td>
-			<a href="https://github.com/jonakls">
-				<img src="https://avatars.githubusercontent.com/u/89610430?s=72&u=3c61980449347506f8c1096190b9123c439cba2e&v=4" width="24" alt="Avatar of jonakls"> jonakls
-			</a><br/>
-			Jonathan Narvaez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Jonakls">Jonakls</a></td>
-		<td>Colombia</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
 			<a href="https://github.com/osnoser1">
 				<img src="https://avatars.githubusercontent.com/u/1179744?s=72&u=5cbbe6b300c69fa2dc000af0830ec929c6905ef9&v=4" width="24" alt="Avatar of osnoser1"> osnoser1
 			</a><br/>
@@ -5448,7 +5435,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/jdrodas">
 				<img src="https://avatars.githubusercontent.com/u/29258977?s=72&u=c6a4218c0e85dfaf917a6081fcecb30c7b7098fb&v=4" width="24" alt="Avatar of jdrodas"> jdrodas
@@ -5461,7 +5448,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/stivenramireza">
 				<img src="https://avatars.githubusercontent.com/u/31974084?s=72&u=dccb13c43af1964a950396c9cd08fbfdd4b8b6a4&v=4" width="24" alt="Avatar of stivenramireza"> stivenramireza
@@ -5471,6 +5458,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Tyba </td>
 		<td><a href="https://twitter.com/stivenramireza">stivenramireza</a></td>
 		<td>Medellín, Antioquia, Colombia</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
+			<a href="https://github.com/jonakls">
+				<img src="https://avatars.githubusercontent.com/u/89610430?s=72&u=3c61980449347506f8c1096190b9123c439cba2e&v=4" width="24" alt="Avatar of jonakls"> jonakls
+			</a><br/>
+			Jonathan Narvaez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Jonakls">Jonakls</a></td>
+		<td>Colombia</td>
 		<td>52</td>
 	</tr>
 	<tr>
@@ -5528,6 +5528,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>418</td>
 		<td>
+			<a href="https://github.com/JoseaSosa24">
+				<img src="https://avatars.githubusercontent.com/u/39164801?s=72&u=aae809f85396594c8d8668c5b2ab5cdf22a09e6a&v=4" width="24" alt="Avatar of JoseaSosa24"> JoseaSosa24
+			</a><br/>
+			JOSÉ SOSA
+		</td>
+		<td>Grupo Uribe </td>
+		<td><a href="https://twitter.com/Joseasosa24">Joseasosa24</a></td>
+		<td>Colombia</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>419</td>
+		<td>
 			<a href="https://github.com/suarezjulian">
 				<img src="https://avatars.githubusercontent.com/u/1881941?s=72&u=247e1143b74843f4204b2196f4a84601c5957141&v=4" width="24" alt="Avatar of suarezjulian"> suarezjulian
 			</a><br/>
@@ -5539,7 +5552,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/aortiz49">
 				<img src="https://avatars.githubusercontent.com/u/3698510?s=72&u=1758aca3e773862fa9eb6897a9da2c2cfbd4a071&v=4" width="24" alt="Avatar of aortiz49"> aortiz49
@@ -5552,7 +5565,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/AlejaEs">
 				<img src="https://avatars.githubusercontent.com/u/87787148?s=72&u=44208e6eb9c09e104249e4c1d906adebaa4fc394&v=4" width="24" alt="Avatar of AlejaEs"> AlejaEs
@@ -5565,7 +5578,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/Kalizaaza">
 				<img src="https://avatars.githubusercontent.com/u/95979711?s=72&u=92a29f401ae7d5a696cf29fa0cf2eefa365cc561&v=4" width="24" alt="Avatar of Kalizaaza"> Kalizaaza
@@ -5578,7 +5591,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/iraidamercedes">
 				<img src="https://avatars.githubusercontent.com/u/43382355?s=72&u=200bf180729f920a8845dbabd86bc70a981a49ee&v=4" width="24" alt="Avatar of iraidamercedes"> iraidamercedes
@@ -5591,7 +5604,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/PerezCode">
 				<img src="https://avatars.githubusercontent.com/u/46828714?s=72&u=9588f2203ea6d6cfcbbbcef9041daa9770651b75&v=4" width="24" alt="Avatar of PerezCode"> PerezCode
@@ -5604,7 +5617,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/nathsotomayor">
 				<img src="https://avatars.githubusercontent.com/u/28455356?s=72&u=12aa2dc8391fb185e8739c5ba58dd38d88b32b7d&v=4" width="24" alt="Avatar of nathsotomayor"> nathsotomayor
@@ -5617,7 +5630,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/jsv1280">
 				<img src="https://avatars.githubusercontent.com/u/30576771?s=72&u=3a40fceace8ce674c460d54837bed75993359d84&v=4" width="24" alt="Avatar of jsv1280"> jsv1280
@@ -5630,7 +5643,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/Cristiandi">
 				<img src="https://avatars.githubusercontent.com/u/23464104?s=72&u=f36668a172bba6735ddaf8ef63f49ee23fb6ed25&v=4" width="24" alt="Avatar of Cristiandi"> Cristiandi
@@ -5643,7 +5656,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/serpulga">
 				<img src="https://avatars.githubusercontent.com/u/2017845?s=72&u=e2cb500485e95a0b609968f65fb8f44e2e2b592c&v=4" width="24" alt="Avatar of serpulga"> serpulga
@@ -5653,19 +5666,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Medellín, Colombia</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>428</td>
-		<td>
-			<a href="https://github.com/JoseaSosa24">
-				<img src="https://avatars.githubusercontent.com/u/39164801?s=72&u=aae809f85396594c8d8668c5b2ab5cdf22a09e6a&v=4" width="24" alt="Avatar of JoseaSosa24"> JoseaSosa24
-			</a><br/>
-			JOSÉ SOSA
-		</td>
-		<td>Grupo Uribe </td>
-		<td><a href="https://twitter.com/Joseasosa24">Joseasosa24</a></td>
-		<td>Colombia</td>
 		<td>50</td>
 	</tr>
 	<tr>
@@ -6750,19 +6750,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>512</td>
 		<td>
-			<a href="https://github.com/Josedn">
-				<img src="https://avatars.githubusercontent.com/u/9516680?s=72&u=4f3bdd8442c3227864d6fd7a40f5666a12e1bd5e&v=4" width="24" alt="Avatar of Josedn"> Josedn
-			</a><br/>
-			José D
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, DC</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>513</td>
-		<td>
 			<a href="https://github.com/elizleon">
 				<img src="https://avatars.githubusercontent.com/u/18167956?s=72&u=ddcbbbd991b447b38e65f82883e4d8168ac27153&v=4" width="24" alt="Avatar of elizleon"> elizleon
 			</a><br/>
@@ -6774,7 +6761,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/nmenag">
 				<img src="https://avatars.githubusercontent.com/u/4958877?s=72&u=1108dfbfabcba5452e6f7bfe4b133935e1e30cd5&v=4" width="24" alt="Avatar of nmenag"> nmenag
@@ -6787,7 +6774,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/m3lissaeg">
 				<img src="https://avatars.githubusercontent.com/u/42422967?s=72&u=4ce7bef0b797404720c34ce2195c6a4f18240571&v=4" width="24" alt="Avatar of m3lissaeg"> m3lissaeg
@@ -6800,7 +6787,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/sebastianfrasic">
 				<img src="https://avatars.githubusercontent.com/u/32890741?s=72&u=155555e72bef1a50444e6d77885c9e270a178430&v=4" width="24" alt="Avatar of sebastianfrasic"> sebastianfrasic
@@ -6813,7 +6800,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/boolpath">
 				<img src="https://avatars.githubusercontent.com/u/3951587?s=72&u=ed5082cc61765e2b54236f79b183af2545f7b7ba&v=4" width="24" alt="Avatar of boolpath"> boolpath
@@ -6826,7 +6813,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/julianfrancor">
 				<img src="https://avatars.githubusercontent.com/u/53787841?s=72&u=f4d466ff5f6e9ffaba3efa44663c58c871e3e60c&v=4" width="24" alt="Avatar of julianfrancor"> julianfrancor
@@ -6836,6 +6823,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Mercado Libre </td>
 		<td><a href="https://twitter.com/JulianFrancoR">JulianFrancoR</a></td>
 		<td>Colombia</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
+			<a href="https://github.com/paulabecerra">
+				<img src="https://avatars.githubusercontent.com/u/25854838?s=72&u=f8f77dfd3075bf509c6778e4839dac702b6f726e&v=4" width="24" alt="Avatar of paulabecerra"> paulabecerra
+			</a><br/>
+			Paula Becerra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, Colombia</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -6893,19 +6893,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>523</td>
 		<td>
-			<a href="https://github.com/cristian2213">
-				<img src="https://avatars.githubusercontent.com/u/55324229?s=72&u=92547e47d9fe22e366f3d9c3c754a0cd09a6e78e&v=4" width="24" alt="Avatar of cristian2213"> cristian2213
-			</a><br/>
-			Cristian Johany
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>524</td>
-		<td>
 			<a href="https://github.com/omazapa">
 				<img src="https://avatars.githubusercontent.com/u/275148?s=72&u=0916a7b08af34109bba755ef220c3c4d8dde62b1&v=4" width="24" alt="Avatar of omazapa"> omazapa
 			</a><br/>
@@ -6917,7 +6904,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/WilliamCadenas21">
 				<img src="https://avatars.githubusercontent.com/u/20405614?s=72&u=a35523203f154e3370560edd68c3f58fb499d837&v=4" width="24" alt="Avatar of WilliamCadenas21"> WilliamCadenas21
@@ -6930,7 +6917,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/John-Arboleda">
 				<img src="https://avatars.githubusercontent.com/u/70373050?s=72&u=55b960d82fd8954b5cbd5e4337823cef531f57bb&v=4" width="24" alt="Avatar of John-Arboleda"> John-Arboleda
@@ -6940,6 +6927,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/John_J_Arboleda">John_J_Arboleda</a></td>
 		<td>Cali, Colombia</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>526</td>
+		<td>
+			<a href="https://github.com/Josedn">
+				<img src="https://avatars.githubusercontent.com/u/9516680?s=72&u=4f3bdd8442c3227864d6fd7a40f5666a12e1bd5e&v=4" width="24" alt="Avatar of Josedn"> Josedn
+			</a><br/>
+			José D
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bogotá, DC</td>
 		<td>43</td>
 	</tr>
 	<tr>
@@ -7114,19 +7114,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>540</td>
 		<td>
-			<a href="https://github.com/paulabecerra">
-				<img src="https://avatars.githubusercontent.com/u/25854838?s=72&u=f8f77dfd3075bf509c6778e4839dac702b6f726e&v=4" width="24" alt="Avatar of paulabecerra"> paulabecerra
-			</a><br/>
-			Paula Becerra
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bogotá, Colombia</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>541</td>
-		<td>
 			<a href="https://github.com/gogomillan">
 				<img src="https://avatars.githubusercontent.com/u/33853170?s=72&u=d6ee5a643ffff56e0c24e0547f10063052d2b146&v=4" width="24" alt="Avatar of gogomillan"> gogomillan
 			</a><br/>
@@ -7138,7 +7125,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/sebas095">
 				<img src="https://avatars.githubusercontent.com/u/8863503?s=72&u=1846215df45e295a7dd57bf095aed77d2703b385&v=4" width="24" alt="Avatar of sebas095"> sebas095
@@ -7151,7 +7138,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/Rafaell416">
 				<img src="https://avatars.githubusercontent.com/u/18080929?s=72&u=7b5e16989e13028c6af2c05d1a6adcc4dd05a662&v=4" width="24" alt="Avatar of Rafaell416"> Rafaell416
@@ -7164,7 +7151,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/anfepar">
 				<img src="https://avatars.githubusercontent.com/u/22940371?s=72&u=f9353845a0278f6a0c2002d1560b6f3cf3bdc5ca&v=4" width="24" alt="Avatar of anfepar"> anfepar
@@ -7174,6 +7161,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/aanfepar">aanfepar</a></td>
 		<td>Bogota, Colombia</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>544</td>
+		<td>
+			<a href="https://github.com/cristian2213">
+				<img src="https://avatars.githubusercontent.com/u/55324229?s=72&u=92547e47d9fe22e366f3d9c3c754a0cd09a6e78e&v=4" width="24" alt="Avatar of cristian2213"> cristian2213
+			</a><br/>
+			Cristian Johany
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
 		<td>42</td>
 	</tr>
 	<tr>
@@ -7491,6 +7491,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>569</td>
 		<td>
+			<a href="https://github.com/EmmanuelSGiraldo">
+				<img src="https://avatars.githubusercontent.com/u/115299104?s=72&u=cb38f38975c05b54b336a35258775fda9170ffe7&v=4" width="24" alt="Avatar of EmmanuelSGiraldo"> EmmanuelSGiraldo
+			</a><br/>
+			Emmanuel  Giraldo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellin - Colombia</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>
 			<a href="https://github.com/carboleda">
 				<img src="https://avatars.githubusercontent.com/u/4198484?s=72&u=ca892ae8c35b45d26a136b23c8d47ba5f404ad31&v=4" width="24" alt="Avatar of carboleda"> carboleda
 			</a><br/>
@@ -7502,7 +7515,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/pachocamacho1990">
 				<img src="https://avatars.githubusercontent.com/u/32247848?s=72&u=58a934f507899aa1d1e999acc31a24085ba9778c&v=4" width="24" alt="Avatar of pachocamacho1990"> pachocamacho1990
@@ -7515,7 +7528,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/codedesignplus">
 				<img src="https://avatars.githubusercontent.com/u/73084334?s=72&u=4c1ff28acc64b8a48e5ba0748300bffbde9bc52a&v=4" width="24" alt="Avatar of codedesignplus"> codedesignplus
@@ -7528,7 +7541,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/YilverMolina">
 				<img src="https://avatars.githubusercontent.com/u/6888715?s=72&u=63bc26fc21ad578178c25b9953e431489a71d598&v=4" width="24" alt="Avatar of YilverMolina"> YilverMolina
@@ -7541,7 +7554,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/rodrigo-arenas">
 				<img src="https://avatars.githubusercontent.com/u/31422766?s=72&u=feb49d9957f1f313f71f9f41053b53c43175e26b&v=4" width="24" alt="Avatar of rodrigo-arenas"> rodrigo-arenas
@@ -7554,7 +7567,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/dwn84">
 				<img src="https://avatars.githubusercontent.com/u/50523550?s=72&v=4" width="24" alt="Avatar of dwn84"> dwn84
@@ -7567,7 +7580,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/jcalvarezj">
 				<img src="https://avatars.githubusercontent.com/u/30153921?s=72&u=6bb9de72559042ad350bf42803a80c583efe2a28&v=4" width="24" alt="Avatar of jcalvarezj"> jcalvarezj
@@ -7580,7 +7593,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/davrivas">
 				<img src="https://avatars.githubusercontent.com/u/15196755?s=72&u=65c09c2b2d6d161349abfe66b6dfbfc8e015fb77&v=4" width="24" alt="Avatar of davrivas"> davrivas
@@ -7593,7 +7606,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/kr1shn4murt1">
 				<img src="https://avatars.githubusercontent.com/u/3812619?s=72&v=4" width="24" alt="Avatar of kr1shn4murt1"> kr1shn4murt1
@@ -7606,7 +7619,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/carlosz22">
 				<img src="https://avatars.githubusercontent.com/u/6605256?s=72&u=fb30dd7d8f9078e95a24e676830df1fd8b0129b0&v=4" width="24" alt="Avatar of carlosz22"> carlosz22
@@ -7619,7 +7632,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/cesardiaz-dev">
 				<img src="https://avatars.githubusercontent.com/u/17106669?s=72&u=869288df364739467173ffd1ceeaea6b8cfed050&v=4" width="24" alt="Avatar of cesardiaz-dev"> cesardiaz-dev
@@ -7632,7 +7645,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/johncerpa">
 				<img src="https://avatars.githubusercontent.com/u/19353444?s=72&u=5f024a1605755027f3fbf45e60bfecded1cc5ea4&v=4" width="24" alt="Avatar of johncerpa"> johncerpa
@@ -7645,7 +7658,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/MiguelMque">
 				<img src="https://avatars.githubusercontent.com/u/41609302?s=72&u=8ff3d23d892ce8dadcea55f9855a93f5c0591460&v=4" width="24" alt="Avatar of MiguelMque"> MiguelMque
@@ -7658,7 +7671,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/LauraPeraltaV85">
 				<img src="https://avatars.githubusercontent.com/u/50342425?s=72&u=53828a2b19ab63ae2932ba7a12257e8a58b06d2b&v=4" width="24" alt="Avatar of LauraPeraltaV85"> LauraPeraltaV85
@@ -7671,7 +7684,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/Doniben">
 				<img src="https://avatars.githubusercontent.com/u/51678086?s=72&u=970a962f778f718618561c6d4de44ace86b2e2e7&v=4" width="24" alt="Avatar of Doniben"> Doniben
@@ -7684,7 +7697,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/LeoRincon">
 				<img src="https://avatars.githubusercontent.com/u/75432596?s=72&u=8ce159ecd15669ee261d76c54b69c5d52dd2227a&v=4" width="24" alt="Avatar of LeoRincon"> LeoRincon
@@ -7697,7 +7710,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/Camilovelag">
 				<img src="https://avatars.githubusercontent.com/u/106117541?s=72&u=22d7adc111c9ed001681789f54dba1842216e4b4&v=4" width="24" alt="Avatar of Camilovelag"> Camilovelag
@@ -7710,7 +7723,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/mkiroshdz">
 				<img src="https://avatars.githubusercontent.com/u/83149016?s=72&u=de92885f405bd5618ca75d661a9305ca91682ca8&v=4" width="24" alt="Avatar of mkiroshdz"> mkiroshdz
@@ -7723,7 +7736,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/MontoyaAndres">
 				<img src="https://avatars.githubusercontent.com/u/15065852?s=72&u=32fea25f1574a3485db31699e0a47c5467a89f53&v=4" width="24" alt="Avatar of MontoyaAndres"> MontoyaAndres
@@ -7736,7 +7749,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/dacorredor11">
 				<img src="https://avatars.githubusercontent.com/u/37881424?s=72&u=ef350eb65ca065ea53b1e90c45bb64a9a31a4531&v=4" width="24" alt="Avatar of dacorredor11"> dacorredor11
@@ -7746,19 +7759,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Laika </td>
 		<td><a href="https://twitter.com/dacorredor11">dacorredor11</a></td>
 		<td>Colombia</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>589</td>
-		<td>
-			<a href="https://github.com/EmmanuelSGiraldo">
-				<img src="https://avatars.githubusercontent.com/u/115299104?s=72&u=cb38f38975c05b54b336a35258775fda9170ffe7&v=4" width="24" alt="Avatar of EmmanuelSGiraldo"> EmmanuelSGiraldo
-			</a><br/>
-			Emmanuel  Giraldo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellin - Colombia</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -8219,19 +8219,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>625</td>
 		<td>
-			<a href="https://github.com/Yenniferh">
-				<img src="https://avatars.githubusercontent.com/u/19285706?s=72&u=3abc78a1f596f219363b33253ffe7e2d70d95736&v=4" width="24" alt="Avatar of Yenniferh"> Yenniferh
-			</a><br/>
-			Yennifer Herrera
-		</td>
-		<td>Universidad Del Norte </td>
-		<td><a href="https://twitter.com/yenniferha">yenniferha</a></td>
-		<td>Barranquilla, Colombia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>626</td>
-		<td>
 			<a href="https://github.com/Maikpwwq">
 				<img src="https://avatars.githubusercontent.com/u/34326347?s=72&u=3db4b0e3e77a45ac6e327a302b0e45a7cd657f56&v=4" width="24" alt="Avatar of Maikpwwq"> Maikpwwq
 			</a><br/>
@@ -8240,6 +8227,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Comunidad Dezzpo Inc. </td>
 		<td><a href="https://twitter.com/nkiqi_">nkiqi_</a></td>
 		<td>Colombia, Bogotá</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/Yenniferh">
+				<img src="https://avatars.githubusercontent.com/u/19285706?s=72&u=3abc78a1f596f219363b33253ffe7e2d70d95736&v=4" width="24" alt="Avatar of Yenniferh"> Yenniferh
+			</a><br/>
+			Yennifer Herrera
+		</td>
+		<td>Universidad Del Norte </td>
+		<td><a href="https://twitter.com/yenniferha">yenniferha</a></td>
+		<td>Barranquilla, Colombia</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -8674,19 +8674,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>660</td>
 		<td>
-			<a href="https://github.com/FeliPrado31">
-				<img src="https://avatars.githubusercontent.com/u/55117998?s=72&u=c960598d56bd279d5451e8880231e13e36839552&v=4" width="24" alt="Avatar of FeliPrado31"> FeliPrado31
-			</a><br/>
-			Feli
-		</td>
-		<td>Mercadolibre </td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>661</td>
-		<td>
 			<a href="https://github.com/hmanzur">
 				<img src="https://avatars.githubusercontent.com/u/17788438?s=72&u=2bb682a7cf5ae01c8840291f2586eb795c98309d&v=4" width="24" alt="Avatar of hmanzur"> hmanzur
 			</a><br/>
@@ -8695,6 +8682,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/habibmanzur">habibmanzur</a></td>
 		<td>La Ceja, Antioquia - Colombia</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
+			<a href="https://github.com/FeliPrado31">
+				<img src="https://avatars.githubusercontent.com/u/55117998?s=72&u=c960598d56bd279d5451e8880231e13e36839552&v=4" width="24" alt="Avatar of FeliPrado31"> FeliPrado31
+			</a><br/>
+			Feli
+		</td>
+		<td>Mercadolibre </td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -8882,19 +8882,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>676</td>
 		<td>
-			<a href="https://github.com/wwwdrt">
-				<img src="https://avatars.githubusercontent.com/u/100488248?s=72&u=d16847b10b73666d53782ee84a32e6e5cc267d6b&v=4" width="24" alt="Avatar of wwwdrt"> wwwdrt
-			</a><br/>
-			Juan
-		</td>
-		<td>Microverse </td>
-		<td>No Twitter Username</td>
-		<td>Portugal/Colombia</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>677</td>
-		<td>
 			<a href="https://github.com/jachinte">
 				<img src="https://avatars.githubusercontent.com/u/1284036?s=72&u=7153fbb1162da9c9113088d8f3ac79abb90bb9f9&v=4" width="24" alt="Avatar of jachinte"> jachinte
 			</a><br/>
@@ -8903,6 +8890,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>677</td>
+		<td>
+			<a href="https://github.com/wwwdrt">
+				<img src="https://avatars.githubusercontent.com/u/100488248?s=72&u=d16847b10b73666d53782ee84a32e6e5cc267d6b&v=4" width="24" alt="Avatar of wwwdrt"> wwwdrt
+			</a><br/>
+			Juan
+		</td>
+		<td>Microverse </td>
+		<td>No Twitter Username</td>
+		<td>Portugal/Colombia</td>
 		<td>36</td>
 	</tr>
 	<tr>
@@ -9623,6 +9623,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>733</td>
 		<td>
+			<a href="https://github.com/dkb4rb">
+				<img src="https://avatars.githubusercontent.com/u/84897255?s=72&u=0ada8b9a6f74b98d5d4e6cf1b591240e15544707&v=4" width="24" alt="Avatar of dkb4rb"> dkb4rb
+			</a><br/>
+			Juan Duque
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Juan_Duque0">Juan_Duque0</a></td>
+		<td>Medellin, Colombia</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>734</td>
+		<td>
 			<a href="https://github.com/jodatm">
 				<img src="https://avatars.githubusercontent.com/u/1753545?s=72&u=d914100e61be0aded6eae2c42239eac52a7a13d6&v=4" width="24" alt="Avatar of jodatm"> jodatm
 			</a><br/>
@@ -9634,7 +9647,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/Replayattack">
 				<img src="https://avatars.githubusercontent.com/u/6188052?s=72&u=61c83d5c855b4409f66795a9ff3b6b61e7e70e04&v=4" width="24" alt="Avatar of Replayattack"> Replayattack
@@ -9647,7 +9660,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/serandvaraco">
 				<img src="https://avatars.githubusercontent.com/u/11339802?s=72&u=50738723d4cae85fd634387b89c1d03d07dfb513&v=4" width="24" alt="Avatar of serandvaraco"> serandvaraco
@@ -9660,7 +9673,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/wvega">
 				<img src="https://avatars.githubusercontent.com/u/45068?s=72&u=7311dd0eb0a61df11791577f8cb75dfc887ddb89&v=4" width="24" alt="Avatar of wvega"> wvega
@@ -9673,7 +9686,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/juanmarcosdev">
 				<img src="https://avatars.githubusercontent.com/u/46875325?s=72&u=a986f47b2f1939479bd6257fbb6615ce7d81e8c1&v=4" width="24" alt="Avatar of juanmarcosdev"> juanmarcosdev
@@ -9686,7 +9699,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/soybackend">
 				<img src="https://avatars.githubusercontent.com/u/1813740?s=72&u=b13222403579e73a07f5a344f392beb1ac3fb1ab&v=4" width="24" alt="Avatar of soybackend"> soybackend
@@ -9699,7 +9712,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/juansolution">
 				<img src="https://avatars.githubusercontent.com/u/5980101?s=72&u=0f776aee7381b5628ec1a0e39df45e3067b1993e&v=4" width="24" alt="Avatar of juansolution"> juansolution
@@ -9712,7 +9725,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/luis1415">
 				<img src="https://avatars.githubusercontent.com/u/16037872?s=72&u=970cbd1b9da38c34f508e646342715207ebdf17f&v=4" width="24" alt="Avatar of luis1415"> luis1415
@@ -9725,7 +9738,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/ALandazabal">
 				<img src="https://avatars.githubusercontent.com/u/21182273?s=72&u=eeaf8c06430122bcbee35ec9a9e83c2a392b2948&v=4" width="24" alt="Avatar of ALandazabal"> ALandazabal
@@ -9738,7 +9751,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/andreshg112">
 				<img src="https://avatars.githubusercontent.com/u/15859884?s=72&u=65388eeeea3c5d14556d1350eaad249466b2d0ae&v=4" width="24" alt="Avatar of andreshg112"> andreshg112
@@ -9751,7 +9764,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/pabril">
 				<img src="https://avatars.githubusercontent.com/u/1873613?s=72&v=4" width="24" alt="Avatar of pabril"> pabril
@@ -9764,7 +9777,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/mfcrespo">
 				<img src="https://avatars.githubusercontent.com/u/59972435?s=72&u=53319e44926d67257bca4e0fa866f96fdbf42dd0&v=4" width="24" alt="Avatar of mfcrespo"> mfcrespo
@@ -9777,7 +9790,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/YeisonVargas">
 				<img src="https://avatars.githubusercontent.com/u/4339931?s=72&u=812ba261a0f031e21ead0ae68b7a4501d70e15c0&v=4" width="24" alt="Avatar of YeisonVargas"> YeisonVargas
@@ -9790,7 +9803,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/charlyhackr">
 				<img src="https://avatars.githubusercontent.com/u/51678816?s=72&u=e8d98a2a0e8c3470735d6dbbbda2a6a02b5cda03&v=4" width="24" alt="Avatar of charlyhackr"> charlyhackr
@@ -9803,7 +9816,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/thomasviana">
 				<img src="https://avatars.githubusercontent.com/u/85323846?s=72&u=b3c32150543f7bb1e59b3e9959c460d3be7f3b82&v=4" width="24" alt="Avatar of thomasviana"> thomasviana
@@ -9816,7 +9829,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/ad9311">
 				<img src="https://avatars.githubusercontent.com/u/38721698?s=72&u=55f027105525b08dabc91c644bcb9b64287c58f1&v=4" width="24" alt="Avatar of ad9311"> ad9311
@@ -9829,7 +9842,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/asenac">
 				<img src="https://avatars.githubusercontent.com/u/1282736?s=72&v=4" width="24" alt="Avatar of asenac"> asenac
@@ -9842,7 +9855,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/achaverrar">
 				<img src="https://avatars.githubusercontent.com/u/99678501?s=72&u=7dab3aa3d31edb22bd77381150a08e368a2caaed&v=4" width="24" alt="Avatar of achaverrar"> achaverrar
@@ -9855,7 +9868,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/andgarzonmal">
 				<img src="https://avatars.githubusercontent.com/u/95243996?s=72&u=9aa4d666db326df93d8e65b3caf8cd1fd55c2151&v=4" width="24" alt="Avatar of andgarzonmal"> andgarzonmal
@@ -9868,7 +9881,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/mpratt">
 				<img src="https://avatars.githubusercontent.com/u/647713?s=72&u=779d22067703d1e7641f05f877086b3ab3a036c5&v=4" width="24" alt="Avatar of mpratt"> mpratt
@@ -9881,7 +9894,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/andresayac">
 				<img src="https://avatars.githubusercontent.com/u/16548795?s=72&v=4" width="24" alt="Avatar of andresayac"> andresayac
@@ -9894,7 +9907,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/AndresMorelos">
 				<img src="https://avatars.githubusercontent.com/u/6563162?s=72&u=01acb708266a3835dda2453ce6571bb6ad1c5caf&v=4" width="24" alt="Avatar of AndresMorelos"> AndresMorelos
@@ -9907,7 +9920,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/DanielSuarezDev">
 				<img src="https://avatars.githubusercontent.com/u/65202664?s=72&u=58c8745ef1bb32975c687a2688666c1926dcc80a&v=4" width="24" alt="Avatar of DanielSuarezDev"> DanielSuarezDev
@@ -9920,7 +9933,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/johnny4young">
 				<img src="https://avatars.githubusercontent.com/u/112983?s=72&u=dd4c282670a454754fe2679620dcd493cc124c07&v=4" width="24" alt="Avatar of johnny4young"> johnny4young
@@ -9933,7 +9946,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/johnsi15">
 				<img src="https://avatars.githubusercontent.com/u/2974447?s=72&u=57a025a743d8e43a109fa9a73bdc535507dc183f&v=4" width="24" alt="Avatar of johnsi15"> johnsi15
@@ -9946,7 +9959,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/LorraineGelis">
 				<img src="https://avatars.githubusercontent.com/u/83847789?s=72&u=95650f029de0d7a0057322ef4622c169f2f7e7e9&v=4" width="24" alt="Avatar of LorraineGelis"> LorraineGelis
@@ -9959,7 +9972,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/anmarphy">
 				<img src="https://avatars.githubusercontent.com/u/13108061?s=72&u=2c9d4110a38955a8070ef418c2cb720d6fa478d3&v=4" width="24" alt="Avatar of anmarphy"> anmarphy
@@ -9972,7 +9985,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/sepulveda272">
 				<img src="https://avatars.githubusercontent.com/u/125301761?s=72&u=774bb154aa2f1f15bf3a16b7d69a06b72e4e7ca5&v=4" width="24" alt="Avatar of sepulveda272"> sepulveda272
@@ -9985,7 +9998,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/Jhooomn">
 				<img src="https://avatars.githubusercontent.com/u/32346414?s=72&u=bcf0a8d038d5641c0888b000a2a6a4b8a09d8161&v=4" width="24" alt="Avatar of Jhooomn"> Jhooomn
@@ -9998,7 +10011,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/rkmax">
 				<img src="https://avatars.githubusercontent.com/u/395707?s=72&u=3d736d382ee07b7721d02b51cf62166cbcdd42af&v=4" width="24" alt="Avatar of rkmax"> rkmax
@@ -10011,7 +10024,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/64lines">
 				<img src="https://avatars.githubusercontent.com/u/698147?s=72&u=992534f7c607ae4bc48ae3f37cbd0e6b89b9c4cf&v=4" width="24" alt="Avatar of 64lines"> 64lines
@@ -10024,7 +10037,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/PaoloTorregroza">
 				<img src="https://avatars.githubusercontent.com/u/29853181?s=72&u=9bcb5e09bf3d412c92a326bf721aec1a6dfd2b13&v=4" width="24" alt="Avatar of PaoloTorregroza"> PaoloTorregroza
@@ -10034,19 +10047,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Go Digital </td>
 		<td><a href="https://twitter.com/TorregrozaPaolo">TorregrozaPaolo</a></td>
 		<td>Colombia</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>765</td>
-		<td>
-			<a href="https://github.com/dkb4rb">
-				<img src="https://avatars.githubusercontent.com/u/84897255?s=72&u=0ada8b9a6f74b98d5d4e6cf1b591240e15544707&v=4" width="24" alt="Avatar of dkb4rb"> dkb4rb
-			</a><br/>
-			Juan Duque
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Juan_Duque0">Juan_Duque0</a></td>
-		<td>Medellin, Colombia</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -11443,6 +11443,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>873</td>
 		<td>
+			<a href="https://github.com/marcovega">
+				<img src="https://avatars.githubusercontent.com/u/1530214?s=72&u=726a511fe95762ff774f565be23f6354ad11a444&v=4" width="24" alt="Avatar of marcovega"> marcovega
+			</a><br/>
+			Marco Vega
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Monteria, Colombia</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>874</td>
+		<td>
 			<a href="https://github.com/scyth3-c">
 				<img src="https://avatars.githubusercontent.com/u/52190352?s=72&u=aeedebc11d0afb833033150ecb643adf3a139917&v=4" width="24" alt="Avatar of scyth3-c"> scyth3-c
 			</a><br/>
@@ -11454,7 +11467,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/ncardozo">
 				<img src="https://avatars.githubusercontent.com/u/1417846?s=72&u=ddd6a94241a480361992eda329c634fc250e9cda&v=4" width="24" alt="Avatar of ncardozo"> ncardozo
@@ -11467,7 +11480,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/Lulzphantom">
 				<img src="https://avatars.githubusercontent.com/u/9116183?s=72&u=3afba158d2d35f840285dd60d961425f9581ffa5&v=4" width="24" alt="Avatar of Lulzphantom"> Lulzphantom
@@ -11480,7 +11493,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/yjmantilla">
 				<img src="https://avatars.githubusercontent.com/u/36543115?s=72&u=277e8afaf01fdf4552a9daff95c4b6d96101dd3e&v=4" width="24" alt="Avatar of yjmantilla"> yjmantilla
@@ -11493,7 +11506,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/camy2015">
 				<img src="https://avatars.githubusercontent.com/u/125774547?s=72&u=55d37f91f444c58a2052e516e821733a19f7c470&v=4" width="24" alt="Avatar of camy2015"> camy2015
@@ -11506,7 +11519,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/JuniorPacheco">
 				<img src="https://avatars.githubusercontent.com/u/92345860?s=72&u=c628d2c0bb44d274d34c0071ba9c53b6b5014389&v=4" width="24" alt="Avatar of JuniorPacheco"> JuniorPacheco
@@ -11519,7 +11532,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/tmchein">
 				<img src="https://avatars.githubusercontent.com/u/30534965?s=72&u=ebca8d1019c103b47518ea706a936cb7adecdb48&v=4" width="24" alt="Avatar of tmchein"> tmchein
@@ -11528,19 +11541,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tmchein">tmchein</a></td>
-		<td>Colombia</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>880</td>
-		<td>
-			<a href="https://github.com/patternina">
-				<img src="https://avatars.githubusercontent.com/u/49292621?s=72&u=f9af1d74c063ae60bc5d70f43ba5dd2910788a40&v=4" width="24" alt="Avatar of patternina"> patternina
-			</a><br/>
-			Mauro Paternina
-		</td>
-		<td>Luoda Studio </td>
-		<td><a href="https://twitter.com/patternina_">patternina_</a></td>
 		<td>Colombia</td>
 		<td>30</td>
 	</tr>
@@ -11807,6 +11807,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>901</td>
 		<td>
+			<a href="https://github.com/gustabot42">
+				<img src="https://avatars.githubusercontent.com/u/133016?s=72&v=4" width="24" alt="Avatar of gustabot42"> gustabot42
+			</a><br/>
+			Gustavo Díaz Jaimes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>902</td>
+		<td>
 			<a href="https://github.com/moflo">
 				<img src="https://avatars.githubusercontent.com/u/601550?s=72&v=4" width="24" alt="Avatar of moflo"> moflo
 			</a><br/>
@@ -11818,7 +11831,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/jshc27">
 				<img src="https://avatars.githubusercontent.com/u/56690309?s=72&u=cdffc3cc35d8bd40a39a0773fceb5f392e34379d&v=4" width="24" alt="Avatar of jshc27"> jshc27
@@ -11831,7 +11844,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/anamaria1299">
 				<img src="https://avatars.githubusercontent.com/u/28827004?s=72&u=39366d1d58ae8b686cc25a5e4a5542305df0e9b6&v=4" width="24" alt="Avatar of anamaria1299"> anamaria1299
@@ -11844,7 +11857,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/Viiic98">
 				<img src="https://avatars.githubusercontent.com/u/55113853?s=72&u=63a26a5f73861ad5e7a7434b04182c1a4971af1a&v=4" width="24" alt="Avatar of Viiic98"> Viiic98
@@ -11857,7 +11870,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/pwalvarado">
 				<img src="https://avatars.githubusercontent.com/u/5042471?s=72&u=1c3ef78fb1ad354c64e422fbc4da20fd4add9138&v=4" width="24" alt="Avatar of pwalvarado"> pwalvarado
@@ -11870,7 +11883,20 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
+		<td>
+			<a href="https://github.com/D4v1d98Ru1z">
+				<img src="https://avatars.githubusercontent.com/u/21083108?s=72&u=62923423009a20a3cd453de7bf6bdce148e64633&v=4" width="24" alt="Avatar of D4v1d98Ru1z"> D4v1d98Ru1z
+			</a><br/>
+			David Ruiz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/johnciclus">
 				<img src="https://avatars.githubusercontent.com/u/1017098?s=72&u=47a71643fe6c4e9b29f9481c91b326f10241ef0b&v=4" width="24" alt="Avatar of johnciclus"> johnciclus
@@ -11883,7 +11909,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/edanfesi">
 				<img src="https://avatars.githubusercontent.com/u/40343753?s=72&u=899ec2d185ea310bb45939d43708f85c44c6abb1&v=4" width="24" alt="Avatar of edanfesi"> edanfesi
@@ -11896,7 +11922,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/AugustoAleGon">
 				<img src="https://avatars.githubusercontent.com/u/14319083?s=72&u=8184e1032dfc98164fcbeb1e5963429ef0c7f34e&v=4" width="24" alt="Avatar of AugustoAleGon"> AugustoAleGon
@@ -11909,7 +11935,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/clasesucatmarlon">
 				<img src="https://avatars.githubusercontent.com/u/60376045?s=72&u=e0a843e701d1d571676809481bd966ec74f5660c&v=4" width="24" alt="Avatar of clasesucatmarlon"> clasesucatmarlon
@@ -11922,7 +11948,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/wffranco">
 				<img src="https://avatars.githubusercontent.com/u/1977287?s=72&u=2dbdb92e0eea78664be768de814f417678150d0a&v=4" width="24" alt="Avatar of wffranco"> wffranco
@@ -11935,7 +11961,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/marlonlom">
 				<img src="https://avatars.githubusercontent.com/u/1868030?s=72&u=0c9165e5d63a94b9b0176acaab0d69ff31a5ef16&v=4" width="24" alt="Avatar of marlonlom"> marlonlom
@@ -11948,7 +11974,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/sebGilR">
 				<img src="https://avatars.githubusercontent.com/u/22876789?s=72&u=d240a9e68f4778489def1b9e99bc52e659a80e4d&v=4" width="24" alt="Avatar of sebGilR"> sebGilR
@@ -11961,7 +11987,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/jfernandez141">
 				<img src="https://avatars.githubusercontent.com/u/93213376?s=72&u=f9a042befe092c3701a43025c04dc44c6a8ca328&v=4" width="24" alt="Avatar of jfernandez141"> jfernandez141
@@ -11974,7 +12000,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/julianarchila">
 				<img src="https://avatars.githubusercontent.com/u/71467080?s=72&v=4" width="24" alt="Avatar of julianarchila"> julianarchila
@@ -11987,7 +12013,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/smunozmo">
 				<img src="https://avatars.githubusercontent.com/u/83717285?s=72&u=6fc5ce373b1a19342aa47762d56787304708c91e&v=4" width="24" alt="Avatar of smunozmo"> smunozmo
@@ -12000,7 +12026,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/Johndev85">
 				<img src="https://avatars.githubusercontent.com/u/53975214?s=72&u=56715035c162b90b7bee0f182fbcbadbef125d9c&v=4" width="24" alt="Avatar of Johndev85"> Johndev85
@@ -12013,7 +12039,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/jsuarez314">
 				<img src="https://avatars.githubusercontent.com/u/3946766?s=72&u=499e4b8dc072179584597b0c6e972c1f2701d7ee&v=4" width="24" alt="Avatar of jsuarez314"> jsuarez314
@@ -12026,7 +12052,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/S8Vega">
 				<img src="https://avatars.githubusercontent.com/u/32554701?s=72&u=ba9b2c3934ef3630f2755b187bc93e14cfb9008c&v=4" width="24" alt="Avatar of S8Vega"> S8Vega
@@ -12039,7 +12065,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/Karu-Cortes">
 				<img src="https://avatars.githubusercontent.com/u/83708727?s=72&u=ee564971bebe393166213e5950721af860671dca&v=4" width="24" alt="Avatar of Karu-Cortes"> Karu-Cortes
@@ -12052,7 +12078,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/andreslopezferro">
 				<img src="https://avatars.githubusercontent.com/u/1843417?s=72&u=6d70af70546c049f19d0344821ea551ee9fb5414&v=4" width="24" alt="Avatar of andreslopezferro"> andreslopezferro
@@ -12065,7 +12091,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/stormtrooper96">
 				<img src="https://avatars.githubusercontent.com/u/19985277?s=72&u=242abd14a84c4b6c8f310baebb8979e35df38a8e&v=4" width="24" alt="Avatar of stormtrooper96"> stormtrooper96
@@ -12078,7 +12104,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/mafer23">
 				<img src="https://avatars.githubusercontent.com/u/39041288?s=72&u=f33ddc799e96382046f5a6dcac799cdc7640e25e&v=4" width="24" alt="Avatar of mafer23"> mafer23
@@ -12091,20 +12117,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>923</td>
-		<td>
-			<a href="https://github.com/egp1020">
-				<img src="https://avatars.githubusercontent.com/u/47468501?s=72&u=28cdeac5bc31890e9e4b5743acfb9f278bd309e9&v=4" width="24" alt="Avatar of egp1020"> egp1020
-			</a><br/>
-			Estefanía Garcés Pérez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Medellín, Colombia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/KamyNz">
 				<img src="https://avatars.githubusercontent.com/u/8195438?s=72&u=5338dce75bd3c6f7dfb76efb08ef5bb64f00326f&v=4" width="24" alt="Avatar of KamyNz"> KamyNz
@@ -12117,7 +12130,20 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
+		<td>
+			<a href="https://github.com/egp1020">
+				<img src="https://avatars.githubusercontent.com/u/47468501?s=72&u=28cdeac5bc31890e9e4b5743acfb9f278bd309e9&v=4" width="24" alt="Avatar of egp1020"> egp1020
+			</a><br/>
+			Estefanía Garcés Pérez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Medellín, Colombia</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/Zonitidus">
 				<img src="https://avatars.githubusercontent.com/u/47929806?s=72&u=fc47dfaac81dea99d9167c870a8abe7f5eca2106&v=4" width="24" alt="Avatar of Zonitidus"> Zonitidus
@@ -12130,7 +12156,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/avanegasp">
 				<img src="https://avatars.githubusercontent.com/u/7864798?s=72&u=74b94ad7c746488e9cf905d9b3ca81c544f86fdd&v=4" width="24" alt="Avatar of avanegasp"> avanegasp
@@ -12143,7 +12169,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/wfpaisa">
 				<img src="https://avatars.githubusercontent.com/u/1735752?s=72&v=4" width="24" alt="Avatar of wfpaisa"> wfpaisa
@@ -12156,7 +12182,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/elfotografo007">
 				<img src="https://avatars.githubusercontent.com/u/705546?s=72&v=4" width="24" alt="Avatar of elfotografo007"> elfotografo007
@@ -12169,7 +12195,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/ForeroAlexander">
 				<img src="https://avatars.githubusercontent.com/u/78035242?s=72&u=756a9bbf4335ef310a5291504c5e593ba73ef32c&v=4" width="24" alt="Avatar of ForeroAlexander"> ForeroAlexander
@@ -12182,7 +12208,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/BioAITeam">
 				<img src="https://avatars.githubusercontent.com/u/69865207?s=72&u=0fc09e5a8589b9ac0dceca98800e9188e25c64a1&v=4" width="24" alt="Avatar of BioAITeam"> BioAITeam
@@ -12195,7 +12221,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/hacheG">
 				<img src="https://avatars.githubusercontent.com/u/51682007?s=72&u=56c9aa6f7dc20a325ea67d0076e8be5d3391e74e&v=4" width="24" alt="Avatar of hacheG"> hacheG
@@ -12208,7 +12234,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/GTRONICK">
 				<img src="https://avatars.githubusercontent.com/u/9374846?s=72&v=4" width="24" alt="Avatar of GTRONICK"> GTRONICK
@@ -12221,7 +12247,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/amondrave">
 				<img src="https://avatars.githubusercontent.com/u/32749990?s=72&u=ce675739ada708579c0fb29d2d8939f7236d848d&v=4" width="24" alt="Avatar of amondrave"> amondrave
@@ -12234,7 +12260,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/JhoanRodriguez">
 				<img src="https://avatars.githubusercontent.com/u/60363404?s=72&u=1b43f1d100a587a93aa030ede5e736659abed9f6&v=4" width="24" alt="Avatar of JhoanRodriguez"> JhoanRodriguez
@@ -12247,7 +12273,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/amarqueze">
 				<img src="https://avatars.githubusercontent.com/u/29646827?s=72&u=44a4d045b2795eb05de3c88ba8ec529096ecf53b&v=4" width="24" alt="Avatar of amarqueze"> amarqueze
@@ -12260,7 +12286,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/xyklex">
 				<img src="https://avatars.githubusercontent.com/u/483287?s=72&u=0634fced64451c7710593002bfbe7adcf13387c6&v=4" width="24" alt="Avatar of xyklex"> xyklex
@@ -12273,20 +12299,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>937</td>
-		<td>
-			<a href="https://github.com/gustabot42">
-				<img src="https://avatars.githubusercontent.com/u/133016?s=72&v=4" width="24" alt="Avatar of gustabot42"> gustabot42
-			</a><br/>
-			Gustavo Díaz Jaimes
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>938</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/castilloedwin">
 				<img src="https://avatars.githubusercontent.com/u/6272198?s=72&u=541e931ba2a0f07738f39a7182356130400a1c70&v=4" width="24" alt="Avatar of castilloedwin"> castilloedwin
@@ -12299,7 +12312,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/cethap">
 				<img src="https://avatars.githubusercontent.com/u/694041?s=72&v=4" width="24" alt="Avatar of cethap"> cethap
@@ -12312,7 +12325,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/TitoAgudelo">
 				<img src="https://avatars.githubusercontent.com/u/1042826?s=72&u=b42433525258f57867fd552e21e40cf44929addb&v=4" width="24" alt="Avatar of TitoAgudelo"> TitoAgudelo
@@ -12325,7 +12338,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/David-bv">
 				<img src="https://avatars.githubusercontent.com/u/82187264?s=72&u=13b3d77e1c1a52b16d6fbadda53bf02de3c6d709&v=4" width="24" alt="Avatar of David-bv"> David-bv
@@ -12338,7 +12351,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/camiloVelandia">
 				<img src="https://avatars.githubusercontent.com/u/52965003?s=72&u=a905c4b8e46693343d6b6e46f9b30fa73b9d8b40&v=4" width="24" alt="Avatar of camiloVelandia"> camiloVelandia
@@ -12351,7 +12364,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/davehh1211">
 				<img src="https://avatars.githubusercontent.com/u/60364689?s=72&u=ea78d6def3e6a715c3cc39cd7a77ecdd49eec9b5&v=4" width="24" alt="Avatar of davehh1211"> davehh1211
@@ -12364,7 +12377,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/luishurtado">
 				<img src="https://avatars.githubusercontent.com/u/58425?s=72&u=e82dd4058fc54dbfe38a15ea624e10a45fd4cef8&v=4" width="24" alt="Avatar of luishurtado"> luishurtado
@@ -12377,7 +12390,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/styp152">
 				<img src="https://avatars.githubusercontent.com/u/241622?s=72&v=4" width="24" alt="Avatar of styp152"> styp152
@@ -12387,19 +12400,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>Panda Exchange </td>
 		<td>No Twitter Username</td>
 		<td>Bogotá, Colombia</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>946</td>
-		<td>
-			<a href="https://github.com/D4v1d98Ru1z">
-				<img src="https://avatars.githubusercontent.com/u/21083108?s=72&u=62923423009a20a3cd453de7bf6bdce148e64633&v=4" width="24" alt="Avatar of D4v1d98Ru1z"> D4v1d98Ru1z
-			</a><br/>
-			David Ruiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Colombia</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -12613,19 +12613,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>963</td>
 		<td>
-			<a href="https://github.com/Geovanny0401">
-				<img src="https://avatars.githubusercontent.com/u/10421376?s=72&u=017e22d97d96a855b15cdc4616f94499d2c8a9d6&v=4" width="24" alt="Avatar of Geovanny0401"> Geovanny0401
-			</a><br/>
-			Geovanny Mendoza
-		</td>
-		<td>Barranquilla Jug </td>
-		<td><a href="https://twitter.com/geovanny0401">geovanny0401</a></td>
-		<td>La Paz - Cesar, Colombia</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>964</td>
-		<td>
 			<a href="https://github.com/andresfelipemendez">
 				<img src="https://avatars.githubusercontent.com/u/2092695?s=72&u=05fd352ad1424adfa7848decb64661ace89924ce&v=4" width="24" alt="Avatar of andresfelipemendez"> andresfelipemendez
 			</a><br/>
@@ -12634,6 +12621,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Pereira - Colombia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>964</td>
+		<td>
+			<a href="https://github.com/Geovanny0401">
+				<img src="https://avatars.githubusercontent.com/u/10421376?s=72&u=017e22d97d96a855b15cdc4616f94499d2c8a9d6&v=4" width="24" alt="Avatar of Geovanny0401"> Geovanny0401
+			</a><br/>
+			Geovanny Mendoza
+		</td>
+		<td>Barranquilla Jug </td>
+		<td><a href="https://twitter.com/geovanny0401">geovanny0401</a></td>
+		<td>La Paz - Cesar, Colombia</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -12769,19 +12769,6 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 	<tr>
 		<td>975</td>
 		<td>
-			<a href="https://github.com/Ang3l1t0">
-				<img src="https://avatars.githubusercontent.com/u/60364909?s=72&u=5a7efba441b901ea95c6f48ad26739c5f69626da&v=4" width="24" alt="Avatar of Ang3l1t0"> Ang3l1t0
-			</a><br/>
-			Angel Palma
-		</td>
-		<td>Holberton School </td>
-		<td><a href="https://twitter.com/Ang3lp">Ang3lp</a></td>
-		<td>Barranquilla, Colombia</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>976</td>
-		<td>
 			<a href="https://github.com/Sarl23">
 				<img src="https://avatars.githubusercontent.com/u/24307023?s=72&u=edb2f888d2a8972ea0362063dbb8d8c66b6f3e27&v=4" width="24" alt="Avatar of Sarl23"> Sarl23
 			</a><br/>
@@ -12793,7 +12780,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>977</td>
+		<td>976</td>
 		<td>
 			<a href="https://github.com/dark0pcodes">
 				<img src="https://avatars.githubusercontent.com/u/8562692?s=72&u=6e72dd3c366369b193dfe0b56b3fcaf7dc229390&v=4" width="24" alt="Avatar of dark0pcodes"> dark0pcodes
@@ -12806,7 +12793,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>978</td>
+		<td>977</td>
 		<td>
 			<a href="https://github.com/andresjjn">
 				<img src="https://avatars.githubusercontent.com/u/42705768?s=72&u=af0f12825a0b606f78ae9ca17681eafbd6e28ed7&v=4" width="24" alt="Avatar of andresjjn"> andresjjn
@@ -12819,7 +12806,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>979</td>
+		<td>978</td>
 		<td>
 			<a href="https://github.com/ma0c">
 				<img src="https://avatars.githubusercontent.com/u/13631419?s=72&u=c0b275cd63677474de9721660094ebd74708d035&v=4" width="24" alt="Avatar of ma0c"> ma0c
@@ -12832,7 +12819,7 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>980</td>
+		<td>979</td>
 		<td>
 			<a href="https://github.com/JCASTANO">
 				<img src="https://avatars.githubusercontent.com/u/11246916?s=72&u=06cf0a0dd91394048e8f6ec1ade3fcc609bd9d17&v=4" width="24" alt="Avatar of JCASTANO"> JCASTANO
@@ -12840,6 +12827,19 @@ There are `989 users`  in Colombia. You need at least `28 followers` to be on th
 			Juan Esteban Castaño Rincón
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Colombia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>980</td>
+		<td>
+			<a href="https://github.com/zathuracode">
+				<img src="https://avatars.githubusercontent.com/u/11639488?s=72&v=4" width="24" alt="Avatar of zathuracode"> zathuracode
+			</a><br/>
+			DIEGO GOMEZ
+		</td>
+		<td>Vortexbird S.a.s. </td>
 		<td>No Twitter Username</td>
 		<td>Colombia</td>
 		<td>28</td>
