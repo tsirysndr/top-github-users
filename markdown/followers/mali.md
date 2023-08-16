@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2023/8/16 6:28 AM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2023/8/16 11:58 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1529,7 +1529,7 @@ There are `378 users`  in Mali. You need at least `0 followers` to be on this li
 			</a><br/>
 			DIAKARIDIA KANTE
 		</td>
-		<td>Voolinks </td>
+		<td>1simple1 </td>
 		<td>No Twitter Username</td>
 		<td>Bamako</td>
 		<td>1</td>
