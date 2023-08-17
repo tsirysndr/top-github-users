@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2023/8/16 4:28 PM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2023/8/17 9:50 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1329,27 +1329,27 @@ There are `478 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>95</td>
 		<td>
-			<a href="https://github.com/Palman6">
-				<img src="https://avatars.githubusercontent.com/u/57383559?s=72&u=8344f9d237768c182b1537830b804984444c3d1d&v=4" width="24" alt="Avatar of Palman6"> Palman6
+			<a href="https://github.com/govindaghr">
+				<img src="https://avatars.githubusercontent.com/u/6681624?s=72&v=4" width="24" alt="Avatar of govindaghr"> govindaghr
 			</a><br/>
-			Palman Ghalley
+			Govinda Ghimeray
 		</td>
-		<td>Selise Bhutan </td>
-		<td><a href="https://twitter.com/palman_ghalley">palman_ghalley</a></td>
-		<td>Thimphu Bhutan</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bhutan</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>96</td>
 		<td>
-			<a href="https://github.com/Palman6">
-				<img src="https://avatars.githubusercontent.com/u/57383559?s=72&u=8344f9d237768c182b1537830b804984444c3d1d&v=4" width="24" alt="Avatar of Palman6"> Palman6
+			<a href="https://github.com/govindaghr">
+				<img src="https://avatars.githubusercontent.com/u/6681624?s=72&v=4" width="24" alt="Avatar of govindaghr"> govindaghr
 			</a><br/>
-			Palman Ghalley
+			Govinda Ghimeray
 		</td>
-		<td>Selise Bhutan </td>
-		<td><a href="https://twitter.com/palman_ghalley">palman_ghalley</a></td>
-		<td>Thimphu Bhutan</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bhutan</td>
 		<td>2</td>
 	</tr>
 	<tr>
