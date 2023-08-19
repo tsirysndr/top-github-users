@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" alt="Hungary">
 </a>
 
-The `number of followers` of users in Hungary on `2023/8/18 7:53 AM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
+The `number of followers` of users in Hungary on `2023/8/19 1:24 AM UTC`. This list contains users from `Hungary` and cities `Budapest` `Debrecen` `Szeged` `Miskolc` `Pécs` `Győr`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Sztaki </td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>1322</td>
+		<td>1321</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -271,7 +271,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Lvgl @lvgl </td>
 		<td>No Twitter Username</td>
 		<td>Hungary, Budapest</td>
-		<td>445</td>
+		<td>446</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -523,6 +523,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>33</td>
 		<td>
+			<a href="https://github.com/erdos">
+				<img src="https://avatars.githubusercontent.com/u/5559823?s=72&u=ea0290bf8b810412539731e635f05b7ee228bd28&v=4" width="24" alt="Avatar of erdos"> erdos
+			</a><br/>
+			Janos Erdos
+		</td>
+		<td>@transferwise </td>
+		<td><a href="https://twitter.com/erdosjr">erdosjr</a></td>
+		<td>Budapest</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
 			<a href="https://github.com/0xb4lint">
 				<img src="https://avatars.githubusercontent.com/u/3747631?s=72&u=9e7ff79c7b0f69ca7b97f957eb80fcc84847ae04&v=4" width="24" alt="Avatar of 0xb4lint"> 0xb4lint
 			</a><br/>
@@ -532,19 +545,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Hungary, Budapest</td>
 		<td>213</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
-			<a href="https://github.com/erdos">
-				<img src="https://avatars.githubusercontent.com/u/5559823?s=72&u=ea0290bf8b810412539731e635f05b7ee228bd28&v=4" width="24" alt="Avatar of erdos"> erdos
-			</a><br/>
-			Janos Erdos
-		</td>
-		<td>@transferwise </td>
-		<td><a href="https://twitter.com/erdosjr">erdosjr</a></td>
-		<td>Budapest</td>
-		<td>212</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -596,7 +596,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Avra_b">Avra_b</a></td>
 		<td>Hungary</td>
-		<td>193</td>
+		<td>195</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -648,7 +648,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Lastpass </td>
 		<td><a href="https://twitter.com/kocsismate90">kocsismate90</a></td>
 		<td>Debrecen, Hungary</td>
-		<td>168</td>
+		<td>169</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -778,7 +778,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Hacker </td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>144</td>
+		<td>145</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1446,6 +1446,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>104</td>
 		<td>
+			<a href="https://github.com/vigoo">
+				<img src="https://avatars.githubusercontent.com/u/2292489?s=72&u=4965c30ba48efcc30de49f9e3ffa5abcaba0bcef&v=4" width="24" alt="Avatar of vigoo"> vigoo
+			</a><br/>
+			Daniel Vigovszky
+		</td>
+		<td>Ziverge Inc. </td>
+		<td><a href="https://twitter.com/dvigovszky">dvigovszky</a></td>
+		<td>Hungary</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td>
 			<a href="https://github.com/kistasi">
 				<img src="https://avatars.githubusercontent.com/u/1311945?s=72&u=09312f06307f33b4a399c8cbb4679cdf2ec1e433&v=4" width="24" alt="Avatar of kistasi"> kistasi
 			</a><br/>
@@ -1457,7 +1470,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>105</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/mmatyas">
 				<img src="https://avatars.githubusercontent.com/u/4354863?s=72&u=0f85b21b1900e96db05e970fdc5389bdc13f9aff&v=4" width="24" alt="Avatar of mmatyas"> mmatyas
@@ -1470,7 +1483,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>106</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/Harabali">
 				<img src="https://avatars.githubusercontent.com/u/20281514?s=72&u=e7d0740d5198c46329a3d4c01af56d1fd5750660&v=4" width="24" alt="Avatar of Harabali"> Harabali
@@ -1483,7 +1496,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/kkovacs">
 				<img src="https://avatars.githubusercontent.com/u/118010?s=72&v=4" width="24" alt="Avatar of kkovacs"> kkovacs
@@ -1494,19 +1507,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Budapest, Europe</td>
 		<td>84</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/vigoo">
-				<img src="https://avatars.githubusercontent.com/u/2292489?s=72&u=4965c30ba48efcc30de49f9e3ffa5abcaba0bcef&v=4" width="24" alt="Avatar of vigoo"> vigoo
-			</a><br/>
-			Daniel Vigovszky
-		</td>
-		<td>Ziverge Inc. </td>
-		<td><a href="https://twitter.com/dvigovszky">dvigovszky</a></td>
-		<td>Hungary</td>
-		<td>83</td>
 	</tr>
 	<tr>
 		<td>109</td>
@@ -1551,7 +1551,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>112</td>
 		<td>
 			<a href="https://github.com/ern0">
-				<img src="https://avatars.githubusercontent.com/u/1758588?s=72&u=d582ab74f66f14eeb047c006795e930b8a871864&v=4" width="24" alt="Avatar of ern0"> ern0
+				<img src="https://avatars.githubusercontent.com/u/1758588?s=72&u=81ced0f32c1bcdbcc35b868d875fe1cb6f398851&v=4" width="24" alt="Avatar of ern0"> ern0
 			</a><br/>
 			ern0 - Zalka Ernő
 		</td>
@@ -1680,6 +1680,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>122</td>
 		<td>
+			<a href="https://github.com/annatomka">
+				<img src="https://avatars.githubusercontent.com/u/2573711?s=72&u=549ecb21655a1963b533d2c1955db37d0b73a3ed&v=4" width="24" alt="Avatar of annatomka"> annatomka
+			</a><br/>
+			Anna Tomka
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>123</td>
+		<td>
 			<a href="https://github.com/erolaliyev">
 				<img src="https://avatars.githubusercontent.com/u/23246526?s=72&u=4f34ce9b3b2efd727a555e01eee5d0e38b664bec&v=4" width="24" alt="Avatar of erolaliyev"> erolaliyev
 			</a><br/>
@@ -1691,7 +1704,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/valentinvichnal">
 				<img src="https://avatars.githubusercontent.com/u/8232674?s=72&u=b13836f3de66c8d4bdedcd4efd29e4942374358f&v=4" width="24" alt="Avatar of valentinvichnal"> valentinvichnal
@@ -1702,19 +1715,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/ValentinVichnal">ValentinVichnal</a></td>
 		<td>Budapest, Hungary</td>
 		<td>75</td>
-	</tr>
-	<tr>
-		<td>124</td>
-		<td>
-			<a href="https://github.com/annatomka">
-				<img src="https://avatars.githubusercontent.com/u/2573711?s=72&u=549ecb21655a1963b533d2c1955db37d0b73a3ed&v=4" width="24" alt="Avatar of annatomka"> annatomka
-			</a><br/>
-			Anna Tomka
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest</td>
-		<td>74</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -2304,6 +2304,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>170</td>
 		<td>
+			<a href="https://github.com/xobotyi">
+				<img src="https://avatars.githubusercontent.com/u/6178739?s=72&u=ece401a01cb9e5f9d3cdea6481bd19e7eab458dd&v=4" width="24" alt="Avatar of xobotyi"> xobotyi
+			</a><br/>
+			Anton Zinovyev
+		</td>
+		<td>Gaijin Kft </td>
+		<td><a href="https://twitter.com/xobotyi">xobotyi</a></td>
+		<td>Budapest</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>171</td>
+		<td>
 			<a href="https://github.com/balassy">
 				<img src="https://avatars.githubusercontent.com/u/1872777?s=72&u=b43206c93867c7cfa0ef0a47296947fd05d73dfe&v=4" width="24" alt="Avatar of balassy"> balassy
 			</a><br/>
@@ -2315,7 +2328,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/seresistvanandras">
 				<img src="https://avatars.githubusercontent.com/u/16176585?s=72&u=5a05760a0f8bbdffa2b156e788182a2c51d87f3f&v=4" width="24" alt="Avatar of seresistvanandras"> seresistvanandras
@@ -2328,7 +2341,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/galovics">
 				<img src="https://avatars.githubusercontent.com/u/4701389?s=72&u=e5a1da5fd48ad2bd803111bf8a16aeb1f7ab5b01&v=4" width="24" alt="Avatar of galovics"> galovics
@@ -2338,19 +2351,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Docktape </td>
 		<td><a href="https://twitter.com/arnoldgalovics">arnoldgalovics</a></td>
 		<td>Budapest, Hungary</td>
-		<td>60</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/xobotyi">
-				<img src="https://avatars.githubusercontent.com/u/6178739?s=72&u=ece401a01cb9e5f9d3cdea6481bd19e7eab458dd&v=4" width="24" alt="Avatar of xobotyi"> xobotyi
-			</a><br/>
-			Anton Zinovyev
-		</td>
-		<td>Gaijin Kft </td>
-		<td><a href="https://twitter.com/xobotyi">xobotyi</a></td>
-		<td>Budapest</td>
 		<td>60</td>
 	</tr>
 	<tr>
@@ -2460,6 +2460,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>182</td>
 		<td>
+			<a href="https://github.com/boapps">
+				<img src="https://avatars.githubusercontent.com/u/17887448?s=72&v=4" width="24" alt="Avatar of boapps"> boapps
+			</a><br/>
+			Boa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
 			<a href="https://github.com/encse">
 				<img src="https://avatars.githubusercontent.com/u/6275775?s=72&v=4" width="24" alt="Avatar of encse"> encse
 			</a><br/>
@@ -2471,20 +2484,20 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>184</td>
 		<td>
-			<a href="https://github.com/boapps">
-				<img src="https://avatars.githubusercontent.com/u/17887448?s=72&v=4" width="24" alt="Avatar of boapps"> boapps
+			<a href="https://github.com/Cyber28">
+				<img src="https://avatars.githubusercontent.com/u/33525058?s=72&u=3be9d23326794fdf2fdc1fd11c0a3547a53cbf3a&v=4" width="24" alt="Avatar of Cyber28"> Cyber28
 			</a><br/>
-			Boa
+			Cyber
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
+		<td>Hungary</td>
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/hornos">
 				<img src="https://avatars.githubusercontent.com/u/349657?s=72&u=bcadd462293b814f5b945ccaa7ced830b78c0c70&v=4" width="24" alt="Avatar of hornos"> hornos
@@ -2497,7 +2510,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/Pozo">
 				<img src="https://avatars.githubusercontent.com/u/194902?s=72&v=4" width="24" alt="Avatar of Pozo"> Pozo
@@ -2510,7 +2523,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/lptr">
 				<img src="https://avatars.githubusercontent.com/u/495366?s=72&u=e324ff13c66a1a4c2f372b61ed359791bd2280bd&v=4" width="24" alt="Avatar of lptr"> lptr
@@ -2523,7 +2536,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/zsiki">
 				<img src="https://avatars.githubusercontent.com/u/1023856?s=72&u=092b7790450bfa95db716de97e0bd79a6fe1215c&v=4" width="24" alt="Avatar of zsiki"> zsiki
@@ -2533,19 +2546,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Budapest University Of Technology<br/>And<br/>Economics<br/></td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/Cyber28">
-				<img src="https://avatars.githubusercontent.com/u/33525058?s=72&u=3be9d23326794fdf2fdc1fd11c0a3547a53cbf3a&v=4" width="24" alt="Avatar of Cyber28"> Cyber28
-			</a><br/>
-			Cyber
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
 		<td>56</td>
 	</tr>
 	<tr>
@@ -2876,6 +2876,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>214</td>
 		<td>
+			<a href="https://github.com/Omar-kAhmed">
+				<img src="https://avatars.githubusercontent.com/u/111398535?s=72&u=fa99608f952d5ddc5df3493d7df7b7732965040b&v=4" width="24" alt="Avatar of Omar-kAhmed"> Omar-kAhmed
+			</a><br/>
+			Omar K. Ahmed 
+		</td>
+		<td>University Of Debrecen </td>
+		<td><a href="https://twitter.com/omark_ahmed7">omark_ahmed7</a></td>
+		<td>Debrecen, HU</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>215</td>
+		<td>
 			<a href="https://github.com/mhmxs">
 				<img src="https://avatars.githubusercontent.com/u/4972503?s=72&u=d95c4a652bdb0ffa809971fc5f45b2e9e67f403a&v=4" width="24" alt="Avatar of mhmxs"> mhmxs
 			</a><br/>
@@ -2887,7 +2900,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/martonmiklos">
 				<img src="https://avatars.githubusercontent.com/u/1609182?s=72&u=636502b73bbefde0e4396b261d961af261fcfb8b&v=4" width="24" alt="Avatar of martonmiklos"> martonmiklos
@@ -2900,7 +2913,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/onion">
 				<img src="https://avatars.githubusercontent.com/u/63724032?s=72&u=b9ef30ad6e74f7a4642e291528709ccfea58ae8d&v=4" width="24" alt="Avatar of onion"> onion
@@ -2913,7 +2926,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/fulibacsi">
 				<img src="https://avatars.githubusercontent.com/u/1511610?s=72&u=91193eb645edc17ff0c7ea2966cc6ef79db6b086&v=4" width="24" alt="Avatar of fulibacsi"> fulibacsi
@@ -2926,7 +2939,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/horvathgyozo">
 				<img src="https://avatars.githubusercontent.com/u/8748921?s=72&v=4" width="24" alt="Avatar of horvathgyozo"> horvathgyozo
@@ -2939,7 +2952,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/realhidden">
 				<img src="https://avatars.githubusercontent.com/u/196156?s=72&u=89bb7d2b596cee60286e47e0d35743d9043f966d&v=4" width="24" alt="Avatar of realhidden"> realhidden
@@ -2952,7 +2965,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/bozso">
 				<img src="https://avatars.githubusercontent.com/u/15000107?s=72&u=71e2013a68c954fe16caf07cdddb119caaf6531e&v=4" width="24" alt="Avatar of bozso"> bozso
@@ -2965,7 +2978,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/P3ti">
 				<img src="https://avatars.githubusercontent.com/u/6782774?s=72&v=4" width="24" alt="Avatar of P3ti"> P3ti
@@ -2978,7 +2991,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/molnard">
 				<img src="https://avatars.githubusercontent.com/u/9844978?s=72&u=04c1f73d1b0986f40d0021b2528b347fef213068&v=4" width="24" alt="Avatar of molnard"> molnard
@@ -2988,19 +3001,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>223</td>
-		<td>
-			<a href="https://github.com/Omar-kAhmed">
-				<img src="https://avatars.githubusercontent.com/u/111398535?s=72&u=fa99608f952d5ddc5df3493d7df7b7732965040b&v=4" width="24" alt="Avatar of Omar-kAhmed"> Omar-kAhmed
-			</a><br/>
-			Omar K. Ahmed 
-		</td>
-		<td>University Of Debrecen </td>
-		<td><a href="https://twitter.com/omark_ahmed7">omark_ahmed7</a></td>
-		<td>Debrecen, HU</td>
 		<td>47</td>
 	</tr>
 	<tr>
@@ -3279,19 +3279,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>245</td>
 		<td>
-			<a href="https://github.com/dovalid">
-				<img src="https://avatars.githubusercontent.com/u/38188141?s=72&u=07d855b5229c66d3c1e56026e979ef89de2f8e47&v=4" width="24" alt="Avatar of dovalid"> dovalid
-			</a><br/>
-			valid
-		</td>
-		<td>@zgendao  </td>
-		<td><a href="https://twitter.com/dovalid">dovalid</a></td>
-		<td>Hungary</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>246</td>
-		<td>
 			<a href="https://github.com/gergo85">
 				<img src="https://avatars.githubusercontent.com/u/2959112?s=72&u=b9f3acce82adf5dc0f9af77d3e1ace455c5a63c6&v=4" width="24" alt="Avatar of gergo85"> gergo85
 			</a><br/>
@@ -3303,7 +3290,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/zorggn">
 				<img src="https://avatars.githubusercontent.com/u/1287050?s=72&u=28a9e905bd3f60fcf05113141dfa68086bcf941f&v=4" width="24" alt="Avatar of zorggn"> zorggn
@@ -3316,7 +3303,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/softwaretailoring">
 				<img src="https://avatars.githubusercontent.com/u/6381084?s=72&u=597ef70d5c5e25e82b0a1117f7983fabc1109582&v=4" width="24" alt="Avatar of softwaretailoring"> softwaretailoring
@@ -3329,7 +3316,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/darabos">
 				<img src="https://avatars.githubusercontent.com/u/1268018?s=72&v=4" width="24" alt="Avatar of darabos"> darabos
@@ -3342,7 +3329,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/adamteddychang">
 				<img src="https://avatars.githubusercontent.com/u/63560332?s=72&u=330db0667747461d916226f4005dd26e4bf32324&v=4" width="24" alt="Avatar of adamteddychang"> adamteddychang
@@ -3351,6 +3338,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		</td>
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/AdamChang3">AdamChang3</a></td>
+		<td>Hungary</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a href="https://github.com/dovalid">
+				<img src="https://avatars.githubusercontent.com/u/38188141?s=72&u=07d855b5229c66d3c1e56026e979ef89de2f8e47&v=4" width="24" alt="Avatar of dovalid"> dovalid
+			</a><br/>
+			valid
+		</td>
+		<td>@zgendao  </td>
+		<td><a href="https://twitter.com/dovalid">dovalid</a></td>
 		<td>Hungary</td>
 		<td>43</td>
 	</tr>
@@ -3851,6 +3851,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>289</td>
 		<td>
+			<a href="https://github.com/torokati44">
+				<img src="https://avatars.githubusercontent.com/u/288816?s=72&v=4" width="24" alt="Avatar of torokati44"> torokati44
+			</a><br/>
+			TÖRÖK Attila
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/torokati44">torokati44</a></td>
+		<td>Budapest</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
 			<a href="https://github.com/chainq">
 				<img src="https://avatars.githubusercontent.com/u/3175504?s=72&v=4" width="24" alt="Avatar of chainq"> chainq
 			</a><br/>
@@ -3862,7 +3875,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/sethyx">
 				<img src="https://avatars.githubusercontent.com/u/1311824?s=72&v=4" width="24" alt="Avatar of sethyx"> sethyx
@@ -3875,7 +3888,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/Clouded">
 				<img src="https://avatars.githubusercontent.com/u/2743704?s=72&v=4" width="24" alt="Avatar of Clouded"> Clouded
@@ -3888,7 +3901,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/czeildi">
 				<img src="https://avatars.githubusercontent.com/u/9638790?s=72&u=1b6b6b580aec9bea47c61092f5ad758454368096&v=4" width="24" alt="Avatar of czeildi"> czeildi
@@ -3901,7 +3914,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/yitsushi">
 				<img src="https://avatars.githubusercontent.com/u/183191?s=72&u=238c33627a513fe67610f6b406772973aea89a0c&v=4" width="24" alt="Avatar of yitsushi"> yitsushi
@@ -3914,7 +3927,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/MrAnno">
 				<img src="https://avatars.githubusercontent.com/u/3130044?s=72&u=43992e799111c7b99536f010ca894486048fd0fb&v=4" width="24" alt="Avatar of MrAnno"> MrAnno
@@ -3924,19 +3937,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>@axoflow  </td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a href="https://github.com/torokati44">
-				<img src="https://avatars.githubusercontent.com/u/288816?s=72&v=4" width="24" alt="Avatar of torokati44"> torokati44
-			</a><br/>
-			TÖRÖK Attila
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/torokati44">torokati44</a></td>
-		<td>Budapest</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -4215,6 +4215,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>317</td>
 		<td>
+			<a href="https://github.com/LBPHacker">
+				<img src="https://avatars.githubusercontent.com/u/3286587?s=72&u=5822c3e338ad4452192c79b0fe058e67b7b0003b&v=4" width="24" alt="Avatar of LBPHacker"> LBPHacker
+			</a><br/>
+			Tamás Bálint Misius
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
 			<a href="https://github.com/barnabasbartha">
 				<img src="https://avatars.githubusercontent.com/u/5926480?s=72&u=ed28e8ef8085dc3a3d25dc61619933146d1dc203&v=4" width="24" alt="Avatar of barnabasbartha"> barnabasbartha
 			</a><br/>
@@ -4226,7 +4239,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/hatoretedlr">
 				<img src="https://avatars.githubusercontent.com/u/104073048?s=72&u=6761fc0fa99bf025572b5f788d72b848cc0ee839&v=4" width="24" alt="Avatar of hatoretedlr"> hatoretedlr
@@ -4239,7 +4252,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/City-busz">
 				<img src="https://avatars.githubusercontent.com/u/530525?s=72&u=68c00bf80e4c039f7f3a38371a3159bf74df3a4b&v=4" width="24" alt="Avatar of City-busz"> City-busz
@@ -4252,7 +4265,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/gaborszanto">
 				<img src="https://avatars.githubusercontent.com/u/43133466?s=72&v=4" width="24" alt="Avatar of gaborszanto"> gaborszanto
@@ -4265,7 +4278,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/Traderain">
 				<img src="https://avatars.githubusercontent.com/u/6411732?s=72&v=4" width="24" alt="Avatar of Traderain"> Traderain
@@ -4278,7 +4291,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/szjani">
 				<img src="https://avatars.githubusercontent.com/u/545872?s=72&v=4" width="24" alt="Avatar of szjani"> szjani
@@ -4291,7 +4304,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/ephox-gcc-plugins">
 				<img src="https://avatars.githubusercontent.com/u/6711288?s=72&u=2fd2d956b766cda52f9fad495385306050f72320&v=4" width="24" alt="Avatar of ephox-gcc-plugins"> ephox-gcc-plugins
@@ -4304,7 +4317,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/avarga">
 				<img src="https://avatars.githubusercontent.com/u/57529?s=72&u=45fcfae1fff02ca046b69e7807a5b49ef1982633&v=4" width="24" alt="Avatar of avarga"> avarga
@@ -4314,19 +4327,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Opensim Ltd. </td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a href="https://github.com/LBPHacker">
-				<img src="https://avatars.githubusercontent.com/u/3286587?s=72&u=5822c3e338ad4452192c79b0fe058e67b7b0003b&v=4" width="24" alt="Avatar of LBPHacker"> LBPHacker
-			</a><br/>
-			Tamás Bálint Misius
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -4449,6 +4449,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>335</td>
 		<td>
+			<a href="https://github.com/axodox">
+				<img src="https://avatars.githubusercontent.com/u/22882208?s=72&u=b27fac68f4ad54a01b9fadb38740187c291eacd1&v=4" width="24" alt="Avatar of axodox"> axodox
+			</a><br/>
+			Péter Major
+		</td>
+		<td>Cae </td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>336</td>
+		<td>
 			<a href="https://github.com/orymate">
 				<img src="https://avatars.githubusercontent.com/u/207816?s=72&u=b1b231deb9f7f4d9a4713a2e4d121bba57e40ba4&v=4" width="24" alt="Avatar of orymate"> orymate
 			</a><br/>
@@ -4460,7 +4473,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/godrei">
 				<img src="https://avatars.githubusercontent.com/u/12427060?s=72&v=4" width="24" alt="Avatar of godrei"> godrei
@@ -4473,7 +4486,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/mamadfar">
 				<img src="https://avatars.githubusercontent.com/u/60744057?s=72&u=74348775e0834e89981cc4aba2f7dab6b8602216&v=4" width="24" alt="Avatar of mamadfar"> mamadfar
@@ -4486,7 +4499,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/borossandor27">
 				<img src="https://avatars.githubusercontent.com/u/55062355?s=72&u=4e6e60ae99514fe9717d2169c162789c2524c38b&v=4" width="24" alt="Avatar of borossandor27"> borossandor27
@@ -4499,7 +4512,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/misrori">
 				<img src="https://avatars.githubusercontent.com/u/16632588?s=72&u=d8de7d3509a45841b7c146d32ab966b49c513210&v=4" width="24" alt="Avatar of misrori"> misrori
@@ -4512,7 +4525,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/kohanyirobert">
 				<img src="https://avatars.githubusercontent.com/u/1104829?s=72&v=4" width="24" alt="Avatar of kohanyirobert"> kohanyirobert
@@ -4525,7 +4538,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/nonoo">
 				<img src="https://avatars.githubusercontent.com/u/394269?s=72&v=4" width="24" alt="Avatar of nonoo"> nonoo
@@ -4538,7 +4551,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/Anubisss">
 				<img src="https://avatars.githubusercontent.com/u/123344?s=72&u=7fa061d28ef670164850a167905501a2ada1ad06&v=4" width="24" alt="Avatar of Anubisss"> Anubisss
@@ -4551,7 +4564,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/DavidBelicza">
 				<img src="https://avatars.githubusercontent.com/u/5840286?s=72&u=c3e35d590d86fb267b0595528e2d7dea8263f19f&v=4" width="24" alt="Avatar of DavidBelicza"> DavidBelicza
@@ -4564,7 +4577,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/rasulkhanbayov">
 				<img src="https://avatars.githubusercontent.com/u/67190693?s=72&v=4" width="24" alt="Avatar of rasulkhanbayov"> rasulkhanbayov
@@ -4577,7 +4590,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/peterforgacs">
 				<img src="https://avatars.githubusercontent.com/u/9542491?s=72&u=5d89b193ed79f9c739ef3f58db7dc48fe68adb4a&v=4" width="24" alt="Avatar of peterforgacs"> peterforgacs
@@ -4590,7 +4603,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/martonp96">
 				<img src="https://avatars.githubusercontent.com/u/10908255?s=72&u=637ab10e8f5813b294f1acf2d09251615c0d1d10&v=4" width="24" alt="Avatar of martonp96"> martonp96
@@ -4603,7 +4616,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/shakahl">
 				<img src="https://avatars.githubusercontent.com/u/5264395?s=72&u=70e3f04d0c123d7e768321eb88e984a7e5f1f905&v=4" width="24" alt="Avatar of shakahl"> shakahl
@@ -4613,19 +4626,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Ceo At Shakahl Ltd.<br/>•<br/>Sre<br/>At<br/>Getbridge.com<br/>•<br/>Devops<br/>At<br/><br/>Ding.hu<br/>•<br/>Nextearth.io<br/>•<br/>Omgmobile.hu<br/><br/>•<br/>Used<br/>To<br/>Worked<br/>On<br/>Jasmin<br/>At<br/>Docler<br/>Holding<br/><br/>•<br/><br/>And<br/>More....<br/></td>
 		<td><a href="https://twitter.com/szelpalsoma">szelpalsoma</a></td>
 		<td>Budapest, Hungary</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/axodox">
-				<img src="https://avatars.githubusercontent.com/u/22882208?s=72&u=b27fac68f4ad54a01b9fadb38740187c291eacd1&v=4" width="24" alt="Avatar of axodox"> axodox
-			</a><br/>
-			Péter Major
-		</td>
-		<td>Cae </td>
-		<td>No Twitter Username</td>
-		<td>Budapest</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -5073,6 +5073,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>383</td>
 		<td>
+			<a href="https://github.com/Kapitany777">
+				<img src="https://avatars.githubusercontent.com/u/18589932?s=72&u=5bad4ebc71a70aeea89cb1853d9cd69844871732&v=4" width="24" alt="Avatar of Kapitany777"> Kapitany777
+			</a><br/>
+			Viktor Török
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Kapitany777">Kapitany777</a></td>
+		<td>Hungary</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
 			<a href="https://github.com/aklenik">
 				<img src="https://avatars.githubusercontent.com/u/10832624?s=72&u=076003fc7424b99423e4f5fac95e99e830e968a8&v=4" width="24" alt="Avatar of aklenik"> aklenik
 			</a><br/>
@@ -5084,7 +5097,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/asrob">
 				<img src="https://avatars.githubusercontent.com/u/251897?s=72&v=4" width="24" alt="Avatar of asrob"> asrob
@@ -5097,7 +5110,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/kukac7">
 				<img src="https://avatars.githubusercontent.com/u/1240104?s=72&v=4" width="24" alt="Avatar of kukac7"> kukac7
@@ -5110,7 +5123,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/laco">
 				<img src="https://avatars.githubusercontent.com/u/472365?s=72&u=3ed10fb89bbe1fa6b9d4406302bbd3782db40fd0&v=4" width="24" alt="Avatar of laco"> laco
@@ -5123,7 +5136,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/bdeolive">
 				<img src="https://avatars.githubusercontent.com/u/79485501?s=72&u=8757e995b9338aff5f35dfa0bb8aa3306a0052ba&v=4" width="24" alt="Avatar of bdeolive"> bdeolive
@@ -5136,7 +5149,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/MicBosi">
 				<img src="https://avatars.githubusercontent.com/u/10284338?s=72&u=4b745681326b20ce45e3a778b5eed03432e58965&v=4" width="24" alt="Avatar of MicBosi"> MicBosi
@@ -5149,7 +5162,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/riblidezso">
 				<img src="https://avatars.githubusercontent.com/u/5980676?s=72&u=bc26e8cc43888a5f02fcce43d62a4fa436424416&v=4" width="24" alt="Avatar of riblidezso"> riblidezso
@@ -5162,7 +5175,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/ofalvai">
 				<img src="https://avatars.githubusercontent.com/u/1694986?s=72&u=5ebd847157e53ad2bb5b85e26ecda2fe78468a7e&v=4" width="24" alt="Avatar of ofalvai"> ofalvai
@@ -5175,7 +5188,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/r0mai">
 				<img src="https://avatars.githubusercontent.com/u/6103818?s=72&u=7cd7cb45f23e5c619133a1640462fed69d3d2b6c&v=4" width="24" alt="Avatar of r0mai"> r0mai
@@ -5188,7 +5201,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/atikenny">
 				<img src="https://avatars.githubusercontent.com/u/6061509?s=72&u=d083282e659ab48a4b000f5e40cc8c6d12bffdab&v=4" width="24" alt="Avatar of atikenny"> atikenny
@@ -5201,7 +5214,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/blazsmaster">
 				<img src="https://avatars.githubusercontent.com/u/64538277?s=72&u=faba3d4c6d9aab082b3872ab30b8406d9742a92d&v=4" width="24" alt="Avatar of blazsmaster"> blazsmaster
@@ -5214,7 +5227,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/Gericop">
 				<img src="https://avatars.githubusercontent.com/u/5181621?s=72&u=9d355ac07c30f227e36b550c44c18e4530371588&v=4" width="24" alt="Avatar of Gericop"> Gericop
@@ -5227,7 +5240,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/masterdesky">
 				<img src="https://avatars.githubusercontent.com/u/34217782?s=72&u=ef59a2f07cefae024e48a0dd4cc380c530303251&v=4" width="24" alt="Avatar of masterdesky"> masterdesky
@@ -5240,7 +5253,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/TwoDCube">
 				<img src="https://avatars.githubusercontent.com/u/14909670?s=72&u=02c004dc80427ac2ededc97218698f7ed0e6639b&v=4" width="24" alt="Avatar of TwoDCube"> TwoDCube
@@ -5253,7 +5266,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/stewemetal">
 				<img src="https://avatars.githubusercontent.com/u/5860632?s=72&u=24155bd5c471f831be3588195aed3c471d1fa9d4&v=4" width="24" alt="Avatar of stewemetal"> stewemetal
@@ -5263,19 +5276,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Https://tier.app </td>
 		<td><a href="https://twitter.com/stewemetal">stewemetal</a></td>
 		<td>Budapest</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>398</td>
-		<td>
-			<a href="https://github.com/Kapitany777">
-				<img src="https://avatars.githubusercontent.com/u/18589932?s=72&u=5bad4ebc71a70aeea89cb1853d9cd69844871732&v=4" width="24" alt="Avatar of Kapitany777"> Kapitany777
-			</a><br/>
-			Viktor Török
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Kapitany777">Kapitany777</a></td>
-		<td>Hungary</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -5424,19 +5424,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>410</td>
 		<td>
-			<a href="https://github.com/doktoric">
-				<img src="https://avatars.githubusercontent.com/u/1117088?s=72&u=299acc4884514d2083de017bfda542922ef5a4d8&v=4" width="24" alt="Avatar of doktoric"> doktoric
-			</a><br/>
-			Richard Doktorics
-		</td>
-		<td>Cloudera </td>
-		<td><a href="https://twitter.com/doktoric">doktoric</a></td>
-		<td>Budapest</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
 			<a href="https://github.com/pcroland">
 				<img src="https://avatars.githubusercontent.com/u/11183274?s=72&u=b6b953b7348fef253749121b9024506db16a8a7c&v=4" width="24" alt="Avatar of pcroland"> pcroland
 			</a><br/>
@@ -5448,7 +5435,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/SlejmUr">
 				<img src="https://avatars.githubusercontent.com/u/52343819?s=72&u=c59fc7ed73a80fcd4f16d41680ffb17f6e17ea4a&v=4" width="24" alt="Avatar of SlejmUr"> SlejmUr
@@ -5461,7 +5448,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/Gerviba">
 				<img src="https://avatars.githubusercontent.com/u/1366778?s=72&u=cb918a6e214c8dd50983047b46c6e20edd39eab1&v=4" width="24" alt="Avatar of Gerviba"> Gerviba
@@ -5474,7 +5461,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/balzss">
 				<img src="https://avatars.githubusercontent.com/u/17277382?s=72&u=8e33a0bc57f32c4bc1db73e64a6e1f492210df47&v=4" width="24" alt="Avatar of balzss"> balzss
@@ -5487,7 +5474,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/Yalchin403">
 				<img src="https://avatars.githubusercontent.com/u/54992849?s=72&u=920c384435264d22f9b86ca88eaa1950160c46bf&v=4" width="24" alt="Avatar of Yalchin403"> Yalchin403
@@ -5500,7 +5487,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/ijanos">
 				<img src="https://avatars.githubusercontent.com/u/175447?s=72&u=b8042f573d40a69f10e5a67f0598ec3ae553e1b3&v=4" width="24" alt="Avatar of ijanos"> ijanos
@@ -5513,7 +5500,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/devmetal">
 				<img src="https://avatars.githubusercontent.com/u/3758485?s=72&u=280152fe7f2550b0f597e147ae246a6b7ad272a3&v=4" width="24" alt="Avatar of devmetal"> devmetal
@@ -5523,6 +5510,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
+			<a href="https://github.com/albertborsos">
+				<img src="https://avatars.githubusercontent.com/u/7307145?s=72&u=b8d6f28c9af68b2eff310d1c78eb4ed32ebbbcab&v=4" width="24" alt="Avatar of albertborsos"> albertborsos
+			</a><br/>
+			Albert Borsos
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hungary, Budapest</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -5996,6 +5996,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>454</td>
 		<td>
+			<a href="https://github.com/RedyAu">
+				<img src="https://avatars.githubusercontent.com/u/12989935?s=72&u=3eff1198a722822cac583a18203076892dc59027&v=4" width="24" alt="Avatar of RedyAu"> RedyAu
+			</a><br/>
+			Fodor Benedek
+		</td>
+		<td>Óe/ekik/edti </td>
+		<td><a href="https://twitter.com/RedyAu_">RedyAu_</a></td>
+		<td>Hungary</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
 			<a href="https://github.com/potato">
 				<img src="https://avatars.githubusercontent.com/u/130068?s=72&v=4" width="24" alt="Avatar of potato"> potato
 			</a><br/>
@@ -6007,7 +6020,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/VMois">
 				<img src="https://avatars.githubusercontent.com/u/15694232?s=72&u=15002bdeae642222941c881b474ce7e6450c73a3&v=4" width="24" alt="Avatar of VMois"> VMois
@@ -6020,7 +6033,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/Tofandel">
 				<img src="https://avatars.githubusercontent.com/u/6115458?s=72&v=4" width="24" alt="Avatar of Tofandel"> Tofandel
@@ -6033,7 +6046,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/c0r0n3r">
 				<img src="https://avatars.githubusercontent.com/u/979146?s=72&v=4" width="24" alt="Avatar of c0r0n3r"> c0r0n3r
@@ -6046,7 +6059,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/benceHornyak">
 				<img src="https://avatars.githubusercontent.com/u/12515595?s=72&u=870873dfa2fcafcc9f82cfdcb8b78cbc48aa9ef4&v=4" width="24" alt="Avatar of benceHornyak"> benceHornyak
@@ -6059,7 +6072,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/urbalazs">
 				<img src="https://avatars.githubusercontent.com/u/1006118?s=72&v=4" width="24" alt="Avatar of urbalazs"> urbalazs
@@ -6072,7 +6085,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/poky1084">
 				<img src="https://avatars.githubusercontent.com/u/6255299?s=72&u=1d604d257acbc26b583be72d480127c5978ef879&v=4" width="24" alt="Avatar of poky1084"> poky1084
@@ -6085,7 +6098,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/tombenke">
 				<img src="https://avatars.githubusercontent.com/u/432778?s=72&v=4" width="24" alt="Avatar of tombenke"> tombenke
@@ -6098,7 +6111,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/kyberszittya">
 				<img src="https://avatars.githubusercontent.com/u/2454479?s=72&u=6dc74783fea93a7733aaeb7a13fe77e178b558b4&v=4" width="24" alt="Avatar of kyberszittya"> kyberszittya
@@ -6111,7 +6124,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/anmolnar">
 				<img src="https://avatars.githubusercontent.com/u/4997876?s=72&v=4" width="24" alt="Avatar of anmolnar"> anmolnar
@@ -6124,7 +6137,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/granicz">
 				<img src="https://avatars.githubusercontent.com/u/6954755?s=72&u=ca832942d33794b73fd760f57c2f840452ef72bc&v=4" width="24" alt="Avatar of granicz"> granicz
@@ -6137,7 +6150,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/GaborFarkas">
 				<img src="https://avatars.githubusercontent.com/u/9150102?s=72&u=54d7f06555234992f13bd1c5cbd884ac8f1c3a4f&v=4" width="24" alt="Avatar of GaborFarkas"> GaborFarkas
@@ -6150,7 +6163,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/tamasd">
 				<img src="https://avatars.githubusercontent.com/u/40811?s=72&v=4" width="24" alt="Avatar of tamasd"> tamasd
@@ -6163,7 +6176,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/johanneswachs">
 				<img src="https://avatars.githubusercontent.com/u/4282413?s=72&u=660033f7ab78f92dae65fc4c11c637ba7d043cba&v=4" width="24" alt="Avatar of johanneswachs"> johanneswachs
@@ -6176,7 +6189,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/szmi">
 				<img src="https://avatars.githubusercontent.com/u/19272676?s=72&v=4" width="24" alt="Avatar of szmi"> szmi
@@ -6189,7 +6202,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/Myxy1">
 				<img src="https://avatars.githubusercontent.com/u/23376110?s=72&u=9889dc20e0bb215d526d92bb5616be23644239a7&v=4" width="24" alt="Avatar of Myxy1"> Myxy1
@@ -6202,7 +6215,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/azabaj">
 				<img src="https://avatars.githubusercontent.com/u/1941?s=72&u=8a74a940e36cd93d3eff403ed0279a11c1cb7c06&v=4" width="24" alt="Avatar of azabaj"> azabaj
@@ -6215,7 +6228,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/ruffle1986">
 				<img src="https://avatars.githubusercontent.com/u/2196208?s=72&u=f505ed5df8ac7913d1529abcff2f86b4a719142c&v=4" width="24" alt="Avatar of ruffle1986"> ruffle1986
@@ -6228,7 +6241,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/tstefanovits">
 				<img src="https://avatars.githubusercontent.com/u/40068722?s=72&v=4" width="24" alt="Avatar of tstefanovits"> tstefanovits
@@ -6241,7 +6254,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/nagybence">
 				<img src="https://avatars.githubusercontent.com/u/15241?s=72&v=4" width="24" alt="Avatar of nagybence"> nagybence
@@ -6254,7 +6267,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/delanni">
 				<img src="https://avatars.githubusercontent.com/u/4738868?s=72&u=5c9029661ab565c191bfbfddbd7b2d3d4affb10d&v=4" width="24" alt="Avatar of delanni"> delanni
@@ -6267,7 +6280,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/kovacshuni">
 				<img src="https://avatars.githubusercontent.com/u/1782646?s=72&u=56f52fcbc3d46f5039aceb74f0d80be03ebeddf8&v=4" width="24" alt="Avatar of kovacshuni"> kovacshuni
@@ -6280,7 +6293,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/robot9706">
 				<img src="https://avatars.githubusercontent.com/u/3697447?s=72&u=9fe6bd7a3d6019d396c087ba6c54f835e9c86d75&v=4" width="24" alt="Avatar of robot9706"> robot9706
@@ -6293,7 +6306,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/elementbound">
 				<img src="https://avatars.githubusercontent.com/u/4706096?s=72&v=4" width="24" alt="Avatar of elementbound"> elementbound
@@ -6303,19 +6316,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>@epam </td>
 		<td>No Twitter Username</td>
 		<td>Debrecen, Hungary</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>478</td>
-		<td>
-			<a href="https://github.com/RedyAu">
-				<img src="https://avatars.githubusercontent.com/u/12989935?s=72&u=3eff1198a722822cac583a18203076892dc59027&v=4" width="24" alt="Avatar of RedyAu"> RedyAu
-			</a><br/>
-			Fodor Benedek
-		</td>
-		<td>Óe/ekik/edti </td>
-		<td><a href="https://twitter.com/RedyAu_">RedyAu_</a></td>
-		<td>Hungary</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -7140,19 +7140,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>542</td>
 		<td>
-			<a href="https://github.com/rlegendi">
-				<img src="https://avatars.githubusercontent.com/u/492313?s=72&v=4" width="24" alt="Avatar of rlegendi"> rlegendi
-			</a><br/>
-			Richard O. Legendi
-		</td>
-		<td>Epam Systems </td>
-		<td>No Twitter Username</td>
-		<td>Hungary, Budapest</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>543</td>
-		<td>
 			<a href="https://github.com/ujhelyiz">
 				<img src="https://avatars.githubusercontent.com/u/251892?s=72&v=4" width="24" alt="Avatar of ujhelyiz"> ujhelyiz
 			</a><br/>
@@ -7164,7 +7151,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/drawain">
 				<img src="https://avatars.githubusercontent.com/u/513692?s=72&v=4" width="24" alt="Avatar of drawain"> drawain
@@ -7177,7 +7164,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/ZoltanLajosKis">
 				<img src="https://avatars.githubusercontent.com/u/769858?s=72&u=03a1b354535686f948bc24eb08898602730623fd&v=4" width="24" alt="Avatar of ZoltanLajosKis"> ZoltanLajosKis
@@ -7185,6 +7172,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 			Zoltán Lajos Kis
 		</td>
 		<td>Ericsson </td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>545</td>
+		<td>
+			<a href="https://github.com/ivereninov">
+				<img src="https://avatars.githubusercontent.com/u/10289613?s=72&u=55e23dccf26b0becd89e73d1a6cc00de2ad9fd2d&v=4" width="24" alt="Avatar of ivereninov"> ivereninov
+			</a><br/>
+			Igor Vereninov
+		</td>
+		<td>@emlid  </td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
 		<td>24</td>
@@ -7257,14 +7257,14 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>551</td>
 		<td>
-			<a href="https://github.com/gyulanemeth">
-				<img src="https://avatars.githubusercontent.com/u/1527824?s=72&u=d6476d88e642a13a75bb674055b2abec49abba68&v=4" width="24" alt="Avatar of gyulanemeth"> gyulanemeth
+			<a href="https://github.com/z4kn4fein">
+				<img src="https://avatars.githubusercontent.com/u/13772020?s=72&u=f2f54da3a97a730292857c83f270b89be6af5f3e&v=4" width="24" alt="Avatar of z4kn4fein"> z4kn4fein
 			</a><br/>
-			Gyula Németh
+			Peter Csajtai
 		</td>
-		<td>Edmdesigner </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
+		<td>Budapest</td>
 		<td>23</td>
 	</tr>
 	<tr>
@@ -7361,6 +7361,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>559</td>
 		<td>
+			<a href="https://github.com/lxndralbert">
+				<img src="https://avatars.githubusercontent.com/u/616769?s=72&u=d9524ba5e40d89c23b0b88846118e3473283dc3f&v=4" width="24" alt="Avatar of lxndralbert"> lxndralbert
+			</a><br/>
+			Alexander Albert
+		</td>
+		<td>@vilkrig, @rsm-connectax, @rontgen-electronics </td>
+		<td><a href="https://twitter.com/lxndr_albert">lxndr_albert</a></td>
+		<td>Budapest, Hungary</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
 			<a href="https://github.com/gaborbata">
 				<img src="https://avatars.githubusercontent.com/u/8159164?s=72&u=5ebd89a8459aef1af7e473433a4ab2e27ef3c9ea&v=4" width="24" alt="Avatar of gaborbata"> gaborbata
 			</a><br/>
@@ -7372,7 +7385,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/Pethical">
 				<img src="https://avatars.githubusercontent.com/u/10383468?s=72&u=bb27b81391fe98d1b8335e53c44ce0200bc35afd&v=4" width="24" alt="Avatar of Pethical"> Pethical
@@ -7385,7 +7398,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/N3U2O">
 				<img src="https://avatars.githubusercontent.com/u/5336929?s=72&v=4" width="24" alt="Avatar of N3U2O"> N3U2O
@@ -7398,7 +7411,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/idreesshaikh">
 				<img src="https://avatars.githubusercontent.com/u/7711426?s=72&u=1b003572c32700e465b1b64fa4df0399f6f4da6c&v=4" width="24" alt="Avatar of idreesshaikh"> idreesshaikh
@@ -7411,7 +7424,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/adamradocz">
 				<img src="https://avatars.githubusercontent.com/u/16503773?s=72&v=4" width="24" alt="Avatar of adamradocz"> adamradocz
@@ -7424,7 +7437,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/zihasz">
 				<img src="https://avatars.githubusercontent.com/u/40296732?s=72&u=dbf4d58ec9b69a8004dfa9dc8956a2aa00fbcbc9&v=4" width="24" alt="Avatar of zihasz"> zihasz
@@ -7437,7 +7450,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/abonyilab">
 				<img src="https://avatars.githubusercontent.com/u/20737406?s=72&u=3189735954955cc0ea71d044b07ed4a835cb81e7&v=4" width="24" alt="Avatar of abonyilab"> abonyilab
@@ -7450,7 +7463,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/attilabukor">
 				<img src="https://avatars.githubusercontent.com/u/765236?s=72&u=ccf840ffa27235daca28f97269215b2c90913507&v=4" width="24" alt="Avatar of attilabukor"> attilabukor
@@ -7463,7 +7476,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/szledan">
 				<img src="https://avatars.githubusercontent.com/u/3430092?s=72&u=7ba444dfdaa18950ddd6f555ce21db05d9324d1d&v=4" width="24" alt="Avatar of szledan"> szledan
@@ -7476,7 +7489,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/biancasehn">
 				<img src="https://avatars.githubusercontent.com/u/70217819?s=72&u=4d63b0bc099f17d34393d3e7688e73be9d12fff8&v=4" width="24" alt="Avatar of biancasehn"> biancasehn
@@ -7489,7 +7502,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/balping">
 				<img src="https://avatars.githubusercontent.com/u/5840038?s=72&v=4" width="24" alt="Avatar of balping"> balping
@@ -7502,7 +7515,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/bapalto">
 				<img src="https://avatars.githubusercontent.com/u/5806175?s=72&u=2b86846223b38c39e8811827a98d1964835cac95&v=4" width="24" alt="Avatar of bapalto"> bapalto
@@ -7515,7 +7528,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/wigyori">
 				<img src="https://avatars.githubusercontent.com/u/4609517?s=72&v=4" width="24" alt="Avatar of wigyori"> wigyori
@@ -7528,7 +7541,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/snemes">
 				<img src="https://avatars.githubusercontent.com/u/6277790?s=72&v=4" width="24" alt="Avatar of snemes"> snemes
@@ -7541,7 +7554,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/adotsch">
 				<img src="https://avatars.githubusercontent.com/u/63544068?s=72&u=b0658cdcccec77567066bec96c7cb64d8735345b&v=4" width="24" alt="Avatar of adotsch"> adotsch
@@ -7554,7 +7567,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/pppdns">
 				<img src="https://avatars.githubusercontent.com/u/684597?s=72&u=213715f82593eeed0562646542ad56f32d676e46&v=4" width="24" alt="Avatar of pppdns"> pppdns
@@ -7567,7 +7580,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/vbence">
 				<img src="https://avatars.githubusercontent.com/u/3601108?s=72&v=4" width="24" alt="Avatar of vbence"> vbence
@@ -7580,7 +7593,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/jamalakhaligova">
 				<img src="https://avatars.githubusercontent.com/u/65722684?s=72&u=25e1ddfd542cde8d5bd16bfc450710a099cb1506&v=4" width="24" alt="Avatar of jamalakhaligova"> jamalakhaligova
@@ -7593,7 +7606,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/kocsmy">
 				<img src="https://avatars.githubusercontent.com/u/2378022?s=72&v=4" width="24" alt="Avatar of kocsmy"> kocsmy
@@ -7606,7 +7619,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/bimlas">
 				<img src="https://avatars.githubusercontent.com/u/7034200?s=72&u=d5b4686665903aa68a1ac10e0e69f8b9674377e8&v=4" width="24" alt="Avatar of bimlas"> bimlas
@@ -7619,7 +7632,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/minimalgeek">
 				<img src="https://avatars.githubusercontent.com/u/777718?s=72&u=1def43b4cce150337d16805cc517112be3f5fe92&v=4" width="24" alt="Avatar of minimalgeek"> minimalgeek
@@ -7632,7 +7645,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/warnyul">
 				<img src="https://avatars.githubusercontent.com/u/1662183?s=72&v=4" width="24" alt="Avatar of warnyul"> warnyul
@@ -7645,7 +7658,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/hosszukalman">
 				<img src="https://avatars.githubusercontent.com/u/193390?s=72&v=4" width="24" alt="Avatar of hosszukalman"> hosszukalman
@@ -7658,7 +7671,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/szekelymilan">
 				<img src="https://avatars.githubusercontent.com/u/34918828?s=72&u=214091566e8ae9b9f071ee943eb5a5cb5705cfe5&v=4" width="24" alt="Avatar of szekelymilan"> szekelymilan
@@ -7671,7 +7684,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/eduarddotgg">
 				<img src="https://avatars.githubusercontent.com/u/4650029?s=72&u=d4872d54ab6450f685f60c1312f182308a365587&v=4" width="24" alt="Avatar of eduarddotgg"> eduarddotgg
@@ -7684,7 +7697,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/timar">
 				<img src="https://avatars.githubusercontent.com/u/290614?s=72&u=c5d367b851ae9dd92db9b8d5c1dafb79969ffd94&v=4" width="24" alt="Avatar of timar"> timar
@@ -7697,7 +7710,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/rg0now">
 				<img src="https://avatars.githubusercontent.com/u/1907394?s=72&u=a70b6023d0eb028f9224d4d52c56970fc8b447c4&v=4" width="24" alt="Avatar of rg0now"> rg0now
@@ -7710,7 +7723,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/Rav3n95">
 				<img src="https://avatars.githubusercontent.com/u/69343477?s=72&u=6e08bf3ffe64ec4094e46cdf75891a7366bc1663&v=4" width="24" alt="Avatar of Rav3n95"> Rav3n95
@@ -7723,7 +7736,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/Bendimester23">
 				<img src="https://avatars.githubusercontent.com/u/58264102?s=72&u=3f91659c6b401fe2a80c7e52e88e186e3a0d1872&v=4" width="24" alt="Avatar of Bendimester23"> Bendimester23
@@ -7736,7 +7749,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/KristofKekesi">
 				<img src="https://avatars.githubusercontent.com/u/64812024?s=72&u=14d3bd2c64b7376f60650f7f5d6f5d3e07cc238c&v=4" width="24" alt="Avatar of KristofKekesi"> KristofKekesi
@@ -7749,7 +7762,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/LeventeWolf">
 				<img src="https://avatars.githubusercontent.com/u/38537285?s=72&u=848362e1d41face65f66010c2e3c3c39b5ab016d&v=4" width="24" alt="Avatar of LeventeWolf"> LeventeWolf
@@ -7762,7 +7775,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/schronck">
 				<img src="https://avatars.githubusercontent.com/u/63120600?s=72&u=1e04c903272bd7833d1eeb30bf69e085e6ad1c8b&v=4" width="24" alt="Avatar of schronck"> schronck
@@ -7775,7 +7788,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/MathiasMagnus">
 				<img src="https://avatars.githubusercontent.com/u/9763499?s=72&u=3ed40103c9fbb65aa528d7fd14d212b0d8fe51b4&v=4" width="24" alt="Avatar of MathiasMagnus"> MathiasMagnus
@@ -7788,7 +7801,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/zalandemeter12">
 				<img src="https://avatars.githubusercontent.com/u/33003291?s=72&u=ed4611b787275ce7213bdf1a42577b882f37f323&v=4" width="24" alt="Avatar of zalandemeter12"> zalandemeter12
@@ -7798,19 +7811,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>@humda-lab </td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>593</td>
-		<td>
-			<a href="https://github.com/lxndralbert">
-				<img src="https://avatars.githubusercontent.com/u/616769?s=72&u=d9524ba5e40d89c23b0b88846118e3473283dc3f&v=4" width="24" alt="Avatar of lxndralbert"> lxndralbert
-			</a><br/>
-			Alexander Albert
-		</td>
-		<td>@vilkrig, @rsm-connectax, @rontgen-electronics </td>
-		<td><a href="https://twitter.com/lxndr_albert">lxndr_albert</a></td>
-		<td>Budapest, Hungary</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -7972,12 +7972,12 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>606</td>
 		<td>
-			<a href="https://github.com/joemeszaros">
-				<img src="https://avatars.githubusercontent.com/u/1064211?s=72&u=85de1441e7ccdff32c6cd8ef1450ee0057818483&v=4" width="24" alt="Avatar of joemeszaros"> joemeszaros
+			<a href="https://github.com/AnupamaRajkumar">
+				<img src="https://avatars.githubusercontent.com/u/22446453?s=72&u=1ad3c174665d5adc6fe6ac7108ae7413be2469c3&v=4" width="24" alt="Avatar of AnupamaRajkumar"> AnupamaRajkumar
 			</a><br/>
-			Joe Mészáros
+			Anupama Rajkumar
 		</td>
-		<td>Hiya </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
 		<td>22</td>
@@ -7985,12 +7985,12 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>607</td>
 		<td>
-			<a href="https://github.com/AnupamaRajkumar">
-				<img src="https://avatars.githubusercontent.com/u/22446453?s=72&u=1ad3c174665d5adc6fe6ac7108ae7413be2469c3&v=4" width="24" alt="Avatar of AnupamaRajkumar"> AnupamaRajkumar
+			<a href="https://github.com/joemeszaros">
+				<img src="https://avatars.githubusercontent.com/u/1064211?s=72&u=85de1441e7ccdff32c6cd8ef1450ee0057818483&v=4" width="24" alt="Avatar of joemeszaros"> joemeszaros
 			</a><br/>
-			Anupama Rajkumar
+			Joe Mészáros
 		</td>
-		<td>No Company</td>
+		<td>Hiya </td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
 		<td>22</td>
@@ -8167,19 +8167,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>621</td>
 		<td>
-			<a href="https://github.com/selimnahimi">
-				<img src="https://avatars.githubusercontent.com/u/21970287?s=72&u=b854ddc2e7c22ff9de96bcb75547d3c4e8e46087&v=4" width="24" alt="Avatar of selimnahimi"> selimnahimi
-			</a><br/>
-			Selim Nahimi
-		</td>
-		<td>@green-fox-academy  </td>
-		<td>No Twitter Username</td>
-		<td>University of Szeged</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>622</td>
-		<td>
 			<a href="https://github.com/szkiba">
 				<img src="https://avatars.githubusercontent.com/u/16244553?s=72&u=0be75a996fb36ec2111963fe55f86cbe42ea2cce&v=4" width="24" alt="Avatar of szkiba"> szkiba
 			</a><br/>
@@ -8188,6 +8175,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/szkiba">szkiba</a></td>
 		<td>Biatorbágy, Hungary</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>622</td>
+		<td>
+			<a href="https://github.com/selimnahimi">
+				<img src="https://avatars.githubusercontent.com/u/21970287?s=72&u=b854ddc2e7c22ff9de96bcb75547d3c4e8e46087&v=4" width="24" alt="Avatar of selimnahimi"> selimnahimi
+			</a><br/>
+			Selim Nahimi
+		</td>
+		<td>@green-fox-academy  </td>
+		<td>No Twitter Username</td>
+		<td>University of Szeged</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -8336,19 +8336,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>634</td>
 		<td>
-			<a href="https://github.com/karsany">
-				<img src="https://avatars.githubusercontent.com/u/133486?s=72&v=4" width="24" alt="Avatar of karsany"> karsany
-			</a><br/>
-			Ferenc Karsany
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hungary, Budaörs</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>635</td>
-		<td>
 			<a href="https://github.com/fape">
 				<img src="https://avatars.githubusercontent.com/u/1052464?s=72&v=4" width="24" alt="Avatar of fape"> fape
 			</a><br/>
@@ -8360,7 +8347,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/subdesign">
 				<img src="https://avatars.githubusercontent.com/u/691695?s=72&u=9348bf7504aa17990925cd206714de4ca96cb0cf&v=4" width="24" alt="Avatar of subdesign"> subdesign
@@ -8373,7 +8360,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/antumbramodular">
 				<img src="https://avatars.githubusercontent.com/u/15527017?s=72&u=85b1ee78a71da02b7ed283420fe4f7f1cec2a5e4&v=4" width="24" alt="Avatar of antumbramodular"> antumbramodular
@@ -8386,7 +8373,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/ialmasi">
 				<img src="https://avatars.githubusercontent.com/u/4927676?s=72&u=8a9ee26a5c1362265ab513a851d9106cae78a2fd&v=4" width="24" alt="Avatar of ialmasi"> ialmasi
@@ -8399,7 +8386,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/anitagold">
 				<img src="https://avatars.githubusercontent.com/u/29042389?s=72&u=dfca8bcae449596b29255c304a17108abb732a72&v=4" width="24" alt="Avatar of anitagold"> anitagold
@@ -8409,6 +8396,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>@petabyte-research </td>
 		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/balintk">
+				<img src="https://avatars.githubusercontent.com/u/297418?s=72&u=f7ffdb00d16ccce0ce506238f00b8de925fc3220&v=4" width="24" alt="Avatar of balintk"> balintk
+			</a><br/>
+			Balint Kleri
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/balintkleri">balintkleri</a></td>
+		<td>Budapest</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -8427,19 +8427,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>641</td>
 		<td>
-			<a href="https://github.com/balintk">
-				<img src="https://avatars.githubusercontent.com/u/297418?s=72&u=f7ffdb00d16ccce0ce506238f00b8de925fc3220&v=4" width="24" alt="Avatar of balintk"> balintk
-			</a><br/>
-			Balint Kleri
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/balintkleri">balintkleri</a></td>
-		<td>Budapest</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>642</td>
-		<td>
 			<a href="https://github.com/marjaimate">
 				<img src="https://avatars.githubusercontent.com/u/1273059?s=72&u=8a389423435528569d90dbef13cd296a948a8739&v=4" width="24" alt="Avatar of marjaimate"> marjaimate
 			</a><br/>
@@ -8451,7 +8438,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/juhosg">
 				<img src="https://avatars.githubusercontent.com/u/19352056?s=72&v=4" width="24" alt="Avatar of juhosg"> juhosg
@@ -8464,7 +8451,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/macrozhang">
 				<img src="https://avatars.githubusercontent.com/u/33259827?s=72&u=6bbdf7aff9729844296f445cb1c4450056117472&v=4" width="24" alt="Avatar of macrozhang"> macrozhang
@@ -8477,7 +8464,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/zcserei">
 				<img src="https://avatars.githubusercontent.com/u/1671979?s=72&u=dcbb8f703542bc5073fbd7430e2215d6daf5bcee&v=4" width="24" alt="Avatar of zcserei"> zcserei
@@ -8490,7 +8477,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/elcozy">
 				<img src="https://avatars.githubusercontent.com/u/61386343?s=72&u=1012271883b069906a27581ccfc31c5acf6e6cd6&v=4" width="24" alt="Avatar of elcozy"> elcozy
@@ -8500,6 +8487,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>646</td>
+		<td>
+			<a href="https://github.com/badicsalex">
+				<img src="https://avatars.githubusercontent.com/u/9196531?s=72&u=b57373a5fc0a2fc6a3ebcacea04d43aa03c7bd7f&v=4" width="24" alt="Avatar of badicsalex"> badicsalex
+			</a><br/>
+			Alex Badics
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hungary</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -8739,6 +8739,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>665</td>
 		<td>
+			<a href="https://github.com/karsany">
+				<img src="https://avatars.githubusercontent.com/u/133486?s=72&v=4" width="24" alt="Avatar of karsany"> karsany
+			</a><br/>
+			Ferenc Karsany
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hungary, Budaörs</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>666</td>
+		<td>
 			<a href="https://github.com/nlharri">
 				<img src="https://avatars.githubusercontent.com/u/33941426?s=72&u=c2aec5cffb86cdc0f8ca87297e8850b8c0125988&v=4" width="24" alt="Avatar of nlharri"> nlharri
 			</a><br/>
@@ -8750,7 +8763,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/kovacsbalu">
 				<img src="https://avatars.githubusercontent.com/u/3726055?s=72&v=4" width="24" alt="Avatar of kovacsbalu"> kovacsbalu
@@ -8763,7 +8776,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/jzsfkzm">
 				<img src="https://avatars.githubusercontent.com/u/708113?s=72&u=142b6a6b88a4bf7fddf62e701a52ea37593e2160&v=4" width="24" alt="Avatar of jzsfkzm"> jzsfkzm
@@ -8776,7 +8789,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/daniel-v">
 				<img src="https://avatars.githubusercontent.com/u/2668320?s=72&u=81720680f777ee2907e28dfea56bcae101df41be&v=4" width="24" alt="Avatar of daniel-v"> daniel-v
@@ -8789,7 +8802,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/JimMorrison723">
 				<img src="https://avatars.githubusercontent.com/u/506946?s=72&v=4" width="24" alt="Avatar of JimMorrison723"> JimMorrison723
@@ -8802,7 +8815,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/medaharrat">
 				<img src="https://avatars.githubusercontent.com/u/45008190?s=72&v=4" width="24" alt="Avatar of medaharrat"> medaharrat
@@ -8815,7 +8828,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/lionbllack">
 				<img src="https://avatars.githubusercontent.com/u/88336358?s=72&u=6d420d49ddcf6f2dd82d82fc29ca789c13ed2ee5&v=4" width="24" alt="Avatar of lionbllack"> lionbllack
@@ -8828,7 +8841,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/lordblendi">
 				<img src="https://avatars.githubusercontent.com/u/1140416?s=72&u=88f93dd850ffb32a103071541d54514fd6505d09&v=4" width="24" alt="Avatar of lordblendi"> lordblendi
@@ -8841,7 +8854,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/ebux">
 				<img src="https://avatars.githubusercontent.com/u/10435440?s=72&v=4" width="24" alt="Avatar of ebux"> ebux
@@ -8854,7 +8867,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/subogero">
 				<img src="https://avatars.githubusercontent.com/u/477974?s=72&v=4" width="24" alt="Avatar of subogero"> subogero
@@ -8867,7 +8880,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/iklevente-zz">
 				<img src="https://avatars.githubusercontent.com/u/49818448?s=72&u=2607911ac75c9be79b1a02fc9ba3e7aa6fc2dcdf&v=4" width="24" alt="Avatar of iklevente-zz"> iklevente-zz
@@ -8880,7 +8893,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/szinya">
 				<img src="https://avatars.githubusercontent.com/u/40746?s=72&v=4" width="24" alt="Avatar of szinya"> szinya
@@ -8893,7 +8906,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/ggmod">
 				<img src="https://avatars.githubusercontent.com/u/14360919?s=72&v=4" width="24" alt="Avatar of ggmod"> ggmod
@@ -8906,7 +8919,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/zsitro">
 				<img src="https://avatars.githubusercontent.com/u/1465728?s=72&v=4" width="24" alt="Avatar of zsitro"> zsitro
@@ -8919,7 +8932,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/bodza">
 				<img src="https://avatars.githubusercontent.com/u/19647151?s=72&u=78c4f23bead68ecd5a89e3361bff9a802737dbf9&v=4" width="24" alt="Avatar of bodza"> bodza
@@ -8932,7 +8945,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/AronNovak">
 				<img src="https://avatars.githubusercontent.com/u/114076?s=72&u=793dbee4a496631b5ff43efbe8506f49b1e4cc82&v=4" width="24" alt="Avatar of AronNovak"> AronNovak
@@ -8945,7 +8958,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/TamasSzigeti">
 				<img src="https://avatars.githubusercontent.com/u/148897?s=72&u=a678aedd13d2c1606caa3b4390d8fcf242aaf8b9&v=4" width="24" alt="Avatar of TamasSzigeti"> TamasSzigeti
@@ -8953,19 +8966,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 			Tamás Szigeti
 		</td>
 		<td>@motleyhu </td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>682</td>
-		<td>
-			<a href="https://github.com/badicsalex">
-				<img src="https://avatars.githubusercontent.com/u/9196531?s=72&u=b57373a5fc0a2fc6a3ebcacea04d43aa03c7bd7f&v=4" width="24" alt="Avatar of badicsalex"> badicsalex
-			</a><br/>
-			Alex Badics
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
 		<td>19</td>
@@ -9129,6 +9129,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>695</td>
 		<td>
+			<a href="https://github.com/kgyrtkirk">
+				<img src="https://avatars.githubusercontent.com/u/1902540?s=72&v=4" width="24" alt="Avatar of kgyrtkirk"> kgyrtkirk
+			</a><br/>
+			Zoltan Haindrich
+		</td>
+		<td>Hortonworks </td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>696</td>
+		<td>
 			<a href="https://github.com/salvipeter">
 				<img src="https://avatars.githubusercontent.com/u/104294?s=72&u=30c40c24a811ecc61a254bca78c7c1baccbef97a&v=4" width="24" alt="Avatar of salvipeter"> salvipeter
 			</a><br/>
@@ -9140,7 +9153,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/attilaberencsi">
 				<img src="https://avatars.githubusercontent.com/u/20442467?s=72&u=a390a2c1840d199cdacda029ad33a17fd23c9261&v=4" width="24" alt="Avatar of attilaberencsi"> attilaberencsi
@@ -9153,7 +9166,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/kozmagabor">
 				<img src="https://avatars.githubusercontent.com/u/2869162?s=72&u=7b3635084a362a0ba03833c800268bf4b47b685d&v=4" width="24" alt="Avatar of kozmagabor"> kozmagabor
@@ -9166,7 +9179,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/GraionDilach">
 				<img src="https://avatars.githubusercontent.com/u/1136302?s=72&u=60ca0cbb49ceb340a0436f2549156ffb9725cea3&v=4" width="24" alt="Avatar of GraionDilach"> GraionDilach
@@ -9179,7 +9192,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/amaximus">
 				<img src="https://avatars.githubusercontent.com/u/2511168?s=72&u=453f147c8826f87e19e3205186608f84d5fc8045&v=4" width="24" alt="Avatar of amaximus"> amaximus
@@ -9192,7 +9205,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/banyek">
 				<img src="https://avatars.githubusercontent.com/u/888213?s=72&v=4" width="24" alt="Avatar of banyek"> banyek
@@ -9205,7 +9218,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/milanjanosov">
 				<img src="https://avatars.githubusercontent.com/u/30074431?s=72&u=2f32fda23557019f45e45470c4631f40a8a9beaf&v=4" width="24" alt="Avatar of milanjanosov"> milanjanosov
@@ -9218,7 +9231,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/bezo97">
 				<img src="https://avatars.githubusercontent.com/u/26039350?s=72&u=1e49ff57ee1a79140f997422364509913384d201&v=4" width="24" alt="Avatar of bezo97"> bezo97
@@ -9228,19 +9241,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>@autsoft @zenitechsoftware </td>
 		<td>No Twitter Username</td>
 		<td>Hungary</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>703</td>
-		<td>
-			<a href="https://github.com/GeryGreyhound">
-				<img src="https://avatars.githubusercontent.com/u/27852904?s=72&u=0ede9cee155a2648593a72b9681e77ef5e32e2b9&v=4" width="24" alt="Avatar of GeryGreyhound"> GeryGreyhound
-			</a><br/>
-			Gergely Tomanovics
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/tomanovics_g">tomanovics_g</a></td>
-		<td>Budapest HU</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -9259,6 +9259,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>705</td>
 		<td>
+			<a href="https://github.com/GeryGreyhound">
+				<img src="https://avatars.githubusercontent.com/u/27852904?s=72&u=0ede9cee155a2648593a72b9681e77ef5e32e2b9&v=4" width="24" alt="Avatar of GeryGreyhound"> GeryGreyhound
+			</a><br/>
+			Gergely Tomanovics
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/tomanovics_g">tomanovics_g</a></td>
+		<td>Budapest HU</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>706</td>
+		<td>
 			<a href="https://github.com/kicsikrumpli">
 				<img src="https://avatars.githubusercontent.com/u/5749514?s=72&v=4" width="24" alt="Avatar of kicsikrumpli"> kicsikrumpli
 			</a><br/>
@@ -9270,7 +9283,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/Ngugisenior">
 				<img src="https://avatars.githubusercontent.com/u/25932594?s=72&u=35a16d2f1ea79793824259d8f5a725746a85d45e&v=4" width="24" alt="Avatar of Ngugisenior"> Ngugisenior
@@ -9283,7 +9296,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/cagdasyetkin">
 				<img src="https://avatars.githubusercontent.com/u/10583969?s=72&u=e0313ed6faca8a8fe4e9975b9349fbf315f56496&v=4" width="24" alt="Avatar of cagdasyetkin"> cagdasyetkin
@@ -9296,7 +9309,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/netom">
 				<img src="https://avatars.githubusercontent.com/u/695195?s=72&v=4" width="24" alt="Avatar of netom"> netom
@@ -9309,7 +9322,20 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
+		<td>
+			<a href="https://github.com/ancsapro">
+				<img src="https://avatars.githubusercontent.com/u/90144934?s=72&u=9290018171c3b5c4e7c3a0fac893979ad3742be7&v=4" width="24" alt="Avatar of ancsapro"> ancsapro
+			</a><br/>
+			Apró Anikó
+		</td>
+		<td>University Of Debrecen </td>
+		<td>No Twitter Username</td>
+		<td>Debrecen</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/csakiistvan">
 				<img src="https://avatars.githubusercontent.com/u/2457274?s=72&u=f34563baa8bc411fb4e6df04355fa8771e06e903&v=4" width="24" alt="Avatar of csakiistvan"> csakiistvan
@@ -9322,7 +9348,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/rajeshkumar-ctrl">
 				<img src="https://avatars.githubusercontent.com/u/77984971?s=72&v=4" width="24" alt="Avatar of rajeshkumar-ctrl"> rajeshkumar-ctrl
@@ -9335,7 +9361,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/szepeshazi">
 				<img src="https://avatars.githubusercontent.com/u/691819?s=72&v=4" width="24" alt="Avatar of szepeshazi"> szepeshazi
@@ -9348,7 +9374,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/DJviolin">
 				<img src="https://avatars.githubusercontent.com/u/5021728?s=72&u=f08eed08fcb57ec19e1cbfe561520164b54a5c84&v=4" width="24" alt="Avatar of DJviolin"> DJviolin
@@ -9361,7 +9387,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/snq-">
 				<img src="https://avatars.githubusercontent.com/u/449994?s=72&v=4" width="24" alt="Avatar of snq-"> snq-
@@ -9374,7 +9400,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/MuhammadHassanRazaa">
 				<img src="https://avatars.githubusercontent.com/u/47544114?s=72&u=1f4e7d92f0f9012e83033254f0a001cde730d4bf&v=4" width="24" alt="Avatar of MuhammadHassanRazaa"> MuhammadHassanRazaa
@@ -9387,7 +9413,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/lov">
 				<img src="https://avatars.githubusercontent.com/u/270203?s=72&u=fb4d20c0d8e9febe7006e5661695c4598d329eca&v=4" width="24" alt="Avatar of lov"> lov
@@ -9400,7 +9426,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/ZahoreczTibor">
 				<img src="https://avatars.githubusercontent.com/u/10360736?s=72&u=418055d910bd08280d270c3d1a687ae180866a68&v=4" width="24" alt="Avatar of ZahoreczTibor"> ZahoreczTibor
@@ -9413,7 +9439,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/gabormeszoly">
 				<img src="https://avatars.githubusercontent.com/u/1769854?s=72&u=5b5057de326445b4a6183a4859bb06024bc9c93e&v=4" width="24" alt="Avatar of gabormeszoly"> gabormeszoly
@@ -9426,7 +9452,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/dati91">
 				<img src="https://avatars.githubusercontent.com/u/2149430?s=72&v=4" width="24" alt="Avatar of dati91"> dati91
@@ -9439,7 +9465,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/pepe1125">
 				<img src="https://avatars.githubusercontent.com/u/2030278?s=72&u=bc7306a977660981fa2e109f6be521bee743ea6a&v=4" width="24" alt="Avatar of pepe1125"> pepe1125
@@ -9452,7 +9478,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/nbatfai">
 				<img src="https://avatars.githubusercontent.com/u/3148120?s=72&u=3c3661c103c0767cc90a747168c1601ab1a6c3b1&v=4" width="24" alt="Avatar of nbatfai"> nbatfai
@@ -9465,7 +9491,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/AttilaForgacs">
 				<img src="https://avatars.githubusercontent.com/u/373917?s=72&u=b068a184d508f6f6737aecf4b5aa42cd3b563b43&v=4" width="24" alt="Avatar of AttilaForgacs"> AttilaForgacs
@@ -9478,7 +9504,46 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>724</td>
+		<td>
+			<a href="https://github.com/matthiasvegh">
+				<img src="https://avatars.githubusercontent.com/u/4971202?s=72&u=eae62c4ef5837c88cb1a4133fc43eff7da56e59d&v=4" width="24" alt="Avatar of matthiasvegh"> matthiasvegh
+			</a><br/>
+			Matthias Vegh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>725</td>
+		<td>
+			<a href="https://github.com/JarJarMP">
+				<img src="https://avatars.githubusercontent.com/u/1998208?s=72&u=6833dcd696ad3bce044f4dae8e2ea932de6fc976&v=4" width="24" alt="Avatar of JarJarMP"> JarJarMP
+			</a><br/>
+			Péter Maróti
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>726</td>
+		<td>
+			<a href="https://github.com/yenshirak">
+				<img src="https://avatars.githubusercontent.com/u/4824537?s=72&u=3d52c27c9b1612bd7929b1f57cc2e80bebac2ac9&v=4" width="24" alt="Avatar of yenshirak"> yenshirak
+			</a><br/>
+			Robert Keresnyei
+		</td>
+		<td>Cto @swiftvee </td>
+		<td>No Twitter Username</td>
+		<td>Pécs, Hungary</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>727</td>
 		<td>
 			<a href="https://github.com/bvic23">
 				<img src="https://avatars.githubusercontent.com/u/2664424?s=72&u=8bc118d40b5e12881a5188e11d509c5bd7038b1b&v=4" width="24" alt="Avatar of bvic23"> bvic23
@@ -9491,7 +9556,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>728</td>
 		<td>
 			<a href="https://github.com/obedparla">
 				<img src="https://avatars.githubusercontent.com/u/10674462?s=72&v=4" width="24" alt="Avatar of obedparla"> obedparla
@@ -9504,7 +9569,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>729</td>
 		<td>
 			<a href="https://github.com/BaloghTamas">
 				<img src="https://avatars.githubusercontent.com/u/1443354?s=72&u=0711487725bd307fc5199e1e8d14bc11c0b9abf3&v=4" width="24" alt="Avatar of BaloghTamas"> BaloghTamas
@@ -9517,7 +9582,20 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>730</td>
+		<td>
+			<a href="https://github.com/treff7es">
+				<img src="https://avatars.githubusercontent.com/u/1339772?s=72&u=7480f8f6498db3a49b297ef3c7a519c5ac58db5e&v=4" width="24" alt="Avatar of treff7es"> treff7es
+			</a><br/>
+			Tamas Nemeth
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/treff7es">treff7es</a></td>
+		<td>Budapest</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>731</td>
 		<td>
 			<a href="https://github.com/janoshrubos">
 				<img src="https://avatars.githubusercontent.com/u/33330538?s=72&u=a5a2eea078537e467c1d22288b8e300c9fb03a1b&v=4" width="24" alt="Avatar of janoshrubos"> janoshrubos
@@ -9530,7 +9608,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>732</td>
 		<td>
 			<a href="https://github.com/TheClashFruit">
 				<img src="https://avatars.githubusercontent.com/u/55049569?s=72&u=48e8c0e9cb1e34d8752437ebd3b71528c8bf5aeb&v=4" width="24" alt="Avatar of TheClashFruit"> TheClashFruit
@@ -9543,7 +9621,46 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>733</td>
+		<td>
+			<a href="https://github.com/bali182">
+				<img src="https://avatars.githubusercontent.com/u/3879181?s=72&u=272137562ded5ce00959f8cb6dbd51f52147d926&v=4" width="24" alt="Avatar of bali182"> bali182
+			</a><br/>
+			Balázs Édes
+		</td>
+		<td>- </td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>734</td>
+		<td>
+			<a href="https://github.com/immanuelfodor">
+				<img src="https://avatars.githubusercontent.com/u/21174107?s=72&u=1426ade47038ad4ecbe4ce2e1b65d567731a6ea8&v=4" width="24" alt="Avatar of immanuelfodor"> immanuelfodor
+			</a><br/>
+			Immánuel!
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>735</td>
+		<td>
+			<a href="https://github.com/wolfika">
+				<img src="https://avatars.githubusercontent.com/u/1512067?s=72&u=71a834bfcd7d369d9b2c0b60a5514d17a61c05f9&v=4" width="24" alt="Avatar of wolfika"> wolfika
+			</a><br/>
+			Máté Farkas
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mfarkasdev">mfarkasdev</a></td>
+		<td>Budapest, Hungary</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/jonascsantos">
 				<img src="https://avatars.githubusercontent.com/u/15957868?s=72&u=79b41a6a6c172cb6697a51c3605c56acf9563465&v=4" width="24" alt="Avatar of jonascsantos"> jonascsantos
@@ -9556,7 +9673,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/TamasHodi">
 				<img src="https://avatars.githubusercontent.com/u/10826796?s=72&u=616f0ba65e56c1fbf6a90e99a4af7e4b9efeb515&v=4" width="24" alt="Avatar of TamasHodi"> TamasHodi
@@ -9569,7 +9686,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/Derisis13">
 				<img src="https://avatars.githubusercontent.com/u/66648475?s=72&u=d4b845cfeb300c24da0987e2f1d5003a7b141df9&v=4" width="24" alt="Avatar of Derisis13"> Derisis13
@@ -9582,7 +9699,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/alextrickey">
 				<img src="https://avatars.githubusercontent.com/u/13180131?s=72&u=d625a7425adb61ba5708f91ce9676ce60655df8f&v=4" width="24" alt="Avatar of alextrickey"> alextrickey
@@ -9595,7 +9712,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/Metalhead33">
 				<img src="https://avatars.githubusercontent.com/u/5764104?s=72&v=4" width="24" alt="Avatar of Metalhead33"> Metalhead33
@@ -9608,7 +9725,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/bence-szalai">
 				<img src="https://avatars.githubusercontent.com/u/8297128?s=72&u=5d5f886e428d8e3ddd13ac2cef7b6f310b239bfd&v=4" width="24" alt="Avatar of bence-szalai"> bence-szalai
@@ -9621,7 +9738,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/tothambrus11">
 				<img src="https://avatars.githubusercontent.com/u/32463042?s=72&u=8a9a9bc8251ddcb241ec47b368f20591a3b2ac1b&v=4" width="24" alt="Avatar of tothambrus11"> tothambrus11
@@ -9634,7 +9751,20 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>743</td>
+		<td>
+			<a href="https://github.com/gkevinb">
+				<img src="https://avatars.githubusercontent.com/u/22860656?s=72&u=e96c8da048127119d6b1db13e61adc5af8c937a4&v=4" width="24" alt="Avatar of gkevinb"> gkevinb
+			</a><br/>
+			Gabor Kevin Barta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/dfintha">
 				<img src="https://avatars.githubusercontent.com/u/11856747?s=72&u=a6882d941a179c00a15231d789a4a3c2b6c1c4bf&v=4" width="24" alt="Avatar of dfintha"> dfintha
@@ -9647,7 +9777,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/boobaa">
 				<img src="https://avatars.githubusercontent.com/u/294106?s=72&v=4" width="24" alt="Avatar of boobaa"> boobaa
@@ -9660,7 +9790,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/csuvikg">
 				<img src="https://avatars.githubusercontent.com/u/24875516?s=72&u=ff54125bd07ca2fe8b39ac10abde57df1974ec3f&v=4" width="24" alt="Avatar of csuvikg"> csuvikg
@@ -9673,7 +9803,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/oroszl">
 				<img src="https://avatars.githubusercontent.com/u/1990999?s=72&u=9da36b9df769bb732244e536f8da8245e82f68a9&v=4" width="24" alt="Avatar of oroszl"> oroszl
@@ -9686,7 +9816,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/bencef">
 				<img src="https://avatars.githubusercontent.com/u/10048381?s=72&v=4" width="24" alt="Avatar of bencef"> bencef
@@ -9699,7 +9829,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/radikris">
 				<img src="https://avatars.githubusercontent.com/u/55052220?s=72&u=00db4d8234a84aab9cd73210a4f56bf61cd23dbf&v=4" width="24" alt="Avatar of radikris"> radikris
@@ -9712,7 +9842,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/khongi">
 				<img src="https://avatars.githubusercontent.com/u/11983684?s=72&u=164eb0b49a9f5396fbab8fe1dca890830f46f748&v=4" width="24" alt="Avatar of khongi"> khongi
@@ -9725,7 +9855,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/nagyv">
 				<img src="https://avatars.githubusercontent.com/u/126671?s=72&u=2a0299b690acae87f483c7a560dd64f7ade39ca8&v=4" width="24" alt="Avatar of nagyv"> nagyv
@@ -9738,7 +9868,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/PeterHeja">
 				<img src="https://avatars.githubusercontent.com/u/4528742?s=72&v=4" width="24" alt="Avatar of PeterHeja"> PeterHeja
@@ -9751,7 +9881,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/hongorzulnemo">
 				<img src="https://avatars.githubusercontent.com/u/44760190?s=72&u=ec77c5b8ac4acad6fe094d0b0c0ad65fc39ae813&v=4" width="24" alt="Avatar of hongorzulnemo"> hongorzulnemo
@@ -9764,7 +9894,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/imeszaros">
 				<img src="https://avatars.githubusercontent.com/u/691942?s=72&u=4eb7711f9d20eae0ce4107231a27c5a47087a923&v=4" width="24" alt="Avatar of imeszaros"> imeszaros
@@ -9777,7 +9907,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/pherbel">
 				<img src="https://avatars.githubusercontent.com/u/10715626?s=72&u=222cf8d6011384c5729bfa13864e1639b394ac63&v=4" width="24" alt="Avatar of pherbel"> pherbel
@@ -9790,7 +9920,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/jagarinart">
 				<img src="https://avatars.githubusercontent.com/u/91692627?s=72&u=2f24658f3d1df647fc45b933ead78544844b10d7&v=4" width="24" alt="Avatar of jagarinart"> jagarinart
@@ -9803,7 +9933,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/burci">
 				<img src="https://avatars.githubusercontent.com/u/864531?s=72&v=4" width="24" alt="Avatar of burci"> burci
@@ -9816,7 +9946,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/roko79">
 				<img src="https://avatars.githubusercontent.com/u/13545469?s=72&u=f81a0936bf6092e9b1b3e4c49d93d8c52a562163&v=4" width="24" alt="Avatar of roko79"> roko79
@@ -9829,7 +9959,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/BMEAutomatedDrive">
 				<img src="https://avatars.githubusercontent.com/u/56110641?s=72&u=9300774d8feb68e0a7dabe73f304552333ec4fbd&v=4" width="24" alt="Avatar of BMEAutomatedDrive"> BMEAutomatedDrive
@@ -9842,7 +9972,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/Ligthguard">
 				<img src="https://avatars.githubusercontent.com/u/79979?s=72&v=4" width="24" alt="Avatar of Ligthguard"> Ligthguard
@@ -9855,7 +9985,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/bvarga">
 				<img src="https://avatars.githubusercontent.com/u/1146866?s=72&u=7f8009cd718504e9c0e2261de6ae65b469210b56&v=4" width="24" alt="Avatar of bvarga"> bvarga
@@ -9868,7 +9998,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/merobal">
 				<img src="https://avatars.githubusercontent.com/u/5844511?s=72&u=9e2acc9a07c24f7da47b09148112d2d325e82f1b&v=4" width="24" alt="Avatar of merobal"> merobal
@@ -9881,7 +10011,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/kkovaacs">
 				<img src="https://avatars.githubusercontent.com/u/629536?s=72&u=4e4a2500e8379ab1ddaf3e3ccc8e0ead876a1f5d&v=4" width="24" alt="Avatar of kkovaacs"> kkovaacs
@@ -9894,7 +10024,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/Fontinalis">
 				<img src="https://avatars.githubusercontent.com/u/11632400?s=72&u=202edd2df50ffa6dcdb0fb292b8115383c98d966&v=4" width="24" alt="Avatar of Fontinalis"> Fontinalis
@@ -9907,7 +10037,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/leventenyiro">
 				<img src="https://avatars.githubusercontent.com/u/44240562?s=72&u=93226d0d44f0b11adb675e7bd891d7382f952d91&v=4" width="24" alt="Avatar of leventenyiro"> leventenyiro
@@ -9920,7 +10050,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/terkalma">
 				<img src="https://avatars.githubusercontent.com/u/3500696?s=72&u=907f00ed96c5693b3442edffe98a4664f11a4646&v=4" width="24" alt="Avatar of terkalma"> terkalma
@@ -9933,7 +10063,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/balintant">
 				<img src="https://avatars.githubusercontent.com/u/1739643?s=72&u=617bdc646ead38008909d8db789e031f05860016&v=4" width="24" alt="Avatar of balintant"> balintant
@@ -9946,20 +10076,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>758</td>
-		<td>
-			<a href="https://github.com/balintant">
-				<img src="https://avatars.githubusercontent.com/u/1739643?s=72&u=617bdc646ead38008909d8db789e031f05860016&v=4" width="24" alt="Avatar of balintant"> balintant
-			</a><br/>
-			Balint Antal
-		</td>
-		<td>Riltech Software Ltd. </td>
-		<td><a href="https://twitter.com/balintant">balintant</a></td>
-		<td>Budapest, HU</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>759</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/MrAntares">
 				<img src="https://avatars.githubusercontent.com/u/5745362?s=72&u=eb6fbb08c11d64efdca69afd8dfd1fd676c9dc37&v=4" width="24" alt="Avatar of MrAntares"> MrAntares
@@ -9972,20 +10089,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>760</td>
-		<td>
-			<a href="https://github.com/MrAntares">
-				<img src="https://avatars.githubusercontent.com/u/5745362?s=72&u=eb6fbb08c11d64efdca69afd8dfd1fd676c9dc37&v=4" width="24" alt="Avatar of MrAntares"> MrAntares
-			</a><br/>
-			Antares
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>761</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/mmiillmm">
 				<img src="https://avatars.githubusercontent.com/u/100156247?s=72&u=7950822777ae08b81e52b1d47b5f7ee4aac0c617&v=4" width="24" alt="Avatar of mmiillmm"> mmiillmm
@@ -9998,7 +10102,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/ppseprus">
 				<img src="https://avatars.githubusercontent.com/u/1323285?s=72&u=beaa5f6d4f88beaae542334896f7b705cdadc841&v=4" width="24" alt="Avatar of ppseprus"> ppseprus
@@ -10011,85 +10115,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>763</td>
-		<td>
-			<a href="https://github.com/ppseprus">
-				<img src="https://avatars.githubusercontent.com/u/1323285?s=72&u=beaa5f6d4f88beaae542334896f7b705cdadc841&v=4" width="24" alt="Avatar of ppseprus"> ppseprus
-			</a><br/>
-			Peter Seprus
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ppseprus">ppseprus</a></td>
-		<td>Budapest, Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>764</td>
-		<td>
-			<a href="https://github.com/AndrisBorbas">
-				<img src="https://avatars.githubusercontent.com/u/17726287?s=72&u=b09bb61a5358c14ccd3137d849648f57e382e5df&v=4" width="24" alt="Avatar of AndrisBorbas"> AndrisBorbas
-			</a><br/>
-			Andris Borbás
-		</td>
-		<td>Neocoregames </td>
-		<td><a href="https://twitter.com/andrisborbas">andrisborbas</a></td>
-		<td>Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>765</td>
-		<td>
-			<a href="https://github.com/AndrisBorbas">
-				<img src="https://avatars.githubusercontent.com/u/17726287?s=72&u=b09bb61a5358c14ccd3137d849648f57e382e5df&v=4" width="24" alt="Avatar of AndrisBorbas"> AndrisBorbas
-			</a><br/>
-			Andris Borbás
-		</td>
-		<td>Neocoregames </td>
-		<td><a href="https://twitter.com/andrisborbas">andrisborbas</a></td>
-		<td>Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>766</td>
-		<td>
-			<a href="https://github.com/pbalogh-sa">
-				<img src="https://avatars.githubusercontent.com/u/13311234?s=72&u=dfd027e2d374e77b8db3c7c513c206135e7be43d&v=4" width="24" alt="Avatar of pbalogh-sa"> pbalogh-sa
-			</a><br/>
-			Peter Balogh
-		</td>
-		<td>@cisco </td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>767</td>
-		<td>
-			<a href="https://github.com/razzie">
-				<img src="https://avatars.githubusercontent.com/u/19540872?s=72&u=e63a0e9174afd6d453c905374aeb9004e403cd7b&v=4" width="24" alt="Avatar of razzie"> razzie
-			</a><br/>
-			Gábor Görzsöny
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>768</td>
-		<td>
-			<a href="https://github.com/neilsf">
-				<img src="https://avatars.githubusercontent.com/u/5172851?s=72&u=8b84ad173ade7b95fd6e83886f2b165e27bc7fc6&v=4" width="24" alt="Avatar of neilsf"> neilsf
-			</a><br/>
-			Csaba Fekete
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>769</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/AdvancedAntiSkid">
 				<img src="https://avatars.githubusercontent.com/u/47271339?s=72&u=8afc80b81bbbad9fc8e2348ea92cb03fab9ef1e4&v=4" width="24" alt="Avatar of AdvancedAntiSkid"> AdvancedAntiSkid
@@ -10102,7 +10128,59 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>772</td>
+		<td>
+			<a href="https://github.com/AndrisBorbas">
+				<img src="https://avatars.githubusercontent.com/u/17726287?s=72&u=b09bb61a5358c14ccd3137d849648f57e382e5df&v=4" width="24" alt="Avatar of AndrisBorbas"> AndrisBorbas
+			</a><br/>
+			Andris Borbás
+		</td>
+		<td>Neocoregames </td>
+		<td><a href="https://twitter.com/andrisborbas">andrisborbas</a></td>
+		<td>Hungary</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>773</td>
+		<td>
+			<a href="https://github.com/pbalogh-sa">
+				<img src="https://avatars.githubusercontent.com/u/13311234?s=72&u=dfd027e2d374e77b8db3c7c513c206135e7be43d&v=4" width="24" alt="Avatar of pbalogh-sa"> pbalogh-sa
+			</a><br/>
+			Peter Balogh
+		</td>
+		<td>@cisco </td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>774</td>
+		<td>
+			<a href="https://github.com/razzie">
+				<img src="https://avatars.githubusercontent.com/u/19540872?s=72&u=e63a0e9174afd6d453c905374aeb9004e403cd7b&v=4" width="24" alt="Avatar of razzie"> razzie
+			</a><br/>
+			Gábor Görzsöny
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hungary</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>775</td>
+		<td>
+			<a href="https://github.com/neilsf">
+				<img src="https://avatars.githubusercontent.com/u/5172851?s=72&u=8b84ad173ade7b95fd6e83886f2b165e27bc7fc6&v=4" width="24" alt="Avatar of neilsf"> neilsf
+			</a><br/>
+			Csaba Fekete
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/szattila98">
 				<img src="https://avatars.githubusercontent.com/u/37137309?s=72&u=10070b9a868df061256686ed0f41f6e751f6200c&v=4" width="24" alt="Avatar of szattila98"> szattila98
@@ -10115,7 +10193,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/baluchicken">
 				<img src="https://avatars.githubusercontent.com/u/14196407?s=72&u=fe0fba362d2f5e51b316125c5cbc9ba67362bd1a&v=4" width="24" alt="Avatar of baluchicken"> baluchicken
@@ -10128,7 +10206,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/abelhegedus">
 				<img src="https://avatars.githubusercontent.com/u/716108?s=72&u=2cecdbcb1e6ceed8970fa790db5ba73ac9668c37&v=4" width="24" alt="Avatar of abelhegedus"> abelhegedus
@@ -10141,7 +10219,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/marton-balazs-kovacs">
 				<img src="https://avatars.githubusercontent.com/u/43272864?s=72&u=518cc74cd51642fb839405cce947117fb421955c&v=4" width="24" alt="Avatar of marton-balazs-kovacs"> marton-balazs-kovacs
@@ -10154,7 +10232,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/LombiqBot">
 				<img src="https://avatars.githubusercontent.com/u/8517910?s=72&u=6ab3ff789b413fb9079d8f678b33b490ea04e54a&v=4" width="24" alt="Avatar of LombiqBot"> LombiqBot
@@ -10167,20 +10245,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>775</td>
-		<td>
-			<a href="https://github.com/LombiqBot">
-				<img src="https://avatars.githubusercontent.com/u/8517910?s=72&u=6ab3ff789b413fb9079d8f678b33b490ea04e54a&v=4" width="24" alt="Avatar of LombiqBot"> LombiqBot
-			</a><br/>
-			Lombiq Bot
-		</td>
-		<td>Lombiq Technologies Ltd. </td>
-		<td><a href="https://twitter.com/Lombiq">Lombiq</a></td>
-		<td>Budapest, Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>776</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/vasarhelyi">
 				<img src="https://avatars.githubusercontent.com/u/8138056?s=72&u=6f95c31b52495e78381905c51b7a72bb40d99156&v=4" width="24" alt="Avatar of vasarhelyi"> vasarhelyi
@@ -10193,7 +10258,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/pallagj">
 				<img src="https://avatars.githubusercontent.com/u/37118052?s=72&u=f6364d5037ffdff14d90e47e0b2ad04d3a889c20&v=4" width="24" alt="Avatar of pallagj"> pallagj
@@ -10206,20 +10271,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>778</td>
-		<td>
-			<a href="https://github.com/pallagj">
-				<img src="https://avatars.githubusercontent.com/u/37118052?s=72&u=f6364d5037ffdff14d90e47e0b2ad04d3a889c20&v=4" width="24" alt="Avatar of pallagj"> pallagj
-			</a><br/>
-			Jonatán Pallag
-		</td>
-		<td>Evopro Innovation Kft. </td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>779</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/herczogzoltan">
 				<img src="https://avatars.githubusercontent.com/u/12686453?s=72&u=623f37f4bf93868c34a48aa96ab611c16bed67d6&v=4" width="24" alt="Avatar of herczogzoltan"> herczogzoltan
@@ -10232,7 +10284,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/cassus">
 				<img src="https://avatars.githubusercontent.com/u/316826?s=72&v=4" width="24" alt="Avatar of cassus"> cassus
@@ -10245,7 +10297,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/VGeorgee">
 				<img src="https://avatars.githubusercontent.com/u/32582193?s=72&u=1c34aa0189e2ebddc297d714237879d8aabdf424&v=4" width="24" alt="Avatar of VGeorgee"> VGeorgee
@@ -10258,7 +10310,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/hannahmontgomery4143">
 				<img src="https://avatars.githubusercontent.com/u/104352785?s=72&u=e8efe4f6e599d46a2565e836edc16f81069bc95f&v=4" width="24" alt="Avatar of hannahmontgomery4143"> hannahmontgomery4143
@@ -10271,7 +10323,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/cellux">
 				<img src="https://avatars.githubusercontent.com/u/399868?s=72&u=d85bcf2c06058ac2f8a035a68d92a3659e750736&v=4" width="24" alt="Avatar of cellux"> cellux
@@ -10284,7 +10336,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/amhkhowaja">
 				<img src="https://avatars.githubusercontent.com/u/63882136?s=72&u=6306a60ef767a50b87bbc521d5e31cd99911589a&v=4" width="24" alt="Avatar of amhkhowaja"> amhkhowaja
@@ -10297,7 +10349,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/milantenk">
 				<img src="https://avatars.githubusercontent.com/u/4102195?s=72&u=e8e8a3b483857eece20fcdec94a8c219b39f76d0&v=4" width="24" alt="Avatar of milantenk"> milantenk
@@ -10310,7 +10362,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/kolesar-andras">
 				<img src="https://avatars.githubusercontent.com/u/10164425?s=72&u=1c9c9f62997783f7c2cf6aad3108d41976cb25a4&v=4" width="24" alt="Avatar of kolesar-andras"> kolesar-andras
@@ -10323,7 +10375,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/timygerdes">
 				<img src="https://avatars.githubusercontent.com/u/42930654?s=72&v=4" width="24" alt="Avatar of timygerdes"> timygerdes
@@ -10336,7 +10388,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/SPYFF">
 				<img src="https://avatars.githubusercontent.com/u/7911352?s=72&u=16504c6ecd07a601254fc01ad5137d417a5fc806&v=4" width="24" alt="Avatar of SPYFF"> SPYFF
@@ -10349,7 +10401,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/Xmister">
 				<img src="https://avatars.githubusercontent.com/u/396582?s=72&v=4" width="24" alt="Avatar of Xmister"> Xmister
@@ -10362,7 +10414,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/gadfly16">
 				<img src="https://avatars.githubusercontent.com/u/50180?s=72&v=4" width="24" alt="Avatar of gadfly16"> gadfly16
@@ -10375,7 +10427,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/lazarv">
 				<img src="https://avatars.githubusercontent.com/u/1749493?s=72&u=e53c3d8a6aab22732171b21372733faead30902e&v=4" width="24" alt="Avatar of lazarv"> lazarv
@@ -10388,7 +10440,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/iso88592">
 				<img src="https://avatars.githubusercontent.com/u/14221367?s=72&u=a7566e669d9a5294420b81d69c6bfc8192cf27d5&v=4" width="24" alt="Avatar of iso88592"> iso88592
@@ -10401,80 +10453,28 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>793</td>
-		<td>
-			<a href="https://github.com/richardkundl">
-				<img src="https://avatars.githubusercontent.com/u/1387512?s=72&v=4" width="24" alt="Avatar of richardkundl"> richardkundl
-			</a><br/>
-			Richard Kundl
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, HU</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>794</td>
-		<td>
-			<a href="https://github.com/richardkundl">
-				<img src="https://avatars.githubusercontent.com/u/1387512?s=72&v=4" width="24" alt="Avatar of richardkundl"> richardkundl
-			</a><br/>
-			Richard Kundl
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, HU</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>795</td>
-		<td>
-			<a href="https://github.com/adosztal">
-				<img src="https://avatars.githubusercontent.com/u/16632791?s=72&u=ddbe4bbc9e4c449c0ff4468e59819c08dca58acb&v=4" width="24" alt="Avatar of adosztal"> adosztal
-			</a><br/>
-			Andras Dosztal
-		</td>
-		<td>Sap </td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>796</td>
-		<td>
-			<a href="https://github.com/adosztal">
-				<img src="https://avatars.githubusercontent.com/u/16632791?s=72&u=ddbe4bbc9e4c449c0ff4468e59819c08dca58acb&v=4" width="24" alt="Avatar of adosztal"> adosztal
-			</a><br/>
-			Andras Dosztal
-		</td>
-		<td>Sap </td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
-		<td>17</td>
-	</tr>
-	<tr>
 		<td>797</td>
 		<td>
-			<a href="https://github.com/samadliayaz">
-				<img src="https://avatars.githubusercontent.com/u/45862245?s=72&u=5a4b6f6cbf606a00e118fbd8dd703cc15d9e2627&v=4" width="24" alt="Avatar of samadliayaz"> samadliayaz
+			<a href="https://github.com/richardkundl">
+				<img src="https://avatars.githubusercontent.com/u/1387512?s=72&v=4" width="24" alt="Avatar of richardkundl"> richardkundl
 			</a><br/>
-			No Name
+			Richard Kundl
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
+		<td>Budapest, HU</td>
 		<td>17</td>
 	</tr>
 	<tr>
 		<td>798</td>
 		<td>
-			<a href="https://github.com/Mustafashahoud">
-				<img src="https://avatars.githubusercontent.com/u/33812602?s=72&u=1ec88fc3229cef872c5957a420db0276ec28428f&v=4" width="24" alt="Avatar of Mustafashahoud"> Mustafashahoud
+			<a href="https://github.com/adosztal">
+				<img src="https://avatars.githubusercontent.com/u/16632791?s=72&u=ddbe4bbc9e4c449c0ff4468e59819c08dca58acb&v=4" width="24" alt="Avatar of adosztal"> adosztal
 			</a><br/>
-			Mustafa Shahoud
+			Andras Dosztal
 		</td>
-		<td>University Of Pannonia </td>
-		<td><a href="https://twitter.com/MustafaShahoud">MustafaShahoud</a></td>
+		<td>Sap </td>
+		<td>No Twitter Username</td>
 		<td>Hungary</td>
 		<td>17</td>
 	</tr>
@@ -10741,19 +10741,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>819</td>
 		<td>
-			<a href="https://github.com/mentlerd">
-				<img src="https://avatars.githubusercontent.com/u/1068675?s=72&u=ffeca61f22757ebd965c4e8979197f13b3cf4775&v=4" width="24" alt="Avatar of mentlerd"> mentlerd
-			</a><br/>
-			David Mentler
-		</td>
-		<td>Shapr3d </td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>820</td>
-		<td>
 			<a href="https://github.com/bucsi">
 				<img src="https://avatars.githubusercontent.com/u/11545252?s=72&u=07123e7da757ad53d79e6128781f535116a355dd&v=4" width="24" alt="Avatar of bucsi"> bucsi
 			</a><br/>
@@ -10761,6 +10748,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		</td>
 		<td>@emartech </td>
 		<td><a href="https://twitter.com/bucsiwastaken">bucsiwastaken</a></td>
+		<td>Budapest, Hungary</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>820</td>
+		<td>
+			<a href="https://github.com/larsyngvelundin">
+				<img src="https://avatars.githubusercontent.com/u/34173819?s=72&u=74958599695bf83ac9f1addd935a51548a10c6b0&v=4" width="24" alt="Avatar of larsyngvelundin"> larsyngvelundin
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Budapest, Hungary</td>
 		<td>16</td>
 	</tr>
@@ -11027,6 +11027,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>841</td>
 		<td>
+			<a href="https://github.com/milanvarady">
+				<img src="https://avatars.githubusercontent.com/u/61704770?s=72&u=f850c52abc0637c0babb119cfcd5d88a0619c393&v=4" width="24" alt="Avatar of milanvarady"> milanvarady
+			</a><br/>
+			Milán Várady
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/MilanVarady">MilanVarady</a></td>
+		<td>Budapest</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>842</td>
+		<td>
 			<a href="https://github.com/mjoyceGR">
 				<img src="https://avatars.githubusercontent.com/u/15187561?s=72&u=bfa05eabcc791478a66acb19f9b8c70ce7b4df04&v=4" width="24" alt="Avatar of mjoyceGR"> mjoyceGR
 			</a><br/>
@@ -11038,7 +11051,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>842</td>
+		<td>843</td>
 		<td>
 			<a href="https://github.com/KDani-99">
 				<img src="https://avatars.githubusercontent.com/u/39048573?s=72&u=8968c5bc86f76109a763a23e3a8ce4a23c629568&v=4" width="24" alt="Avatar of KDani-99"> KDani-99
@@ -11051,7 +11064,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>843</td>
+		<td>844</td>
 		<td>
 			<a href="https://github.com/bokae">
 				<img src="https://avatars.githubusercontent.com/u/14760490?s=72&u=ff08cdd542174f5f1e51c11df757087c19c496fb&v=4" width="24" alt="Avatar of bokae"> bokae
@@ -11064,7 +11077,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>844</td>
+		<td>845</td>
 		<td>
 			<a href="https://github.com/symat">
 				<img src="https://avatars.githubusercontent.com/u/18458499?s=72&u=a253fcdb46ccf85da21724d748c2240b87a6e90f&v=4" width="24" alt="Avatar of symat"> symat
@@ -11077,7 +11090,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>845</td>
+		<td>846</td>
 		<td>
 			<a href="https://github.com/NobleAscent">
 				<img src="https://avatars.githubusercontent.com/u/25895859?s=72&u=eba10873e339bb284805f7ea8de6a8b028067886&v=4" width="24" alt="Avatar of NobleAscent"> NobleAscent
@@ -11090,7 +11103,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>846</td>
+		<td>847</td>
 		<td>
 			<a href="https://github.com/Anabra">
 				<img src="https://avatars.githubusercontent.com/u/18696486?s=72&u=0812b3b30b022c5775b55ccafa8af96baa3aebd6&v=4" width="24" alt="Avatar of Anabra"> Anabra
@@ -11100,19 +11113,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>847</td>
-		<td>
-			<a href="https://github.com/threepoint14159265359">
-				<img src="https://avatars.githubusercontent.com/u/57052956?s=72&u=85656dd4db40373e0eaffedfa3acd344831eaccd&v=4" width="24" alt="Avatar of threepoint14159265359"> threepoint14159265359
-			</a><br/>
-			Hussain Izhar 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -11235,6 +11235,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>857</td>
 		<td>
+			<a href="https://github.com/halacsy">
+				<img src="https://avatars.githubusercontent.com/u/1827287?s=72&v=4" width="24" alt="Avatar of halacsy"> halacsy
+			</a><br/>
+			Peter Halacsy
+		</td>
+		<td>Prezi, Budapest School </td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>858</td>
+		<td>
 			<a href="https://github.com/asalamon74">
 				<img src="https://avatars.githubusercontent.com/u/13440318?s=72&v=4" width="24" alt="Avatar of asalamon74"> asalamon74
 			</a><br/>
@@ -11246,7 +11259,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>859</td>
 		<td>
 			<a href="https://github.com/rerobika">
 				<img src="https://avatars.githubusercontent.com/u/22135179?s=72&u=8254b032a06d4850b0a8201ca61026d834a5c328&v=4" width="24" alt="Avatar of rerobika"> rerobika
@@ -11259,7 +11272,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>860</td>
 		<td>
 			<a href="https://github.com/mezoistvan">
 				<img src="https://avatars.githubusercontent.com/u/11316929?s=72&u=5c3bdb4cfe37d12f7cc9236e23cb92ff40fc2d4c&v=4" width="24" alt="Avatar of mezoistvan"> mezoistvan
@@ -11272,7 +11285,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>860</td>
+		<td>861</td>
 		<td>
 			<a href="https://github.com/yilmazerhakan">
 				<img src="https://avatars.githubusercontent.com/u/3083808?s=72&u=9ac453305391f93d31e9b40583ffae38c4d8b1e6&v=4" width="24" alt="Avatar of yilmazerhakan"> yilmazerhakan
@@ -11285,7 +11298,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>861</td>
+		<td>862</td>
 		<td>
 			<a href="https://github.com/blnkhz">
 				<img src="https://avatars.githubusercontent.com/u/31451993?s=72&u=327c991896b0a2eb6dd2442f383a0022cc9b9afc&v=4" width="24" alt="Avatar of blnkhz"> blnkhz
@@ -11298,7 +11311,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>862</td>
+		<td>863</td>
 		<td>
 			<a href="https://github.com/msbence">
 				<img src="https://avatars.githubusercontent.com/u/47527857?s=72&v=4" width="24" alt="Avatar of msbence"> msbence
@@ -11311,7 +11324,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>863</td>
+		<td>864</td>
 		<td>
 			<a href="https://github.com/woranhun">
 				<img src="https://avatars.githubusercontent.com/u/35062978?s=72&u=d2cf23759de367e76e422a18089843008b3e808b&v=4" width="24" alt="Avatar of woranhun"> woranhun
@@ -11324,7 +11337,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>864</td>
+		<td>865</td>
 		<td>
 			<a href="https://github.com/veghtomi">
 				<img src="https://avatars.githubusercontent.com/u/22046406?s=72&u=b85f6c1c063e1f650b89450d2acb11c83d129c7e&v=4" width="24" alt="Avatar of veghtomi"> veghtomi
@@ -11337,7 +11350,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>865</td>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/GDSC-ELTE">
 				<img src="https://avatars.githubusercontent.com/u/94010710?s=72&u=c7b8862219696813bbeaaa0f39e143f77a0cd555&v=4" width="24" alt="Avatar of GDSC-ELTE"> GDSC-ELTE
@@ -11350,7 +11363,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>866</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/virgosystems">
 				<img src="https://avatars.githubusercontent.com/u/47055?s=72&v=4" width="24" alt="Avatar of virgosystems"> virgosystems
@@ -11363,7 +11376,20 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>867</td>
+		<td>868</td>
+		<td>
+			<a href="https://github.com/orionstar">
+				<img src="https://avatars.githubusercontent.com/u/2486741?s=72&v=4" width="24" alt="Avatar of orionstar"> orionstar
+			</a><br/>
+			László Bóra
+		</td>
+		<td>Hungaropixel </td>
+		<td>No Twitter Username</td>
+		<td>Hungary, Pécs</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>869</td>
 		<td>
 			<a href="https://github.com/haskell-tools">
 				<img src="https://avatars.githubusercontent.com/u/20105999?s=72&u=8998a28b4a9147c880a27e7b2d8adf8b1534a572&v=4" width="24" alt="Avatar of haskell-tools"> haskell-tools
@@ -11376,7 +11402,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>868</td>
+		<td>870</td>
 		<td>
 			<a href="https://github.com/lonalore">
 				<img src="https://avatars.githubusercontent.com/u/6043821?s=72&u=48ed7cb107ec64ded4173240511b9ea3a664b4a9&v=4" width="24" alt="Avatar of lonalore"> lonalore
@@ -11389,7 +11415,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>869</td>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/nagyesta">
 				<img src="https://avatars.githubusercontent.com/u/308406?s=72&u=e4d7923efaf2e807f401438ff67c58a0c5187e17&v=4" width="24" alt="Avatar of nagyesta"> nagyesta
@@ -11402,7 +11428,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>872</td>
 		<td>
 			<a href="https://github.com/dandehavilland">
 				<img src="https://avatars.githubusercontent.com/u/95854?s=72&u=1def6ceaa1477b726a39dc9b89ecc878359a8a09&v=4" width="24" alt="Avatar of dandehavilland"> dandehavilland
@@ -11415,7 +11441,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>871</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/ghaabor">
 				<img src="https://avatars.githubusercontent.com/u/3968828?s=72&u=184d0bd5e247b71403db9c41a8466e19fbef6792&v=4" width="24" alt="Avatar of ghaabor"> ghaabor
@@ -11428,7 +11454,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>872</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/festo">
 				<img src="https://avatars.githubusercontent.com/u/1818211?s=72&v=4" width="24" alt="Avatar of festo"> festo
@@ -11441,7 +11467,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/kviktor">
 				<img src="https://avatars.githubusercontent.com/u/1112058?s=72&u=8e4259619cf4a697c7e303d14e226c905fbf8dad&v=4" width="24" alt="Avatar of kviktor"> kviktor
@@ -11454,7 +11480,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/alltilla">
 				<img src="https://avatars.githubusercontent.com/u/45236571?s=72&u=dfe474eddc3c7d6cc8a56d37c6c1decb96ccfa8e&v=4" width="24" alt="Avatar of alltilla"> alltilla
@@ -11467,7 +11493,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/FleXoft">
 				<img src="https://avatars.githubusercontent.com/u/1357569?s=72&v=4" width="24" alt="Avatar of FleXoft"> FleXoft
@@ -11480,7 +11506,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/scorchio">
 				<img src="https://avatars.githubusercontent.com/u/236650?s=72&u=f88738039d4afbd6b42ee93f720c3266711259d9&v=4" width="24" alt="Avatar of scorchio"> scorchio
@@ -11493,7 +11519,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/krajorama">
 				<img src="https://avatars.githubusercontent.com/u/13435893?s=72&u=81c66cece8f41d9468d6a2c154e2245feb345d2e&v=4" width="24" alt="Avatar of krajorama"> krajorama
@@ -11506,7 +11532,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/berenteb">
 				<img src="https://avatars.githubusercontent.com/u/30603208?s=72&u=902bb76e339736aa3e5dce13d4a16bdf16bb2fa2&v=4" width="24" alt="Avatar of berenteb"> berenteb
@@ -11519,7 +11545,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/gasparrobi">
 				<img src="https://avatars.githubusercontent.com/u/15650871?s=72&u=739e82e7542e5932ae2c0e72e62d0e4771a54657&v=4" width="24" alt="Avatar of gasparrobi"> gasparrobi
@@ -11532,7 +11558,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/szaboa">
 				<img src="https://avatars.githubusercontent.com/u/3526708?s=72&u=2da94e5ec769ccf84c5fe6715b51f3e9a3ecd2b2&v=4" width="24" alt="Avatar of szaboa"> szaboa
@@ -11545,7 +11571,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/beni69">
 				<img src="https://avatars.githubusercontent.com/u/73666440?s=72&v=4" width="24" alt="Avatar of beni69"> beni69
@@ -11558,7 +11584,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/laxika">
 				<img src="https://avatars.githubusercontent.com/u/1862574?s=72&u=7f00be45fe56313f377814641ee8731b1c444990&v=4" width="24" alt="Avatar of laxika"> laxika
@@ -11571,7 +11597,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/HiImZsofi">
 				<img src="https://avatars.githubusercontent.com/u/56290679?s=72&u=b94b5b35b72a499970ad371586742920c0e5a90d&v=4" width="24" alt="Avatar of HiImZsofi"> HiImZsofi
@@ -11584,7 +11610,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/koszeggy">
 				<img src="https://avatars.githubusercontent.com/u/27336165?s=72&u=ea230ef327a959d2eebe88867af778473f3d981b&v=4" width="24" alt="Avatar of koszeggy"> koszeggy
@@ -11594,32 +11620,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Budapest</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>885</td>
-		<td>
-			<a href="https://github.com/intonarumori">
-				<img src="https://avatars.githubusercontent.com/u/86030?s=72&u=c46c212559323637fdb8d971203fc798cff02a60&v=4" width="24" alt="Avatar of intonarumori"> intonarumori
-			</a><br/>
-			rmri
-		</td>
-		<td>Rmri </td>
-		<td>No Twitter Username</td>
-		<td>Budapest</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>886</td>
-		<td>
-			<a href="https://github.com/balesz">
-				<img src="https://avatars.githubusercontent.com/u/2499021?s=72&u=ac87a98cc4a326359b40a58eca286ff665c9d15b&v=4" width="24" alt="Avatar of balesz"> balesz
-			</a><br/>
-			Bálint Böde
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -11638,6 +11638,32 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>888</td>
 		<td>
+			<a href="https://github.com/intonarumori">
+				<img src="https://avatars.githubusercontent.com/u/86030?s=72&u=c46c212559323637fdb8d971203fc798cff02a60&v=4" width="24" alt="Avatar of intonarumori"> intonarumori
+			</a><br/>
+			rmri
+		</td>
+		<td>Rmri </td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>889</td>
+		<td>
+			<a href="https://github.com/balesz">
+				<img src="https://avatars.githubusercontent.com/u/2499021?s=72&u=ac87a98cc4a326359b40a58eca286ff665c9d15b&v=4" width="24" alt="Avatar of balesz"> balesz
+			</a><br/>
+			Bálint Böde
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Hungary</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>890</td>
+		<td>
 			<a href="https://github.com/CsakiTheOne">
 				<img src="https://avatars.githubusercontent.com/u/26061759?s=72&u=90dd45eb38aaa2fbb68f3e6c46e07024d261cb13&v=4" width="24" alt="Avatar of CsakiTheOne"> CsakiTheOne
 			</a><br/>
@@ -11649,7 +11675,20 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>891</td>
+		<td>
+			<a href="https://github.com/gulyasfeccferenc">
+				<img src="https://avatars.githubusercontent.com/u/3520975?s=72&u=df6b2c00ed765cae0f91ef8f2106277229f13d66&v=4" width="24" alt="Avatar of gulyasfeccferenc"> gulyasfeccferenc
+			</a><br/>
+			Fecc
+		</td>
+		<td>@diligentcorp  </td>
+		<td>No Twitter Username</td>
+		<td>Budapest</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/henczi">
 				<img src="https://avatars.githubusercontent.com/u/26459947?s=72&v=4" width="24" alt="Avatar of henczi"> henczi
@@ -11662,7 +11701,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/leventefrks">
 				<img src="https://avatars.githubusercontent.com/u/25341905?s=72&u=c01c4ee1c683d5b66b3821c0d1d3389b07ccf13c&v=4" width="24" alt="Avatar of leventefrks"> leventefrks
@@ -11675,7 +11714,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>894</td>
 		<td>
 			<a href="https://github.com/tothzalan">
 				<img src="https://avatars.githubusercontent.com/u/23038955?s=72&v=4" width="24" alt="Avatar of tothzalan"> tothzalan
@@ -11688,7 +11727,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/dutow">
 				<img src="https://avatars.githubusercontent.com/u/489009?s=72&u=fadd5f4815ee62753855ae284d504e6fc8e2c5d7&v=4" width="24" alt="Avatar of dutow"> dutow
@@ -11701,20 +11740,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>893</td>
-		<td>
-			<a href="https://github.com/petersohn">
-				<img src="https://avatars.githubusercontent.com/u/2822847?s=72&u=6623956e0959986f200da2fad60a18763c261361&v=4" width="24" alt="Avatar of petersohn"> petersohn
-			</a><br/>
-			Péter Szabados
-		</td>
-		<td>Tresorit </td>
-		<td>No Twitter Username</td>
-		<td>Hungary</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>894</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/skver0">
 				<img src="https://avatars.githubusercontent.com/u/32797351?s=72&u=6536df8af59e4508dd108259320a0411e0db50f0&v=4" width="24" alt="Avatar of skver0"> skver0
@@ -11727,33 +11753,33 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>895</td>
-		<td>
-			<a href="https://github.com/voidpp">
-				<img src="https://avatars.githubusercontent.com/u/6121328?s=72&u=b40fc14d2988506419c293243092b9f849818a06&v=4" width="24" alt="Avatar of voidpp"> voidpp
-			</a><br/>
-			Lajos Sánta
-		</td>
-		<td>Worldquant </td>
-		<td>No Twitter Username</td>
-		<td>Budapest, HUNGARY</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>896</td>
-		<td>
-			<a href="https://github.com/voidpp">
-				<img src="https://avatars.githubusercontent.com/u/6121328?s=72&u=b40fc14d2988506419c293243092b9f849818a06&v=4" width="24" alt="Avatar of voidpp"> voidpp
-			</a><br/>
-			Lajos Sánta
-		</td>
-		<td>Worldquant </td>
-		<td>No Twitter Username</td>
-		<td>Budapest, HUNGARY</td>
-		<td>15</td>
-	</tr>
-	<tr>
 		<td>897</td>
+		<td>
+			<a href="https://github.com/petersohn">
+				<img src="https://avatars.githubusercontent.com/u/2822847?s=72&u=6623956e0959986f200da2fad60a18763c261361&v=4" width="24" alt="Avatar of petersohn"> petersohn
+			</a><br/>
+			Péter Szabados
+		</td>
+		<td>Tresorit </td>
+		<td>No Twitter Username</td>
+		<td>Hungary</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>898</td>
+		<td>
+			<a href="https://github.com/voidpp">
+				<img src="https://avatars.githubusercontent.com/u/6121328?s=72&u=b40fc14d2988506419c293243092b9f849818a06&v=4" width="24" alt="Avatar of voidpp"> voidpp
+			</a><br/>
+			Lajos Sánta
+		</td>
+		<td>Worldquant </td>
+		<td>No Twitter Username</td>
+		<td>Budapest, HUNGARY</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/laszlovad">
 				<img src="https://avatars.githubusercontent.com/u/17803145?s=72&u=7f9c742a287a619149d62ce9a6eb905f72f50bbf&v=4" width="24" alt="Avatar of laszlovad"> laszlovad
@@ -11766,7 +11792,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/B1gLev">
 				<img src="https://avatars.githubusercontent.com/u/40140251?s=72&u=574dc1c6ad7ea029cfaafb4d160770c8b66c47a9&v=4" width="24" alt="Avatar of B1gLev"> B1gLev
@@ -11779,7 +11805,20 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>901</td>
+		<td>
+			<a href="https://github.com/somahargitai">
+				<img src="https://avatars.githubusercontent.com/u/13692825?s=72&u=0523c55d93abeb781310156857ef3d536478c117&v=4" width="24" alt="Avatar of somahargitai"> somahargitai
+			</a><br/>
+			Soma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/csorbakristof">
 				<img src="https://avatars.githubusercontent.com/u/12133421?s=72&u=858905c91ec5bf9cdd4086a5521154d4f78b10c1&v=4" width="24" alt="Avatar of csorbakristof"> csorbakristof
@@ -11792,7 +11831,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/icsaba">
 				<img src="https://avatars.githubusercontent.com/u/7916051?s=72&u=dbd582679e5fdca32e9d185071e21ac309d59235&v=4" width="24" alt="Avatar of icsaba"> icsaba
@@ -11805,7 +11844,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/tiborsimon">
 				<img src="https://avatars.githubusercontent.com/u/3284093?s=72&u=8236471e5de27def03c6d54281506d8ba174bc29&v=4" width="24" alt="Avatar of tiborsimon"> tiborsimon
@@ -11818,20 +11857,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>902</td>
-		<td>
-			<a href="https://github.com/milanvarady">
-				<img src="https://avatars.githubusercontent.com/u/61704770?s=72&u=f850c52abc0637c0babb119cfcd5d88a0619c393&v=4" width="24" alt="Avatar of milanvarady"> milanvarady
-			</a><br/>
-			Milán Várady
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/MilanVarady">MilanVarady</a></td>
-		<td>Budapest</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>903</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/ivoviz">
 				<img src="https://avatars.githubusercontent.com/u/1143746?s=72&u=34f1383ec3c261460834cc6b80ed372e0034d4cb&v=4" width="24" alt="Avatar of ivoviz"> ivoviz
@@ -11844,7 +11870,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/Levev">
 				<img src="https://avatars.githubusercontent.com/u/72160179?s=72&u=014ab968b0713d5a4a3cce00205d721bf666d5cf&v=4" width="24" alt="Avatar of Levev"> Levev
@@ -11857,7 +11883,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/peti2001">
 				<img src="https://avatars.githubusercontent.com/u/2922738?s=72&v=4" width="24" alt="Avatar of peti2001"> peti2001
@@ -11870,7 +11896,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/libesz">
 				<img src="https://avatars.githubusercontent.com/u/311062?s=72&u=29f9df231ed480b5b72c35179dfde4f1bb52f692&v=4" width="24" alt="Avatar of libesz"> libesz
@@ -11883,7 +11909,20 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>909</td>
+		<td>
+			<a href="https://github.com/OliverParoczai">
+				<img src="https://avatars.githubusercontent.com/u/14364555?s=72&u=064d371832b38e967f35606504d2e5b86f01f895&v=4" width="24" alt="Avatar of OliverParoczai"> OliverParoczai
+			</a><br/>
+			Paróczai Olivér
+		</td>
+		<td>@oliszerver </td>
+		<td><a href="https://twitter.com/OliverParoczai">OliverParoczai</a></td>
+		<td>Hungary</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/JacksonFurrier">
 				<img src="https://avatars.githubusercontent.com/u/7137278?s=72&u=def872f8f12dacf08af13177a1ab54bf432f1b7f&v=4" width="24" alt="Avatar of JacksonFurrier"> JacksonFurrier
@@ -11896,7 +11935,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/scarlettlee">
 				<img src="https://avatars.githubusercontent.com/u/11729315?s=72&v=4" width="24" alt="Avatar of scarlettlee"> scarlettlee
@@ -11909,7 +11948,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/davidcsejtei">
 				<img src="https://avatars.githubusercontent.com/u/10683584?s=72&u=c26e944311855b3fb74a3ae56eea10a6b58e8e87&v=4" width="24" alt="Avatar of davidcsejtei"> davidcsejtei
@@ -11922,7 +11961,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/nyrobert">
 				<img src="https://avatars.githubusercontent.com/u/1428428?s=72&u=7c0571cfd75f096fb6a52210146e052f7e8c9982&v=4" width="24" alt="Avatar of nyrobert"> nyrobert
@@ -11935,7 +11974,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/gaborsar">
 				<img src="https://avatars.githubusercontent.com/u/4018173?s=72&u=61c0237f8a31385c2684c16ffedcb6ecf5ec9850&v=4" width="24" alt="Avatar of gaborsar"> gaborsar
@@ -11948,7 +11987,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/adrianrobotka">
 				<img src="https://avatars.githubusercontent.com/u/5631349?s=72&v=4" width="24" alt="Avatar of adrianrobotka"> adrianrobotka
@@ -11961,7 +12000,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/begab">
 				<img src="https://avatars.githubusercontent.com/u/1663104?s=72&v=4" width="24" alt="Avatar of begab"> begab
@@ -11974,7 +12013,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>914</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/rhesa">
 				<img src="https://avatars.githubusercontent.com/u/37023?s=72&v=4" width="24" alt="Avatar of rhesa"> rhesa
@@ -11987,7 +12026,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>915</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/jamonserrano">
 				<img src="https://avatars.githubusercontent.com/u/142130?s=72&u=3662013d6bf75dd5a4f062e9f5590c20e76c5800&v=4" width="24" alt="Avatar of jamonserrano"> jamonserrano
@@ -12000,7 +12039,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/csabbee">
 				<img src="https://avatars.githubusercontent.com/u/5708032?s=72&u=04a4015081ea9966003afc6d7f569de014124c62&v=4" width="24" alt="Avatar of csabbee"> csabbee
@@ -12013,7 +12052,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/arpad1337">
 				<img src="https://avatars.githubusercontent.com/u/1861789?s=72&v=4" width="24" alt="Avatar of arpad1337"> arpad1337
@@ -12026,7 +12065,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/dgulacsy">
 				<img src="https://avatars.githubusercontent.com/u/40367890?s=72&u=48a07ac24fa8473732ed13f60cd9ad0cdaff66e8&v=4" width="24" alt="Avatar of dgulacsy"> dgulacsy
@@ -12039,7 +12078,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/schalkt">
 				<img src="https://avatars.githubusercontent.com/u/4790264?s=72&u=60eefc0069d586a074a52f6aeea86a2d880f9559&v=4" width="24" alt="Avatar of schalkt"> schalkt
@@ -12052,7 +12091,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/tricsi">
 				<img src="https://avatars.githubusercontent.com/u/1371056?s=72&v=4" width="24" alt="Avatar of tricsi"> tricsi
@@ -12065,7 +12104,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/balagev">
 				<img src="https://avatars.githubusercontent.com/u/23248612?s=72&u=aa1544211035bbe90d7c0f94f13c8e26b1d0944a&v=4" width="24" alt="Avatar of balagev"> balagev
@@ -12078,7 +12117,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/matenadasdi">
 				<img src="https://avatars.githubusercontent.com/u/3924954?s=72&u=901afba82f02ab4ce878b520ca1af0bc16773347&v=4" width="24" alt="Avatar of matenadasdi"> matenadasdi
@@ -12091,7 +12130,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/yrwq">
 				<img src="https://avatars.githubusercontent.com/u/49006471?s=72&u=431dcef10def896262bfd1aab6866f67b4275520&v=4" width="24" alt="Avatar of yrwq"> yrwq
@@ -12104,7 +12143,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/the4t4">
 				<img src="https://avatars.githubusercontent.com/u/80112646?s=72&u=833eb09787c682f3bda334047f10ef15a8a72845&v=4" width="24" alt="Avatar of the4t4"> the4t4
@@ -12117,7 +12156,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/nemethmik">
 				<img src="https://avatars.githubusercontent.com/u/38420170?s=72&u=5009806b7920de4316fe4dc5ced6e0e19eac754c&v=4" width="24" alt="Avatar of nemethmik"> nemethmik
@@ -12130,7 +12169,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/DorottyaKrajcsi">
 				<img src="https://avatars.githubusercontent.com/u/9109491?s=72&v=4" width="24" alt="Avatar of DorottyaKrajcsi"> DorottyaKrajcsi
@@ -12143,7 +12182,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/ifroz">
 				<img src="https://avatars.githubusercontent.com/u/875091?s=72&u=3ee1c72ed79c594e87c27c18101c55f768078469&v=4" width="24" alt="Avatar of ifroz"> ifroz
@@ -12156,7 +12195,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/cadmonadam">
 				<img src="https://avatars.githubusercontent.com/u/23061967?s=72&u=d9547ea876965871e7312161b7d9966d01e5ca1c&v=4" width="24" alt="Avatar of cadmonadam"> cadmonadam
@@ -12169,7 +12208,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/snorbi07">
 				<img src="https://avatars.githubusercontent.com/u/3918033?s=72&u=9df2d2010274fdd37ee25d0da06d37f5f464613b&v=4" width="24" alt="Avatar of snorbi07"> snorbi07
@@ -12182,20 +12221,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>930</td>
-		<td>
-			<a href="https://github.com/orionstar">
-				<img src="https://avatars.githubusercontent.com/u/2486741?s=72&v=4" width="24" alt="Avatar of orionstar"> orionstar
-			</a><br/>
-			László Bóra
-		</td>
-		<td>Hungaropixel </td>
-		<td>No Twitter Username</td>
-		<td>Hungary, Pécs</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>931</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/Zola-Github8">
 				<img src="https://avatars.githubusercontent.com/u/67212394?s=72&v=4" width="24" alt="Avatar of Zola-Github8"> Zola-Github8
@@ -12208,7 +12234,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/matatusko">
 				<img src="https://avatars.githubusercontent.com/u/25991227?s=72&u=470aa1a5a7925f795856aa89086b7c9b0bc326aa&v=4" width="24" alt="Avatar of matatusko"> matatusko
@@ -12221,7 +12247,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/LombiqTechnologies">
 				<img src="https://avatars.githubusercontent.com/u/11962192?s=72&u=d58d5e310d6d6dad76fa72c0a05664d91c5b1dcb&v=4" width="24" alt="Avatar of LombiqTechnologies"> LombiqTechnologies
@@ -12234,7 +12260,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/NotGeri">
 				<img src="https://avatars.githubusercontent.com/u/46295973?s=72&u=13aabc24a41a82d093ccee677a43540f4573a973&v=4" width="24" alt="Avatar of NotGeri"> NotGeri
@@ -12247,7 +12273,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/beltekylevi">
 				<img src="https://avatars.githubusercontent.com/u/9155943?s=72&u=ced5dbc3e55735083579dcdeda1cd08bf0af033d&v=4" width="24" alt="Avatar of beltekylevi"> beltekylevi
@@ -12260,7 +12286,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/weiglszonja">
 				<img src="https://avatars.githubusercontent.com/u/24475788?s=72&u=66d720619638031986139fd1f82532efc9471552&v=4" width="24" alt="Avatar of weiglszonja"> weiglszonja
@@ -12273,7 +12299,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>937</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/vassbence">
 				<img src="https://avatars.githubusercontent.com/u/49574140?s=72&u=4c44a215ddd7e0d8db09fa4f537b6064ab779125&v=4" width="24" alt="Avatar of vassbence"> vassbence
@@ -12286,7 +12312,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/ggevay">
 				<img src="https://avatars.githubusercontent.com/u/11377925?s=72&u=cafb9ea700f2975cfbbf8b6bf0b633d816fe396e&v=4" width="24" alt="Avatar of ggevay"> ggevay
@@ -12299,7 +12325,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/yakuthemes">
 				<img src="https://avatars.githubusercontent.com/u/14263652?s=72&u=8b5851fc960da6ddf726c918dcafd5d45c38e3db&v=4" width="24" alt="Avatar of yakuthemes"> yakuthemes
@@ -12312,7 +12338,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/ert78gb">
 				<img src="https://avatars.githubusercontent.com/u/496775?s=72&u=978dcfa5d1dfbe2080d3156b8fd5416a47ad4a81&v=4" width="24" alt="Avatar of ert78gb"> ert78gb
@@ -12325,7 +12351,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/Andromeda08">
 				<img src="https://avatars.githubusercontent.com/u/44675974?s=72&u=8300718a2b330ebb6dd4000463c03398ae44f0c8&v=4" width="24" alt="Avatar of Andromeda08"> Andromeda08
@@ -12338,7 +12364,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/minktom">
 				<img src="https://avatars.githubusercontent.com/u/321336?s=72&u=b7c615e6667b954af21350ad63575251f8e24dac&v=4" width="24" alt="Avatar of minktom"> minktom
@@ -12351,20 +12377,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>943</td>
-		<td>
-			<a href="https://github.com/gulyasfeccferenc">
-				<img src="https://avatars.githubusercontent.com/u/3520975?s=72&u=df6b2c00ed765cae0f91ef8f2106277229f13d66&v=4" width="24" alt="Avatar of gulyasfeccferenc"> gulyasfeccferenc
-			</a><br/>
-			Fecc
-		</td>
-		<td>@diligentcorp  </td>
-		<td>No Twitter Username</td>
-		<td>Budapest</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>944</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/oliverosz">
 				<img src="https://avatars.githubusercontent.com/u/16599031?s=72&u=2c774c7b1433c430246538a976bd9f1264896a2d&v=4" width="24" alt="Avatar of oliverosz"> oliverosz
@@ -12377,7 +12390,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/Zolli">
 				<img src="https://avatars.githubusercontent.com/u/190008?s=72&u=27cb2170a0b9530ac9a96b3c4f783cbcb8cd6175&v=4" width="24" alt="Avatar of Zolli"> Zolli
@@ -12390,7 +12403,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/wpmed92">
 				<img src="https://avatars.githubusercontent.com/u/8374618?s=72&v=4" width="24" alt="Avatar of wpmed92"> wpmed92
@@ -12403,7 +12416,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/krook1024">
 				<img src="https://avatars.githubusercontent.com/u/9162926?s=72&u=da142a90cc7719458c4b6707a75f6015992340b4&v=4" width="24" alt="Avatar of krook1024"> krook1024
@@ -12413,19 +12426,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>@ni </td>
 		<td>No Twitter Username</td>
 		<td>Debrecen, Hajdu-Bihar, Hungary</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>948</td>
-		<td>
-			<a href="https://github.com/vargalex">
-				<img src="https://avatars.githubusercontent.com/u/5759825?s=72&u=5f39519638296bf212dd9336a1db14070352e081&v=4" width="24" alt="Avatar of vargalex"> vargalex
-			</a><br/>
-			Gábor Varga
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -12483,19 +12483,6 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 	<tr>
 		<td>953</td>
 		<td>
-			<a href="https://github.com/somahargitai">
-				<img src="https://avatars.githubusercontent.com/u/13692825?s=72&u=0523c55d93abeb781310156857ef3d536478c117&v=4" width="24" alt="Avatar of somahargitai"> somahargitai
-			</a><br/>
-			Soma
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Budapest, Hungary</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>954</td>
-		<td>
 			<a href="https://github.com/pestaa">
 				<img src="https://avatars.githubusercontent.com/u/187342?s=72&u=da6b36d6d0569bcdc27c50c8a79f0dbc04cbed97&v=4" width="24" alt="Avatar of pestaa"> pestaa
 			</a><br/>
@@ -12507,7 +12494,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/morkapronczay">
 				<img src="https://avatars.githubusercontent.com/u/10839833?s=72&v=4" width="24" alt="Avatar of morkapronczay"> morkapronczay
@@ -12520,7 +12507,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/viktorsomogyi">
 				<img src="https://avatars.githubusercontent.com/u/1820518?s=72&u=8106f0b4febf01a32c1a1038a451586e9f3970ae&v=4" width="24" alt="Avatar of viktorsomogyi"> viktorsomogyi
@@ -12533,7 +12520,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/Danieret">
 				<img src="https://avatars.githubusercontent.com/u/39464368?s=72&u=bc0426ef827be064733c6eec0c2d198608901e9b&v=4" width="24" alt="Avatar of Danieret"> Danieret
@@ -12546,7 +12533,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/simond-hue">
 				<img src="https://avatars.githubusercontent.com/u/55276496?s=72&u=c4f1139ab3590d214fe2cc2c035aad6b4d7cfc7a&v=4" width="24" alt="Avatar of simond-hue"> simond-hue
@@ -12559,7 +12546,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/tkotosz">
 				<img src="https://avatars.githubusercontent.com/u/4903365?s=72&u=72ed7dad5ddf7d6c68111dbd7088ff614cd79f11&v=4" width="24" alt="Avatar of tkotosz"> tkotosz
@@ -12572,7 +12559,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>959</td>
 		<td>
 			<a href="https://github.com/veresdavid">
 				<img src="https://avatars.githubusercontent.com/u/10923795?s=72&u=6141ddced0c1a53764fe600fa0e924ff92a9cc1d&v=4" width="24" alt="Avatar of veresdavid"> veresdavid
@@ -12585,7 +12572,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>960</td>
 		<td>
 			<a href="https://github.com/csordasmarton">
 				<img src="https://avatars.githubusercontent.com/u/6695818?s=72&u=e9f5c562855ca00f3f884035b85837cba516e466&v=4" width="24" alt="Avatar of csordasmarton"> csordasmarton
@@ -12598,7 +12585,7 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/peterschmiz">
 				<img src="https://avatars.githubusercontent.com/u/2334176?s=72&v=4" width="24" alt="Avatar of peterschmiz"> peterschmiz
@@ -12608,6 +12595,19 @@ There are `972 users`  in Hungary. You need at least `14 followers` to be on thi
 		<td>Wunderman Thompson Budapest </td>
 		<td><a href="https://twitter.com/pety7439">pety7439</a></td>
 		<td>Budapest</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>962</td>
+		<td>
+			<a href="https://github.com/andrasbiro">
+				<img src="https://avatars.githubusercontent.com/u/1202136?s=72&u=9cb376cea68ed9b3a9d3b3d3e7b3711ebd08eaff&v=4" width="24" alt="Avatar of andrasbiro"> andrasbiro
+			</a><br/>
+			András Bíró
+		</td>
+		<td>Silicon Labs </td>
+		<td>No Twitter Username</td>
+		<td>Budapest, Hungary</td>
 		<td>14</td>
 	</tr>
 	<tr>
