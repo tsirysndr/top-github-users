@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg" alt="Burundi">
 </a>
 
-The `number of followers` of users in Burundi on `2023/8/19 2:46 PM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
+The `number of followers` of users in Burundi on `2023/8/20 7:48 AM UTC`. This list contains users from `Burundi` and cities `Bujumbura` `Gitega` `Muyinga` `Ruyigi` `Ngozi`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -180,7 +180,7 @@ There are `359 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/nijeanlionel">nijeanlionel</a></td>
 		<td>Bujumbura-Burundi</td>
-		<td>72</td>
+		<td>71</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -2369,19 +2369,6 @@ There are `359 users`  in Burundi. You need at least `0 followers` to be on this
 	<tr>
 		<td>175</td>
 		<td>
-			<a href="https://github.com/FredericMwamba">
-				<img src="https://avatars.githubusercontent.com/u/92857853?s=72&u=faf787010d9eaf3877f5b026c4af2733cd552ff1&v=4" width="24" alt="Avatar of FredericMwamba"> FredericMwamba
-			</a><br/>
-			Mwamba Frederic
-		</td>
-		<td>Lenano </td>
-		<td>No Twitter Username</td>
-		<td>Burundi/Bujumbura</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>176</td>
-		<td>
 			<a href="https://github.com/HSlutions">
 				<img src="https://avatars.githubusercontent.com/u/26960171?s=72&u=693a876f88a8eec50a19733ef002d4c8844c2e80&v=4" width="24" alt="Avatar of HSlutions"> HSlutions
 			</a><br/>
@@ -2390,6 +2377,19 @@ There are `359 users`  in Burundi. You need at least `0 followers` to be on this
 		<td>H-solutions </td>
 		<td><a href="https://twitter.com/Haby257">Haby257</a></td>
 		<td>Bujumbura</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
+			<a href="https://github.com/FredericMwamba">
+				<img src="https://avatars.githubusercontent.com/u/92857853?s=72&u=faf787010d9eaf3877f5b026c4af2733cd552ff1&v=4" width="24" alt="Avatar of FredericMwamba"> FredericMwamba
+			</a><br/>
+			Mwamba Frederic
+		</td>
+		<td>Lenano </td>
+		<td>No Twitter Username</td>
+		<td>Burundi/Bujumbura</td>
 		<td>1</td>
 	</tr>
 	<tr>
