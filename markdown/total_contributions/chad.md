@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/8/30 3:33 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/8/31 9:17 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -396,8 +396,8 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>n'djamena</td>
-		<td>9</td>
-		<td>9</td>
+		<td>16</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -416,6 +416,20 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>23</td>
 		<td>
+			<a href="https://github.com/leScythekill">
+				<img src="https://avatars.githubusercontent.com/u/72173884?s=72&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4" width="24" alt="Avatar of leScythekill"> leScythekill
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad, N'Djamena</td>
+		<td>0</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
 			<a href="https://github.com/Gagayo">
 				<img src="https://avatars.githubusercontent.com/u/46720811?s=72&u=5a2857bb3f838bc76bbfa866748303ddcfb19b7e&v=4" width="24" alt="Avatar of Gagayo"> Gagayo
 			</a><br/>
@@ -426,20 +440,6 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Ndjamena, Chad</td>
 		<td>7</td>
 		<td>7</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/leScythekill">
-				<img src="https://avatars.githubusercontent.com/u/72173884?s=72&u=0c0b3fde534a23873f557044057c33908c6bb8ba&v=4" width="24" alt="Avatar of leScythekill"> leScythekill
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, N'Djamena</td>
-		<td>0</td>
-		<td>6</td>
 	</tr>
 	<tr>
 		<td>25</td>
