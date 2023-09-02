@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2023/9/1 1:51 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2023/9/2 7:26 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -315,19 +315,6 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>17</td>
 		<td>
-			<a href="https://github.com/El2829">
-				<img src="https://avatars.githubusercontent.com/u/38150117?s=72&u=d8311f94d81ef205318cb4fdf50085b2a359a8ba&v=4" width="24" alt="Avatar of El2829"> El2829
-			</a><br/>
-			Angelito Borinaga
-		</td>
-		<td>Cvsu - Imus </td>
-		<td>No Twitter Username</td>
-		<td>San Marino, Dasmariñas Cavite</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
 			<a href="https://github.com/tomwhoooo">
 				<img src="https://avatars.githubusercontent.com/u/23285765?s=72&u=bb188b3c8cc1e38e747f6bb08cc47357169e5a0f&v=4" width="24" alt="Avatar of tomwhoooo"> tomwhoooo
 			</a><br/>
@@ -336,6 +323,19 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Uc Berkeley </td>
 		<td>No Twitter Username</td>
 		<td>San Marino, California</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
+			<a href="https://github.com/El2829">
+				<img src="https://avatars.githubusercontent.com/u/38150117?s=72&u=d8311f94d81ef205318cb4fdf50085b2a359a8ba&v=4" width="24" alt="Avatar of El2829"> El2829
+			</a><br/>
+			Angelito Borinaga
+		</td>
+		<td>Cvsu - Imus </td>
+		<td>No Twitter Username</td>
+		<td>San Marino, Dasmariñas Cavite</td>
 		<td>7</td>
 	</tr>
 	<tr>
