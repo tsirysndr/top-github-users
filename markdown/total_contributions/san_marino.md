@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` and `private contributions` by users in San Marino on `2023/9/2 7:26 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` and `private contributions` by users in San Marino on `2023/9/3 12:45 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -122,20 +122,6 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>2</td>
 		<td>
-			<a href="https://github.com/CastFX">
-				<img src="https://avatars.githubusercontent.com/u/13741570?s=72&u=fa7136495d99e63d651efc30c0e87aa01ed57167&v=4" width="24" alt="Avatar of CastFX"> CastFX
-			</a><br/>
-			Chris
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>83</td>
-		<td>1048</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>
 			<a href="https://github.com/mikyll">
 				<img src="https://avatars.githubusercontent.com/u/56556806?s=72&u=dd1937608736f28dfe1cf3d7830aa80014333d31&v=4" width="24" alt="Avatar of mikyll"> mikyll
 			</a><br/>
@@ -144,8 +130,22 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Alma Mater Studiorum -<br/>University<br/>Of<br/>Bologna<br/></td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>793</td>
-		<td>1045</td>
+		<td>830</td>
+		<td>1082</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>
+			<a href="https://github.com/CastFX">
+				<img src="https://avatars.githubusercontent.com/u/13741570?s=72&u=fa7136495d99e63d651efc30c0e87aa01ed57167&v=4" width="24" alt="Avatar of CastFX"> CastFX
+			</a><br/>
+			Chris
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>84</td>
+		<td>1049</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -229,7 +229,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
 		<td>10</td>
-		<td>299</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -257,7 +257,7 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Republic of San Marino</td>
 		<td>57</td>
-		<td>273</td>
+		<td>275</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -794,20 +794,6 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>50</td>
 		<td>
-			<a href="https://github.com/eneaextera">
-				<img src="https://avatars.githubusercontent.com/u/4630216?s=72&u=25156e3dcc2d0cac70ac197252e3d17d7b6c09e3&v=4" width="24" alt="Avatar of eneaextera"> eneaextera
-			</a><br/>
-			Enea
-		</td>
-		<td>Extera - Make It<br/>Web<br/></td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
 			<a href="https://github.com/pigorg">
 				<img src="https://avatars.githubusercontent.com/u/15121381?s=72&u=bbacc55cb85328195c4b1d632b18596f539c777b&v=4" width="24" alt="Avatar of pigorg"> pigorg
 			</a><br/>
@@ -816,6 +802,20 @@ There are `106 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>san marino</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a href="https://github.com/eneaextera">
+				<img src="https://avatars.githubusercontent.com/u/4630216?s=72&u=25156e3dcc2d0cac70ac197252e3d17d7b6c09e3&v=4" width="24" alt="Avatar of eneaextera"> eneaextera
+			</a><br/>
+			Enea
+		</td>
+		<td>Extera - Make It<br/>Web<br/></td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
