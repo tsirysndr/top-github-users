@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg" alt="Jamaica">
 </a>
 
-The `number of followers` of users in Jamaica on `2023/9/2 7:10 PM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
+The `number of followers` of users in Jamaica on `2023/9/3 12:32 PM UTC`. This list contains users from `Jamaica` and cities `Kingston` `Montego-bay` `Ocho-rios` `Port-antonio`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -126,7 +126,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 			Jed Schmidt
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/jedschmidt">jedschmidt</a></td>
+		<td>No Twitter Username</td>
 		<td>Kingston, NY</td>
 		<td>1088</td>
 	</tr>
@@ -154,7 +154,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kingston upon Thames, UK</td>
-		<td>740</td>
+		<td>741</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -219,7 +219,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ctrlaltmonique">ctrlaltmonique</a></td>
 		<td>Jamaica</td>
-		<td>155</td>
+		<td>156</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -315,6 +315,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>17</td>
 		<td>
+			<a href="https://github.com/ShuvenduRoy">
+				<img src="https://avatars.githubusercontent.com/u/15250337?s=72&u=ed750457c082965c343360d55b1380980622108b&v=4" width="24" alt="Avatar of ShuvenduRoy"> ShuvenduRoy
+			</a><br/>
+			Shuvendu Roy
+		</td>
+		<td>Queen's University </td>
+		<td>No Twitter Username</td>
+		<td>Kingston, Ontario, Canada</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
 			<a href="https://github.com/ColauttiLab">
 				<img src="https://avatars.githubusercontent.com/u/17328412?s=72&u=bef622fd27f819aa08ed827292e339cb00b4cc7e&v=4" width="24" alt="Avatar of ColauttiLab"> ColauttiLab
 			</a><br/>
@@ -324,19 +337,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td><a href="https://twitter.com/ColauttiLab">ColauttiLab</a></td>
 		<td>Kingston, ON</td>
 		<td>96</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/ShuvenduRoy">
-				<img src="https://avatars.githubusercontent.com/u/15250337?s=72&u=ed750457c082965c343360d55b1380980622108b&v=4" width="24" alt="Avatar of ShuvenduRoy"> ShuvenduRoy
-			</a><br/>
-			Shuvendu Roy
-		</td>
-		<td>Queen's University </td>
-		<td>No Twitter Username</td>
-		<td>Kingston, Ontario, Canada</td>
-		<td>95</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -2070,6 +2070,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>152</td>
 		<td>
+			<a href="https://github.com/javaniecampbell">
+				<img src="https://avatars.githubusercontent.com/u/1676496?s=72&v=4" width="24" alt="Avatar of javaniecampbell"> javaniecampbell
+			</a><br/>
+			Javanie Campbell
+		</td>
+		<td>@devdaysatwork  </td>
+		<td>No Twitter Username</td>
+		<td>Jamaica</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
 			<a href="https://github.com/wesgarland">
 				<img src="https://avatars.githubusercontent.com/u/210000?s=72&v=4" width="24" alt="Avatar of wesgarland"> wesgarland
 			</a><br/>
@@ -2081,7 +2094,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/Kevin-Halll">
 				<img src="https://avatars.githubusercontent.com/u/84169055?s=72&u=a8cdfaa8eefd5b5760d78029308d40d0565d5b8f&v=4" width="24" alt="Avatar of Kevin-Halll"> Kevin-Halll
@@ -2094,7 +2107,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/Ritsuka314">
 				<img src="https://avatars.githubusercontent.com/u/14881706?s=72&u=9d2f4c64070aa54ac463bf63588deef5b5897ecd&v=4" width="24" alt="Avatar of Ritsuka314"> Ritsuka314
@@ -2107,7 +2120,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/michael-mcmullen">
 				<img src="https://avatars.githubusercontent.com/u/811123?s=72&u=548b4daa330faf63874fc06028ba3a5fb3dc71ff&v=4" width="24" alt="Avatar of michael-mcmullen"> michael-mcmullen
@@ -2120,7 +2133,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/JamaicanFriedChicken">
 				<img src="https://avatars.githubusercontent.com/u/31347338?s=72&u=4b9adffea06c44f8658882be3bd78cd2434d36b3&v=4" width="24" alt="Avatar of JamaicanFriedChicken"> JamaicanFriedChicken
@@ -2133,7 +2146,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/hellogallowglass">
 				<img src="https://avatars.githubusercontent.com/u/72580948?s=72&u=13ce64f91f539335044696d36a5109aa2ff051b2&v=4" width="24" alt="Avatar of hellogallowglass"> hellogallowglass
@@ -2146,7 +2159,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/daryn-brown">
 				<img src="https://avatars.githubusercontent.com/u/12522517?s=72&u=91b0e4d93252d5c08250a912247e20a53ff4befd&v=4" width="24" alt="Avatar of daryn-brown"> daryn-brown
@@ -2159,7 +2172,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/paulrsmithjnr">
 				<img src="https://avatars.githubusercontent.com/u/55596699?s=72&u=0bbee83b24d55a56cc3cd2b3d19cd6de7da4b45d&v=4" width="24" alt="Avatar of paulrsmithjnr"> paulrsmithjnr
@@ -2172,7 +2185,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/matjames007">
 				<img src="https://avatars.githubusercontent.com/u/1425164?s=72&u=7b7f1e8212796b321e81a3013f992a06b95a6bb4&v=4" width="24" alt="Avatar of matjames007"> matjames007
@@ -2185,7 +2198,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/LayneIns">
 				<img src="https://avatars.githubusercontent.com/u/20160526?s=72&u=ab7fb0ba4c06b9cace2f6f83d85b0e177dfea812&v=4" width="24" alt="Avatar of LayneIns"> LayneIns
@@ -2198,7 +2211,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/ceejayps">
 				<img src="https://avatars.githubusercontent.com/u/59537158?s=72&u=ca638f46170a71d4a043d931443fcf840deebc9a&v=4" width="24" alt="Avatar of ceejayps"> ceejayps
@@ -2211,7 +2224,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/sultanofcardio">
 				<img src="https://avatars.githubusercontent.com/u/14842108?s=72&u=c00b4fccd70e077f85486a67a47c2ee294b3f23e&v=4" width="24" alt="Avatar of sultanofcardio"> sultanofcardio
@@ -2224,7 +2237,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/mkevinq">
 				<img src="https://avatars.githubusercontent.com/u/33074023?s=72&u=9ff5c3c26c62b2cc3c2e5cecc7c1c8e35583a42a&v=4" width="24" alt="Avatar of mkevinq"> mkevinq
@@ -2237,7 +2250,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/kymaniAnderson">
 				<img src="https://avatars.githubusercontent.com/u/53957063?s=72&u=54398679d0540d0f90265f9ad134df018585e115&v=4" width="24" alt="Avatar of kymaniAnderson"> kymaniAnderson
@@ -2250,7 +2263,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/benlammers">
 				<img src="https://avatars.githubusercontent.com/u/41494387?s=72&u=7d945ed8b9c3dbee50f8f175bb7c0cbe946390a7&v=4" width="24" alt="Avatar of benlammers"> benlammers
@@ -2260,19 +2273,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>@discolearn </td>
 		<td>No Twitter Username</td>
 		<td>Kingston, ON</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/javaniecampbell">
-				<img src="https://avatars.githubusercontent.com/u/1676496?s=72&v=4" width="24" alt="Avatar of javaniecampbell"> javaniecampbell
-			</a><br/>
-			Javanie Campbell
-		</td>
-		<td>@devdaysatwork  </td>
-		<td>No Twitter Username</td>
-		<td>Jamaica</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -5242,19 +5242,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>396</td>
 		<td>
-			<a href="https://github.com/SY6Dave">
-				<img src="https://avatars.githubusercontent.com/u/10517616?s=72&u=8b496dd7438347bd1a354a915cb629044fb24578&v=4" width="24" alt="Avatar of SY6Dave"> SY6Dave
-			</a><br/>
-			David Mortiboy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kingston-upon-Hull</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>397</td>
-		<td>
 			<a href="https://github.com/MiDevenKnow">
 				<img src="https://avatars.githubusercontent.com/u/62532414?s=72&u=a8ab41dc05ee3a09544c512025b1b6c33e615d6f&v=4" width="24" alt="Avatar of MiDevenKnow"> MiDevenKnow
 			</a><br/>
@@ -5263,6 +5250,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jamaica</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
+			<a href="https://github.com/omeileo">
+				<img src="https://avatars.githubusercontent.com/u/20757931?s=72&u=35a4aab8e3a1ca975db77dd130e9a7b653894ea0&v=4" width="24" alt="Avatar of omeileo"> omeileo
+			</a><br/>
+			Jase-Omeileo West
+		</td>
+		<td>@trfl </td>
+		<td>No Twitter Username</td>
+		<td>Kingston, Jamaica</td>
 		<td>6</td>
 	</tr>
 	<tr>
@@ -5281,19 +5281,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>399</td>
 		<td>
-			<a href="https://github.com/omeileo">
-				<img src="https://avatars.githubusercontent.com/u/20757931?s=72&u=35a4aab8e3a1ca975db77dd130e9a7b653894ea0&v=4" width="24" alt="Avatar of omeileo"> omeileo
-			</a><br/>
-			Jase-Omeileo West
-		</td>
-		<td>@trfl </td>
-		<td>No Twitter Username</td>
-		<td>Kingston, Jamaica</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
 			<a href="https://github.com/benrolfe">
 				<img src="https://avatars.githubusercontent.com/u/474175?s=72&u=1de04f701afe393dc992de05ce8f61d74247e80f&v=4" width="24" alt="Avatar of benrolfe"> benrolfe
 			</a><br/>
@@ -5305,7 +5292,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/KIMARINELSON77109">
 				<img src="https://avatars.githubusercontent.com/u/32251241?s=72&u=728a99580c317b7e7fd04ed65b1b3db83f1f3c5b&v=4" width="24" alt="Avatar of KIMARINELSON77109"> KIMARINELSON77109
@@ -5318,7 +5305,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/naomitheqa">
 				<img src="https://avatars.githubusercontent.com/u/57578450?s=72&u=9ca396ab263ca514a6d96e64342e513e0cb21afe&v=4" width="24" alt="Avatar of naomitheqa"> naomitheqa
@@ -5331,7 +5318,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/Amber201604">
 				<img src="https://avatars.githubusercontent.com/u/41466956?s=72&u=778537ea7f28822c50ff2bdb5f82ef2b4d77d346&v=4" width="24" alt="Avatar of Amber201604"> Amber201604
@@ -5344,7 +5331,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/sgtcadet">
 				<img src="https://avatars.githubusercontent.com/u/11513958?s=72&v=4" width="24" alt="Avatar of sgtcadet"> sgtcadet
@@ -5357,7 +5344,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/transforminteractive">
 				<img src="https://avatars.githubusercontent.com/u/8306974?s=72&u=c33983c4f1a71447e183075b882e376e32254af5&v=4" width="24" alt="Avatar of transforminteractive"> transforminteractive
@@ -5370,7 +5357,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/eugenesit">
 				<img src="https://avatars.githubusercontent.com/u/27829531?s=72&v=4" width="24" alt="Avatar of eugenesit"> eugenesit
@@ -5383,7 +5370,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/sharrap">
 				<img src="https://avatars.githubusercontent.com/u/10442802?s=72&u=04239721ee2293e01a3eb6fd107028bcfb9e5d4b&v=4" width="24" alt="Avatar of sharrap"> sharrap
@@ -5396,7 +5383,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/tvigilante">
 				<img src="https://avatars.githubusercontent.com/u/16564689?s=72&v=4" width="24" alt="Avatar of tvigilante"> tvigilante
@@ -5409,7 +5396,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/tevon456">
 				<img src="https://avatars.githubusercontent.com/u/22424032?s=72&u=d4266f9aeebcad68d60b94df7050c54c08f397d7&v=4" width="24" alt="Avatar of tevon456"> tevon456
@@ -5422,7 +5409,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/klalicki">
 				<img src="https://avatars.githubusercontent.com/u/32229646?s=72&u=d58c5d36af92af8563cfdc94b549f9a1c31a71fb&v=4" width="24" alt="Avatar of klalicki"> klalicki
@@ -5435,7 +5422,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/MikeCaputo">
 				<img src="https://avatars.githubusercontent.com/u/4074597?s=72&u=92d1292976ff2e6ae99f3b1b947300f5507d3772&v=4" width="24" alt="Avatar of MikeCaputo"> MikeCaputo
@@ -5448,7 +5435,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/kenmarshall">
 				<img src="https://avatars.githubusercontent.com/u/6031660?s=72&u=c605b53812eadc3363ddf7936c8d4f405c57546c&v=4" width="24" alt="Avatar of kenmarshall"> kenmarshall
@@ -5461,7 +5448,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/eroosenmaallen">
 				<img src="https://avatars.githubusercontent.com/u/7081536?s=72&v=4" width="24" alt="Avatar of eroosenmaallen"> eroosenmaallen
@@ -5474,7 +5461,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/richardcarrigan">
 				<img src="https://avatars.githubusercontent.com/u/13327134?s=72&u=6fa07bb560131582d55cad5b07f0dbd4ff66a34f&v=4" width="24" alt="Avatar of richardcarrigan"> richardcarrigan
@@ -5487,7 +5474,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/Daimeku">
 				<img src="https://avatars.githubusercontent.com/u/6103079?s=72&u=38d0a7392ce5f98af9888e695fd8846b4abe0084&v=4" width="24" alt="Avatar of Daimeku"> Daimeku
@@ -5500,7 +5487,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/matcartmill">
 				<img src="https://avatars.githubusercontent.com/u/54556359?s=72&u=42b6826575007624b4b5d7b9f9999ebb16abd991&v=4" width="24" alt="Avatar of matcartmill"> matcartmill
@@ -5513,7 +5500,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/sebastiandeluca">
 				<img src="https://avatars.githubusercontent.com/u/42455619?s=72&u=3b11761db696414d9e9771e5232fb05dc0aa34e6&v=4" width="24" alt="Avatar of sebastiandeluca"> sebastiandeluca
@@ -5526,7 +5513,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/waveform06">
 				<img src="https://avatars.githubusercontent.com/u/44499545?s=72&u=ccab3a1493d689726cd6ec1d0bd42abd992ca51b&v=4" width="24" alt="Avatar of waveform06"> waveform06
@@ -5539,7 +5526,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/ManlinM">
 				<img src="https://avatars.githubusercontent.com/u/73075894?s=72&u=9f46465b6a4ca8210f21ee3abfb5e1bfe1df5011&v=4" width="24" alt="Avatar of ManlinM"> ManlinM
@@ -5552,7 +5539,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/aldon-cmd">
 				<img src="https://avatars.githubusercontent.com/u/1365376?s=72&v=4" width="24" alt="Avatar of aldon-cmd"> aldon-cmd
@@ -5565,7 +5552,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/SchuylerGood">
 				<img src="https://avatars.githubusercontent.com/u/58613697?s=72&u=e91241ce2597c87db25139a9173c6c36e00d5850&v=4" width="24" alt="Avatar of SchuylerGood"> SchuylerGood
@@ -5578,7 +5565,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/TurquoiseA">
 				<img src="https://avatars.githubusercontent.com/u/23006855?s=72&u=ce37456e18e4d6762804a51a195615bd40b0a0e7&v=4" width="24" alt="Avatar of TurquoiseA"> TurquoiseA
@@ -5591,7 +5578,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/delomast">
 				<img src="https://avatars.githubusercontent.com/u/43458918?s=72&u=bb1b77ac3221d84731944a7fd8884ced202dc7be&v=4" width="24" alt="Avatar of delomast"> delomast
@@ -5604,7 +5591,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/stephanmingoes">
 				<img src="https://avatars.githubusercontent.com/u/60485782?s=72&u=740fb97c52c826c19c347f6a2f9cd48d2c822a25&v=4" width="24" alt="Avatar of stephanmingoes"> stephanmingoes
@@ -5617,7 +5604,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/dwittaker">
 				<img src="https://avatars.githubusercontent.com/u/4123909?s=72&u=59feed58080097ef3b20e8db33744d374df0c087&v=4" width="24" alt="Avatar of dwittaker"> dwittaker
@@ -5630,7 +5617,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/eryu456">
 				<img src="https://avatars.githubusercontent.com/u/46566015?s=72&v=4" width="24" alt="Avatar of eryu456"> eryu456
@@ -5643,7 +5630,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/oraneedwards">
 				<img src="https://avatars.githubusercontent.com/u/3387272?s=72&u=5f1f625f75874a829ceb1da0d3f89179ce329fcf&v=4" width="24" alt="Avatar of oraneedwards"> oraneedwards
@@ -5656,7 +5643,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/ceodevforce">
 				<img src="https://avatars.githubusercontent.com/u/99844305?s=72&u=ff9bd37f9e3b28e488349bd5e3806ad4654c76dc&v=4" width="24" alt="Avatar of ceodevforce"> ceodevforce
@@ -5669,7 +5656,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/Slugger">
 				<img src="https://avatars.githubusercontent.com/u/351737?s=72&u=75b4ed2bd06ad4c67d5489faaaba65f1054d8004&v=4" width="24" alt="Avatar of Slugger"> Slugger
@@ -5682,7 +5669,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/milly-code">
 				<img src="https://avatars.githubusercontent.com/u/10564821?s=72&u=6254d2899f34e9fa43c1fe393278877a8c78615e&v=4" width="24" alt="Avatar of milly-code"> milly-code
@@ -5695,7 +5682,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/barrettedaisy">
 				<img src="https://avatars.githubusercontent.com/u/20430425?s=72&u=c80896292e443a599a9252175c11c2fd91defa5c&v=4" width="24" alt="Avatar of barrettedaisy"> barrettedaisy
@@ -5708,7 +5695,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/Parchie876">
 				<img src="https://avatars.githubusercontent.com/u/36711195?s=72&u=6e3d175f381d56dcba3eccb83403ee4b33e482ae&v=4" width="24" alt="Avatar of Parchie876"> Parchie876
@@ -5721,7 +5708,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/Mathew-Layne">
 				<img src="https://avatars.githubusercontent.com/u/87814698?s=72&u=8dbe6d64586956f348cd42b9d1daf2d882ef6d2f&v=4" width="24" alt="Avatar of Mathew-Layne"> Mathew-Layne
@@ -5734,7 +5721,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/ahmadnagib">
 				<img src="https://avatars.githubusercontent.com/u/13169976?s=72&u=2f9fda565ffb748e6f3336ae0ed6885da00bbdce&v=4" width="24" alt="Avatar of ahmadnagib"> ahmadnagib
@@ -5747,7 +5734,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/jonwitts">
 				<img src="https://avatars.githubusercontent.com/u/8962587?s=72&u=39bc920407b4f2cad26c62ffb9f6b3eeda5a28e7&v=4" width="24" alt="Avatar of jonwitts"> jonwitts
@@ -5760,7 +5747,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/nbcstevenchen">
 				<img src="https://avatars.githubusercontent.com/u/34019138?s=72&v=4" width="24" alt="Avatar of nbcstevenchen"> nbcstevenchen
@@ -5773,7 +5760,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/stephaniekelley">
 				<img src="https://avatars.githubusercontent.com/u/46451779?s=72&u=b3209ffb2e6aee41fe98d6cd7c45f5cdfc1614da&v=4" width="24" alt="Avatar of stephaniekelley"> stephaniekelley
@@ -5786,7 +5773,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/Cybergirl876">
 				<img src="https://avatars.githubusercontent.com/u/55275735?s=72&u=b7b092781f894a8970e7db3bbbc2da20f885a355&v=4" width="24" alt="Avatar of Cybergirl876"> Cybergirl876
@@ -5799,7 +5786,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/kassupto007">
 				<img src="https://avatars.githubusercontent.com/u/32243848?s=72&u=8959cfe5bcc37e44224496e2b18803a63d630c7e&v=4" width="24" alt="Avatar of kassupto007"> kassupto007
@@ -5812,7 +5799,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/tbuchanan-vti">
 				<img src="https://avatars.githubusercontent.com/u/92241460?s=72&v=4" width="24" alt="Avatar of tbuchanan-vti"> tbuchanan-vti
@@ -5825,7 +5812,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/TheDevWhoKnocks">
 				<img src="https://avatars.githubusercontent.com/u/16280323?s=72&u=4b229979a00442f84dde756ad91e6abee53e9ba9&v=4" width="24" alt="Avatar of TheDevWhoKnocks"> TheDevWhoKnocks
@@ -5838,7 +5825,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/don-dev">
 				<img src="https://avatars.githubusercontent.com/u/6163393?s=72&u=57e4879203a1ad0c4bb52b36ef725c65afc1eca7&v=4" width="24" alt="Avatar of don-dev"> don-dev
@@ -5851,7 +5838,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/jamzad">
 				<img src="https://avatars.githubusercontent.com/u/49203248?s=72&u=77f52816f624de84b7aae1e30d4fa41ecb95664c&v=4" width="24" alt="Avatar of jamzad"> jamzad
@@ -5861,6 +5848,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>Queen's University </td>
 		<td>No Twitter Username</td>
 		<td>Kingston, ON</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
+			<a href="https://github.com/SY6Dave">
+				<img src="https://avatars.githubusercontent.com/u/10517616?s=72&u=8b496dd7438347bd1a354a915cb629044fb24578&v=4" width="24" alt="Avatar of SY6Dave"> SY6Dave
+			</a><br/>
+			David Mortiboy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kingston-upon-Hull</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -6230,6 +6230,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>472</td>
 		<td>
+			<a href="https://github.com/RoschelleMR">
+				<img src="https://avatars.githubusercontent.com/u/90186865?s=72&u=e871680851fdce8df3df2fe775fd3670a51e395d&v=4" width="24" alt="Avatar of RoschelleMR"> RoschelleMR
+			</a><br/>
+			Roschelle Matthews-Rhoden
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kingston, Jamaica</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
 			<a href="https://github.com/leithonenglish">
 				<img src="https://avatars.githubusercontent.com/u/7442937?s=72&u=c5696ba797d29e176e6a0a0c018800d52432ce3c&v=4" width="24" alt="Avatar of leithonenglish"> leithonenglish
 			</a><br/>
@@ -6241,7 +6254,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/bnorberg">
 				<img src="https://avatars.githubusercontent.com/u/367573?s=72&u=9ab131263f47e4eaa47df4617581464c4c2f4b0e&v=4" width="24" alt="Avatar of bnorberg"> bnorberg
@@ -6254,7 +6267,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/JayDbb">
 				<img src="https://avatars.githubusercontent.com/u/77851870?s=72&u=0b18f8bb1e4fe8fb0492a7caa67e9d238a98c088&v=4" width="24" alt="Avatar of JayDbb"> JayDbb
@@ -6267,7 +6280,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/cjurban">
 				<img src="https://avatars.githubusercontent.com/u/40474201?s=72&u=3932bcdea0d9cf1970ba19cac241bff8e5c9ec86&v=4" width="24" alt="Avatar of cjurban"> cjurban
@@ -6280,7 +6293,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/Natreve">
 				<img src="https://avatars.githubusercontent.com/u/7748641?s=72&u=d5dc0a2a5739d643e2f0455f77c2c0ff97111517&v=4" width="24" alt="Avatar of Natreve"> Natreve
@@ -6293,7 +6306,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/Deeswoc">
 				<img src="https://avatars.githubusercontent.com/u/47671781?s=72&v=4" width="24" alt="Avatar of Deeswoc"> Deeswoc
@@ -6306,7 +6319,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/CabTheProgrammer">
 				<img src="https://avatars.githubusercontent.com/u/55765253?s=72&u=51c5a6fa6dff66c170b5748f8651ed4d0e46bd8e&v=4" width="24" alt="Avatar of CabTheProgrammer"> CabTheProgrammer
@@ -6319,7 +6332,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/cout-Rackeel">
 				<img src="https://avatars.githubusercontent.com/u/84402686?s=72&u=504e96e95b07f9e145ae1ed938507c2a6060caa7&v=4" width="24" alt="Avatar of cout-Rackeel"> cout-Rackeel
@@ -6332,7 +6345,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/dkmullen">
 				<img src="https://avatars.githubusercontent.com/u/9504493?s=72&u=56359eb5f428fe3358da0ebcc8514ddc215d85e0&v=4" width="24" alt="Avatar of dkmullen"> dkmullen
@@ -6345,7 +6358,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/moyanich">
 				<img src="https://avatars.githubusercontent.com/u/11672418?s=72&u=8c5da75b14b22f503424e413242689259386277a&v=4" width="24" alt="Avatar of moyanich"> moyanich
@@ -6358,7 +6371,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/carl-duncan">
 				<img src="https://avatars.githubusercontent.com/u/50522046?s=72&v=4" width="24" alt="Avatar of carl-duncan"> carl-duncan
@@ -6371,7 +6384,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/KDYao">
 				<img src="https://avatars.githubusercontent.com/u/20528031?s=72&v=4" width="24" alt="Avatar of KDYao"> KDYao
@@ -6384,7 +6397,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/callanmurphy">
 				<img src="https://avatars.githubusercontent.com/u/55993520?s=72&u=bd58c8c233b4392e4b63679e0a65dd90730a6e0d&v=4" width="24" alt="Avatar of callanmurphy"> callanmurphy
@@ -6397,7 +6410,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/theOneAndOnlyOne">
 				<img src="https://avatars.githubusercontent.com/u/60112951?s=72&u=0e4a82f8cba26b3671a386ae9729be5e0ae6fc0b&v=4" width="24" alt="Avatar of theOneAndOnlyOne"> theOneAndOnlyOne
@@ -6410,7 +6423,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/Shane4368">
 				<img src="https://avatars.githubusercontent.com/u/47081839?s=72&u=041bb0b970f2645d21a45b4959a80ba8fb00044c&v=4" width="24" alt="Avatar of Shane4368"> Shane4368
@@ -6423,7 +6436,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/Michael-117">
 				<img src="https://avatars.githubusercontent.com/u/47512372?s=72&u=753c29fa5fdd4bda9a4c8fd2e105b06b4fb54fde&v=4" width="24" alt="Avatar of Michael-117"> Michael-117
@@ -6436,7 +6449,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/MarcoDeMelo">
 				<img src="https://avatars.githubusercontent.com/u/113130222?s=72&u=610331ac1b2d65435becf14e92edccb4bc94ba48&v=4" width="24" alt="Avatar of MarcoDeMelo"> MarcoDeMelo
@@ -6449,7 +6462,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/theSparro">
 				<img src="https://avatars.githubusercontent.com/u/91797361?s=72&u=5af0847df1c51f36c52268531ab0817d271ff532&v=4" width="24" alt="Avatar of theSparro"> theSparro
@@ -6462,7 +6475,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/RizPur">
 				<img src="https://avatars.githubusercontent.com/u/60831849?s=72&u=dfe5549e48a3dec589acdd964835c2d5fc4deb5d&v=4" width="24" alt="Avatar of RizPur"> RizPur
@@ -6475,7 +6488,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/hacker-prime">
 				<img src="https://avatars.githubusercontent.com/u/88862577?s=72&u=968367dba94777f38a683240ebb79f643455cd03&v=4" width="24" alt="Avatar of hacker-prime"> hacker-prime
@@ -6488,7 +6501,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/shandy79">
 				<img src="https://avatars.githubusercontent.com/u/11459698?s=72&u=1adb76a3e49a3be18a95b01f4d89198a9f98ddb9&v=4" width="24" alt="Avatar of shandy79"> shandy79
@@ -6498,19 +6511,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kingston, ON</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>493</td>
-		<td>
-			<a href="https://github.com/zackmitchell">
-				<img src="https://avatars.githubusercontent.com/u/12202533?s=72&u=b14a657997b2597d2f72705ab7b20984cde2fbf1&v=4" width="24" alt="Avatar of zackmitchell"> zackmitchell
-			</a><br/>
-			Zack Mitchell
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kingston, Ontario</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -10286,19 +10286,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>784</td>
 		<td>
-			<a href="https://github.com/JiayingHuang">
-				<img src="https://avatars.githubusercontent.com/u/43382636?s=72&v=4" width="24" alt="Avatar of JiayingHuang"> JiayingHuang
-			</a><br/>
-			Jiaying Huang
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kingston, Canada</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>785</td>
-		<td>
 			<a href="https://github.com/JeromeCameron">
 				<img src="https://avatars.githubusercontent.com/u/18747528?s=72&u=3c4cd59d38190f585daeec464e16065c55b042a0&v=4" width="24" alt="Avatar of JeromeCameron"> JeromeCameron
 			</a><br/>
@@ -10307,6 +10294,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kingston, Jamaica</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>785</td>
+		<td>
+			<a href="https://github.com/JiayingHuang">
+				<img src="https://avatars.githubusercontent.com/u/43382636?s=72&v=4" width="24" alt="Avatar of JiayingHuang"> JiayingHuang
+			</a><br/>
+			Jiaying Huang
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kingston, Canada</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -10689,57 +10689,18 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>815</td>
 		<td>
-			<a href="https://github.com/donatqueens">
-				<img src="https://avatars.githubusercontent.com/u/2912778?s=72&u=485e67744052802c751426540e26a3364403380f&v=4" width="24" alt="Avatar of donatqueens"> donatqueens
+			<a href="https://github.com/woodk">
+				<img src="https://avatars.githubusercontent.com/u/180471?s=72&u=198244e2f680f82462b43cf6631442671f91b110&v=4" width="24" alt="Avatar of woodk"> woodk
 			</a><br/>
-			Don Zuiker
+			Kevin Wood
 		</td>
-		<td>Education Technology, Faculty Of<br/>Health<br/>Sciences,<br/>Queen's<br/>University<br/>At<br/>Kingston<br/></td>
+		<td>Kcvi </td>
 		<td>No Twitter Username</td>
-		<td>Kingston</td>
+		<td>Kingston, Ontario, Canada</td>
 		<td>2</td>
 	</tr>
 	<tr>
 		<td>816</td>
-		<td>
-			<a href="https://github.com/k03rdt6">
-				<img src="https://avatars.githubusercontent.com/u/18012996?s=72&u=67a84476060bc1611a58ab1099d760945660a946&v=4" width="24" alt="Avatar of k03rdt6"> k03rdt6
-			</a><br/>
-			Vedant
-		</td>
-		<td>Trapeze Group </td>
-		<td>No Twitter Username</td>
-		<td>Kingston</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>817</td>
-		<td>
-			<a href="https://github.com/qualitas-software">
-				<img src="https://avatars.githubusercontent.com/u/32496607?s=72&u=c0c7b1f3a90d85fa2d62a28557a057176cd03f38&v=4" width="24" alt="Avatar of qualitas-software"> qualitas-software
-			</a><br/>
-			Qualitas Software
-		</td>
-		<td>Qualitas Software </td>
-		<td><a href="https://twitter.com/QualitasSW">QualitasSW</a></td>
-		<td>Kingston-upon-Thames, London</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>818</td>
-		<td>
-			<a href="https://github.com/probablythomas">
-				<img src="https://avatars.githubusercontent.com/u/15833053?s=72&v=4" width="24" alt="Avatar of probablythomas"> probablythomas
-			</a><br/>
-			Thomas Sears
-		</td>
-		<td>Queen's University </td>
-		<td><a href="https://twitter.com/astrosears">astrosears</a></td>
-		<td>Kingston</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>819</td>
 		<td>
 			<a href="https://github.com/jhbrooks">
 				<img src="https://avatars.githubusercontent.com/u/10366375?s=72&u=7ac0c5c657c4714afa722e9a7099ebcdc8cc67ae&v=4" width="24" alt="Avatar of jhbrooks"> jhbrooks
@@ -10752,16 +10713,55 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>817</td>
+		<td>
+			<a href="https://github.com/donatqueens">
+				<img src="https://avatars.githubusercontent.com/u/2912778?s=72&u=485e67744052802c751426540e26a3364403380f&v=4" width="24" alt="Avatar of donatqueens"> donatqueens
+			</a><br/>
+			Don Zuiker
+		</td>
+		<td>Education Technology, Faculty Of<br/>Health<br/>Sciences,<br/>Queen's<br/>University<br/>At<br/>Kingston<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kingston</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>818</td>
+		<td>
+			<a href="https://github.com/k03rdt6">
+				<img src="https://avatars.githubusercontent.com/u/18012996?s=72&u=67a84476060bc1611a58ab1099d760945660a946&v=4" width="24" alt="Avatar of k03rdt6"> k03rdt6
+			</a><br/>
+			Vedant
+		</td>
+		<td>Trapeze Group </td>
+		<td>No Twitter Username</td>
+		<td>Kingston</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>819</td>
+		<td>
+			<a href="https://github.com/qualitas-software">
+				<img src="https://avatars.githubusercontent.com/u/32496607?s=72&u=c0c7b1f3a90d85fa2d62a28557a057176cd03f38&v=4" width="24" alt="Avatar of qualitas-software"> qualitas-software
+			</a><br/>
+			Qualitas Software
+		</td>
+		<td>Qualitas Software </td>
+		<td><a href="https://twitter.com/QualitasSW">QualitasSW</a></td>
+		<td>Kingston-upon-Thames, London</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>820</td>
 		<td>
-			<a href="https://github.com/woodk">
-				<img src="https://avatars.githubusercontent.com/u/180471?s=72&u=198244e2f680f82462b43cf6631442671f91b110&v=4" width="24" alt="Avatar of woodk"> woodk
+			<a href="https://github.com/probablythomas">
+				<img src="https://avatars.githubusercontent.com/u/15833053?s=72&v=4" width="24" alt="Avatar of probablythomas"> probablythomas
 			</a><br/>
-			Kevin Wood
+			Thomas Sears
 		</td>
-		<td>Kcvi </td>
-		<td>No Twitter Username</td>
-		<td>Kingston, Ontario, Canada</td>
+		<td>Queen's University </td>
+		<td><a href="https://twitter.com/astrosears">astrosears</a></td>
+		<td>Kingston</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -11599,19 +11599,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>885</td>
 		<td>
-			<a href="https://github.com/TassyWassy">
-				<img src="https://avatars.githubusercontent.com/u/6570085?s=72&u=8e996e349ae8789976d7478de698c91e14706de0&v=4" width="24" alt="Avatar of TassyWassy"> TassyWassy
-			</a><br/>
-			Shadae T
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Jamaica</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>886</td>
-		<td>
 			<a href="https://github.com/Phiraxis">
 				<img src="https://avatars.githubusercontent.com/u/105887999?s=72&v=4" width="24" alt="Avatar of Phiraxis"> Phiraxis
 			</a><br/>
@@ -11620,6 +11607,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>Perklab </td>
 		<td>No Twitter Username</td>
 		<td>Kingston, Canada</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>886</td>
+		<td>
+			<a href="https://github.com/TassyWassy">
+				<img src="https://avatars.githubusercontent.com/u/6570085?s=72&u=8e996e349ae8789976d7478de698c91e14706de0&v=4" width="24" alt="Avatar of TassyWassy"> TassyWassy
+			</a><br/>
+			Shadae T
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Jamaica</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -11898,19 +11898,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>908</td>
 		<td>
-			<a href="https://github.com/t3hc13h">
-				<img src="https://avatars.githubusercontent.com/u/219850?s=72&v=4" width="24" alt="Avatar of t3hc13h"> t3hc13h
-			</a><br/>
-			Andrew Berglund
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kingston, NY</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>909</td>
-		<td>
 			<a href="https://github.com/devosaini">
 				<img src="https://avatars.githubusercontent.com/u/17059445?s=72&v=4" width="24" alt="Avatar of devosaini"> devosaini
 			</a><br/>
@@ -11919,6 +11906,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toronto & Kingston, Ontario, Canada</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>909</td>
+		<td>
+			<a href="https://github.com/t3hc13h">
+				<img src="https://avatars.githubusercontent.com/u/219850?s=72&v=4" width="24" alt="Avatar of t3hc13h"> t3hc13h
+			</a><br/>
+			Andrew Berglund
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kingston, NY</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12054,6 +12054,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>920</td>
 		<td>
+			<a href="https://github.com/tajay-marshall">
+				<img src="https://avatars.githubusercontent.com/u/104773732?s=72&v=4" width="24" alt="Avatar of tajay-marshall"> tajay-marshall
+			</a><br/>
+			Tajay Marshall
+		</td>
+		<td>Planning Institute Of Jamaica<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kingston, Jamaica</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>921</td>
+		<td>
 			<a href="https://github.com/hughbillings">
 				<img src="https://avatars.githubusercontent.com/u/36485620?s=72&v=4" width="24" alt="Avatar of hughbillings"> hughbillings
 			</a><br/>
@@ -12065,7 +12078,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/vomambia">
 				<img src="https://avatars.githubusercontent.com/u/72532507?s=72&u=bdc1b8e8ef92b2815a2d9acad246f50fe98cceb7&v=4" width="24" alt="Avatar of vomambia"> vomambia
@@ -12075,19 +12088,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>Queen's University </td>
 		<td><a href="https://twitter.com/VNOmambia">VNOmambia</a></td>
 		<td>Kingston ON, Canada</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>922</td>
-		<td>
-			<a href="https://github.com/tajay-marshall">
-				<img src="https://avatars.githubusercontent.com/u/104773732?s=72&v=4" width="24" alt="Avatar of tajay-marshall"> tajay-marshall
-			</a><br/>
-			Tajay Marshall
-		</td>
-		<td>Planning Institute Of Jamaica<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kingston, Jamaica</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12132,19 +12132,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>926</td>
 		<td>
-			<a href="https://github.com/nonaanderson">
-				<img src="https://avatars.githubusercontent.com/u/32801086?s=72&v=4" width="24" alt="Avatar of nonaanderson"> nonaanderson
-			</a><br/>
-			Nona Anderson
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>University of Rhode Island, Kingston</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>927</td>
-		<td>
 			<a href="https://github.com/William-Stephen-Jones">
 				<img src="https://avatars.githubusercontent.com/u/32708282?s=72&v=4" width="24" alt="Avatar of William-Stephen-Jones"> William-Stephen-Jones
 			</a><br/>
@@ -12156,7 +12143,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/nove1398">
 				<img src="https://avatars.githubusercontent.com/u/2650410?s=72&u=1a4333161e0f096e37b598320baf764e10946f04&v=4" width="24" alt="Avatar of nove1398"> nove1398
@@ -12166,6 +12153,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>jamaica</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>928</td>
+		<td>
+			<a href="https://github.com/nonaanderson">
+				<img src="https://avatars.githubusercontent.com/u/32801086?s=72&v=4" width="24" alt="Avatar of nonaanderson"> nonaanderson
+			</a><br/>
+			Nona Anderson
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>University of Rhode Island, Kingston</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12392,19 +12392,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>946</td>
 		<td>
-			<a href="https://github.com/griffinmacnaughtan">
-				<img src="https://avatars.githubusercontent.com/u/91450655?s=72&v=4" width="24" alt="Avatar of griffinmacnaughtan"> griffinmacnaughtan
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kingston, ON</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>947</td>
-		<td>
 			<a href="https://github.com/zabrad">
 				<img src="https://avatars.githubusercontent.com/u/23158928?s=72&u=916749ee04c562ba4bf4867457a114d1e3f7a040&v=4" width="24" alt="Avatar of zabrad"> zabrad
 			</a><br/>
@@ -12413,6 +12400,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Zabrad1">Zabrad1</a></td>
 		<td>Jamaica</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>947</td>
+		<td>
+			<a href="https://github.com/griffinmacnaughtan">
+				<img src="https://avatars.githubusercontent.com/u/91450655?s=72&v=4" width="24" alt="Avatar of griffinmacnaughtan"> griffinmacnaughtan
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kingston, ON</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12496,19 +12496,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>954</td>
 		<td>
-			<a href="https://github.com/RajkeshaSolith">
-				<img src="https://avatars.githubusercontent.com/u/33181674?s=72&u=0451e76f3e67d4bc49371869dc3cdd756d77e01f&v=4" width="24" alt="Avatar of RajkeshaSolith"> RajkeshaSolith
-			</a><br/>
-			Solaj
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cornbeeffanatic">cornbeeffanatic</a></td>
-		<td>Kingston</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>955</td>
-		<td>
 			<a href="https://github.com/MochaCoders">
 				<img src="https://avatars.githubusercontent.com/u/78655007?s=72&v=4" width="24" alt="Avatar of MochaCoders"> MochaCoders
 			</a><br/>
@@ -12517,6 +12504,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>Mocha Coders Limited </td>
 		<td>No Twitter Username</td>
 		<td>KINGSTON, JAMAICA</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>955</td>
+		<td>
+			<a href="https://github.com/RajkeshaSolith">
+				<img src="https://avatars.githubusercontent.com/u/33181674?s=72&u=0451e76f3e67d4bc49371869dc3cdd756d77e01f&v=4" width="24" alt="Avatar of RajkeshaSolith"> RajkeshaSolith
+			</a><br/>
+			Solaj
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cornbeeffanatic">cornbeeffanatic</a></td>
+		<td>Kingston</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12535,19 +12535,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>957</td>
 		<td>
-			<a href="https://github.com/Bilmil">
-				<img src="https://avatars.githubusercontent.com/u/57769342?s=72&v=4" width="24" alt="Avatar of Bilmil"> Bilmil
-			</a><br/>
-			No Name
-		</td>
-		<td>Caribbean Maritime University <br/></td>
-		<td>No Twitter Username</td>
-		<td>Kingston, Jamaica </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>958</td>
-		<td>
 			<a href="https://github.com/AaronRoodhart">
 				<img src="https://avatars.githubusercontent.com/u/84870840?s=72&u=8301cfb9476203b047d52fc0eba40bba96e00b9b&v=4" width="24" alt="Avatar of AaronRoodhart"> AaronRoodhart
 			</a><br/>
@@ -12559,16 +12546,29 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
+		<td>958</td>
+		<td>
+			<a href="https://github.com/Bilmil">
+				<img src="https://avatars.githubusercontent.com/u/57769342?s=72&v=4" width="24" alt="Avatar of Bilmil"> Bilmil
+			</a><br/>
+			No Name
+		</td>
+		<td>Caribbean Maritime University <br/></td>
+		<td>No Twitter Username</td>
+		<td>Kingston, Jamaica </td>
+		<td>1</td>
+	</tr>
+	<tr>
 		<td>959</td>
 		<td>
-			<a href="https://github.com/King-Hero">
-				<img src="https://avatars.githubusercontent.com/u/48255534?s=72&v=4" width="24" alt="Avatar of King-Hero"> King-Hero
+			<a href="https://github.com/tarjpecco777">
+				<img src="https://avatars.githubusercontent.com/u/40407300?s=72&u=e7daeb1a20d019b6f210e6f78b9603c38f21da47&v=4" width="24" alt="Avatar of tarjpecco777"> tarjpecco777
 			</a><br/>
-			Michael-Alexander McPherson
+			Tarj Roshane Pecco
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Jamaica</td>
+		<td>Kingston, Jamaica</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12587,14 +12587,14 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>961</td>
 		<td>
-			<a href="https://github.com/tarjpecco777">
-				<img src="https://avatars.githubusercontent.com/u/40407300?s=72&u=e7daeb1a20d019b6f210e6f78b9603c38f21da47&v=4" width="24" alt="Avatar of tarjpecco777"> tarjpecco777
+			<a href="https://github.com/King-Hero">
+				<img src="https://avatars.githubusercontent.com/u/48255534?s=72&v=4" width="24" alt="Avatar of King-Hero"> King-Hero
 			</a><br/>
-			Tarj Roshane Pecco
+			Michael-Alexander McPherson
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Kingston, Jamaica</td>
+		<td>Jamaica</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -12639,6 +12639,19 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 	<tr>
 		<td>965</td>
 		<td>
+			<a href="https://github.com/Andre1876">
+				<img src="https://avatars.githubusercontent.com/u/79169376?s=72&u=bbe1b9d0b8b24ac14192d2b237b2b71904b3169c&v=4" width="24" alt="Avatar of Andre1876"> Andre1876
+			</a><br/>
+			Andre Lawrence
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AndreLaw86">AndreLaw86</a></td>
+		<td>Kingston | Miami | Rotterdam </td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>966</td>
+		<td>
 			<a href="https://github.com/lukamiloo">
 				<img src="https://avatars.githubusercontent.com/u/91203584?s=72&u=2901ffab23436666e4e38666132504e7afe6fccf&v=4" width="24" alt="Avatar of lukamiloo"> lukamiloo
 			</a><br/>
@@ -12650,7 +12663,7 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>966</td>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/A-SmallCoder">
 				<img src="https://avatars.githubusercontent.com/u/45150489?s=72&v=4" width="24" alt="Avatar of A-SmallCoder"> A-SmallCoder
@@ -12660,19 +12673,6 @@ There are `969 users`  in Jamaica. You need at least `1 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Jamaica</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>967</td>
-		<td>
-			<a href="https://github.com/Andre1876">
-				<img src="https://avatars.githubusercontent.com/u/79169376?s=72&u=bbe1b9d0b8b24ac14192d2b237b2b71904b3169c&v=4" width="24" alt="Avatar of Andre1876"> Andre1876
-			</a><br/>
-			Andre Lawrence
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AndreLaw86">AndreLaw86</a></td>
-		<td>Kingston | Miami | Rotterdam </td>
 		<td>1</td>
 	</tr>
 	<tr>
