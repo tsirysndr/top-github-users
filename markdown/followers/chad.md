@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/9/2 2:22 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/9/3 7:43 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -627,10 +627,10 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>41</td>
 		<td>
-			<a href="https://github.com/DharMannn">
-				<img src="https://avatars.githubusercontent.com/u/103457705?s=72&u=e7d28e1961b01bceffc5029cd4314eb2139c8bcc&v=4" width="24" alt="Avatar of DharMannn"> DharMannn
+			<a href="https://github.com/SenorProfessorMeister">
+				<img src="https://avatars.githubusercontent.com/u/103457705?s=72&u=e7d28e1961b01bceffc5029cd4314eb2139c8bcc&v=4" width="24" alt="Avatar of SenorProfessorMeister"> SenorProfessorMeister
 			</a><br/>
-			DharMannnnnnnnnnnnn
+			SenorProfessor
 		</td>
 		<td>Urmom.com </td>
 		<td>No Twitter Username</td>
@@ -809,19 +809,6 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/Khayarion">
-				<img src="https://avatars.githubusercontent.com/u/67801684?s=72&u=6e20145daabb2181f0c5704b0f67d9b36c0d9bc4&v=4" width="24" alt="Avatar of Khayarion"> Khayarion
-			</a><br/>
-			Hamid
-		</td>
-		<td>Chad Innovation Association </td>
-		<td><a href="https://twitter.com/khayarion">khayarion</a></td>
-		<td>N'djamena, Chad </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
 			<a href="https://github.com/th-huese">
 				<img src="https://avatars.githubusercontent.com/u/78281885?s=72&u=318fda0dd2c246cbb711b8a6f1166b5f43699616&v=4" width="24" alt="Avatar of th-huese"> th-huese
 			</a><br/>
@@ -833,7 +820,7 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/hishas">
 				<img src="https://avatars.githubusercontent.com/u/93581865?s=72&u=6d7d5a0c0425ab6e3558795af96204f755db6677&v=4" width="24" alt="Avatar of hishas"> hishas
@@ -846,7 +833,7 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/jordanschermer">
 				<img src="https://avatars.githubusercontent.com/u/29853652?s=72&v=4" width="24" alt="Avatar of jordanschermer"> jordanschermer

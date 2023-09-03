@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/9/2 2:22 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/9/3 7:43 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -588,10 +588,10 @@ There are `123 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>38</td>
 		<td>
-			<a href="https://github.com/DharMannn">
-				<img src="https://avatars.githubusercontent.com/u/103457705?s=72&u=e7d28e1961b01bceffc5029cd4314eb2139c8bcc&v=4" width="24" alt="Avatar of DharMannn"> DharMannn
+			<a href="https://github.com/SenorProfessorMeister">
+				<img src="https://avatars.githubusercontent.com/u/103457705?s=72&u=e7d28e1961b01bceffc5029cd4314eb2139c8bcc&v=4" width="24" alt="Avatar of SenorProfessorMeister"> SenorProfessorMeister
 			</a><br/>
-			DharMannnnnnnnnnnnn
+			SenorProfessor
 		</td>
 		<td>Urmom.com </td>
 		<td>No Twitter Username</td>
