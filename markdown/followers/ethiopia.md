@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" alt="Ethiopia">
 </a>
 
-The `number of followers` of users in Ethiopia on `2023/9/7 10:50 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
+The `number of followers` of users in Ethiopia on `2023/9/8 4:33 PM UTC`. This list contains users from `Ethiopia` and cities `Addis-ababa` `Dire-dawa` `Dire-dawa` `Hawassa` `Dessie`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -167,7 +167,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/pour_qua">pour_qua</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>413</td>
+		<td>414</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>ethiopia</td>
-		<td>332</td>
+		<td>333</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Software Developer </td>
 		<td><a href="https://twitter.com/Yidnekassahun">Yidnekassahun</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>311</td>
+		<td>312</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -440,7 +440,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/HabtieZewdie">HabtieZewdie</a></td>
 		<td>Ethiopia</td>
-		<td>105</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -575,6 +575,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>37</td>
 		<td>
+			<a href="https://github.com/mubareksd">
+				<img src="https://avatars.githubusercontent.com/u/37532590?s=72&u=6d829d90ab3aea176026c4d595ec4959ac23a52d&v=4" width="24" alt="Avatar of mubareksd"> mubareksd
+			</a><br/>
+			Mubarek Seid Juhar
+		</td>
+		<td>@sabawyan @aladna </td>
+		<td><a href="https://twitter.com/mubareksd">mubareksd</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>87</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
 			<a href="https://github.com/Bushra-KB">
 				<img src="https://avatars.githubusercontent.com/u/29249243?s=72&u=b1caac72ff8f552f1fc6d4204d9ded0e5c77e176&v=4" width="24" alt="Avatar of Bushra-KB"> Bushra-KB
 			</a><br/>
@@ -584,19 +597,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Debre Berhan, Ethiopia</td>
 		<td>87</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/mubareksd">
-				<img src="https://avatars.githubusercontent.com/u/37532590?s=72&u=6d829d90ab3aea176026c4d595ec4959ac23a52d&v=4" width="24" alt="Avatar of mubareksd"> mubareksd
-			</a><br/>
-			Mubarek Seid Juhar
-		</td>
-		<td>@sabawyan @aladna </td>
-		<td><a href="https://twitter.com/mubareksd">mubareksd</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>86</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -666,6 +666,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>44</td>
 		<td>
+			<a href="https://github.com/baydisng13">
+				<img src="https://avatars.githubusercontent.com/u/44190023?s=72&u=9c34c4bf1d83114ef65160807c4a99d76fc08eda&v=4" width="24" alt="Avatar of baydisng13"> baydisng13
+			</a><br/>
+			Theodore Negusu
+		</td>
+		<td>Brainstormers </td>
+		<td><a href="https://twitter.com/TheodoreNegusu">TheodoreNegusu</a></td>
+		<td>Ethiopia, A.A</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
 			<a href="https://github.com/AbelG101">
 				<img src="https://avatars.githubusercontent.com/u/104968236?s=72&u=e3967491616ebc0e985b0dd7a7047d732bbfe8a6&v=4" width="24" alt="Avatar of AbelG101"> AbelG101
 			</a><br/>
@@ -677,7 +690,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/Yidne21">
 				<img src="https://avatars.githubusercontent.com/u/97584399?s=72&u=3a8312fad9c0d7fddb126d71482246a37eb06f2a&v=4" width="24" alt="Avatar of Yidne21"> Yidne21
@@ -687,19 +700,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Wolkite University </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa Ethiopia</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/baydisng13">
-				<img src="https://avatars.githubusercontent.com/u/44190023?s=72&u=9c34c4bf1d83114ef65160807c4a99d76fc08eda&v=4" width="24" alt="Avatar of baydisng13"> baydisng13
-			</a><br/>
-			Theodore Negusu
-		</td>
-		<td>Brainstormers </td>
-		<td><a href="https://twitter.com/TheodoreNegusu">TheodoreNegusu</a></td>
-		<td>Ethiopia, A.A</td>
 		<td>77</td>
 	</tr>
 	<tr>
@@ -744,6 +744,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>50</td>
 		<td>
+			<a href="https://github.com/abdimk">
+				<img src="https://avatars.githubusercontent.com/u/63399762?s=72&u=f4dff723bcd106c8783632c571d43ee9392d0be4&v=4" width="24" alt="Avatar of abdimk"> abdimk
+			</a><br/>
+			AbdiMK
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/abdisamk">abdisamk</a></td>
+		<td>Ethiopia,Addis abeba</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
 			<a href="https://github.com/eyobofficial">
 				<img src="https://avatars.githubusercontent.com/u/12211962?s=72&u=5a140331208d7add6c5d013343ff6cc4f23494b3&v=4" width="24" alt="Avatar of eyobofficial"> eyobofficial
 			</a><br/>
@@ -755,7 +768,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/Besufikad17">
 				<img src="https://avatars.githubusercontent.com/u/64811433?s=72&u=f2430b0620f9b97c44a1077a0d41f64f1c41ef07&v=4" width="24" alt="Avatar of Besufikad17"> Besufikad17
@@ -766,19 +779,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td><a href="https://twitter.com/besumicheal">besumicheal</a></td>
 		<td>Addis Ababa,  Ethiopia</td>
 		<td>73</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/abdimk">
-				<img src="https://avatars.githubusercontent.com/u/63399762?s=72&u=f4dff723bcd106c8783632c571d43ee9392d0be4&v=4" width="24" alt="Avatar of abdimk"> abdimk
-			</a><br/>
-			AbdiMK
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/abdisamk">abdisamk</a></td>
-		<td>Ethiopia,Addis abeba</td>
-		<td>72</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -887,19 +887,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>61</td>
 		<td>
-			<a href="https://github.com/Kumilachew-g">
-				<img src="https://avatars.githubusercontent.com/u/65109017?s=72&u=9fae08daa576ea417b37256aa180d3dad5687585&v=4" width="24" alt="Avatar of Kumilachew-g"> Kumilachew-g
-			</a><br/>
-			Kumilachew Getie
-		</td>
-		<td>Freelance Full-stack Developer </td>
-		<td><a href="https://twitter.com/Getie_Haddis">Getie_Haddis</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
 			<a href="https://github.com/erick-otenyo">
 				<img src="https://avatars.githubusercontent.com/u/20169543?s=72&u=73c518b4d48b45eda18e224b92b662157eb5b72e&v=4" width="24" alt="Avatar of erick-otenyo"> erick-otenyo
 			</a><br/>
@@ -911,20 +898,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>62</td>
 		<td>
-			<a href="https://github.com/Besufekad-HAZ">
-				<img src="https://avatars.githubusercontent.com/u/23375153?s=72&u=5e9fb2b24a273f9c0f0f1ca90643d15f7a5504cb&v=4" width="24" alt="Avatar of Besufekad-HAZ"> Besufekad-HAZ
+			<a href="https://github.com/Kumilachew-g">
+				<img src="https://avatars.githubusercontent.com/u/65109017?s=72&u=9fae08daa576ea417b37256aa180d3dad5687585&v=4" width="24" alt="Avatar of Kumilachew-g"> Kumilachew-g
 			</a><br/>
-			Besufekad Alemu
+			Kumilachew Getie
 		</td>
-		<td>Full-stack Developer </td>
-		<td>No Twitter Username</td>
+		<td>Freelance Full-stack Developer </td>
+		<td><a href="https://twitter.com/Getie_Haddis">Getie_Haddis</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/Fraol123">
 				<img src="https://avatars.githubusercontent.com/u/77830323?s=72&u=b1bb88f0d0a088fcf1f041c79aae362e6b09d9cf&v=4" width="24" alt="Avatar of Fraol123"> Fraol123
@@ -937,7 +924,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/veduket">
 				<img src="https://avatars.githubusercontent.com/u/3890744?s=72&u=d19ff59eee2f2aaeac933532eb1508c86119a33d&v=4" width="24" alt="Avatar of veduket"> veduket
@@ -950,7 +937,33 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
+		<td>65</td>
+		<td>
+			<a href="https://github.com/Besufekad-HAZ">
+				<img src="https://avatars.githubusercontent.com/u/23375153?s=72&u=5e9fb2b24a273f9c0f0f1ca90643d15f7a5504cb&v=4" width="24" alt="Avatar of Besufekad-HAZ"> Besufekad-HAZ
+			</a><br/>
+			Besufekad Alemu
+		</td>
+		<td>Full-stack Developer </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>65</td>
+	</tr>
+	<tr>
 		<td>66</td>
+		<td>
+			<a href="https://github.com/Abenezer-Tilahun">
+				<img src="https://avatars.githubusercontent.com/u/93598189?s=72&u=fe19b3a9b52fb42433da0ac97d1eed06041e768d&v=4" width="24" alt="Avatar of Abenezer-Tilahun"> Abenezer-Tilahun
+			</a><br/>
+			No Name
+		</td>
+		<td>Full-stack Software Developer </td>
+		<td><a href="https://twitter.com/AbenezerTilah11">AbenezerTilah11</a></td>
+		<td>Ethiopia</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/Abel5173">
 				<img src="https://avatars.githubusercontent.com/u/86670708?s=72&u=289897ad7f36d27a25cbd9e92d03b5d9f7a18d4e&v=4" width="24" alt="Avatar of Abel5173"> Abel5173
@@ -963,7 +976,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/ohran9">
 				<img src="https://avatars.githubusercontent.com/u/46476842?s=72&u=0439d0d3ae55cf35aebe29ce74a8bba283cd3441&v=4" width="24" alt="Avatar of ohran9"> ohran9
@@ -974,19 +987,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td><a href="https://twitter.com/osman_welela">osman_welela</a></td>
 		<td>Addis Ababa</td>
 		<td>65</td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>
-			<a href="https://github.com/Abenezer-Tilahun">
-				<img src="https://avatars.githubusercontent.com/u/93598189?s=72&u=fe19b3a9b52fb42433da0ac97d1eed06041e768d&v=4" width="24" alt="Avatar of Abenezer-Tilahun"> Abenezer-Tilahun
-			</a><br/>
-			No Name
-		</td>
-		<td>Full-stack Software Developer </td>
-		<td><a href="https://twitter.com/AbenezerTilah11">AbenezerTilah11</a></td>
-		<td>Ethiopia</td>
-		<td>64</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1043,19 +1043,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/AbrahaKahsay">
-				<img src="https://avatars.githubusercontent.com/u/75738563?s=72&u=60380230ddf11797634c1ec76d0a702f1900db46&v=4" width="24" alt="Avatar of AbrahaKahsay"> AbrahaKahsay
-			</a><br/>
-			Abraha Kahsay
-		</td>
-		<td>@microverseinc </td>
-		<td><a href="https://twitter.com/abraha_ka">abraha_ka</a></td>
-		<td>Jimma, Ethiopia</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
 			<a href="https://github.com/Efode-r2d2">
 				<img src="https://avatars.githubusercontent.com/u/10376677?s=72&u=ef7093bed1f363e928228fc763c483ec3a287239&v=4" width="24" alt="Avatar of Efode-r2d2"> Efode-r2d2
 			</a><br/>
@@ -1065,6 +1052,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td><a href="https://twitter.com/__efode">__efode</a></td>
 		<td>Addis Ababa</td>
 		<td>62</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/AbrahaKahsay">
+				<img src="https://avatars.githubusercontent.com/u/75738563?s=72&u=60380230ddf11797634c1ec76d0a702f1900db46&v=4" width="24" alt="Avatar of AbrahaKahsay"> AbrahaKahsay
+			</a><br/>
+			Abraha Kahsay
+		</td>
+		<td>@microverseinc </td>
+		<td><a href="https://twitter.com/abraha_ka">abraha_ka</a></td>
+		<td>Jimma, Ethiopia</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1316,19 +1316,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>94</td>
 		<td>
-			<a href="https://github.com/AmanWorku">
-				<img src="https://avatars.githubusercontent.com/u/80094659?s=72&u=78b6e408b4ed4c11b371a01a3dfbf5d433e318a9&v=4" width="24" alt="Avatar of AmanWorku"> AmanWorku
-			</a><br/>
-			Aman Worku
-		</td>
-		<td>@microverseinc  </td>
-		<td><a href="https://twitter.com/Amexworku">Amexworku</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
 			<a href="https://github.com/dKibru">
 				<img src="https://avatars.githubusercontent.com/u/32495495?s=72&u=2ed907da745040a8a8ffdc2018db0c92a8bb9cd8&v=4" width="24" alt="Avatar of dKibru"> dKibru
 			</a><br/>
@@ -1340,7 +1327,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/zmekonnen251">
 				<img src="https://avatars.githubusercontent.com/u/92645881?s=72&u=45bc4e6581d17c32c4d115dbf54d486ca198b27d&v=4" width="24" alt="Avatar of zmekonnen251"> zmekonnen251
@@ -1353,7 +1340,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/kalkidan999">
 				<img src="https://avatars.githubusercontent.com/u/45605340?s=72&u=65dd2a7f828594075a13606d472ec55d2867e1a6&v=4" width="24" alt="Avatar of kalkidan999"> kalkidan999
@@ -1366,7 +1353,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/Theotislexis">
 				<img src="https://avatars.githubusercontent.com/u/51867982?s=72&u=0ea4ea77b664f8e34a9511d71053edf1efcc2575&v=4" width="24" alt="Avatar of Theotislexis"> Theotislexis
@@ -1379,7 +1366,33 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
+		<td>98</td>
+		<td>
+			<a href="https://github.com/AmanWorku">
+				<img src="https://avatars.githubusercontent.com/u/80094659?s=72&u=78b6e408b4ed4c11b371a01a3dfbf5d433e318a9&v=4" width="24" alt="Avatar of AmanWorku"> AmanWorku
+			</a><br/>
+			Aman Worku
+		</td>
+		<td>@microverseinc  </td>
+		<td><a href="https://twitter.com/Amexworku">Amexworku</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>51</td>
+	</tr>
+	<tr>
 		<td>99</td>
+		<td>
+			<a href="https://github.com/lijsamuael">
+				<img src="https://avatars.githubusercontent.com/u/101696125?s=72&u=a651c6067334117c34478e5ae3e72661c9734965&v=4" width="24" alt="Avatar of lijsamuael"> lijsamuael
+			</a><br/>
+			No Name
+		</td>
+		<td>Devssinia </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/UbdaNam">
 				<img src="https://avatars.githubusercontent.com/u/66268418?s=72&u=b14889c13218a5932373720daa5a83d91d8af766&v=4" width="24" alt="Avatar of UbdaNam"> UbdaNam
@@ -1392,7 +1405,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/brhanuhailu">
 				<img src="https://avatars.githubusercontent.com/u/73739300?s=72&u=3eaeb5e8a1c264372f28229d703f3a60f6b0dca6&v=4" width="24" alt="Avatar of brhanuhailu"> brhanuhailu
@@ -1402,19 +1415,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Mekelle University, Haramaya University<br/></td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
-		<td>49</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/lijsamuael">
-				<img src="https://avatars.githubusercontent.com/u/101696125?s=72&u=a651c6067334117c34478e5ae3e72661c9734965&v=4" width="24" alt="Avatar of lijsamuael"> lijsamuael
-			</a><br/>
-			No Name
-		</td>
-		<td>Devssinia </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
 		<td>49</td>
 	</tr>
 	<tr>
@@ -1576,6 +1576,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>114</td>
 		<td>
+			<a href="https://github.com/kalbek">
+				<img src="https://avatars.githubusercontent.com/u/44664009?s=72&u=eaedc3a688c150e49a3c21fba727fb0431e67f64&v=4" width="24" alt="Avatar of kalbek"> kalbek
+			</a><br/>
+			Kaleb Bekele
+		</td>
+		<td>Student At Microverse, Junior<br/>Is<br/>Officer<br/>At<br/>Commercial<br/>Bank<br/>Of<br/>Ethiopia<br/></td>
+		<td><a href="https://twitter.com/knuramo">knuramo</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
 			<a href="https://github.com/Abinet508">
 				<img src="https://avatars.githubusercontent.com/u/57164101?s=72&u=1508b869caddaf98bc321bf08c75f3cd9f91f891&v=4" width="24" alt="Avatar of Abinet508"> Abinet508
 			</a><br/>
@@ -1584,19 +1597,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Ethiopian Labor Market Information<br/>System<br/>(e-lmis)<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa </td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>115</td>
-		<td>
-			<a href="https://github.com/wubeZ">
-				<img src="https://avatars.githubusercontent.com/u/85889061?s=72&u=72d1bad617fe4ada7da4709c8ef5187f6677fd21&v=4" width="24" alt="Avatar of wubeZ"> wubeZ
-			</a><br/>
-			Wubshet Zeleke Genta
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/wube_Z">wube_Z</a></td>
-		<td>Addis Ababa, Ethiopia</td>
 		<td>45</td>
 	</tr>
 	<tr>
@@ -1615,44 +1615,18 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>117</td>
 		<td>
-			<a href="https://github.com/kal2944">
-				<img src="https://avatars.githubusercontent.com/u/99416452?s=72&u=4ea3a8f972926230209b1b217f51659c4a2865e5&v=4" width="24" alt="Avatar of kal2944"> kal2944
+			<a href="https://github.com/wubeZ">
+				<img src="https://avatars.githubusercontent.com/u/85889061?s=72&u=72d1bad617fe4ada7da4709c8ef5187f6677fd21&v=4" width="24" alt="Avatar of wubeZ"> wubeZ
 			</a><br/>
-			kalkidan Daniel
+			Wubshet Zeleke Genta
 		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/Kalkida01088197">Kalkida01088197</a></td>
-		<td>A.A , Ethiopia</td>
-		<td>45</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/wube_Z">wube_Z</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>118</td>
-		<td>
-			<a href="https://github.com/kalbek">
-				<img src="https://avatars.githubusercontent.com/u/44664009?s=72&u=eaedc3a688c150e49a3c21fba727fb0431e67f64&v=4" width="24" alt="Avatar of kalbek"> kalbek
-			</a><br/>
-			Kaleb Bekele
-		</td>
-		<td>Student At Microverse, Junior<br/>Is<br/>Officer<br/>At<br/>Commercial<br/>Bank<br/>Of<br/>Ethiopia<br/></td>
-		<td><a href="https://twitter.com/knuramo">knuramo</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/kalbek">
-				<img src="https://avatars.githubusercontent.com/u/44664009?s=72&u=eaedc3a688c150e49a3c21fba727fb0431e67f64&v=4" width="24" alt="Avatar of kalbek"> kalbek
-			</a><br/>
-			Kaleb Bekele
-		</td>
-		<td>Student At Microverse, Junior<br/>Is<br/>Officer<br/>At<br/>Commercial<br/>Bank<br/>Of<br/>Ethiopia<br/></td>
-		<td><a href="https://twitter.com/knuramo">knuramo</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>120</td>
 		<td>
 			<a href="https://github.com/mengiefen">
 				<img src="https://avatars.githubusercontent.com/u/39188456?s=72&u=ed3eceb55dd6d699d4090470b2344b1d6359108b&v=4" width="24" alt="Avatar of mengiefen"> mengiefen
@@ -1662,6 +1636,32 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MengistuFentaw">MengistuFentaw</a></td>
 		<td>Ethiopia</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/hiwina">
+				<img src="https://avatars.githubusercontent.com/u/9920834?s=72&u=fb7fd3ec16e355d7ee7a514a0d3434b881f811a0&v=4" width="24" alt="Avatar of hiwina"> hiwina
+			</a><br/>
+			Hiwot Bayissa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
+			<a href="https://github.com/kal2944">
+				<img src="https://avatars.githubusercontent.com/u/99416452?s=72&u=4ea3a8f972926230209b1b217f51659c4a2865e5&v=4" width="24" alt="Avatar of kal2944"> kal2944
+			</a><br/>
+			kalkidan Daniel
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/Kalkida01088197">Kalkida01088197</a></td>
+		<td>A.A , Ethiopia</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -1719,19 +1719,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>125</td>
 		<td>
-			<a href="https://github.com/yobocode">
-				<img src="https://avatars.githubusercontent.com/u/112482941?s=72&u=69ff911bf0991856c673d62c2920b147837e5d97&v=4" width="24" alt="Avatar of yobocode"> yobocode
-			</a><br/>
-			Yibrah Teare
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yibrahamare1">yibrahamare1</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
 			<a href="https://github.com/nuredin10">
 				<img src="https://avatars.githubusercontent.com/u/90145257?s=72&u=c73363898ddfbbfba60bc54dc605681f495eaf49&v=4" width="24" alt="Avatar of nuredin10"> nuredin10
 			</a><br/>
@@ -1743,7 +1730,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/Lulusha-XT">
 				<img src="https://avatars.githubusercontent.com/u/106759704?s=72&u=1bc9001f0d7924fac5bf8b2712740899448f7315&v=4" width="24" alt="Avatar of Lulusha-XT"> Lulusha-XT
@@ -1756,7 +1743,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/TesheMaximillan">
 				<img src="https://avatars.githubusercontent.com/u/51437483?s=72&u=9c4c825d32527f82b98e9a8ceb8da950c831920f&v=4" width="24" alt="Avatar of TesheMaximillan"> TesheMaximillan
@@ -1769,7 +1756,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/adilmohak">
 				<img src="https://avatars.githubusercontent.com/u/60693922?s=72&u=54ad8c941e61e03587304d5d417da732a8ad16b9&v=4" width="24" alt="Avatar of adilmohak"> adilmohak
@@ -1782,7 +1769,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/naolarega">
 				<img src="https://avatars.githubusercontent.com/u/45383986?s=72&u=0aec47fac957e8354e995a88841150b596fc0aad&v=4" width="24" alt="Avatar of naolarega"> naolarega
@@ -1795,7 +1782,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/Reid-T-W">
 				<img src="https://avatars.githubusercontent.com/u/30241503?s=72&u=31b4c22091bbba4bab3d81835bbb940b65d47ca0&v=4" width="24" alt="Avatar of Reid-T-W"> Reid-T-W
@@ -1805,6 +1792,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>131</td>
+		<td>
+			<a href="https://github.com/yobocode">
+				<img src="https://avatars.githubusercontent.com/u/112482941?s=72&u=69ff911bf0991856c673d62c2920b147837e5d97&v=4" width="24" alt="Avatar of yobocode"> yobocode
+			</a><br/>
+			Yibrah Teare
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yibrahamare1">yibrahamare1</a></td>
+		<td>Addis Ababa, Ethiopia</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -1901,6 +1901,32 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>139</td>
 		<td>
+			<a href="https://github.com/MohammedIbrahim8887">
+				<img src="https://avatars.githubusercontent.com/u/95257247?s=72&u=c40456e01a88d2417bcdeb0dbd3e4270e02e9964&v=4" width="24" alt="Avatar of MohammedIbrahim8887"> MohammedIbrahim8887
+			</a><br/>
+			Mohammed Ibrahim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
+			<a href="https://github.com/fireayehu">
+				<img src="https://avatars.githubusercontent.com/u/35679017?s=72&u=9a854dedaa05c77f4ce8baaec232623a49abd608&v=4" width="24" alt="Avatar of fireayehu"> fireayehu
+			</a><br/>
+			Fireayehu Zekarias
+		</td>
+		<td>Aait </td>
+		<td><a href="https://twitter.com/fireayehu">fireayehu</a></td>
+		<td>Ethiopia</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
 			<a href="https://github.com/atinafabebe1">
 				<img src="https://avatars.githubusercontent.com/u/109695272?s=72&u=f5beac0e72ec12917d13e89f03bc9ee8f8381f97&v=4" width="24" alt="Avatar of atinafabebe1"> atinafabebe1
 			</a><br/>
@@ -1912,7 +1938,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>142</td>
 		<td>
 			<a href="https://github.com/BeamlakAschalew">
 				<img src="https://avatars.githubusercontent.com/u/72562470?s=72&v=4" width="24" alt="Avatar of BeamlakAschalew"> BeamlakAschalew
@@ -1925,7 +1951,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/gashawgedef">
 				<img src="https://avatars.githubusercontent.com/u/34706687?s=72&u=5c0185dd74518cc534586adb846db43019d05a5a&v=4" width="24" alt="Avatar of gashawgedef"> gashawgedef
@@ -1938,7 +1964,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>144</td>
 		<td>
 			<a href="https://github.com/Bereket18">
 				<img src="https://avatars.githubusercontent.com/u/101464558?s=72&v=4" width="24" alt="Avatar of Bereket18"> Bereket18
@@ -1951,7 +1977,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/MelakuDemeke">
 				<img src="https://avatars.githubusercontent.com/u/38818398?s=72&u=8772e4f2c70faddffe87931a176678401f28a3ad&v=4" width="24" alt="Avatar of MelakuDemeke"> MelakuDemeke
@@ -1964,7 +1990,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>144</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/abdu4188">
 				<img src="https://avatars.githubusercontent.com/u/39178255?s=72&u=4b45ebf0ce516de01c1a734c681804563abd93f2&v=4" width="24" alt="Avatar of abdu4188"> abdu4188
@@ -1977,7 +2003,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>147</td>
+		<td>
+			<a href="https://github.com/abel-tefera">
+				<img src="https://avatars.githubusercontent.com/u/40035531?s=72&u=227f89badb75e56904be771503b42349e1247493&v=4" width="24" alt="Avatar of abel-tefera"> abel-tefera
+			</a><br/>
+			Abel Belay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/Miliyonayalew">
 				<img src="https://avatars.githubusercontent.com/u/35680940?s=72&u=6772cd170eba87d8038c28155edfafe11ef22637&v=4" width="24" alt="Avatar of Miliyonayalew"> Miliyonayalew
@@ -1990,7 +2029,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/Yordinia">
 				<img src="https://avatars.githubusercontent.com/u/75666332?s=72&u=a5f8d5ca92370764e2512eee174839b1cb9eb796&v=4" width="24" alt="Avatar of Yordinia"> Yordinia
@@ -2003,33 +2042,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/MohammedIbrahim8887">
-				<img src="https://avatars.githubusercontent.com/u/95257247?s=72&u=c40456e01a88d2417bcdeb0dbd3e4270e02e9964&v=4" width="24" alt="Avatar of MohammedIbrahim8887"> MohammedIbrahim8887
-			</a><br/>
-			Mohammed Ibrahim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/fireayehu">
-				<img src="https://avatars.githubusercontent.com/u/35679017?s=72&u=9a854dedaa05c77f4ce8baaec232623a49abd608&v=4" width="24" alt="Avatar of fireayehu"> fireayehu
-			</a><br/>
-			Fireayehu Zekarias
-		</td>
-		<td>Aait </td>
-		<td><a href="https://twitter.com/fireayehu">fireayehu</a></td>
-		<td>Ethiopia</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>149</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/mikiasyonas">
 				<img src="https://avatars.githubusercontent.com/u/39672085?s=72&u=a85cd1874c1b4bbf015787392369d4b21e536354&v=4" width="24" alt="Avatar of mikiasyonas"> mikiasyonas
@@ -2042,7 +2055,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/melkamu372">
 				<img src="https://avatars.githubusercontent.com/u/47281626?s=72&u=2b8666b66a6e38b14b0ac72117e689af8e05cf09&v=4" width="24" alt="Avatar of melkamu372"> melkamu372
@@ -2055,7 +2068,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/Mre55">
 				<img src="https://avatars.githubusercontent.com/u/34578631?s=72&u=36e63d090be5f957c6cb23100a5ab74861d610dc&v=4" width="24" alt="Avatar of Mre55"> Mre55
@@ -2068,7 +2081,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/ephremdeme">
 				<img src="https://avatars.githubusercontent.com/u/38384199?s=72&u=067e36be9e672c38c9cf4c1dfe7387b61210e294&v=4" width="24" alt="Avatar of ephremdeme"> ephremdeme
@@ -2078,19 +2091,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Box Exchanger </td>
 		<td><a href="https://twitter.com/demelash_ephrem">demelash_ephrem</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>153</td>
-		<td>
-			<a href="https://github.com/abel-tefera">
-				<img src="https://avatars.githubusercontent.com/u/40035531?s=72&u=227f89badb75e56904be771503b42349e1247493&v=4" width="24" alt="Avatar of abel-tefera"> abel-tefera
-			</a><br/>
-			Abel Belay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -2239,19 +2239,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>165</td>
 		<td>
-			<a href="https://github.com/Haylemicheal">
-				<img src="https://avatars.githubusercontent.com/u/38722653?s=72&u=771d24655bef4c4a49b5a3c3d0e829b22dd1c567&v=4" width="24" alt="Avatar of Haylemicheal"> Haylemicheal
-			</a><br/>
-			Haylemicheal Berihun Mekonnen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
 			<a href="https://github.com/Wes-Isaac">
 				<img src="https://avatars.githubusercontent.com/u/59416136?s=72&u=e154d13af86bb3a4b9b969e81360ccd1854020ec&v=4" width="24" alt="Avatar of Wes-Isaac"> Wes-Isaac
 			</a><br/>
@@ -2260,6 +2247,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Microverse Student </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia/Remote</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
+			<a href="https://github.com/Haylemicheal">
+				<img src="https://avatars.githubusercontent.com/u/38722653?s=72&u=771d24655bef4c4a49b5a3c3d0e829b22dd1c567&v=4" width="24" alt="Avatar of Haylemicheal"> Haylemicheal
+			</a><br/>
+			Haylemicheal Berihun Mekonnen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -2421,19 +2421,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>179</td>
 		<td>
-			<a href="https://github.com/Abe1able">
-				<img src="https://avatars.githubusercontent.com/u/87712877?s=72&u=6cc21f5526fc9916d8acb8e66f098fa8be28f47a&v=4" width="24" alt="Avatar of Abe1able"> Abe1able
-			</a><br/>
-			Abel Seifu
-		</td>
-		<td>Full Stack Developer </td>
-		<td><a href="https://twitter.com/abelseifu15">abelseifu15</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
 			<a href="https://github.com/Bemhreth">
 				<img src="https://avatars.githubusercontent.com/u/44050394?s=72&u=e1b4777899b4cf7934c9407367c90201a32282c8&v=4" width="24" alt="Avatar of Bemhreth"> Bemhreth
 			</a><br/>
@@ -2445,7 +2432,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/HenokB">
 				<img src="https://avatars.githubusercontent.com/u/46082799?s=72&u=eeb802d07751564f35d90921332079d7c19a3425&v=4" width="24" alt="Avatar of HenokB"> HenokB
@@ -2458,7 +2445,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/Fisseha-Estifanos">
 				<img src="https://avatars.githubusercontent.com/u/74893977?s=72&u=bf21a8cd3a47af356c960dacacce4441a696e369&v=4" width="24" alt="Avatar of Fisseha-Estifanos"> Fisseha-Estifanos
@@ -2471,7 +2458,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/naanmohammed">
 				<img src="https://avatars.githubusercontent.com/u/124832435?s=72&u=d0a6e87b23f5f724d6d5d090e56b55681338183a&v=4" width="24" alt="Avatar of naanmohammed"> naanmohammed
@@ -2484,7 +2471,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/NatanimA">
 				<img src="https://avatars.githubusercontent.com/u/66979348?s=72&u=0cb337c78369a0e097907d909ae8620109fd2076&v=4" width="24" alt="Avatar of NatanimA"> NatanimA
@@ -2497,7 +2484,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/bruk19">
 				<img src="https://avatars.githubusercontent.com/u/80829230?s=72&u=1c317a939f61ffec921e76b6ee0e08fb8c39cdb7&v=4" width="24" alt="Avatar of bruk19"> bruk19
@@ -2506,6 +2493,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		</td>
 		<td>Full-stuck Developer </td>
 		<td><a href="https://twitter.com/Bruktesh">Bruktesh</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
+			<a href="https://github.com/Abe1able">
+				<img src="https://avatars.githubusercontent.com/u/87712877?s=72&u=6cc21f5526fc9916d8acb8e66f098fa8be28f47a&v=4" width="24" alt="Avatar of Abe1able"> Abe1able
+			</a><br/>
+			Abel Seifu
+		</td>
+		<td>Full Stack Developer </td>
+		<td><a href="https://twitter.com/abelseifu15">abelseifu15</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>30</td>
 	</tr>
@@ -2525,19 +2525,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>187</td>
 		<td>
-			<a href="https://github.com/Paul-tes">
-				<img src="https://avatars.githubusercontent.com/u/86291500?s=72&u=d92315314a7378c8ebc499f36faaab9f2c5ce62c&v=4" width="24" alt="Avatar of Paul-tes"> Paul-tes
-			</a><br/>
-			Paul Tesfaye
-		</td>
-		<td>Student At Microverse </td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia / Addis Ababa</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
 			<a href="https://github.com/Eyosias5">
 				<img src="https://avatars.githubusercontent.com/u/31965944?s=72&u=cf40aaf5d82ac6e9cd6a6ff9f1a4e8c79e1c5db6&v=4" width="24" alt="Avatar of Eyosias5"> Eyosias5
 			</a><br/>
@@ -2549,7 +2536,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/amanuelbelete95">
 				<img src="https://avatars.githubusercontent.com/u/99336469?s=72&u=dc83814f89d0e3b4be6803ce758e6eed00c433fb&v=4" width="24" alt="Avatar of amanuelbelete95"> amanuelbelete95
@@ -2562,7 +2549,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/MannyIOI">
 				<img src="https://avatars.githubusercontent.com/u/39325482?s=72&u=1bda5e71193dbda6a668e252a6734fcf1eb1824d&v=4" width="24" alt="Avatar of MannyIOI"> MannyIOI
@@ -2575,7 +2562,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/alaxar">
 				<img src="https://avatars.githubusercontent.com/u/20353178?s=72&u=a9387d5d986460c06da1e6f7f95e87f269ebfbb7&v=4" width="24" alt="Avatar of alaxar"> alaxar
@@ -2588,7 +2575,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/bini-i">
 				<img src="https://avatars.githubusercontent.com/u/61377322?s=72&u=03a91daf4dd2bb7c4614af6c04c6fff36fde0721&v=4" width="24" alt="Avatar of bini-i"> bini-i
@@ -2601,7 +2588,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/cypghost">
 				<img src="https://avatars.githubusercontent.com/u/102286732?s=72&u=c5d3b7f0a723e48d10ad94cfc4ff67171ebbaa7e&v=4" width="24" alt="Avatar of cypghost"> cypghost
@@ -2614,7 +2601,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Temesgenzewude">
 				<img src="https://avatars.githubusercontent.com/u/90067770?s=72&u=4e674386fd243240706c33a35164a0c1a97723f2&v=4" width="24" alt="Avatar of Temesgenzewude"> Temesgenzewude
@@ -2627,7 +2614,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/mrnpro">
 				<img src="https://avatars.githubusercontent.com/u/88460514?s=72&u=ed25aab30ba19f96c0afdd297f963499d0eeb30f&v=4" width="24" alt="Avatar of mrnpro"> mrnpro
@@ -2637,6 +2624,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Sics It Outsourcing </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia , Addis Ababa</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/Paul-tes">
+				<img src="https://avatars.githubusercontent.com/u/86291500?s=72&u=d92315314a7378c8ebc499f36faaab9f2c5ce62c&v=4" width="24" alt="Avatar of Paul-tes"> Paul-tes
+			</a><br/>
+			Paul Tesfaye
+		</td>
+		<td>Student At Microverse </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia / Addis Ababa</td>
 		<td>29</td>
 	</tr>
 	<tr>
@@ -2681,19 +2681,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>199</td>
 		<td>
-			<a href="https://github.com/fuadmoin">
-				<img src="https://avatars.githubusercontent.com/u/79799844?s=72&u=a1dfa026d0ac6acd4063d2da4eed55f01065b828&v=4" width="24" alt="Avatar of fuadmoin"> fuadmoin
-			</a><br/>
-			Fuad Abdlemoin
-		</td>
-		<td>Full-stack Developer </td>
-		<td><a href="https://twitter.com/Fuad01804580">Fuad01804580</a></td>
-		<td>Ethiopia</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
 			<a href="https://github.com/dododoyo">
 				<img src="https://avatars.githubusercontent.com/u/94123357?s=72&u=b08c682b5ba9a5aa4e04fff137c7fda7525d428e&v=4" width="24" alt="Avatar of dododoyo"> dododoyo
 			</a><br/>
@@ -2705,7 +2692,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/habasm">
 				<img src="https://avatars.githubusercontent.com/u/111062079?s=72&u=091b30fb1cc136dcfd63bc7f04e7bc3dfc25dd0c&v=4" width="24" alt="Avatar of habasm"> habasm
@@ -2714,6 +2701,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		</td>
 		<td>Self App Developer </td>
 		<td><a href="https://twitter.com/AsimareHabitamu">AsimareHabitamu</a></td>
+		<td>Ethiopia</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
+			<a href="https://github.com/addisalemseifu">
+				<img src="https://avatars.githubusercontent.com/u/65928536?s=72&u=ce3bdae8813ba96405bf03a7d20ecfa8805ff725&v=4" width="24" alt="Avatar of addisalemseifu"> addisalemseifu
+			</a><br/>
+			Addisalem Seifu Beidework
+		</td>
+		<td>@microverse </td>
+		<td><a href="https://twitter.com/beidework">beidework</a></td>
 		<td>Ethiopia</td>
 		<td>28</td>
 	</tr>
@@ -2811,6 +2811,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>209</td>
 		<td>
+			<a href="https://github.com/fuadmoin">
+				<img src="https://avatars.githubusercontent.com/u/79799844?s=72&u=a1dfa026d0ac6acd4063d2da4eed55f01065b828&v=4" width="24" alt="Avatar of fuadmoin"> fuadmoin
+			</a><br/>
+			Fuad Abdlemoin
+		</td>
+		<td>Full-stack Developer </td>
+		<td><a href="https://twitter.com/Fuad01804580">Fuad01804580</a></td>
+		<td>Ethiopia</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
 			<a href="https://github.com/bengeos">
 				<img src="https://avatars.githubusercontent.com/u/7533157?s=72&v=4" width="24" alt="Avatar of bengeos"> bengeos
 			</a><br/>
@@ -2822,7 +2835,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/sami-bre">
 				<img src="https://avatars.githubusercontent.com/u/95348536?s=72&u=1d14df9e3de7f0b8e93f3a35b0d1c332220c3281&v=4" width="24" alt="Avatar of sami-bre"> sami-bre
@@ -2835,7 +2848,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/Agetuni">
 				<img src="https://avatars.githubusercontent.com/u/45159038?s=72&u=b8f2ff779e1ca5845826546dcb83de51db6622c6&v=4" width="24" alt="Avatar of Agetuni"> Agetuni
@@ -2848,7 +2861,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/Surafeljava">
 				<img src="https://avatars.githubusercontent.com/u/34341576?s=72&u=99a8c046a04fe1f29ea985ebd7fd4f083200b691&v=4" width="24" alt="Avatar of Surafeljava"> Surafeljava
@@ -2861,7 +2874,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/Jeremy-Tesh">
 				<img src="https://avatars.githubusercontent.com/u/59338167?s=72&u=12639f4d02266999753328588b8e0679e0d29163&v=4" width="24" alt="Avatar of Jeremy-Tesh"> Jeremy-Tesh
@@ -2874,7 +2887,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/antipas23">
 				<img src="https://avatars.githubusercontent.com/u/81953340?s=72&u=3d5f6b69749daa3867eec442ece9ec920f30ae39&v=4" width="24" alt="Avatar of antipas23"> antipas23
@@ -2887,7 +2900,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/natnaelabay">
 				<img src="https://avatars.githubusercontent.com/u/51373949?s=72&u=1f772f503f1374276f1f2e3869013122be5632b5&v=4" width="24" alt="Avatar of natnaelabay"> natnaelabay
@@ -2900,7 +2913,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/Dawit-1621">
 				<img src="https://avatars.githubusercontent.com/u/23136710?s=72&u=aec6e93ca82f4c86dbb8542f55954e4a58620591&v=4" width="24" alt="Avatar of Dawit-1621"> Dawit-1621
@@ -2913,7 +2926,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/epythonlab">
 				<img src="https://avatars.githubusercontent.com/u/27281458?s=72&u=a89c8fa5c09ba4ad414e83f65fccd5a0abd6113e&v=4" width="24" alt="Avatar of epythonlab"> epythonlab
@@ -2926,7 +2939,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/ezoltech">
 				<img src="https://avatars.githubusercontent.com/u/97867117?s=72&u=fa76ab4417bb2a8341527659399563ed70c6244a&v=4" width="24" alt="Avatar of ezoltech"> ezoltech
@@ -2939,7 +2952,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/DebbyMiressa">
 				<img src="https://avatars.githubusercontent.com/u/101793279?s=72&u=20c9232b86f01cc9b59c9140a1a7bdd2217c78f1&v=4" width="24" alt="Avatar of DebbyMiressa"> DebbyMiressa
@@ -2952,7 +2965,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/robelkebede">
 				<img src="https://avatars.githubusercontent.com/u/16935562?s=72&u=b9691243eba8e98cc9d1e6f61d1e69bc80e39de9&v=4" width="24" alt="Avatar of robelkebede"> robelkebede
@@ -2965,7 +2978,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/bekalue">
 				<img src="https://avatars.githubusercontent.com/u/79188583?s=72&u=1625b7efc70fb62dd77de81f608ed3df29ed81ac&v=4" width="24" alt="Avatar of bekalue"> bekalue
@@ -2978,7 +2991,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/purewebstar">
 				<img src="https://avatars.githubusercontent.com/u/71876193?s=72&u=ba498867c9431d3adaff27c9345aa0beb9ddc4a4&v=4" width="24" alt="Avatar of purewebstar"> purewebstar
@@ -2991,7 +3004,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/tinsaye-simeneh">
 				<img src="https://avatars.githubusercontent.com/u/64516393?s=72&u=cbb2aa8707873c08385bbade3220bb416e531891&v=4" width="24" alt="Avatar of tinsaye-simeneh"> tinsaye-simeneh
@@ -3004,7 +3017,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/Abenezer-Fekadu">
 				<img src="https://avatars.githubusercontent.com/u/50666961?s=72&u=cd7116b90da0f61e86e7d0fd55bc978eab7289f7&v=4" width="24" alt="Avatar of Abenezer-Fekadu"> Abenezer-Fekadu
@@ -3017,7 +3030,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/isume295">
 				<img src="https://avatars.githubusercontent.com/u/118125951?s=72&u=b1d4ca62fdff49adc36f354608525b96f493705e&v=4" width="24" alt="Avatar of isume295"> isume295
@@ -3030,7 +3043,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/AmanuelD02">
 				<img src="https://avatars.githubusercontent.com/u/56916876?s=72&u=d8a9257cc2158e702e4a0e7ecdad24c25a3ceb00&v=4" width="24" alt="Avatar of AmanuelD02"> AmanuelD02
@@ -3043,7 +3056,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/milen-ale">
 				<img src="https://avatars.githubusercontent.com/u/96333200?s=72&u=e8eae2daa5cc76d3821c73c3aff3f134e65921c3&v=4" width="24" alt="Avatar of milen-ale"> milen-ale
@@ -3056,7 +3069,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/Anteneh2121">
 				<img src="https://avatars.githubusercontent.com/u/88293613?s=72&u=5d1d832fa452e61938f0fcef94853e921ecc4fd7&v=4" width="24" alt="Avatar of Anteneh2121"> Anteneh2121
@@ -3069,7 +3082,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/HM-8">
 				<img src="https://avatars.githubusercontent.com/u/53398144?s=72&u=6be64843d687ceedf25063f75279482e092cd7cb&v=4" width="24" alt="Avatar of HM-8"> HM-8
@@ -3082,7 +3095,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/DejazmachMolla">
 				<img src="https://avatars.githubusercontent.com/u/52776671?s=72&u=399dc262dc500f212645765f1746b0918465caad&v=4" width="24" alt="Avatar of DejazmachMolla"> DejazmachMolla
@@ -3095,7 +3108,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/mikigode">
 				<img src="https://avatars.githubusercontent.com/u/82653151?s=72&u=566df87d39be1e30ecf71a291dd2c84c3e543757&v=4" width="24" alt="Avatar of mikigode"> mikigode
@@ -3105,19 +3118,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Ozone Technology  </td>
 		<td>No Twitter Username</td>
 		<td>adama , Ethiopia</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/proyirga">
-				<img src="https://avatars.githubusercontent.com/u/104643398?s=72&u=968c2f2ee8bf774ff416c121ecdfd577b4e03df4&v=4" width="24" alt="Avatar of proyirga"> proyirga
-			</a><br/>
-			Yirga Mulaw
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yirgamulaw">yirgamulaw</a></td>
-		<td>Addis Ababa, Ethiopia</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -3253,19 +3253,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>243</td>
 		<td>
-			<a href="https://github.com/addisalemseifu">
-				<img src="https://avatars.githubusercontent.com/u/65928536?s=72&u=ce3bdae8813ba96405bf03a7d20ecfa8805ff725&v=4" width="24" alt="Avatar of addisalemseifu"> addisalemseifu
-			</a><br/>
-			Addisalem Seifu Beidework
-		</td>
-		<td>@microverse </td>
-		<td><a href="https://twitter.com/beidework">beidework</a></td>
-		<td>Ethiopia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>244</td>
-		<td>
 			<a href="https://github.com/Ebsaa">
 				<img src="https://avatars.githubusercontent.com/u/109864961?s=72&u=bf99a7d3389b9bdf5d9ebeebc149347e87d3eefe&v=4" width="24" alt="Avatar of Ebsaa"> Ebsaa
 			</a><br/>
@@ -3277,7 +3264,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/eyob-kefale">
 				<img src="https://avatars.githubusercontent.com/u/97896057?s=72&u=05db490b8f54210d86e30a749ff2290b9dc840b6&v=4" width="24" alt="Avatar of eyob-kefale"> eyob-kefale
@@ -3290,20 +3277,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/BisratGirma">
-				<img src="https://avatars.githubusercontent.com/u/30285329?s=72&u=285b8411ea0a7fbff279dedb04f2a94ef66286b0&v=4" width="24" alt="Avatar of BisratGirma"> BisratGirma
-			</a><br/>
-			Bisrat Girma
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bisrat_girma_">bisrat_girma_</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>247</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/eliastaye6">
 				<img src="https://avatars.githubusercontent.com/u/91010287?s=72&u=7cd4256f291e2f04d6f9e17e837c839c95d3380f&v=4" width="24" alt="Avatar of eliastaye6"> eliastaye6
@@ -3316,7 +3290,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/abdiu34567">
 				<img src="https://avatars.githubusercontent.com/u/71874927?s=72&u=c7b27a7fc92a300f124037c6d655092242486a16&v=4" width="24" alt="Avatar of abdiu34567"> abdiu34567
@@ -3329,7 +3303,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/binitech">
 				<img src="https://avatars.githubusercontent.com/u/42878173?s=72&u=e98b7d2dd8238c6650cd810e0afff1817c55f509&v=4" width="24" alt="Avatar of binitech"> binitech
@@ -3342,7 +3316,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>248</td>
+		<td>
+			<a href="https://github.com/proyirga">
+				<img src="https://avatars.githubusercontent.com/u/104643398?s=72&u=968c2f2ee8bf774ff416c121ecdfd577b4e03df4&v=4" width="24" alt="Avatar of proyirga"> proyirga
+			</a><br/>
+			Yirga Mulaw
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yirgamulaw">yirgamulaw</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/ibsaaqa11">
 				<img src="https://avatars.githubusercontent.com/u/85068106?s=72&v=4" width="24" alt="Avatar of ibsaaqa11"> ibsaaqa11
@@ -3355,7 +3342,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/zolamk">
 				<img src="https://avatars.githubusercontent.com/u/14203663?s=72&u=0ebcd679d797ab0476a582430a747546f7fe2180&v=4" width="24" alt="Avatar of zolamk"> zolamk
@@ -3368,7 +3355,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/michaelbelete">
 				<img src="https://avatars.githubusercontent.com/u/50682242?s=72&u=142fb93eba309f406b45ec7da47882c0aba70f29&v=4" width="24" alt="Avatar of michaelbelete"> michaelbelete
@@ -3381,7 +3368,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/leulyk">
 				<img src="https://avatars.githubusercontent.com/u/24749509?s=72&u=0e97d554cbe5f4dca288401045ad77e0bd2eabdc&v=4" width="24" alt="Avatar of leulyk"> leulyk
@@ -3394,7 +3381,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/Nahom-Derese">
 				<img src="https://avatars.githubusercontent.com/u/65091771?s=72&v=4" width="24" alt="Avatar of Nahom-Derese"> Nahom-Derese
@@ -3407,7 +3394,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/brukted">
 				<img src="https://avatars.githubusercontent.com/u/40060643?s=72&v=4" width="24" alt="Avatar of brukted"> brukted
@@ -3420,7 +3407,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/Abentesfaye">
 				<img src="https://avatars.githubusercontent.com/u/105986912?s=72&u=31cb411226b59b46d4bd0392259d1d1a041fde7d&v=4" width="24" alt="Avatar of Abentesfaye"> Abentesfaye
@@ -3433,7 +3420,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/mulugithub">
 				<img src="https://avatars.githubusercontent.com/u/61753075?s=72&u=9ae7a9cb2f6ce2f9dbe745388169c6b4eea1ae49&v=4" width="24" alt="Avatar of mulugithub"> mulugithub
@@ -3442,6 +3429,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/muluken211221">muluken211221</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
+			<a href="https://github.com/BisratGirma">
+				<img src="https://avatars.githubusercontent.com/u/30285329?s=72&u=285b8411ea0a7fbff279dedb04f2a94ef66286b0&v=4" width="24" alt="Avatar of BisratGirma"> BisratGirma
+			</a><br/>
+			Bisrat Girma
+		</td>
+		<td>Eaglelion System Technology </td>
+		<td><a href="https://twitter.com/bisrat_girma_">bisrat_girma_</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>24</td>
 	</tr>
@@ -3747,6 +3747,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>281</td>
 		<td>
+			<a href="https://github.com/dagim-shimelis">
+				<img src="https://avatars.githubusercontent.com/u/79264107?s=72&u=6840e7b933d8a2782867d00d35a00d4e3eb908fc&v=4" width="24" alt="Avatar of dagim-shimelis"> dagim-shimelis
+			</a><br/>
+			Dagim Shimelis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia , Addis Ababa</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>282</td>
+		<td>
 			<a href="https://github.com/Tadessejemal1">
 				<img src="https://avatars.githubusercontent.com/u/85793292?s=72&u=648293f00069983f590cdd9cf09ec1c57a3e5452&v=4" width="24" alt="Avatar of Tadessejemal1"> Tadessejemal1
 			</a><br/>
@@ -3758,7 +3771,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/abdulhamidOumer">
 				<img src="https://avatars.githubusercontent.com/u/39024901?s=72&u=9b93faa93f53a7e627f1455d285d91082b6c7e74&v=4" width="24" alt="Avatar of abdulhamidOumer"> abdulhamidOumer
@@ -3771,7 +3784,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/Aseadd">
 				<img src="https://avatars.githubusercontent.com/u/48018471?s=72&u=0623e3f772e256739852b76c54d6aa544a663a6f&v=4" width="24" alt="Avatar of Aseadd"> Aseadd
@@ -3784,7 +3797,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/Abel-desu">
 				<img src="https://avatars.githubusercontent.com/u/95746961?s=72&u=6e273850503f40dbe3aa1230db1de11f485db28b&v=4" width="24" alt="Avatar of Abel-desu"> Abel-desu
@@ -3794,19 +3807,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Full-stack Developer </td>
 		<td><a href="https://twitter.com/abeldesalegn97">abeldesalegn97</a></td>
 		<td>Ethiopia, Addis Ababa</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>285</td>
-		<td>
-			<a href="https://github.com/aleale2121">
-				<img src="https://avatars.githubusercontent.com/u/49949268?s=72&u=13a34ccbcb8dbad57ed77849ca0f5d7ce9860cbf&v=4" width="24" alt="Avatar of aleale2121"> aleale2121
-			</a><br/>
-			Alefew
-		</td>
-		<td>Equb </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -3851,19 +3851,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>289</td>
 		<td>
-			<a href="https://github.com/dagim-shimelis">
-				<img src="https://avatars.githubusercontent.com/u/79264107?s=72&u=6840e7b933d8a2782867d00d35a00d4e3eb908fc&v=4" width="24" alt="Avatar of dagim-shimelis"> dagim-shimelis
-			</a><br/>
-			Dagim Shimelis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia , Addis Ababa</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
 			<a href="https://github.com/b3rew">
 				<img src="https://avatars.githubusercontent.com/u/4989793?s=72&u=66c81d954e8b54459bbb67d8107ad2011a18f136&v=4" width="24" alt="Avatar of b3rew"> b3rew
 			</a><br/>
@@ -3875,7 +3862,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/nuradinsultan">
 				<img src="https://avatars.githubusercontent.com/u/37750486?s=72&v=4" width="24" alt="Avatar of nuradinsultan"> nuradinsultan
@@ -3888,7 +3875,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/girma336">
 				<img src="https://avatars.githubusercontent.com/u/76439737?s=72&u=84eb4e9703d457d09dc8fd75d07227c1ea7d44bc&v=4" width="24" alt="Avatar of girma336"> girma336
@@ -3901,7 +3888,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/muhammedb8826">
 				<img src="https://avatars.githubusercontent.com/u/115731485?s=72&u=e15294854cd335ea1ac4a88ce3e471faa326c45d&v=4" width="24" alt="Avatar of muhammedb8826"> muhammedb8826
@@ -3914,7 +3901,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/kidmun">
 				<img src="https://avatars.githubusercontent.com/u/99493375?s=72&v=4" width="24" alt="Avatar of kidmun"> kidmun
@@ -3927,7 +3914,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/Gedewon">
 				<img src="https://avatars.githubusercontent.com/u/56429354?s=72&u=b9acae1701a367dac9b502ca0b529eb97be3d712&v=4" width="24" alt="Avatar of Gedewon"> Gedewon
@@ -3940,7 +3927,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/FevenSeyfu">
 				<img src="https://avatars.githubusercontent.com/u/91325016?s=72&u=fc4a008a401ec25536c59668c3ab197f55e3bddd&v=4" width="24" alt="Avatar of FevenSeyfu"> FevenSeyfu
@@ -3953,7 +3940,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/ragangithub">
 				<img src="https://avatars.githubusercontent.com/u/109742772?s=72&u=c28927f47ffaa274521af037b3c58d0b82948c2d&v=4" width="24" alt="Avatar of ragangithub"> ragangithub
@@ -3966,7 +3953,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/Aben-Bel">
 				<img src="https://avatars.githubusercontent.com/u/44743368?s=72&v=4" width="24" alt="Avatar of Aben-Bel"> Aben-Bel
@@ -3979,7 +3966,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/derejehinsermu">
 				<img src="https://avatars.githubusercontent.com/u/45657872?s=72&u=5ec59057b8ba98aefde826fd3d8c3b4128e44fac&v=4" width="24" alt="Avatar of derejehinsermu"> derejehinsermu
@@ -3992,7 +3979,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/kaleabMelkamu">
 				<img src="https://avatars.githubusercontent.com/u/45170349?s=72&v=4" width="24" alt="Avatar of kaleabMelkamu"> kaleabMelkamu
@@ -4005,7 +3992,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/kabtamu-degifie">
 				<img src="https://avatars.githubusercontent.com/u/70583153?s=72&u=9f9a8d65cf49c606f74bb0e1f763228cc4ea7452&v=4" width="24" alt="Avatar of kabtamu-degifie"> kabtamu-degifie
@@ -4015,6 +4002,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Wolkite University </td>
 		<td>No Twitter Username</td>
 		<td>Wolkite, Ethiopia</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>301</td>
+		<td>
+			<a href="https://github.com/aleale2121">
+				<img src="https://avatars.githubusercontent.com/u/49949268?s=72&u=13a34ccbcb8dbad57ed77849ca0f5d7ce9860cbf&v=4" width="24" alt="Avatar of aleale2121"> aleale2121
+			</a><br/>
+			Alefew
+		</td>
+		<td>Equb </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -4306,19 +4306,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>324</td>
 		<td>
-			<a href="https://github.com/Yared29">
-				<img src="https://avatars.githubusercontent.com/u/55293585?s=72&v=4" width="24" alt="Avatar of Yared29"> Yared29
-			</a><br/>
-			Yared Tekile
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Yar3d__">Yar3d__</a></td>
-		<td>Ethiopia</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
 			<a href="https://github.com/eyoab01">
 				<img src="https://avatars.githubusercontent.com/u/108117092?s=72&u=717dfb44cf91b684302f5e714707ad697c48a06b&v=4" width="24" alt="Avatar of eyoab01"> eyoab01
 			</a><br/>
@@ -4330,7 +4317,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/nardoshood">
 				<img src="https://avatars.githubusercontent.com/u/47063922?s=72&u=84337fae9706794b76606cd88ff1506feffa4588&v=4" width="24" alt="Avatar of nardoshood"> nardoshood
@@ -4343,7 +4330,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/der-bew">
 				<img src="https://avatars.githubusercontent.com/u/58506091?s=72&u=eb713561550479bf0144d0811c821ddd5d49cf24&v=4" width="24" alt="Avatar of der-bew"> der-bew
@@ -4356,7 +4343,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/AntenehAdmasu">
 				<img src="https://avatars.githubusercontent.com/u/39303685?s=72&u=24c674da141b5548269328ba3c8e922860b7dc9b&v=4" width="24" alt="Avatar of AntenehAdmasu"> AntenehAdmasu
@@ -4369,7 +4356,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/Yagth">
 				<img src="https://avatars.githubusercontent.com/u/92119273?s=72&u=8b6129fcacdb57004206a6dd12b72226cde0135e&v=4" width="24" alt="Avatar of Yagth"> Yagth
@@ -4382,7 +4369,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/Aklilu-Mandefro">
 				<img src="https://avatars.githubusercontent.com/u/65851700?s=72&u=a4800326f375d841b5fffd482ee7c9b9c33e7978&v=4" width="24" alt="Avatar of Aklilu-Mandefro"> Aklilu-Mandefro
@@ -4395,7 +4382,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/solomon-spec">
 				<img src="https://avatars.githubusercontent.com/u/70583058?s=72&u=544e323c50ed08830900abbed247058b78bed6ab&v=4" width="24" alt="Avatar of solomon-spec"> solomon-spec
@@ -4408,7 +4395,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/beteland123">
 				<img src="https://avatars.githubusercontent.com/u/91183694?s=72&u=73830a71f513a943111ca379f599cc0076fe11f6&v=4" width="24" alt="Avatar of beteland123"> beteland123
@@ -4421,7 +4408,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/Rio3210">
 				<img src="https://avatars.githubusercontent.com/u/101450610?s=72&u=0e9716f33eec0dc6e357ff1858facff3c036cf8f&v=4" width="24" alt="Avatar of Rio3210"> Rio3210
@@ -4430,6 +4417,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Rio3210_">Rio3210_</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/MastewalB">
+				<img src="https://avatars.githubusercontent.com/u/52622856?s=72&u=8d58a23e278baed5e0e15b988713796a1f679cd7&v=4" width="24" alt="Avatar of MastewalB"> MastewalB
+			</a><br/>
+			Mastewal Belete
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>19</td>
 	</tr>
@@ -4475,19 +4475,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>337</td>
 		<td>
-			<a href="https://github.com/melos-simeneh">
-				<img src="https://avatars.githubusercontent.com/u/85923940?s=72&u=05168907fbd1ef93320508117405035bbc0274e1&v=4" width="24" alt="Avatar of melos-simeneh"> melos-simeneh
-			</a><br/>
-			Melos Simeneh Mulu
-		</td>
-		<td>Abay Bank S.c </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>338</td>
-		<td>
 			<a href="https://github.com/HuluWZ">
 				<img src="https://avatars.githubusercontent.com/u/59336998?s=72&u=d9c210afc14e7190f4cc1521d40668a221e7056c&v=4" width="24" alt="Avatar of HuluWZ"> HuluWZ
 			</a><br/>
@@ -4499,7 +4486,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/hanhabesha">
 				<img src="https://avatars.githubusercontent.com/u/8080962?s=72&u=40e4d58201b10395127cde7fc27d6e09a56e2d89&v=4" width="24" alt="Avatar of hanhabesha"> hanhabesha
@@ -4509,6 +4496,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Heyflutter </td>
 		<td><a href="https://twitter.com/Yetesfa7">Yetesfa7</a></td>
 		<td>Addis Ababa,Ethiopia</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>339</td>
+		<td>
+			<a href="https://github.com/Yared29">
+				<img src="https://avatars.githubusercontent.com/u/55293585?s=72&v=4" width="24" alt="Avatar of Yared29"> Yared29
+			</a><br/>
+			Yared Tekile
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Yar3d__">Yar3d__</a></td>
+		<td>Ethiopia</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -4943,19 +4943,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>373</td>
 		<td>
-			<a href="https://github.com/Mikesew1320">
-				<img src="https://avatars.githubusercontent.com/u/43565227?s=72&u=48d20d71feb12593fa67b9b1a0de476ce7b876e9&v=4" width="24" alt="Avatar of Mikesew1320"> Mikesew1320
-			</a><br/>
-			Mikesew1320
-		</td>
-		<td>Etmik Devs </td>
-		<td><a href="https://twitter.com/Mikesew1320">Mikesew1320</a></td>
-		<td>Jimma, Ethiopia</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
 			<a href="https://github.com/Danoxi4">
 				<img src="https://avatars.githubusercontent.com/u/104902666?s=72&u=aab17cd091629aff55b1523a71ad07ade3a14d7a&v=4" width="24" alt="Avatar of Danoxi4"> Danoxi4
 			</a><br/>
@@ -4967,7 +4954,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/jafuti">
 				<img src="https://avatars.githubusercontent.com/u/16055348?s=72&u=c2f2597fafd7a3af8b315cbb8223074c07ee2dda&v=4" width="24" alt="Avatar of jafuti"> jafuti
@@ -4980,7 +4967,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/Jon21paulos">
 				<img src="https://avatars.githubusercontent.com/u/83462298?s=72&u=72d573cdfcc63147306297a5080060e2860fcdc8&v=4" width="24" alt="Avatar of Jon21paulos"> Jon21paulos
@@ -4993,20 +4980,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>377</td>
-		<td>
-			<a href="https://github.com/Ibranista">
-				<img src="https://avatars.githubusercontent.com/u/68871293?s=72&v=4" width="24" alt="Avatar of Ibranista"> Ibranista
-			</a><br/>
-			Ibranista
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ibranista">ibranista</a></td>
-		<td>Addis Ababa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>378</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/EbenGitHub">
 				<img src="https://avatars.githubusercontent.com/u/77492217?s=72&u=75e8651adc7997441e18ad76fc7bca1f3fe4f641&v=4" width="24" alt="Avatar of EbenGitHub"> EbenGitHub
@@ -5019,7 +4993,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/SiloGecho97">
 				<img src="https://avatars.githubusercontent.com/u/16652511?s=72&u=c1fda96ad940407862d59be2e5c60932a8cc83b4&v=4" width="24" alt="Avatar of SiloGecho97"> SiloGecho97
@@ -5032,7 +5006,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/Ney2">
 				<img src="https://avatars.githubusercontent.com/u/95876178?s=72&u=7793f35d69d3f798e8b1b23e88456a4154c57cd4&v=4" width="24" alt="Avatar of Ney2"> Ney2
@@ -5045,7 +5019,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/MannyNe">
 				<img src="https://avatars.githubusercontent.com/u/50913365?s=72&u=4aba5615d228e723a4213175d76d4398f6d35f36&v=4" width="24" alt="Avatar of MannyNe"> MannyNe
@@ -5058,7 +5032,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/yabeye">
 				<img src="https://avatars.githubusercontent.com/u/88554326?s=72&v=4" width="24" alt="Avatar of yabeye"> yabeye
@@ -5071,7 +5045,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/mesfind">
 				<img src="https://avatars.githubusercontent.com/u/22774778?s=72&u=436403d6fbbc3c2df49747354b90876e45e6e320&v=4" width="24" alt="Avatar of mesfind"> mesfind
@@ -5084,7 +5058,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/YeabTesfaye">
 				<img src="https://avatars.githubusercontent.com/u/117275171?s=72&u=0b683218580e31b37ad546b15fe619143d1cd4ca&v=4" width="24" alt="Avatar of YeabTesfaye"> YeabTesfaye
@@ -5097,7 +5071,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/henask12">
 				<img src="https://avatars.githubusercontent.com/u/37038066?s=72&u=95665f500410a07d7a583c1e428e040ad0d5986d&v=4" width="24" alt="Avatar of henask12"> henask12
@@ -5110,7 +5084,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/TesfayeAdugna">
 				<img src="https://avatars.githubusercontent.com/u/91592825?s=72&u=51fe9b7723125d673b2f8f05bd0b337323605647&v=4" width="24" alt="Avatar of TesfayeAdugna"> TesfayeAdugna
@@ -5123,7 +5097,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/DagMT">
 				<img src="https://avatars.githubusercontent.com/u/78877931?s=72&u=de11a1f46942833e3809a1ecf42541a63197beed&v=4" width="24" alt="Avatar of DagMT"> DagMT
@@ -5136,7 +5110,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/kidusmik">
 				<img src="https://avatars.githubusercontent.com/u/17083393?s=72&v=4" width="24" alt="Avatar of kidusmik"> kidusmik
@@ -5149,7 +5123,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/MikiyasMebrate">
 				<img src="https://avatars.githubusercontent.com/u/80261020?s=72&u=86d0c0d48f2e85eb4e2cdff639dca70263b49d58&v=4" width="24" alt="Avatar of MikiyasMebrate"> MikiyasMebrate
@@ -5162,7 +5136,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/berhanu-tarekegn">
 				<img src="https://avatars.githubusercontent.com/u/15627660?s=72&u=6dbbbb73f2d31b1f16e3864d052d645172b14dd2&v=4" width="24" alt="Avatar of berhanu-tarekegn"> berhanu-tarekegn
@@ -5175,7 +5149,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/amonmoce">
 				<img src="https://avatars.githubusercontent.com/u/7223550?s=72&u=ff7cf041455023f3ff6293d066aef2994514136b&v=4" width="24" alt="Avatar of amonmoce"> amonmoce
@@ -5188,7 +5162,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/GirmaMek">
 				<img src="https://avatars.githubusercontent.com/u/44244653?s=72&v=4" width="24" alt="Avatar of GirmaMek"> GirmaMek
@@ -5201,7 +5175,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/Lilkedus">
 				<img src="https://avatars.githubusercontent.com/u/71512866?s=72&u=c901f4ab4647df43d7bda0afe6106d9e288730ed&v=4" width="24" alt="Avatar of Lilkedus"> Lilkedus
@@ -5214,7 +5188,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>392</td>
+		<td>
+			<a href="https://github.com/Mikesew1320">
+				<img src="https://avatars.githubusercontent.com/u/43565227?s=72&u=48d20d71feb12593fa67b9b1a0de476ce7b876e9&v=4" width="24" alt="Avatar of Mikesew1320"> Mikesew1320
+			</a><br/>
+			Mikesew1320
+		</td>
+		<td>Etmik Devs </td>
+		<td><a href="https://twitter.com/Mikesew1320">Mikesew1320</a></td>
+		<td>Jimma, Ethiopia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/NehemiahAklil">
 				<img src="https://avatars.githubusercontent.com/u/45801078?s=72&u=0a9da6b4ea1a4d87d1f4669e0627c5674e03187e&v=4" width="24" alt="Avatar of NehemiahAklil"> NehemiahAklil
@@ -5227,7 +5214,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/TripleThreads">
 				<img src="https://avatars.githubusercontent.com/u/39271079?s=72&u=73ab73abe22b7ade12819ac5690ee8ac4747c971&v=4" width="24" alt="Avatar of TripleThreads"> TripleThreads
@@ -5240,7 +5227,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/Fetulhak">
 				<img src="https://avatars.githubusercontent.com/u/46393025?s=72&u=0d2e5a9737f00eb93867edb2bf775a4b00501270&v=4" width="24" alt="Avatar of Fetulhak"> Fetulhak
@@ -5253,7 +5240,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/Heniville">
 				<img src="https://avatars.githubusercontent.com/u/15909276?s=72&u=a34c6a3aa86bd5fa46dec14e6b01a073bb6224ef&v=4" width="24" alt="Avatar of Heniville"> Heniville
@@ -5266,7 +5253,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/danieleshetu99">
 				<img src="https://avatars.githubusercontent.com/u/132993448?s=72&v=4" width="24" alt="Avatar of danieleshetu99"> danieleshetu99
@@ -5279,7 +5266,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/Natnael-k">
 				<img src="https://avatars.githubusercontent.com/u/59443464?s=72&u=fb88c0d4ce198035d6310d4cf96174749a06d79e&v=4" width="24" alt="Avatar of Natnael-k"> Natnael-k
@@ -5292,7 +5279,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/Benomi">
 				<img src="https://avatars.githubusercontent.com/u/9852198?s=72&u=905b2434283da90b309c44637e308a48372c550e&v=4" width="24" alt="Avatar of Benomi"> Benomi
@@ -5305,7 +5292,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/henokkhm">
 				<img src="https://avatars.githubusercontent.com/u/110997325?s=72&v=4" width="24" alt="Avatar of henokkhm"> henokkhm
@@ -5315,6 +5302,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Full Stack Developer </td>
 		<td><a href="https://twitter.com/henokkhm">henokkhm</a></td>
 		<td>Addis Ababa, Ethiopia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
+			<a href="https://github.com/Ibranista">
+				<img src="https://avatars.githubusercontent.com/u/68871293?s=72&v=4" width="24" alt="Avatar of Ibranista"> Ibranista
+			</a><br/>
+			Ibranista
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ibranista">ibranista</a></td>
+		<td>Addis Ababa</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -5463,19 +5463,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>413</td>
 		<td>
-			<a href="https://github.com/YohansSamuel">
-				<img src="https://avatars.githubusercontent.com/u/100848516?s=72&u=89730fba380270df5f2b9bd548a9487f9bf05760&v=4" width="24" alt="Avatar of YohansSamuel"> YohansSamuel
-			</a><br/>
-			Yohans Samuel
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/YohansSamuel14">YohansSamuel14</a></td>
-		<td>Ethiopia </td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
 			<a href="https://github.com/Dru-Go">
 				<img src="https://avatars.githubusercontent.com/u/36500142?s=72&u=0fe913808e5ed9ad1b44ec558f20bef7bd8be018&v=4" width="24" alt="Avatar of Dru-Go"> Dru-Go
 			</a><br/>
@@ -5484,6 +5471,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/Surafelll">
+				<img src="https://avatars.githubusercontent.com/u/106597286?s=72&u=491dd22a1737f910e1d4d07cae7ab9f962c04505&v=4" width="24" alt="Avatar of Surafelll"> Surafelll
+			</a><br/>
+			Suraphel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Suraphel2022">Suraphel2022</a></td>
+		<td>Ethiopia</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -5892,6 +5892,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>446</td>
 		<td>
+			<a href="https://github.com/YohansSamuel">
+				<img src="https://avatars.githubusercontent.com/u/100848516?s=72&u=89730fba380270df5f2b9bd548a9487f9bf05760&v=4" width="24" alt="Avatar of YohansSamuel"> YohansSamuel
+			</a><br/>
+			Yohans Samuel
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/YohansSamuel14">YohansSamuel14</a></td>
+		<td>Ethiopia </td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>447</td>
+		<td>
 			<a href="https://github.com/kirukib">
 				<img src="https://avatars.githubusercontent.com/u/39464098?s=72&u=40a55c13d67fb89c1f569071a11080dfdf2385d2&v=4" width="24" alt="Avatar of kirukib"> kirukib
 			</a><br/>
@@ -5903,7 +5916,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/NegusNati">
 				<img src="https://avatars.githubusercontent.com/u/84500378?s=72&u=14ae5719ccc3a2c01a50db03a9c3ae1053fb66b2&v=4" width="24" alt="Avatar of NegusNati"> NegusNati
@@ -5913,19 +5926,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/negusnati">negusnati</a></td>
 		<td>Addis Ababa, ETH</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>448</td>
-		<td>
-			<a href="https://github.com/Surafelll">
-				<img src="https://avatars.githubusercontent.com/u/106597286?s=72&u=491dd22a1737f910e1d4d07cae7ab9f962c04505&v=4" width="24" alt="Avatar of Surafelll"> Surafelll
-			</a><br/>
-			Suraphel
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Suraphel2022">Suraphel2022</a></td>
-		<td>Ethiopia</td>
 		<td>15</td>
 	</tr>
 	<tr>
@@ -6035,19 +6035,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>457</td>
 		<td>
-			<a href="https://github.com/Mule-ME">
-				<img src="https://avatars.githubusercontent.com/u/83214007?s=72&u=a736433c5acb809a363ad1046f15ffb285a9d5c5&v=4" width="24" alt="Avatar of Mule-ME"> Mule-ME
-			</a><br/>
-			Mulualem Eshetu
-		</td>
-		<td>Addis Software Plc. </td>
-		<td><a href="https://twitter.com/Mulualem_Eshetu">Mulualem_Eshetu</a></td>
-		<td>Addis Ababa</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>458</td>
-		<td>
 			<a href="https://github.com/solomongegziabher">
 				<img src="https://avatars.githubusercontent.com/u/113886983?s=72&u=5e6c16a00d66adcd72a1f0619fcff453b3ec6be0&v=4" width="24" alt="Avatar of solomongegziabher"> solomongegziabher
 			</a><br/>
@@ -6059,7 +6046,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/Alazar-dev">
 				<img src="https://avatars.githubusercontent.com/u/69623057?s=72&u=150e7245e2681831338d869a036f7d784b7196a7&v=4" width="24" alt="Avatar of Alazar-dev"> Alazar-dev
@@ -6072,7 +6059,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/BarokDG">
 				<img src="https://avatars.githubusercontent.com/u/61631544?s=72&u=12e7f9483792b46b523d5df72daeff52219affa2&v=4" width="24" alt="Avatar of BarokDG"> BarokDG
@@ -6085,7 +6072,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/brooksideas">
 				<img src="https://avatars.githubusercontent.com/u/45931201?s=72&u=0b66f32fd139f146286f60433d951509b3bbe6bc&v=4" width="24" alt="Avatar of brooksideas"> brooksideas
@@ -6098,7 +6085,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/ezraermy">
 				<img src="https://avatars.githubusercontent.com/u/35451409?s=72&u=8c1680aa7fdf157475d7384dddd3581d6872f44b&v=4" width="24" alt="Avatar of ezraermy"> ezraermy
@@ -6111,7 +6098,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/Muhe131">
 				<img src="https://avatars.githubusercontent.com/u/116346313?s=72&u=cff20fc8814bc50b0b1d8bdea8f6d955fbb14d91&v=4" width="24" alt="Avatar of Muhe131"> Muhe131
@@ -6124,7 +6111,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/Eazash">
 				<img src="https://avatars.githubusercontent.com/u/56728970?s=72&v=4" width="24" alt="Avatar of Eazash"> Eazash
@@ -6137,7 +6124,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/Nathnael12">
 				<img src="https://avatars.githubusercontent.com/u/34768841?s=72&u=bf4081d2bb4476a8a5693b1ea01d2cc0e95a68a0&v=4" width="24" alt="Avatar of Nathnael12"> Nathnael12
@@ -6150,7 +6137,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/dawit-michael">
 				<img src="https://avatars.githubusercontent.com/u/32758991?s=72&u=a219e5ed5ea6ffdafb11ea04d7813a107cfd61a2&v=4" width="24" alt="Avatar of dawit-michael"> dawit-michael
@@ -6163,7 +6150,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/bereketkibru">
 				<img src="https://avatars.githubusercontent.com/u/32790672?s=72&u=2b6a8f84d7cc373fd5a21921f7a9f00f6bfa10ed&v=4" width="24" alt="Avatar of bereketkibru"> bereketkibru
@@ -6176,7 +6163,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/dawitys">
 				<img src="https://avatars.githubusercontent.com/u/34986421?s=72&u=30eaf94812cf522f8df315c862f9bc81735fb787&v=4" width="24" alt="Avatar of dawitys"> dawitys
@@ -6189,7 +6176,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/melkamu12">
 				<img src="https://avatars.githubusercontent.com/u/8255233?s=72&u=fd8bbe6c4cdf703216de596b70a839e2c3262059&v=4" width="24" alt="Avatar of melkamu12"> melkamu12
@@ -6202,7 +6189,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/Bemmy7">
 				<img src="https://avatars.githubusercontent.com/u/44458004?s=72&u=f3ec53a10c95330f75b5e4fbc02e16c13cb40033&v=4" width="24" alt="Avatar of Bemmy7"> Bemmy7
@@ -6215,7 +6202,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/binazgreat">
 				<img src="https://avatars.githubusercontent.com/u/83767240?s=72&u=37e9c9ee9e85ee95154e50d2898179b7c2b404ce&v=4" width="24" alt="Avatar of binazgreat"> binazgreat
@@ -6228,7 +6215,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/leinad85daniel">
 				<img src="https://avatars.githubusercontent.com/u/117736496?s=72&u=bc4322d907585b38fe578af2e357bc70023b6a9f&v=4" width="24" alt="Avatar of leinad85daniel"> leinad85daniel
@@ -6241,7 +6228,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/AbdulhakimZ">
 				<img src="https://avatars.githubusercontent.com/u/38882490?s=72&u=5a73b78a192563fb36375a105554b07f78c9cc5e&v=4" width="24" alt="Avatar of AbdulhakimZ"> AbdulhakimZ
@@ -6251,6 +6238,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Abdulha86189021">Abdulha86189021</a></td>
 		<td>Ethiopia</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
+			<a href="https://github.com/libamlakbirhanu">
+				<img src="https://avatars.githubusercontent.com/u/60085915?s=72&v=4" width="24" alt="Avatar of libamlakbirhanu"> libamlakbirhanu
+			</a><br/>
+			Libamlak Birhanu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -6269,19 +6269,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>475</td>
 		<td>
-			<a href="https://github.com/libamlakbirhanu">
-				<img src="https://avatars.githubusercontent.com/u/60085915?s=72&v=4" width="24" alt="Avatar of libamlakbirhanu"> libamlakbirhanu
-			</a><br/>
-			Libamlak Birhanu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
 			<a href="https://github.com/muleA">
 				<img src="https://avatars.githubusercontent.com/u/56386485?s=72&u=b29ec90c3fc48d424b4183057d6a154e93af5227&v=4" width="24" alt="Avatar of muleA"> muleA
 			</a><br/>
@@ -6293,7 +6280,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/MubarekHussen">
 				<img src="https://avatars.githubusercontent.com/u/96715809?s=72&u=955cd6927722e02e47c2c4ae9bc0b13ddb91a303&v=4" width="24" alt="Avatar of MubarekHussen"> MubarekHussen
@@ -6306,7 +6293,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/lealemb">
 				<img src="https://avatars.githubusercontent.com/u/101050207?s=72&u=2dd88ab7b6bb03f2257d398b766331cf69334dc2&v=4" width="24" alt="Avatar of lealemb"> lealemb
@@ -6319,7 +6306,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/DamenaM">
 				<img src="https://avatars.githubusercontent.com/u/107020397?s=72&u=cde1327b6da2d01728f4b310b1648d4adf4f14ab&v=4" width="24" alt="Avatar of DamenaM"> DamenaM
@@ -6332,7 +6319,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/Beek-Kefyalew">
 				<img src="https://avatars.githubusercontent.com/u/27827365?s=72&u=f299738a5d7421dcf73c1e669d9b4b49b38d0154&v=4" width="24" alt="Avatar of Beek-Kefyalew"> Beek-Kefyalew
@@ -6345,7 +6332,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>481</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/yonathan-assefa">
 				<img src="https://avatars.githubusercontent.com/u/56077951?s=72&u=ef231c8f36cf0278507f5a629a2cd46e4b87f2c3&v=4" width="24" alt="Avatar of yonathan-assefa"> yonathan-assefa
@@ -6358,7 +6345,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>482</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/dagmawiabate">
 				<img src="https://avatars.githubusercontent.com/u/53218492?s=72&u=bf57cc41f794863ca0376e7deb0a387c086374fa&v=4" width="24" alt="Avatar of dagmawiabate"> dagmawiabate
@@ -6371,7 +6358,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>483</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/AtoYohannes">
 				<img src="https://avatars.githubusercontent.com/u/44858760?s=72&u=20bd8a92959214ae647fd34998109052dd2b38df&v=4" width="24" alt="Avatar of AtoYohannes"> AtoYohannes
@@ -6384,7 +6371,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/abbumillion">
 				<img src="https://avatars.githubusercontent.com/u/51262961?s=72&u=3280e81cf40dc2de427cd60e4291efd7633fda51&v=4" width="24" alt="Avatar of abbumillion"> abbumillion
@@ -6397,7 +6384,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/KibretZd">
 				<img src="https://avatars.githubusercontent.com/u/20473197?s=72&u=faea97879224a6fa5d5d693983213a0caafc0b58&v=4" width="24" alt="Avatar of KibretZd"> KibretZd
@@ -6410,7 +6397,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/Yohanes-Fikru">
 				<img src="https://avatars.githubusercontent.com/u/34979331?s=72&u=c155d2422ecccb632330bfafe059c75359c4cff9&v=4" width="24" alt="Avatar of Yohanes-Fikru"> Yohanes-Fikru
@@ -6423,7 +6410,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/haile-selassie">
 				<img src="https://avatars.githubusercontent.com/u/58038133?s=72&u=55f3ace94268dce4434781615a4406bf2c6c283d&v=4" width="24" alt="Avatar of haile-selassie"> haile-selassie
@@ -6436,7 +6423,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/BereketIng">
 				<img src="https://avatars.githubusercontent.com/u/24592042?s=72&u=6e6fde59323a2c913b4d7e07ef9758d4bd6ed242&v=4" width="24" alt="Avatar of BereketIng"> BereketIng
@@ -6449,7 +6436,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/iskewabe">
 				<img src="https://avatars.githubusercontent.com/u/24851739?s=72&u=176a6303b493765d3835beb0d990f90178275e72&v=4" width="24" alt="Avatar of iskewabe"> iskewabe
@@ -6462,7 +6449,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/BiniyamMelaku2">
 				<img src="https://avatars.githubusercontent.com/u/75802187?s=72&v=4" width="24" alt="Avatar of BiniyamMelaku2"> BiniyamMelaku2
@@ -6475,7 +6462,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/yohannes-jo">
 				<img src="https://avatars.githubusercontent.com/u/83584566?s=72&u=1db46f67eb6ad30ef4eaa3e5e21cc9d68ba094dc&v=4" width="24" alt="Avatar of yohannes-jo"> yohannes-jo
@@ -6488,7 +6475,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/dagitinsu">
 				<img src="https://avatars.githubusercontent.com/u/111512269?s=72&u=453c5c6dbdb9e211c06db8132d73726b2ac8e133&v=4" width="24" alt="Avatar of dagitinsu"> dagitinsu
@@ -6501,7 +6488,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/K1NGET">
 				<img src="https://avatars.githubusercontent.com/u/99260159?s=72&u=35653f1203eb0aa0b1c04ed90fa95c28b566cfb8&v=4" width="24" alt="Avatar of K1NGET"> K1NGET
@@ -6514,7 +6501,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/zuber1077">
 				<img src="https://avatars.githubusercontent.com/u/32090553?s=72&u=5f4bedf47733a386c465157f24b4d70d575095ea&v=4" width="24" alt="Avatar of zuber1077"> zuber1077
@@ -6527,7 +6514,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/ZBeimnet">
 				<img src="https://avatars.githubusercontent.com/u/34455205?s=72&u=3a6900d8f4bd014d7c1fb12feb7f55e9cb798377&v=4" width="24" alt="Avatar of ZBeimnet"> ZBeimnet
@@ -6540,20 +6527,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
-			<a href="https://github.com/Bezawork-pr">
-				<img src="https://avatars.githubusercontent.com/u/107026397?s=72&u=ca828f6f93a08f0dbc7e29a4e50d64da3cb7a9be&v=4" width="24" alt="Avatar of Bezawork-pr"> Bezawork-pr
+			<a href="https://github.com/Mule-ME">
+				<img src="https://avatars.githubusercontent.com/u/83214007?s=72&u=a736433c5acb809a363ad1046f15ffb285a9d5c5&v=4" width="24" alt="Avatar of Mule-ME"> Mule-ME
 			</a><br/>
-			Bezawork B Lindlof
+			Mulualem Eshetu
 		</td>
-		<td> Https://www.alxafric </td>
-		<td>No Twitter Username</td>
+		<td>Addis Software Plc. </td>
+		<td><a href="https://twitter.com/Mulualem_Eshetu">Mulualem_Eshetu</a></td>
 		<td>Addis Ababa</td>
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/hmhard">
 				<img src="https://avatars.githubusercontent.com/u/53700166?s=72&u=c9b38fb95d2efb56744a17fcec85184be2522841&v=4" width="24" alt="Avatar of hmhard"> hmhard
@@ -6566,7 +6553,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/Yehonatal">
 				<img src="https://avatars.githubusercontent.com/u/83646080?s=72&u=1643c7faa704d1e2f919963f14f95bdade406387&v=4" width="24" alt="Avatar of Yehonatal"> Yehonatal
@@ -6579,7 +6566,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/eyujunior">
 				<img src="https://avatars.githubusercontent.com/u/60319074?s=72&u=bc1acc489e49f3a6b72367d11eeb8ea0ef25739e&v=4" width="24" alt="Avatar of eyujunior"> eyujunior
@@ -6592,7 +6579,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/kidussolo">
 				<img src="https://avatars.githubusercontent.com/u/34998324?s=72&u=c3dffb0277969369c424904110b8ae0a266846bc&v=4" width="24" alt="Avatar of kidussolo"> kidussolo
@@ -6605,7 +6592,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/demissew">
 				<img src="https://avatars.githubusercontent.com/u/1429399?s=72&u=c38801438e6ee2e6bf9efb0b67b0e932d223abe7&v=4" width="24" alt="Avatar of demissew"> demissew
@@ -6618,7 +6605,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/birhan-kassaye">
 				<img src="https://avatars.githubusercontent.com/u/66920283?s=72&v=4" width="24" alt="Avatar of birhan-kassaye"> birhan-kassaye
@@ -6631,7 +6618,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/menasiephrem">
 				<img src="https://avatars.githubusercontent.com/u/19403083?s=72&u=9f445a928557614249636349aa3f4b3defdffcea&v=4" width="24" alt="Avatar of menasiephrem"> menasiephrem
@@ -6644,7 +6631,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/Mr-MaNia7">
 				<img src="https://avatars.githubusercontent.com/u/93995267?s=72&u=a197bada0361e008e9aac39b4a75c1ce892e0429&v=4" width="24" alt="Avatar of Mr-MaNia7"> Mr-MaNia7
@@ -6657,7 +6644,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/dagem720">
 				<img src="https://avatars.githubusercontent.com/u/59290341?s=72&v=4" width="24" alt="Avatar of dagem720"> dagem720
@@ -6670,7 +6657,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/getdaniel">
 				<img src="https://avatars.githubusercontent.com/u/74586716?s=72&u=7e31481ae2a6052acda22add13557c13a932f3a3&v=4" width="24" alt="Avatar of getdaniel"> getdaniel
@@ -6683,7 +6670,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/Barniva">
 				<img src="https://avatars.githubusercontent.com/u/123116734?s=72&u=a4a9fcfbd2680876538575e230728719e16ba02a&v=4" width="24" alt="Avatar of Barniva"> Barniva
@@ -6696,7 +6683,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/BekyH">
 				<img src="https://avatars.githubusercontent.com/u/32976671?s=72&u=790acad151955c8dee58a26f4d0ba13f88534d36&v=4" width="24" alt="Avatar of BekyH"> BekyH
@@ -6709,7 +6696,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/naanahmed">
 				<img src="https://avatars.githubusercontent.com/u/57059106?s=72&u=bfaef08116f821aef2e434d236f14434fcc58bd3&v=4" width="24" alt="Avatar of naanahmed"> naanahmed
@@ -6722,7 +6709,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/rinsarmu">
 				<img src="https://avatars.githubusercontent.com/u/92099288?s=72&u=5bd9002a9e256cfe3e6d4a1dc01c4b73db5d0b56&v=4" width="24" alt="Avatar of rinsarmu"> rinsarmu
@@ -6735,7 +6722,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/biruk-tesfaye">
 				<img src="https://avatars.githubusercontent.com/u/32713845?s=72&v=4" width="24" alt="Avatar of biruk-tesfaye"> biruk-tesfaye
@@ -6748,7 +6735,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/MilaBooot">
 				<img src="https://avatars.githubusercontent.com/u/57688047?s=72&u=5d7ab20f6c290db0d05e256e8463f2cad6072e08&v=4" width="24" alt="Avatar of MilaBooot"> MilaBooot
@@ -6761,7 +6748,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/betses">
 				<img src="https://avatars.githubusercontent.com/u/106348671?s=72&u=627ce834b3923972dae106ce9752ee0df3851348&v=4" width="24" alt="Avatar of betses"> betses
@@ -6774,7 +6761,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/hailemichael-ayana">
 				<img src="https://avatars.githubusercontent.com/u/109625609?s=72&u=8d1e7407e67c5b6bd1c3747ad5fab6aef535c015&v=4" width="24" alt="Avatar of hailemichael-ayana"> hailemichael-ayana
@@ -6787,7 +6774,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/Akuna444">
 				<img src="https://avatars.githubusercontent.com/u/56131204?s=72&u=6e10f8b2e28f24d29a562a8c9a1b6a9657e4bbf1&v=4" width="24" alt="Avatar of Akuna444"> Akuna444
@@ -6800,7 +6787,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/yohhannees">
 				<img src="https://avatars.githubusercontent.com/u/105593295?s=72&u=f05655f78d122ee30471c8edf7360503b18028f3&v=4" width="24" alt="Avatar of yohhannees"> yohhannees
@@ -6813,7 +6800,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/leulseged3">
 				<img src="https://avatars.githubusercontent.com/u/34774344?s=72&u=824e1208049a0c00e2cdd7d0fa03c2e8c13ddb55&v=4" width="24" alt="Avatar of leulseged3"> leulseged3
@@ -6826,7 +6813,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/tesfamariam1">
 				<img src="https://avatars.githubusercontent.com/u/80942216?s=72&u=976637497b05a2b55e28e1ec70e12483e19567c2&v=4" width="24" alt="Avatar of tesfamariam1"> tesfamariam1
@@ -6839,7 +6826,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/girumel">
 				<img src="https://avatars.githubusercontent.com/u/59282442?s=72&u=a5196a942233b58254914b114c0d765fadee0678&v=4" width="24" alt="Avatar of girumel"> girumel
@@ -6852,7 +6839,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/padwalker">
 				<img src="https://avatars.githubusercontent.com/u/6194773?s=72&v=4" width="24" alt="Avatar of padwalker"> padwalker
@@ -6865,7 +6852,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/Mintaa911">
 				<img src="https://avatars.githubusercontent.com/u/61611671?s=72&u=d3362f79644c3105b2639f4eb96b5dd18af4892b&v=4" width="24" alt="Avatar of Mintaa911"> Mintaa911
@@ -6878,7 +6865,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/samsonmeseret">
 				<img src="https://avatars.githubusercontent.com/u/80979055?s=72&u=7590b4e31192d0395a0e6baab2a6656645a7b504&v=4" width="24" alt="Avatar of samsonmeseret"> samsonmeseret
@@ -6891,7 +6878,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/yaredtekle022">
 				<img src="https://avatars.githubusercontent.com/u/117394421?s=72&u=41696127b362f869c9e8fc1df800e54e73ba767f&v=4" width="24" alt="Avatar of yaredtekle022"> yaredtekle022
@@ -6904,7 +6891,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/TheMoonK1d">
 				<img src="https://avatars.githubusercontent.com/u/40695908?s=72&u=94344b8910f50efd03959cb7b086d7f202eb4920&v=4" width="24" alt="Avatar of TheMoonK1d"> TheMoonK1d
@@ -6917,7 +6904,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/EsraelDawit-a">
 				<img src="https://avatars.githubusercontent.com/u/79444726?s=72&u=0325999ee765b92126db6f41982c3f5aec5fffc3&v=4" width="24" alt="Avatar of EsraelDawit-a"> EsraelDawit-a
@@ -6930,7 +6917,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/misikirdelelew">
 				<img src="https://avatars.githubusercontent.com/u/98164891?s=72&u=8dbc8fd64bd39af1e41da92301bb3975e135acb6&v=4" width="24" alt="Avatar of misikirdelelew"> misikirdelelew
@@ -6943,7 +6930,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/carloertola">
 				<img src="https://avatars.githubusercontent.com/u/37241029?s=72&u=f926c2d552df5c92ec1d675692efb7eb036f9112&v=4" width="24" alt="Avatar of carloertola"> carloertola
@@ -6956,7 +6943,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/Fikerte-T">
 				<img src="https://avatars.githubusercontent.com/u/85518343?s=72&v=4" width="24" alt="Avatar of Fikerte-T"> Fikerte-T
@@ -6969,7 +6956,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/JANBAX12">
 				<img src="https://avatars.githubusercontent.com/u/112809816?s=72&u=d35e6c2d78e8add55806723c83bef09d116e7efe&v=4" width="24" alt="Avatar of JANBAX12"> JANBAX12
@@ -6982,7 +6969,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/hellyab">
 				<img src="https://avatars.githubusercontent.com/u/39404675?s=72&u=3c9f7f7c90f51d5e627f528364ec80b7b0078039&v=4" width="24" alt="Avatar of hellyab"> hellyab
@@ -6995,7 +6982,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/amanuelararso">
 				<img src="https://avatars.githubusercontent.com/u/26092925?s=72&u=d0a652ea1ddbab4532c81dc0ff7a41f3bbea3f66&v=4" width="24" alt="Avatar of amanuelararso"> amanuelararso
@@ -7008,7 +6995,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/AmanuelAgegnehuBekele">
 				<img src="https://avatars.githubusercontent.com/u/32817010?s=72&u=23a1683ba2b2bc591b70446043a9353afac73ddf&v=4" width="24" alt="Avatar of AmanuelAgegnehuBekele"> AmanuelAgegnehuBekele
@@ -7021,7 +7008,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/nahomik">
 				<img src="https://avatars.githubusercontent.com/u/117065834?s=72&u=c7696199f3d6e02545fe1aeb1898fcc005485a1c&v=4" width="24" alt="Avatar of nahomik"> nahomik
@@ -7034,7 +7021,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/teddyk251">
 				<img src="https://avatars.githubusercontent.com/u/34500735?s=72&v=4" width="24" alt="Avatar of teddyk251"> teddyk251
@@ -7047,7 +7034,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/gebreigziabher">
 				<img src="https://avatars.githubusercontent.com/u/21123240?s=72&u=0f20a760cfc0de13bc9be198761155e9641a4d99&v=4" width="24" alt="Avatar of gebreigziabher"> gebreigziabher
@@ -7060,7 +7047,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/ab-ashagrie">
 				<img src="https://avatars.githubusercontent.com/u/41667131?s=72&u=17ac2d7649c7765b714c9631637c8ba4bf12d3bf&v=4" width="24" alt="Avatar of ab-ashagrie"> ab-ashagrie
@@ -7073,7 +7060,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/Achileas">
 				<img src="https://avatars.githubusercontent.com/u/22325904?s=72&u=799c74d36e2ee3de2333e8b0ca327ae4795787dc&v=4" width="24" alt="Avatar of Achileas"> Achileas
@@ -7086,7 +7073,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/YohannesGetu">
 				<img src="https://avatars.githubusercontent.com/u/61448882?s=72&u=02cb41986d158a23d167d64a0610d8cd424fc290&v=4" width="24" alt="Avatar of YohannesGetu"> YohannesGetu
@@ -7099,7 +7086,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/jerry5252">
 				<img src="https://avatars.githubusercontent.com/u/50430537?s=72&v=4" width="24" alt="Avatar of jerry5252"> jerry5252
@@ -7112,7 +7099,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/ewex25">
 				<img src="https://avatars.githubusercontent.com/u/105498141?s=72&u=e08f7444c09ec7f642d67e6c039ed524bc7c3058&v=4" width="24" alt="Avatar of ewex25"> ewex25
@@ -7125,7 +7112,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/LeulAria">
 				<img src="https://avatars.githubusercontent.com/u/45531307?s=72&u=747f4aa4e7287b7423679f925c5cf7789a51015f&v=4" width="24" alt="Avatar of LeulAria"> LeulAria
@@ -7138,7 +7125,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/tinsaeDev">
 				<img src="https://avatars.githubusercontent.com/u/28869217?s=72&u=8475dfbcabf60f703a0ca323844cda48d4c819b7&v=4" width="24" alt="Avatar of tinsaeDev"> tinsaeDev
@@ -7148,6 +7135,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Full Time Freelancer </td>
 		<td><a href="https://twitter.com/BelayTinsae">BelayTinsae</a></td>
 		<td>Addis Ababa, Ethiopia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>542</td>
+		<td>
+			<a href="https://github.com/Bezawork-pr">
+				<img src="https://avatars.githubusercontent.com/u/107026397?s=72&u=ca828f6f93a08f0dbc7e29a4e50d64da3cb7a9be&v=4" width="24" alt="Avatar of Bezawork-pr"> Bezawork-pr
+			</a><br/>
+			Bezawork B Lindlof
+		</td>
+		<td> Https://www.alxafric </td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -7361,19 +7361,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>559</td>
 		<td>
-			<a href="https://github.com/EYOELTEKLE">
-				<img src="https://avatars.githubusercontent.com/u/56158187?s=72&u=e3a3f35b1f28509559e80967bcdfbde6cc0fac1d&v=4" width="24" alt="Avatar of EYOELTEKLE"> EYOELTEKLE
-			</a><br/>
-			Eyoel Tekle
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia, Addis Ababa</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>560</td>
-		<td>
 			<a href="https://github.com/keddo">
 				<img src="https://avatars.githubusercontent.com/u/12418320?s=72&u=1076b2a983a3c2fb62d7d27351565ef8a0c1adde&v=4" width="24" alt="Avatar of keddo"> keddo
 			</a><br/>
@@ -7382,6 +7369,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Freelance Full-stack Developer </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
+			<a href="https://github.com/EYOELTEKLE">
+				<img src="https://avatars.githubusercontent.com/u/56158187?s=72&u=e3a3f35b1f28509559e80967bcdfbde6cc0fac1d&v=4" width="24" alt="Avatar of EYOELTEKLE"> EYOELTEKLE
+			</a><br/>
+			Eyoel Tekle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia, Addis Ababa</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -7478,19 +7478,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>568</td>
 		<td>
-			<a href="https://github.com/Surafel-Getachew">
-				<img src="https://avatars.githubusercontent.com/u/53017492?s=72&v=4" width="24" alt="Avatar of Surafel-Getachew"> Surafel-Getachew
-			</a><br/>
-			Surafel Getachew 
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/surafelget">surafelget</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>569</td>
-		<td>
 			<a href="https://github.com/DagNo1">
 				<img src="https://avatars.githubusercontent.com/u/102017186?s=72&u=8ed9680184bb1994b590bb93fcc55e8c0f1c9d25&v=4" width="24" alt="Avatar of DagNo1"> DagNo1
 			</a><br/>
@@ -7498,6 +7485,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>569</td>
+		<td>
+			<a href="https://github.com/Surafel-Getachew">
+				<img src="https://avatars.githubusercontent.com/u/53017492?s=72&v=4" width="24" alt="Avatar of Surafel-Getachew"> Surafel-Getachew
+			</a><br/>
+			Surafel Getachew 
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/surafelget">surafelget</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>12</td>
 	</tr>
@@ -7725,19 +7725,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>587</td>
 		<td>
-			<a href="https://github.com/WeirdODKnight">
-				<img src="https://avatars.githubusercontent.com/u/84514599?s=72&u=1f8ae6d5f2acba70422d06c341a440eb4abf626f&v=4" width="24" alt="Avatar of WeirdODKnight"> WeirdODKnight
-			</a><br/>
-			WeirdO DKnight
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/weirdfates">weirdfates</a></td>
-		<td>Addis Ababa</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>588</td>
-		<td>
 			<a href="https://github.com/zemachfm">
 				<img src="https://avatars.githubusercontent.com/u/77939899?s=72&u=0ac23abeaa6727abf5947ec3d6e366baee77077d&v=4" width="24" alt="Avatar of zemachfm"> zemachfm
 			</a><br/>
@@ -7746,6 +7733,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Zemachfm </td>
 		<td><a href="https://twitter.com/zemachfm">zemachfm</a></td>
 		<td>Addis Abababa Ethiopia</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>588</td>
+		<td>
+			<a href="https://github.com/WeirdODKnight">
+				<img src="https://avatars.githubusercontent.com/u/84514599?s=72&u=1f8ae6d5f2acba70422d06c341a440eb4abf626f&v=4" width="24" alt="Avatar of WeirdODKnight"> WeirdODKnight
+			</a><br/>
+			WeirdO DKnight
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/weirdfates">weirdfates</a></td>
+		<td>Addis Ababa</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -7816,19 +7816,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>594</td>
 		<td>
-			<a href="https://github.com/abiy006">
-				<img src="https://avatars.githubusercontent.com/u/13706364?s=72&u=f252ecee88f4b38f78bef29ebe7ae5f6524072f2&v=4" width="24" alt="Avatar of abiy006"> abiy006
-			</a><br/>
-			Abiy Aman
-		</td>
-		<td>Microverse </td>
-		<td><a href="https://twitter.com/Abiy62463489">Abiy62463489</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>595</td>
-		<td>
 			<a href="https://github.com/Natty-7r">
 				<img src="https://avatars.githubusercontent.com/u/111322007?s=72&u=f747406efa7e071ca3d06fcb4ec8944eb438818d&v=4" width="24" alt="Avatar of Natty-7r"> Natty-7r
 			</a><br/>
@@ -7837,6 +7824,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>None </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>595</td>
+		<td>
+			<a href="https://github.com/abiy006">
+				<img src="https://avatars.githubusercontent.com/u/13706364?s=72&u=f252ecee88f4b38f78bef29ebe7ae5f6524072f2&v=4" width="24" alt="Avatar of abiy006"> abiy006
+			</a><br/>
+			Abiy Aman
+		</td>
+		<td>Microverse </td>
+		<td><a href="https://twitter.com/Abiy62463489">Abiy62463489</a></td>
+		<td>Addis Ababa, Ethiopia</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -8258,19 +8258,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>628</td>
 		<td>
-			<a href="https://github.com/Andu2023">
-				<img src="https://avatars.githubusercontent.com/u/134935622?s=72&u=65c2a2c3ae8510dcf84f68b823cec68778f8f11d&v=4" width="24" alt="Avatar of Andu2023"> Andu2023
-			</a><br/>
-			Andualem Assefa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>629</td>
-		<td>
 			<a href="https://github.com/asmeyb">
 				<img src="https://avatars.githubusercontent.com/u/7359448?s=72&u=3704b2ba625f02d572215dfb56ca497b8119eb3d&v=4" width="24" alt="Avatar of asmeyb"> asmeyb
 			</a><br/>
@@ -8282,7 +8269,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/natiabebaw12">
 				<img src="https://avatars.githubusercontent.com/u/56926277?s=72&u=c030105d4647a84447a2104464cb32d98a5e1c45&v=4" width="24" alt="Avatar of natiabebaw12"> natiabebaw12
@@ -8295,7 +8282,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/MariyaEA">
 				<img src="https://avatars.githubusercontent.com/u/59637113?s=72&u=e872d74ae2514f08f60595f1eee9c2f8b1c1f5cb&v=4" width="24" alt="Avatar of MariyaEA"> MariyaEA
@@ -8308,7 +8295,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/AtalelB">
 				<img src="https://avatars.githubusercontent.com/u/106749360?s=72&u=b6be12278d53e9d2667a3e3ac0476ce0b1389e04&v=4" width="24" alt="Avatar of AtalelB"> AtalelB
@@ -8321,7 +8308,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/Medhna-Jenberu">
 				<img src="https://avatars.githubusercontent.com/u/82589309?s=72&u=43058e90cc61643217102aec7041e7ce81a0b27c&v=4" width="24" alt="Avatar of Medhna-Jenberu"> Medhna-Jenberu
@@ -8334,7 +8321,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/miruts">
 				<img src="https://avatars.githubusercontent.com/u/95917724?s=72&u=61b73b91940059f527db4e4916178125ab152997&v=4" width="24" alt="Avatar of miruts"> miruts
@@ -8347,7 +8334,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/NatMinyel">
 				<img src="https://avatars.githubusercontent.com/u/24427057?s=72&v=4" width="24" alt="Avatar of NatMinyel"> NatMinyel
@@ -8360,7 +8347,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/dsharew">
 				<img src="https://avatars.githubusercontent.com/u/5725548?s=72&u=b9f6913ad232b9ef804d55439409e1304049a773&v=4" width="24" alt="Avatar of dsharew"> dsharew
@@ -8373,7 +8360,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/samija">
 				<img src="https://avatars.githubusercontent.com/u/4531636?s=72&u=6d672c925b1f68087a75595df7e5bec3ed337e8c&v=4" width="24" alt="Avatar of samija"> samija
@@ -8383,6 +8370,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Ccc Great Commission Et<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>637</td>
+		<td>
+			<a href="https://github.com/marvinko">
+				<img src="https://avatars.githubusercontent.com/u/22936296?s=72&v=4" width="24" alt="Avatar of marvinko"> marvinko
+			</a><br/>
+			Maeruf
+		</td>
+		<td>@adotsense </td>
+		<td><a href="https://twitter.com/marvinko9">marvinko9</a></td>
+		<td>Adama, Ethiopia</td>
 		<td>11</td>
 	</tr>
 	<tr>
@@ -8401,19 +8401,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>639</td>
 		<td>
-			<a href="https://github.com/marvinko">
-				<img src="https://avatars.githubusercontent.com/u/22936296?s=72&v=4" width="24" alt="Avatar of marvinko"> marvinko
-			</a><br/>
-			Maeruf
-		</td>
-		<td>@adotsense </td>
-		<td><a href="https://twitter.com/marvinko9">marvinko9</a></td>
-		<td>Adama, Ethiopia</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>640</td>
-		<td>
 			<a href="https://github.com/F-Kebede">
 				<img src="https://avatars.githubusercontent.com/u/75663015?s=72&v=4" width="24" alt="Avatar of F-Kebede"> F-Kebede
 			</a><br/>
@@ -8425,7 +8412,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/anonymousdomain">
 				<img src="https://avatars.githubusercontent.com/u/69416085?s=72&u=1477063e332fcc5958176895d108e7379af74e1c&v=4" width="24" alt="Avatar of anonymousdomain"> anonymousdomain
@@ -8438,7 +8425,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/jordanos">
 				<img src="https://avatars.githubusercontent.com/u/49521035?s=72&u=0519d5e7ebbf351498dee1a141ecfaea2109dae4&v=4" width="24" alt="Avatar of jordanos"> jordanos
@@ -8451,7 +8438,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/yitbehisbro">
 				<img src="https://avatars.githubusercontent.com/u/72982296?s=72&u=1030d4de18d4c1428e7ace9b62ce07d534dd5a54&v=4" width="24" alt="Avatar of yitbehisbro"> yitbehisbro
@@ -8464,7 +8451,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/k4l3b4">
 				<img src="https://avatars.githubusercontent.com/u/59311872?s=72&u=bfbb40ef42c98ae45fe332eced80dca1e9a5c384&v=4" width="24" alt="Avatar of k4l3b4"> k4l3b4
@@ -8477,7 +8464,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/lazyCoder-max">
 				<img src="https://avatars.githubusercontent.com/u/51710331?s=72&u=c386416cc517de19826c7a338f02ec8224821046&v=4" width="24" alt="Avatar of lazyCoder-max"> lazyCoder-max
@@ -8490,7 +8477,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/ante-neh">
 				<img src="https://avatars.githubusercontent.com/u/79926248?s=72&u=98c3f6699c68868977bd127d9538581749497366&v=4" width="24" alt="Avatar of ante-neh"> ante-neh
@@ -8503,7 +8490,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/MuleHakim">
 				<img src="https://avatars.githubusercontent.com/u/91600753?s=72&u=18165279aeffab7ffa33ffd311e449229bdc3ac0&v=4" width="24" alt="Avatar of MuleHakim"> MuleHakim
@@ -8516,7 +8503,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/DannySanchez6658">
 				<img src="https://avatars.githubusercontent.com/u/116147211?s=72&u=0bc8eac01f6db6966836f8e0959854b137a0ed42&v=4" width="24" alt="Avatar of DannySanchez6658"> DannySanchez6658
@@ -8529,7 +8516,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/Abelo73">
 				<img src="https://avatars.githubusercontent.com/u/117712700?s=72&u=d17ab5f2bff1c7f0ec56f6f2c748e6f6bf0386d9&v=4" width="24" alt="Avatar of Abelo73"> Abelo73
@@ -8542,7 +8529,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/degagawolde">
 				<img src="https://avatars.githubusercontent.com/u/39334921?s=72&u=1ebed5ad4b008c2ebafd399a1bd59d0e1abfa27f&v=4" width="24" alt="Avatar of degagawolde"> degagawolde
@@ -8555,7 +8542,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/yordi68">
 				<img src="https://avatars.githubusercontent.com/u/108049153?s=72&u=67b213886e46fbeb33ced1eb565288e9f8fe4c76&v=4" width="24" alt="Avatar of yordi68"> yordi68
@@ -8568,7 +8555,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/hksmith">
 				<img src="https://avatars.githubusercontent.com/u/105478362?s=72&u=0a9a6b58f9d8ab922ca3976cd98a1c8248848db3&v=4" width="24" alt="Avatar of hksmith"> hksmith
@@ -8581,7 +8568,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/adilabdu">
 				<img src="https://avatars.githubusercontent.com/u/31595630?s=72&u=c928a56c10154b083b1ecb95fccd7762a9ae957e&v=4" width="24" alt="Avatar of adilabdu"> adilabdu
@@ -8594,7 +8581,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/ermi14">
 				<img src="https://avatars.githubusercontent.com/u/41359540?s=72&u=63baa11c68d323bb8d0b5e5c298467cf6642a280&v=4" width="24" alt="Avatar of ermi14"> ermi14
@@ -8607,7 +8594,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/leomarker">
 				<img src="https://avatars.githubusercontent.com/u/85751407?s=72&u=56678cc7cdf97adca88be7abd2533627b0fad69d&v=4" width="24" alt="Avatar of leomarker"> leomarker
@@ -8620,7 +8607,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/Eyob14">
 				<img src="https://avatars.githubusercontent.com/u/86522632?s=72&u=5848bcd336eb1b615d86de983ab13fbec284f628&v=4" width="24" alt="Avatar of Eyob14"> Eyob14
@@ -8633,7 +8620,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/atnafuatx">
 				<img src="https://avatars.githubusercontent.com/u/26572030?s=72&u=d48686dcbc81654ad86842c3554ff67cd798abb8&v=4" width="24" alt="Avatar of atnafuatx"> atnafuatx
@@ -8646,7 +8633,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/GutemaG">
 				<img src="https://avatars.githubusercontent.com/u/24788565?s=72&u=ea901b937fc7dee1fc4c838b3b68b47b36a036f7&v=4" width="24" alt="Avatar of GutemaG"> GutemaG
@@ -8659,7 +8646,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/natnaeln4d">
 				<img src="https://avatars.githubusercontent.com/u/87979161?s=72&u=39543e79f74a6e434c724d08e56fada0d6f78cdf&v=4" width="24" alt="Avatar of natnaeln4d"> natnaeln4d
@@ -8672,7 +8659,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/AnexDev1">
 				<img src="https://avatars.githubusercontent.com/u/92826091?s=72&u=c1a49064ae909e595f9e4a50913706812d0d78e5&v=4" width="24" alt="Avatar of AnexDev1"> AnexDev1
@@ -8685,7 +8672,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/Yilikal250">
 				<img src="https://avatars.githubusercontent.com/u/97841835?s=72&u=22e282c6a800dee5927ccfef1484b50640a84bdd&v=4" width="24" alt="Avatar of Yilikal250"> Yilikal250
@@ -8698,7 +8685,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/wendecoder">
 				<img src="https://avatars.githubusercontent.com/u/56078297?s=72&u=cac9fd51a873f5e19deea99eb77d416b05e6cfe0&v=4" width="24" alt="Avatar of wendecoder"> wendecoder
@@ -8711,7 +8698,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/yisacc">
 				<img src="https://avatars.githubusercontent.com/u/26121311?s=72&u=ebdedf32cbecabae35a0651bc9639d9376b9bddb&v=4" width="24" alt="Avatar of yisacc"> yisacc
@@ -8724,7 +8711,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/tsegaye27">
 				<img src="https://avatars.githubusercontent.com/u/109968379?s=72&u=21310bb0d6b8634742b13fa846e951020f5065e9&v=4" width="24" alt="Avatar of tsegaye27"> tsegaye27
@@ -8737,7 +8724,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/biniyammoges">
 				<img src="https://avatars.githubusercontent.com/u/80150851?s=72&u=1c6389afaa5e96b0973155d895ff4d49aa9c688a&v=4" width="24" alt="Avatar of biniyammoges"> biniyammoges
@@ -8750,7 +8737,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/mearafGitHub">
 				<img src="https://avatars.githubusercontent.com/u/44867763?s=72&u=cb6b02c88f3b544f85145f68692e8f71d3dfc6cd&v=4" width="24" alt="Avatar of mearafGitHub"> mearafGitHub
@@ -8763,7 +8750,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/biruk-tafese">
 				<img src="https://avatars.githubusercontent.com/u/98220455?s=72&v=4" width="24" alt="Avatar of biruk-tafese"> biruk-tafese
@@ -8776,7 +8763,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/BeteabAdmassu">
 				<img src="https://avatars.githubusercontent.com/u/82194935?s=72&u=4f822c6d57629f93dff1f931afa74d34134ec62d&v=4" width="24" alt="Avatar of BeteabAdmassu"> BeteabAdmassu
@@ -8789,7 +8776,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/birukindrias">
 				<img src="https://avatars.githubusercontent.com/u/90757492?s=72&u=0aad195d9897dc531789932617f0087ad3916dc8&v=4" width="24" alt="Avatar of birukindrias"> birukindrias
@@ -8802,7 +8789,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/Y0ni0">
 				<img src="https://avatars.githubusercontent.com/u/76035548?s=72&u=e04d663f97af464ca995d8cdb81cae5a42acf6c2&v=4" width="24" alt="Avatar of Y0ni0"> Y0ni0
@@ -8815,7 +8802,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/tilez8">
 				<img src="https://avatars.githubusercontent.com/u/87129828?s=72&u=b81be0f7e8a926ebf12c26f42e8dc22a285c0ab5&v=4" width="24" alt="Avatar of tilez8"> tilez8
@@ -8828,7 +8815,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/Kirubel321">
 				<img src="https://avatars.githubusercontent.com/u/72298742?s=72&v=4" width="24" alt="Avatar of Kirubel321"> Kirubel321
@@ -8841,7 +8828,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/danielendaylalu1">
 				<img src="https://avatars.githubusercontent.com/u/129397569?s=72&u=9c73f7de187da44e8151046788b5f8258e28e280&v=4" width="24" alt="Avatar of danielendaylalu1"> danielendaylalu1
@@ -8854,7 +8841,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/Samfun75">
 				<img src="https://avatars.githubusercontent.com/u/38332931?s=72&u=a962daa7b9c6660e2fb9849d2fe2d9236f9b90e5&v=4" width="24" alt="Avatar of Samfun75"> Samfun75
@@ -8867,7 +8854,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/Kaleab41">
 				<img src="https://avatars.githubusercontent.com/u/42962516?s=72&u=ebf975511ac74e9cb8a208abc5922cb10087472e&v=4" width="24" alt="Avatar of Kaleab41"> Kaleab41
@@ -8880,7 +8867,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/jemxz">
 				<img src="https://avatars.githubusercontent.com/u/32041644?s=72&u=3021ca3e73cf4df757385cd743d1c30743b804bf&v=4" width="24" alt="Avatar of jemxz"> jemxz
@@ -8893,7 +8880,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/Dessiey">
 				<img src="https://avatars.githubusercontent.com/u/28597752?s=72&u=eec220c9f7294ab0811e29e3e0cddd91427a0052&v=4" width="24" alt="Avatar of Dessiey"> Dessiey
@@ -8906,7 +8893,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/DePacifier">
 				<img src="https://avatars.githubusercontent.com/u/37738957?s=72&u=c6f64b1e695faa5205f61e9f6108c767e10c9b5f&v=4" width="24" alt="Avatar of DePacifier"> DePacifier
@@ -8919,7 +8906,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/miketorreno">
 				<img src="https://avatars.githubusercontent.com/u/80712616?s=72&v=4" width="24" alt="Avatar of miketorreno"> miketorreno
@@ -8932,7 +8919,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/dagim19">
 				<img src="https://avatars.githubusercontent.com/u/74710537?s=72&u=dba1bb9dbe0a6ef8a57074a3ace97d6bfca160ec&v=4" width="24" alt="Avatar of dagim19"> dagim19
@@ -8945,7 +8932,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/rexder26">
 				<img src="https://avatars.githubusercontent.com/u/39588556?s=72&u=b3b12aad2e5163629fed4d3c2af5e661d0499d44&v=4" width="24" alt="Avatar of rexder26"> rexder26
@@ -8958,20 +8945,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>682</td>
-		<td>
-			<a href="https://github.com/ttsilesh">
-				<img src="https://avatars.githubusercontent.com/u/117748429?s=72&v=4" width="24" alt="Avatar of ttsilesh"> ttsilesh
-			</a><br/>
-			Tarik Silesh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bahir Dar, Ethiopia </td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>683</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/abdisag1">
 				<img src="https://avatars.githubusercontent.com/u/49249261?s=72&u=7cf38d76e68911b1e06f539cf8c95a5e8cb6d8e0&v=4" width="24" alt="Avatar of abdisag1"> abdisag1
@@ -8984,7 +8958,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/Bisrategebriel">
 				<img src="https://avatars.githubusercontent.com/u/42300234?s=72&u=f2c6a8f95cb093a9d7f59b2743ea62287e82616a&v=4" width="24" alt="Avatar of Bisrategebriel"> Bisrategebriel
@@ -8997,7 +8971,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/Bahirumulugeta">
 				<img src="https://avatars.githubusercontent.com/u/57240268?s=72&u=0ecc7c581ef989676d891b87181a71314de17be6&v=4" width="24" alt="Avatar of Bahirumulugeta"> Bahirumulugeta
@@ -9010,7 +8984,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/nati2323">
 				<img src="https://avatars.githubusercontent.com/u/99729850?s=72&u=3f079b24bba15cbd7073c3233b9c1d7e2e78f35d&v=4" width="24" alt="Avatar of nati2323"> nati2323
@@ -9023,7 +8997,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/muluwork-shegaw">
 				<img src="https://avatars.githubusercontent.com/u/37736254?s=72&u=8730ec207b49565ddc5a6e399b8504e5d534202f&v=4" width="24" alt="Avatar of muluwork-shegaw"> muluwork-shegaw
@@ -9036,7 +9010,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/benbel376">
 				<img src="https://avatars.githubusercontent.com/u/44437166?s=72&u=c7dd2b747bda09e17d07ce22b7c299dededc56dc&v=4" width="24" alt="Avatar of benbel376"> benbel376
@@ -9049,7 +9023,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/MichaelETPHP">
 				<img src="https://avatars.githubusercontent.com/u/87402911?s=72&u=b87f08bbef45e7891f2d5fde994cfd46b1d86ee4&v=4" width="24" alt="Avatar of MichaelETPHP"> MichaelETPHP
@@ -9062,7 +9036,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/husseinmomd">
 				<img src="https://avatars.githubusercontent.com/u/85677008?s=72&u=713a778e8bc85a018474573e774e3b9fbba8ca58&v=4" width="24" alt="Avatar of husseinmomd"> husseinmomd
@@ -9075,7 +9049,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/amantth">
 				<img src="https://avatars.githubusercontent.com/u/72162386?s=72&u=96a348e9ddca5e9c930bda17ef1f68a62d6adbe5&v=4" width="24" alt="Avatar of amantth"> amantth
@@ -9088,7 +9062,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/M3ND3X">
 				<img src="https://avatars.githubusercontent.com/u/39565143?s=72&u=95d345395ae58bcc73acaa17484a8fe738acadcf&v=4" width="24" alt="Avatar of M3ND3X"> M3ND3X
@@ -9101,7 +9075,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/nahomwosenu">
 				<img src="https://avatars.githubusercontent.com/u/12299592?s=72&u=5f73a6adf057eb4e4ee68ee1da3ab42e11bfbfa3&v=4" width="24" alt="Avatar of nahomwosenu"> nahomwosenu
@@ -9114,7 +9088,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/sinework">
 				<img src="https://avatars.githubusercontent.com/u/36323922?s=72&u=f2d66be6ee13e84c5b965d0afd387bf94dc0ac85&v=4" width="24" alt="Avatar of sinework"> sinework
@@ -9127,7 +9101,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/tesfanur">
 				<img src="https://avatars.githubusercontent.com/u/16974435?s=72&u=b8268e5d2ae73fd0ab69358cd9f9759542e95e7d&v=4" width="24" alt="Avatar of tesfanur"> tesfanur
@@ -9140,7 +9114,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/Esskedar">
 				<img src="https://avatars.githubusercontent.com/u/125556613?s=72&u=25e2df3811a16464b113c2803c4fc6ea98bb01c3&v=4" width="24" alt="Avatar of Esskedar"> Esskedar
@@ -9153,7 +9127,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/usmiii">
 				<img src="https://avatars.githubusercontent.com/u/109625217?s=72&v=4" width="24" alt="Avatar of usmiii"> usmiii
@@ -9166,7 +9140,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>696</td>
+		<td>
+			<a href="https://github.com/Andu2023">
+				<img src="https://avatars.githubusercontent.com/u/134935622?s=72&u=65c2a2c3ae8510dcf84f68b823cec68778f8f11d&v=4" width="24" alt="Avatar of Andu2023"> Andu2023
+			</a><br/>
+			Andualem Assefa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/Natanovicz">
 				<img src="https://avatars.githubusercontent.com/u/3491406?s=72&u=d4ba38e9078f8f26f1864da45ccaccd3e5437e1b&v=4" width="24" alt="Avatar of Natanovicz"> Natanovicz
@@ -9179,7 +9166,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/natanshimeles">
 				<img src="https://avatars.githubusercontent.com/u/24409021?s=72&v=4" width="24" alt="Avatar of natanshimeles"> natanshimeles
@@ -9192,7 +9179,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/gemhalo">
 				<img src="https://avatars.githubusercontent.com/u/506410?s=72&v=4" width="24" alt="Avatar of gemhalo"> gemhalo
@@ -9205,7 +9192,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/hagretech">
 				<img src="https://avatars.githubusercontent.com/u/68892112?s=72&u=81096a6935c7c859175bf2600a98239609801fbb&v=4" width="24" alt="Avatar of hagretech"> hagretech
@@ -9218,7 +9205,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/asegid">
 				<img src="https://avatars.githubusercontent.com/u/4755746?s=72&u=8992da3dbe5e22c8c0a290234951498e5e98faf9&v=4" width="24" alt="Avatar of asegid"> asegid
@@ -9231,7 +9218,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/JOSSYJR">
 				<img src="https://avatars.githubusercontent.com/u/58594527?s=72&u=b0d3befb42b2ae7ad64243b5e0f3fdcd376e29a0&v=4" width="24" alt="Avatar of JOSSYJR"> JOSSYJR
@@ -9244,7 +9231,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/NathnaelDS">
 				<img src="https://avatars.githubusercontent.com/u/17857625?s=72&u=237ce5ea9c63f78f38ade7145593703a26c6a811&v=4" width="24" alt="Avatar of NathnaelDS"> NathnaelDS
@@ -9257,7 +9244,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/NYDEV0">
 				<img src="https://avatars.githubusercontent.com/u/88596711?s=72&u=09f5932ea5319420821d98b58016140ef31811bc&v=4" width="24" alt="Avatar of NYDEV0"> NYDEV0
@@ -9270,7 +9257,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/pilanop">
 				<img src="https://avatars.githubusercontent.com/u/86802058?s=72&u=30bd1b98588c727c2d76fe74a48b6a2ea840048c&v=4" width="24" alt="Avatar of pilanop"> pilanop
@@ -9283,7 +9270,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/solomonenanaw">
 				<img src="https://avatars.githubusercontent.com/u/101396246?s=72&u=b8e41b21ab448a0024484e5e0678840ea56c6622&v=4" width="24" alt="Avatar of solomonenanaw"> solomonenanaw
@@ -9296,7 +9283,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/Tola-lemma">
 				<img src="https://avatars.githubusercontent.com/u/84643602?s=72&u=ee21bff5596e56da6541d260263b81b03773b5f8&v=4" width="24" alt="Avatar of Tola-lemma"> Tola-lemma
@@ -9309,7 +9296,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/KalabSisaySE">
 				<img src="https://avatars.githubusercontent.com/u/100390959?s=72&u=4263e0d4dbc9a15d4a1d477284caa2a90fdef16b&v=4" width="24" alt="Avatar of KalabSisaySE"> KalabSisaySE
@@ -9322,20 +9309,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>710</td>
-		<td>
-			<a href="https://github.com/jrermi12">
-				<img src="https://avatars.githubusercontent.com/u/61870061?s=72&u=2b6539d50cbdacf5543ec08b33170855078cf7c7&v=4" width="24" alt="Avatar of jrermi12"> jrermi12
-			</a><br/>
-			Ermias Asmare
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/jr_ermias">jr_ermias</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>711</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/AbenezerDer">
 				<img src="https://avatars.githubusercontent.com/u/111040170?s=72&u=2f68d163ddc6d5cabf768fdabe840f070b773900&v=4" width="24" alt="Avatar of AbenezerDer"> AbenezerDer
@@ -9348,7 +9322,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/Natnael772">
 				<img src="https://avatars.githubusercontent.com/u/85186473?s=72&u=b680835c5af6fd46c834764dbe00280a294e998b&v=4" width="24" alt="Avatar of Natnael772"> Natnael772
@@ -9361,7 +9335,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/nebiyelioul">
 				<img src="https://avatars.githubusercontent.com/u/39603410?s=72&u=8918aecee2eb02765ddc680e7602fbc35ffac100&v=4" width="24" alt="Avatar of nebiyelioul"> nebiyelioul
@@ -9374,7 +9348,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/NathanielAwoke">
 				<img src="https://avatars.githubusercontent.com/u/23735592?s=72&u=b6c0697a161ec6183386da5f8eeb3aae6156ab9f&v=4" width="24" alt="Avatar of NathanielAwoke"> NathanielAwoke
@@ -9387,7 +9361,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>713</td>
+		<td>
+			<a href="https://github.com/jrermi12">
+				<img src="https://avatars.githubusercontent.com/u/61870061?s=72&u=2b6539d50cbdacf5543ec08b33170855078cf7c7&v=4" width="24" alt="Avatar of jrermi12"> jrermi12
+			</a><br/>
+			Ermias Asmare
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/jr_ermias">jr_ermias</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/okitta">
 				<img src="https://avatars.githubusercontent.com/u/88825383?s=72&u=f22e8576d2086ae242bab3799e978a818f71510f&v=4" width="24" alt="Avatar of okitta"> okitta
@@ -9400,7 +9387,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/kenenisa">
 				<img src="https://avatars.githubusercontent.com/u/53818162?s=72&u=21ee289edb74a85871634241ca2b73d10d14617d&v=4" width="24" alt="Avatar of kenenisa"> kenenisa
@@ -9413,7 +9400,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/SolomonZinabu">
 				<img src="https://avatars.githubusercontent.com/u/49882150?s=72&u=8df334018a8143a87119466c1bf0031ff6b97ba7&v=4" width="24" alt="Avatar of SolomonZinabu"> SolomonZinabu
@@ -9426,7 +9413,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/abdimussa87">
 				<img src="https://avatars.githubusercontent.com/u/43067015?s=72&v=4" width="24" alt="Avatar of abdimussa87"> abdimussa87
@@ -9435,6 +9422,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>718</td>
+		<td>
+			<a href="https://github.com/ALPHACOD3RS">
+				<img src="https://avatars.githubusercontent.com/u/77591327?s=72&u=7f901e1799ba4a8de8aa7dcd4a47083eec635a88&v=4" width="24" alt="Avatar of ALPHACOD3RS"> ALPHACOD3RS
+			</a><br/>
+			Naol Ketema
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ACod3r">ACod3r</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>9</td>
 	</tr>
@@ -9454,19 +9454,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>720</td>
 		<td>
-			<a href="https://github.com/kaleabbyh">
-				<img src="https://avatars.githubusercontent.com/u/87016401?s=72&u=8da70224daffc516575a07cf3c399a766cd29fca&v=4" width="24" alt="Avatar of kaleabbyh"> kaleabbyh
-			</a><br/>
-			Kaleab Bayih
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>721</td>
-		<td>
 			<a href="https://github.com/SameC137">
 				<img src="https://avatars.githubusercontent.com/u/37704662?s=72&u=80512f8cb333a425032a6485f2ab37f0a9b5700f&v=4" width="24" alt="Avatar of SameC137"> SameC137
 			</a><br/>
@@ -9475,6 +9462,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>Adludio </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>721</td>
+		<td>
+			<a href="https://github.com/kaleabbyh">
+				<img src="https://avatars.githubusercontent.com/u/87016401?s=72&u=8da70224daffc516575a07cf3c399a766cd29fca&v=4" width="24" alt="Avatar of kaleabbyh"> kaleabbyh
+			</a><br/>
+			Kaleab Bayih
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
 		<td>9</td>
 	</tr>
 	<tr>
@@ -9623,32 +9623,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>733</td>
 		<td>
-			<a href="https://github.com/ldebele">
-				<img src="https://avatars.githubusercontent.com/u/89338244?s=72&u=43e02c702f8bc917af05ae8ccd1dc25e87cce6da&v=4" width="24" alt="Avatar of ldebele"> ldebele
-			</a><br/>
-			Lemi Debela
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>734</td>
-		<td>
-			<a href="https://github.com/LijKG">
-				<img src="https://avatars.githubusercontent.com/u/106870171?s=72&v=4" width="24" alt="Avatar of LijKG"> LijKG
-			</a><br/>
-			Kirubel Girma
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/KiraG271">KiraG271</a></td>
-		<td>Addis Ababa Ethiopia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>735</td>
-		<td>
 			<a href="https://github.com/dagmawiii03">
 				<img src="https://avatars.githubusercontent.com/u/77850286?s=72&u=e0c04a61dd28a09cb2ac74033789cad3191cb2b9&v=4" width="24" alt="Avatar of dagmawiii03"> dagmawiii03
 			</a><br/>
@@ -9660,7 +9634,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>734</td>
 		<td>
 			<a href="https://github.com/andyalex234">
 				<img src="https://avatars.githubusercontent.com/u/59474650?s=72&u=4198ddc66ce15d9d55b9943867166e1b332b6f5c&v=4" width="24" alt="Avatar of andyalex234"> andyalex234
@@ -9673,7 +9647,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>735</td>
 		<td>
 			<a href="https://github.com/haptome">
 				<img src="https://avatars.githubusercontent.com/u/31091756?s=72&u=6c5ffc1dd27d9bc3fb953405cc5f6a80ca27d0f9&v=4" width="24" alt="Avatar of haptome"> haptome
@@ -9686,7 +9660,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>736</td>
 		<td>
 			<a href="https://github.com/mickiyas123">
 				<img src="https://avatars.githubusercontent.com/u/57702109?s=72&u=29d8148d364e021ff60afc088fe5e9843433b862&v=4" width="24" alt="Avatar of mickiyas123"> mickiyas123
@@ -9699,7 +9673,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>737</td>
 		<td>
 			<a href="https://github.com/hanawujira">
 				<img src="https://avatars.githubusercontent.com/u/31500752?s=72&u=7c8dcccdfee94705086ac0f2471b0be292cde546&v=4" width="24" alt="Avatar of hanawujira"> hanawujira
@@ -9712,7 +9686,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>738</td>
 		<td>
 			<a href="https://github.com/YonSci">
 				<img src="https://avatars.githubusercontent.com/u/20817023?s=72&u=093a8807e6d5cc668844bf792847c956c1c1d67f&v=4" width="24" alt="Avatar of YonSci"> YonSci
@@ -9725,7 +9699,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>739</td>
 		<td>
 			<a href="https://github.com/yared2112">
 				<img src="https://avatars.githubusercontent.com/u/47736198?s=72&u=ce0e730648ddbd3671400001ca2380f3e0ac0bff&v=4" width="24" alt="Avatar of yared2112"> yared2112
@@ -9738,7 +9712,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>740</td>
 		<td>
 			<a href="https://github.com/yohannesakd">
 				<img src="https://avatars.githubusercontent.com/u/57145018?s=72&u=d22f22ba0a576ad07fb34403d63115ed5547e443&v=4" width="24" alt="Avatar of yohannesakd"> yohannesakd
@@ -9751,7 +9725,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>741</td>
 		<td>
 			<a href="https://github.com/henok-tesfu">
 				<img src="https://avatars.githubusercontent.com/u/60567043?s=72&u=f04cdde8e217b39ee3198d659531881d480985f4&v=4" width="24" alt="Avatar of henok-tesfu"> henok-tesfu
@@ -9764,7 +9738,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>742</td>
 		<td>
 			<a href="https://github.com/henokwon">
 				<img src="https://avatars.githubusercontent.com/u/96754775?s=72&v=4" width="24" alt="Avatar of henokwon"> henokwon
@@ -9777,7 +9751,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/leykun-gizaw">
 				<img src="https://avatars.githubusercontent.com/u/61229555?s=72&u=00aaecf79f4b4abf07cc99c99a95dfc4c59b9bb0&v=4" width="24" alt="Avatar of leykun-gizaw"> leykun-gizaw
@@ -9790,7 +9764,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/singleababu">
 				<img src="https://avatars.githubusercontent.com/u/111110075?s=72&v=4" width="24" alt="Avatar of singleababu"> singleababu
@@ -9803,7 +9777,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/kiztopia1">
 				<img src="https://avatars.githubusercontent.com/u/62418642?s=72&u=3e0df35ace7724adf6cfa4dab7362497849aff16&v=4" width="24" alt="Avatar of kiztopia1"> kiztopia1
@@ -9816,7 +9790,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/AbiyuTolosa">
 				<img src="https://avatars.githubusercontent.com/u/62298369?s=72&v=4" width="24" alt="Avatar of AbiyuTolosa"> AbiyuTolosa
@@ -9829,7 +9803,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/bikilaalemu">
 				<img src="https://avatars.githubusercontent.com/u/94080566?s=72&u=d42fdafa0c3cb6b1c6adb881b8ea286a9f86806b&v=4" width="24" alt="Avatar of bikilaalemu"> bikilaalemu
@@ -9842,7 +9816,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/kinfe19">
 				<img src="https://avatars.githubusercontent.com/u/81519060?s=72&u=825e6584c66c4dfa903c73374530454bcb8cdbb3&v=4" width="24" alt="Avatar of kinfe19"> kinfe19
@@ -9855,7 +9829,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/NegassaB">
 				<img src="https://avatars.githubusercontent.com/u/19590937?s=72&u=a872f645ab3c58078d7d4e854ee4859cd4c40c57&v=4" width="24" alt="Avatar of NegassaB"> NegassaB
@@ -9868,7 +9842,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/tewodros18">
 				<img src="https://avatars.githubusercontent.com/u/58773098?s=72&v=4" width="24" alt="Avatar of tewodros18"> tewodros18
@@ -9881,7 +9855,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/Asrat001">
 				<img src="https://avatars.githubusercontent.com/u/103597170?s=72&u=62a1b0fe6b18fe5335a19279c2ec695ee535becc&v=4" width="24" alt="Avatar of Asrat001"> Asrat001
@@ -9894,20 +9868,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>754</td>
-		<td>
-			<a href="https://github.com/dryeab">
-				<img src="https://avatars.githubusercontent.com/u/72541965?s=72&v=4" width="24" alt="Avatar of dryeab"> dryeab
-			</a><br/>
-			Yeabsira Driba
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>9</td>
-	</tr>
-	<tr>
-		<td>755</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/z-architect">
 				<img src="https://avatars.githubusercontent.com/u/53336148?s=72&u=bcaa889e6d3b87d73fa55cbd46ba491ff8d02a49&v=4" width="24" alt="Avatar of z-architect"> z-architect
@@ -9920,7 +9881,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/freab">
 				<img src="https://avatars.githubusercontent.com/u/128427313?s=72&u=1b2c985180d1f825ff86f8d280463fa3ce1a34ca&v=4" width="24" alt="Avatar of freab"> freab
@@ -9933,7 +9894,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/haileyesus2433">
 				<img src="https://avatars.githubusercontent.com/u/85413826?s=72&v=4" width="24" alt="Avatar of haileyesus2433"> haileyesus2433
@@ -9946,7 +9907,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/mavincci">
 				<img src="https://avatars.githubusercontent.com/u/50901805?s=72&v=4" width="24" alt="Avatar of mavincci"> mavincci
@@ -9959,7 +9920,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/Ahmed-Hibet">
 				<img src="https://avatars.githubusercontent.com/u/60030432?s=72&u=cc5df7ef0c7d7567a7827b0fa988cd515bc5df1f&v=4" width="24" alt="Avatar of Ahmed-Hibet"> Ahmed-Hibet
@@ -9972,7 +9933,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>757</td>
+		<td>
+			<a href="https://github.com/ttsilesh">
+				<img src="https://avatars.githubusercontent.com/u/117748429?s=72&v=4" width="24" alt="Avatar of ttsilesh"> ttsilesh
+			</a><br/>
+			Tarik Silesh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bahir Dar, Ethiopia </td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/izahak-dek">
 				<img src="https://avatars.githubusercontent.com/u/121952084?s=72&u=3db1679416115948608b0cc09a1c34e1ae1fa684&v=4" width="24" alt="Avatar of izahak-dek"> izahak-dek
@@ -9985,7 +9959,20 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>759</td>
+		<td>
+			<a href="https://github.com/izahak-dek">
+				<img src="https://avatars.githubusercontent.com/u/121952084?s=72&u=3db1679416115948608b0cc09a1c34e1ae1fa684&v=4" width="24" alt="Avatar of izahak-dek"> izahak-dek
+			</a><br/>
+			IZAHAK_DEK
+		</td>
+		<td>Sahan-online </td>
+		<td>No Twitter Username</td>
+		<td>ETHIOPIA,JIGJIGA </td>
+		<td>9</td>
+	</tr>
+	<tr>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/DesuDG">
 				<img src="https://avatars.githubusercontent.com/u/105062594?s=72&u=2201da9d2db09f1f97e4668ddeba4f542b7efd9e&v=4" width="24" alt="Avatar of DesuDG"> DesuDG
@@ -9998,7 +9985,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/AlphaAbig">
 				<img src="https://avatars.githubusercontent.com/u/96309101?s=72&u=58252c5334699950b2d1605e1df54ef549545a51&v=4" width="24" alt="Avatar of AlphaAbig"> AlphaAbig
@@ -10011,7 +9998,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/dawit12123">
 				<img src="https://avatars.githubusercontent.com/u/84643623?s=72&v=4" width="24" alt="Avatar of dawit12123"> dawit12123
@@ -10024,7 +10011,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/ibrodev">
 				<img src="https://avatars.githubusercontent.com/u/32592590?s=72&u=402fff0868e27218815ff9f6f43ab74451619583&v=4" width="24" alt="Avatar of ibrodev"> ibrodev
@@ -10037,7 +10024,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/mfissehaye">
 				<img src="https://avatars.githubusercontent.com/u/2877236?s=72&u=26f5e0f91888308e61cc7262e864df70718dd365&v=4" width="24" alt="Avatar of mfissehaye"> mfissehaye
@@ -10050,7 +10037,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/Eleni2323">
 				<img src="https://avatars.githubusercontent.com/u/124397448?s=72&u=700d5b94306ba94ddabe4563cd6673256acbea60&v=4" width="24" alt="Avatar of Eleni2323"> Eleni2323
@@ -10063,7 +10050,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/Mintesnotg">
 				<img src="https://avatars.githubusercontent.com/u/47204283?s=72&u=4d157f5b227b549c9c5e2fc9bfcefa1290b49284&v=4" width="24" alt="Avatar of Mintesnotg"> Mintesnotg
@@ -10076,7 +10063,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/danielgitk">
 				<img src="https://avatars.githubusercontent.com/u/39183946?s=72&u=28dd7140d5d4f709d27e666a1131bc213bc50cc4&v=4" width="24" alt="Avatar of danielgitk"> danielgitk
@@ -10089,7 +10076,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/BrockMekonnen">
 				<img src="https://avatars.githubusercontent.com/u/40534916?s=72&u=572aaa227dd54aee28c408a61c4f4bb074292cf0&v=4" width="24" alt="Avatar of BrockMekonnen"> BrockMekonnen
@@ -10102,7 +10089,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/Nati43">
 				<img src="https://avatars.githubusercontent.com/u/14030355?s=72&u=21268b854314a86e98389fcc05c23807f915eae1&v=4" width="24" alt="Avatar of Nati43"> Nati43
@@ -10115,7 +10102,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/nahomfix">
 				<img src="https://avatars.githubusercontent.com/u/37698083?s=72&u=2d9ade6e984cee422ee09205ba70b0e84051eccf&v=4" width="24" alt="Avatar of nahomfix"> nahomfix
@@ -10128,7 +10115,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/sentayehut">
 				<img src="https://avatars.githubusercontent.com/u/88430723?s=72&u=565af9cc7a404699d9465af8a85a617e70f4e40d&v=4" width="24" alt="Avatar of sentayehut"> sentayehut
@@ -10141,7 +10128,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/AdoniasW">
 				<img src="https://avatars.githubusercontent.com/u/85018689?s=72&u=993f4519a84942e6b3b673e1869a73d9a45199bf&v=4" width="24" alt="Avatar of AdoniasW"> AdoniasW
@@ -10154,7 +10141,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/SurafelGetachewT">
 				<img src="https://avatars.githubusercontent.com/u/39293404?s=72&u=708e156dc1eb087e63daa76a59c74edab6edb828&v=4" width="24" alt="Avatar of SurafelGetachewT"> SurafelGetachewT
@@ -10167,7 +10154,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/abduahema">
 				<img src="https://avatars.githubusercontent.com/u/120105688?s=72&v=4" width="24" alt="Avatar of abduahema"> abduahema
@@ -10180,7 +10167,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/lehagere">
 				<img src="https://avatars.githubusercontent.com/u/4033890?s=72&v=4" width="24" alt="Avatar of lehagere"> lehagere
@@ -10193,7 +10180,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/adamsamson">
 				<img src="https://avatars.githubusercontent.com/u/20216563?s=72&u=f6c8b8084cf9f41aefed7693b4523144de63979e&v=4" width="24" alt="Avatar of adamsamson"> adamsamson
@@ -10206,7 +10193,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/mohthem">
 				<img src="https://avatars.githubusercontent.com/u/64112137?s=72&v=4" width="24" alt="Avatar of mohthem"> mohthem
@@ -10219,7 +10206,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/Fabader">
 				<img src="https://avatars.githubusercontent.com/u/111036077?s=72&v=4" width="24" alt="Avatar of Fabader"> Fabader
@@ -10232,7 +10219,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/endriyas">
 				<img src="https://avatars.githubusercontent.com/u/38109744?s=72&u=a3de9fe701bf11dde698f76d40ea181be794f3c7&v=4" width="24" alt="Avatar of endriyas"> endriyas
@@ -10245,7 +10232,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/hassen-abduse">
 				<img src="https://avatars.githubusercontent.com/u/46131893?s=72&u=987613204e5663a8558db631a9b70269b8453f54&v=4" width="24" alt="Avatar of hassen-abduse"> hassen-abduse
@@ -10258,7 +10245,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/Naboni">
 				<img src="https://avatars.githubusercontent.com/u/57216594?s=72&u=ceb22bf8163ad721f2716d88558949bd0af48417&v=4" width="24" alt="Avatar of Naboni"> Naboni
@@ -10271,7 +10258,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/yeabtsega07">
 				<img src="https://avatars.githubusercontent.com/u/106152360?s=72&u=a60a23ef433654fbae88d176add0516d0627eab5&v=4" width="24" alt="Avatar of yeabtsega07"> yeabtsega07
@@ -10279,6 +10266,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 			Yeabtsega Yifat
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>783</td>
+		<td>
+			<a href="https://github.com/johhann">
+				<img src="https://avatars.githubusercontent.com/u/52071311?s=72&u=5feebd2ac64ee24601e68710678f40a723411a80&v=4" width="24" alt="Avatar of johhann"> johhann
+			</a><br/>
+			Yohannes Mekonnen
+		</td>
+		<td>@jaktechet  </td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>8</td>
@@ -10299,19 +10299,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>785</td>
 		<td>
-			<a href="https://github.com/johhann">
-				<img src="https://avatars.githubusercontent.com/u/52071311?s=72&u=5feebd2ac64ee24601e68710678f40a723411a80&v=4" width="24" alt="Avatar of johhann"> johhann
-			</a><br/>
-			Yohannes Mekonnen
-		</td>
-		<td>@jaktechet  </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>786</td>
-		<td>
 			<a href="https://github.com/Mekdeskebede">
 				<img src="https://avatars.githubusercontent.com/u/91591156?s=72&v=4" width="24" alt="Avatar of Mekdeskebede"> Mekdeskebede
 			</a><br/>
@@ -10323,7 +10310,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/tesfaymebre">
 				<img src="https://avatars.githubusercontent.com/u/95352714?s=72&u=bb606f72990ed4a4047a1662b9545e20e1e506f9&v=4" width="24" alt="Avatar of tesfaymebre"> tesfaymebre
@@ -10336,7 +10323,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/Agon269">
 				<img src="https://avatars.githubusercontent.com/u/56383316?s=72&u=d4f02141e0972db0989ba7fd0e3528847e96fa08&v=4" width="24" alt="Avatar of Agon269"> Agon269
@@ -10349,7 +10336,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/MelakuAlehegn">
 				<img src="https://avatars.githubusercontent.com/u/49185991?s=72&u=de8ec43c62127ca1439d63beeb1f0e44dfb5006a&v=4" width="24" alt="Avatar of MelakuAlehegn"> MelakuAlehegn
@@ -10362,7 +10349,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>790</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/yohannesjoya">
 				<img src="https://avatars.githubusercontent.com/u/108905193?s=72&u=aae8a29b972ed3500cccea001341822e766ee5dc&v=4" width="24" alt="Avatar of yohannesjoya"> yohannesjoya
@@ -10375,7 +10362,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/Liyumk">
 				<img src="https://avatars.githubusercontent.com/u/57185816?s=72&u=74298355598c63da528f3c36935dbc91b0645263&v=4" width="24" alt="Avatar of Liyumk"> Liyumk
@@ -10388,7 +10375,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/KidusGR">
 				<img src="https://avatars.githubusercontent.com/u/50879166?s=72&u=048b0034febd197c1a12e2af81ced6e197e46151&v=4" width="24" alt="Avatar of KidusGR"> KidusGR
@@ -10401,7 +10388,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/Usmaelabdureman">
 				<img src="https://avatars.githubusercontent.com/u/95717548?s=72&v=4" width="24" alt="Avatar of Usmaelabdureman"> Usmaelabdureman
@@ -10414,7 +10401,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/Tek58">
 				<img src="https://avatars.githubusercontent.com/u/56020472?s=72&u=872f3bd7e3b5e739c7a39dd0b0c5892579d532b4&v=4" width="24" alt="Avatar of Tek58"> Tek58
@@ -10427,7 +10414,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/Rexpass">
 				<img src="https://avatars.githubusercontent.com/u/96461347?s=72&u=a828253dbcf944516c7f8f58897f3088af422194&v=4" width="24" alt="Avatar of Rexpass"> Rexpass
@@ -10440,7 +10427,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/sapencio">
 				<img src="https://avatars.githubusercontent.com/u/62059876?s=72&u=e9dc89065b0111ce9dc3d2f0b7fcf993d1715233&v=4" width="24" alt="Avatar of sapencio"> sapencio
@@ -10453,7 +10440,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/Aklilegetachew">
 				<img src="https://avatars.githubusercontent.com/u/50630547?s=72&u=ef57fe0f6ff475fa8775731069df8bee0bcb10b5&v=4" width="24" alt="Avatar of Aklilegetachew"> Aklilegetachew
@@ -10466,7 +10453,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/mohaali482">
 				<img src="https://avatars.githubusercontent.com/u/68723236?s=72&u=d0d38cbd73c3eea0f5666f642d15f15020a20686&v=4" width="24" alt="Avatar of mohaali482"> mohaali482
@@ -10479,7 +10466,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/danmesfin">
 				<img src="https://avatars.githubusercontent.com/u/79213142?s=72&u=bd18eac82ed294128f85682b2809f62f97ee7005&v=4" width="24" alt="Avatar of danmesfin"> danmesfin
@@ -10492,7 +10479,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/MickyBe">
 				<img src="https://avatars.githubusercontent.com/u/50996808?s=72&v=4" width="24" alt="Avatar of MickyBe"> MickyBe
@@ -10505,7 +10492,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/Natnael12119">
 				<img src="https://avatars.githubusercontent.com/u/71574049?s=72&v=4" width="24" alt="Avatar of Natnael12119"> Natnael12119
@@ -10518,7 +10505,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/tadesse381">
 				<img src="https://avatars.githubusercontent.com/u/85294225?s=72&u=d4bb3de08a1f74776987e0707c7b4a26701fd022&v=4" width="24" alt="Avatar of tadesse381"> tadesse381
@@ -10531,7 +10518,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/Matiyas1994">
 				<img src="https://avatars.githubusercontent.com/u/73067967?s=72&u=e09b74329c97e01670519618d06e6c0053d28460&v=4" width="24" alt="Avatar of Matiyas1994"> Matiyas1994
@@ -10544,7 +10531,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/mikiasworash">
 				<img src="https://avatars.githubusercontent.com/u/83553261?s=72&u=d624204b8bf80a83a237ddedeb5e9add2a5e9d51&v=4" width="24" alt="Avatar of mikiasworash"> mikiasworash
@@ -10557,7 +10544,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/Meti-Adane">
 				<img src="https://avatars.githubusercontent.com/u/53035177?s=72&v=4" width="24" alt="Avatar of Meti-Adane"> Meti-Adane
@@ -10570,7 +10557,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/betsha1830">
 				<img src="https://avatars.githubusercontent.com/u/32789057?s=72&u=89e3d7fb7ee6c5dbda4da6a4749a29badeade2b1&v=4" width="24" alt="Avatar of betsha1830"> betsha1830
@@ -10583,7 +10570,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>806</td>
 		<td>
 			<a href="https://github.com/bibi721">
 				<img src="https://avatars.githubusercontent.com/u/49955863?s=72&u=d2eaa6979ac572452412a6be08b1aa0f3a121c9c&v=4" width="24" alt="Avatar of bibi721"> bibi721
@@ -10593,6 +10580,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ermiasbibi2">ermiasbibi2</a></td>
 		<td>Addis Ababa</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>807</td>
+		<td>
+			<a href="https://github.com/LijKG">
+				<img src="https://avatars.githubusercontent.com/u/106870171?s=72&v=4" width="24" alt="Avatar of LijKG"> LijKG
+			</a><br/>
+			Kirubel Girma
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/KiraG271">KiraG271</a></td>
+		<td>Addis Ababa Ethiopia</td>
 		<td>8</td>
 	</tr>
 	<tr>
@@ -10624,19 +10624,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>810</td>
 		<td>
-			<a href="https://github.com/Ferido07">
-				<img src="https://avatars.githubusercontent.com/u/22884375?s=72&u=d99b91ca67e1a748e789990668b78a7f255e8175&v=4" width="24" alt="Avatar of Ferido07"> Ferido07
-			</a><br/>
-			Ferid Zuber
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>811</td>
-		<td>
 			<a href="https://github.com/natnaelawel">
 				<img src="https://avatars.githubusercontent.com/u/28482084?s=72&u=f482812f857f79d783d0a5ead8b63fbb8cc244fe&v=4" width="24" alt="Avatar of natnaelawel"> natnaelawel
 			</a><br/>
@@ -10644,6 +10631,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		</td>
 		<td>Eskalate Llc </td>
 		<td><a href="https://twitter.com/AwelNathaniel">AwelNathaniel</a></td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>8</td>
+	</tr>
+	<tr>
+		<td>811</td>
+		<td>
+			<a href="https://github.com/Ferido07">
+				<img src="https://avatars.githubusercontent.com/u/22884375?s=72&u=d99b91ca67e1a748e789990668b78a7f255e8175&v=4" width="24" alt="Avatar of Ferido07"> Ferido07
+			</a><br/>
+			Ferid Zuber
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>8</td>
 	</tr>
@@ -11209,6 +11209,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>855</td>
 		<td>
+			<a href="https://github.com/MarkosMuche">
+				<img src="https://avatars.githubusercontent.com/u/71820487?s=72&u=d940e062d76d181cb9d9e40519057e1c934c836f&v=4" width="24" alt="Avatar of MarkosMuche"> MarkosMuche
+			</a><br/>
+			Markos Amsalu Muche
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>856</td>
+		<td>
 			<a href="https://github.com/Yab1">
 				<img src="https://avatars.githubusercontent.com/u/72093475?s=72&u=187902f930444936d334c5103587afd4766b1760&v=4" width="24" alt="Avatar of Yab1"> Yab1
 			</a><br/>
@@ -11220,7 +11233,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>856</td>
+		<td>857</td>
 		<td>
 			<a href="https://github.com/BlightG">
 				<img src="https://avatars.githubusercontent.com/u/106989325?s=72&u=d274eb2fc9d68fcee723f814b62dac08ecbd2303&v=4" width="24" alt="Avatar of BlightG"> BlightG
@@ -11228,19 +11241,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 			Birhane 
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ethiopia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>857</td>
-		<td>
-			<a href="https://github.com/getssh">
-				<img src="https://avatars.githubusercontent.com/u/77828236?s=72&u=8b8867bcc13509120278815099e8af1a0211e247&v=4" width="24" alt="Avatar of getssh"> getssh
-			</a><br/>
-			Getayawkal Tamrat
-		</td>
-		<td>Microverse </td>
 		<td>No Twitter Username</td>
 		<td>Ethiopia</td>
 		<td>7</td>
@@ -11261,6 +11261,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>859</td>
 		<td>
+			<a href="https://github.com/getssh">
+				<img src="https://avatars.githubusercontent.com/u/77828236?s=72&u=8b8867bcc13509120278815099e8af1a0211e247&v=4" width="24" alt="Avatar of getssh"> getssh
+			</a><br/>
+			Getayawkal Tamrat
+		</td>
+		<td>Microverse </td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>860</td>
+		<td>
 			<a href="https://github.com/yonaries">
 				<img src="https://avatars.githubusercontent.com/u/98046049?s=72&u=9046b96c4688cf4930f25d2f9e75950eb0fe40c0&v=4" width="24" alt="Avatar of yonaries"> yonaries
 			</a><br/>
@@ -11269,19 +11282,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/yonathandejene">yonathandejene</a></td>
 		<td>Addis Ababa, Ethiopia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>860</td>
-		<td>
-			<a href="https://github.com/elfaz2">
-				<img src="https://avatars.githubusercontent.com/u/54136781?s=72&u=e421e7689b66239e450c375a62470231fbb41d9d&v=4" width="24" alt="Avatar of elfaz2"> elfaz2
-			</a><br/>
-			Elfaz Aklilu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -11326,6 +11326,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>864</td>
 		<td>
+			<a href="https://github.com/sciemesfin">
+				<img src="https://avatars.githubusercontent.com/u/36897190?s=72&u=7909f6950a2a312c14670d3de1c1bba1536211ba&v=4" width="24" alt="Avatar of sciemesfin"> sciemesfin
+			</a><br/>
+			Mesfin Tsegaye
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>865</td>
+		<td>
 			<a href="https://github.com/YosefAyele">
 				<img src="https://avatars.githubusercontent.com/u/105995267?s=72&v=4" width="24" alt="Avatar of YosefAyele"> YosefAyele
 			</a><br/>
@@ -11337,7 +11350,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>865</td>
+		<td>866</td>
 		<td>
 			<a href="https://github.com/mikias-tulu">
 				<img src="https://avatars.githubusercontent.com/u/61970909?s=72&u=12b8c2b11cbab00739e2a7dbd11912c35c6b7af1&v=4" width="24" alt="Avatar of mikias-tulu"> mikias-tulu
@@ -11350,7 +11363,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>866</td>
+		<td>867</td>
 		<td>
 			<a href="https://github.com/nabroleonx">
 				<img src="https://avatars.githubusercontent.com/u/84567489?s=72&v=4" width="24" alt="Avatar of nabroleonx"> nabroleonx
@@ -11363,7 +11376,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>867</td>
+		<td>868</td>
 		<td>
 			<a href="https://github.com/zetseat">
 				<img src="https://avatars.githubusercontent.com/u/26901618?s=72&u=50a7b229523cc7d27e57fe48ed3a72f61bbff0c0&v=4" width="24" alt="Avatar of zetseat"> zetseat
@@ -11376,25 +11389,12 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>868</td>
+		<td>869</td>
 		<td>
 			<a href="https://github.com/balewgize">
 				<img src="https://avatars.githubusercontent.com/u/60035452?s=72&u=e4d1b42b039895062c81aa5cf2805b9c07b97456&v=4" width="24" alt="Avatar of balewgize"> balewgize
 			</a><br/>
 			Alemnew Marie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>869</td>
-		<td>
-			<a href="https://github.com/Jamescog">
-				<img src="https://avatars.githubusercontent.com/u/94002610?s=72&u=aa7ba2a80e02533d9b497e2c0be65c186c140f29&v=4" width="24" alt="Avatar of Jamescog"> Jamescog
-			</a><br/>
-			Yaekob Demisse
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -11417,6 +11417,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>871</td>
 		<td>
+			<a href="https://github.com/Jamescog">
+				<img src="https://avatars.githubusercontent.com/u/94002610?s=72&u=aa7ba2a80e02533d9b497e2c0be65c186c140f29&v=4" width="24" alt="Avatar of Jamescog"> Jamescog
+			</a><br/>
+			Yaekob Demisse
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>872</td>
+		<td>
 			<a href="https://github.com/LeulBayesa">
 				<img src="https://avatars.githubusercontent.com/u/96570532?s=72&u=48cf60ce4c62781ad1b7f1d9dd58a8e77e52e4b3&v=4" width="24" alt="Avatar of LeulBayesa"> LeulBayesa
 			</a><br/>
@@ -11428,7 +11441,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>872</td>
+		<td>873</td>
 		<td>
 			<a href="https://github.com/Tesfay-Teshome">
 				<img src="https://avatars.githubusercontent.com/u/82706469?s=72&v=4" width="24" alt="Avatar of Tesfay-Teshome"> Tesfay-Teshome
@@ -11441,7 +11454,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>874</td>
 		<td>
 			<a href="https://github.com/biruk-anley">
 				<img src="https://avatars.githubusercontent.com/u/95366947?s=72&u=b4ba656b2d6c9d0f801f5dc1335df8d52ef7128c&v=4" width="24" alt="Avatar of biruk-anley"> biruk-anley
@@ -11454,7 +11467,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>875</td>
 		<td>
 			<a href="https://github.com/Eden-Alem">
 				<img src="https://avatars.githubusercontent.com/u/54666401?s=72&u=325470811cae77714dfc3f2051c746c866f5f76d&v=4" width="24" alt="Avatar of Eden-Alem"> Eden-Alem
@@ -11467,7 +11480,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>876</td>
 		<td>
 			<a href="https://github.com/AbenezerAberaa">
 				<img src="https://avatars.githubusercontent.com/u/101829925?s=72&u=be9002a5a820ac2ab52ab3d46ea0fa790d5be8d5&v=4" width="24" alt="Avatar of AbenezerAberaa"> AbenezerAberaa
@@ -11480,7 +11493,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/alewiahmed">
 				<img src="https://avatars.githubusercontent.com/u/22597242?s=72&u=b9fcc463772f25b99d3ec3f1f032f08c13d9ab0c&v=4" width="24" alt="Avatar of alewiahmed"> alewiahmed
@@ -11493,7 +11506,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/bekaDessalegn">
 				<img src="https://avatars.githubusercontent.com/u/39644079?s=72&u=8f4065890497e2b0efa63c83b633b53d270a7c96&v=4" width="24" alt="Avatar of bekaDessalegn"> bekaDessalegn
@@ -11506,7 +11519,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/milkias17">
 				<img src="https://avatars.githubusercontent.com/u/66522725?s=72&u=e30dbc0d22e2d47027507306ed7d52990e49dd53&v=4" width="24" alt="Avatar of milkias17"> milkias17
@@ -11519,7 +11532,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/DoniAbeje">
 				<img src="https://avatars.githubusercontent.com/u/26971929?s=72&v=4" width="24" alt="Avatar of DoniAbeje"> DoniAbeje
@@ -11532,7 +11545,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/mihreteab">
 				<img src="https://avatars.githubusercontent.com/u/17984259?s=72&u=280f0c1b310c4a4bed97931b30a461c41ad7d221&v=4" width="24" alt="Avatar of mihreteab"> mihreteab
@@ -11545,7 +11558,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/Dawith305">
 				<img src="https://avatars.githubusercontent.com/u/38086269?s=72&u=d199fdf251ed84c7c1c24abf7dc3761c91cfb8e1&v=4" width="24" alt="Avatar of Dawith305"> Dawith305
@@ -11558,7 +11571,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>883</td>
 		<td>
 			<a href="https://github.com/NebiyouBelaineh">
 				<img src="https://avatars.githubusercontent.com/u/66259527?s=72&u=ec646fd9919d7191b01bfd3d96c215c4e8d271d3&v=4" width="24" alt="Avatar of NebiyouBelaineh"> NebiyouBelaineh
@@ -11571,7 +11584,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>884</td>
 		<td>
 			<a href="https://github.com/Y0h4n3s">
 				<img src="https://avatars.githubusercontent.com/u/55654189?s=72&u=ab662cc5e7247a87645c123de0d04cb22f5d3afe&v=4" width="24" alt="Avatar of Y0h4n3s"> Y0h4n3s
@@ -11584,7 +11597,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/zenget">
 				<img src="https://avatars.githubusercontent.com/u/16884068?s=72&u=15c976be37287257d5bb9125d10e6a0b1f4481b8&v=4" width="24" alt="Avatar of zenget"> zenget
@@ -11597,7 +11610,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/natitedros">
 				<img src="https://avatars.githubusercontent.com/u/86560822?s=72&u=d3951624c884180e87c805ad1a783c4f7867aa00&v=4" width="24" alt="Avatar of natitedros"> natitedros
@@ -11610,7 +11623,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/Jo2831">
 				<img src="https://avatars.githubusercontent.com/u/90330224?s=72&u=cb8c835e268ef868ccaa9198732b516fb0dc95a6&v=4" width="24" alt="Avatar of Jo2831"> Jo2831
@@ -11623,7 +11636,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/LeeCrey">
 				<img src="https://avatars.githubusercontent.com/u/87988868?s=72&u=0081d43356fb092f6166d36751e7599fc2a35541&v=4" width="24" alt="Avatar of LeeCrey"> LeeCrey
@@ -11636,7 +11649,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/ermidebebe">
 				<img src="https://avatars.githubusercontent.com/u/29176640?s=72&u=4fd7f7a1eb6e87e5b2ca498561f61b4f7652e68f&v=4" width="24" alt="Avatar of ermidebebe"> ermidebebe
@@ -11649,7 +11662,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/bereketnyb">
 				<img src="https://avatars.githubusercontent.com/u/19362821?s=72&u=537f9903faf19ed5abd6928eaa710766130a8d21&v=4" width="24" alt="Avatar of bereketnyb"> bereketnyb
@@ -11662,7 +11675,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/Emmanuel130">
 				<img src="https://avatars.githubusercontent.com/u/85768416?s=72&u=d948f8fb3eb785339bf1b4f49ac0712f002e9633&v=4" width="24" alt="Avatar of Emmanuel130"> Emmanuel130
@@ -11675,7 +11688,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/ayuleul">
 				<img src="https://avatars.githubusercontent.com/u/36878262?s=72&u=c4567a459951288a53c1299f156ad638cf5c2508&v=4" width="24" alt="Avatar of ayuleul"> ayuleul
@@ -11688,7 +11701,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/abdj123">
 				<img src="https://avatars.githubusercontent.com/u/84785093?s=72&u=3339a03cc0018ee1d95022c9f44d11eae5262f59&v=4" width="24" alt="Avatar of abdj123"> abdj123
@@ -11701,7 +11714,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>894</td>
 		<td>
 			<a href="https://github.com/MarufAbrar">
 				<img src="https://avatars.githubusercontent.com/u/76269526?s=72&u=9b657f9cb17111ab88338990e9811b1532e24f5d&v=4" width="24" alt="Avatar of MarufAbrar"> MarufAbrar
@@ -11714,7 +11727,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/HopeAnani">
 				<img src="https://avatars.githubusercontent.com/u/94631710?s=72&u=809bb3ac3dbd57303f8af70af00fb1970170afa3&v=4" width="24" alt="Avatar of HopeAnani"> HopeAnani
@@ -11727,7 +11740,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/Cyb-0rg">
 				<img src="https://avatars.githubusercontent.com/u/50844224?s=72&u=6bfd6b1f1d9395e0a3314d1b6cb747e80e684d6a&v=4" width="24" alt="Avatar of Cyb-0rg"> Cyb-0rg
@@ -11740,7 +11753,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/dagmawilencho">
 				<img src="https://avatars.githubusercontent.com/u/86290412?s=72&u=c89f79c294ed6a56b3fe4aafcaa7913f2809d269&v=4" width="24" alt="Avatar of dagmawilencho"> dagmawilencho
@@ -11753,7 +11766,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/jabezX">
 				<img src="https://avatars.githubusercontent.com/u/27831305?s=72&u=26099585e9740941d17a4b0aeba2f5ef3a41e553&v=4" width="24" alt="Avatar of jabezX"> jabezX
@@ -11766,7 +11779,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>898</td>
+		<td>899</td>
 		<td>
 			<a href="https://github.com/EyasuTew">
 				<img src="https://avatars.githubusercontent.com/u/48589037?s=72&u=2d980e4f915798f1b38c39129d51f48143694065&v=4" width="24" alt="Avatar of EyasuTew"> EyasuTew
@@ -11779,7 +11792,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>899</td>
+		<td>900</td>
 		<td>
 			<a href="https://github.com/haileamlakwalelige">
 				<img src="https://avatars.githubusercontent.com/u/120473611?s=72&u=b584ac55ddfb614acc51333f944b3260c953a554&v=4" width="24" alt="Avatar of haileamlakwalelige"> haileamlakwalelige
@@ -11792,7 +11805,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>900</td>
+		<td>901</td>
 		<td>
 			<a href="https://github.com/semirgoldu">
 				<img src="https://avatars.githubusercontent.com/u/33096380?s=72&u=cafcada01b51a8dc4dfd42722da3c43562996392&v=4" width="24" alt="Avatar of semirgoldu"> semirgoldu
@@ -11805,7 +11818,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/sallah26">
 				<img src="https://avatars.githubusercontent.com/u/120811433?s=72&u=e41752b5c9ff719e3da2e37ececf219ffe672b2f&v=4" width="24" alt="Avatar of sallah26"> sallah26
@@ -11818,7 +11831,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/mekonnen070">
 				<img src="https://avatars.githubusercontent.com/u/75736882?s=72&u=ab2c627e2d653282e20ede691cd93aeeafefc675&v=4" width="24" alt="Avatar of mekonnen070"> mekonnen070
@@ -11831,7 +11844,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/maxi1571">
 				<img src="https://avatars.githubusercontent.com/u/42535161?s=72&u=5ea66f0f11b07e3b11729ca10dae94af34c72624&v=4" width="24" alt="Avatar of maxi1571"> maxi1571
@@ -11841,19 +11854,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa Ethiopia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>904</td>
-		<td>
-			<a href="https://github.com/thtnaw123">
-				<img src="https://avatars.githubusercontent.com/u/82867189?s=72&u=68f06db14fcea321b38d54acd592139502d6f756&v=4" width="24" alt="Avatar of thtnaw123"> thtnaw123
-			</a><br/>
-			Tihitinaw Buzuwerk
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Adama Ethiopia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -12028,19 +12028,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>918</td>
 		<td>
-			<a href="https://github.com/kidus7">
-				<img src="https://avatars.githubusercontent.com/u/44863766?s=72&u=8f181e5d8206b972e7482e34149425c5c57c3738&v=4" width="24" alt="Avatar of kidus7"> kidus7
-			</a><br/>
-			No Name
-		</td>
-		<td>Belcash </td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>919</td>
-		<td>
 			<a href="https://github.com/adamdebalke">
 				<img src="https://avatars.githubusercontent.com/u/37434477?s=72&u=e86e76cb9261408053ea4e3d50523c53f4a097b5&v=4" width="24" alt="Avatar of adamdebalke"> adamdebalke
 			</a><br/>
@@ -12052,7 +12039,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/Yonas-L">
 				<img src="https://avatars.githubusercontent.com/u/77995193?s=72&u=836000092c32380468f316ce30c162a32632f1d4&v=4" width="24" alt="Avatar of Yonas-L"> Yonas-L
@@ -12065,7 +12052,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/fishmek">
 				<img src="https://avatars.githubusercontent.com/u/94395324?s=72&u=f63c5a2c7db2cfecb4640923bf558ece957b9547&v=4" width="24" alt="Avatar of fishmek"> fishmek
@@ -12075,6 +12062,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia </td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>921</td>
+		<td>
+			<a href="https://github.com/Aschu24">
+				<img src="https://avatars.githubusercontent.com/u/45848807?s=72&v=4" width="24" alt="Avatar of Aschu24"> Aschu24
+			</a><br/>
+			Aschalew Gashaw
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ethiopia</td>
 		<td>7</td>
 	</tr>
 	<tr>
@@ -12314,19 +12314,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>940</td>
 		<td>
-			<a href="https://github.com/b4ook">
-				<img src="https://avatars.githubusercontent.com/u/37173550?s=72&u=caca88f68ed81b6c1b852ff4080153b3cd0e9b97&v=4" width="24" alt="Avatar of b4ook"> b4ook
-			</a><br/>
-			Brook Teweldebirhan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>941</td>
-		<td>
 			<a href="https://github.com/minas528">
 				<img src="https://avatars.githubusercontent.com/u/54796851?s=72&u=45ad20cfd2bfa1f5ed2cc469ab7ef12640e53e9a&v=4" width="24" alt="Avatar of minas528"> minas528
 			</a><br/>
@@ -12338,7 +12325,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/hasan-suufi">
 				<img src="https://avatars.githubusercontent.com/u/17753822?s=72&v=4" width="24" alt="Avatar of hasan-suufi"> hasan-suufi
@@ -12351,7 +12338,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/Ethio-Cybrary">
 				<img src="https://avatars.githubusercontent.com/u/81092153?s=72&u=46d2442fb8cca811b39c0ae7bc58fea4bd777f1f&v=4" width="24" alt="Avatar of Ethio-Cybrary"> Ethio-Cybrary
@@ -12364,7 +12351,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/habenembaye">
 				<img src="https://avatars.githubusercontent.com/u/63453189?s=72&u=4bb4a02a499e8374bc75efd444fcaceae34779c8&v=4" width="24" alt="Avatar of habenembaye"> habenembaye
@@ -12377,7 +12364,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/selaman-tech">
 				<img src="https://avatars.githubusercontent.com/u/85936382?s=72&u=371ac11d4ca01f54c110868f9ce0e4800ab31b30&v=4" width="24" alt="Avatar of selaman-tech"> selaman-tech
@@ -12390,7 +12377,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/johnnyaby123">
 				<img src="https://avatars.githubusercontent.com/u/49340767?s=72&v=4" width="24" alt="Avatar of johnnyaby123"> johnnyaby123
@@ -12403,7 +12390,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/adilla2000">
 				<img src="https://avatars.githubusercontent.com/u/65468049?s=72&u=09809ab4b3497f0d3c9f491b0ee4a07245849bb0&v=4" width="24" alt="Avatar of adilla2000"> adilla2000
@@ -12416,7 +12403,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/henok-outlier">
 				<img src="https://avatars.githubusercontent.com/u/72997506?s=72&u=2ee9e463befed12b7e488640f622152556266076&v=4" width="24" alt="Avatar of henok-outlier"> henok-outlier
@@ -12429,7 +12416,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/annan-dejene">
 				<img src="https://avatars.githubusercontent.com/u/70013311?s=72&u=3d8f0691e33644cb2e2bbd7e7c0e79adcbd09e54&v=4" width="24" alt="Avatar of annan-dejene"> annan-dejene
@@ -12442,7 +12429,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/surajudge9">
 				<img src="https://avatars.githubusercontent.com/u/62710866?s=72&u=6ef5b58c9c530c09c58d90aaa1708e84f261722c&v=4" width="24" alt="Avatar of surajudge9"> surajudge9
@@ -12455,7 +12442,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/bonitaproudy">
 				<img src="https://avatars.githubusercontent.com/u/50440022?s=72&u=b708ad6db97f3ba0e3b4276f83816a1a54978427&v=4" width="24" alt="Avatar of bonitaproudy"> bonitaproudy
@@ -12468,7 +12455,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/yohannist">
 				<img src="https://avatars.githubusercontent.com/u/4235451?s=72&v=4" width="24" alt="Avatar of yohannist"> yohannist
@@ -12477,6 +12464,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Addis Ababa, Ethiopia</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>952</td>
+		<td>
+			<a href="https://github.com/Aronisha">
+				<img src="https://avatars.githubusercontent.com/u/58507947?s=72&u=3bd41ff121e8a44966129201e22e731ebf672d1e&v=4" width="24" alt="Avatar of Aronisha"> Aronisha
+			</a><br/>
+			Aronisha
+		</td>
+		<td>Fitawrari </td>
+		<td><a href="https://twitter.com/AronAsgedom">AronAsgedom</a></td>
 		<td>Addis Ababa, Ethiopia</td>
 		<td>7</td>
 	</tr>
@@ -12496,19 +12496,6 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 	<tr>
 		<td>954</td>
 		<td>
-			<a href="https://github.com/Aronisha">
-				<img src="https://avatars.githubusercontent.com/u/58507947?s=72&u=3bd41ff121e8a44966129201e22e731ebf672d1e&v=4" width="24" alt="Avatar of Aronisha"> Aronisha
-			</a><br/>
-			Aronisha
-		</td>
-		<td>Fitawrari </td>
-		<td><a href="https://twitter.com/AronAsgedom">AronAsgedom</a></td>
-		<td>Addis Ababa, Ethiopia</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>955</td>
-		<td>
 			<a href="https://github.com/RdH4CK3r-1">
 				<img src="https://avatars.githubusercontent.com/u/63897181?s=72&u=d633bc182e5a7b6ba4098c505afecc5c50711d91&v=4" width="24" alt="Avatar of RdH4CK3r-1"> RdH4CK3r-1
 			</a><br/>
@@ -12520,7 +12507,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/TewodrosAbebe">
 				<img src="https://avatars.githubusercontent.com/u/14141293?s=72&u=ff6fd7416ae2e5f2c33ee0caed1e9d68a417e41e&v=4" width="24" alt="Avatar of TewodrosAbebe"> TewodrosAbebe
@@ -12533,7 +12520,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/hasanmoha">
 				<img src="https://avatars.githubusercontent.com/u/16448819?s=72&u=c19053545963063736f6b3384c7b0580aca3415d&v=4" width="24" alt="Avatar of hasanmoha"> hasanmoha
@@ -12546,7 +12533,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/Newi-M">
 				<img src="https://avatars.githubusercontent.com/u/118599845?s=72&v=4" width="24" alt="Avatar of Newi-M"> Newi-M
@@ -12559,7 +12546,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/abudah">
 				<img src="https://avatars.githubusercontent.com/u/88454240?s=72&u=1526655823c7c1f48c33b705b64030a0ec9dd0bf&v=4" width="24" alt="Avatar of abudah"> abudah
@@ -12572,7 +12559,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>959</td>
 		<td>
 			<a href="https://github.com/Isa1asN">
 				<img src="https://avatars.githubusercontent.com/u/101455473?s=72&u=de97445f95f19ac62e94a06eadb9654f4e33de20&v=4" width="24" alt="Avatar of Isa1asN"> Isa1asN
@@ -12585,7 +12572,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>960</td>
 		<td>
 			<a href="https://github.com/abel-cosmic">
 				<img src="https://avatars.githubusercontent.com/u/119308986?s=72&u=ccb51e2601a1036921e2e9f135bd001e0a5428db&v=4" width="24" alt="Avatar of abel-cosmic"> abel-cosmic
@@ -12598,7 +12585,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/Surafels">
 				<img src="https://avatars.githubusercontent.com/u/122282739?s=72&v=4" width="24" alt="Avatar of Surafels"> Surafels
@@ -12611,7 +12598,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/mkdrmash">
 				<img src="https://avatars.githubusercontent.com/u/78023835?s=72&u=85c3e9265e7e3db16a96b45f45cdc9fba43615dd&v=4" width="24" alt="Avatar of mkdrmash"> mkdrmash
@@ -12624,7 +12611,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/YonAndualem">
 				<img src="https://avatars.githubusercontent.com/u/104837049?s=72&u=1777b7a37ed6168402b3a30cc585d88c461e0912&v=4" width="24" alt="Avatar of YonAndualem"> YonAndualem
@@ -12637,7 +12624,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/amestsantim">
 				<img src="https://avatars.githubusercontent.com/u/8392160?s=72&u=7e7ac47622cabd9ccf0925b724747ab536db6a96&v=4" width="24" alt="Avatar of amestsantim"> amestsantim
@@ -12650,7 +12637,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>966</td>
+		<td>965</td>
 		<td>
 			<a href="https://github.com/cyrmee">
 				<img src="https://avatars.githubusercontent.com/u/70317125?s=72&u=05d6cf2dc70bbac5018255a2d08103a5bdd75047&v=4" width="24" alt="Avatar of cyrmee"> cyrmee
@@ -12663,7 +12650,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>967</td>
+		<td>966</td>
 		<td>
 			<a href="https://github.com/thomaskagnew">
 				<img src="https://avatars.githubusercontent.com/u/11630116?s=72&v=4" width="24" alt="Avatar of thomaskagnew"> thomaskagnew
@@ -12676,7 +12663,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>968</td>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/Nathaniel-af">
 				<img src="https://avatars.githubusercontent.com/u/57708297?s=72&u=a1f6b7e0fc081387fb59d2155466e9c5af7d44b9&v=4" width="24" alt="Avatar of Nathaniel-af"> Nathaniel-af
@@ -12689,7 +12676,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>969</td>
+		<td>968</td>
 		<td>
 			<a href="https://github.com/salehadin">
 				<img src="https://avatars.githubusercontent.com/u/113613126?s=72&u=b53d264ddc9b1ac31fd5f530fe8d80b4778bbba7&v=4" width="24" alt="Avatar of salehadin"> salehadin
@@ -12702,7 +12689,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>970</td>
+		<td>969</td>
 		<td>
 			<a href="https://github.com/OliyadKebede">
 				<img src="https://avatars.githubusercontent.com/u/81267448?s=72&v=4" width="24" alt="Avatar of OliyadKebede"> OliyadKebede
@@ -12715,7 +12702,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>971</td>
+		<td>970</td>
 		<td>
 			<a href="https://github.com/Abelaa">
 				<img src="https://avatars.githubusercontent.com/u/19539105?s=72&u=aca316f74d30d3f5b67805818ed03c3ac67551b9&v=4" width="24" alt="Avatar of Abelaa"> Abelaa
@@ -12728,7 +12715,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>972</td>
+		<td>971</td>
 		<td>
 			<a href="https://github.com/abel12-tech">
 				<img src="https://avatars.githubusercontent.com/u/104461090?s=72&u=c913de897ce118b5fe9912e4f02291d1100aa1ab&v=4" width="24" alt="Avatar of abel12-tech"> abel12-tech
@@ -12741,7 +12728,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>973</td>
+		<td>972</td>
 		<td>
 			<a href="https://github.com/RiyadHassen">
 				<img src="https://avatars.githubusercontent.com/u/39335791?s=72&v=4" width="24" alt="Avatar of RiyadHassen"> RiyadHassen
@@ -12754,7 +12741,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>974</td>
+		<td>973</td>
 		<td>
 			<a href="https://github.com/mikiab12">
 				<img src="https://avatars.githubusercontent.com/u/20106273?s=72&v=4" width="24" alt="Avatar of mikiab12"> mikiab12
@@ -12767,7 +12754,7 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>975</td>
+		<td>974</td>
 		<td>
 			<a href="https://github.com/Kenna-Tefera">
 				<img src="https://avatars.githubusercontent.com/u/91588293?s=72&u=be4c2407a649d89c5006782597793adaa30a7b47&v=4" width="24" alt="Avatar of Kenna-Tefera"> Kenna-Tefera
@@ -12777,6 +12764,19 @@ There are `989 users`  in Ethiopia. You need at least `6 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Addis Ababa, Ethiopia</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>975</td>
+		<td>
+			<a href="https://github.com/GadisaT">
+				<img src="https://avatars.githubusercontent.com/u/99419629?s=72&u=de570398fdc4584c191279051621595dc7c2e821&v=4" width="24" alt="Avatar of GadisaT"> GadisaT
+			</a><br/>
+			Gadisa Tesfu
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/GadisaGuma1">GadisaGuma1</a></td>
+		<td>Addis Ababa</td>
 		<td>6</td>
 	</tr>
 	<tr>
