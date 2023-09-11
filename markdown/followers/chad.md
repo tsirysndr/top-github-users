@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/9/10 6:15 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/9/11 11:45 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -796,10 +796,10 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/XxEricgamerZxX">
-				<img src="https://avatars.githubusercontent.com/u/65401296?s=72&u=399ce05707c807320f550fe72db9d57bb9f6cb52&v=4" width="24" alt="Avatar of XxEricgamerZxX"> XxEricgamerZxX
+			<a href="https://github.com/Ghisdev">
+				<img src="https://avatars.githubusercontent.com/u/104063977?s=72&u=daed7adece3c00328a59b69f8a8d129c43c682b8&v=4" width="24" alt="Avatar of Ghisdev"> Ghisdev
 			</a><br/>
-			2pac
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -809,10 +809,10 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>55</td>
 		<td>
-			<a href="https://github.com/Ghisdev">
-				<img src="https://avatars.githubusercontent.com/u/104063977?s=72&u=daed7adece3c00328a59b69f8a8d129c43c682b8&v=4" width="24" alt="Avatar of Ghisdev"> Ghisdev
+			<a href="https://github.com/XxEricgamerZxX">
+				<img src="https://avatars.githubusercontent.com/u/65401296?s=72&u=399ce05707c807320f550fe72db9d57bb9f6cb52&v=4" width="24" alt="Avatar of XxEricgamerZxX"> XxEricgamerZxX
 			</a><br/>
-			No Name
+			2pac
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
