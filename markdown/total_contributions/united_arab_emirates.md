@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/9/11 7:23 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` and `private contributions` by users in United Arab Emirates on `2023/9/12 1:10 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>No Twitter Username</td>
 		<td>Dubai, United Arab Emirates</td>
 		<td>12</td>
-		<td>235</td>
+		<td>236</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -458,34 +458,6 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>26</td>
 		<td>
-			<a href="https://github.com/desersafari">
-				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
-			</a><br/>
-			Desert Safari UAE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sharjah, United Arab Emirates</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>
-			<a href="https://github.com/activejacksmith01">
-				<img src="https://avatars.githubusercontent.com/u/139433279?s=72&u=dfb7aa901fbc0a952f43df4767b4171799067483&v=4" width="24" alt="Avatar of activejacksmith01"> activejacksmith01
-			</a><br/>
-			Jobs in Dubai
-		</td>
-		<td>Great Dubai </td>
-		<td>No Twitter Username</td>
-		<td>Warehouse 59,Al Ghurair Warehouse complex , Al Quoz industrial 3 , DUBAI UAE</td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
 			<a href="https://github.com/desertsafardubai3185">
 				<img src="https://avatars.githubusercontent.com/u/120096922?s=72&v=4" width="24" alt="Avatar of desertsafardubai3185"> desertsafardubai3185
 			</a><br/>
@@ -498,7 +470,7 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/sagargusaiwal">
 				<img src="https://avatars.githubusercontent.com/u/127839845?s=72&u=947ec5b5ead0928854f2804e5af9077868d9d744&v=4" width="24" alt="Avatar of sagargusaiwal"> sagargusaiwal
@@ -508,6 +480,34 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@platinum007 </td>
 		<td>No Twitter Username</td>
 		<td> Office 74-2902 Marina Plaza, Dubai Marina, Dubai, UAE</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/desersafari">
+				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
+			</a><br/>
+			Desert Safari UAE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sharjah, United Arab Emirates</td>
+		<td>1</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a href="https://github.com/activejacksmith01">
+				<img src="https://avatars.githubusercontent.com/u/139433279?s=72&u=dfb7aa901fbc0a952f43df4767b4171799067483&v=4" width="24" alt="Avatar of activejacksmith01"> activejacksmith01
+			</a><br/>
+			Jobs in Dubai
+		</td>
+		<td>Great Dubai </td>
+		<td>No Twitter Username</td>
+		<td>Warehouse 59,Al Ghurair Warehouse complex , Al Quoz industrial 3 , DUBAI UAE</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
