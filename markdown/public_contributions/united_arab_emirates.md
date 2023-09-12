@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2023/9/12 1:10 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2023/9/12 7:09 PM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -406,32 +406,6 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/desertsafardubai3185">
-				<img src="https://avatars.githubusercontent.com/u/120096922?s=72&v=4" width="24" alt="Avatar of desertsafardubai3185"> desertsafardubai3185
-			</a><br/>
-			Best Desert Safari Deal
-		</td>
-		<td>Best Desert Safari Deal<br/></td>
-		<td>No Twitter Username</td>
-		<td>Golden Business Canter 5TH Floor - Office 510 - Airport Rd - Port Saeed - Dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/sagargusaiwal">
-				<img src="https://avatars.githubusercontent.com/u/127839845?s=72&u=947ec5b5ead0928854f2804e5af9077868d9d744&v=4" width="24" alt="Avatar of sagargusaiwal"> sagargusaiwal
-			</a><br/>
-			Platinum007
-		</td>
-		<td>@platinum007 </td>
-		<td>No Twitter Username</td>
-		<td> Office 74-2902 Marina Plaza, Dubai Marina, Dubai, UAE</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
 			<a href="https://github.com/desersafari">
 				<img src="https://avatars.githubusercontent.com/u/120648272?s=72&v=4" width="24" alt="Avatar of desersafari"> desersafari
 			</a><br/>
@@ -443,7 +417,7 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/activejacksmith01">
 				<img src="https://avatars.githubusercontent.com/u/139433279?s=72&u=dfb7aa901fbc0a952f43df4767b4171799067483&v=4" width="24" alt="Avatar of activejacksmith01"> activejacksmith01
@@ -453,6 +427,32 @@ There are `54 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Great Dubai </td>
 		<td>No Twitter Username</td>
 		<td>Warehouse 59,Al Ghurair Warehouse complex , Al Quoz industrial 3 , DUBAI UAE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
+			<a href="https://github.com/desertsafardubai3185">
+				<img src="https://avatars.githubusercontent.com/u/120096922?s=72&v=4" width="24" alt="Avatar of desertsafardubai3185"> desertsafardubai3185
+			</a><br/>
+			Best Desert Safari Deal
+		</td>
+		<td>Best Desert Safari Deal<br/></td>
+		<td>No Twitter Username</td>
+		<td>Golden Business Canter 5TH Floor - Office 510 - Airport Rd - Port Saeed - Dubai</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
+			<a href="https://github.com/sagargusaiwal">
+				<img src="https://avatars.githubusercontent.com/u/127839845?s=72&u=947ec5b5ead0928854f2804e5af9077868d9d744&v=4" width="24" alt="Avatar of sagargusaiwal"> sagargusaiwal
+			</a><br/>
+			Platinum007
+		</td>
+		<td>@platinum007 </td>
+		<td>No Twitter Username</td>
+		<td> Office 74-2902 Marina Plaza, Dubai Marina, Dubai, UAE</td>
 		<td>1</td>
 	</tr>
 </table>
