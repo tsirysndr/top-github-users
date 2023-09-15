@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg" alt="Bhutan">
 </a>
 
-The `number of followers` of users in Bhutan on `2023/9/14 10:05 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
+The `number of followers` of users in Bhutan on `2023/9/15 4:06 AM UTC`. This list contains users from `Bhutan` and cities `Thimphu` `Phuntsholing` `Phuntsholing` `Gelephu`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -172,19 +172,6 @@ There are `488 users`  in Bhutan. You need at least `0 followers` to be on this 
 	<tr>
 		<td>6</td>
 		<td>
-			<a href="https://github.com/akash-singh8">
-				<img src="https://avatars.githubusercontent.com/u/85285176?s=72&u=6eff8d451c58980420e929eb51806e44e520f342&v=4" width="24" alt="Avatar of akash-singh8"> akash-singh8
-			</a><br/>
-			Akash Singh
-		</td>
-		<td>@recode-inc  </td>
-		<td><a href="https://twitter.com/akash_singh71">akash_singh71</a></td>
-		<td>Bhutan</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>
 			<a href="https://github.com/lit-poks">
 				<img src="https://avatars.githubusercontent.com/u/54302165?s=72&u=b30333407b823a74e547db85034163bd4fc38f8b&v=4" width="24" alt="Avatar of lit-poks"> lit-poks
 			</a><br/>
@@ -193,6 +180,19 @@ There are `488 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Selise Bhutan </td>
 		<td>No Twitter Username</td>
 		<td>Thimphu, Bhutan</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>
+			<a href="https://github.com/akash-singh8">
+				<img src="https://avatars.githubusercontent.com/u/85285176?s=72&u=6eff8d451c58980420e929eb51806e44e520f342&v=4" width="24" alt="Avatar of akash-singh8"> akash-singh8
+			</a><br/>
+			Akash Singh
+		</td>
+		<td>@recode-inc  </td>
+		<td><a href="https://twitter.com/akash_singh71">akash_singh71</a></td>
+		<td>Bhutan</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -258,7 +258,7 @@ There are `488 users`  in Bhutan. You need at least `0 followers` to be on this 
 		<td>Remo Digital </td>
 		<td>No Twitter Username</td>
 		<td>Thimphu</td>
-		<td>20</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>13</td>
