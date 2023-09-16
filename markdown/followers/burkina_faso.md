@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `number of followers` of users in Burkina Faso on `2023/9/15 10:30 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2023/9/16 3:50 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -146,19 +146,6 @@ There are `292 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>4</td>
 		<td>
-			<a href="https://github.com/faso-dev">
-				<img src="https://avatars.githubusercontent.com/u/40303326?s=72&u=9fd04755de2e54c0a57139591ffec4c603684aea&v=4" width="24" alt="Avatar of faso-dev"> faso-dev
-			</a><br/>
-			Clovis S.J Onadja
-		</td>
-		<td>Declic Africa </td>
-		<td><a href="https://twitter.com/fasodev">fasodev</a></td>
-		<td>Burkina-Faso,Ouagadougou</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>
 			<a href="https://github.com/Kidchris">
 				<img src="https://avatars.githubusercontent.com/u/71444843?s=72&u=28ceaebae4261263883e88ffedfae6961348577f&v=4" width="24" alt="Avatar of Kidchris"> Kidchris
 			</a><br/>
@@ -168,6 +155,19 @@ There are `292 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/KidChris7">KidChris7</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
 		<td>69</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>
+			<a href="https://github.com/faso-dev">
+				<img src="https://avatars.githubusercontent.com/u/40303326?s=72&u=9fd04755de2e54c0a57139591ffec4c603684aea&v=4" width="24" alt="Avatar of faso-dev"> faso-dev
+			</a><br/>
+			Clovis S.J Onadja
+		</td>
+		<td>Declic Africa </td>
+		<td><a href="https://twitter.com/fasodev">fasodev</a></td>
+		<td>Burkina-Faso,Ouagadougou</td>
+		<td>68</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -1433,19 +1433,6 @@ There are `292 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/DDTIC">
-				<img src="https://avatars.githubusercontent.com/u/63461357?s=72&v=4" width="24" alt="Avatar of DDTIC"> DDTIC
-			</a><br/>
-			Saïdou OUEDRAOGO
-		</td>
-		<td>Campudfaso </td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
 			<a href="https://github.com/ousmanetomota">
 				<img src="https://avatars.githubusercontent.com/u/18310041?s=72&u=20e2a4c1825098b43aee160b34bdf9611f7bd3a6&v=4" width="24" alt="Avatar of ousmanetomota"> ousmanetomota
 			</a><br/>
@@ -1454,6 +1441,19 @@ There are `292 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Techlab Burkina </td>
 		<td><a href="https://twitter.com/Techlab_Africa">Techlab_Africa</a></td>
 		<td>Kalgodin - Ouagadougou</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/DDTIC">
+				<img src="https://avatars.githubusercontent.com/u/63461357?s=72&v=4" width="24" alt="Avatar of DDTIC"> DDTIC
+			</a><br/>
+			Saïdou OUEDRAOGO
+		</td>
+		<td>Campudfaso </td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou</td>
 		<td>1</td>
 	</tr>
 	<tr>
