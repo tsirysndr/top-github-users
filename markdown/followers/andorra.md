@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/9/24 12:17 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/9/24 5:32 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `302 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
-		<td>206</td>
+		<td>207</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1707,7 +1707,7 @@ There are `302 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>124</td>
 		<td>
 			<a href="https://github.com/GRKdev">
-				<img src="https://avatars.githubusercontent.com/u/119631611?s=72&u=c05206613850ab034872540cd2c5ad080ceed8f1&v=4" width="24" alt="Avatar of GRKdev"> GRKdev
+				<img src="https://avatars.githubusercontent.com/u/119631611?s=72&u=600e19284a206d293cd5b84da0ec4e1399b7d024&v=4" width="24" alt="Avatar of GRKdev"> GRKdev
 			</a><br/>
 			G.R.K.
 		</td>
