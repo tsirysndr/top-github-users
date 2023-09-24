@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg" alt="Georgia">
 </a>
 
-The `public contributions` and `private contributions` by users in Georgia on `2023/9/23 12:06 PM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
+The `public contributions` and `private contributions` by users in Georgia on `2023/9/24 5:34 AM UTC`. This list contains users from `Georgia` and cities `Tbilisi` `Batumi` `Kutaisi` `Rustavi`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -116,8 +116,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/flotwig">flotwig</a></td>
 		<td>Atlanta, Georgia, USA</td>
-		<td>12656</td>
-		<td>12696</td>
+		<td>12692</td>
+		<td>12732</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
 		<td>70</td>
-		<td>11277</td>
+		<td>11279</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>georgia, rustavi</td>
 		<td>31</td>
-		<td>5615</td>
+		<td>5618</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi</td>
 		<td>4033</td>
-		<td>4452</td>
+		<td>4455</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/accimeesterlin">accimeesterlin</a></td>
 		<td>Atlanta, Georgia</td>
 		<td>16</td>
-		<td>4197</td>
+		<td>4200</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -200,8 +200,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/RandomPersonSB">RandomPersonSB</a></td>
 		<td>Georgia, United States</td>
-		<td>3839</td>
-		<td>3946</td>
+		<td>3852</td>
+		<td>3959</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -228,8 +228,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>@rstudio </td>
 		<td><a href="https://twitter.com/grrrck">grrrck</a></td>
 		<td>Atlanta-ish, Georgia</td>
-		<td>2155</td>
-		<td>3597</td>
+		<td>2156</td>
+		<td>3598</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -256,8 +256,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kalashnikovisme">kalashnikovisme</a></td>
 		<td>Batumi</td>
-		<td>1717</td>
-		<td>3416</td>
+		<td>1719</td>
+		<td>3418</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -270,8 +270,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>2424</td>
-		<td>3317</td>
+		<td>2426</td>
+		<td>3319</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -285,7 +285,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
 		<td>170</td>
-		<td>3264</td>
+		<td>3269</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -299,7 +299,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/echelon">echelon</a></td>
 		<td>Atlanta, Georgia, US</td>
 		<td>42</td>
-		<td>3192</td>
+		<td>3193</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -313,7 +313,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Augusta, Georgia</td>
 		<td>693</td>
-		<td>3051</td>
+		<td>3053</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -340,8 +340,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>@georgiatech @tri-ml @gt-ripl </td>
 		<td><a href="https://twitter.com/mzubairirshad">mzubairirshad</a></td>
 		<td>Atlanta, Georgia</td>
-		<td>327</td>
-		<td>2935</td>
+		<td>329</td>
+		<td>2937</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -368,8 +368,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>1270</td>
-		<td>2782</td>
+		<td>1271</td>
+		<td>2784</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -383,7 +383,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
 		<td>766</td>
-		<td>2774</td>
+		<td>2778</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -411,7 +411,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
 		<td>221</td>
-		<td>2696</td>
+		<td>2727</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -480,8 +480,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Ferretdb </td>
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
-		<td>2411</td>
-		<td>2415</td>
+		<td>2413</td>
+		<td>2417</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -564,8 +564,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>@makestartups </td>
 		<td><a href="https://twitter.com/blister">blister</a></td>
 		<td>Georgia</td>
-		<td>818</td>
-		<td>2103</td>
+		<td>829</td>
+		<td>2115</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -649,7 +649,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia, Tbilisi</td>
 		<td>667</td>
-		<td>1918</td>
+		<td>1919</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -662,8 +662,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Ginials Development </td>
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
-		<td>1898</td>
-		<td>1898</td>
+		<td>1902</td>
+		<td>1902</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -677,10 +677,24 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/varagrawal">varagrawal</a></td>
 		<td>Atlanta, Georgia</td>
 		<td>1200</td>
-		<td>1878</td>
+		<td>1888</td>
 	</tr>
 	<tr>
 		<td>42</td>
+		<td>
+			<a href="https://github.com/n7olkachev">
+				<img src="https://avatars.githubusercontent.com/u/3993345?s=72&u=37915f3218b1457a5ff83448a14de25200f7bca8&v=4" width="24" alt="Avatar of n7olkachev"> n7olkachev
+			</a><br/>
+			Nikita Tolkachev
+		</td>
+		<td>@buildwithtoki </td>
+		<td><a href="https://twitter.com/n7olkachev">n7olkachev</a></td>
+		<td>Georgia, Batumi</td>
+		<td>14</td>
+		<td>1851</td>
+	</tr>
+	<tr>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/ssbb">
 				<img src="https://avatars.githubusercontent.com/u/3309586?s=72&u=41acc5095b83bc0974099dcc2a878c0eb861ae63&v=4" width="24" alt="Avatar of ssbb"> ssbb
@@ -694,20 +708,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1849</td>
 	</tr>
 	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/n7olkachev">
-				<img src="https://avatars.githubusercontent.com/u/3993345?s=72&u=37915f3218b1457a5ff83448a14de25200f7bca8&v=4" width="24" alt="Avatar of n7olkachev"> n7olkachev
-			</a><br/>
-			Nikita Tolkachev
-		</td>
-		<td>@buildwithtoki </td>
-		<td><a href="https://twitter.com/n7olkachev">n7olkachev</a></td>
-		<td>Georgia, Batumi</td>
-		<td>14</td>
-		<td>1848</td>
-	</tr>
-	<tr>
 		<td>44</td>
 		<td>
 			<a href="https://github.com/playerx">
@@ -718,8 +718,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Jok Entertainers Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>210</td>
-		<td>1797</td>
+		<td>222</td>
+		<td>1809</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -733,7 +733,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
 		<td>1103</td>
-		<td>1776</td>
+		<td>1770</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -746,8 +746,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/pgurtovaya">pgurtovaya</a></td>
 		<td>Tbilisi</td>
-		<td>396</td>
-		<td>1756</td>
+		<td>398</td>
+		<td>1758</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -774,8 +774,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Georgia, United States</td>
-		<td>1720</td>
-		<td>1731</td>
+		<td>1722</td>
+		<td>1733</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -788,8 +788,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>@epoch8  </td>
 		<td><a href="https://twitter.com/elephantum">elephantum</a></td>
 		<td>Tbilisi, Georgia</td>
-		<td>574</td>
-		<td>1720</td>
+		<td>575</td>
+		<td>1722</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -808,6 +808,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>51</td>
 		<td>
+			<a href="https://github.com/Maksimka101">
+				<img src="https://avatars.githubusercontent.com/u/35934153?s=72&u=a5375a5462f5a357a6b6c4d1a5ababad43e1daeb&v=4" width="24" alt="Avatar of Maksimka101"> Maksimka101
+			</a><br/>
+			Zemlaynikin Max
+		</td>
+		<td>Flutter Developer At Gauss<br/>Money<br/></td>
+		<td><a href="https://twitter.com/Maksimka1012">Maksimka1012</a></td>
+		<td>Georgia</td>
+		<td>205</td>
+		<td>1685</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
 			<a href="https://github.com/titusjaka">
 				<img src="https://avatars.githubusercontent.com/u/5277948?s=72&u=784515fda5ba2358fdc0b67ab9f654a70d4a426b&v=4" width="24" alt="Avatar of titusjaka"> titusjaka
 			</a><br/>
@@ -820,20 +834,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1675</td>
 	</tr>
 	<tr>
-		<td>52</td>
-		<td>
-			<a href="https://github.com/Maksimka101">
-				<img src="https://avatars.githubusercontent.com/u/35934153?s=72&u=a5375a5462f5a357a6b6c4d1a5ababad43e1daeb&v=4" width="24" alt="Avatar of Maksimka101"> Maksimka101
-			</a><br/>
-			Zemlaynikin Max
-		</td>
-		<td>Flutter Developer At Gauss<br/>Money<br/></td>
-		<td><a href="https://twitter.com/Maksimka1012">Maksimka1012</a></td>
-		<td>Georgia</td>
-		<td>205</td>
-		<td>1674</td>
-	</tr>
-	<tr>
 		<td>53</td>
 		<td>
 			<a href="https://github.com/sandydoo">
@@ -844,8 +844,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>@cachix </td>
 		<td><a href="https://twitter.com/sandy_doo">sandy_doo</a></td>
 		<td>Tbilisi</td>
-		<td>860</td>
-		<td>1650</td>
+		<td>861</td>
+		<td>1651</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -929,7 +929,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/bestK1ngArthur">bestK1ngArthur</a></td>
 		<td>Tbilisi, Georgia</td>
 		<td>12</td>
-		<td>1545</td>
+		<td>1551</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -943,10 +943,24 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/g_giunashvili">g_giunashvili</a></td>
 		<td>Georgia, Tbilisi</td>
 		<td>244</td>
-		<td>1545</td>
+		<td>1547</td>
 	</tr>
 	<tr>
 		<td>61</td>
+		<td>
+			<a href="https://github.com/KiK0S">
+				<img src="https://avatars.githubusercontent.com/u/20306967?s=72&u=2bb3d15ff97c9f4cb25ac5a0c829b779e57e0d2c&v=4" width="24" alt="Avatar of KiK0S"> KiK0S
+			</a><br/>
+			Konstantin Amelichev
+		</td>
+		<td>@mynalabsai  </td>
+		<td>No Twitter Username</td>
+		<td>Tbilisi, Georgia</td>
+		<td>313</td>
+		<td>1532</td>
+	</tr>
+	<tr>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/DenDos">
 				<img src="https://avatars.githubusercontent.com/u/12713564?s=72&u=002b881e9ca768d6194f6f206c33e3a99cec5b5c&v=4" width="24" alt="Avatar of DenDos"> DenDos
@@ -960,21 +974,21 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1532</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>63</td>
 		<td>
-			<a href="https://github.com/KiK0S">
-				<img src="https://avatars.githubusercontent.com/u/20306967?s=72&u=2bb3d15ff97c9f4cb25ac5a0c829b779e57e0d2c&v=4" width="24" alt="Avatar of KiK0S"> KiK0S
+			<a href="https://github.com/Azgaar">
+				<img src="https://avatars.githubusercontent.com/u/26469650?s=72&u=9691bf34ce66f151e9900586c14fec80a7de55cf&v=4" width="24" alt="Avatar of Azgaar"> Azgaar
 			</a><br/>
-			Konstantin Amelichev
+			No Name
 		</td>
-		<td>@mynalabsai  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Tbilisi, Georgia</td>
-		<td>312</td>
-		<td>1530</td>
+		<td>Georgia</td>
+		<td>730</td>
+		<td>1525</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/radist2s">
 				<img src="https://avatars.githubusercontent.com/u/725645?s=72&u=8078f98d88506b110ae9c102aeda61d10dd45e13&v=4" width="24" alt="Avatar of radist2s"> radist2s
@@ -986,20 +1000,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Georgia, Tbilisi</td>
 		<td>277</td>
 		<td>1525</td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/Azgaar">
-				<img src="https://avatars.githubusercontent.com/u/26469650?s=72&u=9691bf34ce66f151e9900586c14fec80a7de55cf&v=4" width="24" alt="Avatar of Azgaar"> Azgaar
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Georgia</td>
-		<td>728</td>
-		<td>1523</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -1041,7 +1041,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/davidshq">davidshq</a></td>
 		<td>Georgia</td>
 		<td>641</td>
-		<td>1496</td>
+		<td>1497</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1082,8 +1082,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Winterbloom </td>
 		<td><a href="https://twitter.com/theavalkyrie">theavalkyrie</a></td>
 		<td>Atlanta, Georgia</td>
-		<td>1369</td>
-		<td>1482</td>
+		<td>1370</td>
+		<td>1483</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1130,6 +1130,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>74</td>
 		<td>
+			<a href="https://github.com/batumibiz">
+				<img src="https://avatars.githubusercontent.com/u/10770779?s=72&u=666e8946ad2012429bc09b32560bc3aaef1b6e85&v=4" width="24" alt="Avatar of batumibiz"> batumibiz
+			</a><br/>
+			Oleg Kasyanov
+		</td>
+		<td>@mobicms @johncms </td>
+		<td><a href="https://twitter.com/mobicms">mobicms</a></td>
+		<td>Batumi, Georgia</td>
+		<td>191</td>
+		<td>1441</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td>
 			<a href="https://github.com/adityaxdiwakar">
 				<img src="https://avatars.githubusercontent.com/u/26584786?s=72&u=6d08afb0b3639b1b7760e145b202a451dbb296e9&v=4" width="24" alt="Avatar of adityaxdiwakar"> adityaxdiwakar
 			</a><br/>
@@ -1140,20 +1154,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Atlanta, Georgia</td>
 		<td>216</td>
 		<td>1438</td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>
-			<a href="https://github.com/batumibiz">
-				<img src="https://avatars.githubusercontent.com/u/10770779?s=72&u=666e8946ad2012429bc09b32560bc3aaef1b6e85&v=4" width="24" alt="Avatar of batumibiz"> batumibiz
-			</a><br/>
-			Oleg Kasyanov
-		</td>
-		<td>@mobicms @johncms </td>
-		<td><a href="https://twitter.com/mobicms">mobicms</a></td>
-		<td>Batumi, Georgia</td>
-		<td>190</td>
-		<td>1437</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1181,7 +1181,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/kiryssha">kiryssha</a></td>
 		<td>Tbilisi</td>
 		<td>12</td>
-		<td>1395</td>
+		<td>1405</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1242,6 +1242,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>82</td>
 		<td>
+			<a href="https://github.com/interisti">
+				<img src="https://avatars.githubusercontent.com/u/4171351?s=72&u=810b402b39459f8bad13a7b040e386d75df24c69&v=4" width="24" alt="Avatar of interisti"> interisti
+			</a><br/>
+			Nikoloz Nikabadze
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nika_interisti">nika_interisti</a></td>
+		<td>Kutaisi, Georgia</td>
+		<td>0</td>
+		<td>1380</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
 			<a href="https://github.com/vpavlenko">
 				<img src="https://avatars.githubusercontent.com/u/1491908?s=72&u=5899914ab5ff2965df03b2b10fce5b977c5ea718&v=4" width="24" alt="Avatar of vpavlenko"> vpavlenko
 			</a><br/>
@@ -1254,35 +1268,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1379</td>
 	</tr>
 	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/interisti">
-				<img src="https://avatars.githubusercontent.com/u/4171351?s=72&u=810b402b39459f8bad13a7b040e386d75df24c69&v=4" width="24" alt="Avatar of interisti"> interisti
-			</a><br/>
-			Nikoloz Nikabadze
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nika_interisti">nika_interisti</a></td>
-		<td>Kutaisi, Georgia</td>
-		<td>0</td>
-		<td>1367</td>
-	</tr>
-	<tr>
 		<td>84</td>
-		<td>
-			<a href="https://github.com/nikanoza">
-				<img src="https://avatars.githubusercontent.com/u/81360200?s=72&u=0a264c477226cd4ede129e840f2570ec621d76f9&v=4" width="24" alt="Avatar of nikanoza"> nikanoza
-			</a><br/>
-			Nika Nozadze
-		</td>
-		<td>Bitcamp </td>
-		<td>No Twitter Username</td>
-		<td>Rustavi, georgia</td>
-		<td>1361</td>
-		<td>1361</td>
-	</tr>
-	<tr>
-		<td>85</td>
 		<td>
 			<a href="https://github.com/Mamaduka">
 				<img src="https://avatars.githubusercontent.com/u/240569?s=72&v=4" width="24" alt="Avatar of Mamaduka"> Mamaduka
@@ -1296,7 +1282,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1353</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/cubedhuang">
 				<img src="https://avatars.githubusercontent.com/u/27079662?s=72&u=0a7ef3494cb0885ffd2cfcc741a42d407e184348&v=4" width="24" alt="Avatar of cubedhuang"> cubedhuang
@@ -1306,8 +1292,22 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>@korahq  </td>
 		<td><a href="https://twitter.com/cubedhuang">cubedhuang</a></td>
 		<td>Atlanta, Georgia</td>
-		<td>673</td>
-		<td>1343</td>
+		<td>678</td>
+		<td>1348</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/nikanoza">
+				<img src="https://avatars.githubusercontent.com/u/81360200?s=72&u=0a264c477226cd4ede129e840f2570ec621d76f9&v=4" width="24" alt="Avatar of nikanoza"> nikanoza
+			</a><br/>
+			Nika Nozadze
+		</td>
+		<td>Bitcamp </td>
+		<td>No Twitter Username</td>
+		<td>Rustavi, georgia</td>
+		<td>1339</td>
+		<td>1339</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1391,7 +1391,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
 		<td>80</td>
-		<td>1257</td>
+		<td>1258</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1452,20 +1452,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>97</td>
 		<td>
-			<a href="https://github.com/gsanikidze">
-				<img src="https://avatars.githubusercontent.com/u/15326244?s=72&u=0caaa5d282fdb9c44a715236d96c3a2819a22287&v=4" width="24" alt="Avatar of gsanikidze"> gsanikidze
-			</a><br/>
-			Guram Sanikidze
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tbilisi, Georgia</td>
-		<td>20</td>
-		<td>1221</td>
-	</tr>
-	<tr>
-		<td>98</td>
-		<td>
 			<a href="https://github.com/IrakliJani">
 				<img src="https://avatars.githubusercontent.com/u/962095?s=72&u=8d750edbb0be50f7c6bc480de07c07ddda1648c0&v=4" width="24" alt="Avatar of IrakliJani"> IrakliJani
 			</a><br/>
@@ -1478,7 +1464,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1215</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/kgrubb">
 				<img src="https://avatars.githubusercontent.com/u/8471701?s=72&v=4" width="24" alt="Avatar of kgrubb"> kgrubb
@@ -1492,7 +1478,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1215</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/haxscramper">
 				<img src="https://avatars.githubusercontent.com/u/20562256?s=72&u=3ccc57c95b4b99a15451053c91de780a6ee9acb5&v=4" width="24" alt="Avatar of haxscramper"> haxscramper
@@ -1506,7 +1492,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1211</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/FrozenAlex">
 				<img src="https://avatars.githubusercontent.com/u/8300099?s=72&u=7a8c2f6de770170a8645dd3868dacef7a4c245a7&v=4" width="24" alt="Avatar of FrozenAlex"> FrozenAlex
@@ -1517,10 +1503,10 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
 		<td>486</td>
-		<td>1205</td>
+		<td>1207</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/givip">
 				<img src="https://avatars.githubusercontent.com/u/14872445?s=72&u=34e69023333c31e8271dbe05b9821fd88994a7a3&v=4" width="24" alt="Avatar of givip"> givip
@@ -1531,7 +1517,21 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
 		<td>4</td>
-		<td>1193</td>
+		<td>1200</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/gsanikidze">
+				<img src="https://avatars.githubusercontent.com/u/15326244?s=72&u=0caaa5d282fdb9c44a715236d96c3a2819a22287&v=4" width="24" alt="Avatar of gsanikidze"> gsanikidze
+			</a><br/>
+			Guram Sanikidze
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tbilisi, Georgia</td>
+		<td>20</td>
+		<td>1194</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1572,8 +1572,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>None </td>
 		<td>No Twitter Username</td>
 		<td>ATL, Georgia</td>
-		<td>1169</td>
-		<td>1169</td>
+		<td>1170</td>
+		<td>1170</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1606,20 +1606,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>108</td>
 		<td>
-			<a href="https://github.com/JEuler">
-				<img src="https://avatars.githubusercontent.com/u/231950?s=72&u=2f74ed59b11b3d816659a550a9fc8c396a15d89e&v=4" width="24" alt="Avatar of JEuler"> JEuler
-			</a><br/>
-			Ivan Terekhin
-		</td>
-		<td>Clover Republic </td>
-		<td>No Twitter Username</td>
-		<td>Tbilisi, Georgia</td>
-		<td>145</td>
-		<td>1154</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
 			<a href="https://github.com/levaniakobidze">
 				<img src="https://avatars.githubusercontent.com/u/90929516?s=72&u=d9a1a2d1f480ff5604e4ccbc906cd04fc2cad851&v=4" width="24" alt="Avatar of levaniakobidze"> levaniakobidze
 			</a><br/>
@@ -1628,11 +1614,11 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
-		<td>529</td>
-		<td>1150</td>
+		<td>533</td>
+		<td>1154</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/gaurav274">
 				<img src="https://avatars.githubusercontent.com/u/12206234?s=72&u=e31d98df1aac98ed85b4d044c81283f39959d587&v=4" width="24" alt="Avatar of gaurav274"> gaurav274
@@ -1646,7 +1632,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1149</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/dudupopkhadze">
 				<img src="https://avatars.githubusercontent.com/u/48488310?s=72&u=d179643c10eb163c4defb6829073b9742a517d26&v=4" width="24" alt="Avatar of dudupopkhadze"> dudupopkhadze
@@ -1660,6 +1646,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1146</td>
 	</tr>
 	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/JEuler">
+				<img src="https://avatars.githubusercontent.com/u/231950?s=72&u=2f74ed59b11b3d816659a550a9fc8c396a15d89e&v=4" width="24" alt="Avatar of JEuler"> JEuler
+			</a><br/>
+			Ivan Terekhin
+		</td>
+		<td>Clover Republic </td>
+		<td>No Twitter Username</td>
+		<td>Tbilisi, Georgia</td>
+		<td>145</td>
+		<td>1139</td>
+	</tr>
+	<tr>
 		<td>112</td>
 		<td>
 			<a href="https://github.com/haganbmj">
@@ -1670,8 +1670,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Optimizely </td>
 		<td><a href="https://twitter.com/haganbmj">haganbmj</a></td>
 		<td>Georgia, United States</td>
-		<td>258</td>
-		<td>1123</td>
+		<td>270</td>
+		<td>1133</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -1690,6 +1690,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>114</td>
 		<td>
+			<a href="https://github.com/tinynumbers">
+				<img src="https://avatars.githubusercontent.com/u/1790173?s=72&v=4" width="24" alt="Avatar of tinynumbers"> tinynumbers
+			</a><br/>
+			David Daniell
+		</td>
+		<td>Тιηуηυмвєяѕ </td>
+		<td>No Twitter Username</td>
+		<td>Atlanta, Georgia, USA</td>
+		<td>1</td>
+		<td>1098</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
 			<a href="https://github.com/otarza">
 				<img src="https://avatars.githubusercontent.com/u/1330491?s=72&u=3423b8199331993057a9c8c19492c64af70ffff1&v=4" width="24" alt="Avatar of otarza"> otarza
 			</a><br/>
@@ -1698,11 +1712,11 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>@entando, @girchi </td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>191</td>
-		<td>1095</td>
+		<td>193</td>
+		<td>1097</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/melaanya">
 				<img src="https://avatars.githubusercontent.com/u/12052770?s=72&u=fa24e7565f7acfb04ac12e5f6d73451936e1b7ae&v=4" width="24" alt="Avatar of melaanya"> melaanya
@@ -1714,20 +1728,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Tbilisi, Georgia</td>
 		<td>18</td>
 		<td>1095</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/tinynumbers">
-				<img src="https://avatars.githubusercontent.com/u/1790173?s=72&v=4" width="24" alt="Avatar of tinynumbers"> tinynumbers
-			</a><br/>
-			David Daniell
-		</td>
-		<td>Тιηуηυмвєяѕ </td>
-		<td>No Twitter Username</td>
-		<td>Atlanta, Georgia, USA</td>
-		<td>1</td>
-		<td>1094</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1783,7 +1783,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
 		<td>19</td>
-		<td>1070</td>
+		<td>1076</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1872,6 +1872,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>127</td>
 		<td>
+			<a href="https://github.com/alexandrius">
+				<img src="https://avatars.githubusercontent.com/u/5978212?s=72&u=d503ea675d183703524cc469121cc67f64b56cd9&v=4" width="24" alt="Avatar of alexandrius"> alexandrius
+			</a><br/>
+			Alexander Pataridze
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/AlexAlexandrius">AlexAlexandrius</a></td>
+		<td>Tbilisi</td>
+		<td>65</td>
+		<td>1042</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
 			<a href="https://github.com/dgusakov">
 				<img src="https://avatars.githubusercontent.com/u/40051639?s=72&u=c9d1fc2b264c792820e42e22588e439da4ec004a&v=4" width="24" alt="Avatar of dgusakov"> dgusakov
 			</a><br/>
@@ -1884,7 +1898,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>1041</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/lukakldiashvili">
 				<img src="https://avatars.githubusercontent.com/u/42884387?s=72&u=40036ee27bb924bb1c13cb1621d6e92f761a2e21&v=4" width="24" alt="Avatar of lukakldiashvili"> lukakldiashvili
@@ -1896,20 +1910,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Tbilisi, Georgia</td>
 		<td>57</td>
 		<td>1035</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a href="https://github.com/alexandrius">
-				<img src="https://avatars.githubusercontent.com/u/5978212?s=72&u=d503ea675d183703524cc469121cc67f64b56cd9&v=4" width="24" alt="Avatar of alexandrius"> alexandrius
-			</a><br/>
-			Alexander Pataridze
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/AlexAlexandrius">AlexAlexandrius</a></td>
-		<td>Tbilisi</td>
-		<td>64</td>
-		<td>1033</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1956,6 +1956,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>133</td>
 		<td>
+			<a href="https://github.com/1doce8">
+				<img src="https://avatars.githubusercontent.com/u/53352476?s=72&u=29323a9143e9153744dddbc451e2e18f05358c56&v=4" width="24" alt="Avatar of 1doce8"> 1doce8
+			</a><br/>
+			Romanov Sergei
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Georgia</td>
+		<td>14</td>
+		<td>1018</td>
+	</tr>
+	<tr>
+		<td>134</td>
+		<td>
 			<a href="https://github.com/tornikegomareli">
 				<img src="https://avatars.githubusercontent.com/u/24585160?s=72&u=af18df78fd16e2629af62f3043a95d4dc9103909&v=4" width="24" alt="Avatar of tornikegomareli"> tornikegomareli
 			</a><br/>
@@ -1966,20 +1980,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Tbilisi</td>
 		<td>229</td>
 		<td>1009</td>
-	</tr>
-	<tr>
-		<td>134</td>
-		<td>
-			<a href="https://github.com/1doce8">
-				<img src="https://avatars.githubusercontent.com/u/53352476?s=72&u=29323a9143e9153744dddbc451e2e18f05358c56&v=4" width="24" alt="Avatar of 1doce8"> 1doce8
-			</a><br/>
-			Romanov Sergei
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Georgia</td>
-		<td>14</td>
-		<td>997</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -2119,10 +2119,24 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Batumi</td>
 		<td>15</td>
-		<td>950</td>
+		<td>951</td>
 	</tr>
 	<tr>
 		<td>145</td>
+		<td>
+			<a href="https://github.com/BeardedGinger">
+				<img src="https://avatars.githubusercontent.com/u/3269229?s=72&u=72c559c8a09bf2b975606c90c3c6dc07d6fccef1&v=4" width="24" alt="Avatar of BeardedGinger"> BeardedGinger
+			</a><br/>
+			Josh Mallard
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Georgia</td>
+		<td>0</td>
+		<td>939</td>
+	</tr>
+	<tr>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/tatocaster">
 				<img src="https://avatars.githubusercontent.com/u/5938893?s=72&v=4" width="24" alt="Avatar of tatocaster"> tatocaster
@@ -2136,35 +2150,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>937</td>
 	</tr>
 	<tr>
-		<td>146</td>
-		<td>
-			<a href="https://github.com/BeardedGinger">
-				<img src="https://avatars.githubusercontent.com/u/3269229?s=72&u=72c559c8a09bf2b975606c90c3c6dc07d6fccef1&v=4" width="24" alt="Avatar of BeardedGinger"> BeardedGinger
-			</a><br/>
-			Josh Mallard
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Georgia</td>
-		<td>0</td>
-		<td>937</td>
-	</tr>
-	<tr>
 		<td>147</td>
-		<td>
-			<a href="https://github.com/DeedleFake">
-				<img src="https://avatars.githubusercontent.com/u/326750?s=72&u=a4ace436b47ac141cdcf9ce10c4f3b7a6427bab1&v=4" width="24" alt="Avatar of DeedleFake"> DeedleFake
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Georgia</td>
-		<td>905</td>
-		<td>932</td>
-	</tr>
-	<tr>
-		<td>148</td>
 		<td>
 			<a href="https://github.com/nimashoghi">
 				<img src="https://avatars.githubusercontent.com/u/3728170?s=72&u=f434137e2d84353c4d42f5588ed87bdb75b96f0e&v=4" width="24" alt="Avatar of nimashoghi"> nimashoghi
@@ -2175,6 +2161,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Atlanta, Georgia</td>
 		<td>9</td>
+		<td>933</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/DeedleFake">
+				<img src="https://avatars.githubusercontent.com/u/326750?s=72&u=a4ace436b47ac141cdcf9ce10c4f3b7a6427bab1&v=4" width="24" alt="Avatar of DeedleFake"> DeedleFake
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Georgia</td>
+		<td>905</td>
 		<td>932</td>
 	</tr>
 	<tr>
@@ -2189,7 +2189,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi</td>
 		<td>11</td>
-		<td>919</td>
+		<td>921</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2314,8 +2314,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
-		<td>858</td>
-		<td>858</td>
+		<td>857</td>
+		<td>857</td>
 	</tr>
 	<tr>
 		<td>159</td>
@@ -2404,6 +2404,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/DDKatch">
+				<img src="https://avatars.githubusercontent.com/u/14095146?s=72&u=560e790c531c17df11abfa46f6ae1b3ad233f707&v=4" width="24" alt="Avatar of DDKatch"> DDKatch
+			</a><br/>
+			Daniil Kachur
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Georgia, Kutaisi</td>
+		<td>56</td>
+		<td>832</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/avaldivi">
 				<img src="https://avatars.githubusercontent.com/u/11307228?s=72&u=5f5fd9f7c1b477574da4aaedb33c89b23e2cfb30&v=4" width="24" alt="Avatar of avaldivi"> avaldivi
 			</a><br/>
@@ -2414,20 +2428,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Atlanta, Georgia</td>
 		<td>2</td>
 		<td>831</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/DDKatch">
-				<img src="https://avatars.githubusercontent.com/u/14095146?s=72&u=560e790c531c17df11abfa46f6ae1b3ad233f707&v=4" width="24" alt="Avatar of DDKatch"> DDKatch
-			</a><br/>
-			Daniil Kachur
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Georgia, Kutaisi</td>
-		<td>54</td>
-		<td>830</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2454,8 +2454,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
-		<td>820</td>
-		<td>820</td>
+		<td>822</td>
+		<td>822</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2516,6 +2516,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>173</td>
 		<td>
+			<a href="https://github.com/sergeycherepanov">
+				<img src="https://avatars.githubusercontent.com/u/963777?s=72&u=653210dea372b7f73159e86e0530c950998dd410&v=4" width="24" alt="Avatar of sergeycherepanov"> sergeycherepanov
+			</a><br/>
+			S.Cherepanov
+		</td>
+		<td>Ewave </td>
+		<td>No Twitter Username</td>
+		<td>Batumi, Georgia</td>
+		<td>231</td>
+		<td>808</td>
+	</tr>
+	<tr>
+		<td>174</td>
+		<td>
 			<a href="https://github.com/BrianGardnerAtl">
 				<img src="https://avatars.githubusercontent.com/u/226947?s=72&u=2546557bed9b58e6ae252766b43913f242e266de&v=4" width="24" alt="Avatar of BrianGardnerAtl"> BrianGardnerAtl
 			</a><br/>
@@ -2526,20 +2540,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Savannah, Georgia</td>
 		<td>19</td>
 		<td>807</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a href="https://github.com/sergeycherepanov">
-				<img src="https://avatars.githubusercontent.com/u/963777?s=72&u=653210dea372b7f73159e86e0530c950998dd410&v=4" width="24" alt="Avatar of sergeycherepanov"> sergeycherepanov
-			</a><br/>
-			S.Cherepanov
-		</td>
-		<td>Ewave </td>
-		<td>No Twitter Username</td>
-		<td>Batumi, Georgia</td>
-		<td>229</td>
-		<td>806</td>
 	</tr>
 	<tr>
 		<td>175</td>
@@ -2553,7 +2553,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia, Tbilisi</td>
 		<td>29</td>
-		<td>802</td>
+		<td>803</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -2567,7 +2567,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/luka_giorgadze">luka_giorgadze</a></td>
 		<td>Georgia, Tbilisi</td>
 		<td>123</td>
-		<td>791</td>
+		<td>800</td>
 	</tr>
 	<tr>
 		<td>177</td>
@@ -2595,7 +2595,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, GE</td>
 		<td>70</td>
-		<td>784</td>
+		<td>786</td>
 	</tr>
 	<tr>
 		<td>179</td>
@@ -2866,6 +2866,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>198</td>
 		<td>
+			<a href="https://github.com/noga-dev">
+				<img src="https://avatars.githubusercontent.com/u/2067558?s=72&u=37db10950b504a3870edc9fc3f3e8326a76aa0ca&v=4" width="24" alt="Avatar of noga-dev"> noga-dev
+			</a><br/>
+			Agon Noga
+		</td>
+		<td>Digital Nomad </td>
+		<td><a href="https://twitter.com/noga_dev">noga_dev</a></td>
+		<td>Tbilisi</td>
+		<td>90</td>
+		<td>698</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
 			<a href="https://github.com/MakarUrbanov">
 				<img src="https://avatars.githubusercontent.com/u/84675052?s=72&u=2a03a620aa32e716de1e54288f0c0e43a7ff9e98&v=4" width="24" alt="Avatar of MakarUrbanov"> MakarUrbanov
 			</a><br/>
@@ -2878,7 +2892,21 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>698</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
+		<td>
+			<a href="https://github.com/Lh4cKg">
+				<img src="https://avatars.githubusercontent.com/u/3719921?s=72&u=f5fe33e0408c7b3aa823ac0051429b5e2e0f733a&v=4" width="24" alt="Avatar of Lh4cKg"> Lh4cKg
+			</a><br/>
+			Lasha Gogua
+		</td>
+		<td>@logmind </td>
+		<td><a href="https://twitter.com/lh4ckg">lh4ckg</a></td>
+		<td>Tbilisi, Georgia</td>
+		<td>55</td>
+		<td>697</td>
+	</tr>
+	<tr>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/tmindiashvili1">
 				<img src="https://avatars.githubusercontent.com/u/33889365?s=72&u=5c9dcb22b9eacca8bf7fefd6e2fc91ed321c6778&v=4" width="24" alt="Avatar of tmindiashvili1"> tmindiashvili1
@@ -2892,21 +2920,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>697</td>
 	</tr>
 	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/noga-dev">
-				<img src="https://avatars.githubusercontent.com/u/2067558?s=72&u=37db10950b504a3870edc9fc3f3e8326a76aa0ca&v=4" width="24" alt="Avatar of noga-dev"> noga-dev
-			</a><br/>
-			Agon Noga
-		</td>
-		<td>Digital Nomad </td>
-		<td><a href="https://twitter.com/noga_dev">noga_dev</a></td>
-		<td>Tbilisi</td>
-		<td>90</td>
-		<td>695</td>
-	</tr>
-	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/frolovdev">
 				<img src="https://avatars.githubusercontent.com/u/30667180?s=72&u=81c3fc956f62cd94cfc0ab35c82ec6c847a454e5&v=4" width="24" alt="Avatar of frolovdev"> frolovdev
@@ -2920,7 +2934,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>691</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/curryrasul">
 				<img src="https://avatars.githubusercontent.com/u/47950960?s=72&u=ef969140fb9e2d06417725c9b091ece63e6346aa&v=4" width="24" alt="Avatar of curryrasul"> curryrasul
@@ -2930,11 +2944,11 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Privacy & Scaling Explorations<br/></td>
 		<td><a href="https://twitter.com/curryrasul">curryrasul</a></td>
 		<td>Georgia, Tbilisi</td>
-		<td>657</td>
-		<td>690</td>
+		<td>658</td>
+		<td>691</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/andrewallenbruce">
 				<img src="https://avatars.githubusercontent.com/u/89861642?s=72&u=8b0f95cb377ad179233029bc362fcbb2aac76780&v=4" width="24" alt="Avatar of andrewallenbruce"> andrewallenbruce
@@ -2948,7 +2962,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>689</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/ABGEO">
 				<img src="https://avatars.githubusercontent.com/u/19558543?s=72&u=cba321614b647b74ab2c3b3c38a4cfd823215968&v=4" width="24" alt="Avatar of ABGEO"> ABGEO
@@ -2962,7 +2976,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>688</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/7even">
 				<img src="https://avatars.githubusercontent.com/u/351591?s=72&u=7fd51db47361ec16f7c1f7f625e77b24a2344238&v=4" width="24" alt="Avatar of 7even"> 7even
@@ -2976,7 +2990,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>688</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/komour">
 				<img src="https://avatars.githubusercontent.com/u/47900322?s=72&u=43ef61694575c80cbefe67aa7d4a523e568323ee&v=4" width="24" alt="Avatar of komour"> komour
@@ -2990,7 +3004,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>688</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/jtomaszon">
 				<img src="https://avatars.githubusercontent.com/u/1420474?s=72&v=4" width="24" alt="Avatar of jtomaszon"> jtomaszon
@@ -3004,7 +3018,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>687</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/valeri879">
 				<img src="https://avatars.githubusercontent.com/u/6426966?s=72&u=71479a020ab1f97a1c02c8185111e777c63c399b&v=4" width="24" alt="Avatar of valeri879"> valeri879
@@ -3016,20 +3030,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Georgia, Tbilisi</td>
 		<td>81</td>
 		<td>685</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/Lh4cKg">
-				<img src="https://avatars.githubusercontent.com/u/3719921?s=72&u=f5fe33e0408c7b3aa823ac0051429b5e2e0f733a&v=4" width="24" alt="Avatar of Lh4cKg"> Lh4cKg
-			</a><br/>
-			Lasha Gogua
-		</td>
-		<td>@logmind </td>
-		<td><a href="https://twitter.com/lh4ckg">lh4ckg</a></td>
-		<td>Tbilisi, Georgia</td>
-		<td>55</td>
-		<td>677</td>
 	</tr>
 	<tr>
 		<td>210</td>
@@ -3048,6 +3048,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>211</td>
 		<td>
+			<a href="https://github.com/zhukovsd">
+				<img src="https://avatars.githubusercontent.com/u/14361885?s=72&u=cf0d01ba64b8cce81acef2e91e34c2b7e3feee0a&v=4" width="24" alt="Avatar of zhukovsd"> zhukovsd
+			</a><br/>
+			Sergey Zhukov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Georgia, Tbilisi</td>
+		<td>675</td>
+		<td>676</td>
+	</tr>
+	<tr>
+		<td>212</td>
+		<td>
 			<a href="https://github.com/khoa165">
 				<img src="https://avatars.githubusercontent.com/u/46258781?s=72&u=9771e220c265e7088d1737a98708336f38a9f063&v=4" width="24" alt="Avatar of khoa165"> khoa165
 			</a><br/>
@@ -3058,20 +3072,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Wisconsin/Georgia</td>
 		<td>31</td>
 		<td>670</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/zhukovsd">
-				<img src="https://avatars.githubusercontent.com/u/14361885?s=72&u=cf0d01ba64b8cce81acef2e91e34c2b7e3feee0a&v=4" width="24" alt="Avatar of zhukovsd"> zhukovsd
-			</a><br/>
-			Sergey Zhukov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Georgia, Tbilisi</td>
-		<td>667</td>
-		<td>668</td>
 	</tr>
 	<tr>
 		<td>213</td>
@@ -3098,8 +3098,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Mercury Workshop </td>
 		<td>No Twitter Username</td>
 		<td>Georgia, US</td>
-		<td>647</td>
-		<td>657</td>
+		<td>648</td>
+		<td>658</td>
 	</tr>
 	<tr>
 		<td>215</td>
@@ -3370,6 +3370,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>234</td>
 		<td>
+			<a href="https://github.com/a5okol">
+				<img src="https://avatars.githubusercontent.com/u/57001613?s=72&u=ab8df134ea9c20040d6a25cf18006e1d3d80b01c&v=4" width="24" alt="Avatar of a5okol"> a5okol
+			</a><br/>
+			Andrew Sokolenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Batumi, Georgia</td>
+		<td>82</td>
+		<td>609</td>
+	</tr>
+	<tr>
+		<td>235</td>
+		<td>
 			<a href="https://github.com/rietta">
 				<img src="https://avatars.githubusercontent.com/u/605406?s=72&u=8482d0645d6e1c2cc11e94f874b325c94adaf6ce&v=4" width="24" alt="Avatar of rietta"> rietta
 			</a><br/>
@@ -3382,35 +3396,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>607</td>
 	</tr>
 	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/a5okol">
-				<img src="https://avatars.githubusercontent.com/u/57001613?s=72&u=ab8df134ea9c20040d6a25cf18006e1d3d80b01c&v=4" width="24" alt="Avatar of a5okol"> a5okol
-			</a><br/>
-			Andrew Sokolenko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Batumi, Georgia</td>
-		<td>82</td>
-		<td>606</td>
-	</tr>
-	<tr>
 		<td>236</td>
-		<td>
-			<a href="https://github.com/gmerabishvili">
-				<img src="https://avatars.githubusercontent.com/u/13429992?s=72&u=c58b344ad63b30e56d7f603e65c991d1715d2804&v=4" width="24" alt="Avatar of gmerabishvili"> gmerabishvili
-			</a><br/>
-			Giorgi Merabishvili
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tbilisi, Georgia</td>
-		<td>0</td>
-		<td>602</td>
-	</tr>
-	<tr>
-		<td>237</td>
 		<td>
 			<a href="https://github.com/kigorw">
 				<img src="https://avatars.githubusercontent.com/u/319966?s=72&v=4" width="24" alt="Avatar of kigorw"> kigorw
@@ -3421,6 +3407,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi, Georgia</td>
 		<td>1</td>
+		<td>605</td>
+	</tr>
+	<tr>
+		<td>237</td>
+		<td>
+			<a href="https://github.com/gmerabishvili">
+				<img src="https://avatars.githubusercontent.com/u/13429992?s=72&u=c58b344ad63b30e56d7f603e65c991d1715d2804&v=4" width="24" alt="Avatar of gmerabishvili"> gmerabishvili
+			</a><br/>
+			Giorgi Merabishvili
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tbilisi, Georgia</td>
+		<td>0</td>
 		<td>602</td>
 	</tr>
 	<tr>
@@ -3636,6 +3636,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>253</td>
 		<td>
+			<a href="https://github.com/nikkhvat">
+				<img src="https://avatars.githubusercontent.com/u/44050303?s=72&u=5f88ea3c4d0926ab32e1c8534afdfdef22e306d5&v=4" width="24" alt="Avatar of nikkhvat"> nikkhvat
+			</a><br/>
+			Nikita Khvatov
+		</td>
+		<td>Ithub </td>
+		<td><a href="https://twitter.com/nikkhvat">nikkhvat</a></td>
+		<td>Tbilisi</td>
+		<td>438</td>
+		<td>551</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
 			<a href="https://github.com/womackj1">
 				<img src="https://avatars.githubusercontent.com/u/46657985?s=72&u=efa168abb320d58221a0bfa9865c76acf3cd32f1&v=4" width="24" alt="Avatar of womackj1"> womackj1
 			</a><br/>
@@ -3648,7 +3662,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>546</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/nikamunjishvili">
 				<img src="https://avatars.githubusercontent.com/u/104817015?s=72&u=8d5803e6a525a37fdf1f0480027279a00f6afc4c&v=4" width="24" alt="Avatar of nikamunjishvili"> nikamunjishvili
@@ -3662,20 +3676,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>545</td>
 	</tr>
 	<tr>
-		<td>255</td>
-		<td>
-			<a href="https://github.com/nikkhvat">
-				<img src="https://avatars.githubusercontent.com/u/44050303?s=72&u=5f88ea3c4d0926ab32e1c8534afdfdef22e306d5&v=4" width="24" alt="Avatar of nikkhvat"> nikkhvat
-			</a><br/>
-			Nikita Khvatov
-		</td>
-		<td>Ithub </td>
-		<td><a href="https://twitter.com/nikkhvat">nikkhvat</a></td>
-		<td>Tbilisi</td>
-		<td>431</td>
-		<td>544</td>
-	</tr>
-	<tr>
 		<td>256</td>
 		<td>
 			<a href="https://github.com/zanguraa">
@@ -3686,8 +3686,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Credo </td>
 		<td><a href="https://twitter.com/Zzangura">Zzangura</a></td>
 		<td>Tbilisi</td>
-		<td>287</td>
-		<td>535</td>
+		<td>288</td>
+		<td>537</td>
 	</tr>
 	<tr>
 		<td>257</td>
@@ -3770,8 +3770,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Student @fultonschools </td>
 		<td><a href="https://twitter.com/l3gacyb3ta">l3gacyb3ta</a></td>
 		<td>~/Georgia</td>
-		<td>491</td>
-		<td>510</td>
+		<td>494</td>
+		<td>513</td>
 	</tr>
 	<tr>
 		<td>263</td>
@@ -3860,6 +3860,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>269</td>
 		<td>
+			<a href="https://github.com/asvae">
+				<img src="https://avatars.githubusercontent.com/u/5394573?s=72&v=4" width="24" alt="Avatar of asvae"> asvae
+			</a><br/>
+			Yauheni Prakopchyk
+		</td>
+		<td>@epicmaxco </td>
+		<td>No Twitter Username</td>
+		<td>Batumi</td>
+		<td>485</td>
+		<td>486</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
 			<a href="https://github.com/X1nto">
 				<img src="https://avatars.githubusercontent.com/u/48173186?s=72&u=ae1c1abcb4ebcc9a5b7b53fec2fd98fa16217099&v=4" width="24" alt="Avatar of X1nto"> X1nto
 			</a><br/>
@@ -3870,20 +3884,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Georgia</td>
 		<td>483</td>
 		<td>483</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/asvae">
-				<img src="https://avatars.githubusercontent.com/u/5394573?s=72&v=4" width="24" alt="Avatar of asvae"> asvae
-			</a><br/>
-			Yauheni Prakopchyk
-		</td>
-		<td>@epicmaxco </td>
-		<td>No Twitter Username</td>
-		<td>Batumi</td>
-		<td>481</td>
-		<td>482</td>
 	</tr>
 	<tr>
 		<td>271</td>
@@ -4210,6 +4210,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>294</td>
 		<td>
+			<a href="https://github.com/Cynthia7979">
+				<img src="https://avatars.githubusercontent.com/u/25703425?s=72&u=1c10575cb7747eebdb5ed8cffb711bff3a2ac1c4&v=4" width="24" alt="Avatar of Cynthia7979"> Cynthia7979
+			</a><br/>
+			Cynthia
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Atlanta, Georgia</td>
+		<td>143</td>
+		<td>405</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
 			<a href="https://github.com/dimaglushkov">
 				<img src="https://avatars.githubusercontent.com/u/38703979?s=72&u=39d4bb8a203dead3b9a1bc66323621a840ca4529&v=4" width="24" alt="Avatar of dimaglushkov"> dimaglushkov
 			</a><br/>
@@ -4222,7 +4236,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>403</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/kala13x">
 				<img src="https://avatars.githubusercontent.com/u/4499431?s=72&u=b9d509ce84bd2aa9174cfbe6ee2ac5345a808b72&v=4" width="24" alt="Avatar of kala13x"> kala13x
@@ -4236,20 +4250,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>402</td>
 	</tr>
 	<tr>
-		<td>296</td>
-		<td>
-			<a href="https://github.com/Cynthia7979">
-				<img src="https://avatars.githubusercontent.com/u/25703425?s=72&u=1c10575cb7747eebdb5ed8cffb711bff3a2ac1c4&v=4" width="24" alt="Avatar of Cynthia7979"> Cynthia7979
-			</a><br/>
-			Cynthia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Atlanta, Georgia</td>
-		<td>143</td>
-		<td>397</td>
-	</tr>
-	<tr>
 		<td>297</td>
 		<td>
 			<a href="https://github.com/Cyebukayire">
@@ -4260,8 +4260,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Emory University </td>
 		<td><a href="https://twitter.com/peace__cy">peace__cy</a></td>
 		<td>Atlanta, Georgia</td>
-		<td>62</td>
-		<td>395</td>
+		<td>63</td>
+		<td>398</td>
 	</tr>
 	<tr>
 		<td>298</td>
@@ -4303,7 +4303,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia, Tbilisi</td>
 		<td>12</td>
-		<td>391</td>
+		<td>392</td>
 	</tr>
 	<tr>
 		<td>301</td>
@@ -4316,8 +4316,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
-		<td>249</td>
-		<td>391</td>
+		<td>250</td>
+		<td>392</td>
 	</tr>
 	<tr>
 		<td>302</td>
@@ -4359,7 +4359,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Atlanta, Georgia</td>
 		<td>30</td>
-		<td>385</td>
+		<td>387</td>
 	</tr>
 	<tr>
 		<td>305</td>
@@ -4406,6 +4406,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>308</td>
 		<td>
+			<a href="https://github.com/andrew-malikov">
+				<img src="https://avatars.githubusercontent.com/u/35894527?s=72&u=ef77dea4ba0a4b38b429a0a921bd50cf42d1411f&v=4" width="24" alt="Avatar of andrew-malikov"> andrew-malikov
+			</a><br/>
+			Andrew Malikov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Georgia, Tbilisi</td>
+		<td>72</td>
+		<td>380</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
 			<a href="https://github.com/Hermesiss">
 				<img src="https://avatars.githubusercontent.com/u/20972731?s=72&u=eeb80fb57b083afd0145445c4182b8fe38be3fb0&v=4" width="24" alt="Avatar of Hermesiss"> Hermesiss
 			</a><br/>
@@ -4418,7 +4432,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>376</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/GugaGongadze">
 				<img src="https://avatars.githubusercontent.com/u/5684735?s=72&u=c40134f0303355891b81e629902037080edaf3ee&v=4" width="24" alt="Avatar of GugaGongadze"> GugaGongadze
@@ -4430,20 +4444,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Tbilisi, Georgia</td>
 		<td>173</td>
 		<td>374</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a href="https://github.com/andrew-malikov">
-				<img src="https://avatars.githubusercontent.com/u/35894527?s=72&u=ef77dea4ba0a4b38b429a0a921bd50cf42d1411f&v=4" width="24" alt="Avatar of andrew-malikov"> andrew-malikov
-			</a><br/>
-			Andrew Malikov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Georgia, Tbilisi</td>
-		<td>72</td>
-		<td>372</td>
 	</tr>
 	<tr>
 		<td>311</td>
@@ -4470,8 +4470,8 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Batumi, Georgia</td>
-		<td>363</td>
-		<td>368</td>
+		<td>364</td>
+		<td>369</td>
 	</tr>
 	<tr>
 		<td>313</td>
@@ -4560,20 +4560,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>319</td>
 		<td>
-			<a href="https://github.com/nhrones">
-				<img src="https://avatars.githubusercontent.com/u/3278787?s=72&u=628270c7e164770e4963551b4fd2703d9c6694b4&v=4" width="24" alt="Avatar of nhrones"> nhrones
-			</a><br/>
-			NDH
-		</td>
-		<td>Ndh </td>
-		<td>No Twitter Username</td>
-		<td>Georgia</td>
-		<td>204</td>
-		<td>352</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
 			<a href="https://github.com/thecodeholic">
 				<img src="https://avatars.githubusercontent.com/u/4627922?s=72&u=ec4261c234e30deee3c837fa7d1eb72c973d2b2b&v=4" width="24" alt="Avatar of thecodeholic"> thecodeholic
 			</a><br/>
@@ -4586,7 +4572,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>350</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/zgabievi">
 				<img src="https://avatars.githubusercontent.com/u/1515299?s=72&u=a7de213173dbd1fd9ee227e8ca9574ae1f9eb260&v=4" width="24" alt="Avatar of zgabievi"> zgabievi
@@ -4600,7 +4586,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>350</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/vizvamitra">
 				<img src="https://avatars.githubusercontent.com/u/5035283?s=72&u=17fddf53a4517f00efe1a03385fbefa4b74f352d&v=4" width="24" alt="Avatar of vizvamitra"> vizvamitra
@@ -4614,7 +4600,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>350</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/satvik-1203">
 				<img src="https://avatars.githubusercontent.com/u/77904774?s=72&u=2dddd7bfa462e8fc3b49efbe58ba0f17efd0986b&v=4" width="24" alt="Avatar of satvik-1203"> satvik-1203
@@ -4628,7 +4614,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>349</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/Arcrammer">
 				<img src="https://avatars.githubusercontent.com/u/8358956?s=72&u=efe9faf8ad45f0129978acf3f48aadd5a413a04c&v=4" width="24" alt="Avatar of Arcrammer"> Arcrammer
@@ -4642,7 +4628,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>342</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/iseiaki">
 				<img src="https://avatars.githubusercontent.com/u/68108917?s=72&u=592199741f817ccb5e7d5fbff64dfed582fdfe83&v=4" width="24" alt="Avatar of iseiaki"> iseiaki
@@ -4656,7 +4642,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>336</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/zurbaevi">
 				<img src="https://avatars.githubusercontent.com/u/60819769?s=72&u=15d87a66f1c0c12f408bf3baeeb065389186d550&v=4" width="24" alt="Avatar of zurbaevi"> zurbaevi
@@ -4670,7 +4656,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>335</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/hinsley">
 				<img src="https://avatars.githubusercontent.com/u/6268600?s=72&u=643b6dde2da3213d03954e2a594ad7864812c643&v=4" width="24" alt="Avatar of hinsley"> hinsley
@@ -4680,11 +4666,11 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Georgia, USA</td>
-		<td>263</td>
-		<td>333</td>
+		<td>264</td>
+		<td>334</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/cpustejovsky">
 				<img src="https://avatars.githubusercontent.com/u/24833119?s=72&u=f68452267c785855bede1804eb760f3b8e434754&v=4" width="24" alt="Avatar of cpustejovsky"> cpustejovsky
@@ -4698,7 +4684,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>333</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/jonathantneal">
 				<img src="https://avatars.githubusercontent.com/u/188426?s=72&u=5029ae346892ad6d2e3893c29edeeb8efff623b0&v=4" width="24" alt="Avatar of jonathantneal"> jonathantneal
@@ -4712,7 +4698,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>331</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/shelleymcq">
 				<img src="https://avatars.githubusercontent.com/u/81432121?s=72&u=cd781c7e360d0b3faa25ce3c735d0f590a440a9c&v=4" width="24" alt="Avatar of shelleymcq"> shelleymcq
@@ -4726,7 +4712,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/ParthKetanDoshi">
 				<img src="https://avatars.githubusercontent.com/u/23140565?s=72&u=4acec6cd087cff7f8cad9d29c745f33fca81ab90&v=4" width="24" alt="Avatar of ParthKetanDoshi"> ParthKetanDoshi
@@ -4740,7 +4726,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>324</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/BriRob">
 				<img src="https://avatars.githubusercontent.com/u/95938897?s=72&u=c3d531033bba1167053159d96be7b9eb88567251&v=4" width="24" alt="Avatar of BriRob"> BriRob
@@ -4754,7 +4740,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>323</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/CB987">
 				<img src="https://avatars.githubusercontent.com/u/43180845?s=72&u=76331ed9340ce0dfdb884c137e126c25c485e83d&v=4" width="24" alt="Avatar of CB987"> CB987
@@ -4768,7 +4754,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>322</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/equalent">
 				<img src="https://avatars.githubusercontent.com/u/6237485?s=72&u=26f9fb48cf228edccf7e23ebe7c051f40337f04a&v=4" width="24" alt="Avatar of equalent"> equalent
@@ -4782,7 +4768,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>321</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/pure-js">
 				<img src="https://avatars.githubusercontent.com/u/3690368?s=72&u=18921930fdd3b85fe38e8f2d99154acbaa25eb7b&v=4" width="24" alt="Avatar of pure-js"> pure-js
@@ -4796,7 +4782,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>321</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/ivanglushko">
 				<img src="https://avatars.githubusercontent.com/u/36343782?s=72&u=8fd94e7362c464dd26a6893c67f5bacce12715fb&v=4" width="24" alt="Avatar of ivanglushko"> ivanglushko
@@ -4810,7 +4796,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>320</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/denis991">
 				<img src="https://avatars.githubusercontent.com/u/63502910?s=72&u=6b773316a028a5d3602d1a778fb5ebd2939a8ada&v=4" width="24" alt="Avatar of denis991"> denis991
@@ -4822,6 +4808,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Georgia</td>
 		<td>200</td>
 		<td>317</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
+			<a href="https://github.com/Concrete18">
+				<img src="https://avatars.githubusercontent.com/u/59713768?s=72&u=a360d7b008519741168083096578be22d5f2b643&v=4" width="24" alt="Avatar of Concrete18"> Concrete18
+			</a><br/>
+			Concrete18
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Columbus Georgia, US</td>
+		<td>213</td>
+		<td>315</td>
 	</tr>
 	<tr>
 		<td>338</td>
@@ -4868,20 +4868,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>341</td>
 		<td>
-			<a href="https://github.com/Concrete18">
-				<img src="https://avatars.githubusercontent.com/u/59713768?s=72&u=a360d7b008519741168083096578be22d5f2b643&v=4" width="24" alt="Avatar of Concrete18"> Concrete18
-			</a><br/>
-			Concrete18
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Columbus Georgia, US</td>
-		<td>213</td>
-		<td>309</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
 			<a href="https://github.com/brvndon-do">
 				<img src="https://avatars.githubusercontent.com/u/49256014?s=72&u=ee41bfaafc93d5977a0f55a38a65218b1fe0ffbe&v=4" width="24" alt="Avatar of brvndon-do"> brvndon-do
 			</a><br/>
@@ -4894,7 +4880,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>304</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/katekostina">
 				<img src="https://avatars.githubusercontent.com/u/60067138?s=72&u=2647564b3fdaaa96ab150549c84a90e80acbcf9a&v=4" width="24" alt="Avatar of katekostina"> katekostina
@@ -4908,7 +4894,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>303</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/desfpc">
 				<img src="https://avatars.githubusercontent.com/u/783571?s=72&u=b3aa556ec1ca40386beec4ce81d05e6850859973&v=4" width="24" alt="Avatar of desfpc"> desfpc
@@ -4922,7 +4908,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>301</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/iko1133">
 				<img src="https://avatars.githubusercontent.com/u/9116447?s=72&u=20dc0c8bef3e2fdf7ae96995e2b1ff6a77450ebe&v=4" width="24" alt="Avatar of iko1133"> iko1133
@@ -4936,7 +4922,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>300</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/alexhallam">
 				<img src="https://avatars.githubusercontent.com/u/9298693?s=72&u=bca742c89bbbe1e216e4e0bbab32dd2faa3b775e&v=4" width="24" alt="Avatar of alexhallam"> alexhallam
@@ -4950,7 +4936,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>298</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/JoshTheDerf">
 				<img src="https://avatars.githubusercontent.com/u/5861371?s=72&u=3a281db26e70d8b89ef46924eb4817695b7e1257&v=4" width="24" alt="Avatar of JoshTheDerf"> JoshTheDerf
@@ -4964,7 +4950,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>294</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/minibikini">
 				<img src="https://avatars.githubusercontent.com/u/439309?s=72&u=17fef2d69f63d6fe1bc391d69f5c7ddee79ccbd6&v=4" width="24" alt="Avatar of minibikini"> minibikini
@@ -4978,7 +4964,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>293</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/mikeschinkel">
 				<img src="https://avatars.githubusercontent.com/u/153285?s=72&v=4" width="24" alt="Avatar of mikeschinkel"> mikeschinkel
@@ -4992,7 +4978,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/kaxi1993">
 				<img src="https://avatars.githubusercontent.com/u/7633591?s=72&u=aeae43844f60e7f6a6535311cc40e925bb5f264b&v=4" width="24" alt="Avatar of kaxi1993"> kaxi1993
@@ -5006,7 +4992,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>283</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/VladimirFilonov">
 				<img src="https://avatars.githubusercontent.com/u/813224?s=72&u=a239097d7f4e3507c3247c8cdf93956c19a88640&v=4" width="24" alt="Avatar of VladimirFilonov"> VladimirFilonov
@@ -5020,7 +5006,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/SiDongG">
 				<img src="https://avatars.githubusercontent.com/u/82831509?s=72&u=07c898388a92d8d2363ccb2c392672e5e860ddfe&v=4" width="24" alt="Avatar of SiDongG"> SiDongG
@@ -5034,7 +5020,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/memory-hunter">
 				<img src="https://avatars.githubusercontent.com/u/59766692?s=72&u=350226d8f8c5519f2c7de1d15f650e5ab9d6147a&v=4" width="24" alt="Avatar of memory-hunter"> memory-hunter
@@ -5048,7 +5034,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/idmitriev">
 				<img src="https://avatars.githubusercontent.com/u/100341?s=72&u=bedb54a49d4ee5161405780df1ff14f6b68d0dbe&v=4" width="24" alt="Avatar of idmitriev"> idmitriev
@@ -5062,7 +5048,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>277</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/JEpifanio90">
 				<img src="https://avatars.githubusercontent.com/u/10661306?s=72&u=14562e8509764475ff5aaacc782e546f74134d26&v=4" width="24" alt="Avatar of JEpifanio90"> JEpifanio90
@@ -5073,10 +5059,10 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Atlanta, Georgia</td>
 		<td>91</td>
-		<td>273</td>
+		<td>276</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/glitchcore">
 				<img src="https://avatars.githubusercontent.com/u/12886640?s=72&u=a63b61d3698603edc0ed717376ce1a88911c6dc9&v=4" width="24" alt="Avatar of glitchcore"> glitchcore
@@ -5090,7 +5076,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>272</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/pramitbhatia25">
 				<img src="https://avatars.githubusercontent.com/u/68268053?s=72&u=f773d58a006a5a15e478f3f16171161da5e96c95&v=4" width="24" alt="Avatar of pramitbhatia25"> pramitbhatia25
@@ -5104,7 +5090,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>271</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/litehacker">
 				<img src="https://avatars.githubusercontent.com/u/17227327?s=72&u=d664d803dade54962a69860825fccc1ddb26cc84&v=4" width="24" alt="Avatar of litehacker"> litehacker
@@ -5118,7 +5104,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>270</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/PashaKlybik">
 				<img src="https://avatars.githubusercontent.com/u/11669156?s=72&u=cf1255c2f9976473a0b3070c69d601cc0f4a7684&v=4" width="24" alt="Avatar of PashaKlybik"> PashaKlybik
@@ -5132,7 +5118,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>270</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/otariterterashvili">
 				<img src="https://avatars.githubusercontent.com/u/36482540?s=72&u=b1ffb06ca3f5e79948a4496279cbb0c4733d544b&v=4" width="24" alt="Avatar of otariterterashvili"> otariterterashvili
@@ -5146,7 +5132,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>268</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/nulladdict">
 				<img src="https://avatars.githubusercontent.com/u/26379644?s=72&u=6e83a0b4dee06b834092a7096c41ed55cb781d06&v=4" width="24" alt="Avatar of nulladdict"> nulladdict
@@ -5160,7 +5146,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>267</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/bat-kryptonyte">
 				<img src="https://avatars.githubusercontent.com/u/36356899?s=72&u=e6bf2c83a91410af7f3a501e0b68d9d87c096fda&v=4" width="24" alt="Avatar of bat-kryptonyte"> bat-kryptonyte
@@ -5174,7 +5160,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/maxinspace">
 				<img src="https://avatars.githubusercontent.com/u/4546045?s=72&u=6d088b6f1dd01312c4ac390f7364708b1e338ad5&v=4" width="24" alt="Avatar of maxinspace"> maxinspace
@@ -5188,7 +5174,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>263</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/uuuulala">
 				<img src="https://avatars.githubusercontent.com/u/19991684?s=72&u=4cb437c3aedeab1b8af82809eedd9a7973fcaa8e&v=4" width="24" alt="Avatar of uuuulala"> uuuulala
@@ -5202,7 +5188,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>262</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/bbenne10">
 				<img src="https://avatars.githubusercontent.com/u/687376?s=72&v=4" width="24" alt="Avatar of bbenne10"> bbenne10
@@ -5216,7 +5202,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>262</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/Luis-Ramirez21x">
 				<img src="https://avatars.githubusercontent.com/u/86748117?s=72&u=0ed309fe59b72d3a2d4f0d3ed6c2caee0a423bc3&v=4" width="24" alt="Avatar of Luis-Ramirez21x"> Luis-Ramirez21x
@@ -5230,7 +5216,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>262</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/GE-Developer">
 				<img src="https://avatars.githubusercontent.com/u/81018509?s=72&u=b14a9265d27efaa3929c9e136c5f3adcddca670f&v=4" width="24" alt="Avatar of GE-Developer"> GE-Developer
@@ -5244,7 +5230,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>262</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/Ylquiorra">
 				<img src="https://avatars.githubusercontent.com/u/93033078?s=72&u=7c562bb2a4a901360868d86de000bf86ed9814a7&v=4" width="24" alt="Avatar of Ylquiorra"> Ylquiorra
@@ -5258,7 +5244,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/utterstep">
 				<img src="https://avatars.githubusercontent.com/u/829944?s=72&v=4" width="24" alt="Avatar of utterstep"> utterstep
@@ -5270,6 +5256,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Tbilisi, Georgia</td>
 		<td>243</td>
 		<td>260</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
+			<a href="https://github.com/remixer-dec">
+				<img src="https://avatars.githubusercontent.com/u/6587642?s=72&u=f3696f5fc4e7bab7d3cbf9e3b786ee774180dd18&v=4" width="24" alt="Avatar of remixer-dec"> remixer-dec
+			</a><br/>
+			Remixer Dec
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Georgia</td>
+		<td>154</td>
+		<td>257</td>
 	</tr>
 	<tr>
 		<td>370</td>
@@ -5311,7 +5311,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi Gergia</td>
 		<td>11</td>
-		<td>254</td>
+		<td>255</td>
 	</tr>
 	<tr>
 		<td>373</td>
@@ -5330,20 +5330,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>374</td>
 		<td>
-			<a href="https://github.com/remixer-dec">
-				<img src="https://avatars.githubusercontent.com/u/6587642?s=72&u=f3696f5fc4e7bab7d3cbf9e3b786ee774180dd18&v=4" width="24" alt="Avatar of remixer-dec"> remixer-dec
-			</a><br/>
-			Remixer Dec
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Georgia</td>
-		<td>150</td>
-		<td>253</td>
-	</tr>
-	<tr>
-		<td>375</td>
-		<td>
 			<a href="https://github.com/kingmolnar">
 				<img src="https://avatars.githubusercontent.com/u/7682728?s=72&u=41ce7746089d3801734a1faae349481d7ce9881e&v=4" width="24" alt="Avatar of kingmolnar"> kingmolnar
 			</a><br/>
@@ -5356,7 +5342,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/agpopikov">
 				<img src="https://avatars.githubusercontent.com/u/3398540?s=72&v=4" width="24" alt="Avatar of agpopikov"> agpopikov
@@ -5370,7 +5356,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>250</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/munrocket">
 				<img src="https://avatars.githubusercontent.com/u/20033246?s=72&u=c7f08b3933621e81154e0bfddf006a57c2b420f3&v=4" width="24" alt="Avatar of munrocket"> munrocket
@@ -5384,7 +5370,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>244</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/grkek">
 				<img src="https://avatars.githubusercontent.com/u/44188195?s=72&u=8ed284f0c1c17413e09e8adfaa70ed4d1ec6931b&v=4" width="24" alt="Avatar of grkek"> grkek
@@ -5398,7 +5384,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>243</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/elnfar">
 				<img src="https://avatars.githubusercontent.com/u/92276096?s=72&u=3095ff3a25ad5eaf91a3d7a86190a5ea5ede3481&v=4" width="24" alt="Avatar of elnfar"> elnfar
@@ -5412,7 +5398,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/youngvz">
 				<img src="https://avatars.githubusercontent.com/u/16006444?s=72&u=65dce7e30da25e05763d535c13f007c01159b354&v=4" width="24" alt="Avatar of youngvz"> youngvz
@@ -5426,7 +5412,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/huanghua1994">
 				<img src="https://avatars.githubusercontent.com/u/22476972?s=72&u=47051f66c37f080d22e873c94a24293398cd231f&v=4" width="24" alt="Avatar of huanghua1994"> huanghua1994
@@ -5440,7 +5426,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/gtsitsvidze">
 				<img src="https://avatars.githubusercontent.com/u/38277453?s=72&u=3e49ad929d137f122ea5ac1c1207c623d4169805&v=4" width="24" alt="Avatar of gtsitsvidze"> gtsitsvidze
@@ -5454,7 +5440,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>238</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/andreypopp">
 				<img src="https://avatars.githubusercontent.com/u/30594?s=72&v=4" width="24" alt="Avatar of andreypopp"> andreypopp
@@ -5468,7 +5454,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/prashantbasnet94">
 				<img src="https://avatars.githubusercontent.com/u/30943807?s=72&u=8a1e66e175733918c1b43f7ddcafae821b020b7c&v=4" width="24" alt="Avatar of prashantbasnet94"> prashantbasnet94
@@ -5479,10 +5465,10 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>atlanta, georgia</td>
 		<td>53</td>
-		<td>230</td>
+		<td>232</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/ahelwer">
 				<img src="https://avatars.githubusercontent.com/u/718765?s=72&v=4" width="24" alt="Avatar of ahelwer"> ahelwer
@@ -5496,7 +5482,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/gioado7">
 				<img src="https://avatars.githubusercontent.com/u/73820588?s=72&u=1a7fca11efc73b53cce70aebe97184319f258a46&v=4" width="24" alt="Avatar of gioado7"> gioado7
@@ -5510,7 +5496,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>227</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/mishodzuliashvili">
 				<img src="https://avatars.githubusercontent.com/u/87991798?s=72&u=786d1e8c3efb5477def5cd42e7f327ce268d3d73&v=4" width="24" alt="Avatar of mishodzuliashvili"> mishodzuliashvili
@@ -5524,7 +5510,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>225</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/NotStonee">
 				<img src="https://avatars.githubusercontent.com/u/119343829?s=72&u=18c954dbaffd37310655f72531cf8d1289034a12&v=4" width="24" alt="Avatar of NotStonee"> NotStonee
@@ -5538,7 +5524,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/beqabeqa473">
 				<img src="https://avatars.githubusercontent.com/u/2187893?s=72&v=4" width="24" alt="Avatar of beqabeqa473"> beqabeqa473
@@ -5552,7 +5538,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/jackkolb">
 				<img src="https://avatars.githubusercontent.com/u/23145260?s=72&u=bdb8589593d8031ad0a631f35e624b2389638728&v=4" width="24" alt="Avatar of jackkolb"> jackkolb
@@ -5566,7 +5552,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/valkiara">
 				<img src="https://avatars.githubusercontent.com/u/17006880?s=72&u=c8e2f894a79651066e7205ed65a2adf3d530482a&v=4" width="24" alt="Avatar of valkiara"> valkiara
@@ -5580,7 +5566,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>219</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/sitedyno">
 				<img src="https://avatars.githubusercontent.com/u/216721?s=72&v=4" width="24" alt="Avatar of sitedyno"> sitedyno
@@ -5594,7 +5580,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/magedevjosh">
 				<img src="https://avatars.githubusercontent.com/u/16198998?s=72&u=384619926fa50c4935eacc61617f370d78890377&v=4" width="24" alt="Avatar of magedevjosh"> magedevjosh
@@ -5608,7 +5594,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/zackarychapple">
 				<img src="https://avatars.githubusercontent.com/u/2133184?s=72&u=7b65316b150bdd07b94439a581a23bddadced48d&v=4" width="24" alt="Avatar of zackarychapple"> zackarychapple
@@ -5622,7 +5608,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/adeola-ak">
 				<img src="https://avatars.githubusercontent.com/u/67931373?s=72&u=d28331eef8ae822e6a8ac049640b61422377e21c&v=4" width="24" alt="Avatar of adeola-ak"> adeola-ak
@@ -5636,7 +5622,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/TAFlowersIII">
 				<img src="https://avatars.githubusercontent.com/u/110346660?s=72&u=74c1036a61d2b2173038d5078efa2506876a134d&v=4" width="24" alt="Avatar of TAFlowersIII"> TAFlowersIII
@@ -5650,7 +5636,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/nkryuchkov">
 				<img src="https://avatars.githubusercontent.com/u/24493220?s=72&v=4" width="24" alt="Avatar of nkryuchkov"> nkryuchkov
@@ -5664,7 +5650,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>213</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/Giorgi-Jalali">
 				<img src="https://avatars.githubusercontent.com/u/91850260?s=72&u=240e3f2d2fbefa4c1b0a10d1439d2a1b9a803333&v=4" width="24" alt="Avatar of Giorgi-Jalali"> Giorgi-Jalali
@@ -5678,7 +5664,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>211</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/fplusf">
 				<img src="https://avatars.githubusercontent.com/u/32085197?s=72&u=60d5c50848413ebe0b77325c1bf1678f46e01348&v=4" width="24" alt="Avatar of fplusf"> fplusf
@@ -5692,7 +5678,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>211</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/NokaK">
 				<img src="https://avatars.githubusercontent.com/u/33997372?s=72&u=8e39404994be3724d9ebcc84007db5ba554ef856&v=4" width="24" alt="Avatar of NokaK"> NokaK
@@ -5706,7 +5692,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/zBritva">
 				<img src="https://avatars.githubusercontent.com/u/10897951?s=72&u=a167ba295302edd0b5b04dc39e65f9b5b7e173a2&v=4" width="24" alt="Avatar of zBritva"> zBritva
@@ -5720,7 +5706,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/Sporkyy">
 				<img src="https://avatars.githubusercontent.com/u/11437?s=72&u=a9ac59e4529ab6d3f9cf94df39649199f83ea10a&v=4" width="24" alt="Avatar of Sporkyy"> Sporkyy
@@ -5734,7 +5720,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/Kamensky124">
 				<img src="https://avatars.githubusercontent.com/u/104049470?s=72&u=89745646d7c9f1bc39897db3540d1b691692eca7&v=4" width="24" alt="Avatar of Kamensky124"> Kamensky124
@@ -5748,7 +5734,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/spudly">
 				<img src="https://avatars.githubusercontent.com/u/487068?s=72&v=4" width="24" alt="Avatar of spudly"> spudly
@@ -5762,7 +5748,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/Gilliam6">
 				<img src="https://avatars.githubusercontent.com/u/48182609?s=72&u=1d6d7df5964efe0e166acde447d54ca11e62c480&v=4" width="24" alt="Avatar of Gilliam6"> Gilliam6
@@ -5776,7 +5762,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/bsiggelkow">
 				<img src="https://avatars.githubusercontent.com/u/7837?s=72&v=4" width="24" alt="Avatar of bsiggelkow"> bsiggelkow
@@ -5790,7 +5776,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>202</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/nickpapciak">
 				<img src="https://avatars.githubusercontent.com/u/24984088?s=72&u=75f61cd82233c0dd2c337526429c01e7551fb6f3&v=4" width="24" alt="Avatar of nickpapciak"> nickpapciak
@@ -5804,7 +5790,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>202</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/feugenix">
 				<img src="https://avatars.githubusercontent.com/u/329327?s=72&v=4" width="24" alt="Avatar of feugenix"> feugenix
@@ -5818,7 +5804,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>202</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/endragor">
 				<img src="https://avatars.githubusercontent.com/u/2417849?s=72&u=fe60ec0c100a9ebdc95e516372df3852a04db361&v=4" width="24" alt="Avatar of endragor"> endragor
@@ -5832,7 +5818,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/johnridesabike">
 				<img src="https://avatars.githubusercontent.com/u/37978984?s=72&v=4" width="24" alt="Avatar of johnridesabike"> johnridesabike
@@ -5846,7 +5832,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/nikitindiz">
 				<img src="https://avatars.githubusercontent.com/u/7104984?s=72&u=48fa987fdf12fc9645aee94cb2ab4f91f0dd518a&v=4" width="24" alt="Avatar of nikitindiz"> nikitindiz
@@ -5860,7 +5846,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>196</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/VPetukhov">
 				<img src="https://avatars.githubusercontent.com/u/6990194?s=72&u=c79b1815fe54b5fbe72aee3bd246dff885228e83&v=4" width="24" alt="Avatar of VPetukhov"> VPetukhov
@@ -5874,7 +5860,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/vadinN">
 				<img src="https://avatars.githubusercontent.com/u/13490870?s=72&u=6330ad9fac9be6ab4140ce4f176042c6d4716646&v=4" width="24" alt="Avatar of vadinN"> vadinN
@@ -5888,7 +5874,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/dimaageev">
 				<img src="https://avatars.githubusercontent.com/u/80323606?s=72&u=b20ce93e0bcc52732fb401e9aa531b81e706e7ec&v=4" width="24" alt="Avatar of dimaageev"> dimaageev
@@ -5902,7 +5888,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/GiorgioMegrelli">
 				<img src="https://avatars.githubusercontent.com/u/62292256?s=72&u=0a6316f7668c4e843a6e494a5b73ee683beafcd6&v=4" width="24" alt="Avatar of GiorgioMegrelli"> GiorgioMegrelli
@@ -5916,7 +5902,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>190</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/Jungle-Sven">
 				<img src="https://avatars.githubusercontent.com/u/32716001?s=72&u=389669066911d822d65e413ea8ea30e6c53b1038&v=4" width="24" alt="Avatar of Jungle-Sven"> Jungle-Sven
@@ -5930,7 +5916,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>190</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/kristina-makalatia">
 				<img src="https://avatars.githubusercontent.com/u/33975427?s=72&u=59af323ff16a0536ebe9df72e9cbfaef81032d3b&v=4" width="24" alt="Avatar of kristina-makalatia"> kristina-makalatia
@@ -5944,7 +5930,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/Khizanag">
 				<img src="https://avatars.githubusercontent.com/u/46331024?s=72&u=de1631cbee96f2bad101d09892e89e8a34ee42e4&v=4" width="24" alt="Avatar of Khizanag"> Khizanag
@@ -5956,6 +5942,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Tbilisi, Georgia</td>
 		<td>184</td>
 		<td>184</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>
+			<a href="https://github.com/ananidze">
+				<img src="https://avatars.githubusercontent.com/u/81765003?s=72&u=09f4c2a0be82f6dddc35bbec83d6283e70eb2a5c&v=4" width="24" alt="Avatar of ananidze"> ananidze
+			</a><br/>
+			Giga Ananidze
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ananidz3">ananidz3</a></td>
+		<td>Batumi, Georgia</td>
+		<td>55</td>
+		<td>182</td>
 	</tr>
 	<tr>
 		<td>419</td>
@@ -5974,34 +5974,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>420</td>
 		<td>
-			<a href="https://github.com/ananidze">
-				<img src="https://avatars.githubusercontent.com/u/81765003?s=72&u=09f4c2a0be82f6dddc35bbec83d6283e70eb2a5c&v=4" width="24" alt="Avatar of ananidze"> ananidze
-			</a><br/>
-			Giga Ananidze
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ananidz3">ananidz3</a></td>
-		<td>Batumi, Georgia</td>
-		<td>55</td>
-		<td>180</td>
-	</tr>
-	<tr>
-		<td>421</td>
-		<td>
-			<a href="https://github.com/tillson">
-				<img src="https://avatars.githubusercontent.com/u/5000248?s=72&u=94da7e3edb10b53f12a366dfcb8a6bbe695ca331&v=4" width="24" alt="Avatar of tillson"> tillson
-			</a><br/>
-			Tillson Galloway
-		</td>
-		<td>@ireallydontcare </td>
-		<td>No Twitter Username</td>
-		<td>Georgia Institute of Technology</td>
-		<td>91</td>
-		<td>177</td>
-	</tr>
-	<tr>
-		<td>422</td>
-		<td>
 			<a href="https://github.com/FC718">
 				<img src="https://avatars.githubusercontent.com/u/113858529?s=72&u=91258e28b65e1887a1a1ce8ad85ff738f88646d5&v=4" width="24" alt="Avatar of FC718"> FC718
 			</a><br/>
@@ -6014,7 +5986,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/natebird">
 				<img src="https://avatars.githubusercontent.com/u/4560?s=72&u=eace0dc86128d7b867fa7db521d3a486ec5cc1b6&v=4" width="24" alt="Avatar of natebird"> natebird
@@ -6028,7 +6000,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/nmgalo">
 				<img src="https://avatars.githubusercontent.com/u/33604954?s=72&u=ab0e2f25a02c5e7cbf4d8358ef7afdd052268fbc&v=4" width="24" alt="Avatar of nmgalo"> nmgalo
@@ -6042,7 +6014,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/ezh">
 				<img src="https://avatars.githubusercontent.com/u/118212?s=72&v=4" width="24" alt="Avatar of ezh"> ezh
@@ -6056,7 +6028,21 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>424</td>
+		<td>
+			<a href="https://github.com/tillson">
+				<img src="https://avatars.githubusercontent.com/u/5000248?s=72&u=94da7e3edb10b53f12a366dfcb8a6bbe695ca331&v=4" width="24" alt="Avatar of tillson"> tillson
+			</a><br/>
+			Tillson Galloway
+		</td>
+		<td>@ireallydontcare </td>
+		<td>No Twitter Username</td>
+		<td>Georgia Institute of Technology</td>
+		<td>88</td>
+		<td>174</td>
+	</tr>
+	<tr>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/weekens">
 				<img src="https://avatars.githubusercontent.com/u/790572?s=72&u=56c4d11dd8b0ab77e3008fb91ac003fd31686f25&v=4" width="24" alt="Avatar of weekens"> weekens
@@ -6070,7 +6056,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/Nikagagua">
 				<img src="https://avatars.githubusercontent.com/u/97543752?s=72&u=48ca3052f4905f24e5e0433a95bd4a3b394cf3df&v=4" width="24" alt="Avatar of Nikagagua"> Nikagagua
@@ -6084,7 +6070,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/LincolnFleet">
 				<img src="https://avatars.githubusercontent.com/u/36611345?s=72&u=8a74f7f835fa4702b0f022e6c4597fba97ca6bf6&v=4" width="24" alt="Avatar of LincolnFleet"> LincolnFleet
@@ -6098,7 +6084,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/mr-kelma">
 				<img src="https://avatars.githubusercontent.com/u/98012564?s=72&u=45bde155f4a56cf4e3fc51dd010d965d724a3923&v=4" width="24" alt="Avatar of mr-kelma"> mr-kelma
@@ -6112,7 +6098,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/lukahukur">
 				<img src="https://avatars.githubusercontent.com/u/94746678?s=72&u=2249eb624ab3e115137fd944e27ee0cfade375a5&v=4" width="24" alt="Avatar of lukahukur"> lukahukur
@@ -6126,7 +6112,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>170</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/hermag">
 				<img src="https://avatars.githubusercontent.com/u/11933911?s=72&u=bd3a957759001d38e41194f465c0e4c992712b34&v=4" width="24" alt="Avatar of hermag"> hermag
@@ -6140,7 +6126,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/RostoRM">
 				<img src="https://avatars.githubusercontent.com/u/92208542?s=72&u=0ab127ccc91bda366af6d5a6e99666d52cb878d6&v=4" width="24" alt="Avatar of RostoRM"> RostoRM
@@ -6154,7 +6140,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/moony-bilcherry">
 				<img src="https://avatars.githubusercontent.com/u/61201002?s=72&u=090c58d2071070e5e4efe958f7fea232d00562d2&v=4" width="24" alt="Avatar of moony-bilcherry"> moony-bilcherry
@@ -6168,7 +6154,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/spirtskhalava">
 				<img src="https://avatars.githubusercontent.com/u/2458353?s=72&v=4" width="24" alt="Avatar of spirtskhalava"> spirtskhalava
@@ -6179,6 +6165,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
 		<td>9</td>
+		<td>165</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
+			<a href="https://github.com/po4yka">
+				<img src="https://avatars.githubusercontent.com/u/42894392?s=72&u=2b761f6ff540d1936a2756a742f9d00cfefae9af&v=4" width="24" alt="Avatar of po4yka"> po4yka
+			</a><br/>
+			Nikita Pochaev
+		</td>
+		<td>Garage It </td>
+		<td>No Twitter Username</td>
+		<td>Tbilisi</td>
+		<td>3</td>
 		<td>165</td>
 	</tr>
 	<tr>
@@ -6198,20 +6198,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>436</td>
 		<td>
-			<a href="https://github.com/po4yka">
-				<img src="https://avatars.githubusercontent.com/u/42894392?s=72&u=2b761f6ff540d1936a2756a742f9d00cfefae9af&v=4" width="24" alt="Avatar of po4yka"> po4yka
-			</a><br/>
-			Nikita Pochaev
-		</td>
-		<td>Garage It </td>
-		<td>No Twitter Username</td>
-		<td>Tbilisi</td>
-		<td>3</td>
-		<td>164</td>
-	</tr>
-	<tr>
-		<td>437</td>
-		<td>
 			<a href="https://github.com/tomakado">
 				<img src="https://avatars.githubusercontent.com/u/1055012?s=72&u=45de8d43b85ec6b7f00817d57b5b49487323100b&v=4" width="24" alt="Avatar of tomakado"> tomakado
 			</a><br/>
@@ -6224,7 +6210,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/revazi">
 				<img src="https://avatars.githubusercontent.com/u/1428523?s=72&u=58c6d5f52ce951228372b1f3ba319a81abf50385&v=4" width="24" alt="Avatar of revazi"> revazi
@@ -6238,7 +6224,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/Yoh0xFF">
 				<img src="https://avatars.githubusercontent.com/u/3826072?s=72&u=5d7dac52cddae7fafb61483ddbdea498473245c7&v=4" width="24" alt="Avatar of Yoh0xFF"> Yoh0xFF
@@ -6249,6 +6235,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tbilisi</td>
 		<td>162</td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>439</td>
+		<td>
+			<a href="https://github.com/Marius-Juston">
+				<img src="https://avatars.githubusercontent.com/u/19751068?s=72&u=a66257d5cb4fc70c2dc4d5f323191090add2f017&v=4" width="24" alt="Avatar of Marius-Juston"> Marius-Juston
+			</a><br/>
+			Marius Juston
+		</td>
+		<td>@auvsl </td>
+		<td>No Twitter Username</td>
+		<td>Marietta, Georgia</td>
+		<td>110</td>
 		<td>162</td>
 	</tr>
 	<tr>
@@ -6296,20 +6296,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>443</td>
 		<td>
-			<a href="https://github.com/Marius-Juston">
-				<img src="https://avatars.githubusercontent.com/u/19751068?s=72&u=a66257d5cb4fc70c2dc4d5f323191090add2f017&v=4" width="24" alt="Avatar of Marius-Juston"> Marius-Juston
-			</a><br/>
-			Marius Juston
-		</td>
-		<td>@auvsl </td>
-		<td>No Twitter Username</td>
-		<td>Marietta, Georgia</td>
-		<td>110</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>444</td>
-		<td>
 			<a href="https://github.com/bakwc">
 				<img src="https://avatars.githubusercontent.com/u/1684011?s=72&u=bf9b55714c68842645c948505de2eea4934a00ed&v=4" width="24" alt="Avatar of bakwc"> bakwc
 			</a><br/>
@@ -6319,7 +6305,21 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
 		<td>73</td>
-		<td>156</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/NickoJ">
+				<img src="https://avatars.githubusercontent.com/u/1818815?s=72&u=a39b8150336c98441941e64a9fb0c2e77b1de379&v=4" width="24" alt="Avatar of NickoJ"> NickoJ
+			</a><br/>
+			Nickolay Klyukay
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tbilisi, Georgia</td>
+		<td>1</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>445</td>
@@ -6366,20 +6366,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>448</td>
 		<td>
-			<a href="https://github.com/NickoJ">
-				<img src="https://avatars.githubusercontent.com/u/1818815?s=72&u=a39b8150336c98441941e64a9fb0c2e77b1de379&v=4" width="24" alt="Avatar of NickoJ"> NickoJ
-			</a><br/>
-			Nickolay Klyukay
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tbilisi, Georgia</td>
-		<td>1</td>
-		<td>153</td>
-	</tr>
-	<tr>
-		<td>449</td>
-		<td>
 			<a href="https://github.com/fonov">
 				<img src="https://avatars.githubusercontent.com/u/17071211?s=72&u=7d99b5ab6a4f3307d04cc242bd2568a4c2eb753e&v=4" width="24" alt="Avatar of fonov"> fonov
 			</a><br/>
@@ -6392,7 +6378,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>450</td>
+		<td>449</td>
 		<td>
 			<a href="https://github.com/feakuru">
 				<img src="https://avatars.githubusercontent.com/u/14169434?s=72&u=bc67be48774978cb60191ec5a8909357a967d295&v=4" width="24" alt="Avatar of feakuru"> feakuru
@@ -6406,7 +6392,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>451</td>
+		<td>450</td>
 		<td>
 			<a href="https://github.com/FrozRt">
 				<img src="https://avatars.githubusercontent.com/u/58525358?s=72&u=b3d35539137797d283858bffe5cacd3600367767&v=4" width="24" alt="Avatar of FrozRt"> FrozRt
@@ -6420,7 +6406,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>452</td>
+		<td>451</td>
 		<td>
 			<a href="https://github.com/Veilios">
 				<img src="https://avatars.githubusercontent.com/u/64378901?s=72&u=c61d78dc6ca75b1f267818f629a40f7e239af343&v=4" width="24" alt="Avatar of Veilios"> Veilios
@@ -6434,7 +6420,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>452</td>
 		<td>
 			<a href="https://github.com/marishka1997">
 				<img src="https://avatars.githubusercontent.com/u/86516649?s=72&u=df300e426ec619ed089a98ffd2d9da7597cd33c7&v=4" width="24" alt="Avatar of marishka1997"> marishka1997
@@ -6448,7 +6434,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>453</td>
 		<td>
 			<a href="https://github.com/avtandilphangani">
 				<img src="https://avatars.githubusercontent.com/u/2271016?s=72&u=7eed78acfa7ed4535a52545fc7d8b12ff6b0c6e5&v=4" width="24" alt="Avatar of avtandilphangani"> avtandilphangani
@@ -6462,7 +6448,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/gtcompscientist">
 				<img src="https://avatars.githubusercontent.com/u/230875?s=72&u=ae10b53186ac44ba4645d9436dacf7fb1728d388&v=4" width="24" alt="Avatar of gtcompscientist"> gtcompscientist
@@ -6476,7 +6462,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/KelvinShadewing">
 				<img src="https://avatars.githubusercontent.com/u/12051285?s=72&u=eb690b2a73d3592d1507b62ba765c4940844c1a8&v=4" width="24" alt="Avatar of KelvinShadewing"> KelvinShadewing
@@ -6490,7 +6476,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/mcjon3z">
 				<img src="https://avatars.githubusercontent.com/u/6471785?s=72&u=58456dee542e635fa7ac12f9f3ec7d012277a0d2&v=4" width="24" alt="Avatar of mcjon3z"> mcjon3z
@@ -6504,7 +6490,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/pavlov-tony">
 				<img src="https://avatars.githubusercontent.com/u/15091368?s=72&u=0a4c820336a0c03afe330b6baafacac0af468bdf&v=4" width="24" alt="Avatar of pavlov-tony"> pavlov-tony
@@ -6518,7 +6504,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/joffarex">
 				<img src="https://avatars.githubusercontent.com/u/41587092?s=72&v=4" width="24" alt="Avatar of joffarex"> joffarex
@@ -6532,7 +6518,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>145</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/python273">
 				<img src="https://avatars.githubusercontent.com/u/3097956?s=72&u=5e34772df6b0690421d157000daf9a803c95c74b&v=4" width="24" alt="Avatar of python273"> python273
@@ -6542,11 +6528,11 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/python273">python273</a></td>
 		<td>Batumi</td>
-		<td>113</td>
-		<td>143</td>
+		<td>114</td>
+		<td>144</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/gzigzigzeo">
 				<img src="https://avatars.githubusercontent.com/u/27830?s=72&v=4" width="24" alt="Avatar of gzigzigzeo"> gzigzigzeo
@@ -6558,6 +6544,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Georgia</td>
 		<td>56</td>
 		<td>142</td>
+	</tr>
+	<tr>
+		<td>461</td>
+		<td>
+			<a href="https://github.com/Dhruv2012">
+				<img src="https://avatars.githubusercontent.com/u/30570613?s=72&u=272eccf1b6a466a258aa670c550c857c837c0ec9&v=4" width="24" alt="Avatar of Dhruv2012"> Dhruv2012
+			</a><br/>
+			Dhruv Patel
+		</td>
+		<td>Ms Robotics, Georgia Tech<br/></td>
+		<td>No Twitter Username</td>
+		<td>Atlanta, Georgia, USA</td>
+		<td>109</td>
+		<td>141</td>
 	</tr>
 	<tr>
 		<td>462</td>
@@ -6604,20 +6604,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>465</td>
 		<td>
-			<a href="https://github.com/Dhruv2012">
-				<img src="https://avatars.githubusercontent.com/u/30570613?s=72&u=272eccf1b6a466a258aa670c550c857c837c0ec9&v=4" width="24" alt="Avatar of Dhruv2012"> Dhruv2012
-			</a><br/>
-			Dhruv Patel
-		</td>
-		<td>Ms Robotics, Georgia Tech<br/></td>
-		<td>No Twitter Username</td>
-		<td>Atlanta, Georgia, USA</td>
-		<td>105</td>
-		<td>137</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
 			<a href="https://github.com/marinadegames">
 				<img src="https://avatars.githubusercontent.com/u/87521761?s=72&u=6150e8f6a84181eac387d1e8ab8fd4230bf29d08&v=4" width="24" alt="Avatar of marinadegames"> marinadegames
 			</a><br/>
@@ -6630,7 +6616,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/Gvantsa-1">
 				<img src="https://avatars.githubusercontent.com/u/103128863?s=72&u=d6f130a756ff56e0814f494b2fa7330e41ecd8d5&v=4" width="24" alt="Avatar of Gvantsa-1"> Gvantsa-1
@@ -6644,7 +6630,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/gleb-svechnikov">
 				<img src="https://avatars.githubusercontent.com/u/500843?s=72&v=4" width="24" alt="Avatar of gleb-svechnikov"> gleb-svechnikov
@@ -6658,7 +6644,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/calebjclark">
 				<img src="https://avatars.githubusercontent.com/u/518307?s=72&u=d5d2eac1333a3e61c936f2e1bef27f8bc5600b4e&v=4" width="24" alt="Avatar of calebjclark"> calebjclark
@@ -6672,7 +6658,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>469</td>
 		<td>
 			<a href="https://github.com/makeitstrict">
 				<img src="https://avatars.githubusercontent.com/u/1549136?s=72&u=f16fdfeb1cc86e5eebc4a2c7624937a03c18631d&v=4" width="24" alt="Avatar of makeitstrict"> makeitstrict
@@ -6686,7 +6672,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>470</td>
 		<td>
 			<a href="https://github.com/ralacher">
 				<img src="https://avatars.githubusercontent.com/u/10408702?s=72&u=706b9646c7759c1a32c2b86f0b13f5d270da9e12&v=4" width="24" alt="Avatar of ralacher"> ralacher
@@ -6700,7 +6686,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>471</td>
 		<td>
 			<a href="https://github.com/davpoolechem">
 				<img src="https://avatars.githubusercontent.com/u/26306559?s=72&u=baa32e0d610aa30b0486034022f08e25143afbcd&v=4" width="24" alt="Avatar of davpoolechem"> davpoolechem
@@ -6714,7 +6700,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>472</td>
 		<td>
 			<a href="https://github.com/KirillGudkov">
 				<img src="https://avatars.githubusercontent.com/u/17552441?s=72&u=20f660159ee82f86706371f63c28273b3c92b877&v=4" width="24" alt="Avatar of KirillGudkov"> KirillGudkov
@@ -6728,7 +6714,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/MCBTay">
 				<img src="https://avatars.githubusercontent.com/u/1085747?s=72&u=8ea5c9ed06025285e5798a2d3957af3db51256ab&v=4" width="24" alt="Avatar of MCBTay"> MCBTay
@@ -6742,7 +6728,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/Xallt">
 				<img src="https://avatars.githubusercontent.com/u/24624181?s=72&u=2d8815faa6ba123c22b046c0393ddb8705803896&v=4" width="24" alt="Avatar of Xallt"> Xallt
@@ -6756,7 +6742,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/gosha20777">
 				<img src="https://avatars.githubusercontent.com/u/25365364?s=72&u=729767555f5040715ab7725038ac98694fb71426&v=4" width="24" alt="Avatar of gosha20777"> gosha20777
@@ -6770,7 +6756,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/Floofies">
 				<img src="https://avatars.githubusercontent.com/u/17753498?s=72&u=27b19de1b913aea52475b2d7da2cab5a112a00b8&v=4" width="24" alt="Avatar of Floofies"> Floofies
@@ -6784,7 +6770,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/sanyam5">
 				<img src="https://avatars.githubusercontent.com/u/2987069?s=72&u=fc8b9eebd8165edc361273e36f81f28757bad34e&v=4" width="24" alt="Avatar of sanyam5"> sanyam5
@@ -6798,7 +6784,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/yandhi">
 				<img src="https://avatars.githubusercontent.com/u/11698651?s=72&u=927438b62dc645c23e276c8d9633e82da4db6542&v=4" width="24" alt="Avatar of yandhi"> yandhi
@@ -6812,7 +6798,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/mustakimur">
 				<img src="https://avatars.githubusercontent.com/u/1774620?s=72&u=ff8ce5e7b851e84b130f247bd11d1c7e0b3e64b1&v=4" width="24" alt="Avatar of mustakimur"> mustakimur
@@ -6824,6 +6810,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Athens, Georgia</td>
 		<td>31</td>
 		<td>127</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
+			<a href="https://github.com/gbuchukuri">
+				<img src="https://avatars.githubusercontent.com/u/35641158?s=72&u=56009bfd38b47a707f8592581eb99666f258d671&v=4" width="24" alt="Avatar of gbuchukuri"> gbuchukuri
+			</a><br/>
+			GeoNodes
+		</td>
+		<td>Geonodes </td>
+		<td>No Twitter Username</td>
+		<td>Georgia</td>
+		<td>121</td>
+		<td>126</td>
 	</tr>
 	<tr>
 		<td>481</td>
@@ -6842,20 +6842,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>482</td>
 		<td>
-			<a href="https://github.com/gbuchukuri">
-				<img src="https://avatars.githubusercontent.com/u/35641158?s=72&u=56009bfd38b47a707f8592581eb99666f258d671&v=4" width="24" alt="Avatar of gbuchukuri"> gbuchukuri
-			</a><br/>
-			GeoNodes
-		</td>
-		<td>Geonodes </td>
-		<td>No Twitter Username</td>
-		<td>Georgia</td>
-		<td>120</td>
-		<td>125</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
 			<a href="https://github.com/givik">
 				<img src="https://avatars.githubusercontent.com/u/2458760?s=72&u=014e374b07068d213de8968fb3e3318e08626b87&v=4" width="24" alt="Avatar of givik"> givik
 			</a><br/>
@@ -6868,7 +6854,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>483</td>
 		<td>
 			<a href="https://github.com/ChandlerBang">
 				<img src="https://avatars.githubusercontent.com/u/32392709?s=72&u=1c8bee24dd529ca805072cc9004d1a88ab4f6e99&v=4" width="24" alt="Avatar of ChandlerBang"> ChandlerBang
@@ -6882,7 +6868,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>484</td>
 		<td>
 			<a href="https://github.com/Maksclub">
 				<img src="https://avatars.githubusercontent.com/u/11223987?s=72&u=98e4789185124c54bf86754898e56121a1773816&v=4" width="24" alt="Avatar of Maksclub"> Maksclub
@@ -6896,7 +6882,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a href="https://github.com/MrKalister">
 				<img src="https://avatars.githubusercontent.com/u/90730760?s=72&u=d83be4667eecee78145206f3427e0611993a492e&v=4" width="24" alt="Avatar of MrKalister"> MrKalister
@@ -6910,7 +6896,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/americast">
 				<img src="https://avatars.githubusercontent.com/u/23132358?s=72&u=dd7afea1c3ebc251fad07e668dfc4046405cbc7e&v=4" width="24" alt="Avatar of americast"> americast
@@ -6924,7 +6910,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/GooseterV">
 				<img src="https://avatars.githubusercontent.com/u/82774618?s=72&u=08b5408c6967f3507d6c7a7c1def055da4adfa19&v=4" width="24" alt="Avatar of GooseterV"> GooseterV
@@ -6938,7 +6924,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/JIceberg">
 				<img src="https://avatars.githubusercontent.com/u/17654209?s=72&u=dd457dd2fb9cfcc7ec458ea1b2a63342b795020f&v=4" width="24" alt="Avatar of JIceberg"> JIceberg
@@ -6952,7 +6938,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/yankvasya">
 				<img src="https://avatars.githubusercontent.com/u/83123707?s=72&u=b83b540bf54dc1685e0ffeb5f5e557adfa478993&v=4" width="24" alt="Avatar of yankvasya"> yankvasya
@@ -6966,7 +6952,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/TGIO">
 				<img src="https://avatars.githubusercontent.com/u/6703714?s=72&u=b232e2450c959bc25845a1d26c8f37dcb7e4b170&v=4" width="24" alt="Avatar of TGIO"> TGIO
@@ -6980,7 +6966,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/sandromirr">
 				<img src="https://avatars.githubusercontent.com/u/14790633?s=72&u=ff8dd28e384411f9b4340fc17abe5e2e087edf08&v=4" width="24" alt="Avatar of sandromirr"> sandromirr
@@ -6994,7 +6980,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/dakyskye">
 				<img src="https://avatars.githubusercontent.com/u/32128756?s=72&u=d8f811aa15d93ce4dff3e5512ed3aef92e83053f&v=4" width="24" alt="Avatar of dakyskye"> dakyskye
@@ -7008,7 +6994,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/ARMmaster17">
 				<img src="https://avatars.githubusercontent.com/u/4678601?s=72&u=7fddb7f14e3638e917a7e417bfe878ea6abe5054&v=4" width="24" alt="Avatar of ARMmaster17"> ARMmaster17
@@ -7022,7 +7008,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/uzairakbar">
 				<img src="https://avatars.githubusercontent.com/u/8474121?s=72&u=256996aa6572960edd14aee42425ca8cc30507db&v=4" width="24" alt="Avatar of uzairakbar"> uzairakbar
@@ -7036,7 +7022,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/pohmelie">
 				<img src="https://avatars.githubusercontent.com/u/2385765?s=72&v=4" width="24" alt="Avatar of pohmelie"> pohmelie
@@ -7050,7 +7036,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/NikolozCh">
 				<img src="https://avatars.githubusercontent.com/u/29595315?s=72&u=f07789422d09fc6d7d7e09689437b148583464d6&v=4" width="24" alt="Avatar of NikolozCh"> NikolozCh
@@ -7064,7 +7050,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/kivilev">
 				<img src="https://avatars.githubusercontent.com/u/25749197?s=72&u=d4eb389dc15f1c6f501628790f71a2fa541671b2&v=4" width="24" alt="Avatar of kivilev"> kivilev
@@ -7078,7 +7064,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/carceneaux">
 				<img src="https://avatars.githubusercontent.com/u/17179966?s=72&u=28e348c6b3bc690dbfc1ea9e0de94be1d52fbb06&v=4" width="24" alt="Avatar of carceneaux"> carceneaux
@@ -7092,7 +7078,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/nikachkharti">
 				<img src="https://avatars.githubusercontent.com/u/51818026?s=72&u=6d3b0f62f21b84effb3db42bb42e8e201ba12146&v=4" width="24" alt="Avatar of nikachkharti"> nikachkharti
@@ -7104,6 +7090,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Georgia</td>
 		<td>107</td>
 		<td>107</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/Chrisolsen1993">
+				<img src="https://avatars.githubusercontent.com/u/49103700?s=72&u=8c10255c7eba3e21030d8b1c43e6a454961801a4&v=4" width="24" alt="Avatar of Chrisolsen1993"> Chrisolsen1993
+			</a><br/>
+			Olsen Ogouchi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Atlanta Georgia</td>
+		<td>106</td>
+		<td>106</td>
 	</tr>
 	<tr>
 		<td>501</td>
@@ -7234,20 +7234,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>510</td>
 		<td>
-			<a href="https://github.com/Chrisolsen1993">
-				<img src="https://avatars.githubusercontent.com/u/49103700?s=72&u=8c10255c7eba3e21030d8b1c43e6a454961801a4&v=4" width="24" alt="Avatar of Chrisolsen1993"> Chrisolsen1993
-			</a><br/>
-			Olsen Ogouchi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Atlanta Georgia</td>
-		<td>96</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>511</td>
-		<td>
 			<a href="https://github.com/BenjamenMeyer">
 				<img src="https://avatars.githubusercontent.com/u/1074110?s=72&v=4" width="24" alt="Avatar of BenjamenMeyer"> BenjamenMeyer
 			</a><br/>
@@ -7260,7 +7246,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/deppen8">
 				<img src="https://avatars.githubusercontent.com/u/28818837?s=72&u=16f0f4658796d301ff4eadb67f3374b91b2b939c&v=4" width="24" alt="Avatar of deppen8"> deppen8
@@ -7274,7 +7260,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/Livingnight">
 				<img src="https://avatars.githubusercontent.com/u/26702985?s=72&u=014476a2ca6a297e88230fc58c4a08cfd38a4f48&v=4" width="24" alt="Avatar of Livingnight"> Livingnight
@@ -7288,7 +7274,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/richardso21">
 				<img src="https://avatars.githubusercontent.com/u/49962416?s=72&u=1b18ec850360aa0dc9527d7bdb65ddc1775226de&v=4" width="24" alt="Avatar of richardso21"> richardso21
@@ -7302,7 +7288,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/khokho">
 				<img src="https://avatars.githubusercontent.com/u/6597974?s=72&u=97a1c096ae4cc5ea70ffad26759e1cddb8e8549a&v=4" width="24" alt="Avatar of khokho"> khokho
@@ -7316,7 +7302,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/unstablebrainiac">
 				<img src="https://avatars.githubusercontent.com/u/14086973?s=72&u=cd4a7d8700c9b3e4e8e07c7b58639e5b25b21929&v=4" width="24" alt="Avatar of unstablebrainiac"> unstablebrainiac
@@ -7330,7 +7316,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/talequale">
 				<img src="https://avatars.githubusercontent.com/u/11165551?s=72&u=4de341855d3a91088679af86982d664fdd94326b&v=4" width="24" alt="Avatar of talequale"> talequale
@@ -7344,7 +7330,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/VHarris113">
 				<img src="https://avatars.githubusercontent.com/u/79177561?s=72&u=104a2d89448419ac35fb25f8c089ca95401515bf&v=4" width="24" alt="Avatar of VHarris113"> VHarris113
@@ -7358,7 +7344,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/joseph-ortiz">
 				<img src="https://avatars.githubusercontent.com/u/3933716?s=72&u=b5965e8a086fc935dde3c592918ce295066c91c0&v=4" width="24" alt="Avatar of joseph-ortiz"> joseph-ortiz
@@ -7372,7 +7358,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/hiennguyen727">
 				<img src="https://avatars.githubusercontent.com/u/140361387?s=72&v=4" width="24" alt="Avatar of hiennguyen727"> hiennguyen727
@@ -7386,7 +7372,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/D-T-666">
 				<img src="https://avatars.githubusercontent.com/u/35934791?s=72&u=60a547ed25f48cca75a9d5ab8e3692ada44ce17b&v=4" width="24" alt="Avatar of D-T-666"> D-T-666
@@ -7400,7 +7386,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/NinoGlonti">
 				<img src="https://avatars.githubusercontent.com/u/54588901?s=72&v=4" width="24" alt="Avatar of NinoGlonti"> NinoGlonti
@@ -7414,7 +7400,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/andrei-volkau">
 				<img src="https://avatars.githubusercontent.com/u/12778567?s=72&u=000d63aa8decb6275ed47da1a5f3642fda6d989f&v=4" width="24" alt="Avatar of andrei-volkau"> andrei-volkau
@@ -7428,7 +7414,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/JoshuaKimsey">
 				<img src="https://avatars.githubusercontent.com/u/22421310?s=72&u=40bb57570ea8da0dc99600d2b16d1f6100e0a9b5&v=4" width="24" alt="Avatar of JoshuaKimsey"> JoshuaKimsey
@@ -7442,7 +7428,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/egillanton">
 				<img src="https://avatars.githubusercontent.com/u/9976294?s=72&u=a8479cb153b591b9597d9579350f35738e520285&v=4" width="24" alt="Avatar of egillanton"> egillanton
@@ -7456,7 +7442,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/rupakg">
 				<img src="https://avatars.githubusercontent.com/u/8188?s=72&u=247a01949ecd3bfd0cfeaf4eefd5980d3726f717&v=4" width="24" alt="Avatar of rupakg"> rupakg
@@ -7470,7 +7456,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/DachiSkhiladze">
 				<img src="https://avatars.githubusercontent.com/u/32598679?s=72&u=dff310d75a7a9519c53e1de9968b50307f39601f&v=4" width="24" alt="Avatar of DachiSkhiladze"> DachiSkhiladze
@@ -7484,7 +7470,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/developer--">
 				<img src="https://avatars.githubusercontent.com/u/7534778?s=72&u=acda9ce60c23358f490c41259d6ec843dde589e0&v=4" width="24" alt="Avatar of developer--"> developer--
@@ -7498,7 +7484,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/delef">
 				<img src="https://avatars.githubusercontent.com/u/2103263?s=72&u=b0ac351a0ecdd2646e67daab425955ef1bf00818&v=4" width="24" alt="Avatar of delef"> delef
@@ -7512,21 +7498,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>530</td>
-		<td>
-			<a href="https://github.com/ramesh-adhikari">
-				<img src="https://avatars.githubusercontent.com/u/10398556?s=72&u=9a3a0239bcaf9803706835b5e4f578693255a183&v=4" width="24" alt="Avatar of ramesh-adhikari"> ramesh-adhikari
-			</a><br/>
-			Ramesh Adhikari
-		</td>
-		<td>Augusta University </td>
-		<td>No Twitter Username</td>
-		<td>Augusta, Georgia, USA</td>
-		<td>87</td>
-		<td>87</td>
-	</tr>
-	<tr>
-		<td>531</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/atercattus">
 				<img src="https://avatars.githubusercontent.com/u/433484?s=72&u=52bde8ab3d7e7f42858c6688232d30ec6833b8ac&v=4" width="24" alt="Avatar of atercattus"> atercattus
@@ -7540,7 +7512,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/CSenshi">
 				<img src="https://avatars.githubusercontent.com/u/27967284?s=72&u=287b32ed47306b61e6820f43a3ae615a5a2e7c95&v=4" width="24" alt="Avatar of CSenshi"> CSenshi
@@ -7554,7 +7526,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/AndreLaranjeira">
 				<img src="https://avatars.githubusercontent.com/u/27373332?s=72&u=e86251ff3786b3cf71efb7222aac87b0926a11ed&v=4" width="24" alt="Avatar of AndreLaranjeira"> AndreLaranjeira
@@ -7568,7 +7540,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/pihanya">
 				<img src="https://avatars.githubusercontent.com/u/20954387?s=72&v=4" width="24" alt="Avatar of pihanya"> pihanya
@@ -7582,7 +7554,21 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>533</td>
+		<td>
+			<a href="https://github.com/ekagharibashvili">
+				<img src="https://avatars.githubusercontent.com/u/56361852?s=72&u=0748db2a678f6c2dd6360aafa67f7049f047fa58&v=4" width="24" alt="Avatar of ekagharibashvili"> ekagharibashvili
+			</a><br/>
+			Eka Gharibashvili
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Georgia</td>
+		<td>78</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/kpearson16">
 				<img src="https://avatars.githubusercontent.com/u/122332523?s=72&u=dba064ba7b596b5862f351521ff39af9e44f1a9e&v=4" width="24" alt="Avatar of kpearson16"> kpearson16
@@ -7594,6 +7580,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>atlanta, georgia</td>
 		<td>83</td>
 		<td>83</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
+			<a href="https://github.com/Ostrenkiy">
+				<img src="https://avatars.githubusercontent.com/u/6818370?s=72&u=38bae07958f9f581a36436830d15a679d968b223&v=4" width="24" alt="Avatar of Ostrenkiy"> Ostrenkiy
+			</a><br/>
+			Alexander Karpov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tbilisi, Georgia</td>
+		<td>0</td>
+		<td>82</td>
 	</tr>
 	<tr>
 		<td>536</td>
@@ -7640,20 +7640,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>539</td>
 		<td>
-			<a href="https://github.com/Ostrenkiy">
-				<img src="https://avatars.githubusercontent.com/u/6818370?s=72&u=38bae07958f9f581a36436830d15a679d968b223&v=4" width="24" alt="Avatar of Ostrenkiy"> Ostrenkiy
-			</a><br/>
-			Alexander Karpov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tbilisi, Georgia</td>
-		<td>0</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>540</td>
-		<td>
 			<a href="https://github.com/JustinPBarnett">
 				<img src="https://avatars.githubusercontent.com/u/42453910?s=72&u=4ed7eef75ec4eec80d1b0ce4eddef3d8a8943bf1&v=4" width="24" alt="Avatar of JustinPBarnett"> JustinPBarnett
 			</a><br/>
@@ -7663,6 +7649,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/JustinPBarnett">JustinPBarnett</a></td>
 		<td>Atlanta, Georgia</td>
 		<td>9</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>540</td>
+		<td>
+			<a href="https://github.com/Touchcreator">
+				<img src="https://avatars.githubusercontent.com/u/64277067?s=72&u=da6187c15df4d30376e97c81ffa0305eabc98b1d&v=4" width="24" alt="Avatar of Touchcreator"> Touchcreator
+			</a><br/>
+			TouchIsNotAGoodCoder
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ImTouchcreator">ImTouchcreator</a></td>
+		<td>Georgia, USA</td>
+		<td>79</td>
 		<td>79</td>
 	</tr>
 	<tr>
@@ -7836,20 +7836,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>553</td>
 		<td>
-			<a href="https://github.com/Touchcreator">
-				<img src="https://avatars.githubusercontent.com/u/64277067?s=72&u=da6187c15df4d30376e97c81ffa0305eabc98b1d&v=4" width="24" alt="Avatar of Touchcreator"> Touchcreator
-			</a><br/>
-			TouchIsNotAGoodCoder
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ImTouchcreator">ImTouchcreator</a></td>
-		<td>Georgia, USA</td>
-		<td>72</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>554</td>
-		<td>
 			<a href="https://github.com/Mishkaten">
 				<img src="https://avatars.githubusercontent.com/u/59793581?s=72&u=3378e1742a4f8177b4ce95bcdd7da8e8279a911d&v=4" width="24" alt="Avatar of Mishkaten"> Mishkaten
 			</a><br/>
@@ -7862,7 +7848,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/ovezovv">
 				<img src="https://avatars.githubusercontent.com/u/39469199?s=72&u=764994e2a91378b9012a2e6541c8766e9b7aca5f&v=4" width="24" alt="Avatar of ovezovv"> ovezovv
@@ -7876,7 +7862,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/akalongman">
 				<img src="https://avatars.githubusercontent.com/u/423050?s=72&u=944202c57d1ca5867b52fc365db8b9350cfd8d9f&v=4" width="24" alt="Avatar of akalongman"> akalongman
@@ -7890,7 +7876,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/Nyarum">
 				<img src="https://avatars.githubusercontent.com/u/1765983?s=72&u=387cdc7a4fc5cb6639c07507b89707c8bfc71f76&v=4" width="24" alt="Avatar of Nyarum"> Nyarum
@@ -7904,7 +7890,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/Qwaz">
 				<img src="https://avatars.githubusercontent.com/u/5073807?s=72&u=2ce3c5e94d4fa1db409878d8812e2dfe6cb164bf&v=4" width="24" alt="Avatar of Qwaz"> Qwaz
@@ -7918,7 +7904,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>559</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/sashabratchikov">
 				<img src="https://avatars.githubusercontent.com/u/10742104?s=72&u=c82e2ce65ca1883cbab3d5c7fa54b52c72361518&v=4" width="24" alt="Avatar of sashabratchikov"> sashabratchikov
@@ -7932,7 +7918,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/Vanoo123">
 				<img src="https://avatars.githubusercontent.com/u/72544422?s=72&u=efee0873634b28341044dd56034146558d603c31&v=4" width="24" alt="Avatar of Vanoo123"> Vanoo123
@@ -7946,7 +7932,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>560</td>
 		<td>
 			<a href="https://github.com/ragnor-rs">
 				<img src="https://avatars.githubusercontent.com/u/3357827?s=72&v=4" width="24" alt="Avatar of ragnor-rs"> ragnor-rs
@@ -7960,7 +7946,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/shoorick">
 				<img src="https://avatars.githubusercontent.com/u/190892?s=72&v=4" width="24" alt="Avatar of shoorick"> shoorick
@@ -7974,7 +7960,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>562</td>
 		<td>
 			<a href="https://github.com/kapitanov">
 				<img src="https://avatars.githubusercontent.com/u/1442286?s=72&u=9d818a20e86330e760197e6ebd1c03a86d46b81f&v=4" width="24" alt="Avatar of kapitanov"> kapitanov
@@ -7988,7 +7974,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>563</td>
 		<td>
 			<a href="https://github.com/ArtZ23">
 				<img src="https://avatars.githubusercontent.com/u/45604779?s=72&u=7ee15b3d480c47f55fef0144968bb8895001789c&v=4" width="24" alt="Avatar of ArtZ23"> ArtZ23
@@ -8002,7 +7988,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/OscarViquez">
 				<img src="https://avatars.githubusercontent.com/u/55415043?s=72&u=3464b6f368b613ba727f2d7c0b152acfaaf5f411&v=4" width="24" alt="Avatar of OscarViquez"> OscarViquez
@@ -8012,11 +7998,11 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Atlanta,Georgia</td>
-		<td>64</td>
 		<td>65</td>
+		<td>66</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/georgegach">
 				<img src="https://avatars.githubusercontent.com/u/5983539?s=72&u=2bc108454514f9592107c5ba64727ee08efbae59&v=4" width="24" alt="Avatar of georgegach"> georgegach
@@ -8030,7 +8016,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/elencho">
 				<img src="https://avatars.githubusercontent.com/u/53994979?s=72&u=d69b914b736fe291f229e9d4348298503d0b65c8&v=4" width="24" alt="Avatar of elencho"> elencho
@@ -8044,7 +8030,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/ganievs">
 				<img src="https://avatars.githubusercontent.com/u/19270785?s=72&u=5d53e55670fa6d0dfb70706a788d4c313bd6c341&v=4" width="24" alt="Avatar of ganievs"> ganievs
@@ -8058,7 +8044,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/timofeykafanov">
 				<img src="https://avatars.githubusercontent.com/u/74354936?s=72&u=14fd832fc91d58d13ae0a9da1a17a2a9dae3955f&v=4" width="24" alt="Avatar of timofeykafanov"> timofeykafanov
@@ -8072,7 +8058,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/UtkarshMishra04">
 				<img src="https://avatars.githubusercontent.com/u/33784374?s=72&u=696f9612b467a35be6b5d71f7932c0a20b681090&v=4" width="24" alt="Avatar of UtkarshMishra04"> UtkarshMishra04
@@ -8086,7 +8072,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/a-andres1">
 				<img src="https://avatars.githubusercontent.com/u/74474948?s=72&u=e5db1dcebaafbe4da789403bea69623467e2ef45&v=4" width="24" alt="Avatar of a-andres1"> a-andres1
@@ -8100,7 +8086,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/demodude4u">
 				<img src="https://avatars.githubusercontent.com/u/2279262?s=72&u=a553d53bb30dd6966efc689b7ce6252fee898f2b&v=4" width="24" alt="Avatar of demodude4u"> demodude4u
@@ -8114,7 +8100,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/IrakliDevelop">
 				<img src="https://avatars.githubusercontent.com/u/34164426?s=72&u=3417875ee68e78466277ecc7021c8d6666c9b3aa&v=4" width="24" alt="Avatar of IrakliDevelop"> IrakliDevelop
@@ -8128,7 +8114,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/gabriel-fallen">
 				<img src="https://avatars.githubusercontent.com/u/1333595?s=72&u=ddc5d4a23861ae9344d65689606660b89dbeb303&v=4" width="24" alt="Avatar of gabriel-fallen"> gabriel-fallen
@@ -8142,7 +8128,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/kedeisha1">
 				<img src="https://avatars.githubusercontent.com/u/93458473?s=72&u=b57b3d7f848bbdbb50d67d6b363664174442fff1&v=4" width="24" alt="Avatar of kedeisha1"> kedeisha1
@@ -8156,7 +8142,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/xakep666">
 				<img src="https://avatars.githubusercontent.com/u/3612285?s=72&u=b73b0b29baee440a99e0dcb479ecdce2eb77c29b&v=4" width="24" alt="Avatar of xakep666"> xakep666
@@ -8170,7 +8156,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/johnMamish">
 				<img src="https://avatars.githubusercontent.com/u/1323420?s=72&u=94569474d032cb1062facc22f3b7b599293d6854&v=4" width="24" alt="Avatar of johnMamish"> johnMamish
@@ -8184,7 +8170,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/mnill">
 				<img src="https://avatars.githubusercontent.com/u/3879603?s=72&u=c53c9ef552d5036dde0fb2dcbc0d9e2b2b4bb27a&v=4" width="24" alt="Avatar of mnill"> mnill
@@ -8196,6 +8182,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Georgia</td>
 		<td>57</td>
 		<td>57</td>
+	</tr>
+	<tr>
+		<td>578</td>
+		<td>
+			<a href="https://github.com/nhrones">
+				<img src="https://avatars.githubusercontent.com/u/3278787?s=72&u=628270c7e164770e4963551b4fd2703d9c6694b4&v=4" width="24" alt="Avatar of nhrones"> nhrones
+			</a><br/>
+			NDH
+		</td>
+		<td>Ndh </td>
+		<td>No Twitter Username</td>
+		<td>Georgia</td>
+		<td>56</td>
+		<td>56</td>
 	</tr>
 	<tr>
 		<td>579</td>
@@ -8354,14 +8354,14 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>590</td>
 		<td>
-			<a href="https://github.com/karlnicholas">
-				<img src="https://avatars.githubusercontent.com/u/2110283?s=72&v=4" width="24" alt="Avatar of karlnicholas"> karlnicholas
+			<a href="https://github.com/AkshitCalonia">
+				<img src="https://avatars.githubusercontent.com/u/76471555?s=72&u=dc2d2086fc651b88e253ce719f2ab938f26a057f&v=4" width="24" alt="Avatar of AkshitCalonia"> AkshitCalonia
 			</a><br/>
-			Karl Nicholas
+			Akshit Calonia
 		</td>
-		<td>Enterprise Java </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Atlanta, Georgia</td>
+		<td>Atlanta, Georgia, United States</td>
 		<td>49</td>
 		<td>49</td>
 	</tr>
@@ -8382,20 +8382,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>592</td>
 		<td>
-			<a href="https://github.com/AkshitCalonia">
-				<img src="https://avatars.githubusercontent.com/u/76471555?s=72&u=dc2d2086fc651b88e253ce719f2ab938f26a057f&v=4" width="24" alt="Avatar of AkshitCalonia"> AkshitCalonia
-			</a><br/>
-			Akshit Calonia
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Atlanta, Georgia, United States</td>
-		<td>48</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>593</td>
-		<td>
 			<a href="https://github.com/merabchik">
 				<img src="https://avatars.githubusercontent.com/u/1982729?s=72&u=d71a85eb5117dbbb2851410df6c67015c7d1db60&v=4" width="24" alt="Avatar of merabchik"> merabchik
 			</a><br/>
@@ -8408,7 +8394,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/shelomentsevd">
 				<img src="https://avatars.githubusercontent.com/u/2341511?s=72&u=07dabbab675ec7d323ecf9432e7ba0a67047fed6&v=4" width="24" alt="Avatar of shelomentsevd"> shelomentsevd
@@ -8422,7 +8408,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/asattiraju13">
 				<img src="https://avatars.githubusercontent.com/u/55694739?s=72&u=14da6aee71fdaf67600dafd684b90096dd308151&v=4" width="24" alt="Avatar of asattiraju13"> asattiraju13
@@ -8436,7 +8422,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/scink">
 				<img src="https://avatars.githubusercontent.com/u/15276485?s=72&u=0995ab0108ccc1669631915b30c87eba090a4c7d&v=4" width="24" alt="Avatar of scink"> scink
@@ -8448,6 +8434,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Tbilisi</td>
 		<td>46</td>
 		<td>46</td>
+	</tr>
+	<tr>
+		<td>596</td>
+		<td>
+			<a href="https://github.com/karlnicholas">
+				<img src="https://avatars.githubusercontent.com/u/2110283?s=72&v=4" width="24" alt="Avatar of karlnicholas"> karlnicholas
+			</a><br/>
+			Karl Nicholas
+		</td>
+		<td>Enterprise Java </td>
+		<td>No Twitter Username</td>
+		<td>Atlanta, Georgia</td>
+		<td>44</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>597</td>
@@ -8634,6 +8634,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>610</td>
 		<td>
+			<a href="https://github.com/davidsichinava">
+				<img src="https://avatars.githubusercontent.com/u/1273693?s=72&u=1256dc75d316174a669a101f44e09951b4b71ec1&v=4" width="24" alt="Avatar of davidsichinava"> davidsichinava
+			</a><br/>
+			David Sichinava
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/davidsichinava">davidsichinava</a></td>
+		<td>Ottawa, CA; Tbilisi, GE</td>
+		<td>39</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>611</td>
+		<td>
 			<a href="https://github.com/zvlex">
 				<img src="https://avatars.githubusercontent.com/u/4821468?s=72&u=812d36548d928fe4baa606edfb252722bb664dbf&v=4" width="24" alt="Avatar of zvlex"> zvlex
 			</a><br/>
@@ -8646,7 +8660,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/supra-modum">
 				<img src="https://avatars.githubusercontent.com/u/47771726?s=72&u=bd0506efd2c8b30cee6a2fc538e2d1f12e863f66&v=4" width="24" alt="Avatar of supra-modum"> supra-modum
@@ -8660,7 +8674,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/sergey-sw">
 				<img src="https://avatars.githubusercontent.com/u/12372818?s=72&u=5305ef5d1a2f45d7b4fe95253649487525268db4&v=4" width="24" alt="Avatar of sergey-sw"> sergey-sw
@@ -8674,7 +8688,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/natroshviliio">
 				<img src="https://avatars.githubusercontent.com/u/38262019?s=72&u=6ea068c3b8cf1caa1a2b2dfca4a99f820f385c00&v=4" width="24" alt="Avatar of natroshviliio"> natroshviliio
@@ -8688,7 +8702,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/andresnew00">
 				<img src="https://avatars.githubusercontent.com/u/41840829?s=72&u=d0f6463293a75e3a35556dee71388a0e3dc38388&v=4" width="24" alt="Avatar of andresnew00"> andresnew00
@@ -8702,7 +8716,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/wolfman2000">
 				<img src="https://avatars.githubusercontent.com/u/148345?s=72&u=aeab4f8430d6e9ffc63f76813c27dced89c69503&v=4" width="24" alt="Avatar of wolfman2000"> wolfman2000
@@ -8716,7 +8730,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/shubhlohiya">
 				<img src="https://avatars.githubusercontent.com/u/46513988?s=72&u=c4fc1e79a44641ddf820eabe51cde3e80d837eca&v=4" width="24" alt="Avatar of shubhlohiya"> shubhlohiya
@@ -8730,7 +8744,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/Kyrasuum">
 				<img src="https://avatars.githubusercontent.com/u/22846440?s=72&u=925237226e46ce27cc78f2f7a340b19519ac84c8&v=4" width="24" alt="Avatar of Kyrasuum"> Kyrasuum
@@ -8744,7 +8758,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/TeagrinForde">
 				<img src="https://avatars.githubusercontent.com/u/101753839?s=72&u=3e52d717748d0aaa02410439664ac10c5fdcef7d&v=4" width="24" alt="Avatar of TeagrinForde"> TeagrinForde
@@ -8756,20 +8770,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>Georgia, USA</td>
 		<td>36</td>
 		<td>36</td>
-	</tr>
-	<tr>
-		<td>619</td>
-		<td>
-			<a href="https://github.com/davidsichinava">
-				<img src="https://avatars.githubusercontent.com/u/1273693?s=72&u=1256dc75d316174a669a101f44e09951b4b71ec1&v=4" width="24" alt="Avatar of davidsichinava"> davidsichinava
-			</a><br/>
-			David Sichinava
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/davidsichinava">davidsichinava</a></td>
-		<td>Ottawa, CA; Tbilisi, GE</td>
-		<td>35</td>
-		<td>35</td>
 	</tr>
 	<tr>
 		<td>620</td>
@@ -9698,6 +9698,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>686</td>
 		<td>
+			<a href="https://github.com/m0sk1t">
+				<img src="https://avatars.githubusercontent.com/u/3394441?s=72&v=4" width="24" alt="Avatar of m0sk1t"> m0sk1t
+			</a><br/>
+			Artem Komarov
+		</td>
+		<td>@microsoftdocs,@quan </td>
+		<td>No Twitter Username</td>
+		<td>Batumi</td>
+		<td>17</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>687</td>
+		<td>
 			<a href="https://github.com/d2718nis">
 				<img src="https://avatars.githubusercontent.com/u/18328279?s=72&u=5110c7224407518662b19993e86bdf878d6778cf&v=4" width="24" alt="Avatar of d2718nis"> d2718nis
 			</a><br/>
@@ -9710,7 +9724,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/ngoch">
 				<img src="https://avatars.githubusercontent.com/u/2676940?s=72&u=ac3fdc41c5146d5418a471e74d34b015a6a27872&v=4" width="24" alt="Avatar of ngoch"> ngoch
@@ -9724,7 +9738,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/justingoldberg">
 				<img src="https://avatars.githubusercontent.com/u/6743293?s=72&u=ec7425b2215253c0385da6d36d829635b26f47c5&v=4" width="24" alt="Avatar of justingoldberg"> justingoldberg
@@ -9738,7 +9752,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/safareli">
 				<img src="https://avatars.githubusercontent.com/u/1932383?s=72&u=0b9b14792d17d3667321e2216925e7f2ec4c84c4&v=4" width="24" alt="Avatar of safareli"> safareli
@@ -9752,7 +9766,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/ivan-osipov">
 				<img src="https://avatars.githubusercontent.com/u/6793585?s=72&u=774ccd693359804e3753fe6a2ddbd1ad51b8daa1&v=4" width="24" alt="Avatar of ivan-osipov"> ivan-osipov
@@ -9766,7 +9780,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/tillcarlos">
 				<img src="https://avatars.githubusercontent.com/u/34775?s=72&u=d24be4427fc17bcb8ba6ee7be187003a446dca41&v=4" width="24" alt="Avatar of tillcarlos"> tillcarlos
@@ -9780,7 +9794,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/shubhscoder">
 				<img src="https://avatars.githubusercontent.com/u/18489285?s=72&u=d1e4edcee3d022f464bb8162a60846f98c2b616f&v=4" width="24" alt="Avatar of shubhscoder"> shubhscoder
@@ -9794,7 +9808,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/Jortsoft">
 				<img src="https://avatars.githubusercontent.com/u/48485731?s=72&u=059f547b214cabc495967598f84bafefc994730a&v=4" width="24" alt="Avatar of Jortsoft"> Jortsoft
@@ -9808,7 +9822,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/leshark">
 				<img src="https://avatars.githubusercontent.com/u/20068062?s=72&u=34b39df89ce8fe9dd9b16d54691d8971a17266b4&v=4" width="24" alt="Avatar of leshark"> leshark
@@ -9822,7 +9836,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/matthewjflanagan">
 				<img src="https://avatars.githubusercontent.com/u/87581853?s=72&u=aa6777d94b0f4933c65e66818cb80fd6fa2cb11e&v=4" width="24" alt="Avatar of matthewjflanagan"> matthewjflanagan
@@ -9836,7 +9850,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/SUXUMI">
 				<img src="https://avatars.githubusercontent.com/u/5499359?s=72&u=bdc2deb474922eff725d3757adb0e31c23423d2a&v=4" width="24" alt="Avatar of SUXUMI"> SUXUMI
@@ -9850,7 +9864,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/brrttwrks">
 				<img src="https://avatars.githubusercontent.com/u/550060?s=72&v=4" width="24" alt="Avatar of brrttwrks"> brrttwrks
@@ -9864,7 +9878,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/solilin">
 				<img src="https://avatars.githubusercontent.com/u/228206?s=72&u=33312248e050838a21e07181afdbad02005b1024&v=4" width="24" alt="Avatar of solilin"> solilin
@@ -9878,7 +9892,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/rgalyeon">
 				<img src="https://avatars.githubusercontent.com/u/28117274?s=72&u=7a993133f8ccf6a4fe6d9e1059306a2ab8b00e1c&v=4" width="24" alt="Avatar of rgalyeon"> rgalyeon
@@ -9892,7 +9906,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/SANDRUX">
 				<img src="https://avatars.githubusercontent.com/u/74353246?s=72&u=02cf62efd3d457ee484af52dbc7094712fcbffe1&v=4" width="24" alt="Avatar of SANDRUX"> SANDRUX
@@ -9906,7 +9920,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/alexndr-novikov">
 				<img src="https://avatars.githubusercontent.com/u/7372962?s=72&u=a26f11b9a12a2c61f8a2ebf78a9ccf69d1a7ed4b&v=4" width="24" alt="Avatar of alexndr-novikov"> alexndr-novikov
@@ -9920,7 +9934,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/levants">
 				<img src="https://avatars.githubusercontent.com/u/3180402?s=72&v=4" width="24" alt="Avatar of levants"> levants
@@ -9934,7 +9948,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/nobotro">
 				<img src="https://avatars.githubusercontent.com/u/18247155?s=72&u=5aaff433b13f6ee7f4df8c1f269a0b47ff63fcb2&v=4" width="24" alt="Avatar of nobotro"> nobotro
@@ -9948,7 +9962,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/rozetko">
 				<img src="https://avatars.githubusercontent.com/u/1989898?s=72&u=0dad2bf832117703eeb149b43e116a43c7b260e8&v=4" width="24" alt="Avatar of rozetko"> rozetko
@@ -9962,7 +9976,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/kylephillips">
 				<img src="https://avatars.githubusercontent.com/u/1779473?s=72&u=db53a2a071c022d3a80ca77c3f30f6ef615fcdb8&v=4" width="24" alt="Avatar of kylephillips"> kylephillips
@@ -9976,7 +9990,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/watscho">
 				<img src="https://avatars.githubusercontent.com/u/35995947?s=72&u=7c762b1781ff48447af85a12e96dd1898d7f45aa&v=4" width="24" alt="Avatar of watscho"> watscho
@@ -9990,7 +10004,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/roalts">
 				<img src="https://avatars.githubusercontent.com/u/5617794?s=72&u=af625b28c957b7e7bdc3940ea63851f882bed4dd&v=4" width="24" alt="Avatar of roalts"> roalts
@@ -10004,7 +10018,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/Eke">
 				<img src="https://avatars.githubusercontent.com/u/817489?s=72&u=265157cf91f40769c9beb97c1023710edaa19691&v=4" width="24" alt="Avatar of Eke"> Eke
@@ -10018,7 +10032,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/cassiel257">
 				<img src="https://avatars.githubusercontent.com/u/55888277?s=72&u=31f3d5c13d2224d1ba5b8ad1f1ba2f10d701733e&v=4" width="24" alt="Avatar of cassiel257"> cassiel257
@@ -10032,7 +10046,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/egorkaru">
 				<img src="https://avatars.githubusercontent.com/u/605155?s=72&u=d024175a311c74e1662760bd29c1a21ba71e8a52&v=4" width="24" alt="Avatar of egorkaru"> egorkaru
@@ -10046,7 +10060,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/DachiDarchiashvili">
 				<img src="https://avatars.githubusercontent.com/u/12998842?s=72&u=0678a5594b7a9958fda31910b957c7d101503064&v=4" width="24" alt="Avatar of DachiDarchiashvili"> DachiDarchiashvili
@@ -10060,7 +10074,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/TaranMNeeld">
 				<img src="https://avatars.githubusercontent.com/u/45437093?s=72&u=e9e83b29987498d963418dbb7db0d8ce5729e0f9&v=4" width="24" alt="Avatar of TaranMNeeld"> TaranMNeeld
@@ -10074,7 +10088,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/anarh1st47">
 				<img src="https://avatars.githubusercontent.com/u/16495272?s=72&u=8f5b9c47fcb3bcc6765e41ebad61e9b9079c181c&v=4" width="24" alt="Avatar of anarh1st47"> anarh1st47
@@ -10088,7 +10102,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/kulakowka">
 				<img src="https://avatars.githubusercontent.com/u/557190?s=72&u=dbcee85be27196ea44357c42df66592a669ae284&v=4" width="24" alt="Avatar of kulakowka"> kulakowka
@@ -10102,7 +10116,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/pva701">
 				<img src="https://avatars.githubusercontent.com/u/7355273?s=72&u=d11b8107a32d41bc30a5716585947bdaa8668db7&v=4" width="24" alt="Avatar of pva701"> pva701
@@ -10116,7 +10130,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/choilina16">
 				<img src="https://avatars.githubusercontent.com/u/100983245?s=72&u=c363b15f68638fbd473a5da1f078522b272edd0b&v=4" width="24" alt="Avatar of choilina16"> choilina16
@@ -10126,20 +10140,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Atlanta, Georgia</td>
-		<td>11</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>717</td>
-		<td>
-			<a href="https://github.com/pirati02">
-				<img src="https://avatars.githubusercontent.com/u/7505501?s=72&v=4" width="24" alt="Avatar of pirati02"> pirati02
-			</a><br/>
-			pirati02
-		</td>
-		<td>@epam </td>
-		<td>No Twitter Username</td>
-		<td>Georgia</td>
 		<td>11</td>
 		<td>11</td>
 	</tr>
@@ -10160,6 +10160,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>719</td>
 		<td>
+			<a href="https://github.com/pirati02">
+				<img src="https://avatars.githubusercontent.com/u/7505501?s=72&v=4" width="24" alt="Avatar of pirati02"> pirati02
+			</a><br/>
+			pirati02
+		</td>
+		<td>@epam </td>
+		<td>No Twitter Username</td>
+		<td>Georgia</td>
+		<td>11</td>
+		<td>11</td>
+	</tr>
+	<tr>
+		<td>720</td>
+		<td>
 			<a href="https://github.com/methi1999">
 				<img src="https://avatars.githubusercontent.com/u/31348707?s=72&u=8e08e25fb871859b7ac6f5ee602a7847fcdff5d6&v=4" width="24" alt="Avatar of methi1999"> methi1999
 			</a><br/>
@@ -10172,7 +10186,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/mohammadhashemii">
 				<img src="https://avatars.githubusercontent.com/u/64592462?s=72&u=bcd8bf57499c882b4cdad98d727d02c4f3739b2e&v=4" width="24" alt="Avatar of mohammadhashemii"> mohammadhashemii
@@ -10186,7 +10200,7 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/AhsanAyub">
 				<img src="https://avatars.githubusercontent.com/u/12248689?s=72&u=db78972e1952aef3ad20a8e31ab4c17ae5ee6a69&v=4" width="24" alt="Avatar of AhsanAyub"> AhsanAyub
@@ -10196,20 +10210,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>@tntech-ceroc </td>
 		<td><a href="https://twitter.com/MdAhsanAyub">MdAhsanAyub</a></td>
 		<td>Georgia, USA</td>
-		<td>10</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>722</td>
-		<td>
-			<a href="https://github.com/m0sk1t">
-				<img src="https://avatars.githubusercontent.com/u/3394441?s=72&v=4" width="24" alt="Avatar of m0sk1t"> m0sk1t
-			</a><br/>
-			Artem Komarov
-		</td>
-		<td>@microsoftdocs,@quan </td>
-		<td>No Twitter Username</td>
-		<td>Batumi</td>
 		<td>10</td>
 		<td>10</td>
 	</tr>
@@ -10580,20 +10580,6 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 	<tr>
 		<td>749</td>
 		<td>
-			<a href="https://github.com/saksmt">
-				<img src="https://avatars.githubusercontent.com/u/3481977?s=72&v=4" width="24" alt="Avatar of saksmt"> saksmt
-			</a><br/>
-			Kirill Saksin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tbilisi, Georgia</td>
-		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>750</td>
-		<td>
 			<a href="https://github.com/jeizsm">
 				<img src="https://avatars.githubusercontent.com/u/1622882?s=72&u=bbf3b0782f57011a76e5a1bc8f391bc8ee2a61ac&v=4" width="24" alt="Avatar of jeizsm"> jeizsm
 			</a><br/>
@@ -10602,6 +10588,20 @@ There are `974 users`  in Georgia. You need at least `14 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Georgia</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>750</td>
+		<td>
+			<a href="https://github.com/saksmt">
+				<img src="https://avatars.githubusercontent.com/u/3481977?s=72&v=4" width="24" alt="Avatar of saksmt"> saksmt
+			</a><br/>
+			Kirill Saksin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tbilisi, Georgia</td>
 		<td>7</td>
 		<td>7</td>
 	</tr>
