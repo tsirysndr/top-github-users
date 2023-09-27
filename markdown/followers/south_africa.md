@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="South Africa">
 </a>
 
-The `number of followers` of users in South Africa on `2023/9/26 7:59 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
+The `number of followers` of users in South Africa on `2023/9/27 2:10 PM UTC`. This list contains users from `South Africa` and cities `Cape-town` `Johannesburg` `Durban` `Pretoria` `Soweto`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>@microsoft @xamarin @mono @monogame<br/></td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
-		<td>951</td>
+		<td>952</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -336,7 +336,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>@bright-sparks </td>
 		<td><a href="https://twitter.com/martinmyburgh">martinmyburgh</a></td>
 		<td>Johannesburg, South Africa</td>
-		<td>240</td>
+		<td>239</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -575,19 +575,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>37</td>
 		<td>
-			<a href="https://github.com/Akoatem">
-				<img src="https://avatars.githubusercontent.com/u/71437843?s=72&u=11cfddd658104f8e1c8f494ba24095aa89e01a07&v=4" width="24" alt="Avatar of Akoatem"> Akoatem
-			</a><br/>
-			Ako Atem
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
-		<td>159</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
 			<a href="https://github.com/jonathanbossenger">
 				<img src="https://avatars.githubusercontent.com/u/180629?s=72&u=7020e0a117ed341534b738c986f0874b1e79a4f9&v=4" width="24" alt="Avatar of jonathanbossenger"> jonathanbossenger
 			</a><br/>
@@ -599,7 +586,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/alistairholmes">
 				<img src="https://avatars.githubusercontent.com/u/22801227?s=72&u=721ec5d10bfa7aa50230a22e380acb6b0f58204f&v=4" width="24" alt="Avatar of alistairholmes"> alistairholmes
@@ -610,6 +597,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td><a href="https://twitter.com/alistairholmes_">alistairholmes_</a></td>
 		<td>Johannesburg, South Africa</td>
 		<td>159</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td>
+			<a href="https://github.com/Akoatem">
+				<img src="https://avatars.githubusercontent.com/u/71437843?s=72&u=11cfddd658104f8e1c8f494ba24095aa89e01a07&v=4" width="24" alt="Avatar of Akoatem"> Akoatem
+			</a><br/>
+			Ako Atem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>157</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -674,7 +674,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Software Development  </td>
 		<td>No Twitter Username</td>
 		<td>Pretoria </td>
-		<td>142</td>
+		<td>141</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -757,19 +757,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>51</td>
 		<td>
-			<a href="https://github.com/Stevie011">
-				<img src="https://avatars.githubusercontent.com/u/60195287?s=72&u=e6cdd0b849052ce8821e1bbeb564fa745007eaeb&v=4" width="24" alt="Avatar of Stevie011"> Stevie011
-			</a><br/>
-			Steven Stewart
-		</td>
-		<td>Https://leetcode.com </td>
-		<td><a href="https://twitter.com/StevieStewart11">StevieStewart11</a></td>
-		<td>Johannesburg</td>
-		<td>118</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
 			<a href="https://github.com/fijal">
 				<img src="https://avatars.githubusercontent.com/u/85944?s=72&u=54cfc546ea4e435aeb56e78dd549276ec27173eb&v=4" width="24" alt="Avatar of fijal"> fijal
 			</a><br/>
@@ -781,7 +768,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/marcpeiser">
 				<img src="https://avatars.githubusercontent.com/u/390709?s=72&u=3a8d83687b69bd9f5b2edfabc78753c1a5a3fd99&v=4" width="24" alt="Avatar of marcpeiser"> marcpeiser
@@ -792,6 +779,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Pretoria, South Africa</td>
 		<td>118</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/Stevie011">
+				<img src="https://avatars.githubusercontent.com/u/60195287?s=72&u=e6cdd0b849052ce8821e1bbeb564fa745007eaeb&v=4" width="24" alt="Avatar of Stevie011"> Stevie011
+			</a><br/>
+			Steven Stewart
+		</td>
+		<td>Https://leetcode.com </td>
+		<td><a href="https://twitter.com/StevieStewart11">StevieStewart11</a></td>
+		<td>Johannesburg</td>
+		<td>116</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -1199,19 +1199,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>85</td>
 		<td>
-			<a href="https://github.com/Riyaazct">
-				<img src="https://avatars.githubusercontent.com/u/94745207?s=72&u=aa93144fd2ffcb3960e7a9846b0418d3f14440af&v=4" width="24" alt="Avatar of Riyaazct"> Riyaazct
-			</a><br/>
-			Riyaaz Singh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>87</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
 			<a href="https://github.com/aaliyah-jardien">
 				<img src="https://avatars.githubusercontent.com/u/82204946?s=72&u=6b622bbc5adcc7b2fecc6bbe16b2bd0243d31bcd&v=4" width="24" alt="Avatar of aaliyah-jardien"> aaliyah-jardien
 			</a><br/>
@@ -1223,7 +1210,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/itskingori">
 				<img src="https://avatars.githubusercontent.com/u/703786?s=72&v=4" width="24" alt="Avatar of itskingori"> itskingori
@@ -1236,7 +1223,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/mrmodise">
 				<img src="https://avatars.githubusercontent.com/u/5213555?s=72&u=766cd3ea816e9086c7024398a174fa073499042d&v=4" width="24" alt="Avatar of mrmodise"> mrmodise
@@ -1249,7 +1236,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/dannykopping">
 				<img src="https://avatars.githubusercontent.com/u/373762?s=72&u=3e18edbbe7cb75482ddb705e80c7dd7712fadd52&v=4" width="24" alt="Avatar of dannykopping"> dannykopping
@@ -1258,6 +1245,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		</td>
 		<td>@grafana </td>
 		<td><a href="https://twitter.com/dannykopping">dannykopping</a></td>
+		<td>Cape Town, South Africa</td>
+		<td>83</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/Riyaazct">
+				<img src="https://avatars.githubusercontent.com/u/94745207?s=72&u=aa93144fd2ffcb3960e7a9846b0418d3f14440af&v=4" width="24" alt="Avatar of Riyaazct"> Riyaazct
+			</a><br/>
+			Riyaaz Singh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
 		<td>83</td>
 	</tr>
@@ -1363,7 +1363,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Afrihost </td>
 		<td><a href="https://twitter.com/Khethelogp">Khethelogp</a></td>
 		<td>Johannesburg, South Africa</td>
-		<td>78</td>
+		<td>77</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1407,19 +1407,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>101</td>
 		<td>
-			<a href="https://github.com/SiraajBedford">
-				<img src="https://avatars.githubusercontent.com/u/50363253?s=72&u=babb51cc269e6e68386d745758d85b6e061b9b70&v=4" width="24" alt="Avatar of SiraajBedford"> SiraajBedford
-			</a><br/>
-			Siraaj Bedford
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/siraajbedford">siraajbedford</a></td>
-		<td>Cape Town, South Africa</td>
-		<td>74</td>
-	</tr>
-	<tr>
-		<td>102</td>
-		<td>
 			<a href="https://github.com/senyosimpson">
 				<img src="https://avatars.githubusercontent.com/u/31822321?s=72&u=3549333e63e1dc9aed841cafdda966bc71502cb3&v=4" width="24" alt="Avatar of senyosimpson"> senyosimpson
 			</a><br/>
@@ -1428,6 +1415,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>@superfly  </td>
 		<td><a href="https://twitter.com/senyeezus">senyeezus</a></td>
 		<td>Cape Town</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/SiraajBedford">
+				<img src="https://avatars.githubusercontent.com/u/50363253?s=72&u=babb51cc269e6e68386d745758d85b6e061b9b70&v=4" width="24" alt="Avatar of SiraajBedford"> SiraajBedford
+			</a><br/>
+			Siraaj Bedford
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/siraajbedford">siraajbedford</a></td>
+		<td>Cape Town, South Africa</td>
 		<td>72</td>
 	</tr>
 	<tr>
@@ -1524,19 +1524,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>110</td>
 		<td>
-			<a href="https://github.com/cogeorg">
-				<img src="https://avatars.githubusercontent.com/u/7039845?s=72&u=9df3623bdf613898e7607fdb0ed02c039497dd6c&v=4" width="24" alt="Avatar of cogeorg"> cogeorg
-			</a><br/>
-			Co-Pierre Georg
-		</td>
-		<td>Uct </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>111</td>
-		<td>
 			<a href="https://github.com/JosiahThobejane">
 				<img src="https://avatars.githubusercontent.com/u/33384308?s=72&u=a705af4391e431fd3adfedef495ccc8d28b247d2&v=4" width="24" alt="Avatar of JosiahThobejane"> JosiahThobejane
 			</a><br/>
@@ -1545,6 +1532,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>@leaply </td>
 		<td>No Twitter Username</td>
 		<td>Pretoria, South Africa.</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td>
+			<a href="https://github.com/cogeorg">
+				<img src="https://avatars.githubusercontent.com/u/7039845?s=72&u=9df3623bdf613898e7607fdb0ed02c039497dd6c&v=4" width="24" alt="Avatar of cogeorg"> cogeorg
+			</a><br/>
+			Co-Pierre Georg
+		</td>
+		<td>Uct </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
 		<td>67</td>
 	</tr>
 	<tr>
@@ -1667,19 +1667,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>121</td>
 		<td>
-			<a href="https://github.com/Therealblackgold">
-				<img src="https://avatars.githubusercontent.com/u/58868373?s=72&u=b6c24c36624df1d9d783acfd52e1f1d3b57c82ae&v=4" width="24" alt="Avatar of Therealblackgold"> Therealblackgold
-			</a><br/>
-			Gauta Ncholo
-		</td>
-		<td>Sidekicks Dev </td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg </td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
 			<a href="https://github.com/rgodlontonshaw">
 				<img src="https://avatars.githubusercontent.com/u/17359170?s=72&u=d7b710321de15f36b71845b22096e5b28a28b80f&v=4" width="24" alt="Avatar of rgodlontonshaw"> rgodlontonshaw
 			</a><br/>
@@ -1691,7 +1678,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/Siyanda">
 				<img src="https://avatars.githubusercontent.com/u/2773268?s=72&v=4" width="24" alt="Avatar of Siyanda"> Siyanda
@@ -1704,7 +1691,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/donovanmuller">
 				<img src="https://avatars.githubusercontent.com/u/1175891?s=72&u=f444a2d0502bbd55d15331b55c1491140e0a0b29&v=4" width="24" alt="Avatar of donovanmuller"> donovanmuller
@@ -1717,7 +1704,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/chandredewet">
 				<img src="https://avatars.githubusercontent.com/u/65244840?s=72&u=be38c29e705ec934b323b58791f5894635f4bb6d&v=4" width="24" alt="Avatar of chandredewet"> chandredewet
@@ -1727,6 +1714,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/Therealblackgold">
+				<img src="https://avatars.githubusercontent.com/u/58868373?s=72&u=b6c24c36624df1d9d783acfd52e1f1d3b57c82ae&v=4" width="24" alt="Avatar of Therealblackgold"> Therealblackgold
+			</a><br/>
+			Gauta Ncholo
+		</td>
+		<td>Sidekicks Dev </td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg </td>
 		<td>63</td>
 	</tr>
 	<tr>
@@ -1966,6 +1966,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>144</td>
 		<td>
+			<a href="https://github.com/laurenwaller">
+				<img src="https://avatars.githubusercontent.com/u/1502903?s=72&u=18ac9225459f9bc432e4628beaa2c3114922bc60&v=4" width="24" alt="Avatar of laurenwaller"> laurenwaller
+			</a><br/>
+			Lauren Waller
+		</td>
+		<td>Detail Technologies </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>55</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
 			<a href="https://github.com/circlingthesun">
 				<img src="https://avatars.githubusercontent.com/u/1028632?s=72&u=73fc8c14e12b0bb0f26e98ad6c5e85426dc2f368&v=4" width="24" alt="Avatar of circlingthesun"> circlingthesun
 			</a><br/>
@@ -1977,7 +1990,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>145</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/stephancill">
 				<img src="https://avatars.githubusercontent.com/u/5469870?s=72&u=b49e116f325a172dc118f466348923a4c6b34c61&v=4" width="24" alt="Avatar of stephancill"> stephancill
@@ -1990,7 +2003,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/giordifungula">
 				<img src="https://avatars.githubusercontent.com/u/27930281?s=72&u=6179b58d591a9c3e7579e9ae3c73edb7bf70d4d1&v=4" width="24" alt="Avatar of giordifungula"> giordifungula
@@ -2003,7 +2016,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/lostpebble">
 				<img src="https://avatars.githubusercontent.com/u/1508863?s=72&u=4ada478500c2c9112fe8e3b0b8240a454403aebc&v=4" width="24" alt="Avatar of lostpebble"> lostpebble
@@ -2013,19 +2026,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Paris <-> Cape Town</td>
-		<td>54</td>
-	</tr>
-	<tr>
-		<td>148</td>
-		<td>
-			<a href="https://github.com/laurenwaller">
-				<img src="https://avatars.githubusercontent.com/u/1502903?s=72&u=18ac9225459f9bc432e4628beaa2c3114922bc60&v=4" width="24" alt="Avatar of laurenwaller"> laurenwaller
-			</a><br/>
-			Lauren Waller
-		</td>
-		<td>Detail Technologies </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
 		<td>54</td>
 	</tr>
 	<tr>
@@ -2577,19 +2577,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>191</td>
 		<td>
-			<a href="https://github.com/TebogoYungMercykay">
-				<img src="https://avatars.githubusercontent.com/u/91455209?s=72&u=8fd99d5485e06b4ca4f0d77a785fb1aaebb3560a&v=4" width="24" alt="Avatar of TebogoYungMercykay"> TebogoYungMercykay
-			</a><br/>
-			Selepe Sello
-		</td>
-		<td>University Of Pretoria </td>
-		<td><a href="https://twitter.com/BylSbk">BylSbk</a></td>
-		<td>Apartments On William,180 William St, Brooklyn, Pretoria, 0011</td>
-		<td>45</td>
-	</tr>
-	<tr>
-		<td>192</td>
-		<td>
 			<a href="https://github.com/burmudar">
 				<img src="https://avatars.githubusercontent.com/u/1001709?s=72&u=9b3db1e0b25d0855173bbbdae4a57fe19669b98f&v=4" width="24" alt="Avatar of burmudar"> burmudar
 			</a><br/>
@@ -2601,7 +2588,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/stephenlake">
 				<img src="https://avatars.githubusercontent.com/u/1300442?s=72&u=dd7749e86571bdbe56cdf3053b35610b83798392&v=4" width="24" alt="Avatar of stephenlake"> stephenlake
@@ -2614,7 +2601,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/Gordonei">
 				<img src="https://avatars.githubusercontent.com/u/1272984?s=72&u=a999f94bbe635278698e832d3a78cb064056874c&v=4" width="24" alt="Avatar of Gordonei"> Gordonei
@@ -2624,6 +2611,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>@cityofcapetown  </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>194</td>
+		<td>
+			<a href="https://github.com/Siphiwo">
+				<img src="https://avatars.githubusercontent.com/u/22646629?s=72&u=86d5a61cca80490fd1be68b9573c0671189f386c&v=4" width="24" alt="Avatar of Siphiwo"> Siphiwo
+			</a><br/>
+			Siphiwo Julayi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sjulayi">sjulayi</a></td>
+		<td>Cape town, South Africa</td>
 		<td>45</td>
 	</tr>
 	<tr>
@@ -2668,6 +2668,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>198</td>
 		<td>
+			<a href="https://github.com/TebogoYungMercykay">
+				<img src="https://avatars.githubusercontent.com/u/91455209?s=72&u=8fd99d5485e06b4ca4f0d77a785fb1aaebb3560a&v=4" width="24" alt="Avatar of TebogoYungMercykay"> TebogoYungMercykay
+			</a><br/>
+			Selepe Sello
+		</td>
+		<td>University Of Pretoria </td>
+		<td><a href="https://twitter.com/BylSbk">BylSbk</a></td>
+		<td>Apartments On William,180 William St, Brooklyn, Pretoria, 0011</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
 			<a href="https://github.com/sheenarbw">
 				<img src="https://avatars.githubusercontent.com/u/699166?s=72&u=32701a2aaf47f6dae38784e1920327f43207720e&v=4" width="24" alt="Avatar of sheenarbw"> sheenarbw
 			</a><br/>
@@ -2679,7 +2692,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/trevorgowing">
 				<img src="https://avatars.githubusercontent.com/u/863970?s=72&u=87a9df4d855c2c01b21b19092d1722af5901ca96&v=4" width="24" alt="Avatar of trevorgowing"> trevorgowing
@@ -2692,7 +2705,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/toast38coza">
 				<img src="https://avatars.githubusercontent.com/u/517966?s=72&v=4" width="24" alt="Avatar of toast38coza"> toast38coza
@@ -2705,7 +2718,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/nanosoftonline">
 				<img src="https://avatars.githubusercontent.com/u/23306683?s=72&u=c663c5a3c285621b20580a7cc0345eacd97e2fad&v=4" width="24" alt="Avatar of nanosoftonline"> nanosoftonline
@@ -2715,19 +2728,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Nanosoft </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>202</td>
-		<td>
-			<a href="https://github.com/Siphiwo">
-				<img src="https://avatars.githubusercontent.com/u/22646629?s=72&u=86d5a61cca80490fd1be68b9573c0671189f386c&v=4" width="24" alt="Avatar of Siphiwo"> Siphiwo
-			</a><br/>
-			Siphiwo Julayi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sjulayi">sjulayi</a></td>
-		<td>Cape town, South Africa</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -2863,19 +2863,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>213</td>
 		<td>
-			<a href="https://github.com/OptimisticUnderdog">
-				<img src="https://avatars.githubusercontent.com/u/110236527?s=72&u=b153992f876cb35dcb15d418157cc8b2526a58d3&v=4" width="24" alt="Avatar of OptimisticUnderdog"> OptimisticUnderdog
-			</a><br/>
-			Mfumu Mabunda
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>214</td>
-		<td>
 			<a href="https://github.com/h3ndry">
 				<img src="https://avatars.githubusercontent.com/u/51496873?s=72&u=9b483e71ad5b0637b71399d4dc40624d26b6499a&v=4" width="24" alt="Avatar of h3ndry"> h3ndry
 			</a><br/>
@@ -2887,7 +2874,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/alxcnwy">
 				<img src="https://avatars.githubusercontent.com/u/8632011?s=72&u=6cb74baea73a0e9395605794a933abf2f6c8ba09&v=4" width="24" alt="Avatar of alxcnwy"> alxcnwy
@@ -2900,7 +2887,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/HanjoStudy">
 				<img src="https://avatars.githubusercontent.com/u/12710800?s=72&u=cbe709b567870ed1a65d162513e34ab0a5496854&v=4" width="24" alt="Avatar of HanjoStudy"> HanjoStudy
@@ -2913,7 +2900,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/ashleygrobler04">
 				<img src="https://avatars.githubusercontent.com/u/31541911?s=72&v=4" width="24" alt="Avatar of ashleygrobler04"> ashleygrobler04
@@ -2926,7 +2913,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/CmdrDats">
 				<img src="https://avatars.githubusercontent.com/u/1006584?s=72&u=27417250cdd002975bc6f849d11d9a74b559caac&v=4" width="24" alt="Avatar of CmdrDats"> CmdrDats
@@ -2939,7 +2926,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/Sarlton">
 				<img src="https://avatars.githubusercontent.com/u/54685146?s=72&u=c807d7285424a54a00aebd3885895865b467ac2d&v=4" width="24" alt="Avatar of Sarlton"> Sarlton
@@ -2952,7 +2939,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/TalentLatch">
 				<img src="https://avatars.githubusercontent.com/u/40236112?s=72&u=068d3b7a5750a91e9b75cc51f769b5c11d2befd9&v=4" width="24" alt="Avatar of TalentLatch"> TalentLatch
@@ -2965,7 +2952,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/JagTheFriend">
 				<img src="https://avatars.githubusercontent.com/u/70753983?s=72&u=3cf73d36c2dab2e77e6110c9f86883364f92f511&v=4" width="24" alt="Avatar of JagTheFriend"> JagTheFriend
@@ -2978,12 +2965,25 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>41</td>
 	</tr>
 	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/boris-kolpackov">
+				<img src="https://avatars.githubusercontent.com/u/31799599?s=72&u=a53de72ba0efe9f3720f4fbb36ea6dbf7d0506c7&v=4" width="24" alt="Avatar of boris-kolpackov"> boris-kolpackov
+			</a><br/>
+			Boris Kolpackov
+		</td>
+		<td>Code Synthesis </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>41</td>
+	</tr>
+	<tr>
 		<td>222</td>
 		<td>
-			<a href="https://github.com/Linf0rd">
-				<img src="https://avatars.githubusercontent.com/u/122806756?s=72&u=ef4b3a8a80bb57f01763bdeb8e5ca9c22b0df604&v=4" width="24" alt="Avatar of Linf0rd"> Linf0rd
+			<a href="https://github.com/OptimisticUnderdog">
+				<img src="https://avatars.githubusercontent.com/u/110236527?s=72&u=b153992f876cb35dcb15d418157cc8b2526a58d3&v=4" width="24" alt="Avatar of OptimisticUnderdog"> OptimisticUnderdog
 			</a><br/>
-			Linford
+			Mfumu Mabunda
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3006,19 +3006,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>224</td>
 		<td>
-			<a href="https://github.com/SkinnyShugo">
-				<img src="https://avatars.githubusercontent.com/u/20124826?s=72&u=21a1629d75b51a19f46300f75d0ef5e599f071aa&v=4" width="24" alt="Avatar of SkinnyShugo"> SkinnyShugo
-			</a><br/>
-			Skinny Shugo
-		</td>
-		<td>@geeklucha </td>
-		<td><a href="https://twitter.com/skinnyshugo">skinnyshugo</a></td>
-		<td>Pretoria|JHB</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>225</td>
-		<td>
 			<a href="https://github.com/JasonWandrag">
 				<img src="https://avatars.githubusercontent.com/u/21158540?s=72&v=4" width="24" alt="Avatar of JasonWandrag"> JasonWandrag
 			</a><br/>
@@ -3030,7 +3017,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/mithrandi">
 				<img src="https://avatars.githubusercontent.com/u/856430?s=72&v=4" width="24" alt="Avatar of mithrandi"> mithrandi
@@ -3043,7 +3030,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/GazimbeIsaac">
 				<img src="https://avatars.githubusercontent.com/u/99329208?s=72&u=450fee99987da78176df41b771cac4a0219e79e3&v=4" width="24" alt="Avatar of GazimbeIsaac"> GazimbeIsaac
@@ -3056,7 +3043,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/DamianvdB">
 				<img src="https://avatars.githubusercontent.com/u/25118142?s=72&u=956ab1a51000e9fc6f50cd6565ad906972e3066d&v=4" width="24" alt="Avatar of DamianvdB"> DamianvdB
@@ -3069,20 +3056,20 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>228</td>
 		<td>
-			<a href="https://github.com/boris-kolpackov">
-				<img src="https://avatars.githubusercontent.com/u/31799599?s=72&u=a53de72ba0efe9f3720f4fbb36ea6dbf7d0506c7&v=4" width="24" alt="Avatar of boris-kolpackov"> boris-kolpackov
+			<a href="https://github.com/Linf0rd">
+				<img src="https://avatars.githubusercontent.com/u/122806756?s=72&u=ef4b3a8a80bb57f01763bdeb8e5ca9c22b0df604&v=4" width="24" alt="Avatar of Linf0rd"> Linf0rd
 			</a><br/>
-			Boris Kolpackov
+			Linford
 		</td>
-		<td>Code Synthesis </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
+		<td>Johannesburg</td>
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/kolawoletech">
 				<img src="https://avatars.githubusercontent.com/u/4382405?s=72&u=e156f6539f6e6175c4fd599c7c092c3c791798fd&v=4" width="24" alt="Avatar of kolawoletech"> kolawoletech
@@ -3095,7 +3082,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/zeorin">
 				<img src="https://avatars.githubusercontent.com/u/1187078?s=72&v=4" width="24" alt="Avatar of zeorin"> zeorin
@@ -3108,20 +3095,20 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>231</td>
 		<td>
-			<a href="https://github.com/EzekielUtshudi">
-				<img src="https://avatars.githubusercontent.com/u/81693905?s=72&u=5047b7aa8f9b252ced2bd562ffef3214a6a5f591&v=4" width="24" alt="Avatar of EzekielUtshudi"> EzekielUtshudi
+			<a href="https://github.com/SkinnyShugo">
+				<img src="https://avatars.githubusercontent.com/u/20124826?s=72&u=21a1629d75b51a19f46300f75d0ef5e599f071aa&v=4" width="24" alt="Avatar of SkinnyShugo"> SkinnyShugo
 			</a><br/>
-			Ezekiel Utshudi Eteta
+			Skinny Shugo
 		</td>
-		<td>Micro-tech </td>
-		<td><a href="https://twitter.com/UtshudiEzekiel">UtshudiEzekiel</a></td>
-		<td>Cape town , South africa.</td>
+		<td>@geeklucha </td>
+		<td><a href="https://twitter.com/skinnyshugo">skinnyshugo</a></td>
+		<td>Pretoria|JHB</td>
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/Tertiush">
 				<img src="https://avatars.githubusercontent.com/u/11636364?s=72&u=3d0025456334c68e26ab953c06a41487311ac39a&v=4" width="24" alt="Avatar of Tertiush"> Tertiush
@@ -3134,7 +3121,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/iandurbach">
 				<img src="https://avatars.githubusercontent.com/u/14127459?s=72&u=1a427921970c61a28affe856ad316433d4b32ecf&v=4" width="24" alt="Avatar of iandurbach"> iandurbach
@@ -3147,7 +3134,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/jnell-godaddy">
 				<img src="https://avatars.githubusercontent.com/u/1705810?s=72&u=fb82835a624cc6e9772eed3a3d5936fe15e5081e&v=4" width="24" alt="Avatar of jnell-godaddy"> jnell-godaddy
@@ -3160,7 +3147,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/rgdacosta">
 				<img src="https://avatars.githubusercontent.com/u/2785801?s=72&u=281e0ff122700b83fb33e4d072e9c879c4c43af5&v=4" width="24" alt="Avatar of rgdacosta"> rgdacosta
@@ -3173,7 +3160,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/DevinNorgarb">
 				<img src="https://avatars.githubusercontent.com/u/12491966?s=72&v=4" width="24" alt="Avatar of DevinNorgarb"> DevinNorgarb
@@ -3186,7 +3173,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/taylorgibb">
 				<img src="https://avatars.githubusercontent.com/u/13660108?s=72&u=48fe96de98856c3ffa40c3d5cf193e3f051bda68&v=4" width="24" alt="Avatar of taylorgibb"> taylorgibb
@@ -3196,6 +3183,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Durban, South Africa</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>238</td>
+		<td>
+			<a href="https://github.com/eugenefvdm">
+				<img src="https://avatars.githubusercontent.com/u/1836436?s=72&u=c931e2d3c463338b5c72fe40c51f6b56a4c5b088&v=4" width="24" alt="Avatar of eugenefvdm"> eugenefvdm
+			</a><br/>
+			Eugene van der Merwe 
+		</td>
+		<td>Vander Host & Fintechsystems.net<br/></td>
+		<td><a href="https://twitter.com/eugenefvdm">eugenefvdm</a></td>
+		<td>Cape Town</td>
 		<td>39</td>
 	</tr>
 	<tr>
@@ -3253,6 +3253,32 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>243</td>
 		<td>
+			<a href="https://github.com/GMoncrieff">
+				<img src="https://avatars.githubusercontent.com/u/8463334?s=72&u=859b647ee1a1525e980ffa3c6c3a5e3b4d4b55c9&v=4" width="24" alt="Avatar of GMoncrieff"> GMoncrieff
+			</a><br/>
+			Glenn Moncrieff
+		</td>
+		<td>@saeon  </td>
+		<td><a href="https://twitter.com/glennwithtwons">glennwithtwons</a></td>
+		<td>Cape Town, South Africa</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
+			<a href="https://github.com/EzekielUtshudi">
+				<img src="https://avatars.githubusercontent.com/u/81693905?s=72&u=5047b7aa8f9b252ced2bd562ffef3214a6a5f591&v=4" width="24" alt="Avatar of EzekielUtshudi"> EzekielUtshudi
+			</a><br/>
+			Ezekiel Utshudi Eteta
+		</td>
+		<td>Micro-tech </td>
+		<td><a href="https://twitter.com/UtshudiEzekiel">UtshudiEzekiel</a></td>
+		<td>Cape town , South africa.</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
 			<a href="https://github.com/PabiMoloi">
 				<img src="https://avatars.githubusercontent.com/u/31185337?s=72&u=981acc59b91b78751daa2c4c6c27653426b416e4&v=4" width="24" alt="Avatar of PabiMoloi"> PabiMoloi
 			</a><br/>
@@ -3264,7 +3290,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/apead">
 				<img src="https://avatars.githubusercontent.com/u/3928718?s=72&u=9eed0848b70769558a8560c31da9b82d8e5d5799&v=4" width="24" alt="Avatar of apead"> apead
@@ -3277,7 +3303,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/etiennemarais">
 				<img src="https://avatars.githubusercontent.com/u/4479918?s=72&u=6561e0e04e0a619d117f243f6a6ab923363fd39b&v=4" width="24" alt="Avatar of etiennemarais"> etiennemarais
@@ -3290,7 +3316,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/pedreviljoen">
 				<img src="https://avatars.githubusercontent.com/u/22566407?s=72&u=a100a0903c6c38a4eb768fd483c192b37785c451&v=4" width="24" alt="Avatar of pedreviljoen"> pedreviljoen
@@ -3303,7 +3329,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/c-goosen">
 				<img src="https://avatars.githubusercontent.com/u/7881734?s=72&u=3cfd731ee94d84a6385a6f80bf8115ac8a348bfc&v=4" width="24" alt="Avatar of c-goosen"> c-goosen
@@ -3316,20 +3342,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>248</td>
-		<td>
-			<a href="https://github.com/eugenefvdm">
-				<img src="https://avatars.githubusercontent.com/u/1836436?s=72&u=c931e2d3c463338b5c72fe40c51f6b56a4c5b088&v=4" width="24" alt="Avatar of eugenefvdm"> eugenefvdm
-			</a><br/>
-			Eugene van der Merwe 
-		</td>
-		<td>Vander Host & Fintechsystems.net<br/></td>
-		<td><a href="https://twitter.com/eugenefvdm">eugenefvdm</a></td>
-		<td>Cape Town</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>249</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/coeniebeyers">
 				<img src="https://avatars.githubusercontent.com/u/5429884?s=72&v=4" width="24" alt="Avatar of coeniebeyers"> coeniebeyers
@@ -3342,7 +3355,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/Ayano2000">
 				<img src="https://avatars.githubusercontent.com/u/47319672?s=72&u=cd53562fa74940ef616e8ec133df8788156ac3b8&v=4" width="24" alt="Avatar of Ayano2000"> Ayano2000
@@ -3355,7 +3368,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/greywolve">
 				<img src="https://avatars.githubusercontent.com/u/1939511?s=72&u=51beeb41f496ddc5a8b62201cb4e05ea51b4a614&v=4" width="24" alt="Avatar of greywolve"> greywolve
@@ -3368,7 +3381,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/markodayan">
 				<img src="https://avatars.githubusercontent.com/u/30315436?s=72&u=b37f3b5cbf8833eb93b7621bf6f01d3f5b1e60f5&v=4" width="24" alt="Avatar of markodayan"> markodayan
@@ -3378,19 +3391,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mark_mkzo">mark_mkzo</a></td>
 		<td>Durban</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>253</td>
-		<td>
-			<a href="https://github.com/GMoncrieff">
-				<img src="https://avatars.githubusercontent.com/u/8463334?s=72&u=859b647ee1a1525e980ffa3c6c3a5e3b4d4b55c9&v=4" width="24" alt="Avatar of GMoncrieff"> GMoncrieff
-			</a><br/>
-			Glenn Moncrieff
-		</td>
-		<td>@saeon  </td>
-		<td><a href="https://twitter.com/glennwithtwons">glennwithtwons</a></td>
-		<td>Cape Town, South Africa</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -3799,6 +3799,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>285</td>
 		<td>
+			<a href="https://github.com/uroboros">
+				<img src="https://avatars.githubusercontent.com/u/8812?s=72&v=4" width="24" alt="Avatar of uroboros"> uroboros
+			</a><br/>
+			ryan za
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
 			<a href="https://github.com/Lutooly">
 				<img src="https://avatars.githubusercontent.com/u/59076053?s=72&v=4" width="24" alt="Avatar of Lutooly"> Lutooly
 			</a><br/>
@@ -3810,7 +3823,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/chasingbob">
 				<img src="https://avatars.githubusercontent.com/u/7665484?s=72&u=69385e17bb3c8a85dd82d2596a1106a5061c2491&v=4" width="24" alt="Avatar of chasingbob"> chasingbob
@@ -3823,7 +3836,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/pawel2105">
 				<img src="https://avatars.githubusercontent.com/u/811477?s=72&u=44e196fc5e0ce00f4c4f4bc0a6bf5944e4013058&v=4" width="24" alt="Avatar of pawel2105"> pawel2105
@@ -3836,7 +3849,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/mattf96s">
 				<img src="https://avatars.githubusercontent.com/u/68327846?s=72&u=30a73b4482b33551efa081ff22e19102e946295b&v=4" width="24" alt="Avatar of mattf96s"> mattf96s
@@ -3849,7 +3862,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/AceFire6">
 				<img src="https://avatars.githubusercontent.com/u/4126778?s=72&u=8616f2085b373f078131c49a8107a8fbeeb6d808&v=4" width="24" alt="Avatar of AceFire6"> AceFire6
@@ -3862,7 +3875,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/fjlaubscher">
 				<img src="https://avatars.githubusercontent.com/u/5119031?s=72&u=884098dd34048b164d0f4b057b886c76ff7c8886&v=4" width="24" alt="Avatar of fjlaubscher"> fjlaubscher
@@ -3875,7 +3888,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/WisaniShilumani">
 				<img src="https://avatars.githubusercontent.com/u/22444640?s=72&u=fb238147de5b37a4aa3a20a12a7f1b2c3dbe0303&v=4" width="24" alt="Avatar of WisaniShilumani"> WisaniShilumani
@@ -3885,19 +3898,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Allan Gray Proprietary Limited<br/></td>
 		<td><a href="https://twitter.com/wisanishilumani">wisanishilumani</a></td>
 		<td>Cape Town</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/aamir-asaram">
-				<img src="https://avatars.githubusercontent.com/u/76215321?s=72&u=6bdb2b70d7575e3a23ccd6a366b4b153cce65f69&v=4" width="24" alt="Avatar of aamir-asaram"> aamir-asaram
-			</a><br/>
-			Aamir Asaram
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
 		<td>34</td>
 	</tr>
 	<tr>
@@ -3981,23 +3981,23 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>299</td>
 		<td>
-			<a href="https://github.com/uroboros">
-				<img src="https://avatars.githubusercontent.com/u/8812?s=72&v=4" width="24" alt="Avatar of uroboros"> uroboros
-			</a><br/>
-			ryan za
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>300</td>
-		<td>
 			<a href="https://github.com/matievisthekat">
 				<img src="https://avatars.githubusercontent.com/u/45036977?s=72&u=e714ae5d8f21a30ff432746ef169d372e76a32e4&v=4" width="24" alt="Avatar of matievisthekat"> matievisthekat
 			</a><br/>
 			Matthew Stead
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
+			<a href="https://github.com/aamir-asaram">
+				<img src="https://avatars.githubusercontent.com/u/76215321?s=72&u=6bdb2b70d7575e3a23ccd6a366b4b153cce65f69&v=4" width="24" alt="Avatar of aamir-asaram"> aamir-asaram
+			</a><br/>
+			Aamir Asaram
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4137,6 +4137,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>311</td>
 		<td>
+			<a href="https://github.com/Siyabonga-Gregory">
+				<img src="https://avatars.githubusercontent.com/u/19228713?s=72&u=316b69f55c4425c85a0ef2d83c9118ec6dd393d0&v=4" width="24" alt="Avatar of Siyabonga-Gregory"> Siyabonga-Gregory
+			</a><br/>
+			Siyabonga Gregory
+		</td>
+		<td>Picra Systems </td>
+		<td><a href="https://twitter.com/SyabongaGregory">SyabongaGregory</a></td>
+		<td>Pretoria, South Africa</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
 			<a href="https://github.com/Sibabalwe-Qamata">
 				<img src="https://avatars.githubusercontent.com/u/20126197?s=72&u=7e8eba22c822dac70603a36c9c515ed01c250145&v=4" width="24" alt="Avatar of Sibabalwe-Qamata"> Sibabalwe-Qamata
 			</a><br/>
@@ -4148,7 +4161,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/AlbertCloete">
 				<img src="https://avatars.githubusercontent.com/u/4183251?s=72&v=4" width="24" alt="Avatar of AlbertCloete"> AlbertCloete
@@ -4161,7 +4174,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/obany">
 				<img src="https://avatars.githubusercontent.com/u/5030334?s=72&u=f5acd79eb409369ea2d26bb90cf67c50feb0019f&v=4" width="24" alt="Avatar of obany"> obany
@@ -4174,7 +4187,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/dainemawer">
 				<img src="https://avatars.githubusercontent.com/u/48082535?s=72&v=4" width="24" alt="Avatar of dainemawer"> dainemawer
@@ -4187,7 +4200,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/Manuel-Sphe">
 				<img src="https://avatars.githubusercontent.com/u/49991613?s=72&u=02064417b2af4ad039e8c6a65585e65f8dd9379f&v=4" width="24" alt="Avatar of Manuel-Sphe"> Manuel-Sphe
@@ -4200,7 +4213,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/GundamDweeb">
 				<img src="https://avatars.githubusercontent.com/u/42357713?s=72&u=50b985f7b400027841921979e9c89eac465dd843&v=4" width="24" alt="Avatar of GundamDweeb"> GundamDweeb
@@ -4213,7 +4226,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/zkrige">
 				<img src="https://avatars.githubusercontent.com/u/968412?s=72&u=5224e65e8481642a0a9b19f985fdbeb4eb61c133&v=4" width="24" alt="Avatar of zkrige"> zkrige
@@ -4226,7 +4239,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/wernerhp">
 				<img src="https://avatars.githubusercontent.com/u/2578772?s=72&v=4" width="24" alt="Avatar of wernerhp"> wernerhp
@@ -4239,7 +4252,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/leonvanzyl">
 				<img src="https://avatars.githubusercontent.com/u/78896180?s=72&u=cec74a7e3301dd9151f16e78725f316db0fdf7eb&v=4" width="24" alt="Avatar of leonvanzyl"> leonvanzyl
@@ -4249,19 +4262,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Johannesburg, South Africa</td>
-		<td>32</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/Siyabonga-Gregory">
-				<img src="https://avatars.githubusercontent.com/u/19228713?s=72&u=316b69f55c4425c85a0ef2d83c9118ec6dd393d0&v=4" width="24" alt="Avatar of Siyabonga-Gregory"> Siyabonga-Gregory
-			</a><br/>
-			Siyabonga Gregory
-		</td>
-		<td>Picra Systems </td>
-		<td><a href="https://twitter.com/SyabongaGregory">SyabongaGregory</a></td>
-		<td>Pretoria, South Africa</td>
 		<td>32</td>
 	</tr>
 	<tr>
@@ -4462,6 +4462,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>336</td>
 		<td>
+			<a href="https://github.com/bagf">
+				<img src="https://avatars.githubusercontent.com/u/2567601?s=72&u=d3e86d2b8aed8aa9c65fe2a38a36fca9b2c9c03c&v=4" width="24" alt="Avatar of bagf"> bagf
+			</a><br/>
+			Rory
+		</td>
+		<td>@castleone  </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
 			<a href="https://github.com/ksmasemula">
 				<img src="https://avatars.githubusercontent.com/u/20091183?s=72&u=f543779c518d95ded42e40f53b6b8d2211871a53&v=4" width="24" alt="Avatar of ksmasemula"> ksmasemula
 			</a><br/>
@@ -4473,7 +4486,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/Executioner1939">
 				<img src="https://avatars.githubusercontent.com/u/10631012?s=72&u=b8208b1f098de7fe6fb80ccc6c796b841240b92a&v=4" width="24" alt="Avatar of Executioner1939"> Executioner1939
@@ -4486,7 +4499,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/5iDS">
 				<img src="https://avatars.githubusercontent.com/u/1865463?s=72&v=4" width="24" alt="Avatar of 5iDS"> 5iDS
@@ -4499,7 +4512,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/DouglasVDM">
 				<img src="https://avatars.githubusercontent.com/u/74470226?s=72&u=3a3f1bad9ca233f1aa0e56bbc20bc3e00b72a1bd&v=4" width="24" alt="Avatar of DouglasVDM"> DouglasVDM
@@ -4512,7 +4525,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/Phiwo1dev">
 				<img src="https://avatars.githubusercontent.com/u/122806468?s=72&u=f19472629adee63759d72ad5f7e779c92f91ce31&v=4" width="24" alt="Avatar of Phiwo1dev"> Phiwo1dev
@@ -4525,7 +4538,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/givenkiban1">
 				<img src="https://avatars.githubusercontent.com/u/42853516?s=72&u=84927c9e092bde9accd04e1ee1a2513708b8c214&v=4" width="24" alt="Avatar of givenkiban1"> givenkiban1
@@ -4538,7 +4551,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/vgeddes">
 				<img src="https://avatars.githubusercontent.com/u/117534?s=72&u=796f5abbbb42eff2a9fe39e244285b18f3195bb7&v=4" width="24" alt="Avatar of vgeddes"> vgeddes
@@ -4551,7 +4564,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/hcvst">
 				<img src="https://avatars.githubusercontent.com/u/106671?s=72&u=e3649ae7cc436001befb5932da2efcb8f3e6f3b8&v=4" width="24" alt="Avatar of hcvst"> hcvst
@@ -4564,7 +4577,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/markbirss">
 				<img src="https://avatars.githubusercontent.com/u/22388007?s=72&u=1cdd8f221e990a36c53de99a128f4757d2ba14c3&v=4" width="24" alt="Avatar of markbirss"> markbirss
@@ -4577,7 +4590,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/wernsey">
 				<img src="https://avatars.githubusercontent.com/u/4777926?s=72&u=1466a562159c2ff0a9b60772dce401a96abb92b4&v=4" width="24" alt="Avatar of wernsey"> wernsey
@@ -4590,7 +4603,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/wizba">
 				<img src="https://avatars.githubusercontent.com/u/33273335?s=72&u=f5a99282ea50964f321f74c33514c8feeccb6480&v=4" width="24" alt="Avatar of wizba"> wizba
@@ -4603,7 +4616,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/Pholisa-Fatyela">
 				<img src="https://avatars.githubusercontent.com/u/11028989?s=72&u=e1f1f0e422c2a820d2000efba14c31b51a226b2b&v=4" width="24" alt="Avatar of Pholisa-Fatyela"> Pholisa-Fatyela
@@ -4616,7 +4629,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/banelemjaji">
 				<img src="https://avatars.githubusercontent.com/u/52581719?s=72&v=4" width="24" alt="Avatar of banelemjaji"> banelemjaji
@@ -4629,7 +4642,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/jesselsookha">
 				<img src="https://avatars.githubusercontent.com/u/128137223?s=72&u=7167467377fdd025a53061670659e21af0df66c5&v=4" width="24" alt="Avatar of jesselsookha"> jesselsookha
@@ -4642,7 +4655,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/thefanclub">
 				<img src="https://avatars.githubusercontent.com/u/3775580?s=72&u=379cd8e71f82d87b085ee3d45c3450d937db5ff8&v=4" width="24" alt="Avatar of thefanclub"> thefanclub
@@ -4653,19 +4666,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
 		<td>30</td>
-	</tr>
-	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/bagf">
-				<img src="https://avatars.githubusercontent.com/u/2567601?s=72&u=d3e86d2b8aed8aa9c65fe2a38a36fca9b2c9c03c&v=4" width="24" alt="Avatar of bagf"> bagf
-			</a><br/>
-			Rory
-		</td>
-		<td>@castleone  </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>29</td>
 	</tr>
 	<tr>
 		<td>352</td>
@@ -4683,19 +4683,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>353</td>
 		<td>
-			<a href="https://github.com/TakalaniNel">
-				<img src="https://avatars.githubusercontent.com/u/119311271?s=72&u=cdefb1f07e66533bb665430472d1cf37482459ca&v=4" width="24" alt="Avatar of TakalaniNel"> TakalaniNel
-			</a><br/>
-			Takalani Neluheni
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gauteng Pretoria</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>354</td>
-		<td>
 			<a href="https://github.com/yokimpillay">
 				<img src="https://avatars.githubusercontent.com/u/25602516?s=72&u=f4a671e6ad388a0ff33af594a1323c82c7acf8e8&v=4" width="24" alt="Avatar of yokimpillay"> yokimpillay
 			</a><br/>
@@ -4707,7 +4694,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/anelda">
 				<img src="https://avatars.githubusercontent.com/u/7215014?s=72&u=4c52f257c7577295dfa8b5a2bd4a4b6592fb5961&v=4" width="24" alt="Avatar of anelda"> anelda
@@ -4720,7 +4707,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/marcusinthesky">
 				<img src="https://avatars.githubusercontent.com/u/26429489?s=72&u=f0f47c154c82769887160f8d46d0b4e1c8ba9fe9&v=4" width="24" alt="Avatar of marcusinthesky"> marcusinthesky
@@ -4733,7 +4720,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/arnash003">
 				<img src="https://avatars.githubusercontent.com/u/77126323?s=72&u=a4f9b646d3998ef2e050130a5eb51758d70cc1f0&v=4" width="24" alt="Avatar of arnash003"> arnash003
@@ -4741,6 +4728,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 			Asher-jay Arenz
 		</td>
 		<td>Alkemi Collective </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
+			<a href="https://github.com/xdossantos">
+				<img src="https://avatars.githubusercontent.com/u/39842595?s=72&u=7a46c4bc6ef709a3b5a75b3db3602da4db927ebe&v=4" width="24" alt="Avatar of xdossantos"> xdossantos
+			</a><br/>
+			Xola dos Santos
+		</td>
+		<td>Xdode Information Systems </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
 		<td>29</td>
@@ -4761,19 +4761,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>359</td>
 		<td>
-			<a href="https://github.com/xdossantos">
-				<img src="https://avatars.githubusercontent.com/u/39842595?s=72&u=7a46c4bc6ef709a3b5a75b3db3602da4db927ebe&v=4" width="24" alt="Avatar of xdossantos"> xdossantos
-			</a><br/>
-			Xola dos Santos
-		</td>
-		<td>Xdode Information Systems </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>29</td>
-	</tr>
-	<tr>
-		<td>360</td>
-		<td>
 			<a href="https://github.com/lebohang0824">
 				<img src="https://avatars.githubusercontent.com/u/26303203?s=72&u=cca67ad1f914fdb11dc2674a915f3fb28fe60679&v=4" width="24" alt="Avatar of lebohang0824"> lebohang0824
 			</a><br/>
@@ -4785,7 +4772,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/woganmay">
 				<img src="https://avatars.githubusercontent.com/u/225550?s=72&u=e4f54c670aa0805dec0f4a6866567cabd9af0eac&v=4" width="24" alt="Avatar of woganmay"> woganmay
@@ -4798,7 +4785,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/shaze">
 				<img src="https://avatars.githubusercontent.com/u/5936911?s=72&u=e241fa3458609e8e55d84a82865a66ae4fe59f5a&v=4" width="24" alt="Avatar of shaze"> shaze
@@ -4811,7 +4798,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/hamid-murambiwa">
 				<img src="https://avatars.githubusercontent.com/u/71644515?s=72&u=470d22a0fbbbcd230c078f931f827934d05181d9&v=4" width="24" alt="Avatar of hamid-murambiwa"> hamid-murambiwa
@@ -4824,7 +4811,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/Sliqric7053">
 				<img src="https://avatars.githubusercontent.com/u/7964516?s=72&u=2d7d3e9efa9962afd1db703a8fdba1d853083d5a&v=4" width="24" alt="Avatar of Sliqric7053"> Sliqric7053
@@ -4837,7 +4824,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/jgowans">
 				<img src="https://avatars.githubusercontent.com/u/5851144?s=72&u=7a5f266e80711afd2a9093379a00eb8463447103&v=4" width="24" alt="Avatar of jgowans"> jgowans
@@ -4850,7 +4837,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/AyandaTM89">
 				<img src="https://avatars.githubusercontent.com/u/54452860?s=72&v=4" width="24" alt="Avatar of AyandaTM89"> AyandaTM89
@@ -4863,7 +4850,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/mrgriscom">
 				<img src="https://avatars.githubusercontent.com/u/239541?s=72&u=d93ba93bfb966abe46aa5f483504fb06dd84adae&v=4" width="24" alt="Avatar of mrgriscom"> mrgriscom
@@ -4876,7 +4863,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/catenare">
 				<img src="https://avatars.githubusercontent.com/u/921884?s=72&v=4" width="24" alt="Avatar of catenare"> catenare
@@ -4889,7 +4876,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/joshilewis">
 				<img src="https://avatars.githubusercontent.com/u/1381578?s=72&u=42369c45e94796b94e528827432a89b1b7af5c66&v=4" width="24" alt="Avatar of joshilewis"> joshilewis
@@ -4902,7 +4889,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/Nghondzweni">
 				<img src="https://avatars.githubusercontent.com/u/25883274?s=72&u=617050aee72990f5480527b6d7809149f47a37e7&v=4" width="24" alt="Avatar of Nghondzweni"> Nghondzweni
@@ -4915,20 +4902,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/siphosenkosi803">
-				<img src="https://avatars.githubusercontent.com/u/110998052?s=72&u=0818b09ed3e292ee9c9b839a9a598a774cc442be&v=4" width="24" alt="Avatar of siphosenkosi803"> siphosenkosi803
-			</a><br/>
-			siphosenkosi mlotshwa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>cape town</td>
-		<td>28</td>
-	</tr>
-	<tr>
-		<td>372</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/vegtelenseg">
 				<img src="https://avatars.githubusercontent.com/u/16936547?s=72&u=c69a6dbe9537950faf8966573fda19dfff1e907a&v=4" width="24" alt="Avatar of vegtelenseg"> vegtelenseg
@@ -4941,7 +4915,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/Waxes27">
 				<img src="https://avatars.githubusercontent.com/u/40868090?s=72&v=4" width="24" alt="Avatar of Waxes27"> Waxes27
@@ -4954,7 +4928,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/SmileyJoe">
 				<img src="https://avatars.githubusercontent.com/u/2392845?s=72&u=b1ce726c88f6cdca1f4ba5f0fb3bd3387278bbf2&v=4" width="24" alt="Avatar of SmileyJoe"> SmileyJoe
@@ -4967,7 +4941,20 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>373</td>
+		<td>
+			<a href="https://github.com/TakalaniNel">
+				<img src="https://avatars.githubusercontent.com/u/119311271?s=72&u=cdefb1f07e66533bb665430472d1cf37482459ca&v=4" width="24" alt="Avatar of TakalaniNel"> TakalaniNel
+			</a><br/>
+			Takalani Neluheni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gauteng Pretoria</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/nlauchande">
 				<img src="https://avatars.githubusercontent.com/u/646979?s=72&u=69d959baaf0a5aadf44092ac2768ade27356de5b&v=4" width="24" alt="Avatar of nlauchande"> nlauchande
@@ -4980,7 +4967,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/dagelf">
 				<img src="https://avatars.githubusercontent.com/u/802628?s=72&v=4" width="24" alt="Avatar of dagelf"> dagelf
@@ -4993,7 +4980,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/garbetjie">
 				<img src="https://avatars.githubusercontent.com/u/254752?s=72&u=8a07fd3e585eaa21c8cddf6388dfa68d5ccc8447&v=4" width="24" alt="Avatar of garbetjie"> garbetjie
@@ -5006,7 +4993,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/dev-ted">
 				<img src="https://avatars.githubusercontent.com/u/68188559?s=72&u=2907a07e43b9b58057c45b53301060671b3b5880&v=4" width="24" alt="Avatar of dev-ted"> dev-ted
@@ -5019,7 +5006,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/Christsadi">
 				<img src="https://avatars.githubusercontent.com/u/69512410?s=72&u=d52bc2f52c624af788b8b106e4784aad53e6f94b&v=4" width="24" alt="Avatar of Christsadi"> Christsadi
@@ -5029,6 +5016,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Sadicaptours </td>
 		<td><a href="https://twitter.com/MaximusChrist">MaximusChrist</a></td>
 		<td>Cape Town, South Africa</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
+			<a href="https://github.com/padsley">
+				<img src="https://avatars.githubusercontent.com/u/8112824?s=72&u=86b860bebc533d552e5c7137b6bd0ba9aa0e2540&v=4" width="24" alt="Avatar of padsley"> padsley
+			</a><br/>
+			Philip Adsley
+		</td>
+		<td>Ithemba Labs And The<br/>University<br/>Of<br/>The<br/>Witswaterand<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
 		<td>28</td>
 	</tr>
 	<tr>
@@ -5112,6 +5112,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>386</td>
 		<td>
+			<a href="https://github.com/siphosenkosi803">
+				<img src="https://avatars.githubusercontent.com/u/110998052?s=72&u=0818b09ed3e292ee9c9b839a9a598a774cc442be&v=4" width="24" alt="Avatar of siphosenkosi803"> siphosenkosi803
+			</a><br/>
+			siphosenkosi mlotshwa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>cape town</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>387</td>
+		<td>
 			<a href="https://github.com/DenDen047">
 				<img src="https://avatars.githubusercontent.com/u/6120047?s=72&u=35cbaa011df3953ef8821b8b051b1eb0f03da971&v=4" width="24" alt="Avatar of DenDen047"> DenDen047
 			</a><br/>
@@ -5123,7 +5136,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/xtyrrell">
 				<img src="https://avatars.githubusercontent.com/u/6854494?s=72&u=088be7feeaaa974899e2055a82373a9e71ce0b1c&v=4" width="24" alt="Avatar of xtyrrell"> xtyrrell
@@ -5136,7 +5149,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/nikspyratos">
 				<img src="https://avatars.githubusercontent.com/u/17888779?s=72&u=e545400c11ce5165687a47bde8102cfe09c15361&v=4" width="24" alt="Avatar of nikspyratos"> nikspyratos
@@ -5149,7 +5162,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/refilwe-m">
 				<img src="https://avatars.githubusercontent.com/u/39610552?s=72&u=cef774e9cb88dc98a2f24c10455354a7cffbce68&v=4" width="24" alt="Avatar of refilwe-m"> refilwe-m
@@ -5162,7 +5175,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/brandon-barker">
 				<img src="https://avatars.githubusercontent.com/u/2580736?s=72&u=3649f9a77b783b927381358665b4ba173f11b2cc&v=4" width="24" alt="Avatar of brandon-barker"> brandon-barker
@@ -5175,7 +5188,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/SOTASHE">
 				<img src="https://avatars.githubusercontent.com/u/48323383?s=72&u=08ac6a82958bbddf626e808ee92b7936decc77ba&v=4" width="24" alt="Avatar of SOTASHE"> SOTASHE
@@ -5188,7 +5201,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/isgiddy">
 				<img src="https://avatars.githubusercontent.com/u/30691939?s=72&u=b29d156f33184780ba8e4080d9b016f44e2d98c5&v=4" width="24" alt="Avatar of isgiddy"> isgiddy
@@ -5201,7 +5214,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/neilgarb">
 				<img src="https://avatars.githubusercontent.com/u/598376?s=72&u=9345909c3a929cf1be0c6c2a77eb9b320a6a1621&v=4" width="24" alt="Avatar of neilgarb"> neilgarb
@@ -5211,19 +5224,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>394</td>
-		<td>
-			<a href="https://github.com/padsley">
-				<img src="https://avatars.githubusercontent.com/u/8112824?s=72&u=86b860bebc533d552e5c7137b6bd0ba9aa0e2540&v=4" width="24" alt="Avatar of padsley"> padsley
-			</a><br/>
-			Philip Adsley
-		</td>
-		<td>Ithemba Labs And The<br/>University<br/>Of<br/>The<br/>Witswaterand<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -5320,6 +5320,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>402</td>
 		<td>
+			<a href="https://github.com/HendrikLouw">
+				<img src="https://avatars.githubusercontent.com/u/17332?s=72&u=3267e44ee9b7e57f0478d75f92825acb9c40918a&v=4" width="24" alt="Avatar of HendrikLouw"> HendrikLouw
+			</a><br/>
+			Hendrik F. Louw
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg, South Africa</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
 			<a href="https://github.com/jthrilly">
 				<img src="https://avatars.githubusercontent.com/u/1387940?s=72&u=b343a949c5da92643120bf55687bd1a1776397ca&v=4" width="24" alt="Avatar of jthrilly"> jthrilly
 			</a><br/>
@@ -5331,7 +5344,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/pivendren">
 				<img src="https://avatars.githubusercontent.com/u/4654785?s=72&u=71f837e09ca2b4dbcb04b5f2c579af06be010a38&v=4" width="24" alt="Avatar of pivendren"> pivendren
@@ -5344,7 +5357,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/wmv">
 				<img src="https://avatars.githubusercontent.com/u/4395323?s=72&u=eacf19655e64c07d266f4276870d41c1104b247c&v=4" width="24" alt="Avatar of wmv"> wmv
@@ -5354,19 +5367,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Meta Solves </td>
 		<td><a href="https://twitter.com/_met4four_">_met4four_</a></td>
 		<td>Cape Town</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>405</td>
-		<td>
-			<a href="https://github.com/Kris-fynn">
-				<img src="https://avatars.githubusercontent.com/u/67267786?s=72&u=34ca981443c1f967d3e9c726de6f5bd5e0a75877&v=4" width="24" alt="Avatar of Kris-fynn"> Kris-fynn
-			</a><br/>
-			Kris Fynn
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg CBD</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -5398,19 +5398,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>408</td>
 		<td>
-			<a href="https://github.com/davidtinker">
-				<img src="https://avatars.githubusercontent.com/u/561033?s=72&v=4" width="24" alt="Avatar of davidtinker"> davidtinker
-			</a><br/>
-			David Tinker
-		</td>
-		<td>Intervals.icu </td>
-		<td><a href="https://twitter.com/david_tinker">david_tinker</a></td>
-		<td>Cape Town, South Africa</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>409</td>
-		<td>
 			<a href="https://github.com/oletilwe12">
 				<img src="https://avatars.githubusercontent.com/u/92241677?s=72&u=75723ee06298f017f231123bcb105c82bfaa0bad&v=4" width="24" alt="Avatar of oletilwe12"> oletilwe12
 			</a><br/>
@@ -5422,7 +5409,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/cliedeman">
 				<img src="https://avatars.githubusercontent.com/u/3578740?s=72&u=7eb17070d09bf9930686c3a73b58d21322641854&v=4" width="24" alt="Avatar of cliedeman"> cliedeman
@@ -5435,7 +5422,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/KevinT">
 				<img src="https://avatars.githubusercontent.com/u/182792?s=72&u=b0d8fd11911c01ae77b92251dd64ddc68176fded&v=4" width="24" alt="Avatar of KevinT"> KevinT
@@ -5448,7 +5435,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/asmyczek">
 				<img src="https://avatars.githubusercontent.com/u/25060?s=72&u=12bb3e6813c9b5d969633af85b2727752a17f13e&v=4" width="24" alt="Avatar of asmyczek"> asmyczek
@@ -5461,7 +5448,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/LukeStonehm">
 				<img src="https://avatars.githubusercontent.com/u/5001686?s=72&u=a82ae1f0f241994f2afd46db967769cf20026945&v=4" width="24" alt="Avatar of LukeStonehm"> LukeStonehm
@@ -5474,7 +5461,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/AndreasNel">
 				<img src="https://avatars.githubusercontent.com/u/17763359?s=72&v=4" width="24" alt="Avatar of AndreasNel"> AndreasNel
@@ -5487,7 +5474,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/Rumbie-Mudzie7">
 				<img src="https://avatars.githubusercontent.com/u/48256785?s=72&u=194a3b9e85f1fcfa6747486751878712bc9573c4&v=4" width="24" alt="Avatar of Rumbie-Mudzie7"> Rumbie-Mudzie7
@@ -5500,7 +5487,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/mobiRic">
 				<img src="https://avatars.githubusercontent.com/u/1418689?s=72&v=4" width="24" alt="Avatar of mobiRic"> mobiRic
@@ -5513,7 +5500,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/nmichlo">
 				<img src="https://avatars.githubusercontent.com/u/30571138?s=72&u=dfc6bd1284713d154592d467990c7a55ba93c174&v=4" width="24" alt="Avatar of nmichlo"> nmichlo
@@ -5526,7 +5513,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/QuentinManemla">
 				<img src="https://avatars.githubusercontent.com/u/26185011?s=72&u=6f9d7fc3eaf57681f3f553c06520bb8afe98bdee&v=4" width="24" alt="Avatar of QuentinManemla"> QuentinManemla
@@ -5539,7 +5526,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/iftheshoefritz">
 				<img src="https://avatars.githubusercontent.com/u/1541595?s=72&u=bf5a5122b632b8052c23d8402f8d7b26734ed601&v=4" width="24" alt="Avatar of iftheshoefritz"> iftheshoefritz
@@ -5552,7 +5539,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/benmaddison">
 				<img src="https://avatars.githubusercontent.com/u/19263308?s=72&u=3a057bde5007c63b1530bb7f0f741ee9b5afecc8&v=4" width="24" alt="Avatar of benmaddison"> benmaddison
@@ -5565,7 +5552,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/neeland">
 				<img src="https://avatars.githubusercontent.com/u/5680639?s=72&u=9dc40f8aa990a628610be5f306793b2ee8697714&v=4" width="24" alt="Avatar of neeland"> neeland
@@ -5578,7 +5565,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/malengatiger">
 				<img src="https://avatars.githubusercontent.com/u/343710?s=72&u=ce4ffc2150dd1b2ea68962727bc626df1ba2caf3&v=4" width="24" alt="Avatar of malengatiger"> malengatiger
@@ -5591,7 +5578,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/stewartm83">
 				<img src="https://avatars.githubusercontent.com/u/2292198?s=72&u=88c546543af694d6bc45c2edec1727f2296e391d&v=4" width="24" alt="Avatar of stewartm83"> stewartm83
@@ -5604,7 +5591,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/riazarbi">
 				<img src="https://avatars.githubusercontent.com/u/13433911?s=72&u=6324866f8b5dccf37990dfc935b37d4e54ec14bf&v=4" width="24" alt="Avatar of riazarbi"> riazarbi
@@ -5617,7 +5604,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/scriptjumper">
 				<img src="https://avatars.githubusercontent.com/u/25608161?s=72&u=f762038d21daf0438a775307b553c646a0ad4d46&v=4" width="24" alt="Avatar of scriptjumper"> scriptjumper
@@ -5630,7 +5617,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/Tooblippe">
 				<img src="https://avatars.githubusercontent.com/u/805313?s=72&v=4" width="24" alt="Avatar of Tooblippe"> Tooblippe
@@ -5643,7 +5630,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/ryanza">
 				<img src="https://avatars.githubusercontent.com/u/100300?s=72&v=4" width="24" alt="Avatar of ryanza"> ryanza
@@ -5653,6 +5640,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>@ryanza </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
+			<a href="https://github.com/Kris-fynn">
+				<img src="https://avatars.githubusercontent.com/u/67267786?s=72&u=34ca981443c1f967d3e9c726de6f5bd5e0a75877&v=4" width="24" alt="Avatar of Kris-fynn"> Kris-fynn
+			</a><br/>
+			Kris Fynn
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg CBD</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -5762,14 +5762,14 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>436</td>
 		<td>
-			<a href="https://github.com/TallStack">
-				<img src="https://avatars.githubusercontent.com/u/37438524?s=72&u=9b08443e6b2cc3215425ebb549df85b5543c5b9a&v=4" width="24" alt="Avatar of TallStack"> TallStack
+			<a href="https://github.com/josephkandi">
+				<img src="https://avatars.githubusercontent.com/u/3235272?s=72&u=d3276751c1340798fd6ec2f3c8a0ec749f0bf8af&v=4" width="24" alt="Avatar of josephkandi"> josephkandi
 			</a><br/>
-			No Name
+			Joseph Kandi
 		</td>
-		<td>Entelect </td>
+		<td>@peruzal @yinkozi  </td>
 		<td>No Twitter Username</td>
-		<td>Durban, South Africa</td>
+		<td>Cape Town, South Africa</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -6672,19 +6672,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>506</td>
 		<td>
-			<a href="https://github.com/evanman83">
-				<img src="https://avatars.githubusercontent.com/u/72649719?s=72&u=e3d6d0ab3fa85fca564f4f488116a2dfd878769a&v=4" width="24" alt="Avatar of evanman83"> evanman83
-			</a><br/>
-			EvanR
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, SA</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>507</td>
-		<td>
 			<a href="https://github.com/Mmontsheng">
 				<img src="https://avatars.githubusercontent.com/u/26759863?s=72&u=03ad694e3a1b5bd4fc4a5e1e9d4af1d12fe47a07&v=4" width="24" alt="Avatar of Mmontsheng"> Mmontsheng
 			</a><br/>
@@ -6696,7 +6683,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/gwasserfall">
 				<img src="https://avatars.githubusercontent.com/u/17541336?s=72&u=fd506ef2ebb8e0d61ec548583c3ee4727240d242&v=4" width="24" alt="Avatar of gwasserfall"> gwasserfall
@@ -6709,7 +6696,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/DanielKakona1">
 				<img src="https://avatars.githubusercontent.com/u/45571758?s=72&u=ae265a2e2208bfd01368b5fe9d410cdc3e805162&v=4" width="24" alt="Avatar of DanielKakona1"> DanielKakona1
@@ -6722,7 +6709,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/bentenjamin">
 				<img src="https://avatars.githubusercontent.com/u/46859990?s=72&u=3da020d3fc6b8116e0ebff9263b6805375782b86&v=4" width="24" alt="Avatar of bentenjamin"> bentenjamin
@@ -6732,6 +6719,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Ntt Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>510</td>
+		<td>
+			<a href="https://github.com/JaredP94">
+				<img src="https://avatars.githubusercontent.com/u/13906915?s=72&u=a0b43ee5f0a24a418ac3d09746361668a1a09e84&v=4" width="24" alt="Avatar of JaredP94"> JaredP94
+			</a><br/>
+			Jared Ping
+		</td>
+		<td>Digital Matter </td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg, South Africa</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -6763,19 +6763,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>513</td>
 		<td>
-			<a href="https://github.com/JaredP94">
-				<img src="https://avatars.githubusercontent.com/u/13906915?s=72&u=a0b43ee5f0a24a418ac3d09746361668a1a09e84&v=4" width="24" alt="Avatar of JaredP94"> JaredP94
-			</a><br/>
-			Jared Ping
-		</td>
-		<td>Digital Matter </td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg, South Africa</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>514</td>
-		<td>
 			<a href="https://github.com/LocalAsh">
 				<img src="https://avatars.githubusercontent.com/u/17434416?s=72&v=4" width="24" alt="Avatar of LocalAsh"> LocalAsh
 			</a><br/>
@@ -6787,12 +6774,25 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/RasoolBooley">
 				<img src="https://avatars.githubusercontent.com/u/45028873?s=72&u=b9ec3b4f6fb4edd2c0afd646a42485f0ab8850a2&v=4" width="24" alt="Avatar of RasoolBooley"> RasoolBooley
 			</a><br/>
 			Rasool Booley
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
+			<a href="https://github.com/besen">
+				<img src="https://avatars.githubusercontent.com/u/40580?s=72&v=4" width="24" alt="Avatar of besen"> besen
+			</a><br/>
+			Renato Besen
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6919,19 +6919,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>525</td>
 		<td>
-			<a href="https://github.com/TsekeM">
-				<img src="https://avatars.githubusercontent.com/u/47187842?s=72&u=eb8c6957498bd4752ddefc30db64af73d32276e4&v=4" width="24" alt="Avatar of TsekeM"> TsekeM
-			</a><br/>
-			Tseke Maila
-		</td>
-		<td>Muluma Management Consulting Group<br/></td>
-		<td>No Twitter Username</td>
-		<td>Pretoria, Johannesburg</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>526</td>
-		<td>
 			<a href="https://github.com/stormf">
 				<img src="https://avatars.githubusercontent.com/u/1501979?s=72&u=aedc9d717749c852e52eb43f60cb0a2bdac845bf&v=4" width="24" alt="Avatar of stormf"> stormf
 			</a><br/>
@@ -6943,7 +6930,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/grbot">
 				<img src="https://avatars.githubusercontent.com/u/2334112?s=72&u=8a0df0b9ea9bec56ef68dc094c6fee8a7f4569a2&v=4" width="24" alt="Avatar of grbot"> grbot
@@ -6956,7 +6943,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/Mistborn94">
 				<img src="https://avatars.githubusercontent.com/u/9079017?s=72&u=1ff1144e41a377e9817fc95c8e0d09c195ac411e&v=4" width="24" alt="Avatar of Mistborn94"> Mistborn94
@@ -6969,7 +6956,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/levackt">
 				<img src="https://avatars.githubusercontent.com/u/10286403?s=72&v=4" width="24" alt="Avatar of levackt"> levackt
@@ -6982,7 +6969,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/JoeyAlpha5">
 				<img src="https://avatars.githubusercontent.com/u/35291886?s=72&v=4" width="24" alt="Avatar of JoeyAlpha5"> JoeyAlpha5
@@ -6995,7 +6982,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/Cbazil">
 				<img src="https://avatars.githubusercontent.com/u/36533527?s=72&u=7169b8ec8cf21e6bc940b8398639165daae4d872&v=4" width="24" alt="Avatar of Cbazil"> Cbazil
@@ -7008,7 +6995,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/maxandrezils">
 				<img src="https://avatars.githubusercontent.com/u/4243691?s=72&u=2156f828334cbef65bd9c99a6eb9be7262bcd32b&v=4" width="24" alt="Avatar of maxandrezils"> maxandrezils
@@ -7018,6 +7005,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Kantan </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>532</td>
+		<td>
+			<a href="https://github.com/thatobabusi">
+				<img src="https://avatars.githubusercontent.com/u/6802518?s=72&u=43c5cbdda114332876de2e570e1cfe4968a04e24&v=4" width="24" alt="Avatar of thatobabusi"> thatobabusi
+			</a><br/>
+			Thato
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/thato_babusi">thato_babusi</a></td>
+		<td>Centurion, Pretoria, South Africa</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -7413,6 +7413,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>563</td>
 		<td>
+			<a href="https://github.com/TsekeM">
+				<img src="https://avatars.githubusercontent.com/u/47187842?s=72&u=eb8c6957498bd4752ddefc30db64af73d32276e4&v=4" width="24" alt="Avatar of TsekeM"> TsekeM
+			</a><br/>
+			Tseke Maila
+		</td>
+		<td>Muluma Management Consulting Group<br/></td>
+		<td>No Twitter Username</td>
+		<td>Pretoria, Johannesburg</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>564</td>
+		<td>
 			<a href="https://github.com/phzietsman">
 				<img src="https://avatars.githubusercontent.com/u/11902058?s=72&u=ffaa9978d3acc2cdf345cd0701520340e21276d6&v=4" width="24" alt="Avatar of phzietsman"> phzietsman
 			</a><br/>
@@ -7424,7 +7437,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/Naeem-wq">
 				<img src="https://avatars.githubusercontent.com/u/95334435?s=72&u=e9ebc49464b3bc1a38b9f589e7116fc0b158aeec&v=4" width="24" alt="Avatar of Naeem-wq"> Naeem-wq
@@ -7437,7 +7450,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/Pckmule">
 				<img src="https://avatars.githubusercontent.com/u/11091698?s=72&u=dacfc4e21d76a2e785c6fbb15c6e1ef5813fc1c7&v=4" width="24" alt="Avatar of Pckmule"> Pckmule
@@ -7447,19 +7460,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td><a href="https://twitter.com/techdevdarin">techdevdarin</a></td>
 		<td>Cape Town, South Africa</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>566</td>
-		<td>
-			<a href="https://github.com/thatobabusi">
-				<img src="https://avatars.githubusercontent.com/u/6802518?s=72&u=43c5cbdda114332876de2e570e1cfe4968a04e24&v=4" width="24" alt="Avatar of thatobabusi"> thatobabusi
-			</a><br/>
-			Thato
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/thato_babusi">thato_babusi</a></td>
-		<td>Centurion, Pretoria, South Africa</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -7582,19 +7582,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>576</td>
 		<td>
-			<a href="https://github.com/nreddystudent">
-				<img src="https://avatars.githubusercontent.com/u/50164676?s=72&v=4" width="24" alt="Avatar of nreddystudent"> nreddystudent
-			</a><br/>
-			Nolin Reddy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>johannesburg</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>577</td>
-		<td>
 			<a href="https://github.com/pascal-za">
 				<img src="https://avatars.githubusercontent.com/u/456508?s=72&u=4ea55c74c651ccad19892ea6d47f644eb92eaca8&v=4" width="24" alt="Avatar of pascal-za"> pascal-za
 			</a><br/>
@@ -7603,6 +7590,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>577</td>
+		<td>
+			<a href="https://github.com/nreddystudent">
+				<img src="https://avatars.githubusercontent.com/u/50164676?s=72&v=4" width="24" alt="Avatar of nreddystudent"> nreddystudent
+			</a><br/>
+			Nolin Reddy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>johannesburg</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -7647,19 +7647,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>581</td>
 		<td>
-			<a href="https://github.com/JOlsen-Neslo">
-				<img src="https://avatars.githubusercontent.com/u/46996097?s=72&u=f7c79767a2a4887b5707de10a509b1452d657ef6&v=4" width="24" alt="Avatar of JOlsen-Neslo"> JOlsen-Neslo
-			</a><br/>
-			Jordan Olsen
-		</td>
-		<td>Neslo Tech </td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg, South Africa</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>582</td>
-		<td>
 			<a href="https://github.com/FelixTellmann">
 				<img src="https://avatars.githubusercontent.com/u/22034038?s=72&u=2dbe097de43cf3feb63ac34f157c938c1b970cc1&v=4" width="24" alt="Avatar of FelixTellmann"> FelixTellmann
 			</a><br/>
@@ -7668,6 +7655,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>Ft - Front-end Development<br/></td>
 		<td><a href="https://twitter.com/FelixTellmann">FelixTellmann</a></td>
 		<td>Cape Town</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
+			<a href="https://github.com/robburger">
+				<img src="https://avatars.githubusercontent.com/u/4106167?s=72&v=4" width="24" alt="Avatar of robburger"> robburger
+			</a><br/>
+			Rob Burger
+		</td>
+		<td>@offerzen </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town - South Africa</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -7751,6 +7751,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>589</td>
 		<td>
+			<a href="https://github.com/ycparak">
+				<img src="https://avatars.githubusercontent.com/u/12952566?s=72&u=889ee87bc073aec46124b1f907e22d7db98ca500&v=4" width="24" alt="Avatar of ycparak"> ycparak
+			</a><br/>
+			Yusuf Parak
+		</td>
+		<td>Pinched.io </td>
+		<td><a href="https://twitter.com/ycparak">ycparak</a></td>
+		<td>Johannesburg, South Africa</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>590</td>
+		<td>
 			<a href="https://github.com/FSM1">
 				<img src="https://avatars.githubusercontent.com/u/12774278?s=72&u=f2fa89215d4e0183f13cc90aba8f334e02f03df2&v=4" width="24" alt="Avatar of FSM1"> FSM1
 			</a><br/>
@@ -7762,7 +7775,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/therealchiko">
 				<img src="https://avatars.githubusercontent.com/u/1927685?s=72&u=c4d76a5426c6509a265782c07215b0b388e6f742&v=4" width="24" alt="Avatar of therealchiko"> therealchiko
@@ -7775,7 +7788,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/dancanangwenyi">
 				<img src="https://avatars.githubusercontent.com/u/24637101?s=72&u=d64c5c08575ab25b7dbd0098687cfceade5ef731&v=4" width="24" alt="Avatar of dancanangwenyi"> dancanangwenyi
@@ -7785,19 +7798,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>University Of Cape Town<br/></td>
 		<td><a href="https://twitter.com/dancangwe">dancangwe</a></td>
 		<td>Cape Town</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>592</td>
-		<td>
-			<a href="https://github.com/AugustHottie">
-				<img src="https://avatars.githubusercontent.com/u/96122635?s=72&u=61daa2e901f0e703d0f575c457fde04ef6721571&v=4" width="24" alt="Avatar of AugustHottie"> AugustHottie
-			</a><br/>
-			Jessica Chioma
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -7985,19 +7985,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>607</td>
 		<td>
-			<a href="https://github.com/Elihle">
-				<img src="https://avatars.githubusercontent.com/u/32868325?s=72&u=4f4b32cb7c22f273b84f4cb3444e40370328819e&v=4" width="24" alt="Avatar of Elihle"> Elihle
-			</a><br/>
-			Lihle Menzeleleli
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>South Africa, Cape Town</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>608</td>
-		<td>
 			<a href="https://github.com/grandinj">
 				<img src="https://avatars.githubusercontent.com/u/796121?s=72&v=4" width="24" alt="Avatar of grandinj"> grandinj
 			</a><br/>
@@ -8009,7 +7996,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/RalphMcDougall">
 				<img src="https://avatars.githubusercontent.com/u/14224064?s=72&u=48f7ec7a7b901c05368156bc1d64bd916a313cb4&v=4" width="24" alt="Avatar of RalphMcDougall"> RalphMcDougall
@@ -8022,7 +8009,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/janmbuys">
 				<img src="https://avatars.githubusercontent.com/u/11444669?s=72&u=6ba66c66ccaee7c25c86cabcd66c1e87e87412fc&v=4" width="24" alt="Avatar of janmbuys"> janmbuys
@@ -8035,7 +8022,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/JaysonMnguni">
 				<img src="https://avatars.githubusercontent.com/u/85250941?s=72&u=21117cffa538f0f598d2dc305f7f4db01e833dc5&v=4" width="24" alt="Avatar of JaysonMnguni"> JaysonMnguni
@@ -8048,7 +8035,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/tcajee">
 				<img src="https://avatars.githubusercontent.com/u/31076779?s=72&v=4" width="24" alt="Avatar of tcajee"> tcajee
@@ -8061,7 +8048,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/JoshuaDavids">
 				<img src="https://avatars.githubusercontent.com/u/61545813?s=72&u=78f13fa2aa0543526b1bd6d803fd805125c35cf9&v=4" width="24" alt="Avatar of JoshuaDavids"> JoshuaDavids
@@ -8074,7 +8061,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/PpRadzabo">
 				<img src="https://avatars.githubusercontent.com/u/111023673?s=72&u=2fa92e4bb733413b3c26252ff4469c7d389bcfe8&v=4" width="24" alt="Avatar of PpRadzabo"> PpRadzabo
@@ -8087,7 +8074,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/dmt">
 				<img src="https://avatars.githubusercontent.com/u/11664?s=72&v=4" width="24" alt="Avatar of dmt"> dmt
@@ -8100,7 +8087,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/inn3rs3lf">
 				<img src="https://avatars.githubusercontent.com/u/59938871?s=72&u=a0180f4778e4dce1dd2ae92568b589b7c3985c55&v=4" width="24" alt="Avatar of inn3rs3lf"> inn3rs3lf
@@ -8113,7 +8100,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/mchall">
 				<img src="https://avatars.githubusercontent.com/u/3825339?s=72&u=da79d8244851dfe9d1d93ad121c501784872e1f5&v=4" width="24" alt="Avatar of mchall"> mchall
@@ -8126,7 +8113,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/tumbone">
 				<img src="https://avatars.githubusercontent.com/u/9964968?s=72&u=4fc35ba211aaad5620468ed4fccb0e9d25861bac&v=4" width="24" alt="Avatar of tumbone"> tumbone
@@ -8139,7 +8126,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/kkroese">
 				<img src="https://avatars.githubusercontent.com/u/1457160?s=72&v=4" width="24" alt="Avatar of kkroese"> kkroese
@@ -8152,7 +8139,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/louwjlabuschagne">
 				<img src="https://avatars.githubusercontent.com/u/10983628?s=72&u=415079c38e8f49ddd796ea25f405e087fb2d429f&v=4" width="24" alt="Avatar of louwjlabuschagne"> louwjlabuschagne
@@ -8160,6 +8147,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 			Louwrens Labuschagne
 		</td>
 		<td>@bytefuse @fan-fire @automator-plus <br/></td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>620</td>
+		<td>
+			<a href="https://github.com/bertuss">
+				<img src="https://avatars.githubusercontent.com/u/2698961?s=72&u=cf8479f9e7934d0708db3b923594222590d77573&v=4" width="24" alt="Avatar of bertuss"> bertuss
+			</a><br/>
+			Bertus Steenberg
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cape Town</td>
 		<td>18</td>
@@ -8219,6 +8219,45 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>625</td>
 		<td>
+			<a href="https://github.com/AugustHottie">
+				<img src="https://avatars.githubusercontent.com/u/96122635?s=72&u=61daa2e901f0e703d0f575c457fde04ef6721571&v=4" width="24" alt="Avatar of AugustHottie"> AugustHottie
+			</a><br/>
+			Jessica Chioma
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>626</td>
+		<td>
+			<a href="https://github.com/kiaanonthehub">
+				<img src="https://avatars.githubusercontent.com/u/75589788?s=72&u=4702ee65757a9735b58ef9c07b81752c5f4e0ac8&v=4" width="24" alt="Avatar of kiaanonthehub"> kiaanonthehub
+			</a><br/>
+			Kiaan Maharaj
+		</td>
+		<td>2cana Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Durban</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
+			<a href="https://github.com/louis-smit">
+				<img src="https://avatars.githubusercontent.com/u/4406160?s=72&u=810214dadbae21e3e0d9b8e44c565e65ffedf851&v=4" width="24" alt="Avatar of louis-smit"> louis-smit
+			</a><br/>
+			Louis Smit
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/louissmit_">louissmit_</a></td>
+		<td>Cape Town, South Africa</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>628</td>
+		<td>
 			<a href="https://github.com/yusufk">
 				<img src="https://avatars.githubusercontent.com/u/404139?s=72&v=4" width="24" alt="Avatar of yusufk"> yusufk
 			</a><br/>
@@ -8230,7 +8269,33 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>629</td>
+		<td>
+			<a href="https://github.com/zmaqutu">
+				<img src="https://avatars.githubusercontent.com/u/39608194?s=72&u=e386cf728969b30326a7b550c22a89a48a799924&v=4" width="24" alt="Avatar of zmaqutu"> zmaqutu
+			</a><br/>
+			Zongo Maqutu
+		</td>
+		<td>University Of Cape Town<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>630</td>
+		<td>
+			<a href="https://github.com/TwiggyBuffalo">
+				<img src="https://avatars.githubusercontent.com/u/14329351?s=72&u=df1cea9870543661da45c6542659a89fb79c2fe5&v=4" width="24" alt="Avatar of TwiggyBuffalo"> TwiggyBuffalo
+			</a><br/>
+			Daniel Curran
+		</td>
+		<td>@mercedes-benz </td>
+		<td><a href="https://twitter.com/TwiggyBuffalo">TwiggyBuffalo</a></td>
+		<td>Cape Town, South Africa</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/InevitableChaos">
 				<img src="https://avatars.githubusercontent.com/u/38660156?s=72&u=f56e52843e0b95ded4b70c267c96c245d16a02c9&v=4" width="24" alt="Avatar of InevitableChaos"> InevitableChaos
@@ -8243,7 +8308,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/cbalona">
 				<img src="https://avatars.githubusercontent.com/u/38562793?s=72&u=2c4e18e45cec5501a1d69d098bf98fd5031a063b&v=4" width="24" alt="Avatar of cbalona"> cbalona
@@ -8256,7 +8321,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/edmore">
 				<img src="https://avatars.githubusercontent.com/u/359768?s=72&v=4" width="24" alt="Avatar of edmore"> edmore
@@ -8269,7 +8334,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/HicoMcD">
 				<img src="https://avatars.githubusercontent.com/u/70553434?s=72&u=daecb4e780c656c1f1af26979ddeb5fda1bd988a&v=4" width="24" alt="Avatar of HicoMcD"> HicoMcD
@@ -8282,7 +8347,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/aksharbhagwandin">
 				<img src="https://avatars.githubusercontent.com/u/10631015?s=72&u=23519e067d662039d87af4aabe30d3beb388fcd8&v=4" width="24" alt="Avatar of aksharbhagwandin"> aksharbhagwandin
@@ -8295,20 +8360,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>631</td>
-		<td>
-			<a href="https://github.com/ShaunEgan">
-				<img src="https://avatars.githubusercontent.com/u/5261827?s=72&u=95189f576f22a94717a94cadff1dbed535ee69d5&v=4" width="24" alt="Avatar of ShaunEgan"> ShaunEgan
-			</a><br/>
-			Shaun Egan
-		</td>
-		<td>Deimos Cloud </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>632</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/Mfiso1">
 				<img src="https://avatars.githubusercontent.com/u/122856548?s=72&u=99ffff7c3bbb1f1b4b75dfbd7ea8441237d2505b&v=4" width="24" alt="Avatar of Mfiso1"> Mfiso1
@@ -8321,7 +8373,46 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>637</td>
+		<td>
+			<a href="https://github.com/ShaunEgan">
+				<img src="https://avatars.githubusercontent.com/u/5261827?s=72&u=95189f576f22a94717a94cadff1dbed535ee69d5&v=4" width="24" alt="Avatar of ShaunEgan"> ShaunEgan
+			</a><br/>
+			Shaun Egan
+		</td>
+		<td>Deimos Cloud </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/Thiomark">
+				<img src="https://avatars.githubusercontent.com/u/60178286?s=72&u=303a0075318cde58241a9d350fb65e465bfc6765&v=4" width="24" alt="Avatar of Thiomark"> Thiomark
+			</a><br/>
+			Itumeleng
+		</td>
+		<td>Software Developer </td>
+		<td>No Twitter Username</td>
+		<td>Gauteng, Johannesburg</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>639</td>
+		<td>
+			<a href="https://github.com/takumuguti">
+				<img src="https://avatars.githubusercontent.com/u/90533439?s=72&u=2d0680242d03ebdb1c90ca4e58adb5c207b1a6e2&v=4" width="24" alt="Avatar of takumuguti"> takumuguti
+			</a><br/>
+			Takudzwanashe Dylan Muguti
+		</td>
+		<td>University Of Pretoria </td>
+		<td>No Twitter Username</td>
+		<td>Hatfield, Pretoria</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/MuziZwane">
 				<img src="https://avatars.githubusercontent.com/u/87149575?s=72&u=e436b1901e7aa08850a44666e223300ffac37dcc&v=4" width="24" alt="Avatar of MuziZwane"> MuziZwane
@@ -8334,7 +8425,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/graemeglass">
 				<img src="https://avatars.githubusercontent.com/u/654292?s=72&v=4" width="24" alt="Avatar of graemeglass"> graemeglass
@@ -8347,7 +8438,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/vrautenbach">
 				<img src="https://avatars.githubusercontent.com/u/7597595?s=72&v=4" width="24" alt="Avatar of vrautenbach"> vrautenbach
@@ -8360,7 +8451,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/Siphenathi">
 				<img src="https://avatars.githubusercontent.com/u/32597717?s=72&u=82746ca665ef5c2fb00f7e88493caad7776656cd&v=4" width="24" alt="Avatar of Siphenathi"> Siphenathi
@@ -8373,7 +8464,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/rogerwcpt">
 				<img src="https://avatars.githubusercontent.com/u/13134927?s=72&u=bf13cd46f241f1877ba11e423428ffc35d71e5c6&v=4" width="24" alt="Avatar of rogerwcpt"> rogerwcpt
@@ -8386,7 +8477,33 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>645</td>
+		<td>
+			<a href="https://github.com/Deathshadowown">
+				<img src="https://avatars.githubusercontent.com/u/49973254?s=72&u=8d99061a0fe761c0832aca41aef3d6dc0e40012c&v=4" width="24" alt="Avatar of Deathshadowown"> Deathshadowown
+			</a><br/>
+			Shane Van Niekerk
+		</td>
+		<td>Wethinkcode_ Student </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>646</td>
+		<td>
+			<a href="https://github.com/lukepothier">
+				<img src="https://avatars.githubusercontent.com/u/7534682?s=72&u=ef9575695b6d1daa318dd60efb52e8225ab0f7c1&v=4" width="24" alt="Avatar of lukepothier"> lukepothier
+			</a><br/>
+			Luke Pothier
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/simonet03">
 				<img src="https://avatars.githubusercontent.com/u/23495871?s=72&u=2b3c1ca3f8af8062d575783227adc7efc3a01cae&v=4" width="24" alt="Avatar of simonet03"> simonet03
@@ -8399,7 +8516,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/Limitless-VIP">
 				<img src="https://avatars.githubusercontent.com/u/6529101?s=72&u=a53ea8c47c1a2dcc8c18bdbd3e64bee533d8fd44&v=4" width="24" alt="Avatar of Limitless-VIP"> Limitless-VIP
@@ -8412,7 +8529,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/geevcookie">
 				<img src="https://avatars.githubusercontent.com/u/722325?s=72&v=4" width="24" alt="Avatar of geevcookie"> geevcookie
@@ -8425,7 +8542,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/yuviiir">
 				<img src="https://avatars.githubusercontent.com/u/50695180?s=72&u=c0e23f5760b8cbca4d8e8c89b8e6659226e3e5a6&v=4" width="24" alt="Avatar of yuviiir"> yuviiir
@@ -8438,7 +8555,33 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>651</td>
+		<td>
+			<a href="https://github.com/riverdusty">
+				<img src="https://avatars.githubusercontent.com/u/572263?s=72&u=b7592ae9cbb18c44b1a473d7fdda56d79733b5df&v=4" width="24" alt="Avatar of riverdusty"> riverdusty
+			</a><br/>
+			Dusty
+		</td>
+		<td>Inspired! </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/MattGerber">
+				<img src="https://avatars.githubusercontent.com/u/46649212?s=72&v=4" width="24" alt="Avatar of MattGerber"> MattGerber
+			</a><br/>
+			Matthew Gerber
+		</td>
+		<td>Wethinkcode_ </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/kgaolodevs">
 				<img src="https://avatars.githubusercontent.com/u/59804371?s=72&u=b152353a4e626a94d6812f6273bbf404e897d4a9&v=4" width="24" alt="Avatar of kgaolodevs"> kgaolodevs
@@ -8451,7 +8594,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/Mangalis0">
 				<img src="https://avatars.githubusercontent.com/u/30199444?s=72&u=d4697cc67a6651fec73ef3fee554023307c4d5f5&v=4" width="24" alt="Avatar of Mangalis0"> Mangalis0
@@ -8464,7 +8607,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/TechnicalDescent">
 				<img src="https://avatars.githubusercontent.com/u/2835890?s=72&v=4" width="24" alt="Avatar of TechnicalDescent"> TechnicalDescent
@@ -8477,7 +8620,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/ivankahl">
 				<img src="https://avatars.githubusercontent.com/u/5931577?s=72&u=d49ac92dbab3fc131a55d97d1f2e3b719a5e3ba2&v=4" width="24" alt="Avatar of ivankahl"> ivankahl
@@ -8490,7 +8633,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/Pietervdw">
 				<img src="https://avatars.githubusercontent.com/u/5253872?s=72&u=80d2177835372713f555aa28d0fd15aae693affe&v=4" width="24" alt="Avatar of Pietervdw"> Pietervdw
@@ -8503,7 +8646,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/Taetse">
 				<img src="https://avatars.githubusercontent.com/u/23291091?s=72&u=b407bad376b0a596aed49b12406b8e5bdc56fb4c&v=4" width="24" alt="Avatar of Taetse"> Taetse
@@ -8516,46 +8659,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>648</td>
-		<td>
-			<a href="https://github.com/Taetse">
-				<img src="https://avatars.githubusercontent.com/u/23291091?s=72&u=b407bad376b0a596aed49b12406b8e5bdc56fb4c&v=4" width="24" alt="Avatar of Taetse"> Taetse
-			</a><br/>
-			Taetse Durand 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Pretoria, South Africa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>649</td>
-		<td>
-			<a href="https://github.com/bertuss">
-				<img src="https://avatars.githubusercontent.com/u/2698961?s=72&u=cf8479f9e7934d0708db3b923594222590d77573&v=4" width="24" alt="Avatar of bertuss"> bertuss
-			</a><br/>
-			Bertus Steenberg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>650</td>
-		<td>
-			<a href="https://github.com/bretton">
-				<img src="https://avatars.githubusercontent.com/u/4481592?s=72&u=14bbcd14ad54f18f4365d0579f8fc1c8bc3697f7&v=4" width="24" alt="Avatar of bretton"> bretton
-			</a><br/>
-			bretton
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>651</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/brandonstubbs">
 				<img src="https://avatars.githubusercontent.com/u/3731434?s=72&u=0ecc25b70ca9ca80bcf9687dc65f15ba9fb01707&v=4" width="24" alt="Avatar of brandonstubbs"> brandonstubbs
@@ -8568,7 +8672,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/HermannHH">
 				<img src="https://avatars.githubusercontent.com/u/5584878?s=72&u=0f7f9f1a2b14d8f5fb1e5c4434504cda1151901c&v=4" width="24" alt="Avatar of HermannHH"> HermannHH
@@ -8581,7 +8685,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/devinsmith911">
 				<img src="https://avatars.githubusercontent.com/u/29116435?s=72&u=8d40c613dab80108065959a7588fc53462d304b6&v=4" width="24" alt="Avatar of devinsmith911"> devinsmith911
@@ -8594,7 +8698,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/panzer-planet">
 				<img src="https://avatars.githubusercontent.com/u/4153188?s=72&u=0399cde5e64f7979ae27cdde3e7ab5eccc4e4a92&v=4" width="24" alt="Avatar of panzer-planet"> panzer-planet
@@ -8607,7 +8711,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/knightspore">
 				<img src="https://avatars.githubusercontent.com/u/51886151?s=72&u=296df739e943783ae3e610de27269fc8c2222a48&v=4" width="24" alt="Avatar of knightspore"> knightspore
@@ -8620,7 +8724,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/devinpearson">
 				<img src="https://avatars.githubusercontent.com/u/1645428?s=72&v=4" width="24" alt="Avatar of devinpearson"> devinpearson
@@ -8633,20 +8737,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>657</td>
-		<td>
-			<a href="https://github.com/devinpearson">
-				<img src="https://avatars.githubusercontent.com/u/1645428?s=72&v=4" width="24" alt="Avatar of devinpearson"> devinpearson
-			</a><br/>
-			Devin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg, South Africa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>658</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/fatalbanana">
 				<img src="https://avatars.githubusercontent.com/u/2176651?s=72&u=05969e09839b3c593aa79446e45031ed0213d754&v=4" width="24" alt="Avatar of fatalbanana"> fatalbanana
@@ -8659,20 +8750,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>659</td>
-		<td>
-			<a href="https://github.com/fatalbanana">
-				<img src="https://avatars.githubusercontent.com/u/2176651?s=72&u=05969e09839b3c593aa79446e45031ed0213d754&v=4" width="24" alt="Avatar of fatalbanana"> fatalbanana
-			</a><br/>
-			Andrew Lewis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg, South Africa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>660</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/jeanres">
 				<img src="https://avatars.githubusercontent.com/u/329498?s=72&u=c61d4bfd5c4a88cd22cae60c6deeaf7a3daf82b4&v=4" width="24" alt="Avatar of jeanres"> jeanres
@@ -8685,7 +8763,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/ismakate">
 				<img src="https://avatars.githubusercontent.com/u/47386082?s=72&u=b91892cc06ebbb089267e305dc6980aa93f168be&v=4" width="24" alt="Avatar of ismakate"> ismakate
@@ -8698,7 +8776,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/capesean">
 				<img src="https://avatars.githubusercontent.com/u/642609?s=72&v=4" width="24" alt="Avatar of capesean"> capesean
@@ -8711,20 +8789,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>663</td>
-		<td>
-			<a href="https://github.com/capesean">
-				<img src="https://avatars.githubusercontent.com/u/642609?s=72&v=4" width="24" alt="Avatar of capesean"> capesean
-			</a><br/>
-			Sean Walsh
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/capesean">capesean</a></td>
-		<td>Cape Town</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>664</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/lilimfobo">
 				<img src="https://avatars.githubusercontent.com/u/102562771?s=72&u=7cea9232cf003f358087464652b33463586b90cf&v=4" width="24" alt="Avatar of lilimfobo"> lilimfobo
@@ -8737,7 +8802,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/Conceptx">
 				<img src="https://avatars.githubusercontent.com/u/26909197?s=72&u=fe2cc66c0e185841b243eecb1a72213787d526f4&v=4" width="24" alt="Avatar of Conceptx"> Conceptx
@@ -8750,7 +8815,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>666</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/mjmacleod">
 				<img src="https://avatars.githubusercontent.com/u/7540840?s=72&u=eacbabd7cefe321d8644960acd4beb75239af0fc&v=4" width="24" alt="Avatar of mjmacleod"> mjmacleod
@@ -8763,7 +8828,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/TheAppchemist">
 				<img src="https://avatars.githubusercontent.com/u/12713566?s=72&u=67bdce49e02e605049a60f00b71b4a40cbb10b8b&v=4" width="24" alt="Avatar of TheAppchemist"> TheAppchemist
@@ -8776,7 +8841,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/mohlalanation">
 				<img src="https://avatars.githubusercontent.com/u/117018267?s=72&u=1b493c6f6d7d986830ffcddb352d89bee9c1b6d0&v=4" width="24" alt="Avatar of mohlalanation"> mohlalanation
@@ -8789,20 +8854,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>669</td>
-		<td>
-			<a href="https://github.com/mohlalanation">
-				<img src="https://avatars.githubusercontent.com/u/117018267?s=72&u=1b493c6f6d7d986830ffcddb352d89bee9c1b6d0&v=4" width="24" alt="Avatar of mohlalanation"> mohlalanation
-			</a><br/>
-			Nations 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Pretoria</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>670</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/MartinFlischman">
 				<img src="https://avatars.githubusercontent.com/u/26260699?s=72&u=a2a79b189855b3e1fd0343be28b47278a79b4414&v=4" width="24" alt="Avatar of MartinFlischman"> MartinFlischman
@@ -8815,7 +8867,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/jajukajulz">
 				<img src="https://avatars.githubusercontent.com/u/2832754?s=72&u=142a3f9518f9858d6cc9db710a3e2cac93bf4eb8&v=4" width="24" alt="Avatar of jajukajulz"> jajukajulz
@@ -8828,7 +8880,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/BenjaminDev">
 				<img src="https://avatars.githubusercontent.com/u/11699155?s=72&u=ed7cb0cb82fdd689eb98678fd2197955c69eb057&v=4" width="24" alt="Avatar of BenjaminDev"> BenjaminDev
@@ -8841,7 +8893,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/KudahShambare">
 				<img src="https://avatars.githubusercontent.com/u/70160442?s=72&u=5546aa5148774d6282f4f147f50aac5fcba041d3&v=4" width="24" alt="Avatar of KudahShambare"> KudahShambare
@@ -8854,7 +8906,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/ALittleLessThanMediocre">
 				<img src="https://avatars.githubusercontent.com/u/50702998?s=72&u=8428a99ba4eb2728e9751e4d164e0f79222135f0&v=4" width="24" alt="Avatar of ALittleLessThanMediocre"> ALittleLessThanMediocre
@@ -8867,7 +8919,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/MaddoxMaila">
 				<img src="https://avatars.githubusercontent.com/u/37212622?s=72&u=a26a3c44a4e3622b9e45375a7b5898f13826d96b&v=4" width="24" alt="Avatar of MaddoxMaila"> MaddoxMaila
@@ -8880,7 +8932,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/tshepop">
 				<img src="https://avatars.githubusercontent.com/u/7701842?s=72&u=d5110bdaec2f65e14fdcd7a50e122bf0f0875b8a&v=4" width="24" alt="Avatar of tshepop"> tshepop
@@ -8893,7 +8945,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/Bukho-Cosa">
 				<img src="https://avatars.githubusercontent.com/u/108462861?s=72&u=d5d76792fa7c12706e257a8f00f0de7a2c314cab&v=4" width="24" alt="Avatar of Bukho-Cosa"> Bukho-Cosa
@@ -8906,7 +8958,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/charbileigh">
 				<img src="https://avatars.githubusercontent.com/u/44195461?s=72&u=c981dcd44cfddfe1beae0319eecb6a0c31c9e876&v=4" width="24" alt="Avatar of charbileigh"> charbileigh
@@ -8919,7 +8971,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/tjaart">
 				<img src="https://avatars.githubusercontent.com/u/101466?s=72&u=e8e4e710047c00c0019760a0caf4f1cbc1244f0f&v=4" width="24" alt="Avatar of tjaart"> tjaart
@@ -8932,7 +8984,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/tswanepoel">
 				<img src="https://avatars.githubusercontent.com/u/6924799?s=72&u=3d16a321f45c54e5e0a63909928ceb575f38a7a1&v=4" width="24" alt="Avatar of tswanepoel"> tswanepoel
@@ -8945,7 +8997,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/enrique-isaacs">
 				<img src="https://avatars.githubusercontent.com/u/107151862?s=72&u=4936ea207e6b59b071e6b4472eec5060b7a4d0dd&v=4" width="24" alt="Avatar of enrique-isaacs"> enrique-isaacs
@@ -8958,20 +9010,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>682</td>
-		<td>
-			<a href="https://github.com/enrique-isaacs">
-				<img src="https://avatars.githubusercontent.com/u/107151862?s=72&u=4936ea207e6b59b071e6b4472eec5060b7a4d0dd&v=4" width="24" alt="Avatar of enrique-isaacs"> enrique-isaacs
-			</a><br/>
-			Enrique Isaacs
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>683</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/simisoz">
 				<img src="https://avatars.githubusercontent.com/u/19725432?s=72&u=fe8d8d4db2962e5dcf425abe0b6acb73b965b105&v=4" width="24" alt="Avatar of simisoz"> simisoz
@@ -8984,7 +9023,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/weiserman">
 				<img src="https://avatars.githubusercontent.com/u/482269?s=72&u=94dc90251103a7624598a0fa698b67bbf16cc565&v=4" width="24" alt="Avatar of weiserman"> weiserman
@@ -8997,7 +9036,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/rorymckinley">
 				<img src="https://avatars.githubusercontent.com/u/65485?s=72&v=4" width="24" alt="Avatar of rorymckinley"> rorymckinley
@@ -9010,7 +9049,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/Ramasindi">
 				<img src="https://avatars.githubusercontent.com/u/47077855?s=72&u=3e948585025b911772d0b0a6e120c76572771099&v=4" width="24" alt="Avatar of Ramasindi"> Ramasindi
@@ -9023,7 +9062,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/DeanVanGreunen">
 				<img src="https://avatars.githubusercontent.com/u/22296075?s=72&u=aa9330a04a3df1030fb30241a22b6650453a92ba&v=4" width="24" alt="Avatar of DeanVanGreunen"> DeanVanGreunen
@@ -9036,7 +9075,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/ToeFungi">
 				<img src="https://avatars.githubusercontent.com/u/6685713?s=72&u=498a1215e4ebc23f6b064b8fdf53a84f9ef124ac&v=4" width="24" alt="Avatar of ToeFungi"> ToeFungi
@@ -9049,46 +9088,20 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>689</td>
-		<td>
-			<a href="https://github.com/jpt13653903">
-				<img src="https://avatars.githubusercontent.com/u/41227383?s=72&u=315701f7c20b519a735eaf940081567d71b42bd4&v=4" width="24" alt="Avatar of jpt13653903"> jpt13653903
-			</a><br/>
-			John-Philip Taylor
-		</td>
-		<td>Reutech Radar Systems </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>690</td>
-		<td>
-			<a href="https://github.com/jpt13653903">
-				<img src="https://avatars.githubusercontent.com/u/41227383?s=72&u=315701f7c20b519a735eaf940081567d71b42bd4&v=4" width="24" alt="Avatar of jpt13653903"> jpt13653903
-			</a><br/>
-			John-Philip Taylor
-		</td>
-		<td>Reutech Radar Systems </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>691</td>
-		<td>
-			<a href="https://github.com/DanielmAaron">
-				<img src="https://avatars.githubusercontent.com/u/42733907?s=72&u=fe3fbb3c70e6099dbbccf7eaeecc03ab5133b7c8&v=4" width="24" alt="Avatar of DanielmAaron"> DanielmAaron
-			</a><br/>
-			Daniel Aaron
-		</td>
-		<td>Bsolve Integration </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
-		<td>17</td>
-	</tr>
-	<tr>
 		<td>692</td>
+		<td>
+			<a href="https://github.com/jpt13653903">
+				<img src="https://avatars.githubusercontent.com/u/41227383?s=72&u=315701f7c20b519a735eaf940081567d71b42bd4&v=4" width="24" alt="Avatar of jpt13653903"> jpt13653903
+			</a><br/>
+			John-Philip Taylor
+		</td>
+		<td>Reutech Radar Systems </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/dalenunns">
 				<img src="https://avatars.githubusercontent.com/u/21309512?s=72&v=4" width="24" alt="Avatar of dalenunns"> dalenunns
@@ -9101,7 +9114,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/DanielmAaron">
 				<img src="https://avatars.githubusercontent.com/u/42733907?s=72&u=fe3fbb3c70e6099dbbccf7eaeecc03ab5133b7c8&v=4" width="24" alt="Avatar of DanielmAaron"> DanielmAaron
@@ -9114,7 +9127,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/Hlakaza">
 				<img src="https://avatars.githubusercontent.com/u/25383313?s=72&u=6e8cfc468dc69428fe77e4afcc58a511c07b4ba0&v=4" width="24" alt="Avatar of Hlakaza"> Hlakaza
@@ -9127,7 +9140,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/mabu-dev">
 				<img src="https://avatars.githubusercontent.com/u/22409996?s=72&u=f334d32e83a247ad33d860155c9479ad19772481&v=4" width="24" alt="Avatar of mabu-dev"> mabu-dev
@@ -9140,20 +9153,20 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
-			<a href="https://github.com/waydelyle">
-				<img src="https://avatars.githubusercontent.com/u/16001190?s=72&u=361b29f591b6dc387095a265a666ce2bcbdb5ea9&v=4" width="24" alt="Avatar of waydelyle"> waydelyle
+			<a href="https://github.com/mabu-dev">
+				<img src="https://avatars.githubusercontent.com/u/22409996?s=72&u=f334d32e83a247ad33d860155c9479ad19772481&v=4" width="24" alt="Avatar of mabu-dev"> mabu-dev
 			</a><br/>
-			Wayde
+			Mabu Manaileng
 		</td>
-		<td>One Africa Media </td>
+		<td>Datawizzards </td>
 		<td>No Twitter Username</td>
-		<td>Cape Town</td>
+		<td>Johannesburg</td>
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/AdhirRamjiawan">
 				<img src="https://avatars.githubusercontent.com/u/2063616?s=72&u=44b3b89271fec68db478ca83e142c46b1e092bc8&v=4" width="24" alt="Avatar of AdhirRamjiawan"> AdhirRamjiawan
@@ -9166,7 +9179,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/waydelyle">
 				<img src="https://avatars.githubusercontent.com/u/16001190?s=72&u=361b29f591b6dc387095a265a666ce2bcbdb5ea9&v=4" width="24" alt="Avatar of waydelyle"> waydelyle
@@ -9176,19 +9189,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>One Africa Media </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>699</td>
-		<td>
-			<a href="https://github.com/Jason-Cee">
-				<img src="https://avatars.githubusercontent.com/u/82158928?s=72&v=4" width="24" alt="Avatar of Jason-Cee"> Jason-Cee
-			</a><br/>
-			Jason
-		</td>
-		<td>Lifechoices Coding Academy <br/></td>
-		<td>No Twitter Username</td>
-		<td> Cape Town, Western Cape</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -9207,19 +9207,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>701</td>
 		<td>
-			<a href="https://github.com/danfuterman">
-				<img src="https://avatars.githubusercontent.com/u/1052668?s=72&v=4" width="24" alt="Avatar of danfuterman"> danfuterman
-			</a><br/>
-			Daniel Futerman
-		</td>
-		<td>Praekelt </td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg, South Africa</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>702</td>
-		<td>
 			<a href="https://github.com/bamvans">
 				<img src="https://avatars.githubusercontent.com/u/23016386?s=72&u=f03c965898aa3905ac6ac7c349290d6d829c8233&v=4" width="24" alt="Avatar of bamvans"> bamvans
 			</a><br/>
@@ -9231,7 +9218,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/stephen-cloete">
 				<img src="https://avatars.githubusercontent.com/u/4243604?s=72&u=ed4be87ebc101ba8f095a81a86b1882029507756&v=4" width="24" alt="Avatar of stephen-cloete"> stephen-cloete
@@ -9244,7 +9231,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/yepster1">
 				<img src="https://avatars.githubusercontent.com/u/9000435?s=72&u=85f959566c2259526dad4f97a709005803fe302e&v=4" width="24" alt="Avatar of yepster1"> yepster1
@@ -9252,6 +9239,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 			Cary Small
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cape Town, South Africa</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
+			<a href="https://github.com/paulallies">
+				<img src="https://avatars.githubusercontent.com/u/580368?s=72&u=d96251ffeb2dfc7b2d63ac376501580b30393a88&v=4" width="24" alt="Avatar of paulallies"> paulallies
+			</a><br/>
+			Paul Allies
+		</td>
+		<td>Nanosoft </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
 		<td>17</td>
@@ -9298,6 +9298,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>708</td>
 		<td>
+			<a href="https://github.com/Sifdon">
+				<img src="https://avatars.githubusercontent.com/u/11144685?s=72&u=38f52ebecc6a8deaed6327dcef9692aa8aae1492&v=4" width="24" alt="Avatar of Sifdon"> Sifdon
+			</a><br/>
+			Sifiso Tsoari
+		</td>
+		<td>Sifdon General Trading Cc<br/></td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg, South Africa</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
 			<a href="https://github.com/krampus-nuggets">
 				<img src="https://avatars.githubusercontent.com/u/21266436?s=72&u=c22bfd1ce92bac435824077dbc9d270acb5ebddf&v=4" width="24" alt="Avatar of krampus-nuggets"> krampus-nuggets
 			</a><br/>
@@ -9309,7 +9322,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a href="https://github.com/MpiloNM95">
 				<img src="https://avatars.githubusercontent.com/u/87414441?s=72&u=9eb2fcb3c30c603f319904a8e3125e7f8566c022&v=4" width="24" alt="Avatar of MpiloNM95"> MpiloNM95
@@ -9322,7 +9335,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a href="https://github.com/MikeyAlmighty">
 				<img src="https://avatars.githubusercontent.com/u/45830554?s=72&u=2b01f333eb8407037197d6e2829e58d508269ac1&v=4" width="24" alt="Avatar of MikeyAlmighty"> MikeyAlmighty
@@ -9335,7 +9348,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a href="https://github.com/lucaliebenberg">
 				<img src="https://avatars.githubusercontent.com/u/89966720?s=72&u=82d7fd0b48c3433ff38a258a4a6fb965e2f67b73&v=4" width="24" alt="Avatar of lucaliebenberg"> lucaliebenberg
@@ -9348,7 +9361,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a href="https://github.com/abarkhuysen">
 				<img src="https://avatars.githubusercontent.com/u/1845109?s=72&v=4" width="24" alt="Avatar of abarkhuysen"> abarkhuysen
@@ -9361,7 +9374,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a href="https://github.com/MicahSphelele">
 				<img src="https://avatars.githubusercontent.com/u/25451906?s=72&u=157ac17da558c1f8bf60fd71aaac5d76756ea72a&v=4" width="24" alt="Avatar of MicahSphelele"> MicahSphelele
@@ -9374,7 +9387,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a href="https://github.com/patrickarnold79">
 				<img src="https://avatars.githubusercontent.com/u/6310463?s=72&u=9d9947860a7d91843226b582c4ee25b8fc76ab76&v=4" width="24" alt="Avatar of patrickarnold79"> patrickarnold79
@@ -9387,7 +9400,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/BradleyKirton">
 				<img src="https://avatars.githubusercontent.com/u/6583221?s=72&u=53720a05343315484f24e6f4f3ded3f282c6c8f7&v=4" width="24" alt="Avatar of BradleyKirton"> BradleyKirton
@@ -9400,7 +9413,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>717</td>
 		<td>
 			<a href="https://github.com/royalmitten">
 				<img src="https://avatars.githubusercontent.com/u/14973705?s=72&u=0bdd208903f3e6344a8831454977381fea3e65d9&v=4" width="24" alt="Avatar of royalmitten"> royalmitten
@@ -9413,7 +9426,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>718</td>
 		<td>
 			<a href="https://github.com/dylanvanh">
 				<img src="https://avatars.githubusercontent.com/u/61427891?s=72&u=cf82967ffc581b33ab04d2f4907ac7aaa755b374&v=4" width="24" alt="Avatar of dylanvanh"> dylanvanh
@@ -9426,7 +9439,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>719</td>
 		<td>
 			<a href="https://github.com/chumani130">
 				<img src="https://avatars.githubusercontent.com/u/56044652?s=72&u=f3e6ca6ce127361dbef65d76c59d41aa8249fa89&v=4" width="24" alt="Avatar of chumani130"> chumani130
@@ -9439,7 +9452,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>720</td>
 		<td>
 			<a href="https://github.com/PetrusHimself">
 				<img src="https://avatars.githubusercontent.com/u/106895803?s=72&u=f911f1d32280fa0d245bf9ce65ce77e2e01dad2f&v=4" width="24" alt="Avatar of PetrusHimself"> PetrusHimself
@@ -9452,7 +9465,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>721</td>
 		<td>
 			<a href="https://github.com/Thabi22">
 				<img src="https://avatars.githubusercontent.com/u/128819861?s=72&u=4d31f84e62d490ebcef2170dda8efb2c1e1635c7&v=4" width="24" alt="Avatar of Thabi22"> Thabi22
@@ -9465,7 +9478,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>722</td>
 		<td>
 			<a href="https://github.com/Gladysmoyana">
 				<img src="https://avatars.githubusercontent.com/u/122878392?s=72&v=4" width="24" alt="Avatar of Gladysmoyana"> Gladysmoyana
@@ -9478,7 +9491,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a href="https://github.com/James-Burgess">
 				<img src="https://avatars.githubusercontent.com/u/18641066?s=72&u=3cc0246beb4e91eac49e2b277681fdf5c66cc3e4&v=4" width="24" alt="Avatar of James-Burgess"> James-Burgess
@@ -9491,7 +9504,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a href="https://github.com/LeoTheNrdKng">
 				<img src="https://avatars.githubusercontent.com/u/38498133?s=72&u=a3c7799da2f484c32ae5db6cbd4d967b2906a033&v=4" width="24" alt="Avatar of LeoTheNrdKng"> LeoTheNrdKng
@@ -9504,7 +9517,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a href="https://github.com/Mekhail-Meiring">
 				<img src="https://avatars.githubusercontent.com/u/101399926?s=72&u=3109a8f823e01904bae130d146f1f2367c9a6eb0&v=4" width="24" alt="Avatar of Mekhail-Meiring"> Mekhail-Meiring
@@ -9514,19 +9527,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>725</td>
-		<td>
-			<a href="https://github.com/Ambient567">
-				<img src="https://avatars.githubusercontent.com/u/73404238?s=72&u=71403c7b9fa9b791d69ceb1d1ad0d41630d2e91d&v=4" width="24" alt="Avatar of Ambient567"> Ambient567
-			</a><br/>
-			Precious Nhlapho
-		</td>
-		<td>Software Developer </td>
-		<td><a href="https://twitter.com/Ambient567">Ambient567</a></td>
-		<td>Pretoria, South Africa </td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -9753,6 +9753,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>743</td>
 		<td>
+			<a href="https://github.com/jarrettj">
+				<img src="https://avatars.githubusercontent.com/u/777547?s=72&v=4" width="24" alt="Avatar of jarrettj"> jarrettj
+			</a><br/>
+			jarrett jordaan
+		</td>
+		<td>Prosus </td>
+		<td><a href="https://twitter.com/jljordaan">jljordaan</a></td>
+		<td>Cape Town</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>744</td>
+		<td>
 			<a href="https://github.com/HeinrichWizardKreuser">
 				<img src="https://avatars.githubusercontent.com/u/48674623?s=72&u=9b864ba930a3353875a5e2a65dcf60a2329e18a9&v=4" width="24" alt="Avatar of HeinrichWizardKreuser"> HeinrichWizardKreuser
 			</a><br/>
@@ -9764,7 +9777,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/BenJanecke">
 				<img src="https://avatars.githubusercontent.com/u/2826898?s=72&u=a17a954d36e47c7d87bd86cdab0487b216793cd3&v=4" width="24" alt="Avatar of BenJanecke"> BenJanecke
@@ -9777,7 +9790,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/KieranHunt">
 				<img src="https://avatars.githubusercontent.com/u/4106917?s=72&v=4" width="24" alt="Avatar of KieranHunt"> KieranHunt
@@ -9790,7 +9803,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/moses-netshitangani">
 				<img src="https://avatars.githubusercontent.com/u/52979625?s=72&v=4" width="24" alt="Avatar of moses-netshitangani"> moses-netshitangani
@@ -9803,7 +9816,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/stephenfrank">
 				<img src="https://avatars.githubusercontent.com/u/112059?s=72&v=4" width="24" alt="Avatar of stephenfrank"> stephenfrank
@@ -9816,7 +9829,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/AmyMarais">
 				<img src="https://avatars.githubusercontent.com/u/81366533?s=72&u=cfc7c994f100bd8fa02be3dd79ae5296635c1cfb&v=4" width="24" alt="Avatar of AmyMarais"> AmyMarais
@@ -9829,7 +9842,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/ddutchie">
 				<img src="https://avatars.githubusercontent.com/u/10877426?s=72&v=4" width="24" alt="Avatar of ddutchie"> ddutchie
@@ -9842,7 +9855,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/danogwok">
 				<img src="https://avatars.githubusercontent.com/u/2078436?s=72&v=4" width="24" alt="Avatar of danogwok"> danogwok
@@ -9855,7 +9868,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/rocbear">
 				<img src="https://avatars.githubusercontent.com/u/4415071?s=72&u=690c3f3b6f5c193cd9a39ef0d51a78eeea3f949f&v=4" width="24" alt="Avatar of rocbear"> rocbear
@@ -9868,7 +9881,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/paulfurber">
 				<img src="https://avatars.githubusercontent.com/u/607285?s=72&v=4" width="24" alt="Avatar of paulfurber"> paulfurber
@@ -9881,7 +9894,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/jonathanendersby">
 				<img src="https://avatars.githubusercontent.com/u/2000473?s=72&u=665f20bddfd537fb987e4ef27fef2b627c0f37a2&v=4" width="24" alt="Avatar of jonathanendersby"> jonathanendersby
@@ -9894,7 +9907,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/iron-hulk">
 				<img src="https://avatars.githubusercontent.com/u/7373002?s=72&u=7225b3e2a573043b06304c612029292dd2fc9a5b&v=4" width="24" alt="Avatar of iron-hulk"> iron-hulk
@@ -9907,7 +9920,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/LEGEND-FUEGO">
 				<img src="https://avatars.githubusercontent.com/u/87955793?s=72&u=0414f683157595642fceca5ec1602d526d60f71c&v=4" width="24" alt="Avatar of LEGEND-FUEGO"> LEGEND-FUEGO
@@ -9920,7 +9933,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/Chant-el">
 				<img src="https://avatars.githubusercontent.com/u/62160513?s=72&u=8d5e5dab62c17503fb692e0774eb5370218de444&v=4" width="24" alt="Avatar of Chant-el"> Chant-el
@@ -9933,7 +9946,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/Mitso">
 				<img src="https://avatars.githubusercontent.com/u/1453355?s=72&u=e1bb6dd53bbe84e5b54178fd058b8532d7c8235a&v=4" width="24" alt="Avatar of Mitso"> Mitso
@@ -9946,7 +9959,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/gregmarzio">
 				<img src="https://avatars.githubusercontent.com/u/3627311?s=72&u=74bace88075fea7e4dfb5b793e37a50d766a09c7&v=4" width="24" alt="Avatar of gregmarzio"> gregmarzio
@@ -9959,7 +9972,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/JustinCee">
 				<img src="https://avatars.githubusercontent.com/u/82204671?s=72&u=db201d1a37218c44ff56c7bfced651d615371ad4&v=4" width="24" alt="Avatar of JustinCee"> JustinCee
@@ -9972,7 +9985,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/liluyandavanwyk">
 				<img src="https://avatars.githubusercontent.com/u/40629804?s=72&u=760e5ab389186a749daa4aa2a1ad7f4a0956672c&v=4" width="24" alt="Avatar of liluyandavanwyk"> liluyandavanwyk
@@ -9985,7 +9998,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/MichaelCDavids">
 				<img src="https://avatars.githubusercontent.com/u/22195600?s=72&u=a358398902870db719cfed873ff5b8e07a3c02d2&v=4" width="24" alt="Avatar of MichaelCDavids"> MichaelCDavids
@@ -9995,19 +10008,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cape Town</td>
-		<td>16</td>
-	</tr>
-	<tr>
-		<td>762</td>
-		<td>
-			<a href="https://github.com/paulallies">
-				<img src="https://avatars.githubusercontent.com/u/580368?s=72&u=d96251ffeb2dfc7b2d63ac376501580b30393a88&v=4" width="24" alt="Avatar of paulallies"> paulallies
-			</a><br/>
-			Paul Allies
-		</td>
-		<td>Nanosoft </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -11040,14 +11040,14 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>842</td>
 		<td>
-			<a href="https://github.com/ZaidMarrie">
-				<img src="https://avatars.githubusercontent.com/u/84665360?s=72&u=5e17c8dbfc84f2b900b552be11474f32ea71ea7f&v=4" width="24" alt="Avatar of ZaidMarrie"> ZaidMarrie
+			<a href="https://github.com/callumtilbury">
+				<img src="https://avatars.githubusercontent.com/u/37700709?s=72&u=e1048078eb180a0fe61afdad20d0f8b262ff0894&v=4" width="24" alt="Avatar of callumtilbury"> callumtilbury
 			</a><br/>
-			Zaid Marrie
+			Callum Tilbury
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LeKoels27">LeKoels27</a></td>
-		<td>Johannesburg</td>
+		<td>@instadeepai </td>
+		<td><a href="https://twitter.com/callumtilbury">callumtilbury</a></td>
+		<td>Cape Town, South Africa</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -11066,14 +11066,14 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>844</td>
 		<td>
-			<a href="https://github.com/callumtilbury">
-				<img src="https://avatars.githubusercontent.com/u/37700709?s=72&u=e1048078eb180a0fe61afdad20d0f8b262ff0894&v=4" width="24" alt="Avatar of callumtilbury"> callumtilbury
+			<a href="https://github.com/ZaidMarrie">
+				<img src="https://avatars.githubusercontent.com/u/84665360?s=72&u=5e17c8dbfc84f2b900b552be11474f32ea71ea7f&v=4" width="24" alt="Avatar of ZaidMarrie"> ZaidMarrie
 			</a><br/>
-			Callum Tilbury
+			Zaid Marrie
 		</td>
-		<td>@instadeepai </td>
-		<td><a href="https://twitter.com/callumtilbury">callumtilbury</a></td>
-		<td>Cape Town, South Africa</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LeKoels27">LeKoels27</a></td>
+		<td>Johannesburg</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -11144,19 +11144,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>850</td>
 		<td>
-			<a href="https://github.com/theTechRebel">
-				<img src="https://avatars.githubusercontent.com/u/4732650?s=72&u=7504764e9e52fac1147040f046a439e23fc4a554&v=4" width="24" alt="Avatar of theTechRebel"> theTechRebel
-			</a><br/>
-			Steven Dumbura
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg, South African</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>851</td>
-		<td>
 			<a href="https://github.com/ck46">
 				<img src="https://avatars.githubusercontent.com/u/15572372?s=72&u=ab64d2558a76f1857e23314a14b3d410bf0ad13f&v=4" width="24" alt="Avatar of ck46"> ck46
 			</a><br/>
@@ -11168,7 +11155,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>851</td>
 		<td>
 			<a href="https://github.com/bflyblue">
 				<img src="https://avatars.githubusercontent.com/u/1412109?s=72&u=1c7ace0916f004e5bbfc7748f01da0acc25bd562&v=4" width="24" alt="Avatar of bflyblue"> bflyblue
@@ -11181,7 +11168,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>853</td>
+		<td>852</td>
 		<td>
 			<a href="https://github.com/JeremyDouglas91">
 				<img src="https://avatars.githubusercontent.com/u/22117288?s=72&u=ac7541b5a59bf2a3f35a47d85dfc27d6c5f44921&v=4" width="24" alt="Avatar of JeremyDouglas91"> JeremyDouglas91
@@ -11191,6 +11178,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>853</td>
+		<td>
+			<a href="https://github.com/lathitha-dev">
+				<img src="https://avatars.githubusercontent.com/u/110297150?s=72&v=4" width="24" alt="Avatar of lathitha-dev"> lathitha-dev
+			</a><br/>
+			Lathitha Mbunjana (C.A.T sommy)
+		</td>
+		<td>Owner  And Photographer<br/><br/></td>
+		<td>No Twitter Username</td>
+		<td>Cape town S.A</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -11235,14 +11235,14 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>857</td>
 		<td>
-			<a href="https://github.com/Kanyisa-Ntombini">
-				<img src="https://avatars.githubusercontent.com/u/71196826?s=72&u=7d17033ad6dd97630d81dc5c6ad43281784d0484&v=4" width="24" alt="Avatar of Kanyisa-Ntombini"> Kanyisa-Ntombini
+			<a href="https://github.com/glen-84">
+				<img src="https://avatars.githubusercontent.com/u/261509?s=72&v=4" width="24" alt="Avatar of glen-84"> glen-84
 			</a><br/>
-			Kanyisa Ntombini
+			Glen
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Johannesburg</td>
+		<td>Cape Town, South Africa</td>
 		<td>14</td>
 	</tr>
 	<tr>
@@ -11482,19 +11482,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>876</td>
 		<td>
-			<a href="https://github.com/nathangiose">
-				<img src="https://avatars.githubusercontent.com/u/12010385?s=72&u=230cd358fe6f7cdc294d227ca4790f3c4f939c0e&v=4" width="24" alt="Avatar of nathangiose"> nathangiose
-			</a><br/>
-			Nathan Giose 
-		</td>
-		<td>Angle Orange </td>
-		<td>No Twitter Username</td>
-		<td>Cape Town, South Africa</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>877</td>
-		<td>
 			<a href="https://github.com/peterchaula">
 				<img src="https://avatars.githubusercontent.com/u/13304490?s=72&u=ab97e131c36c2454b5d365e468156ad7fa9269fb&v=4" width="24" alt="Avatar of peterchaula"> peterchaula
 			</a><br/>
@@ -11506,7 +11493,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>877</td>
 		<td>
 			<a href="https://github.com/aminggs">
 				<img src="https://avatars.githubusercontent.com/u/156370?s=72&v=4" width="24" alt="Avatar of aminggs"> aminggs
@@ -11519,7 +11506,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>878</td>
 		<td>
 			<a href="https://github.com/lungamalinga">
 				<img src="https://avatars.githubusercontent.com/u/76551648?s=72&u=6abc56e083792a2a31cdc212923f80cc6ce460cc&v=4" width="24" alt="Avatar of lungamalinga"> lungamalinga
@@ -11532,7 +11519,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/andy-g">
 				<img src="https://avatars.githubusercontent.com/u/557065?s=72&u=673c7cf221ffee1f85fc07be88a8d6ec0ff58dad&v=4" width="24" alt="Avatar of andy-g"> andy-g
@@ -11545,7 +11532,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/lemoene">
 				<img src="https://avatars.githubusercontent.com/u/1196034?s=72&v=4" width="24" alt="Avatar of lemoene"> lemoene
@@ -11553,6 +11540,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 			Lemoene Smit
 		</td>
 		<td>Bika Lab Systems </td>
+		<td>No Twitter Username</td>
+		<td>Cape Town</td>
+		<td>14</td>
+	</tr>
+	<tr>
+		<td>881</td>
+		<td>
+			<a href="https://github.com/mosaic141688">
+				<img src="https://avatars.githubusercontent.com/u/10611505?s=72&u=d3bee148b64d4c9a49a5cb4466026d6be4c3907e&v=4" width="24" alt="Avatar of mosaic141688"> mosaic141688
+			</a><br/>
+			Sihle Mbhamali
+		</td>
+		<td>@locational @disarm-platform @team-eswatini @openshift-hackathon<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Cape Town</td>
 		<td>14</td>
@@ -11820,6 +11820,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>902</td>
 		<td>
+			<a href="https://github.com/tmuzanenhamo">
+				<img src="https://avatars.githubusercontent.com/u/45859685?s=72&u=75926f1101b575ca538c0386749dfd8153ddd0ab&v=4" width="24" alt="Avatar of tmuzanenhamo"> tmuzanenhamo
+			</a><br/>
+			Tawanda Muzanenhamo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cape Town </td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>903</td>
+		<td>
 			<a href="https://github.com/byronrode">
 				<img src="https://avatars.githubusercontent.com/u/382018?s=72&u=e784c01347ad9ea4d434075b2dd350bb434c2b7a&v=4" width="24" alt="Avatar of byronrode"> byronrode
 			</a><br/>
@@ -11831,7 +11844,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/sajeezy">
 				<img src="https://avatars.githubusercontent.com/u/3699393?s=72&u=b42981794ea398960938e6a7a86414cef1a297d7&v=4" width="24" alt="Avatar of sajeezy"> sajeezy
@@ -11844,7 +11857,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/jcqvisser">
 				<img src="https://avatars.githubusercontent.com/u/6382057?s=72&u=d12e4202970237933e6d81ffbb3c47c606b2c6ef&v=4" width="24" alt="Avatar of jcqvisser"> jcqvisser
@@ -11854,19 +11867,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>@platform45  </td>
 		<td>No Twitter Username</td>
 		<td>Johannesburg, South Africa</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>905</td>
-		<td>
-			<a href="https://github.com/BurningDog">
-				<img src="https://avatars.githubusercontent.com/u/787653?s=72&u=e884953bc232148e697f702bf7db915dce28cff4&v=4" width="24" alt="Avatar of BurningDog"> BurningDog
-			</a><br/>
-			Roger Saner
-		</td>
-		<td>How Might We </td>
-		<td><a href="https://twitter.com/rogersaner">rogersaner</a></td>
-		<td>Cape Town, South Africa</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -12041,6 +12041,19 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>919</td>
 		<td>
+			<a href="https://github.com/Kanyisa-Ntombini">
+				<img src="https://avatars.githubusercontent.com/u/71196826?s=72&u=7d17033ad6dd97630d81dc5c6ad43281784d0484&v=4" width="24" alt="Avatar of Kanyisa-Ntombini"> Kanyisa-Ntombini
+			</a><br/>
+			Kanyisa Ntombini
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>920</td>
+		<td>
 			<a href="https://github.com/twesigomwedavid">
 				<img src="https://avatars.githubusercontent.com/u/38982270?s=72&u=d139f3106189858d3a716fe44f4a52b1a1ccd3d3&v=4" width="24" alt="Avatar of twesigomwedavid"> twesigomwedavid
 			</a><br/>
@@ -12052,7 +12065,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/SiyabongaMavuso">
 				<img src="https://avatars.githubusercontent.com/u/93841996?s=72&u=e03ba3db8be962fd34439ebc5abe9547bc1d2b9f&v=4" width="24" alt="Avatar of SiyabongaMavuso"> SiyabongaMavuso
@@ -12065,7 +12078,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/jamesroberts">
 				<img src="https://avatars.githubusercontent.com/u/37839840?s=72&u=e3454f7565a0011989078c3469be6b78f15ce7c0&v=4" width="24" alt="Avatar of jamesroberts"> jamesroberts
@@ -12078,7 +12091,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/KrylixZA">
 				<img src="https://avatars.githubusercontent.com/u/16819506?s=72&u=24170178fb8fbcdd7288ddb50406cf741d74aad0&v=4" width="24" alt="Avatar of KrylixZA"> KrylixZA
@@ -12091,7 +12104,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/duncanvanheerden">
 				<img src="https://avatars.githubusercontent.com/u/98107619?s=72&u=8e004a2b758f7d8a03db301b42e30136f315bb03&v=4" width="24" alt="Avatar of duncanvanheerden"> duncanvanheerden
@@ -12104,7 +12117,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/gmakhobe">
 				<img src="https://avatars.githubusercontent.com/u/50702622?s=72&u=37ad152599d08e3fe168978b8c4e260a596a657b&v=4" width="24" alt="Avatar of gmakhobe"> gmakhobe
@@ -12117,7 +12130,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/dominicschaff">
 				<img src="https://avatars.githubusercontent.com/u/7126283?s=72&u=f96980a70d53df09dc334e5255acaee734cd3a30&v=4" width="24" alt="Avatar of dominicschaff"> dominicschaff
@@ -12130,7 +12143,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/kishyr">
 				<img src="https://avatars.githubusercontent.com/u/6758?s=72&u=f339fb82042f40638f3300f078245bf4ab942338&v=4" width="24" alt="Avatar of kishyr"> kishyr
@@ -12143,7 +12156,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/t4g">
 				<img src="https://avatars.githubusercontent.com/u/1277253?s=72&u=4665f593e0c509f6fcb29f0c4f6b21ba678d6085&v=4" width="24" alt="Avatar of t4g"> t4g
@@ -12156,7 +12169,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/eahussein">
 				<img src="https://avatars.githubusercontent.com/u/31181109?s=72&u=8a9e1ca5e827f995d7093b427b00254e9da2f2db&v=4" width="24" alt="Avatar of eahussein"> eahussein
@@ -12169,7 +12182,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/leonmwandiringa">
 				<img src="https://avatars.githubusercontent.com/u/16482255?s=72&u=f1110475095ccf3fd6a0c8605b3e273f0d6de3b6&v=4" width="24" alt="Avatar of leonmwandiringa"> leonmwandiringa
@@ -12182,7 +12195,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/MogammadShaqeelless16">
 				<img src="https://avatars.githubusercontent.com/u/54390756?s=72&u=e1104b358a15c97c98d19ff729530c5c099ef474&v=4" width="24" alt="Avatar of MogammadShaqeelless16"> MogammadShaqeelless16
@@ -12195,7 +12208,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/anthonysomerset">
 				<img src="https://avatars.githubusercontent.com/u/340584?s=72&v=4" width="24" alt="Avatar of anthonysomerset"> anthonysomerset
@@ -12208,7 +12221,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/ANgowapi">
 				<img src="https://avatars.githubusercontent.com/u/106770639?s=72&u=ce109fa22985bd093eb2e0ea40064078f7963248&v=4" width="24" alt="Avatar of ANgowapi"> ANgowapi
@@ -12221,7 +12234,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/RyanS-Cpt">
 				<img src="https://avatars.githubusercontent.com/u/74462713?s=72&u=1fa4985ada7e3718f3fe22c8ada65e4ff051eed9&v=4" width="24" alt="Avatar of RyanS-Cpt"> RyanS-Cpt
@@ -12234,7 +12247,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/oni1997">
 				<img src="https://avatars.githubusercontent.com/u/48757069?s=72&u=cf0b4a25a7fc8605d682a865e9b6b4f31c22d3d6&v=4" width="24" alt="Avatar of oni1997"> oni1997
@@ -12247,7 +12260,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>936</td>
 		<td>
 			<a href="https://github.com/hothman">
 				<img src="https://avatars.githubusercontent.com/u/8320261?s=72&u=9fae1ad6735879e4a7607f05d1148f605c2577c0&v=4" width="24" alt="Avatar of hothman"> hothman
@@ -12260,7 +12273,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>937</td>
 		<td>
 			<a href="https://github.com/tvanzyl">
 				<img src="https://avatars.githubusercontent.com/u/1215545?s=72&v=4" width="24" alt="Avatar of tvanzyl"> tvanzyl
@@ -12273,7 +12286,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>937</td>
+		<td>938</td>
 		<td>
 			<a href="https://github.com/emileae">
 				<img src="https://avatars.githubusercontent.com/u/4440694?s=72&u=ec89e9f086d36fe41da3f82c86b6b6ff04cfb811&v=4" width="24" alt="Avatar of emileae"> emileae
@@ -12286,7 +12299,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>938</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/niteshapte">
 				<img src="https://avatars.githubusercontent.com/u/300748?s=72&u=8b55bb76e5f30659859b189ad2db20c4a9ea9e5e&v=4" width="24" alt="Avatar of niteshapte"> niteshapte
@@ -12299,7 +12312,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>939</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/Peter2962">
 				<img src="https://avatars.githubusercontent.com/u/18626464?s=72&v=4" width="24" alt="Avatar of Peter2962"> Peter2962
@@ -12312,7 +12325,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/austinwasabi">
 				<img src="https://avatars.githubusercontent.com/u/108596811?s=72&u=fd0b8942b72d78c28f12b82c6e51c4ceae991929&v=4" width="24" alt="Avatar of austinwasabi"> austinwasabi
@@ -12325,7 +12338,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/ZeeshaanMaudar">
 				<img src="https://avatars.githubusercontent.com/u/26233500?s=72&u=ad24c9814008b44b6d4cd31a668e2ce2db07a78d&v=4" width="24" alt="Avatar of ZeeshaanMaudar"> ZeeshaanMaudar
@@ -12338,7 +12351,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/WrathZA">
 				<img src="https://avatars.githubusercontent.com/u/3757315?s=72&v=4" width="24" alt="Avatar of WrathZA"> WrathZA
@@ -12351,7 +12364,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/cyberkuv">
 				<img src="https://avatars.githubusercontent.com/u/40019849?s=72&u=c3feebd35a2b898c1ab7342e2bee28184418109b&v=4" width="24" alt="Avatar of cyberkuv"> cyberkuv
@@ -12364,7 +12377,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/guushoekman">
 				<img src="https://avatars.githubusercontent.com/u/4881667?s=72&u=2b76c21068e764b5e30948ba556809563cefd1f3&v=4" width="24" alt="Avatar of guushoekman"> guushoekman
@@ -12377,7 +12390,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/Jonathan-Baloyi">
 				<img src="https://avatars.githubusercontent.com/u/25613090?s=72&u=8c82cb6c77f8f6a5db2e9170f49b5231c726b2c3&v=4" width="24" alt="Avatar of Jonathan-Baloyi"> Jonathan-Baloyi
@@ -12390,7 +12403,20 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>947</td>
+		<td>
+			<a href="https://github.com/cyber-claws">
+				<img src="https://avatars.githubusercontent.com/u/20453120?s=72&u=c6df9ab8b49b2c0156918dfdc59c20a6406b2d8f&v=4" width="24" alt="Avatar of cyber-claws"> cyber-claws
+			</a><br/>
+			Ishmael Nkosikhona Sibisi
+		</td>
+		<td>Bash </td>
+		<td><a href="https://twitter.com/CyberClaws">CyberClaws</a></td>
+		<td>Johannesburg, South Africa</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/XhantiMda">
 				<img src="https://avatars.githubusercontent.com/u/3808637?s=72&u=e0e969ad6bbe194aefca97150abdbf2e0aee8557&v=4" width="24" alt="Avatar of XhantiMda"> XhantiMda
@@ -12403,7 +12429,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/jasongrishkoff">
 				<img src="https://avatars.githubusercontent.com/u/375379?s=72&u=ba6a48598f1550195a0532b0db3c9b33a8f37275&v=4" width="24" alt="Avatar of jasongrishkoff"> jasongrishkoff
@@ -12416,7 +12442,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/ginalamp">
 				<img src="https://avatars.githubusercontent.com/u/48590328?s=72&u=7b7d32522555d3c79a370e5b7717cc34cba2b10d&v=4" width="24" alt="Avatar of ginalamp"> ginalamp
@@ -12429,7 +12455,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/StefanNiehaus">
 				<img src="https://avatars.githubusercontent.com/u/24254401?s=72&u=9b302f702213db9906f501d8808a92a885b9a858&v=4" width="24" alt="Avatar of StefanNiehaus"> StefanNiehaus
@@ -12442,33 +12468,20 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>950</td>
-		<td>
-			<a href="https://github.com/mothibepalesa">
-				<img src="https://avatars.githubusercontent.com/u/133203394?s=72&v=4" width="24" alt="Avatar of mothibepalesa"> mothibepalesa
-			</a><br/>
-			Palesa Mothibe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg South Africa</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>951</td>
-		<td>
-			<a href="https://github.com/mothibepalesa">
-				<img src="https://avatars.githubusercontent.com/u/133203394?s=72&v=4" width="24" alt="Avatar of mothibepalesa"> mothibepalesa
-			</a><br/>
-			Palesa Mothibe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Johannesburg South Africa</td>
-		<td>13</td>
-	</tr>
-	<tr>
 		<td>952</td>
+		<td>
+			<a href="https://github.com/mothibepalesa">
+				<img src="https://avatars.githubusercontent.com/u/133203394?s=72&v=4" width="24" alt="Avatar of mothibepalesa"> mothibepalesa
+			</a><br/>
+			Palesa Mothibe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Johannesburg South Africa</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/garethstephenson">
 				<img src="https://avatars.githubusercontent.com/u/7922959?s=72&u=b0c6d532f47d8477009b3e0149bedb4edc84a9a6&v=4" width="24" alt="Avatar of garethstephenson"> garethstephenson
@@ -12481,7 +12494,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/Oliverdeb">
 				<img src="https://avatars.githubusercontent.com/u/11647619?s=72&v=4" width="24" alt="Avatar of Oliverdeb"> Oliverdeb
@@ -12494,7 +12507,7 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/joelsamuelk">
 				<img src="https://avatars.githubusercontent.com/u/17635659?s=72&v=4" width="24" alt="Avatar of joelsamuelk"> joelsamuelk
@@ -12504,19 +12517,6 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 		<td>@luno </td>
 		<td>No Twitter Username</td>
 		<td>Cape Town, South Africa</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>955</td>
-		<td>
-			<a href="https://github.com/duncanphillips">
-				<img src="https://avatars.githubusercontent.com/u/525406?s=72&v=4" width="24" alt="Avatar of duncanphillips"> duncanphillips
-			</a><br/>
-			Duncan Phillips
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cape Town</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -12535,14 +12535,14 @@ There are `976 users`  in South Africa. You need at least `13 followers` to be o
 	<tr>
 		<td>957</td>
 		<td>
-			<a href="https://github.com/obinsc">
-				<img src="https://avatars.githubusercontent.com/u/7187009?s=72&u=b8bcb970bb750114c8c1d51ca0efe0203617146e&v=4" width="24" alt="Avatar of obinsc"> obinsc
+			<a href="https://github.com/duncanphillips">
+				<img src="https://avatars.githubusercontent.com/u/525406?s=72&v=4" width="24" alt="Avatar of duncanphillips"> duncanphillips
 			</a><br/>
-			obins
+			Duncan Phillips
 		</td>
-		<td>Banking </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Johannesburg</td>
+		<td>Cape Town</td>
 		<td>13</td>
 	</tr>
 	<tr>
