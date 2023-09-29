@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2023/9/28 8:09 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2023/9/29 1:54 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1368,19 +1368,6 @@ There are `428 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>98</td>
 		<td>
-			<a href="https://github.com/phoudthaxaysisomboun">
-				<img src="https://avatars.githubusercontent.com/u/20624274?s=72&u=80626442966218076ea350122bdd672be158ca0c&v=4" width="24" alt="Avatar of phoudthaxaysisomboun"> phoudthaxaysisomboun
-			</a><br/>
-			Phoudthaxay Sisomboun
-		</td>
-		<td>Nuol </td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>99</td>
-		<td>
 			<a href="https://github.com/sneaker30">
 				<img src="https://avatars.githubusercontent.com/u/21201737?s=72&u=cb68d4c8882616bf2098ee18e06a8cadcdc93091&v=4" width="24" alt="Avatar of sneaker30"> sneaker30
 			</a><br/>
@@ -1392,20 +1379,20 @@ There are `428 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>99</td>
 		<td>
-			<a href="https://github.com/keomanophone">
-				<img src="https://avatars.githubusercontent.com/u/36264532?s=72&u=23afbfd5413bf1c4ee26bc3823bcb9c2b3c85f88&v=4" width="24" alt="Avatar of keomanophone"> keomanophone
+			<a href="https://github.com/phoudthaxaysisomboun">
+				<img src="https://avatars.githubusercontent.com/u/20624274?s=72&u=80626442966218076ea350122bdd672be158ca0c&v=4" width="24" alt="Avatar of phoudthaxaysisomboun"> phoudthaxaysisomboun
 			</a><br/>
-			Keomanophone
+			Phoudthaxay Sisomboun
 		</td>
-		<td>Laoitdev </td>
-		<td><a href="https://twitter.com/keomanophone">keomanophone</a></td>
+		<td>Nuol </td>
+		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/Scheffti">
 				<img src="https://avatars.githubusercontent.com/u/45927865?s=72&u=9e1087bae98fceb993b159ada26ebfa942be11e4&v=4" width="24" alt="Avatar of Scheffti"> Scheffti
@@ -1415,6 +1402,19 @@ There are `428 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Scheffmann </td>
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
+			<a href="https://github.com/keomanophone">
+				<img src="https://avatars.githubusercontent.com/u/36264532?s=72&u=23afbfd5413bf1c4ee26bc3823bcb9c2b3c85f88&v=4" width="24" alt="Avatar of keomanophone"> keomanophone
+			</a><br/>
+			Keomanophone
+		</td>
+		<td>Laoitdev </td>
+		<td><a href="https://twitter.com/keomanophone">keomanophone</a></td>
+		<td>Vientiane, Laos</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1433,19 +1433,6 @@ There are `428 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>103</td>
 		<td>
-			<a href="https://github.com/piyushtnk">
-				<img src="https://avatars.githubusercontent.com/u/58197845?s=72&u=2aded4b6eb392b5b8ed7f3f7170b230eb95f1a46&v=4" width="24" alt="Avatar of piyushtnk"> piyushtnk
-			</a><br/>
-			Piyush Dolar
-		</td>
-		<td>@tnklaos  </td>
-		<td>No Twitter Username</td>
-		<td>Vientiane, Laos.</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>104</td>
-		<td>
 			<a href="https://github.com/DungltAPV">
 				<img src="https://avatars.githubusercontent.com/u/49860142?s=72&u=f8f2b04875311aaecba888db02c75add168caa0d&v=4" width="24" alt="Avatar of DungltAPV"> DungltAPV
 			</a><br/>
@@ -1454,6 +1441,19 @@ There are `428 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Fpt University </td>
 		<td>No Twitter Username</td>
 		<td>Ha Noi, East Laos</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/piyushtnk">
+				<img src="https://avatars.githubusercontent.com/u/58197845?s=72&u=2aded4b6eb392b5b8ed7f3f7170b230eb95f1a46&v=4" width="24" alt="Avatar of piyushtnk"> piyushtnk
+			</a><br/>
+			Piyush Dolar
+		</td>
+		<td>@tnklaos  </td>
+		<td>No Twitter Username</td>
+		<td>Vientiane, Laos.</td>
 		<td>2</td>
 	</tr>
 	<tr>
