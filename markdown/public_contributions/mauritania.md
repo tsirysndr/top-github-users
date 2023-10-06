@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `public contributions` by users in Mauritania on `2023/10/5 1:47 PM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `public contributions` by users in Mauritania on `2023/10/6 7:58 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -141,7 +141,7 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>mauritania nouakchott</td>
-		<td>670</td>
+		<td>671</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -167,7 +167,7 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritania</td>
-		<td>173</td>
+		<td>176</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -523,6 +523,19 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>33</td>
 		<td>
+			<a href="https://github.com/mohamed-ahmedou">
+				<img src="https://avatars.githubusercontent.com/u/97519402?s=72&u=f89cb70ae85e2c1a41a681fcb35b327624bf18a6&v=4" width="24" alt="Avatar of mohamed-ahmedou"> mohamed-ahmedou
+			</a><br/>
+			Mohamed Ahmedou
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nouckchott-Mauritania</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td>
 			<a href="https://github.com/BechirAhmed">
 				<img src="https://avatars.githubusercontent.com/u/18298101?s=72&u=6fa268b75e1ce19d5d177a4293e44fbc9d5cf8c3&v=4" width="24" alt="Avatar of BechirAhmed"> BechirAhmed
 			</a><br/>
@@ -534,7 +547,7 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>34</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/mbareck7">
 				<img src="https://avatars.githubusercontent.com/u/23238771?s=72&u=d836f0a2832f12044c4660669bd65b87ca54392e&v=4" width="24" alt="Avatar of mbareck7"> mbareck7
@@ -547,7 +560,7 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/advencedbizconsulting-abc">
 				<img src="https://avatars.githubusercontent.com/u/116265161?s=72&u=f3a0331193f64aad4d4c404f64c6169bff3abaa3&v=4" width="24" alt="Avatar of advencedbizconsulting-abc"> advencedbizconsulting-abc
@@ -560,7 +573,7 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/CarbabouSy">
 				<img src="https://avatars.githubusercontent.com/u/76449404?s=72&u=f82dd77643ef9bac63fd550037374acb38870363&v=4" width="24" alt="Avatar of CarbabouSy"> CarbabouSy
@@ -573,7 +586,7 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/tenerecodes">
 				<img src="https://avatars.githubusercontent.com/u/42242783?s=72&v=4" width="24" alt="Avatar of tenerecodes"> tenerecodes
@@ -586,7 +599,7 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/Emama160">
 				<img src="https://avatars.githubusercontent.com/u/120640233?s=72&v=4" width="24" alt="Avatar of Emama160"> Emama160
@@ -596,19 +609,6 @@ There are `173 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott ,Mauriatnie</td>
-		<td>10</td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>
-			<a href="https://github.com/mohamed-ahmedou">
-				<img src="https://avatars.githubusercontent.com/u/97519402?s=72&u=f89cb70ae85e2c1a41a681fcb35b327624bf18a6&v=4" width="24" alt="Avatar of mohamed-ahmedou"> mohamed-ahmedou
-			</a><br/>
-			Mohamed Ahmedou
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nouckchott-Mauritania</td>
 		<td>10</td>
 	</tr>
 	<tr>
