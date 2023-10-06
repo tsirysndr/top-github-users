@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `number of followers` of users in Burkina Faso on `2023/10/5 6:17 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2023/10/6 12:40 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1251,6 +1251,19 @@ There are `295 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>89</td>
 		<td>
+			<a href="https://github.com/Nkm13">
+				<img src="https://avatars.githubusercontent.com/u/99247591?s=72&u=1b1bdbaaf72bd15b82776d360dfc002e97e6b15a&v=4" width="24" alt="Avatar of Nkm13"> Nkm13
+			</a><br/>
+			Adamou Nikiema
+		</td>
+		<td>Yentech </td>
+		<td><a href="https://twitter.com/semperfi_13">semperfi_13</a></td>
+		<td>Ouagadougou</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td>
 			<a href="https://github.com/Asmo-Black">
 				<img src="https://avatars.githubusercontent.com/u/120477501?s=72&v=4" width="24" alt="Avatar of Asmo-Black"> Asmo-Black
 			</a><br/>
@@ -1262,7 +1275,7 @@ There are `295 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/Arthur-geek">
 				<img src="https://avatars.githubusercontent.com/u/80927775?s=72&u=3295e2e3934ddf6389cf50fc19b61a7dc4672503&v=4" width="24" alt="Avatar of Arthur-geek"> Arthur-geek
@@ -1275,7 +1288,7 @@ There are `295 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/Osiris-bf1">
 				<img src="https://avatars.githubusercontent.com/u/99493354?s=72&v=4" width="24" alt="Avatar of Osiris-bf1"> Osiris-bf1
@@ -1284,19 +1297,6 @@ There are `295 users`  in Burkina Faso. You need at least `0 followers` to be on
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>92</td>
-		<td>
-			<a href="https://github.com/Nkm13">
-				<img src="https://avatars.githubusercontent.com/u/99247591?s=72&u=1b1bdbaaf72bd15b82776d360dfc002e97e6b15a&v=4" width="24" alt="Avatar of Nkm13"> Nkm13
-			</a><br/>
-			Adamou Nikiema
-		</td>
-		<td>Yentech </td>
-		<td><a href="https://twitter.com/semperfi_13">semperfi_13</a></td>
 		<td>Ouagadougou</td>
 		<td>1</td>
 	</tr>
