@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` and `private contributions` by users in Laos on `2023/10/7 6:54 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` and `private contributions` by users in Laos on `2023/10/8 12:40 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -159,7 +159,7 @@ There are `431 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane,Laos</td>
 		<td>0</td>
-		<td>4110</td>
+		<td>4111</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -187,7 +187,7 @@ There are `431 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
 		<td>7</td>
-		<td>1734</td>
+		<td>1739</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -257,7 +257,7 @@ There are `431 users`  in Laos. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/HuaweiH45278254">HuaweiH45278254</a></td>
 		<td>Laos</td>
 		<td>198</td>
-		<td>786</td>
+		<td>788</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -2026,20 +2026,6 @@ There are `431 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>138</td>
 		<td>
-			<a href="https://github.com/Souksawat">
-				<img src="https://avatars.githubusercontent.com/u/135931579?s=72&u=7bee9fcfeda5e5057e4762bf3136e991d6ee7d1b&v=4" width="24" alt="Avatar of Souksawat"> Souksawat
-			</a><br/>
-			Souksawat  SOULIVANH
-		</td>
-		<td>Ubs Lao Sole Company<br/>Limited<br/></td>
-		<td>No Twitter Username</td>
-		<td>Lao Airlines Building 7th Floor, Manthatourath Road, Xiengyeun Village, Chantabouly District, Vientiane Capital, Lao P.D.R</td>
-		<td>3</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
 			<a href="https://github.com/lemthong">
 				<img src="https://avatars.githubusercontent.com/u/52338555?s=72&u=f770cb186614505dd191e8217a81a0af98a2a51a&v=4" width="24" alt="Avatar of lemthong"> lemthong
 			</a><br/>
@@ -2048,6 +2034,20 @@ There are `431 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>National University Of Laos<br/></td>
 		<td>No Twitter Username</td>
 		<td>Laos</td>
+		<td>3</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
+			<a href="https://github.com/Souksawat">
+				<img src="https://avatars.githubusercontent.com/u/135931579?s=72&u=7bee9fcfeda5e5057e4762bf3136e991d6ee7d1b&v=4" width="24" alt="Avatar of Souksawat"> Souksawat
+			</a><br/>
+			Souksawat  SOULIVANH
+		</td>
+		<td>Ubs Lao Sole Company<br/>Limited<br/></td>
+		<td>No Twitter Username</td>
+		<td>Lao Airlines Building 7th Floor, Manthatourath Road, Xiengyeun Village, Chantabouly District, Vientiane Capital, Lao P.D.R</td>
 		<td>3</td>
 		<td>3</td>
 	</tr>
