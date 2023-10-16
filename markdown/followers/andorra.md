@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2023/10/15 10:56 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2023/10/16 4:22 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -341,25 +341,25 @@ There are `306 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/jgimeno">
-				<img src="https://avatars.githubusercontent.com/u/4056757?s=72&u=40fec60f576ea6711302a2946602f5b9a9347bcd&v=4" width="24" alt="Avatar of jgimeno"> jgimeno
-			</a><br/>
-			Jonathan Gimeno
-		</td>
-		<td>@nibiruchain </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/sgirones">
 				<img src="https://avatars.githubusercontent.com/u/597063?s=72&u=3584c79d8e81ee0cdbaac2c02745827410d4209a&v=4" width="24" alt="Avatar of sgirones"> sgirones
 			</a><br/>
 			Salvador Girones Gil
 		</td>
 		<td>@surrealdb  </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>36</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td>
+			<a href="https://github.com/jgimeno">
+				<img src="https://avatars.githubusercontent.com/u/4056757?s=72&u=40fec60f576ea6711302a2946602f5b9a9347bcd&v=4" width="24" alt="Avatar of jgimeno"> jgimeno
+			</a><br/>
+			Jonathan Gimeno
+		</td>
+		<td>@nibiruchain </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>35</td>
