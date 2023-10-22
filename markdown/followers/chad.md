@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2023/10/21 1:34 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2023/10/22 6:57 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -861,14 +861,14 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>59</td>
 		<td>
-			<a href="https://github.com/hishas">
-				<img src="https://avatars.githubusercontent.com/u/93581865?s=72&u=6d7d5a0c0425ab6e3558795af96204f755db6677&v=4" width="24" alt="Avatar of hishas"> hishas
+			<a href="https://github.com/DemKat">
+				<img src="https://avatars.githubusercontent.com/u/80449228?s=72&u=9e1065990cd37502685ec31f48b17470ecfcc89c&v=4" width="24" alt="Avatar of DemKat"> DemKat
 			</a><br/>
-			Hisseine Hassane Abakar
+			Dem
 		</td>
-		<td>No Company</td>
+		<td>Ligma Inc. </td>
 		<td>No Twitter Username</td>
-		<td>Living in Chad actually.</td>
+		<td>Giga Chad</td>
 		<td>1</td>
 	</tr>
 	<tr>
