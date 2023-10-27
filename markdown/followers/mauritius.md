@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg" alt="Mauritius">
 </a>
 
-The `number of followers` of users in Mauritius on `2023/10/26 8:13 AM UTC`. This list contains users from `Mauritius` and cities `Port-louis` `Curepipe` `Vacoas-phoenix` `Beau-bassin-rose-hill`.
+The `number of followers` of users in Mauritius on `2023/10/27 2:21 AM UTC`. This list contains users from `Mauritius` and cities `Port-louis` `Curepipe` `Vacoas-phoenix` `Beau-bassin-rose-hill`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `929 users`  in Mauritius. You need at least `0 followers` to be on this list.
+There are `928 users`  in Mauritius. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -497,45 +497,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/Humeira">
-				<img src="https://avatars.githubusercontent.com/u/3885848?s=72&v=4" width="24" alt="Avatar of Humeira"> Humeira
-			</a><br/>
-			Humeira Diljore
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>42</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
-			<a href="https://github.com/avinash">
-				<img src="https://avatars.githubusercontent.com/u/11826?s=72&u=8cf57363c51e3d2e471c41312c5400afc55389d1&v=4" width="24" alt="Avatar of avinash"> avinash
-			</a><br/>
-			Avinash Meetoo
-		</td>
-		<td>Knowledge7 </td>
-		<td><a href="https://twitter.com/AvinashMeetoo">AvinashMeetoo</a></td>
-		<td>Republic of Mauritius</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/cbillowes">
-				<img src="https://avatars.githubusercontent.com/u/4352871?s=72&u=e736a8e13c2fcf2061238b63016dafb8cfafbb27&v=4" width="24" alt="Avatar of cbillowes"> cbillowes
-			</a><br/>
-			Clarice Bouwer
-		</td>
-		<td>Cloudsure Limited </td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
 			<a href="https://github.com/guimard">
 				<img src="https://avatars.githubusercontent.com/u/47256?s=72&v=4" width="24" alt="Avatar of guimard"> guimard
 			</a><br/>
@@ -547,7 +508,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>32</td>
 		<td>
 			<a href="https://github.com/veegishx">
 				<img src="https://avatars.githubusercontent.com/u/8150534?s=72&u=d16409d9740bdffd1a8fe0baadf6fe277ace91b7&v=4" width="24" alt="Avatar of veegishx"> veegishx
@@ -560,7 +521,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/qdequippe">
 				<img src="https://avatars.githubusercontent.com/u/3193300?s=72&u=ca605b3ddd91cef3f7d851f0911fdff5342a3e3b&v=4" width="24" alt="Avatar of qdequippe"> qdequippe
@@ -573,20 +534,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>37</td>
-		<td>
-			<a href="https://github.com/neel24">
-				<img src="https://avatars.githubusercontent.com/u/23234990?s=72&u=a3adf533ad81106bf751d463a77a4d54ac00c3bd&v=4" width="24" alt="Avatar of neel24"> neel24
-			</a><br/>
-			Neel Gopaul
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>38</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/geosigno">
 				<img src="https://avatars.githubusercontent.com/u/6083654?s=72&u=7a08ae739ec04c1a37af253908b25651682964fa&v=4" width="24" alt="Avatar of geosigno"> geosigno
@@ -599,7 +547,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/yaasir007">
 				<img src="https://avatars.githubusercontent.com/u/77941119?s=72&u=f9bb4dfa12dbeaa9471f6bbcd09a32cee0b7aefb&v=4" width="24" alt="Avatar of yaasir007"> yaasir007
@@ -612,7 +560,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/keethesh">
 				<img src="https://avatars.githubusercontent.com/u/30286645?s=72&u=dd1039693a0925c9058bc2a6d5b2105aaf0a6271&v=4" width="24" alt="Avatar of keethesh"> keethesh
@@ -625,7 +573,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/rrikesh">
 				<img src="https://avatars.githubusercontent.com/u/3250906?s=72&v=4" width="24" alt="Avatar of rrikesh"> rrikesh
@@ -638,7 +586,20 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/rrikesh">
+				<img src="https://avatars.githubusercontent.com/u/3250906?s=72&v=4" width="24" alt="Avatar of rrikesh"> rrikesh
+			</a><br/>
+			Rikesh Ramlochund
+		</td>
+		<td>@itspaperboat  </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/yuvraj108c">
 				<img src="https://avatars.githubusercontent.com/u/42040906?s=72&u=c5792e276ad589492392858d87ec3de88eedc1ed&v=4" width="24" alt="Avatar of yuvraj108c"> yuvraj108c
@@ -651,7 +612,20 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>40</td>
+		<td>
+			<a href="https://github.com/yuvraj108c">
+				<img src="https://avatars.githubusercontent.com/u/42040906?s=72&u=c5792e276ad589492392858d87ec3de88eedc1ed&v=4" width="24" alt="Avatar of yuvraj108c"> yuvraj108c
+			</a><br/>
+			Yuvraj Seegolam
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yuvraj108c">yuvraj108c</a></td>
+		<td>Mauritius</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/George7h">
 				<img src="https://avatars.githubusercontent.com/u/101390796?s=72&u=88db9bc2bc09e3465909e66a95eda6f214f5647f&v=4" width="24" alt="Avatar of George7h"> George7h
@@ -664,7 +638,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/jeremie1112">
 				<img src="https://avatars.githubusercontent.com/u/23257599?s=72&u=747dc82e0b0882cc7f7aed8f8957f0d537277707&v=4" width="24" alt="Avatar of jeremie1112"> jeremie1112
@@ -673,6 +647,32 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		</td>
 		<td>@cyberstormdotmu  </td>
 		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
+			<a href="https://github.com/jeremie1112">
+				<img src="https://avatars.githubusercontent.com/u/23257599?s=72&u=747dc82e0b0882cc7f7aed8f8957f0d537277707&v=4" width="24" alt="Avatar of jeremie1112"> jeremie1112
+			</a><br/>
+			Daniel Jeremie
+		</td>
+		<td>@cyberstormdotmu  </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
+			<a href="https://github.com/codarrenvelvindron">
+				<img src="https://avatars.githubusercontent.com/u/4686416?s=72&u=f2dadec3b51752c80a22c44b4c29bb80443c4101&v=4" width="24" alt="Avatar of codarrenvelvindron"> codarrenvelvindron
+			</a><br/>
+			Codarren Velvindron
+		</td>
+		<td>@cyberstormmu </td>
+		<td><a href="https://twitter.com/devildron">devildron</a></td>
 		<td>Mauritius</td>
 		<td>27</td>
 	</tr>
@@ -757,6 +757,58 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>51</td>
 		<td>
+			<a href="https://github.com/wakhay">
+				<img src="https://avatars.githubusercontent.com/u/207004?s=72&v=4" width="24" alt="Avatar of wakhay"> wakhay
+			</a><br/>
+			Khayrattee Wasseem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
+			<a href="https://github.com/Saamiyah">
+				<img src="https://avatars.githubusercontent.com/u/7201256?s=72&u=40516d081c79743667399f5967d70e5b322a68c2&v=4" width="24" alt="Avatar of Saamiyah"> Saamiyah
+			</a><br/>
+			Saamiyah
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/smearthelove">smearthelove</a></td>
+		<td>Mauritius</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td>
+			<a href="https://github.com/kikislater">
+				<img src="https://avatars.githubusercontent.com/u/13238064?s=72&v=4" width="24" alt="Avatar of kikislater"> kikislater
+			</a><br/>
+			Sylvain POULAIN
+		</td>
+		<td>Giscan </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td>
+			<a href="https://github.com/Nayar">
+				<img src="https://avatars.githubusercontent.com/u/454815?s=72&v=4" width="24" alt="Avatar of Nayar"> Nayar
+			</a><br/>
+			Nayar Joolfoo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td>
 			<a href="https://github.com/Virgo-Alpha">
 				<img src="https://avatars.githubusercontent.com/u/79147634?s=72&u=c72cdbdffa1606de7695a44990e09175c48195ac&v=4" width="24" alt="Avatar of Virgo-Alpha"> Virgo-Alpha
 			</a><br/>
@@ -768,7 +820,20 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>56</td>
+		<td>
+			<a href="https://github.com/vnsnippets">
+				<img src="https://avatars.githubusercontent.com/u/16542151?s=72&u=78688cf6aac06b6daa1e54ccdc1a49d39585a7f3&v=4" width="24" alt="Avatar of vnsnippets"> vnsnippets
+			</a><br/>
+			Vidush H. Namah
+		</td>
+		<td>Consultant </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/mgjules">
 				<img src="https://avatars.githubusercontent.com/u/38979769?s=72&u=b2833510bd1a461f85a692481cf26567b7d8d969&v=4" width="24" alt="Avatar of mgjules"> mgjules
@@ -781,7 +846,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/xeonnux">
 				<img src="https://avatars.githubusercontent.com/u/80192120?s=72&u=a824e6b055d5280d87faddd4d3d069a9d3a14764&v=4" width="24" alt="Avatar of xeonnux"> xeonnux
@@ -794,7 +859,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/nirvanpagooah">
 				<img src="https://avatars.githubusercontent.com/u/4628873?s=72&u=d32ed26b8385a89d8961a1283336fa3935b9bf7e&v=4" width="24" alt="Avatar of nirvanpagooah"> nirvanpagooah
@@ -807,20 +872,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>55</td>
-		<td>
-			<a href="https://github.com/nirvanpagooah">
-				<img src="https://avatars.githubusercontent.com/u/4628873?s=72&u=d32ed26b8385a89d8961a1283336fa3935b9bf7e&v=4" width="24" alt="Avatar of nirvanpagooah"> nirvanpagooah
-			</a><br/>
-			Nirvan (Tejas) Pagooah
-		</td>
-		<td>Klanik Sas. </td>
-		<td><a href="https://twitter.com/nirvanpagooah">nirvanpagooah</a></td>
-		<td>Mauritius</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>56</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/CaffeinatedStud">
 				<img src="https://avatars.githubusercontent.com/u/18511437?s=72&v=4" width="24" alt="Avatar of CaffeinatedStud"> CaffeinatedStud
@@ -833,7 +885,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/Zaffar2201">
 				<img src="https://avatars.githubusercontent.com/u/67364555?s=72&u=416aec767e49a83012c89fcfca1141f00edb38af&v=4" width="24" alt="Avatar of Zaffar2201"> Zaffar2201
@@ -846,7 +898,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/technoLord">
 				<img src="https://avatars.githubusercontent.com/u/19312532?s=72&v=4" width="24" alt="Avatar of technoLord"> technoLord
@@ -859,20 +911,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>59</td>
-		<td>
-			<a href="https://github.com/technoLord">
-				<img src="https://avatars.githubusercontent.com/u/19312532?s=72&v=4" width="24" alt="Avatar of technoLord"> technoLord
-			</a><br/>
-			Rahul Golam
-		</td>
-		<td>@cyberstormdotmu </td>
-		<td>No Twitter Username</td>
-		<td>Republic of Mauritius</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>60</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/MisterValiant">
 				<img src="https://avatars.githubusercontent.com/u/81043907?s=72&v=4" width="24" alt="Avatar of MisterValiant"> MisterValiant
@@ -885,7 +924,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/cbongard90">
 				<img src="https://avatars.githubusercontent.com/u/85570483?s=72&u=5c2282a05225dd38209941275170b7a802b2d00f&v=4" width="24" alt="Avatar of cbongard90"> cbongard90
@@ -898,20 +937,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>62</td>
-		<td>
-			<a href="https://github.com/cbongard90">
-				<img src="https://avatars.githubusercontent.com/u/85570483?s=72&u=5c2282a05225dd38209941275170b7a802b2d00f&v=4" width="24" alt="Avatar of cbongard90"> cbongard90
-			</a><br/>
-			Christian Bongard
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>63</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/FarzeenKist">
 				<img src="https://avatars.githubusercontent.com/u/90398313?s=72&v=4" width="24" alt="Avatar of FarzeenKist"> FarzeenKist
@@ -924,7 +950,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/jp-nullpod">
 				<img src="https://avatars.githubusercontent.com/u/64223993?s=72&u=bb17bcd93331afdd9eb4785d2fc7bcca11dd8945&v=4" width="24" alt="Avatar of jp-nullpod"> jp-nullpod
@@ -937,40 +963,14 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>65</td>
-		<td>
-			<a href="https://github.com/praveen2gemini">
-				<img src="https://avatars.githubusercontent.com/u/2891307?s=72&u=a283cddb7e27376bebb24af2a1c999cd5764bb00&v=4" width="24" alt="Avatar of praveen2gemini"> praveen2gemini
-			</a><br/>
-			Praveen Kumar Sugumaran
-		</td>
-		<td>Mauritius Commercial Bank -<br/>It<br/>Wing<br/></td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>
-			<a href="https://github.com/praveen2gemini">
-				<img src="https://avatars.githubusercontent.com/u/2891307?s=72&u=a283cddb7e27376bebb24af2a1c999cd5764bb00&v=4" width="24" alt="Avatar of praveen2gemini"> praveen2gemini
-			</a><br/>
-			Praveen Kumar Sugumaran
-		</td>
-		<td>Mauritius Commercial Bank -<br/>It<br/>Wing<br/></td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>20</td>
-	</tr>
-	<tr>
 		<td>67</td>
 		<td>
-			<a href="https://github.com/doushan">
-				<img src="https://avatars.githubusercontent.com/u/15945209?s=72&u=daca4204317cece63ff976e0f13d4ceeaf3444c3&v=4" width="24" alt="Avatar of doushan"> doushan
+			<a href="https://github.com/praveen2gemini">
+				<img src="https://avatars.githubusercontent.com/u/2891307?s=72&u=a283cddb7e27376bebb24af2a1c999cd5764bb00&v=4" width="24" alt="Avatar of praveen2gemini"> praveen2gemini
 			</a><br/>
-			Dusyant Goolab
+			Praveen Kumar Sugumaran
 		</td>
-		<td>Freelancer </td>
+		<td>Mauritius Commercial Bank -<br/>It<br/>Wing<br/></td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>20</td>
@@ -2967,10 +2967,10 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>221</td>
 		<td>
-			<a href="https://github.com/khalid-joomun">
-				<img src="https://avatars.githubusercontent.com/u/66840809?s=72&u=f6677db186cb902f2a478ac1d649ccb35ae1c586&v=4" width="24" alt="Avatar of khalid-joomun"> khalid-joomun
+			<a href="https://github.com/agramdass">
+				<img src="https://avatars.githubusercontent.com/u/19488?s=72&u=c5801ebf28fe1e6a4f68891e98c00864621cf4eb&v=4" width="24" alt="Avatar of agramdass"> agramdass
 			</a><br/>
-			Khalid Joomun
+			Ashley G Ramdass
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -2980,10 +2980,10 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>222</td>
 		<td>
-			<a href="https://github.com/agramdass">
-				<img src="https://avatars.githubusercontent.com/u/19488?s=72&u=c5801ebf28fe1e6a4f68891e98c00864621cf4eb&v=4" width="24" alt="Avatar of agramdass"> agramdass
+			<a href="https://github.com/khalid-joomun">
+				<img src="https://avatars.githubusercontent.com/u/66840809?s=72&u=f6677db186cb902f2a478ac1d649ccb35ae1c586&v=4" width="24" alt="Avatar of khalid-joomun"> khalid-joomun
 			</a><br/>
-			Ashley G Ramdass
+			Khalid Joomun
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3266,12 +3266,12 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>244</td>
 		<td>
-			<a href="https://github.com/Wafix">
-				<img src="https://avatars.githubusercontent.com/u/2648050?s=72&v=4" width="24" alt="Avatar of Wafix"> Wafix
+			<a href="https://github.com/ShezadDemonoid">
+				<img src="https://avatars.githubusercontent.com/u/28764308?s=72&u=85061fd29d4b90d68cfe2da87087428a7165bae2&v=4" width="24" alt="Avatar of ShezadDemonoid"> ShezadDemonoid
 			</a><br/>
-			Wafi
+			Shazad Rusmaully
 		</td>
-		<td>None </td>
+		<td>Sd Worx Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>5</td>
@@ -3292,12 +3292,12 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>246</td>
 		<td>
-			<a href="https://github.com/ShezadDemonoid">
-				<img src="https://avatars.githubusercontent.com/u/28764308?s=72&u=85061fd29d4b90d68cfe2da87087428a7165bae2&v=4" width="24" alt="Avatar of ShezadDemonoid"> ShezadDemonoid
+			<a href="https://github.com/Wafix">
+				<img src="https://avatars.githubusercontent.com/u/2648050?s=72&v=4" width="24" alt="Avatar of Wafix"> Wafix
 			</a><br/>
-			Shazad Rusmaully
+			Wafi
 		</td>
-		<td>Sd Worx Ltd </td>
+		<td>None </td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>5</td>
@@ -3318,12 +3318,12 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>248</td>
 		<td>
-			<a href="https://github.com/grimsammie">
-				<img src="https://avatars.githubusercontent.com/u/13607008?s=72&u=438e37ae74f0112d1d9f8b2a8a1a500e8c69e534&v=4" width="24" alt="Avatar of grimsammie"> grimsammie
+			<a href="https://github.com/ysfemritte">
+				<img src="https://avatars.githubusercontent.com/u/34180742?s=72&u=ba5947c226817126ff5d1ac20bf874a01f68655c&v=4" width="24" alt="Avatar of ysfemritte"> ysfemritte
 			</a><br/>
-			Samuel Bassey
+			Yusuf Emritte
 		</td>
-		<td>Infini Tech </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>5</td>
@@ -3331,12 +3331,12 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>249</td>
 		<td>
-			<a href="https://github.com/ysfemritte">
-				<img src="https://avatars.githubusercontent.com/u/34180742?s=72&u=ba5947c226817126ff5d1ac20bf874a01f68655c&v=4" width="24" alt="Avatar of ysfemritte"> ysfemritte
+			<a href="https://github.com/grimsammie">
+				<img src="https://avatars.githubusercontent.com/u/13607008?s=72&u=438e37ae74f0112d1d9f8b2a8a1a500e8c69e534&v=4" width="24" alt="Avatar of grimsammie"> grimsammie
 			</a><br/>
-			Yusuf Emritte
+			Samuel Bassey
 		</td>
-		<td>No Company</td>
+		<td>Infini Tech </td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>5</td>
@@ -3383,19 +3383,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>253</td>
 		<td>
-			<a href="https://github.com/luqmaanheetun">
-				<img src="https://avatars.githubusercontent.com/u/74399241?s=72&v=4" width="24" alt="Avatar of luqmaanheetun"> luqmaanheetun
-			</a><br/>
-			Luqmaan Heetun
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
 			<a href="https://github.com/vishan121">
 				<img src="https://avatars.githubusercontent.com/u/74609997?s=72&u=c477ad0b1753972ebed2f87e28b07af9373a9677&v=4" width="24" alt="Avatar of vishan121"> vishan121
 			</a><br/>
@@ -3403,6 +3390,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		</td>
 		<td>Middlesex University Mauritius </td>
 		<td><a href="https://twitter.com/vishan121">vishan121</a></td>
+		<td>Mauritius</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a href="https://github.com/luqmaanheetun">
+				<img src="https://avatars.githubusercontent.com/u/74399241?s=72&v=4" width="24" alt="Avatar of luqmaanheetun"> luqmaanheetun
+			</a><br/>
+			Luqmaan Heetun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>5</td>
 	</tr>
@@ -3890,19 +3890,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>292</td>
 		<td>
-			<a href="https://github.com/iPrincey">
-				<img src="https://avatars.githubusercontent.com/u/20482125?s=72&u=4bd357b24f1ef1648010c6dac31cf51351ef5fcf&v=4" width="24" alt="Avatar of iPrincey"> iPrincey
-			</a><br/>
-			Emmanuel Prince
-		</td>
-		<td>P I X E<br/>L<br/>S<br/></td>
-		<td><a href="https://twitter.com/emmanuel_pr1nce">emmanuel_pr1nce</a></td>
-		<td>Mauritius</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
 			<a href="https://github.com/jagveer-loky">
 				<img src="https://avatars.githubusercontent.com/u/26207982?s=72&u=719561515ac397d676b329f08f441cca19498cd5&v=4" width="24" alt="Avatar of jagveer-loky"> jagveer-loky
 			</a><br/>
@@ -3914,20 +3901,20 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>293</td>
 		<td>
-			<a href="https://github.com/Heervesh">
-				<img src="https://avatars.githubusercontent.com/u/23234896?s=72&v=4" width="24" alt="Avatar of Heervesh"> Heervesh
+			<a href="https://github.com/iPrincey">
+				<img src="https://avatars.githubusercontent.com/u/20482125?s=72&u=4bd357b24f1ef1648010c6dac31cf51351ef5fcf&v=4" width="24" alt="Avatar of iPrincey"> iPrincey
 			</a><br/>
-			Heervesh Lallbahadur
+			Emmanuel Prince
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>P I X E<br/>L<br/>S<br/></td>
+		<td><a href="https://twitter.com/emmanuel_pr1nce">emmanuel_pr1nce</a></td>
 		<td>Mauritius</td>
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/Hackerpunk1">
 				<img src="https://avatars.githubusercontent.com/u/3173198?s=72&v=4" width="24" alt="Avatar of Hackerpunk1"> Hackerpunk1
@@ -3940,12 +3927,12 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>295</td>
 		<td>
-			<a href="https://github.com/ashfaaqsm">
-				<img src="https://avatars.githubusercontent.com/u/53347011?s=72&u=5c1737b01eedc5124643e2f9b295ca0434b0576a&v=4" width="24" alt="Avatar of ashfaaqsm"> ashfaaqsm
+			<a href="https://github.com/Heervesh">
+				<img src="https://avatars.githubusercontent.com/u/23234896?s=72&v=4" width="24" alt="Avatar of Heervesh"> Heervesh
 			</a><br/>
-			Sallick Ashfaaq
+			Heervesh Lallbahadur
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -3953,7 +3940,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/Igariga">
 				<img src="https://avatars.githubusercontent.com/u/65093794?s=72&v=4" width="24" alt="Avatar of Igariga"> Igariga
@@ -3961,6 +3948,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 			Ejikeme Ayogu
 		</td>
 		<td>Uom </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
+			<a href="https://github.com/ashfaaqsm">
+				<img src="https://avatars.githubusercontent.com/u/53347011?s=72&u=5c1737b01eedc5124643e2f9b295ca0434b0576a&v=4" width="24" alt="Avatar of ashfaaqsm"> ashfaaqsm
+			</a><br/>
+			Sallick Ashfaaq
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>4</td>
@@ -4007,19 +4007,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>301</td>
 		<td>
-			<a href="https://github.com/Mishka001">
-				<img src="https://avatars.githubusercontent.com/u/47084616?s=72&u=32ce3657b38eb8b2d034c207b5c38a6f0ed510bf&v=4" width="24" alt="Avatar of Mishka001"> Mishka001
-			</a><br/>
-			Mokshada Bohoorun
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius </td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>302</td>
-		<td>
 			<a href="https://github.com/Leckraj1405">
 				<img src="https://avatars.githubusercontent.com/u/43751418?s=72&u=86ce29f77c8e06eb3d9784131d0699367ab6a5d7&v=4" width="24" alt="Avatar of Leckraj1405"> Leckraj1405
 			</a><br/>
@@ -4028,6 +4015,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LuckhunVarun">LuckhunVarun</a></td>
 		<td>Mauritius</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/Mishka001">
+				<img src="https://avatars.githubusercontent.com/u/47084616?s=72&u=32ce3657b38eb8b2d034c207b5c38a6f0ed510bf&v=4" width="24" alt="Avatar of Mishka001"> Mishka001
+			</a><br/>
+			Mokshada Bohoorun
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius </td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -4072,19 +4072,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>306</td>
 		<td>
-			<a href="https://github.com/theawesomekev">
-				<img src="https://avatars.githubusercontent.com/u/7501035?s=72&u=8417cf263ed638684d6596a516fbf3af4298bc0d&v=4" width="24" alt="Avatar of theawesomekev"> theawesomekev
-			</a><br/>
-			Keven Maistry
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>307</td>
-		<td>
 			<a href="https://github.com/Karishjo">
 				<img src="https://avatars.githubusercontent.com/u/96942168?s=72&u=2076ce39b9c2170cce9c375dceb4be83c8fe6370&v=4" width="24" alt="Avatar of Karishjo"> Karishjo
 			</a><br/>
@@ -4093,6 +4080,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>mauritius</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>307</td>
+		<td>
+			<a href="https://github.com/theawesomekev">
+				<img src="https://avatars.githubusercontent.com/u/7501035?s=72&u=8417cf263ed638684d6596a516fbf3af4298bc0d&v=4" width="24" alt="Avatar of theawesomekev"> theawesomekev
+			</a><br/>
+			Keven Maistry
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -4553,6 +4553,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>343</td>
 		<td>
+			<a href="https://github.com/kavir-bheeroo">
+				<img src="https://avatars.githubusercontent.com/u/8479775?s=72&u=a125c50f5dc44f814dae283df8b47a5167499bc7&v=4" width="24" alt="Avatar of kavir-bheeroo"> kavir-bheeroo
+			</a><br/>
+			Kavir Bheeroo
+		</td>
+		<td>@checkout </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>344</td>
+		<td>
 			<a href="https://github.com/Kaishley">
 				<img src="https://avatars.githubusercontent.com/u/7120747?s=72&u=5ff2a63385a8ff454df27c0cd526bedc491b5bdc&v=4" width="24" alt="Avatar of Kaishley"> Kaishley
 			</a><br/>
@@ -4564,7 +4577,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/HaarshR">
 				<img src="https://avatars.githubusercontent.com/u/43059398?s=72&u=c1749e44ab449aa20aea73cbe41ec3f4401e003b&v=4" width="24" alt="Avatar of HaarshR"> HaarshR
@@ -4577,7 +4590,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/Shrishti-2000">
 				<img src="https://avatars.githubusercontent.com/u/83883251?s=72&u=d0a65a34baf512cf96481d9603a9bf976a67f017&v=4" width="24" alt="Avatar of Shrishti-2000"> Shrishti-2000
@@ -4590,7 +4603,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/MaximeRazafinjato">
 				<img src="https://avatars.githubusercontent.com/u/33711483?s=72&v=4" width="24" alt="Avatar of MaximeRazafinjato"> MaximeRazafinjato
@@ -4603,7 +4616,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/AndyKoloina">
 				<img src="https://avatars.githubusercontent.com/u/16636016?s=72&u=728ae2add696aa2d919547ffb24b015dcb160691&v=4" width="24" alt="Avatar of AndyKoloina"> AndyKoloina
@@ -4616,7 +4629,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/Nikhilesh16">
 				<img src="https://avatars.githubusercontent.com/u/24570866?s=72&u=5349afe5f0050e280f21c3568f37df9dd7ac9742&v=4" width="24" alt="Avatar of Nikhilesh16"> Nikhilesh16
@@ -4629,7 +4642,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/Judapriest">
 				<img src="https://avatars.githubusercontent.com/u/4941691?s=72&u=5c2eb534235bc6867e44eb9469dc162d2ee2e17d&v=4" width="24" alt="Avatar of Judapriest"> Judapriest
@@ -4642,7 +4655,20 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
+		<td>
+			<a href="https://github.com/jovanyagathe">
+				<img src="https://avatars.githubusercontent.com/u/22880400?s=72&u=259d20640919beedc26d1863e28e327b19047d6c&v=4" width="24" alt="Avatar of jovanyagathe"> jovanyagathe
+			</a><br/>
+			Jovany Agathe
+		</td>
+		<td>Accenture </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius/Madagascar/Switzerland</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/Zulaykha-Doobory">
 				<img src="https://avatars.githubusercontent.com/u/45911693?s=72&u=a4d0e1a1c824e67c37a83a815593fa353ab572ab&v=4" width="24" alt="Avatar of Zulaykha-Doobory"> Zulaykha-Doobory
@@ -4655,33 +4681,20 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>351</td>
-		<td>
-			<a href="https://github.com/HeavenPE">
-				<img src="https://avatars.githubusercontent.com/u/50451928?s=72&u=c2f0f157e0e5f0e7e8bda37d52052d2b4784059e&v=4" width="24" alt="Avatar of HeavenPE"> HeavenPE
-			</a><br/>
-			HeavenNodes
-		</td>
-		<td>Looking For One </td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>352</td>
-		<td>
-			<a href="https://github.com/HeavenPE">
-				<img src="https://avatars.githubusercontent.com/u/50451928?s=72&u=c2f0f157e0e5f0e7e8bda37d52052d2b4784059e&v=4" width="24" alt="Avatar of HeavenPE"> HeavenPE
-			</a><br/>
-			HeavenNodes
-		</td>
-		<td>Looking For One </td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>3</td>
-	</tr>
-	<tr>
 		<td>353</td>
+		<td>
+			<a href="https://github.com/HeavenPE">
+				<img src="https://avatars.githubusercontent.com/u/50451928?s=72&u=c2f0f157e0e5f0e7e8bda37d52052d2b4784059e&v=4" width="24" alt="Avatar of HeavenPE"> HeavenPE
+			</a><br/>
+			HeavenNodes
+		</td>
+		<td>Looking For One </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/raj-julha">
 				<img src="https://avatars.githubusercontent.com/u/163031?s=72&v=4" width="24" alt="Avatar of raj-julha"> raj-julha
@@ -4694,7 +4707,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/Nushrina">
 				<img src="https://avatars.githubusercontent.com/u/26591547?s=72&v=4" width="24" alt="Avatar of Nushrina"> Nushrina
@@ -4707,7 +4720,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/Hoytico">
 				<img src="https://avatars.githubusercontent.com/u/24715518?s=72&u=5fcbbfcbdc66a4cfaa832baaaf6923a8eecda109&v=4" width="24" alt="Avatar of Hoytico"> Hoytico
@@ -4720,7 +4733,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/EeezEazi">
 				<img src="https://avatars.githubusercontent.com/u/47826261?s=72&u=c5932c023be2545fda14aafac44b626e2b196384&v=4" width="24" alt="Avatar of EeezEazi"> EeezEazi
@@ -4733,7 +4746,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/AkileshCoder12">
 				<img src="https://avatars.githubusercontent.com/u/56156033?s=72&v=4" width="24" alt="Avatar of AkileshCoder12"> AkileshCoder12
@@ -4746,7 +4759,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/njivaolaf">
 				<img src="https://avatars.githubusercontent.com/u/29448166?s=72&v=4" width="24" alt="Avatar of njivaolaf"> njivaolaf
@@ -4759,7 +4772,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/gangit">
 				<img src="https://avatars.githubusercontent.com/u/2873625?s=72&u=18e503593c4ed0f0c37b4f1035eff25490e03eb8&v=4" width="24" alt="Avatar of gangit"> gangit
@@ -4772,7 +4785,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/rishiabee">
 				<img src="https://avatars.githubusercontent.com/u/42680217?s=72&u=f47af8f8654e6ab6f99255bad83c794f3af1910f&v=4" width="24" alt="Avatar of rishiabee"> rishiabee
@@ -4785,7 +4798,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/FANHATCHA">
 				<img src="https://avatars.githubusercontent.com/u/31485684?s=72&u=a8eaff06a4cc55ca47e4cfac058c35a3e79506e4&v=4" width="24" alt="Avatar of FANHATCHA"> FANHATCHA
@@ -4798,7 +4811,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/KU5H4L">
 				<img src="https://avatars.githubusercontent.com/u/4922865?s=72&u=b10cb5d634590311f5cee0af276539a32b6513b9&v=4" width="24" alt="Avatar of KU5H4L"> KU5H4L
@@ -4811,7 +4824,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/RossConsulting">
 				<img src="https://avatars.githubusercontent.com/u/13765291?s=72&v=4" width="24" alt="Avatar of RossConsulting"> RossConsulting
@@ -4824,7 +4837,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/AcktarPlaysMC">
 				<img src="https://avatars.githubusercontent.com/u/43898791?s=72&u=c50c28aab64b50356fe8624868c649782191ec74&v=4" width="24" alt="Avatar of AcktarPlaysMC"> AcktarPlaysMC
@@ -4837,7 +4850,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/audrey-pongo">
 				<img src="https://avatars.githubusercontent.com/u/74773171?s=72&u=a7df4a85f237b229c5bde0ce8c4a847e684304bc&v=4" width="24" alt="Avatar of audrey-pongo"> audrey-pongo
@@ -4850,7 +4863,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/khritish29">
 				<img src="https://avatars.githubusercontent.com/u/45861161?s=72&v=4" width="24" alt="Avatar of khritish29"> khritish29
@@ -4863,7 +4876,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/RishiRajGujadhur">
 				<img src="https://avatars.githubusercontent.com/u/17295261?s=72&u=ef01039b674e7ddd3cb5a905dd2971e38364f3b5&v=4" width="24" alt="Avatar of RishiRajGujadhur"> RishiRajGujadhur
@@ -4876,7 +4889,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/DiveshRoopowa">
 				<img src="https://avatars.githubusercontent.com/u/18000351?s=72&u=c09abf3d98642a767178d6b634088b086b02faa5&v=4" width="24" alt="Avatar of DiveshRoopowa"> DiveshRoopowa
@@ -4889,7 +4902,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/phpmauritius">
 				<img src="https://avatars.githubusercontent.com/u/16826507?s=72&u=24c186e7a30a1f4640e2855fd6ecab40c36011db&v=4" width="24" alt="Avatar of phpmauritius"> phpmauritius
@@ -4902,25 +4915,12 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/boniecoder">
 				<img src="https://avatars.githubusercontent.com/u/19778630?s=72&u=c660ee7c19c12d864be8e111e94a476005479988&v=4" width="24" alt="Avatar of boniecoder"> boniecoder
 			</a><br/>
 			Bonie Coder
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/rituramjus18">
-				<img src="https://avatars.githubusercontent.com/u/45911139?s=72&v=4" width="24" alt="Avatar of rituramjus18"> rituramjus18
-			</a><br/>
-			Ramjus Ritu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4943,6 +4943,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>373</td>
 		<td>
+			<a href="https://github.com/rituramjus18">
+				<img src="https://avatars.githubusercontent.com/u/45911139?s=72&v=4" width="24" alt="Avatar of rituramjus18"> rituramjus18
+			</a><br/>
+			Ramjus Ritu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>374</td>
+		<td>
 			<a href="https://github.com/plasebo">
 				<img src="https://avatars.githubusercontent.com/u/5242949?s=72&v=4" width="24" alt="Avatar of plasebo"> plasebo
 			</a><br/>
@@ -4951,19 +4964,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>Mauritius Network Services Ltd.<br/></td>
 		<td>No Twitter Username</td>
 		<td>Gentilly, Moka, mauritius</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>374</td>
-		<td>
-			<a href="https://github.com/networkmeister">
-				<img src="https://avatars.githubusercontent.com/u/9089515?s=72&u=2daabc94f78ea3f7f45bbb606220728bdea09760&v=4" width="24" alt="Avatar of networkmeister"> networkmeister
-			</a><br/>
-			Olatunde Awobuluyi
-		</td>
-		<td>African Network Information Center(afrinic)<br/></td>
-		<td><a href="https://twitter.com/OAwobuluyi">OAwobuluyi</a></td>
-		<td>Mauritius </td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -4982,23 +4982,23 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>376</td>
 		<td>
-			<a href="https://github.com/adarshasnah">
-				<img src="https://avatars.githubusercontent.com/u/7968468?s=72&u=6db36e3dea585f861aa093abc133ba0120bd8416&v=4" width="24" alt="Avatar of adarshasnah"> adarshasnah
+			<a href="https://github.com/networkmeister">
+				<img src="https://avatars.githubusercontent.com/u/9089515?s=72&u=2daabc94f78ea3f7f45bbb606220728bdea09760&v=4" width="24" alt="Avatar of networkmeister"> networkmeister
 			</a><br/>
-			Adarsh Hasnah
+			Olatunde Awobuluyi
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
+		<td>African Network Information Center(afrinic)<br/></td>
+		<td><a href="https://twitter.com/OAwobuluyi">OAwobuluyi</a></td>
+		<td>Mauritius </td>
 		<td>3</td>
 	</tr>
 	<tr>
 		<td>377</td>
 		<td>
-			<a href="https://github.com/tavishh">
-				<img src="https://avatars.githubusercontent.com/u/32819986?s=72&v=4" width="24" alt="Avatar of tavishh"> tavishh
+			<a href="https://github.com/adarshasnah">
+				<img src="https://avatars.githubusercontent.com/u/7968468?s=72&u=6db36e3dea585f861aa093abc133ba0120bd8416&v=4" width="24" alt="Avatar of adarshasnah"> adarshasnah
 			</a><br/>
-			No Name
+			Adarsh Hasnah
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -5034,6 +5034,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>380</td>
 		<td>
+			<a href="https://github.com/tavishh">
+				<img src="https://avatars.githubusercontent.com/u/32819986?s=72&v=4" width="24" alt="Avatar of tavishh"> tavishh
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>381</td>
+		<td>
 			<a href="https://github.com/Hema070786">
 				<img src="https://avatars.githubusercontent.com/u/103530223?s=72&u=1e329234ad88cb32048cafde195cbb964a9987a6&v=4" width="24" alt="Avatar of Hema070786"> Hema070786
 			</a><br/>
@@ -5042,19 +5055,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>L'Escalier Mauritius</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>381</td>
-		<td>
-			<a href="https://github.com/zainab04">
-				<img src="https://avatars.githubusercontent.com/u/54831351?s=72&v=4" width="24" alt="Avatar of zainab04"> zainab04
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Curepipe, Mauritius</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -5073,6 +5073,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>383</td>
 		<td>
+			<a href="https://github.com/zainab04">
+				<img src="https://avatars.githubusercontent.com/u/54831351?s=72&v=4" width="24" alt="Avatar of zainab04"> zainab04
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Curepipe, Mauritius</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
 			<a href="https://github.com/LaureLazard">
 				<img src="https://avatars.githubusercontent.com/u/31487443?s=72&u=48cb596783579f488bc089f4b9be160928d383f4&v=4" width="24" alt="Avatar of LaureLazard"> LaureLazard
 			</a><br/>
@@ -5084,7 +5097,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/ITPPA">
 				<img src="https://avatars.githubusercontent.com/u/2368380?s=72&u=1917e36ee868f324066b45a98ede357353fc20b7&v=4" width="24" alt="Avatar of ITPPA"> ITPPA
@@ -5097,7 +5110,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/kissenlalltnt">
 				<img src="https://avatars.githubusercontent.com/u/305519?s=72&v=4" width="24" alt="Avatar of kissenlalltnt"> kissenlalltnt
@@ -5110,7 +5123,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/Gulshan-Doorgah">
 				<img src="https://avatars.githubusercontent.com/u/7150492?s=72&u=0b7ee70e7f588bca377a107949bea1098d5b94fc&v=4" width="24" alt="Avatar of Gulshan-Doorgah"> Gulshan-Doorgah
@@ -5123,7 +5136,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/TheTunnelix">
 				<img src="https://avatars.githubusercontent.com/u/14257428?s=72&v=4" width="24" alt="Avatar of TheTunnelix"> TheTunnelix
@@ -5136,7 +5149,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/VinceFanchette">
 				<img src="https://avatars.githubusercontent.com/u/49141960?s=72&u=664c7c619f66edc91d8bb2d00719971b6115f202&v=4" width="24" alt="Avatar of VinceFanchette"> VinceFanchette
@@ -5149,7 +5162,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/mjchaelr">
 				<img src="https://avatars.githubusercontent.com/u/57550473?s=72&v=4" width="24" alt="Avatar of mjchaelr"> mjchaelr
@@ -5158,19 +5171,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mjchaelr">mjchaelr</a></td>
-		<td>Mauritius</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>390</td>
-		<td>
-			<a href="https://github.com/ron1508">
-				<img src="https://avatars.githubusercontent.com/u/62425114?s=72&v=4" width="24" alt="Avatar of ron1508"> ron1508
-			</a><br/>
-			B. Vishwarajsing (Ron) Audit
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>3</td>
 	</tr>
@@ -5489,19 +5489,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>415</td>
 		<td>
-			<a href="https://github.com/AdarshMungra">
-				<img src="https://avatars.githubusercontent.com/u/104065682?s=72&v=4" width="24" alt="Avatar of AdarshMungra"> AdarshMungra
-			</a><br/>
-			AdarshM
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>416</td>
-		<td>
 			<a href="https://github.com/keshwarsingh">
 				<img src="https://avatars.githubusercontent.com/u/5099324?s=72&v=4" width="24" alt="Avatar of keshwarsingh"> keshwarsingh
 			</a><br/>
@@ -5513,7 +5500,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/tangymc">
 				<img src="https://avatars.githubusercontent.com/u/74885686?s=72&u=8b6ba5ddd837c59ad5ca30b07d9d6185b845f930&v=4" width="24" alt="Avatar of tangymc"> tangymc
@@ -5526,7 +5513,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/yashrunnoo">
 				<img src="https://avatars.githubusercontent.com/u/126886042?s=72&v=4" width="24" alt="Avatar of yashrunnoo"> yashrunnoo
@@ -5539,7 +5526,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/nicofr83">
 				<img src="https://avatars.githubusercontent.com/u/1526390?s=72&v=4" width="24" alt="Avatar of nicofr83"> nicofr83
@@ -5552,7 +5539,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/hramdin28">
 				<img src="https://avatars.githubusercontent.com/u/4796582?s=72&u=bb2bd4aa3f211a6dc5f5cc83073600bf48d369b0&v=4" width="24" alt="Avatar of hramdin28"> hramdin28
@@ -5565,7 +5552,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/Saarahrahhh">
 				<img src="https://avatars.githubusercontent.com/u/135522185?s=72&v=4" width="24" alt="Avatar of Saarahrahhh"> Saarahrahhh
@@ -5578,7 +5565,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/Ishfaq253951">
 				<img src="https://avatars.githubusercontent.com/u/88237578?s=72&u=2dab7fefcc829fc863e441a5a529effe541f48ac&v=4" width="24" alt="Avatar of Ishfaq253951"> Ishfaq253951
@@ -5591,7 +5578,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/tarounen">
 				<img src="https://avatars.githubusercontent.com/u/17688410?s=72&u=d182f7a7b2c5427eb045f2442201676b47cff78b&v=4" width="24" alt="Avatar of tarounen"> tarounen
@@ -5604,7 +5591,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/AlaNDGT">
 				<img src="https://avatars.githubusercontent.com/u/3120817?s=72&u=e855b8b6010e2b8ef0154ed649a5877690395838&v=4" width="24" alt="Avatar of AlaNDGT"> AlaNDGT
@@ -5617,7 +5604,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/Akhilesh-Baboolull">
 				<img src="https://avatars.githubusercontent.com/u/51824203?s=72&u=9031c06f3ccdd1317e1fe87b9f637be68ab2b020&v=4" width="24" alt="Avatar of Akhilesh-Baboolull"> Akhilesh-Baboolull
@@ -5630,7 +5617,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/CodenameTashley">
 				<img src="https://avatars.githubusercontent.com/u/20597949?s=72&u=db03c4e84595e77084d5f865a9d25c1c894eb867&v=4" width="24" alt="Avatar of CodenameTashley"> CodenameTashley
@@ -5643,7 +5630,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/Andriah91">
 				<img src="https://avatars.githubusercontent.com/u/12873065?s=72&u=e05af1f22f63c3caaa91b5393a754dad4d07155e&v=4" width="24" alt="Avatar of Andriah91"> Andriah91
@@ -5656,7 +5643,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/username13-HVD">
 				<img src="https://avatars.githubusercontent.com/u/128219288?s=72&u=8b9bb3a53d8581f40f5cda35d889f4e05d63a3db&v=4" width="24" alt="Avatar of username13-HVD"> username13-HVD
@@ -5669,7 +5656,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/kylerbeetun">
 				<img src="https://avatars.githubusercontent.com/u/2029162?s=72&u=0d2b405edfabe656982526908a595d685bd20a26&v=4" width="24" alt="Avatar of kylerbeetun"> kylerbeetun
@@ -5682,7 +5669,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/German09">
 				<img src="https://avatars.githubusercontent.com/u/25923900?s=72&u=2ffbbed1131c282a477a0843c9a4e96f2253c6b3&v=4" width="24" alt="Avatar of German09"> German09
@@ -5695,7 +5682,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/keshav-pudaruth-daytonatec">
 				<img src="https://avatars.githubusercontent.com/u/42461594?s=72&v=4" width="24" alt="Avatar of keshav-pudaruth-daytonatec"> keshav-pudaruth-daytonatec
@@ -5708,7 +5695,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/SuyashNowbut">
 				<img src="https://avatars.githubusercontent.com/u/130929988?s=72&u=9548d3b4b950ec812ed403516011a8e380e1ff5e&v=4" width="24" alt="Avatar of SuyashNowbut"> SuyashNowbut
@@ -5721,7 +5708,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/ousmanized">
 				<img src="https://avatars.githubusercontent.com/u/72004684?s=72&u=2d763f6a332a1f961f2fda7b0961ea0e852db9c9&v=4" width="24" alt="Avatar of ousmanized"> ousmanized
@@ -5734,7 +5721,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/Hans004">
 				<img src="https://avatars.githubusercontent.com/u/34211766?s=72&u=8324e44aa129a74ece5c824bd89c95ad3bc6aaae&v=4" width="24" alt="Avatar of Hans004"> Hans004
@@ -5747,7 +5734,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/PGRProg001">
 				<img src="https://avatars.githubusercontent.com/u/7339647?s=72&v=4" width="24" alt="Avatar of PGRProg001"> PGRProg001
@@ -5760,7 +5747,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/madani301">
 				<img src="https://avatars.githubusercontent.com/u/43815600?s=72&u=45dd51c37293faf6a17bd49f7f57a79978d342e0&v=4" width="24" alt="Avatar of madani301"> madani301
@@ -5773,7 +5760,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/akheelk">
 				<img src="https://avatars.githubusercontent.com/u/87852705?s=72&v=4" width="24" alt="Avatar of akheelk"> akheelk
@@ -5786,7 +5773,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/christophevolbert">
 				<img src="https://avatars.githubusercontent.com/u/34595789?s=72&u=8f0fd4c2cb96d4d7b3705a11ec40a4d81d700718&v=4" width="24" alt="Avatar of christophevolbert"> christophevolbert
@@ -5799,7 +5786,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/besuee">
 				<img src="https://avatars.githubusercontent.com/u/23013616?s=72&u=d8cda30990e9541e65d8dd8fb5f9d40b4fc377d8&v=4" width="24" alt="Avatar of besuee"> besuee
@@ -5812,7 +5799,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/satveerbhantoo">
 				<img src="https://avatars.githubusercontent.com/u/19855322?s=72&u=8cb037c519cf0a1f542df95e5bee3c9b828b4861&v=4" width="24" alt="Avatar of satveerbhantoo"> satveerbhantoo
@@ -5825,7 +5812,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/saijun97">
 				<img src="https://avatars.githubusercontent.com/u/34180735?s=72&u=633fc223bdbef69e946bbdc9b20201ea0567f1b7&v=4" width="24" alt="Avatar of saijun97"> saijun97
@@ -5838,7 +5825,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/DowlutZuhayr">
 				<img src="https://avatars.githubusercontent.com/u/52289092?s=72&u=4a4d98180b12a3fb475d3049fd07e141a1aa51ad&v=4" width="24" alt="Avatar of DowlutZuhayr"> DowlutZuhayr
@@ -5851,7 +5838,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/jbolaky">
 				<img src="https://avatars.githubusercontent.com/u/706254?s=72&v=4" width="24" alt="Avatar of jbolaky"> jbolaky
@@ -5864,7 +5851,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/Pratish85">
 				<img src="https://avatars.githubusercontent.com/u/30367843?s=72&v=4" width="24" alt="Avatar of Pratish85"> Pratish85
@@ -5873,6 +5860,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		</td>
 		<td>Positron </td>
 		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>444</td>
+		<td>
+			<a href="https://github.com/shayamg01">
+				<img src="https://avatars.githubusercontent.com/u/88132382?s=72&v=4" width="24" alt="Avatar of shayamg01"> shayamg01
+			</a><br/>
+			Dhanveer Gulab
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/GulabShayam">GulabShayam</a></td>
 		<td>Mauritius</td>
 		<td>2</td>
 	</tr>
@@ -6152,10 +6152,10 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>466</td>
 		<td>
-			<a href="https://github.com/zoursman">
-				<img src="https://avatars.githubusercontent.com/u/629769?s=72&v=4" width="24" alt="Avatar of zoursman"> zoursman
+			<a href="https://github.com/ArvinSeerauj">
+				<img src="https://avatars.githubusercontent.com/u/26836172?s=72&u=39ca4140257386d9dd3125a64a8ae2af13711ad6&v=4" width="24" alt="Avatar of ArvinSeerauj"> ArvinSeerauj
 			</a><br/>
-			No Name
+			Arvin Seerauj
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6191,10 +6191,10 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>469</td>
 		<td>
-			<a href="https://github.com/ArvinSeerauj">
-				<img src="https://avatars.githubusercontent.com/u/26836172?s=72&u=39ca4140257386d9dd3125a64a8ae2af13711ad6&v=4" width="24" alt="Avatar of ArvinSeerauj"> ArvinSeerauj
+			<a href="https://github.com/zoursman">
+				<img src="https://avatars.githubusercontent.com/u/629769?s=72&v=4" width="24" alt="Avatar of zoursman"> zoursman
 			</a><br/>
-			Arvin Seerauj
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6203,45 +6203,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	</tr>
 	<tr>
 		<td>470</td>
-		<td>
-			<a href="https://github.com/ziyaadramdianee">
-				<img src="https://avatars.githubusercontent.com/u/39010415?s=72&u=9304c14b406b9e6831b5ec652f6e2a9e00478900&v=4" width="24" alt="Avatar of ziyaadramdianee"> ziyaadramdianee
-			</a><br/>
-			Ziyaad Ramdianee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>471</td>
-		<td>
-			<a href="https://github.com/Tabikorn">
-				<img src="https://avatars.githubusercontent.com/u/42936874?s=72&u=7a7f0f17be44598d16c74dcbd5047f43cf55a1fa&v=4" width="24" alt="Avatar of Tabikorn"> Tabikorn
-			</a><br/>
-			Tabi Okorn-tabi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>472</td>
-		<td>
-			<a href="https://github.com/DodoPizzaBot">
-				<img src="https://avatars.githubusercontent.com/u/52420522?s=72&v=4" width="24" alt="Avatar of DodoPizzaBot"> DodoPizzaBot
-			</a><br/>
-			No Name
-		</td>
-		<td>@dodopizza </td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>473</td>
 		<td>
 			<a href="https://github.com/whiz11">
 				<img src="https://avatars.githubusercontent.com/u/6873284?s=72&u=74194a80f04337b06929c95c4b37fd5ff8fdb8c8&v=4" width="24" alt="Avatar of whiz11"> whiz11
@@ -6254,7 +6215,33 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/DodoPizzaBot">
+				<img src="https://avatars.githubusercontent.com/u/52420522?s=72&v=4" width="24" alt="Avatar of DodoPizzaBot"> DodoPizzaBot
+			</a><br/>
+			No Name
+		</td>
+		<td>@dodopizza </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
+			<a href="https://github.com/wmnasri">
+				<img src="https://avatars.githubusercontent.com/u/15609441?s=72&u=a6929e78e2c04ed8e2e0dfddbd0fc6714b9de232&v=4" width="24" alt="Avatar of wmnasri"> wmnasri
+			</a><br/>
+			Walid MNASRI
+		</td>
+		<td>Astek Mu </td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/nashcsshtml">
 				<img src="https://avatars.githubusercontent.com/u/33872639?s=72&u=9661e94d47bf30ebba9ac62c9cb4cf4d45ea7523&v=4" width="24" alt="Avatar of nashcsshtml"> nashcsshtml
@@ -6267,14 +6254,27 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
+		<td>474</td>
+		<td>
+			<a href="https://github.com/ziyaadramdianee">
+				<img src="https://avatars.githubusercontent.com/u/39010415?s=72&u=9304c14b406b9e6831b5ec652f6e2a9e00478900&v=4" width="24" alt="Avatar of ziyaadramdianee"> ziyaadramdianee
+			</a><br/>
+			Ziyaad Ramdianee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
 		<td>475</td>
 		<td>
-			<a href="https://github.com/wmnasri">
-				<img src="https://avatars.githubusercontent.com/u/15609441?s=72&u=a6929e78e2c04ed8e2e0dfddbd0fc6714b9de232&v=4" width="24" alt="Avatar of wmnasri"> wmnasri
+			<a href="https://github.com/Tabikorn">
+				<img src="https://avatars.githubusercontent.com/u/42936874?s=72&u=7a7f0f17be44598d16c74dcbd5047f43cf55a1fa&v=4" width="24" alt="Avatar of Tabikorn"> Tabikorn
 			</a><br/>
-			Walid MNASRI
+			Tabi Okorn-tabi
 		</td>
-		<td>Astek Mu </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>2</td>
@@ -6295,6 +6295,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>477</td>
 		<td>
+			<a href="https://github.com/ZahraO">
+				<img src="https://avatars.githubusercontent.com/u/104429199?s=72&u=8830491dcb2216c7720d268e12098a9ffa8f8119&v=4" width="24" alt="Avatar of ZahraO"> ZahraO
+			</a><br/>
+			Zahra Oozeer
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>University of Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>478</td>
+		<td>
 			<a href="https://github.com/kikinouspark">
 				<img src="https://avatars.githubusercontent.com/u/60469233?s=72&v=4" width="24" alt="Avatar of kikinouspark"> kikinouspark
 			</a><br/>
@@ -6306,7 +6319,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/soobrassen">
 				<img src="https://avatars.githubusercontent.com/u/173007?s=72&v=4" width="24" alt="Avatar of soobrassen"> soobrassen
@@ -6316,19 +6329,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>Accenture </td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>479</td>
-		<td>
-			<a href="https://github.com/ZahraO">
-				<img src="https://avatars.githubusercontent.com/u/104429199?s=72&u=8830491dcb2216c7720d268e12098a9ffa8f8119&v=4" width="24" alt="Avatar of ZahraO"> ZahraO
-			</a><br/>
-			Zahra Oozeer
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>University of Mauritius</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -6347,58 +6347,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>481</td>
 		<td>
-			<a href="https://github.com/Nathan-Trent">
-				<img src="https://avatars.githubusercontent.com/u/47088768?s=72&v=4" width="24" alt="Avatar of Nathan-Trent"> Nathan-Trent
-			</a><br/>
-			Nathan Ogogo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>flic en flac mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>482</td>
-		<td>
-			<a href="https://github.com/sbappoo">
-				<img src="https://avatars.githubusercontent.com/u/39064501?s=72&u=74328dcc874e87150f60590da8322cd9d9100c34&v=4" width="24" alt="Avatar of sbappoo"> sbappoo
-			</a><br/>
-			Soodeshna Bappoo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
-			<a href="https://github.com/ValerianSA">
-				<img src="https://avatars.githubusercontent.com/u/25870634?s=72&v=4" width="24" alt="Avatar of ValerianSA"> ValerianSA
-			</a><br/>
-			Mohamad Hussain
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>south africa currently in mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>484</td>
-		<td>
-			<a href="https://github.com/yovan72">
-				<img src="https://avatars.githubusercontent.com/u/32712604?s=72&u=29aeba510a549b60673c21b3be51cdba394335f3&v=4" width="24" alt="Avatar of yovan72"> yovan72
-			</a><br/>
-			Yovan Dabydial
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>485</td>
-		<td>
 			<a href="https://github.com/translatemenetwork">
 				<img src="https://avatars.githubusercontent.com/u/44407689?s=72&u=7e155106316cf62c3ae1ca82388354f50946c9c3&v=4" width="24" alt="Avatar of translatemenetwork"> translatemenetwork
 			</a><br/>
@@ -6410,20 +6358,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>486</td>
-		<td>
-			<a href="https://github.com/tina10000">
-				<img src="https://avatars.githubusercontent.com/u/60602598?s=72&u=48ab3d1fd6e0794e14c7f8b68d3dbf260bf4e158&v=4" width="24" alt="Avatar of tina10000"> tina10000
-			</a><br/>
-			Tina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>487</td>
+		<td>482</td>
 		<td>
 			<a href="https://github.com/Jacobisaway">
 				<img src="https://avatars.githubusercontent.com/u/68304314?s=72&v=4" width="24" alt="Avatar of Jacobisaway"> Jacobisaway
@@ -6436,15 +6371,80 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>483</td>
 		<td>
-			<a href="https://github.com/TAWTAW2309">
-				<img src="https://avatars.githubusercontent.com/u/52675771?s=72&v=4" width="24" alt="Avatar of TAWTAW2309"> TAWTAW2309
+			<a href="https://github.com/yovan72">
+				<img src="https://avatars.githubusercontent.com/u/32712604?s=72&u=29aeba510a549b60673c21b3be51cdba394335f3&v=4" width="24" alt="Avatar of yovan72"> yovan72
 			</a><br/>
-			Tawhid Nubheebucus
+			Yovan Dabydial
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>484</td>
+		<td>
+			<a href="https://github.com/sbappoo">
+				<img src="https://avatars.githubusercontent.com/u/39064501?s=72&u=74328dcc874e87150f60590da8322cd9d9100c34&v=4" width="24" alt="Avatar of sbappoo"> sbappoo
+			</a><br/>
+			Soodeshna Bappoo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
+			<a href="https://github.com/tina10000">
+				<img src="https://avatars.githubusercontent.com/u/60602598?s=72&u=48ab3d1fd6e0794e14c7f8b68d3dbf260bf4e158&v=4" width="24" alt="Avatar of tina10000"> tina10000
+			</a><br/>
+			Tina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>486</td>
+		<td>
+			<a href="https://github.com/ValerianSA">
+				<img src="https://avatars.githubusercontent.com/u/25870634?s=72&v=4" width="24" alt="Avatar of ValerianSA"> ValerianSA
+			</a><br/>
+			Mohamad Hussain
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>south africa currently in mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
+			<a href="https://github.com/Nathan-Trent">
+				<img src="https://avatars.githubusercontent.com/u/47088768?s=72&v=4" width="24" alt="Avatar of Nathan-Trent"> Nathan-Trent
+			</a><br/>
+			Nathan Ogogo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>flic en flac mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>488</td>
+		<td>
+			<a href="https://github.com/zanbalak">
+				<img src="https://avatars.githubusercontent.com/u/74273621?s=72&v=4" width="24" alt="Avatar of zanbalak"> zanbalak
+			</a><br/>
+			Zanbalak
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Zanbalak">Zanbalak</a></td>
 		<td>Mauritius</td>
 		<td>2</td>
 	</tr>
@@ -6464,13 +6464,13 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>490</td>
 		<td>
-			<a href="https://github.com/zanbalak">
-				<img src="https://avatars.githubusercontent.com/u/74273621?s=72&v=4" width="24" alt="Avatar of zanbalak"> zanbalak
+			<a href="https://github.com/TAWTAW2309">
+				<img src="https://avatars.githubusercontent.com/u/52675771?s=72&v=4" width="24" alt="Avatar of TAWTAW2309"> TAWTAW2309
 			</a><br/>
-			Zanbalak
+			Tawhid Nubheebucus
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/Zanbalak">Zanbalak</a></td>
+		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>2</td>
 	</tr>
@@ -6516,19 +6516,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>494</td>
 		<td>
-			<a href="https://github.com/neerbappoo">
-				<img src="https://avatars.githubusercontent.com/u/8381087?s=72&u=6675515fe48c888b8d8134f9139ec51786e1449d&v=4" width="24" alt="Avatar of neerbappoo"> neerbappoo
-			</a><br/>
-			Neer Bappoo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Mauritius</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>495</td>
-		<td>
 			<a href="https://github.com/wasseem-redboxdigital">
 				<img src="https://avatars.githubusercontent.com/u/9818185?s=72&u=ecfc19ea2a8a3b78dd34b5d46d778d51ceaec25b&v=4" width="24" alt="Avatar of wasseem-redboxdigital"> wasseem-redboxdigital
 			</a><br/>
@@ -6540,7 +6527,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/MunishDawoonah">
 				<img src="https://avatars.githubusercontent.com/u/70471561?s=72&u=eb23336273a4cc33fab422a43f46f1534eacb51a&v=4" width="24" alt="Avatar of MunishDawoonah"> MunishDawoonah
@@ -6553,7 +6540,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/arun-rj">
 				<img src="https://avatars.githubusercontent.com/u/4927307?s=72&u=e486a02eed89aeb459e2bd09c0b1ca8c2bb91347&v=4" width="24" alt="Avatar of arun-rj"> arun-rj
@@ -6561,6 +6548,19 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 			Arun Raj
 		</td>
 		<td>March Hare & Co<br/></td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/neerbappoo">
+				<img src="https://avatars.githubusercontent.com/u/8381087?s=72&u=6675515fe48c888b8d8134f9139ec51786e1449d&v=4" width="24" alt="Avatar of neerbappoo"> neerbappoo
+			</a><br/>
+			Neer Bappoo
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Mauritius</td>
 		<td>2</td>
@@ -6594,19 +6594,6 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 	<tr>
 		<td>500</td>
 		<td>
-			<a href="https://github.com/shahenalgoo">
-				<img src="https://avatars.githubusercontent.com/u/7760079?s=72&u=8d8c26688aef846ecc396ef18a9b7c0453c9d1c1&v=4" width="24" alt="Avatar of shahenalgoo"> shahenalgoo
-			</a><br/>
-			Shahen Algoo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ShahenAlgoo">ShahenAlgoo</a></td>
-		<td>Mauritius</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>501</td>
-		<td>
 			<a href="https://github.com/FrancoisGerber">
 				<img src="https://avatars.githubusercontent.com/u/12399068?s=72&u=d85314ad6c3100a3e4b2d1756d7f3c3f2621d1db&v=4" width="24" alt="Avatar of FrancoisGerber"> FrancoisGerber
 			</a><br/>
@@ -6618,7 +6605,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/djamseed-khodabocus-cko">
 				<img src="https://avatars.githubusercontent.com/u/46444710?s=72&u=c113d54d9d7f832787d53f2f8d6fafd3b57e588b&v=4" width="24" alt="Avatar of djamseed-khodabocus-cko"> djamseed-khodabocus-cko
@@ -6631,7 +6618,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/unipro-ArnaudKalicharam">
 				<img src="https://avatars.githubusercontent.com/u/5094635?s=72&u=613664d32ff5deac7b07e4868feb3ca965d9e8b3&v=4" width="24" alt="Avatar of unipro-ArnaudKalicharam"> unipro-ArnaudKalicharam
@@ -6644,7 +6631,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/Sabo550">
 				<img src="https://avatars.githubusercontent.com/u/125551180?s=72&v=4" width="24" alt="Avatar of Sabo550"> Sabo550
@@ -6657,7 +6644,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/SharCodin">
 				<img src="https://avatars.githubusercontent.com/u/66864721?s=72&u=4f0eeec98e7075e12bc685b32dba489f24a6fb21&v=4" width="24" alt="Avatar of SharCodin"> SharCodin
@@ -6670,7 +6657,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/royalgaetan">
 				<img src="https://avatars.githubusercontent.com/u/87772508?s=72&u=75372d8513db115b40a3e5d0a7581a421a07ee53&v=4" width="24" alt="Avatar of royalgaetan"> royalgaetan
@@ -6683,7 +6670,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/aminalali8">
 				<img src="https://avatars.githubusercontent.com/u/17765698?s=72&u=1901785477c23b2ff21cd1c9d8ad5e26fb641c5f&v=4" width="24" alt="Avatar of aminalali8"> aminalali8
@@ -6696,7 +6683,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/RitLuck">
 				<img src="https://avatars.githubusercontent.com/u/40270069?s=72&v=4" width="24" alt="Avatar of RitLuck"> RitLuck
@@ -6709,7 +6696,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/RFeiz">
 				<img src="https://avatars.githubusercontent.com/u/102367682?s=72&v=4" width="24" alt="Avatar of RFeiz"> RFeiz
@@ -6722,7 +6709,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/Stoichiometrical">
 				<img src="https://avatars.githubusercontent.com/u/73646279?s=72&u=efc045b16dc04d3dc06d4ceaf4ec147de994c80d&v=4" width="24" alt="Avatar of Stoichiometrical"> Stoichiometrical
@@ -6735,7 +6722,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/LloydTea">
 				<img src="https://avatars.githubusercontent.com/u/47323632?s=72&u=d27720acfb1617e1dc60ed8520fd4b75cf26eca9&v=4" width="24" alt="Avatar of LloydTea"> LloydTea
@@ -6748,7 +6735,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/hemantramphul">
 				<img src="https://avatars.githubusercontent.com/u/7212627?s=72&u=8fe7013d91ee347830e6f121d4007eb319c147bc&v=4" width="24" alt="Avatar of hemantramphul"> hemantramphul
@@ -6761,7 +6748,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/jacobgreg27">
 				<img src="https://avatars.githubusercontent.com/u/122863612?s=72&u=9e04a79f50750ac4c14eb8b7143e773eacaa8bb2&v=4" width="24" alt="Avatar of jacobgreg27"> jacobgreg27
@@ -6774,7 +6761,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/N-011">
 				<img src="https://avatars.githubusercontent.com/u/48680810?s=72&u=b3d3a6636914ebc00005e039d3bd31a57e3693c9&v=4" width="24" alt="Avatar of N-011"> N-011
@@ -6787,7 +6774,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/ma-asad">
 				<img src="https://avatars.githubusercontent.com/u/94637256?s=72&v=4" width="24" alt="Avatar of ma-asad"> ma-asad
@@ -6800,7 +6787,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/512N">
 				<img src="https://avatars.githubusercontent.com/u/65180335?s=72&u=947b34b9f58a5e2e2ce6a4214340e17f6782b721&v=4" width="24" alt="Avatar of 512N"> 512N
@@ -6813,7 +6800,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/Jayesh-Chuttoo">
 				<img src="https://avatars.githubusercontent.com/u/132597962?s=72&u=4924d911c8d36f3f26336d67ad8fd4c6cc5db03b&v=4" width="24" alt="Avatar of Jayesh-Chuttoo"> Jayesh-Chuttoo
@@ -6826,7 +6813,7 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/apurusram">
 				<img src="https://avatars.githubusercontent.com/u/50689755?s=72&v=4" width="24" alt="Avatar of apurusram"> apurusram
@@ -6839,12 +6826,25 @@ There are `929 users`  in Mauritius. You need at least `0 followers` to be on th
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/jamienkp">
 				<img src="https://avatars.githubusercontent.com/u/91077012?s=72&u=df4d2cd2650e359969e1d6e2cb3a0eeb4ac8350f&v=4" width="24" alt="Avatar of jamienkp"> jamienkp
 			</a><br/>
 			jamie nkp
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Mauritius</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>519</td>
+		<td>
+			<a href="https://github.com/anaisdangeot">
+				<img src="https://avatars.githubusercontent.com/u/130439957?s=72&v=4" width="24" alt="Avatar of anaisdangeot"> anaisdangeot
+			</a><br/>
+			Anaïs Dangeot
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
