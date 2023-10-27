@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `public contributions` and `private contributions` by users in Laos on `2023/10/27 1:10 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `public contributions` and `private contributions` by users in Laos on `2023/10/27 7:05 PM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Xaythany, Vientiane Prefecture, Laos</td>
 		<td>119</td>
-		<td>13593</td>
+		<td>13596</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>206</td>
-		<td>6276</td>
+		<td>6278</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane Laos</td>
 		<td>0</td>
-		<td>5000</td>
+		<td>5040</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -173,7 +173,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane, Laos</td>
 		<td>1</td>
-		<td>2561</td>
+		<td>2564</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -187,7 +187,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Vientiane</td>
 		<td>7</td>
-		<td>1650</td>
+		<td>1651</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -201,7 +201,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>East Laos</td>
 		<td>3</td>
-		<td>1561</td>
+		<td>1569</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,7 +215,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>laos</td>
 		<td>4</td>
-		<td>969</td>
+		<td>979</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -285,7 +285,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td><a href="https://twitter.com/Pitpy">Pitpy</a></td>
 		<td>Vientiane, Laos</td>
 		<td>0</td>
-		<td>728</td>
+		<td>729</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -332,6 +332,20 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>17</td>
 		<td>
+			<a href="https://github.com/soulinmaikadua">
+				<img src="https://avatars.githubusercontent.com/u/24851850?s=72&u=5a61299d742f3a04e9122197326c4228464c15b4&v=4" width="24" alt="Avatar of soulinmaikadua"> soulinmaikadua
+			</a><br/>
+			Soulin MAIKADUA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vientaine,Laos</td>
+		<td>49</td>
+		<td>485</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
 			<a href="https://github.com/Jackk-Doe">
 				<img src="https://avatars.githubusercontent.com/u/74220155?s=72&u=9166a2a96e520ea2b85bf3d8e81e20c641e5591b&v=4" width="24" alt="Avatar of Jackk-Doe"> Jackk-Doe
 			</a><br/>
@@ -342,20 +356,6 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>Vientiane, Laos</td>
 		<td>484</td>
 		<td>484</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/soulinmaikadua">
-				<img src="https://avatars.githubusercontent.com/u/24851850?s=72&u=5a61299d742f3a04e9122197326c4228464c15b4&v=4" width="24" alt="Avatar of soulinmaikadua"> soulinmaikadua
-			</a><br/>
-			Soulin MAIKADUA
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vientaine,Laos</td>
-		<td>49</td>
-		<td>479</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -928,8 +928,8 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>LAOS</td>
-		<td>52</td>
-		<td>52</td>
+		<td>53</td>
+		<td>53</td>
 	</tr>
 	<tr>
 		<td>60</td>
