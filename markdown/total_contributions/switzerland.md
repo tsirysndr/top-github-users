@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://en.wikipedia.org/wiki/Switzerland#/media/File:Flag_of_Switzerland.svg" alt="Switzerland">
 </a>
 
-The `public contributions` and `private contributions` by users in Switzerland on `2023/10/28 1:56 AM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
+The `public contributions` and `private contributions` by users in Switzerland on `2023/10/28 7:38 PM UTC`. This list contains users from `Switzerland` and cities `Zürich` `Geneva` `Basel` `Lausanne`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -116,8 +116,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>55437</td>
-		<td>56786</td>
+		<td>56052</td>
+		<td>57404</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -130,8 +130,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fabaff">fabaff</a></td>
 		<td>Switzerland</td>
-		<td>19379</td>
-		<td>19711</td>
+		<td>19417</td>
+		<td>19749</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@remotion-dev </td>
 		<td><a href="https://twitter.com/JNYBGR">JNYBGR</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>12376</td>
-		<td>13436</td>
+		<td>12402</td>
+		<td>13492</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@neherlab @nextstrain  </td>
 		<td><a href="https://twitter.com/CorneliusRoemer">CorneliusRoemer</a></td>
 		<td>Switzerland</td>
-		<td>12956</td>
-		<td>13081</td>
+		<td>12976</td>
+		<td>13101</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -172,8 +172,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/daviddalbusco">daviddalbusco</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>5394</td>
-		<td>6193</td>
+		<td>5398</td>
+		<td>6197</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -229,7 +229,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
 		<td>95</td>
-		<td>5544</td>
+		<td>5546</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -257,7 +257,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>81</td>
-		<td>5380</td>
+		<td>5386</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
 		<td>230</td>
-		<td>5176</td>
+		<td>5177</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -284,8 +284,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>4958</td>
-		<td>4958</td>
+		<td>4965</td>
+		<td>4965</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -299,7 +299,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/jdatap">jdatap</a></td>
 		<td>Geneva, Switzerland</td>
 		<td>425</td>
-		<td>4858</td>
+		<td>4859</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -313,7 +313,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/SimonHoiberg">SimonHoiberg</a></td>
 		<td>Zurich, Switzerland</td>
 		<td>4</td>
-		<td>4806</td>
+		<td>4826</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -327,7 +327,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/ReneNyffenegger">ReneNyffenegger</a></td>
 		<td>Winterthur-Zürich-Switzerland</td>
 		<td>1446</td>
-		<td>4740</td>
+		<td>4749</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -369,7 +369,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/camillovisini">camillovisini</a></td>
 		<td>Zurich, Switzerland</td>
 		<td>20</td>
-		<td>4177</td>
+		<td>4179</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -382,8 +382,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@swissgrc </td>
 		<td><a href="https://twitter.com/hereispascal">hereispascal</a></td>
 		<td>Switzerland</td>
-		<td>4121</td>
 		<td>4122</td>
+		<td>4123</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -411,7 +411,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Zürich</td>
 		<td>105</td>
-		<td>4045</td>
+		<td>4048</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -424,8 +424,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Christian Clauss </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>4000</td>
-		<td>4000</td>
+		<td>4001</td>
+		<td>4001</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -438,8 +438,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@shirakumo  </td>
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
-		<td>3819</td>
-		<td>3838</td>
+		<td>3837</td>
+		<td>3856</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -453,7 +453,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/jleni">jleni</a></td>
 		<td>Zug, Switzerland</td>
 		<td>112</td>
-		<td>3819</td>
+		<td>3825</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -467,7 +467,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/alexef">alexef</a></td>
 		<td>Zurich, Switzerland</td>
 		<td>233</td>
-		<td>3669</td>
+		<td>3670</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -508,8 +508,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@zakodium </td>
 		<td><a href="https://twitter.com/targos89">targos89</a></td>
 		<td>Switzerland</td>
-		<td>1937</td>
-		<td>3422</td>
+		<td>1941</td>
+		<td>3428</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -522,8 +522,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/marcoroth_">marcoroth_</a></td>
 		<td>Basel, Switzerland</td>
-		<td>1846</td>
-		<td>3418</td>
+		<td>1847</td>
+		<td>3419</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -550,8 +550,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Microsoft </td>
 		<td><a href="https://twitter.com/johannesrieken">johannesrieken</a></td>
 		<td>Switzerland</td>
-		<td>2552</td>
-		<td>3305</td>
+		<td>2556</td>
+		<td>3321</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -564,8 +564,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Lightning Ai </td>
 		<td><a href="https://twitter.com/adrianwaelchli">adrianwaelchli</a></td>
 		<td>Switzerland</td>
-		<td>3014</td>
-		<td>3283</td>
+		<td>3016</td>
+		<td>3285</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -578,8 +578,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1843</td>
-		<td>3241</td>
+		<td>1845</td>
+		<td>3243</td>
 	</tr>
 	<tr>
 		<td>35</td>
@@ -592,8 +592,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/magit_emacs">magit_emacs</a></td>
 		<td>Basel, Switzerland</td>
-		<td>3201</td>
-		<td>3201</td>
+		<td>3208</td>
+		<td>3208</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -640,6 +640,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/Melvynx">
+				<img src="https://avatars.githubusercontent.com/u/56388157?s=72&u=3524e12bcf28f5c6f2d0fa46e582feb2fb70392d&v=4" width="24" alt="Avatar of Melvynx"> Melvynx
+			</a><br/>
+			Melvyn
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/melvynxdev">melvynxdev</a></td>
+		<td>Switzerland</td>
+		<td>803</td>
+		<td>2944</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/mario-deluna">
 				<img src="https://avatars.githubusercontent.com/u/956212?s=72&u=ff7482ea94e9be7966d5febe2d2a03ad054306d8&v=4" width="24" alt="Avatar of mario-deluna"> mario-deluna
 			</a><br/>
@@ -650,20 +664,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Zürich, Switzerland</td>
 		<td>342</td>
 		<td>2944</td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>
-			<a href="https://github.com/Melvynx">
-				<img src="https://avatars.githubusercontent.com/u/56388157?s=72&u=3524e12bcf28f5c6f2d0fa46e582feb2fb70392d&v=4" width="24" alt="Avatar of Melvynx"> Melvynx
-			</a><br/>
-			Melvyn
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/melvynxdev">melvynxdev</a></td>
-		<td>Switzerland</td>
-		<td>802</td>
-		<td>2933</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -690,8 +690,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/topaxi">topaxi</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>188</td>
-		<td>2902</td>
+		<td>189</td>
+		<td>2903</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -733,7 +733,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/lszomoru">lszomoru</a></td>
 		<td>Zürich, Switzerland</td>
 		<td>1993</td>
-		<td>2866</td>
+		<td>2870</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -746,8 +746,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@google </td>
 		<td><a href="https://twitter.com/alanagius4">alanagius4</a></td>
 		<td>Switzerland</td>
-		<td>2622</td>
-		<td>2820</td>
+		<td>2623</td>
+		<td>2821</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -789,7 +789,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Bern, Switzerland</td>
 		<td>959</td>
-		<td>2725</td>
+		<td>2731</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -803,7 +803,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/10xSebastian">10xSebastian</a></td>
 		<td>Zürich</td>
 		<td>1381</td>
-		<td>2711</td>
+		<td>2713</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -816,11 +816,25 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Oracle Labs </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>2707</td>
-		<td>2707</td>
+		<td>2708</td>
+		<td>2708</td>
 	</tr>
 	<tr>
 		<td>52</td>
+		<td>
+			<a href="https://github.com/adrai">
+				<img src="https://avatars.githubusercontent.com/u/1086194?s=72&v=4" width="24" alt="Avatar of adrai"> adrai
+			</a><br/>
+			Adriano Raiano
+		</td>
+		<td>I18next.com | Locize.com </td>
+		<td><a href="https://twitter.com/adrirai">adrirai</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>1318</td>
+		<td>2632</td>
+	</tr>
+	<tr>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/damienbod">
 				<img src="https://avatars.githubusercontent.com/u/3442158?s=72&v=4" width="24" alt="Avatar of damienbod"> damienbod
@@ -832,20 +846,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>2609</td>
 		<td>2609</td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/adrai">
-				<img src="https://avatars.githubusercontent.com/u/1086194?s=72&v=4" width="24" alt="Avatar of adrai"> adrai
-			</a><br/>
-			Adriano Raiano
-		</td>
-		<td>I18next.com | Locize.com </td>
-		<td><a href="https://twitter.com/adrirai">adrirai</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>1300</td>
-		<td>2603</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -872,8 +872,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Work @elcait And @jenkinsci<br/>Contributor<br/></td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>2316</td>
-		<td>2528</td>
+		<td>2317</td>
+		<td>2532</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -914,11 +914,25 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Axa Switzerland </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>2382</td>
-		<td>2442</td>
+		<td>2389</td>
+		<td>2449</td>
 	</tr>
 	<tr>
 		<td>59</td>
+		<td>
+			<a href="https://github.com/macmade">
+				<img src="https://avatars.githubusercontent.com/u/146476?s=72&u=9e54d2c3ed0cd586a7ebb020c8e57c6ad4c5f86c&v=4" width="24" alt="Avatar of macmade"> macmade
+			</a><br/>
+			JD Gadina
+		</td>
+		<td>Xs-labs </td>
+		<td><a href="https://twitter.com/macmade">macmade</a></td>
+		<td>Switzerland</td>
+		<td>935</td>
+		<td>2414</td>
+	</tr>
+	<tr>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/tklauser">
 				<img src="https://avatars.githubusercontent.com/u/539708?s=72&v=4" width="24" alt="Avatar of tklauser"> tklauser
@@ -932,7 +946,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>2405</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/swissspidy">
 				<img src="https://avatars.githubusercontent.com/u/841956?s=72&u=9389b39411c7a64ff3b3a82db29826d52f0dd749&v=4" width="24" alt="Avatar of swissspidy"> swissspidy
@@ -946,7 +960,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>2404</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/MichaReiser">
 				<img src="https://avatars.githubusercontent.com/u/1203881?s=72&u=a4198e6ec750b50d8f708f7b226cc6fec288b993&v=4" width="24" alt="Avatar of MichaReiser"> MichaReiser
@@ -958,20 +972,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>2307</td>
 		<td>2404</td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>
-			<a href="https://github.com/macmade">
-				<img src="https://avatars.githubusercontent.com/u/146476?s=72&u=9e54d2c3ed0cd586a7ebb020c8e57c6ad4c5f86c&v=4" width="24" alt="Avatar of macmade"> macmade
-			</a><br/>
-			JD Gadina
-		</td>
-		<td>Xs-labs </td>
-		<td><a href="https://twitter.com/macmade">macmade</a></td>
-		<td>Switzerland</td>
-		<td>924</td>
-		<td>2403</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1040,8 +1040,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Autodesk </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1937</td>
-		<td>2302</td>
+		<td>1946</td>
+		<td>2311</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1054,8 +1054,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@openwebdocs </td>
 		<td>No Twitter Username</td>
 		<td>Sion, Switzerland</td>
-		<td>2292</td>
 		<td>2293</td>
+		<td>2294</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1082,8 +1082,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Cern </td>
 		<td>No Twitter Username</td>
 		<td>Geneva, Switzerland</td>
-		<td>2212</td>
-		<td>2212</td>
+		<td>2213</td>
+		<td>2213</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1110,8 +1110,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@wiremock, @jenkinsci, @cdfoundation </td>
 		<td><a href="https://twitter.com/oleg_nenashev">oleg_nenashev</a></td>
 		<td>Neuchatel, Switzerland</td>
-		<td>2182</td>
-		<td>2182</td>
+		<td>2186</td>
+		<td>2186</td>
 	</tr>
 	<tr>
 		<td>73</td>
@@ -1124,8 +1124,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>1191</td>
-		<td>2165</td>
+		<td>1194</td>
+		<td>2173</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1172,20 +1172,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>77</td>
 		<td>
-			<a href="https://github.com/rvolosatovs">
-				<img src="https://avatars.githubusercontent.com/u/12877905?s=72&u=bf7694920611c094ba2e76f024714bd1d44c409b&v=4" width="24" alt="Avatar of rvolosatovs"> rvolosatovs
-			</a><br/>
-			Roman Volosatovs
-		</td>
-		<td>@wasmcloud @cosmonic </td>
-		<td><a href="https://twitter.com/rvolosatovs">rvolosatovs</a></td>
-		<td>Crans-Montana, Switzerland</td>
-		<td>2102</td>
-		<td>2126</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
 			<a href="https://github.com/sandy081">
 				<img src="https://avatars.githubusercontent.com/u/10746682?s=72&u=f41e610654d0407b889cb97706c6e2adbf46d439&v=4" width="24" alt="Avatar of sandy081"> sandy081
 			</a><br/>
@@ -1196,6 +1182,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Zurich, Switzerland</td>
 		<td>2105</td>
 		<td>2105</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
+			<a href="https://github.com/rvolosatovs">
+				<img src="https://avatars.githubusercontent.com/u/12877905?s=72&u=bf7694920611c094ba2e76f024714bd1d44c409b&v=4" width="24" alt="Avatar of rvolosatovs"> rvolosatovs
+			</a><br/>
+			Roman Volosatovs
+		</td>
+		<td>@wasmcloud @cosmonic </td>
+		<td><a href="https://twitter.com/rvolosatovs">rvolosatovs</a></td>
+		<td>Crans-Montana, Switzerland</td>
+		<td>2071</td>
+		<td>2095</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1265,7 +1265,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/thomas_gassmann">thomas_gassmann</a></td>
 		<td>Zürich, Switzerland</td>
 		<td>403</td>
-		<td>2022</td>
+		<td>2023</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1278,8 +1278,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Phil Schatzmann </td>
 		<td>No Twitter Username</td>
 		<td>Valais, Switzerland</td>
-		<td>2019</td>
-		<td>2019</td>
+		<td>2022</td>
+		<td>2022</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1292,8 +1292,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Stoppels Consulting </td>
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
-		<td>2010</td>
-		<td>2010</td>
+		<td>2013</td>
+		<td>2013</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1320,8 +1320,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/TrueAndre_601">TrueAndre_601</a></td>
 		<td>Switzerland</td>
-		<td>1990</td>
-		<td>1995</td>
+		<td>1991</td>
+		<td>1996</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1334,8 +1334,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1577</td>
-		<td>1968</td>
+		<td>1580</td>
+		<td>1971</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1362,8 +1362,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@openscript-ch  </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>1600</td>
-		<td>1938</td>
+		<td>1602</td>
+		<td>1945</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -1391,7 +1391,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/oesteban">oesteban</a></td>
 		<td>Lausanne, Switzerland</td>
 		<td>1656</td>
-		<td>1923</td>
+		<td>1927</td>
 	</tr>
 	<tr>
 		<td>93</td>
@@ -1405,7 +1405,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>1675</td>
-		<td>1920</td>
+		<td>1924</td>
 	</tr>
 	<tr>
 		<td>94</td>
@@ -1502,8 +1502,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1861</td>
-		<td>1861</td>
+		<td>1862</td>
+		<td>1862</td>
 	</tr>
 	<tr>
 		<td>101</td>
@@ -1530,25 +1530,11 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lugano, Switzerland</td>
-		<td>347</td>
-		<td>1842</td>
+		<td>348</td>
+		<td>1843</td>
 	</tr>
 	<tr>
 		<td>103</td>
-		<td>
-			<a href="https://github.com/lpatiny">
-				<img src="https://avatars.githubusercontent.com/u/1484241?s=72&u=3bb51c4bd8cbbcb9f7bb20a11d9c5a866f81f425&v=4" width="24" alt="Avatar of lpatiny"> lpatiny
-			</a><br/>
-			Luc Patiny
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>1835</td>
-		<td>1835</td>
-	</tr>
-	<tr>
-		<td>104</td>
 		<td>
 			<a href="https://github.com/fsoubelet">
 				<img src="https://avatars.githubusercontent.com/u/19598248?s=72&u=3f9a71a72561a313cc5a96a58bb3a0eae8867f7d&v=4" width="24" alt="Avatar of fsoubelet"> fsoubelet
@@ -1559,6 +1545,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Geneva, Switzerland</td>
 		<td>373</td>
+		<td>1841</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td>
+			<a href="https://github.com/lpatiny">
+				<img src="https://avatars.githubusercontent.com/u/1484241?s=72&u=3bb51c4bd8cbbcb9f7bb20a11d9c5a866f81f425&v=4" width="24" alt="Avatar of lpatiny"> lpatiny
+			</a><br/>
+			Luc Patiny
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>1835</td>
 		<td>1835</td>
 	</tr>
 	<tr>
@@ -1601,7 +1601,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/coorasse">coorasse</a></td>
 		<td>Zürich</td>
 		<td>171</td>
-		<td>1798</td>
+		<td>1806</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1671,7 +1671,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Sursee, Switzerland</td>
 		<td>1017</td>
-		<td>1750</td>
+		<td>1751</td>
 	</tr>
 	<tr>
 		<td>113</td>
@@ -1754,8 +1754,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Electricfeel Mobility Systems </td>
 		<td><a href="https://twitter.com/thibaudgg">thibaudgg</a></td>
 		<td>Switzerland</td>
-		<td>531</td>
-		<td>1674</td>
+		<td>536</td>
+		<td>1679</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1824,8 +1824,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Lamp / Epfl </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1505</td>
-		<td>1574</td>
+		<td>1506</td>
+		<td>1575</td>
 	</tr>
 	<tr>
 		<td>124</td>
@@ -1838,8 +1838,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@appliedblockchain  </td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>227</td>
-		<td>1558</td>
+		<td>244</td>
+		<td>1575</td>
 	</tr>
 	<tr>
 		<td>125</td>
@@ -1866,8 +1866,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>École Polytechnique Fédérale De<br/>Lausanne<br/>(epfl)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>1533</td>
-		<td>1533</td>
+		<td>1537</td>
+		<td>1537</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -1895,7 +1895,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/zouharvi">zouharvi</a></td>
 		<td>Zürich</td>
 		<td>986</td>
-		<td>1496</td>
+		<td>1498</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -1936,8 +1936,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Epfl </td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>1425</td>
-		<td>1431</td>
+		<td>1430</td>
+		<td>1436</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -1950,8 +1950,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1418</td>
-		<td>1418</td>
+		<td>1435</td>
+		<td>1435</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1970,6 +1970,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>134</td>
 		<td>
+			<a href="https://github.com/janikvonrotz">
+				<img src="https://avatars.githubusercontent.com/u/1370421?s=72&u=d02fe3852775c2ce8b4ae83ef430defad20ead45&v=4" width="24" alt="Avatar of janikvonrotz"> janikvonrotz
+			</a><br/>
+			Janik von Rotz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1170</td>
+		<td>1409</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
 			<a href="https://github.com/infinisil">
 				<img src="https://avatars.githubusercontent.com/u/20525370?s=72&u=3eca42cd1f8dd49002816cd842937abef0d1b030&v=4" width="24" alt="Avatar of infinisil"> infinisil
 			</a><br/>
@@ -1979,20 +1993,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/infinisil">infinisil</a></td>
 		<td>Switzerland</td>
 		<td>1348</td>
-		<td>1408</td>
-	</tr>
-	<tr>
-		<td>135</td>
-		<td>
-			<a href="https://github.com/janikvonrotz">
-				<img src="https://avatars.githubusercontent.com/u/1370421?s=72&u=d02fe3852775c2ce8b4ae83ef430defad20ead45&v=4" width="24" alt="Avatar of janikvonrotz"> janikvonrotz
-			</a><br/>
-			Janik von Rotz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1169</td>
 		<td>1408</td>
 	</tr>
 	<tr>
@@ -2034,8 +2034,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Digital Peak Gmbh </td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>843</td>
-		<td>1392</td>
+		<td>848</td>
+		<td>1397</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2090,8 +2090,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@nabucasa </td>
 		<td><a href="https://twitter.com/pvizeli">pvizeli</a></td>
 		<td>Switzerland, Bern</td>
-		<td>1385</td>
-		<td>1385</td>
+		<td>1386</td>
+		<td>1386</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2104,8 +2104,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Google </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>1355</td>
-		<td>1356</td>
+		<td>1357</td>
+		<td>1358</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2118,8 +2118,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Cern </td>
 		<td>No Twitter Username</td>
 		<td>Geneva</td>
-		<td>1343</td>
-		<td>1343</td>
+		<td>1347</td>
+		<td>1347</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2138,6 +2138,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>146</td>
 		<td>
+			<a href="https://github.com/sbrannen">
+				<img src="https://avatars.githubusercontent.com/u/104798?s=72&u=e316a3b9d5ae74c3b31ace1a8361c90e84481daf&v=4" width="24" alt="Avatar of sbrannen"> sbrannen
+			</a><br/>
+			Sam Brannen
+		</td>
+		<td>Vmware </td>
+		<td><a href="https://twitter.com/sbrannen">sbrannen</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>1336</td>
+		<td>1336</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
 			<a href="https://github.com/JamesClonk">
 				<img src="https://avatars.githubusercontent.com/u/3172084?s=72&v=4" width="24" alt="Avatar of JamesClonk"> JamesClonk
 			</a><br/>
@@ -2148,20 +2162,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>1335</td>
 		<td>1335</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/sbrannen">
-				<img src="https://avatars.githubusercontent.com/u/104798?s=72&u=e316a3b9d5ae74c3b31ace1a8361c90e84481daf&v=4" width="24" alt="Avatar of sbrannen"> sbrannen
-			</a><br/>
-			Sam Brannen
-		</td>
-		<td>Vmware </td>
-		<td><a href="https://twitter.com/sbrannen">sbrannen</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>1334</td>
-		<td>1334</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2216,8 +2216,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Opengis.ch </td>
 		<td><a href="https://twitter.com/_mkuhn">_mkuhn</a></td>
 		<td>Switzerland</td>
-		<td>1273</td>
-		<td>1273</td>
+		<td>1276</td>
+		<td>1276</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2286,8 +2286,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>École Polytechnique Fédérale De<br/>Lausanne<br/></td>
 		<td><a href="https://twitter.com/chrisj_sewell">chrisj_sewell</a></td>
 		<td>Switzerland</td>
-		<td>1172</td>
-		<td>1245</td>
+		<td>1174</td>
+		<td>1247</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2328,8 +2328,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Zpf Ingenieure </td>
 		<td><a href="https://twitter.com/marcantondahmen">marcantondahmen</a></td>
 		<td>Basel, Switzerland</td>
-		<td>743</td>
-		<td>1233</td>
+		<td>747</td>
+		<td>1241</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -2385,7 +2385,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Geneva, Switzerland</td>
 		<td>1172</td>
-		<td>1204</td>
+		<td>1209</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2399,10 +2399,24 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>211</td>
-		<td>1202</td>
+		<td>1209</td>
 	</tr>
 	<tr>
 		<td>165</td>
+		<td>
+			<a href="https://github.com/veebch">
+				<img src="https://avatars.githubusercontent.com/u/75116070?s=72&u=26698a14004b24cdb3e5c6626051c8cc33548696&v=4" width="24" alt="Avatar of veebch"> veebch
+			</a><br/>
+			VEEB Projects
+		</td>
+		<td>Veeb Projects </td>
+		<td>No Twitter Username</td>
+		<td>Switzerland</td>
+		<td>1202</td>
+		<td>1202</td>
+	</tr>
+	<tr>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/zifeo">
 				<img src="https://avatars.githubusercontent.com/u/9053709?s=72&u=a6edf025116d0365873e27074c9920d448ea1801&v=4" width="24" alt="Avatar of zifeo"> zifeo
@@ -2412,11 +2426,11 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Conkiwi.com </td>
 		<td><a href="https://twitter.com/zifeo">zifeo</a></td>
 		<td>Switzerland</td>
-		<td>806</td>
-		<td>1199</td>
+		<td>808</td>
+		<td>1201</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/MasterScrat">
 				<img src="https://avatars.githubusercontent.com/u/140592?s=72&u=260e75d2051318e1a5582bd6bc087d4ef4f75209&v=4" width="24" alt="Avatar of MasterScrat"> MasterScrat
@@ -2430,20 +2444,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>1199</td>
 	</tr>
 	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/veebch">
-				<img src="https://avatars.githubusercontent.com/u/75116070?s=72&u=26698a14004b24cdb3e5c6626051c8cc33548696&v=4" width="24" alt="Avatar of veebch"> veebch
-			</a><br/>
-			VEEB Projects
-		</td>
-		<td>Veeb Projects </td>
-		<td>No Twitter Username</td>
-		<td>Switzerland</td>
-		<td>1198</td>
-		<td>1198</td>
-	</tr>
-	<tr>
 		<td>168</td>
 		<td>
 			<a href="https://github.com/FrancescoSaverioZuppichini">
@@ -2454,8 +2454,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Roboflow </td>
 		<td>No Twitter Username</td>
 		<td>Lugano, Switzerland</td>
-		<td>782</td>
-		<td>1190</td>
+		<td>781</td>
+		<td>1194</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2502,6 +2502,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>172</td>
 		<td>
+			<a href="https://github.com/rserban">
+				<img src="https://avatars.githubusercontent.com/u/3801699?s=72&v=4" width="24" alt="Avatar of rserban"> rserban
+			</a><br/>
+			Radu Serban
+		</td>
+		<td>University Of Wisconsin -<br/>Madison<br/></td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>717</td>
+		<td>1146</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
 			<a href="https://github.com/harababurel">
 				<img src="https://avatars.githubusercontent.com/u/8619823?s=72&u=f3210d3fcda05b6be22bb189587137649c2fd8a9&v=4" width="24" alt="Avatar of harababurel"> harababurel
 			</a><br/>
@@ -2512,20 +2526,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Zürich</td>
 		<td>126</td>
 		<td>1142</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a href="https://github.com/rserban">
-				<img src="https://avatars.githubusercontent.com/u/3801699?s=72&v=4" width="24" alt="Avatar of rserban"> rserban
-			</a><br/>
-			Radu Serban
-		</td>
-		<td>University Of Wisconsin -<br/>Madison<br/></td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>710</td>
-		<td>1139</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -2552,8 +2552,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Accenture </td>
 		<td><a href="https://twitter.com/phsalvisberg">phsalvisberg</a></td>
 		<td>Winterthur, Switzerland</td>
-		<td>715</td>
-		<td>1128</td>
+		<td>724</td>
+		<td>1137</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -2566,11 +2566,25 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@eth-cscs </td>
 		<td><a href="https://twitter.com/roccomeli">roccomeli</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>818</td>
-		<td>1125</td>
+		<td>820</td>
+		<td>1127</td>
 	</tr>
 	<tr>
 		<td>177</td>
+		<td>
+			<a href="https://github.com/loleg">
+				<img src="https://avatars.githubusercontent.com/u/31819?s=72&u=55865d13fbc238e1bb374cc3f7f89b64727710e0&v=4" width="24" alt="Avatar of loleg"> loleg
+			</a><br/>
+			Oleg Lavrovsky
+		</td>
+		<td>@datalets @dribdat @proxeusapp @opendatach<br/></td>
+		<td>No Twitter Username</td>
+		<td>Bern, Switzerland</td>
+		<td>1074</td>
+		<td>1124</td>
+	</tr>
+	<tr>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/gasi">
 				<img src="https://avatars.githubusercontent.com/u/49583?s=72&u=77de87660afd96f0d683bf6cf440b34f7377b92e&v=4" width="24" alt="Avatar of gasi"> gasi
@@ -2584,20 +2598,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>1122</td>
 	</tr>
 	<tr>
-		<td>178</td>
-		<td>
-			<a href="https://github.com/loleg">
-				<img src="https://avatars.githubusercontent.com/u/31819?s=72&u=55865d13fbc238e1bb374cc3f7f89b64727710e0&v=4" width="24" alt="Avatar of loleg"> loleg
-			</a><br/>
-			Oleg Lavrovsky
-		</td>
-		<td>@datalets @dribdat @proxeusapp @opendatach<br/></td>
-		<td>No Twitter Username</td>
-		<td>Bern, Switzerland</td>
-		<td>1064</td>
-		<td>1114</td>
-	</tr>
-	<tr>
 		<td>179</td>
 		<td>
 			<a href="https://github.com/cakebaker">
@@ -2608,8 +2608,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>1109</td>
-		<td>1109</td>
+		<td>1112</td>
+		<td>1112</td>
 	</tr>
 	<tr>
 		<td>180</td>
@@ -2804,8 +2804,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abey79">abey79</a></td>
 		<td>Lausanne, Switzerland</td>
-		<td>962</td>
-		<td>986</td>
+		<td>964</td>
+		<td>988</td>
 	</tr>
 	<tr>
 		<td>194</td>
@@ -2847,7 +2847,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
 		<td>529</td>
-		<td>968</td>
+		<td>970</td>
 	</tr>
 	<tr>
 		<td>197</td>
@@ -2888,8 +2888,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@zuehlke </td>
 		<td><a href="https://twitter.com/DarkCisum">DarkCisum</a></td>
 		<td>Switzerland</td>
-		<td>877</td>
-		<td>952</td>
+		<td>879</td>
+		<td>954</td>
 	</tr>
 	<tr>
 		<td>200</td>
@@ -2945,7 +2945,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/kmdouglass">kmdouglass</a></td>
 		<td>Lausanne, Switzerland</td>
 		<td>508</td>
-		<td>938</td>
+		<td>941</td>
 	</tr>
 	<tr>
 		<td>204</td>
@@ -2972,8 +2972,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@opengisch  </td>
 		<td>No Twitter Username</td>
 		<td>Champéry, Switzerland</td>
-		<td>858</td>
-		<td>932</td>
+		<td>860</td>
+		<td>934</td>
 	</tr>
 	<tr>
 		<td>206</td>
@@ -3000,11 +3000,25 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Cern / @indico <br/></td>
 		<td>No Twitter Username</td>
 		<td>Geneva, Switzerland</td>
-		<td>866</td>
-		<td>911</td>
+		<td>867</td>
+		<td>912</td>
 	</tr>
 	<tr>
 		<td>208</td>
+		<td>
+			<a href="https://github.com/delroth">
+				<img src="https://avatars.githubusercontent.com/u/202798?s=72&v=4" width="24" alt="Avatar of delroth"> delroth
+			</a><br/>
+			Pierre Bourdon
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/delroth">delroth</a></td>
+		<td>Zürich, Switzerland</td>
+		<td>902</td>
+		<td>909</td>
+	</tr>
+	<tr>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/basvandijk">
 				<img src="https://avatars.githubusercontent.com/u/576355?s=72&u=146c497454faa6a20e8146f867bfdae2e6028829&v=4" width="24" alt="Avatar of basvandijk"> basvandijk
@@ -3018,20 +3032,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>909</td>
 	</tr>
 	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/delroth">
-				<img src="https://avatars.githubusercontent.com/u/202798?s=72&v=4" width="24" alt="Avatar of delroth"> delroth
-			</a><br/>
-			Pierre Bourdon
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/delroth">delroth</a></td>
-		<td>Zürich, Switzerland</td>
-		<td>896</td>
-		<td>903</td>
-	</tr>
-	<tr>
 		<td>210</td>
 		<td>
 			<a href="https://github.com/freezy">
@@ -3042,8 +3042,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland</td>
-		<td>519</td>
-		<td>901</td>
+		<td>520</td>
+		<td>902</td>
 	</tr>
 	<tr>
 		<td>211</td>
@@ -3244,6 +3244,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>225</td>
 		<td>
+			<a href="https://github.com/renggli">
+				<img src="https://avatars.githubusercontent.com/u/131610?s=72&v=4" width="24" alt="Avatar of renggli"> renggli
+			</a><br/>
+			Lukas Renggli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/renggli">renggli</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>852</td>
+		<td>852</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
 			<a href="https://github.com/ZetaTwo">
 				<img src="https://avatars.githubusercontent.com/u/870392?s=72&v=4" width="24" alt="Avatar of ZetaTwo"> ZetaTwo
 			</a><br/>
@@ -3256,21 +3270,21 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>851</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
-			<a href="https://github.com/renggli">
-				<img src="https://avatars.githubusercontent.com/u/131610?s=72&v=4" width="24" alt="Avatar of renggli"> renggli
+			<a href="https://github.com/dhh1128">
+				<img src="https://avatars.githubusercontent.com/u/2208904?s=72&u=f40218d7321f848360262f895c326f1d24f49995&v=4" width="24" alt="Avatar of dhh1128"> dhh1128
 			</a><br/>
-			Lukas Renggli
+			Daniel Hardman
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/renggli">renggli</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>849</td>
+		<td><a href="https://twitter.com/dhh1128">dhh1128</a></td>
+		<td>Lausanne, Switzerland</td>
+		<td>705</td>
 		<td>849</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/kimpers">
 				<img src="https://avatars.githubusercontent.com/u/5450545?s=72&u=f0d1ce5dfbeff0805d6da46dbbeef43ed1659b22&v=4" width="24" alt="Avatar of kimpers"> kimpers
@@ -3284,21 +3298,21 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>849</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
-			<a href="https://github.com/dhh1128">
-				<img src="https://avatars.githubusercontent.com/u/2208904?s=72&u=f40218d7321f848360262f895c326f1d24f49995&v=4" width="24" alt="Avatar of dhh1128"> dhh1128
+			<a href="https://github.com/grssnbchr">
+				<img src="https://avatars.githubusercontent.com/u/2305708?s=72&u=75ab4e7ba70c49bdb302854198025f170d776381&v=4" width="24" alt="Avatar of grssnbchr"> grssnbchr
 			</a><br/>
-			Daniel Hardman
+			Timo Grossenbacher
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dhh1128">dhh1128</a></td>
-		<td>Lausanne, Switzerland</td>
-		<td>705</td>
-		<td>848</td>
+		<td>Newroom Automation @tamedia </td>
+		<td><a href="https://twitter.com/grssnbchr">grssnbchr</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>9</td>
+		<td>834</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/julienrf">
 				<img src="https://avatars.githubusercontent.com/u/332812?s=72&u=c53bc6569c85c213877e6d272d0ff9928542cab8&v=4" width="24" alt="Avatar of julienrf"> julienrf
@@ -3312,7 +3326,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>834</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/stefanfoulis">
 				<img src="https://avatars.githubusercontent.com/u/14330?s=72&u=c8c22c51617dd58869e9bd22f4502b0d2f15597c&v=4" width="24" alt="Avatar of stefanfoulis"> stefanfoulis
@@ -3324,20 +3338,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>25</td>
 		<td>828</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/grssnbchr">
-				<img src="https://avatars.githubusercontent.com/u/2305708?s=72&u=75ab4e7ba70c49bdb302854198025f170d776381&v=4" width="24" alt="Avatar of grssnbchr"> grssnbchr
-			</a><br/>
-			Timo Grossenbacher
-		</td>
-		<td>Newroom Automation @tamedia </td>
-		<td><a href="https://twitter.com/grssnbchr">grssnbchr</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>9</td>
-		<td>827</td>
 	</tr>
 	<tr>
 		<td>232</td>
@@ -3421,10 +3421,24 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/simas_ch">simas_ch</a></td>
 		<td>Erlach, Switzerland</td>
 		<td>553</td>
-		<td>801</td>
+		<td>802</td>
 	</tr>
 	<tr>
 		<td>238</td>
+		<td>
+			<a href="https://github.com/stapelberg">
+				<img src="https://avatars.githubusercontent.com/u/55506?s=72&u=d76452e75774c895a975e588cf2b830b32b61020&v=4" width="24" alt="Avatar of stapelberg"> stapelberg
+			</a><br/>
+			Michael Stapelberg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>800</td>
+		<td>800</td>
+	</tr>
+	<tr>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/timohanke">
 				<img src="https://avatars.githubusercontent.com/u/3149329?s=72&u=2488f597cd6ab73a99b1b979062f4f0791003a2f&v=4" width="24" alt="Avatar of timohanke"> timohanke
@@ -3436,20 +3450,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>471</td>
 		<td>800</td>
-	</tr>
-	<tr>
-		<td>239</td>
-		<td>
-			<a href="https://github.com/stapelberg">
-				<img src="https://avatars.githubusercontent.com/u/55506?s=72&u=d76452e75774c895a975e588cf2b830b32b61020&v=4" width="24" alt="Avatar of stapelberg"> stapelberg
-			</a><br/>
-			Michael Stapelberg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>799</td>
-		<td>799</td>
 	</tr>
 	<tr>
 		<td>240</td>
@@ -3504,11 +3504,25 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Eth Zürich - @eth-its<br/><br/></td>
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
-		<td>791</td>
-		<td>791</td>
+		<td>792</td>
+		<td>792</td>
 	</tr>
 	<tr>
 		<td>244</td>
+		<td>
+			<a href="https://github.com/favreau">
+				<img src="https://avatars.githubusercontent.com/u/8790943?s=72&u=e21b72010d59af139bb80bea61675cb5f5e1c395&v=4" width="24" alt="Avatar of favreau"> favreau
+			</a><br/>
+			Cyrille Favreau
+		</td>
+		<td>Epfl </td>
+		<td><a href="https://twitter.com/cyrille_favreau">cyrille_favreau</a></td>
+		<td>Switzerland</td>
+		<td>544</td>
+		<td>789</td>
+	</tr>
+	<tr>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/sapandiwakar">
 				<img src="https://avatars.githubusercontent.com/u/814363?s=72&u=d66eedfa6a62e9ae7e3efc43951d989e447b87f8&v=4" width="24" alt="Avatar of sapandiwakar"> sapandiwakar
@@ -3522,7 +3536,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>789</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/dbu">
 				<img src="https://avatars.githubusercontent.com/u/76576?s=72&v=4" width="24" alt="Avatar of dbu"> dbu
@@ -3533,20 +3547,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>788</td>
-		<td>788</td>
-	</tr>
-	<tr>
-		<td>246</td>
-		<td>
-			<a href="https://github.com/favreau">
-				<img src="https://avatars.githubusercontent.com/u/8790943?s=72&u=e21b72010d59af139bb80bea61675cb5f5e1c395&v=4" width="24" alt="Avatar of favreau"> favreau
-			</a><br/>
-			Cyrille Favreau
-		</td>
-		<td>Epfl </td>
-		<td><a href="https://twitter.com/cyrille_favreau">cyrille_favreau</a></td>
-		<td>Switzerland</td>
-		<td>543</td>
 		<td>788</td>
 	</tr>
 	<tr>
@@ -3566,6 +3566,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>248</td>
 		<td>
+			<a href="https://github.com/kensanata">
+				<img src="https://avatars.githubusercontent.com/u/1145712?s=72&u=30e35c3ad04b662db1cc56b56b07c9cacc97ad94&v=4" width="24" alt="Avatar of kensanata"> kensanata
+			</a><br/>
+			Alex Schroeder
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>786</td>
+		<td>786</td>
+	</tr>
+	<tr>
+		<td>249</td>
+		<td>
 			<a href="https://github.com/jan-wassenberg">
 				<img src="https://avatars.githubusercontent.com/u/17255429?s=72&u=b6886fe958091272407583685311cec2a543dc22&v=4" width="24" alt="Avatar of jan-wassenberg"> jan-wassenberg
 			</a><br/>
@@ -3576,20 +3590,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Zürich</td>
 		<td>786</td>
 		<td>786</td>
-	</tr>
-	<tr>
-		<td>249</td>
-		<td>
-			<a href="https://github.com/kensanata">
-				<img src="https://avatars.githubusercontent.com/u/1145712?s=72&u=30e35c3ad04b662db1cc56b56b07c9cacc97ad94&v=4" width="24" alt="Avatar of kensanata"> kensanata
-			</a><br/>
-			Alex Schroeder
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>784</td>
-		<td>784</td>
 	</tr>
 	<tr>
 		<td>250</td>
@@ -3608,20 +3608,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>251</td>
 		<td>
-			<a href="https://github.com/matteocourthoud">
-				<img src="https://avatars.githubusercontent.com/u/13118625?s=72&u=2fb25c7f83cf86bf6cd9f24c43beae09847f9bab&v=4" width="24" alt="Avatar of matteocourthoud"> matteocourthoud
-			</a><br/>
-			Matteo Courthoud
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zurich, Switzerland</td>
-		<td>655</td>
-		<td>772</td>
-	</tr>
-	<tr>
-		<td>252</td>
-		<td>
 			<a href="https://github.com/MaEtUgR">
 				<img src="https://avatars.githubusercontent.com/u/4668506?s=72&u=24eb4e41b549cb21470180aedc53e1633904aed7&v=4" width="24" alt="Avatar of MaEtUgR"> MaEtUgR
 			</a><br/>
@@ -3631,6 +3617,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
 		<td>334</td>
+		<td>773</td>
+	</tr>
+	<tr>
+		<td>252</td>
+		<td>
+			<a href="https://github.com/matteocourthoud">
+				<img src="https://avatars.githubusercontent.com/u/13118625?s=72&u=2fb25c7f83cf86bf6cd9f24c43beae09847f9bab&v=4" width="24" alt="Avatar of matteocourthoud"> matteocourthoud
+			</a><br/>
+			Matteo Courthoud
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zurich, Switzerland</td>
+		<td>655</td>
 		<td>772</td>
 	</tr>
 	<tr>
@@ -3706,6 +3706,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>258</td>
 		<td>
+			<a href="https://github.com/davidgiven">
+				<img src="https://avatars.githubusercontent.com/u/100638?s=72&u=aef8aa31dc31e30488a954ec1152045088451b34&v=4" width="24" alt="Avatar of davidgiven"> davidgiven
+			</a><br/>
+			David Given
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>740</td>
+		<td>741</td>
+	</tr>
+	<tr>
+		<td>259</td>
+		<td>
 			<a href="https://github.com/digi604">
 				<img src="https://avatars.githubusercontent.com/u/25490?s=72&v=4" width="24" alt="Avatar of digi604"> digi604
 			</a><br/>
@@ -3718,7 +3732,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>735</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/yakky">
 				<img src="https://avatars.githubusercontent.com/u/714711?s=72&v=4" width="24" alt="Avatar of yakky"> yakky
@@ -3732,7 +3746,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>726</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/dirmeier">
 				<img src="https://avatars.githubusercontent.com/u/16086606?s=72&u=c1a5ca3755e07903d88e7bf9b388ec8c1266c786&v=4" width="24" alt="Avatar of dirmeier"> dirmeier
@@ -3746,7 +3760,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>726</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/dfreeman">
 				<img src="https://avatars.githubusercontent.com/u/108688?s=72&v=4" width="24" alt="Avatar of dfreeman"> dfreeman
@@ -3760,7 +3774,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>722</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/roman-kashitsyn">
 				<img src="https://avatars.githubusercontent.com/u/847968?s=72&u=a5f8f7b5d18424ff5537b5593303a1dda59084a1&v=4" width="24" alt="Avatar of roman-kashitsyn"> roman-kashitsyn
@@ -3774,7 +3788,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>711</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/rettichschnidi">
 				<img src="https://avatars.githubusercontent.com/u/920644?s=72&u=0e987c9034f34f1cf82c7e8c7769d415a35e66ce&v=4" width="24" alt="Avatar of rettichschnidi"> rettichschnidi
@@ -3788,7 +3802,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>708</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/original-brownbear">
 				<img src="https://avatars.githubusercontent.com/u/6490959?s=72&u=d958bd40c338c6fb58e3246aae008e4196e805ab&v=4" width="24" alt="Avatar of original-brownbear"> original-brownbear
@@ -3802,7 +3816,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>706</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/etienne-napoleone">
 				<img src="https://avatars.githubusercontent.com/u/26155267?s=72&u=64f86ab76a8e2039944d08db6270aa20dfc710b2&v=4" width="24" alt="Avatar of etienne-napoleone"> etienne-napoleone
@@ -3816,7 +3830,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>706</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/AnomalRoil">
 				<img src="https://avatars.githubusercontent.com/u/10077203?s=72&u=15a98bac90dcea2779f21ca928263315c324f255&v=4" width="24" alt="Avatar of AnomalRoil"> AnomalRoil
@@ -3828,20 +3842,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>541</td>
 		<td>702</td>
-	</tr>
-	<tr>
-		<td>267</td>
-		<td>
-			<a href="https://github.com/davidgiven">
-				<img src="https://avatars.githubusercontent.com/u/100638?s=72&u=aef8aa31dc31e30488a954ec1152045088451b34&v=4" width="24" alt="Avatar of davidgiven"> davidgiven
-			</a><br/>
-			David Given
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>699</td>
-		<td>699</td>
 	</tr>
 	<tr>
 		<td>268</td>
@@ -3860,6 +3860,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>269</td>
 		<td>
+			<a href="https://github.com/ltalirz">
+				<img src="https://avatars.githubusercontent.com/u/1053245?s=72&u=664b9564e1c13c4c4cfb0e393143dfffc9575590&v=4" width="24" alt="Avatar of ltalirz"> ltalirz
+			</a><br/>
+			Leopold Talirz
+		</td>
+		<td>Azure Quantum </td>
+		<td><a href="https://twitter.com/ltalirz">ltalirz</a></td>
+		<td>Switzerland</td>
+		<td>678</td>
+		<td>694</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
 			<a href="https://github.com/DengPingFan">
 				<img src="https://avatars.githubusercontent.com/u/16174941?s=72&u=80e99a64b54b305c8afa5c42771b246da170334c&v=4" width="24" alt="Avatar of DengPingFan"> DengPingFan
 			</a><br/>
@@ -3869,20 +3883,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>693</td>
-		<td>693</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
-			<a href="https://github.com/ltalirz">
-				<img src="https://avatars.githubusercontent.com/u/1053245?s=72&u=664b9564e1c13c4c4cfb0e393143dfffc9575590&v=4" width="24" alt="Avatar of ltalirz"> ltalirz
-			</a><br/>
-			Leopold Talirz
-		</td>
-		<td>Azure Quantum </td>
-		<td><a href="https://twitter.com/ltalirz">ltalirz</a></td>
-		<td>Switzerland</td>
-		<td>677</td>
 		<td>693</td>
 	</tr>
 	<tr>
@@ -3910,8 +3910,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>École Polytechnique Fédérale De<br/>Lausanne<br/>(epfl)<br/></td>
 		<td>No Twitter Username</td>
 		<td>Geneva, CH</td>
-		<td>505</td>
-		<td>677</td>
+		<td>507</td>
+		<td>680</td>
 	</tr>
 	<tr>
 		<td>273</td>
@@ -4042,6 +4042,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>282</td>
 		<td>
+			<a href="https://github.com/c22dev">
+				<img src="https://avatars.githubusercontent.com/u/102235607?s=72&u=9966ef669c99faf88caf7b66faf283dd3639549b&v=4" width="24" alt="Avatar of c22dev"> c22dev
+			</a><br/>
+			Constantin Clerc
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/c22_dev">c22_dev</a></td>
+		<td>Geneva</td>
+		<td>468</td>
+		<td>609</td>
+	</tr>
+	<tr>
+		<td>283</td>
+		<td>
 			<a href="https://github.com/betatim">
 				<img src="https://avatars.githubusercontent.com/u/1448859?s=72&u=bb1fe43e670621cb0bb0a8ab915ff15d649d0f80&v=4" width="24" alt="Avatar of betatim"> betatim
 			</a><br/>
@@ -4052,20 +4066,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Zurich, Switzerland</td>
 		<td>468</td>
 		<td>607</td>
-	</tr>
-	<tr>
-		<td>283</td>
-		<td>
-			<a href="https://github.com/vasile">
-				<img src="https://avatars.githubusercontent.com/u/113994?s=72&v=4" width="24" alt="Avatar of vasile"> vasile
-			</a><br/>
-			Vasile Cotovanu
-		</td>
-		<td>Vasile.ch </td>
-		<td><a href="https://twitter.com/vasile23">vasile23</a></td>
-		<td>Zürich</td>
-		<td>606</td>
-		<td>606</td>
 	</tr>
 	<tr>
 		<td>284</td>
@@ -4079,21 +4079,21 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/mgfeller">mgfeller</a></td>
 		<td>Basel, Switzerland</td>
 		<td>6</td>
-		<td>606</td>
+		<td>607</td>
 	</tr>
 	<tr>
 		<td>285</td>
 		<td>
-			<a href="https://github.com/c22dev">
-				<img src="https://avatars.githubusercontent.com/u/102235607?s=72&u=9966ef669c99faf88caf7b66faf283dd3639549b&v=4" width="24" alt="Avatar of c22dev"> c22dev
+			<a href="https://github.com/vasile">
+				<img src="https://avatars.githubusercontent.com/u/113994?s=72&v=4" width="24" alt="Avatar of vasile"> vasile
 			</a><br/>
-			Constantin Clerc
+			Vasile Cotovanu
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/c22_dev">c22_dev</a></td>
-		<td>Geneva</td>
-		<td>462</td>
-		<td>603</td>
+		<td>Vasile.ch </td>
+		<td><a href="https://twitter.com/vasile23">vasile23</a></td>
+		<td>Zürich</td>
+		<td>606</td>
+		<td>606</td>
 	</tr>
 	<tr>
 		<td>286</td>
@@ -4204,8 +4204,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>548</td>
-		<td>548</td>
+		<td>549</td>
+		<td>549</td>
 	</tr>
 	<tr>
 		<td>294</td>
@@ -4302,8 +4302,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tomchop_">tomchop_</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>513</td>
-		<td>531</td>
+		<td>514</td>
+		<td>532</td>
 	</tr>
 	<tr>
 		<td>301</td>
@@ -4490,6 +4490,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>314</td>
 		<td>
+			<a href="https://github.com/sarlinpe">
+				<img src="https://avatars.githubusercontent.com/u/15985472?s=72&u=ecbd8cd87fcfa65c64202d518ccbd623d314d9a5&v=4" width="24" alt="Avatar of sarlinpe"> sarlinpe
+			</a><br/>
+			Paul-Edouard Sarlin
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/pesarlin">pesarlin</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>346</td>
+		<td>503</td>
+	</tr>
+	<tr>
+		<td>315</td>
+		<td>
 			<a href="https://github.com/neophob">
 				<img src="https://avatars.githubusercontent.com/u/837347?s=72&v=4" width="24" alt="Avatar of neophob"> neophob
 			</a><br/>
@@ -4500,20 +4514,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Bern, Switzerland</td>
 		<td>85</td>
 		<td>503</td>
-	</tr>
-	<tr>
-		<td>315</td>
-		<td>
-			<a href="https://github.com/sarlinpe">
-				<img src="https://avatars.githubusercontent.com/u/15985472?s=72&u=ecbd8cd87fcfa65c64202d518ccbd623d314d9a5&v=4" width="24" alt="Avatar of sarlinpe"> sarlinpe
-			</a><br/>
-			Paul-Edouard Sarlin
-		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/pesarlin">pesarlin</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>346</td>
-		<td>501</td>
 	</tr>
 	<tr>
 		<td>316</td>
@@ -4540,11 +4540,25 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/RHoechenberger">RHoechenberger</a></td>
 		<td>Geneva, Switzerland</td>
-		<td>496</td>
-		<td>498</td>
+		<td>497</td>
+		<td>499</td>
 	</tr>
 	<tr>
 		<td>318</td>
+		<td>
+			<a href="https://github.com/jodersky">
+				<img src="https://avatars.githubusercontent.com/u/1007012?s=72&u=7c8abe2bd15de4747fa3e712c7682d51ea7d9fea&v=4" width="24" alt="Avatar of jodersky"> jodersky
+			</a><br/>
+			No Name
+		</td>
+		<td>@inpher </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne</td>
+		<td>110</td>
+		<td>497</td>
+	</tr>
+	<tr>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/Dev-XYS">
 				<img src="https://avatars.githubusercontent.com/u/14133164?s=72&u=240370f1f20d6665fb3fa41c9e8ecd7579e47041&v=4" width="24" alt="Avatar of Dev-XYS"> Dev-XYS
@@ -4558,7 +4572,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>497</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/19reborn">
 				<img src="https://avatars.githubusercontent.com/u/55176925?s=72&u=6cfd9b2d7f7980cf66c771ef193a667affb00a4e&v=4" width="24" alt="Avatar of 19reborn"> 19reborn
@@ -4570,20 +4584,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Zurich, Switzerland</td>
 		<td>26</td>
 		<td>496</td>
-	</tr>
-	<tr>
-		<td>320</td>
-		<td>
-			<a href="https://github.com/jodersky">
-				<img src="https://avatars.githubusercontent.com/u/1007012?s=72&u=7c8abe2bd15de4747fa3e712c7682d51ea7d9fea&v=4" width="24" alt="Avatar of jodersky"> jodersky
-			</a><br/>
-			No Name
-		</td>
-		<td>@inpher </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne</td>
-		<td>108</td>
-		<td>495</td>
 	</tr>
 	<tr>
 		<td>321</td>
@@ -4686,6 +4686,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>328</td>
 		<td>
+			<a href="https://github.com/wichtounet">
+				<img src="https://avatars.githubusercontent.com/u/196746?s=72&u=15774cdc0577f6613e86adafc1bbcfefea1a0aed&v=4" width="24" alt="Avatar of wichtounet"> wichtounet
+			</a><br/>
+			Baptiste Wicht
+		</td>
+		<td>Verisign </td>
+		<td>No Twitter Username</td>
+		<td>Fribourg, Switzerland</td>
+		<td>482</td>
+		<td>482</td>
+	</tr>
+	<tr>
+		<td>329</td>
+		<td>
 			<a href="https://github.com/imagejan">
 				<img src="https://avatars.githubusercontent.com/u/2033938?s=72&v=4" width="24" alt="Avatar of imagejan"> imagejan
 			</a><br/>
@@ -4698,7 +4712,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>482</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/brawer">
 				<img src="https://avatars.githubusercontent.com/u/1527880?s=72&u=df59d8eba21ea523772e2ca3eb1ffc4f40a7b24f&v=4" width="24" alt="Avatar of brawer"> brawer
@@ -4712,21 +4726,21 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>481</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
-			<a href="https://github.com/wichtounet">
-				<img src="https://avatars.githubusercontent.com/u/196746?s=72&u=15774cdc0577f6613e86adafc1bbcfefea1a0aed&v=4" width="24" alt="Avatar of wichtounet"> wichtounet
+			<a href="https://github.com/nroduit">
+				<img src="https://avatars.githubusercontent.com/u/993975?s=72&v=4" width="24" alt="Avatar of nroduit"> nroduit
 			</a><br/>
-			Baptiste Wicht
+			Nicolas Roduit
 		</td>
-		<td>Verisign </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Fribourg, Switzerland</td>
-		<td>480</td>
-		<td>480</td>
+		<td>Geneva</td>
+		<td>469</td>
+		<td>469</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/Aaron-Junker">
 				<img src="https://avatars.githubusercontent.com/u/58633848?s=72&u=e67c90fcd7b00bbcb0fd072984d7a8a45d177e61&v=4" width="24" alt="Avatar of Aaron-Junker"> Aaron-Junker
@@ -4736,11 +4750,11 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Aaron Junker Technologies </td>
 		<td><a href="https://twitter.com/theredcuber">theredcuber</a></td>
 		<td>Switzerland</td>
-		<td>312</td>
-		<td>467</td>
+		<td>313</td>
+		<td>468</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/akosma">
 				<img src="https://avatars.githubusercontent.com/u/55348?s=72&u=34935b75a66b34749fa6e50c40957d5132399747&v=4" width="24" alt="Avatar of akosma"> akosma
@@ -4754,7 +4768,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>466</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/gannimo">
 				<img src="https://avatars.githubusercontent.com/u/2371964?s=72&u=1ad5736766ffd9f0cb49182ac51f30d093f7a20b&v=4" width="24" alt="Avatar of gannimo"> gannimo
@@ -4768,7 +4782,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>466</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/LucaCanali">
 				<img src="https://avatars.githubusercontent.com/u/5243162?s=72&u=d826de0f42f907493d9ff5bb2201ed095a1b35a6&v=4" width="24" alt="Avatar of LucaCanali"> LucaCanali
@@ -4782,7 +4796,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>466</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/lnielsen">
 				<img src="https://avatars.githubusercontent.com/u/1698163?s=72&u=42415a90ca4ffedd5597e15b7ea24b0e9aa075cf&v=4" width="24" alt="Avatar of lnielsen"> lnielsen
@@ -4796,7 +4810,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>466</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/ceriottm">
 				<img src="https://avatars.githubusercontent.com/u/1118823?s=72&v=4" width="24" alt="Avatar of ceriottm"> ceriottm
@@ -4806,22 +4820,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Epfl </td>
 		<td>No Twitter Username</td>
 		<td>Lausanne - Switzerland</td>
-		<td>464</td>
-		<td>464</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
-			<a href="https://github.com/nroduit">
-				<img src="https://avatars.githubusercontent.com/u/993975?s=72&v=4" width="24" alt="Avatar of nroduit"> nroduit
-			</a><br/>
-			Nicolas Roduit
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Geneva</td>
-		<td>463</td>
-		<td>463</td>
+		<td>465</td>
+		<td>465</td>
 	</tr>
 	<tr>
 		<td>338</td>
@@ -5184,8 +5184,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@mdpi </td>
 		<td>No Twitter Username</td>
 		<td>Basel</td>
-		<td>214</td>
-		<td>397</td>
+		<td>215</td>
+		<td>398</td>
 	</tr>
 	<tr>
 		<td>364</td>
@@ -5254,8 +5254,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@painless-software  </td>
 		<td><a href="https://twitter.com/peterbittner">peterbittner</a></td>
 		<td>Kreuzlingen, Switzerland</td>
+		<td>383</td>
 		<td>384</td>
-		<td>385</td>
 	</tr>
 	<tr>
 		<td>369</td>
@@ -5526,6 +5526,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>388</td>
 		<td>
+			<a href="https://github.com/schmidsi">
+				<img src="https://avatars.githubusercontent.com/u/103280?s=72&u=77faaad95c5f0f1af815e2e46438c0ceb3945031&v=4" width="24" alt="Avatar of schmidsi"> schmidsi
+			</a><br/>
+			Simon Emanuel Schmid
+		</td>
+		<td>@edgeandnode </td>
+		<td><a href="https://twitter.com/schmid_si">schmid_si</a></td>
+		<td>Zürich</td>
+		<td>189</td>
+		<td>339</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
 			<a href="https://github.com/NeilFraser">
 				<img src="https://avatars.githubusercontent.com/u/250480?s=72&u=7320e4747ad3199ab7670a7d06831b6a6e94317d&v=4" width="24" alt="Avatar of NeilFraser"> NeilFraser
 			</a><br/>
@@ -5535,20 +5549,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Switzerland</td>
 		<td>338</td>
-		<td>338</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
-			<a href="https://github.com/schmidsi">
-				<img src="https://avatars.githubusercontent.com/u/103280?s=72&u=77faaad95c5f0f1af815e2e46438c0ceb3945031&v=4" width="24" alt="Avatar of schmidsi"> schmidsi
-			</a><br/>
-			Simon Emanuel Schmid
-		</td>
-		<td>@edgeandnode </td>
-		<td><a href="https://twitter.com/schmid_si">schmid_si</a></td>
-		<td>Zürich</td>
-		<td>188</td>
 		<td>338</td>
 	</tr>
 	<tr>
@@ -5562,8 +5562,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>@dfinity </td>
 		<td><a href="https://twitter.com/domiwoe">domiwoe</a></td>
 		<td>Zurich, Switzerland</td>
-		<td>323</td>
-		<td>335</td>
+		<td>325</td>
+		<td>337</td>
 	</tr>
 	<tr>
 		<td>391</td>
@@ -5638,6 +5638,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>396</td>
 		<td>
+			<a href="https://github.com/mschrimpf">
+				<img src="https://avatars.githubusercontent.com/u/5308236?s=72&u=b178de2bfb7d8973d010e979b1b91a477776473f&v=4" width="24" alt="Avatar of mschrimpf"> mschrimpf
+			</a><br/>
+			Martin Schrimpf
+		</td>
+		<td>@epfl </td>
+		<td>No Twitter Username</td>
+		<td>Lausanne, Switzerland</td>
+		<td>257</td>
+		<td>324</td>
+	</tr>
+	<tr>
+		<td>397</td>
+		<td>
 			<a href="https://github.com/misto">
 				<img src="https://avatars.githubusercontent.com/u/2111?s=72&u=8cc71f050a5921426291e7d98028180def006cfc&v=4" width="24" alt="Avatar of misto"> misto
 			</a><br/>
@@ -5648,20 +5662,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>29</td>
 		<td>324</td>
-	</tr>
-	<tr>
-		<td>397</td>
-		<td>
-			<a href="https://github.com/mschrimpf">
-				<img src="https://avatars.githubusercontent.com/u/5308236?s=72&u=b178de2bfb7d8973d010e979b1b91a477776473f&v=4" width="24" alt="Avatar of mschrimpf"> mschrimpf
-			</a><br/>
-			Martin Schrimpf
-		</td>
-		<td>@epfl </td>
-		<td>No Twitter Username</td>
-		<td>Lausanne, Switzerland</td>
-		<td>256</td>
-		<td>323</td>
 	</tr>
 	<tr>
 		<td>398</td>
@@ -5876,6 +5876,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>413</td>
 		<td>
+			<a href="https://github.com/bachp">
+				<img src="https://avatars.githubusercontent.com/u/333807?s=72&v=4" width="24" alt="Avatar of bachp"> bachp
+			</a><br/>
+			Pascal Bach
+		</td>
+		<td>@siemens  </td>
+		<td>No Twitter Username</td>
+		<td>Zürich, Switzerland</td>
+		<td>288</td>
+		<td>288</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
 			<a href="https://github.com/system123">
 				<img src="https://avatars.githubusercontent.com/u/91509?s=72&u=27c30b001318d3edf11f4f8e5b64fa0b015be740&v=4" width="24" alt="Avatar of system123"> system123
 			</a><br/>
@@ -5888,7 +5902,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>288</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/htqin">
 				<img src="https://avatars.githubusercontent.com/u/24933988?s=72&u=850085b02e2d303f265423b850ce11e180c0850f&v=4" width="24" alt="Avatar of htqin"> htqin
@@ -5899,20 +5913,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/qin_haotong">qin_haotong</a></td>
 		<td>Zürich, Switzerland</td>
 		<td>112</td>
-		<td>287</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/bachp">
-				<img src="https://avatars.githubusercontent.com/u/333807?s=72&v=4" width="24" alt="Avatar of bachp"> bachp
-			</a><br/>
-			Pascal Bach
-		</td>
-		<td>@siemens  </td>
-		<td>No Twitter Username</td>
-		<td>Zürich, Switzerland</td>
-		<td>287</td>
 		<td>287</td>
 	</tr>
 	<tr>
@@ -6318,8 +6318,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>My Own Consultancy </td>
 		<td>No Twitter Username</td>
 		<td>Zürich</td>
-		<td>234</td>
-		<td>234</td>
+		<td>235</td>
+		<td>235</td>
 	</tr>
 	<tr>
 		<td>445</td>
@@ -6366,6 +6366,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>448</td>
 		<td>
+			<a href="https://github.com/stes">
+				<img src="https://avatars.githubusercontent.com/u/727984?s=72&u=170ae726af0e761612c55535ab809c9e194f9fc5&v=4" width="24" alt="Avatar of stes"> stes
+			</a><br/>
+			Steffen Schneider
+		</td>
+		<td>@bethgelab @adaptivemotorcontro @ki-macht-schule <br/></td>
+		<td><a href="https://twitter.com/stes_io">stes_io</a></td>
+		<td>Geneva / Tuebingen</td>
+		<td>231</td>
+		<td>231</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
 			<a href="https://github.com/visiongeist">
 				<img src="https://avatars.githubusercontent.com/u/1744831?s=72&v=4" width="24" alt="Avatar of visiongeist"> visiongeist
 			</a><br/>
@@ -6376,20 +6390,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>6</td>
 		<td>231</td>
-	</tr>
-	<tr>
-		<td>449</td>
-		<td>
-			<a href="https://github.com/stes">
-				<img src="https://avatars.githubusercontent.com/u/727984?s=72&u=170ae726af0e761612c55535ab809c9e194f9fc5&v=4" width="24" alt="Avatar of stes"> stes
-			</a><br/>
-			Steffen Schneider
-		</td>
-		<td>@bethgelab @adaptivemotorcontro @ki-macht-schule <br/></td>
-		<td><a href="https://twitter.com/stes_io">stes_io</a></td>
-		<td>Geneva / Tuebingen</td>
-		<td>230</td>
-		<td>230</td>
 	</tr>
 	<tr>
 		<td>450</td>
@@ -6548,6 +6548,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>461</td>
 		<td>
+			<a href="https://github.com/davidgfnet">
+				<img src="https://avatars.githubusercontent.com/u/3145339?s=72&v=4" width="24" alt="Avatar of davidgfnet"> davidgfnet
+			</a><br/>
+			David G. F.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>126</td>
+		<td>209</td>
+	</tr>
+	<tr>
+		<td>462</td>
+		<td>
 			<a href="https://github.com/wasadigi">
 				<img src="https://avatars.githubusercontent.com/u/1152779?s=72&v=4" width="24" alt="Avatar of wasadigi"> wasadigi
 			</a><br/>
@@ -6558,20 +6572,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>209</td>
 		<td>209</td>
-	</tr>
-	<tr>
-		<td>462</td>
-		<td>
-			<a href="https://github.com/davidgfnet">
-				<img src="https://avatars.githubusercontent.com/u/3145339?s=72&v=4" width="24" alt="Avatar of davidgfnet"> davidgfnet
-			</a><br/>
-			David G. F.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>125</td>
-		<td>208</td>
 	</tr>
 	<tr>
 		<td>463</td>
@@ -6702,6 +6702,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>472</td>
 		<td>
+			<a href="https://github.com/attilaolah">
+				<img src="https://avatars.githubusercontent.com/u/196617?s=72&v=4" width="24" alt="Avatar of attilaolah"> attilaolah
+			</a><br/>
+			Attila Oláh
+		</td>
+		<td>@google </td>
+		<td><a href="https://twitter.com/attilaolah">attilaolah</a></td>
+		<td>Diesbach, Switzerland</td>
+		<td>195</td>
+		<td>196</td>
+	</tr>
+	<tr>
+		<td>473</td>
+		<td>
 			<a href="https://github.com/romeokienzler">
 				<img src="https://avatars.githubusercontent.com/u/5694071?s=72&u=56c331f11ba1477dd9ce2ba31a35c4a4bfe0aa2a&v=4" width="24" alt="Avatar of romeokienzler"> romeokienzler
 			</a><br/>
@@ -6714,7 +6728,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/xtaran">
 				<img src="https://avatars.githubusercontent.com/u/241094?s=72&u=979ca17f88204649dea1d3609f384c944d5f69ca&v=4" width="24" alt="Avatar of xtaran"> xtaran
@@ -6728,7 +6742,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/ParthS007">
 				<img src="https://avatars.githubusercontent.com/u/24358501?s=72&u=9ba2e47a16446c85658e1dc0d877f0cc78c96503&v=4" width="24" alt="Avatar of ParthS007"> ParthS007
@@ -6742,7 +6756,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/msoeken">
 				<img src="https://avatars.githubusercontent.com/u/1998245?s=72&u=81d6dd27db7d2a6a65b5241c680c6376c81b0a82&v=4" width="24" alt="Avatar of msoeken"> msoeken
@@ -6756,7 +6770,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>192</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/szegedi">
 				<img src="https://avatars.githubusercontent.com/u/122822?s=72&u=6f1f263e236610028813d24613f2e7e5c57e7264&v=4" width="24" alt="Avatar of szegedi"> szegedi
@@ -6767,20 +6781,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
 		<td>109</td>
-		<td>190</td>
-	</tr>
-	<tr>
-		<td>477</td>
-		<td>
-			<a href="https://github.com/attilaolah">
-				<img src="https://avatars.githubusercontent.com/u/196617?s=72&v=4" width="24" alt="Avatar of attilaolah"> attilaolah
-			</a><br/>
-			Attila Oláh
-		</td>
-		<td>@google </td>
-		<td><a href="https://twitter.com/attilaolah">attilaolah</a></td>
-		<td>Diesbach, Switzerland</td>
-		<td>189</td>
 		<td>190</td>
 	</tr>
 	<tr>
@@ -7046,8 +7046,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Aveniq </td>
 		<td>No Twitter Username</td>
 		<td>Zurich, Switzerland</td>
-		<td>139</td>
-		<td>169</td>
+		<td>140</td>
+		<td>170</td>
 	</tr>
 	<tr>
 		<td>497</td>
@@ -7173,7 +7173,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/MrMickyFR">MrMickyFR</a></td>
 		<td>Switzerland</td>
 		<td>113</td>
-		<td>153</td>
+		<td>154</td>
 	</tr>
 	<tr>
 		<td>506</td>
@@ -7752,6 +7752,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>547</td>
 		<td>
+			<a href="https://github.com/mnemocron">
+				<img src="https://avatars.githubusercontent.com/u/13417604?s=72&u=5cf1cd28169bf7964a12e8d721353ec12181b2d2&v=4" width="24" alt="Avatar of mnemocron"> mnemocron
+			</a><br/>
+			Simon Burkhardt
+		</td>
+		<td>@fhnw-ise-qcrypt / @eta-systems <br/></td>
+		<td>No Twitter Username</td>
+		<td>Solothurn, Switzerland</td>
+		<td>70</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>548</td>
+		<td>
 			<a href="https://github.com/hifiberry">
 				<img src="https://avatars.githubusercontent.com/u/8243622?s=72&u=c2e67cc94c06b92bb70a50bf31a10e858d56463d&v=4" width="24" alt="Avatar of hifiberry"> hifiberry
 			</a><br/>
@@ -7764,7 +7778,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>549</td>
 		<td>
 			<a href="https://github.com/larsgeb">
 				<img src="https://avatars.githubusercontent.com/u/21038893?s=72&u=ac36fd128e59029fd9406324deba5f3262bad2f9&v=4" width="24" alt="Avatar of larsgeb"> larsgeb
@@ -7778,7 +7792,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>550</td>
 		<td>
 			<a href="https://github.com/JuergenGutsch">
 				<img src="https://avatars.githubusercontent.com/u/365688?s=72&u=87ea09bdf16991c1b2748deb28109810fb4607c0&v=4" width="24" alt="Avatar of JuergenGutsch"> JuergenGutsch
@@ -7792,7 +7806,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a href="https://github.com/dvicini">
 				<img src="https://avatars.githubusercontent.com/u/5487532?s=72&u=7929b4c10e613b89b68c213dff9590b1b2cd4d01&v=4" width="24" alt="Avatar of dvicini"> dvicini
@@ -7806,7 +7820,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
 		<td>
 			<a href="https://github.com/aloiscochard">
 				<img src="https://avatars.githubusercontent.com/u/215476?s=72&u=1ff66916337fa3925a4a671dd80fc465552cb568&v=4" width="24" alt="Avatar of aloiscochard"> aloiscochard
@@ -7820,7 +7834,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/davidhalter">
 				<img src="https://avatars.githubusercontent.com/u/748594?s=72&v=4" width="24" alt="Avatar of davidhalter"> davidhalter
@@ -7834,7 +7848,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/lvandeve">
 				<img src="https://avatars.githubusercontent.com/u/4254201?s=72&v=4" width="24" alt="Avatar of lvandeve"> lvandeve
@@ -7848,7 +7862,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/baderj">
 				<img src="https://avatars.githubusercontent.com/u/5196024?s=72&u=1245ca5b94ecbcea8fd0192ec674be27750da9af&v=4" width="24" alt="Avatar of baderj"> baderj
@@ -7862,7 +7876,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/raducotescu">
 				<img src="https://avatars.githubusercontent.com/u/170911?s=72&u=665c1e6a701725b39faf750b415e14a5f410ddb9&v=4" width="24" alt="Avatar of raducotescu"> raducotescu
@@ -7876,7 +7890,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>557</td>
 		<td>
 			<a href="https://github.com/joelbarmettlerUZH">
 				<img src="https://avatars.githubusercontent.com/u/24369532?s=72&u=2145432896b5918136c32f86fd050c3f827616c0&v=4" width="24" alt="Avatar of joelbarmettlerUZH"> joelbarmettlerUZH
@@ -7890,7 +7904,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>558</td>
 		<td>
 			<a href="https://github.com/anar-rzayev">
 				<img src="https://avatars.githubusercontent.com/u/71382373?s=72&u=ab1b3e25ebdb6c25271d9228fec8dc9208bbcb53&v=4" width="24" alt="Avatar of anar-rzayev"> anar-rzayev
@@ -7904,7 +7918,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>559</td>
 		<td>
 			<a href="https://github.com/stakx">
 				<img src="https://avatars.githubusercontent.com/u/104481?s=72&u=e8df0e2754d8a4ea5e534a47be6ee2cca15cec32&v=4" width="24" alt="Avatar of stakx"> stakx
@@ -7916,20 +7930,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>109</td>
 		<td>109</td>
-	</tr>
-	<tr>
-		<td>559</td>
-		<td>
-			<a href="https://github.com/mnemocron">
-				<img src="https://avatars.githubusercontent.com/u/13417604?s=72&u=5cf1cd28169bf7964a12e8d721353ec12181b2d2&v=4" width="24" alt="Avatar of mnemocron"> mnemocron
-			</a><br/>
-			Simon Burkhardt
-		</td>
-		<td>@fhnw-ise-qcrypt / @eta-systems <br/></td>
-		<td>No Twitter Username</td>
-		<td>Solothurn, Switzerland</td>
-		<td>70</td>
-		<td>107</td>
 	</tr>
 	<tr>
 		<td>560</td>
@@ -7948,6 +7948,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>561</td>
 		<td>
+			<a href="https://github.com/yangycpku">
+				<img src="https://avatars.githubusercontent.com/u/16571711?s=72&v=4" width="24" alt="Avatar of yangycpku"> yangycpku
+			</a><br/>
+			Yucheng Yang
+		</td>
+		<td>University Of Zurich </td>
+		<td><a href="https://twitter.com/YuchengYang1993">YuchengYang1993</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>32</td>
+		<td>106</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
 			<a href="https://github.com/emanuelhuber">
 				<img src="https://avatars.githubusercontent.com/u/12541363?s=72&u=6867bf1ac3be94b112bcbff90e1c9bf28a99452a&v=4" width="24" alt="Avatar of emanuelhuber"> emanuelhuber
 			</a><br/>
@@ -7958,20 +7972,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Switzerland</td>
 		<td>103</td>
 		<td>106</td>
-	</tr>
-	<tr>
-		<td>562</td>
-		<td>
-			<a href="https://github.com/yangycpku">
-				<img src="https://avatars.githubusercontent.com/u/16571711?s=72&v=4" width="24" alt="Avatar of yangycpku"> yangycpku
-			</a><br/>
-			Yucheng Yang
-		</td>
-		<td>University Of Zurich </td>
-		<td><a href="https://twitter.com/YuchengYang1993">YuchengYang1993</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>32</td>
-		<td>105</td>
 	</tr>
 	<tr>
 		<td>563</td>
@@ -8186,6 +8186,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>578</td>
 		<td>
+			<a href="https://github.com/deshipu">
+				<img src="https://avatars.githubusercontent.com/u/1181357?s=72&v=4" width="24" alt="Avatar of deshipu"> deshipu
+			</a><br/>
+			Radomir Dopieralski
+		</td>
+		<td>Red Hat </td>
+		<td>No Twitter Username</td>
+		<td>Zürich</td>
+		<td>91</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>579</td>
+		<td>
 			<a href="https://github.com/simonaco">
 				<img src="https://avatars.githubusercontent.com/u/1573904?s=72&u=4e610237f2474069c2bfb512b6a2472209bf0d47&v=4" width="24" alt="Avatar of simonaco"> simonaco
 			</a><br/>
@@ -8198,7 +8212,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/mattdf">
 				<img src="https://avatars.githubusercontent.com/u/11067114?s=72&u=df10f9897171543d66efd98f90598d467f8ef2a5&v=4" width="24" alt="Avatar of mattdf"> mattdf
@@ -8209,20 +8223,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/matthewdif">matthewdif</a></td>
 		<td>Switzerland</td>
 		<td>18</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>580</td>
-		<td>
-			<a href="https://github.com/deshipu">
-				<img src="https://avatars.githubusercontent.com/u/1181357?s=72&v=4" width="24" alt="Avatar of deshipu"> deshipu
-			</a><br/>
-			Radomir Dopieralski
-		</td>
-		<td>Red Hat </td>
-		<td>No Twitter Username</td>
-		<td>Zürich</td>
-		<td>90</td>
 		<td>90</td>
 	</tr>
 	<tr>
@@ -8550,6 +8550,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>604</td>
 		<td>
+			<a href="https://github.com/zhendongsu">
+				<img src="https://avatars.githubusercontent.com/u/5873220?s=72&u=4534d287a43df845afb053fb86b705dc688ef141&v=4" width="24" alt="Avatar of zhendongsu"> zhendongsu
+			</a><br/>
+			Zhendong Su
+		</td>
+		<td>Eth Zurich </td>
+		<td><a href="https://twitter.com/zhendongsu">zhendongsu</a></td>
+		<td>Zurich, Switzerland</td>
+		<td>74</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>605</td>
+		<td>
 			<a href="https://github.com/gnebehay">
 				<img src="https://avatars.githubusercontent.com/u/756433?s=72&u=785d5ed68fa0ab2b404112c5f1f2e0c45d008230&v=4" width="24" alt="Avatar of gnebehay"> gnebehay
 			</a><br/>
@@ -8559,20 +8573,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Zürich, Switzerland</td>
 		<td>8</td>
-		<td>73</td>
-	</tr>
-	<tr>
-		<td>605</td>
-		<td>
-			<a href="https://github.com/zhendongsu">
-				<img src="https://avatars.githubusercontent.com/u/5873220?s=72&u=4534d287a43df845afb053fb86b705dc688ef141&v=4" width="24" alt="Avatar of zhendongsu"> zhendongsu
-			</a><br/>
-			Zhendong Su
-		</td>
-		<td>Eth Zurich </td>
-		<td><a href="https://twitter.com/zhendongsu">zhendongsu</a></td>
-		<td>Zurich, Switzerland</td>
-		<td>73</td>
 		<td>73</td>
 	</tr>
 	<tr>
@@ -8698,8 +8698,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Epfl - Computational Quantum<br/>Science<br/>Lab<br/></td>
 		<td>No Twitter Username</td>
 		<td>Lausanne, Switzerland </td>
-		<td>66</td>
-		<td>66</td>
+		<td>67</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>615</td>
@@ -8712,8 +8712,8 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Google </td>
 		<td><a href="https://twitter.com/newsoft">newsoft</a></td>
 		<td>Zürich, Switzerland</td>
-		<td>65</td>
-		<td>65</td>
+		<td>66</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>616</td>
@@ -8900,6 +8900,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>629</td>
 		<td>
+			<a href="https://github.com/jeffallen">
+				<img src="https://avatars.githubusercontent.com/u/1131456?s=72&u=07e54a082588cdc7e914f28f8ff4f18d89775a5a&v=4" width="24" alt="Avatar of jeffallen"> jeffallen
+			</a><br/>
+			Jeff Allen
+		</td>
+		<td>Pie Aeronefs Sa </td>
+		<td>No Twitter Username</td>
+		<td>La Sarraz, Switzerland</td>
+		<td>43</td>
+		<td>54</td>
+	</tr>
+	<tr>
+		<td>630</td>
+		<td>
 			<a href="https://github.com/brutasse">
 				<img src="https://avatars.githubusercontent.com/u/31269?s=72&v=4" width="24" alt="Avatar of brutasse"> brutasse
 			</a><br/>
@@ -8912,7 +8926,7 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/ThomasKur">
 				<img src="https://avatars.githubusercontent.com/u/16786269?s=72&u=a7761394f3949d1c575982ed8b7653b7b6278925&v=4" width="24" alt="Avatar of ThomasKur"> ThomasKur
@@ -8923,20 +8937,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td><a href="https://twitter.com/ThomasKurth_ch">ThomasKurth_ch</a></td>
 		<td>Switzerland</td>
 		<td>52</td>
-		<td>52</td>
-	</tr>
-	<tr>
-		<td>631</td>
-		<td>
-			<a href="https://github.com/jeffallen">
-				<img src="https://avatars.githubusercontent.com/u/1131456?s=72&u=07e54a082588cdc7e914f28f8ff4f18d89775a5a&v=4" width="24" alt="Avatar of jeffallen"> jeffallen
-			</a><br/>
-			Jeff Allen
-		</td>
-		<td>Pie Aeronefs Sa </td>
-		<td>No Twitter Username</td>
-		<td>La Sarraz, Switzerland</td>
-		<td>41</td>
 		<td>52</td>
 	</tr>
 	<tr>
@@ -9334,6 +9334,20 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 	<tr>
 		<td>660</td>
 		<td>
+			<a href="https://github.com/fzenke">
+				<img src="https://avatars.githubusercontent.com/u/5672284?s=72&u=a2e1cf54927ca093007b1504b07bb080268083ba&v=4" width="24" alt="Avatar of fzenke"> fzenke
+			</a><br/>
+			Friedemann Zenke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Basel, Switzerland</td>
+		<td>42</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>661</td>
+		<td>
 			<a href="https://github.com/bford">
 				<img src="https://avatars.githubusercontent.com/u/1106207?s=72&u=c472603ffb67c012255d1cde8b429db5acd385a3&v=4" width="24" alt="Avatar of bford"> bford
 			</a><br/>
@@ -9344,20 +9358,6 @@ There are `905 users`  in Switzerland. You need at least `72 followers` to be on
 		<td>Lausanne, Switzerland</td>
 		<td>42</td>
 		<td>42</td>
-	</tr>
-	<tr>
-		<td>661</td>
-		<td>
-			<a href="https://github.com/fzenke">
-				<img src="https://avatars.githubusercontent.com/u/5672284?s=72&u=a2e1cf54927ca093007b1504b07bb080268083ba&v=4" width="24" alt="Avatar of fzenke"> fzenke
-			</a><br/>
-			Friedemann Zenke
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Basel, Switzerland</td>
-		<td>41</td>
-		<td>41</td>
 	</tr>
 	<tr>
 		<td>662</td>
