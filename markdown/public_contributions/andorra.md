@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2023/10/28 4:30 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2023/10/28 10:15 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `308 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Pencil, Itamaesan & Superdata<br/></td>
 		<td><a href="https://twitter.com/miguelgargallo">miguelgargallo</a></td>
 		<td>Andorra, Andorra La Vella</td>
-		<td>3011</td>
+		<td>3024</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `308 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2stable </td>
 		<td><a href="https://twitter.com/i40504">i40504</a></td>
 		<td>Andorra</td>
-		<td>1684</td>
+		<td>1686</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `308 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>@leather-wallet </td>
 		<td><a href="https://twitter.com/kyranjamie">kyranjamie</a></td>
 		<td>Andorra</td>
-		<td>1504</td>
+		<td>1526</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -258,7 +258,7 @@ There are `308 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra & Madrid (Spain)</td>
-		<td>311</td>
+		<td>308</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -1550,19 +1550,6 @@ There are `308 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>112</td>
 		<td>
-			<a href="https://github.com/abbatepabloo">
-				<img src="https://avatars.githubusercontent.com/u/33328600?s=72&u=ddd4d8a2a77527603ae844e7901ca2c3b2b13dd2&v=4" width="24" alt="Avatar of abbatepabloo"> abbatepabloo
-			</a><br/>
-			Pablo Abbate
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra La Vella</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
 			<a href="https://github.com/julietafq">
 				<img src="https://avatars.githubusercontent.com/u/147579845?s=72&u=c6a7c677ecc034f0c55d4ca379fe15bc0d4b9e10&v=4" width="24" alt="Avatar of julietafq"> julietafq
 			</a><br/>
@@ -1571,6 +1558,19 @@ There are `308 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Nuvoltic </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/abbatepabloo">
+				<img src="https://avatars.githubusercontent.com/u/33328600?s=72&u=ddd4d8a2a77527603ae844e7901ca2c3b2b13dd2&v=4" width="24" alt="Avatar of abbatepabloo"> abbatepabloo
+			</a><br/>
+			Pablo Abbate
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra La Vella</td>
 		<td>3</td>
 	</tr>
 	<tr>
