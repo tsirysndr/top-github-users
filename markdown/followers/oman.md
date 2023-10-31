@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" alt="Oman">
 </a>
 
-The `number of followers` of users in Oman on `2023/10/30 9:15 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
+The `number of followers` of users in Oman on `2023/10/31 3:13 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2271,7 +2271,7 @@ There are `935 users`  in Oman. You need at least `0 followers` to be on this li
 			Abdullah Al Shibli
 		</td>
 		<td>No Company</td>
-		<td><a href="https://twitter.com/hala_code">hala_code</a></td>
+		<td><a href="https://twitter.com/_0coder">_0coder</a></td>
 		<td>Oman, Muscat</td>
 		<td>3</td>
 	</tr>
@@ -3214,19 +3214,6 @@ There are `935 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>240</td>
 		<td>
-			<a href="https://github.com/cemanu445">
-				<img src="https://avatars.githubusercontent.com/u/43890465?s=72&v=4" width="24" alt="Avatar of cemanu445"> cemanu445
-			</a><br/>
-			Manu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Muscat, Oman</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>241</td>
-		<td>
 			<a href="https://github.com/asmaAL-Bahanta">
 				<img src="https://avatars.githubusercontent.com/u/14972043?s=72&v=4" width="24" alt="Avatar of asmaAL-Bahanta"> asmaAL-Bahanta
 			</a><br/>
@@ -3235,6 +3222,19 @@ There are `935 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oman, Muscat</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>241</td>
+		<td>
+			<a href="https://github.com/cemanu445">
+				<img src="https://avatars.githubusercontent.com/u/43890465?s=72&v=4" width="24" alt="Avatar of cemanu445"> cemanu445
+			</a><br/>
+			Manu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Muscat, Oman</td>
 		<td>1</td>
 	</tr>
 	<tr>
