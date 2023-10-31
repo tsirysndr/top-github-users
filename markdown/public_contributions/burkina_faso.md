@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `public contributions` by users in Burkina Faso on `2023/10/30 11:34 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `public contributions` by users in Burkina Faso on `2023/10/31 5:42 AM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -323,7 +323,7 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Burkina Faso , Ouagadougou</td>
-		<td>75</td>
+		<td>83</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -1186,19 +1186,6 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>84</td>
 		<td>
-			<a href="https://github.com/Magny399">
-				<img src="https://avatars.githubusercontent.com/u/134140972?s=72&v=4" width="24" alt="Avatar of Magny399"> Magny399
-			</a><br/>
-			Marcel Lankoande
-		</td>
-		<td>Ouagadougou </td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
 			<a href="https://github.com/bisonfutee">
 				<img src="https://avatars.githubusercontent.com/u/87429547?s=72&v=4" width="24" alt="Avatar of bisonfutee"> bisonfutee
 			</a><br/>
@@ -1207,6 +1194,19 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Bison Dev </td>
 		<td>No Twitter Username</td>
 		<td>Ouagadougou, Burkina Faso</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
+			<a href="https://github.com/Magny399">
+				<img src="https://avatars.githubusercontent.com/u/134140972?s=72&v=4" width="24" alt="Avatar of Magny399"> Magny399
+			</a><br/>
+			Marcel Lankoande
+		</td>
+		<td>Ouagadougou </td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -1264,19 +1264,6 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>90</td>
 		<td>
-			<a href="https://github.com/Amedeo122">
-				<img src="https://avatars.githubusercontent.com/u/126950035?s=72&v=4" width="24" alt="Avatar of Amedeo122"> Amedeo122
-			</a><br/>
-			Amedeo122
-		</td>
-		<td>Windows </td>
-		<td>No Twitter Username</td>
-		<td>ouagadougou</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
 			<a href="https://github.com/Kaboredavid">
 				<img src="https://avatars.githubusercontent.com/u/122521993?s=72&v=4" width="24" alt="Avatar of Kaboredavid"> Kaboredavid
 			</a><br/>
@@ -1285,6 +1272,19 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Fashion  </td>
 		<td><a href="https://twitter.com/Kaboredavid">Kaboredavid</a></td>
 		<td>Koudougou </td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/Amedeo122">
+				<img src="https://avatars.githubusercontent.com/u/126950035?s=72&v=4" width="24" alt="Avatar of Amedeo122"> Amedeo122
+			</a><br/>
+			Amedeo122
+		</td>
+		<td>Windows </td>
+		<td>No Twitter Username</td>
+		<td>ouagadougou</td>
 		<td>3</td>
 	</tr>
 	<tr>
@@ -1420,19 +1420,6 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>102</td>
 		<td>
-			<a href="https://github.com/Basilebanissi">
-				<img src="https://avatars.githubusercontent.com/u/88192112?s=72&u=3d00e329e1d6a463bd0e7321fa3a9939a20ed9e0&v=4" width="24" alt="Avatar of Basilebanissi"> Basilebanissi
-			</a><br/>
-			Banissi Basile
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/batuta_banissi">batuta_banissi</a></td>
-		<td>Burkina Faso, Ouagadougou</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
 			<a href="https://github.com/AKOUNDA">
 				<img src="https://avatars.githubusercontent.com/u/84333257?s=72&v=4" width="24" alt="Avatar of AKOUNDA"> AKOUNDA
 			</a><br/>
@@ -1441,6 +1428,19 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>Norbert Zongo University </td>
 		<td><a href="https://twitter.com/CESIG2023">CESIG2023</a></td>
 		<td>Koudougou, Burkina Faso</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a href="https://github.com/Basilebanissi">
+				<img src="https://avatars.githubusercontent.com/u/88192112?s=72&u=3d00e329e1d6a463bd0e7321fa3a9939a20ed9e0&v=4" width="24" alt="Avatar of Basilebanissi"> Basilebanissi
+			</a><br/>
+			Banissi Basile
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/batuta_banissi">batuta_banissi</a></td>
+		<td>Burkina Faso, Ouagadougou</td>
 		<td>2</td>
 	</tr>
 	<tr>
