@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" alt="Sudan">
 </a>
 
-The `number of followers` of users in Sudan on `2023/10/31 6:33 PM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
+The `number of followers` of users in Sudan on `2023/11/1 12:23 PM UTC`. This list contains users from `Sudan` and cities `Khartoum` `Omdurman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `936 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>Circlescommunity </td>
 		<td><a href="https://twitter.com/monzersmiledev">monzersmiledev</a></td>
 		<td>Sudan</td>
-		<td>252</td>
+		<td>253</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -219,7 +219,7 @@ There are `936 users`  in Sudan. You need at least `0 followers` to be on this l
 		<td>Ok Tamam Group </td>
 		<td>No Twitter Username</td>
 		<td>Sudan</td>
-		<td>72</td>
+		<td>71</td>
 	</tr>
 	<tr>
 		<td>10</td>
