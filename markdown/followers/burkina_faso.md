@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg" alt="Burkina Faso">
 </a>
 
-The `number of followers` of users in Burkina Faso on `2023/10/31 11:40 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
+The `number of followers` of users in Burkina Faso on `2023/11/1 5:31 PM UTC`. This list contains users from `Burkina Faso` and cities `Ouagadougou` `Bobo-dioulasso` `Koudougou` `Banfora` `Ouahigouya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -705,19 +705,6 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 	<tr>
 		<td>47</td>
 		<td>
-			<a href="https://github.com/MimboureYara">
-				<img src="https://avatars.githubusercontent.com/u/86371554?s=72&u=54891ad50ad85771c3c5bdee05a8c53ba50c4819&v=4" width="24" alt="Avatar of MimboureYara"> MimboureYara
-			</a><br/>
-			Mimbouré Yara
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ouagadougou</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>
 			<a href="https://github.com/enokby">
 				<img src="https://avatars.githubusercontent.com/u/5192802?s=72&u=44b0819008d28878cd6a86e3d1b99f73a541e1bf&v=4" width="24" alt="Avatar of enokby"> enokby
 			</a><br/>
@@ -726,6 +713,19 @@ There are `298 users`  in Burkina Faso. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/enokby">enokby</a></td>
 		<td>Ouagadougou, Burkina Faso</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td>
+			<a href="https://github.com/MimboureYara">
+				<img src="https://avatars.githubusercontent.com/u/86371554?s=72&u=54891ad50ad85771c3c5bdee05a8c53ba50c4819&v=4" width="24" alt="Avatar of MimboureYara"> MimboureYara
+			</a><br/>
+			Mimbouré Yara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ouagadougou</td>
 		<td>3</td>
 	</tr>
 	<tr>
