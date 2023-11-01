@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` by users in Chad on `2023/10/31 6:12 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` by users in Chad on `2023/11/1 12:10 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -159,25 +159,25 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>5</td>
 		<td>
-			<a href="https://github.com/MikkMaltis">
-				<img src="https://avatars.githubusercontent.com/u/112690779?s=72&u=b20db8ac146d9bb8b80cc0ed6c6c27e6f39639d1&v=4" width="24" alt="Avatar of MikkMaltis"> MikkMaltis
-			</a><br/>
-			Mikk Maltis
-		</td>
-		<td>Studying </td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
-		<td>174</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>
 			<a href="https://github.com/malachieborohoul">
 				<img src="https://avatars.githubusercontent.com/u/80067657?s=72&u=d5927aa1298229296a7b4cba80f50c69735f3189&v=4" width="24" alt="Avatar of malachieborohoul"> malachieborohoul
 			</a><br/>
 			BOROHOUL Soguelni Malachie
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>186</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>
+			<a href="https://github.com/MikkMaltis">
+				<img src="https://avatars.githubusercontent.com/u/112690779?s=72&u=b20db8ac146d9bb8b80cc0ed6c6c27e6f39639d1&v=4" width="24" alt="Avatar of MikkMaltis"> MikkMaltis
+			</a><br/>
+			Mikk Maltis
+		</td>
+		<td>Studying </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>174</td>
@@ -297,7 +297,7 @@ There are `126 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Gplus </td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>32</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>16</td>
