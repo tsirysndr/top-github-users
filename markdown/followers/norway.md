@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" alt="Norway">
 </a>
 
-The `number of followers` of users in Norway on `2023/10/31 3:05 PM UTC`. This list contains users from `Norway` and cities `Oslo` `Bergen` `Trondheim` `Stavanger`.
+The `number of followers` of users in Norway on `2023/11/1 8:58 AM UTC`. This list contains users from `Norway` and cities `Oslo` `Bergen` `Trondheim` `Stavanger`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@helsing-ai </td>
 		<td><a href="https://twitter.com/jonhoo">jonhoo</a></td>
 		<td>Oslo, Norway</td>
-		<td>9852</td>
+		<td>9855</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Weekly.tf + Modules.tf +<br/>Serverless.tf<br/></td>
 		<td><a href="https://twitter.com/antonbabenko">antonbabenko</a></td>
 		<td>Oslo, Norway</td>
-		<td>4234</td>
+		<td>4235</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -206,7 +206,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@nowsecure </td>
 		<td><a href="https://twitter.com/oleavr">oleavr</a></td>
 		<td>Stavanger, Norway</td>
-		<td>1489</td>
+		<td>1491</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -245,7 +245,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Freelance </td>
 		<td><a href="https://twitter.com/mifi_no">mifi_no</a></td>
 		<td>Norway</td>
-		<td>1230</td>
+		<td>1231</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Simula Research Laboratory </td>
 		<td>No Twitter Username</td>
 		<td>Oslo, Norway</td>
-		<td>1201</td>
+		<td>1202</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -297,7 +297,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@vercel </td>
 		<td><a href="https://twitter.com/balazsorban44">balazsorban44</a></td>
 		<td>Oslo, Norway</td>
-		<td>1070</td>
+		<td>1071</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -310,7 +310,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@javalin </td>
 		<td>No Twitter Username</td>
 		<td>Trondheim, Norway</td>
-		<td>1041</td>
+		<td>1040</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -349,7 +349,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mhadaily">mhadaily</a></td>
 		<td>Oslo, Norway</td>
-		<td>984</td>
+		<td>987</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -388,7 +388,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@equinor  </td>
 		<td>No Twitter Username</td>
 		<td>Bergen, Norway</td>
-		<td>834</td>
+		<td>833</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -401,7 +401,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Simula Research Laboratory And<br/>University<br/>Of<br/>Oslo<br/></td>
 		<td>No Twitter Username</td>
 		<td>Oslo, Norway</td>
-		<td>801</td>
+		<td>802</td>
 	</tr>
 	<tr>
 		<td>24</td>
@@ -453,7 +453,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@scrimba </td>
 		<td><a href="https://twitter.com/sindreaars">sindreaars</a></td>
 		<td>Oslo, Norway</td>
-		<td>710</td>
+		<td>712</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -492,7 +492,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/brettkromkamp">brettkromkamp</a></td>
 		<td>Norway</td>
-		<td>668</td>
+		<td>667</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -536,6 +536,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>34</td>
 		<td>
+			<a href="https://github.com/zenangst">
+				<img src="https://avatars.githubusercontent.com/u/57446?s=72&u=0232ee7d9a4b5e0558d0c9b2fd47318213104d04&v=4" width="24" alt="Avatar of zenangst"> zenangst
+			</a><br/>
+			Christoffer Winterkvist
+		</td>
+		<td>@finkoslo </td>
+		<td><a href="https://twitter.com/zenangst">zenangst</a></td>
+		<td>Oslo, Norway</td>
+		<td>596</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
 			<a href="https://github.com/Themaister">
 				<img src="https://avatars.githubusercontent.com/u/163683?s=72&u=02fd237b75a36e31415c0987a32533e7705bbc98&v=4" width="24" alt="Avatar of Themaister"> Themaister
 			</a><br/>
@@ -545,19 +558,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Trondheim, Norway</td>
 		<td>596</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
-			<a href="https://github.com/zenangst">
-				<img src="https://avatars.githubusercontent.com/u/57446?s=72&u=0232ee7d9a4b5e0558d0c9b2fd47318213104d04&v=4" width="24" alt="Avatar of zenangst"> zenangst
-			</a><br/>
-			Christoffer Winterkvist
-		</td>
-		<td>@finkoslo </td>
-		<td><a href="https://twitter.com/zenangst">zenangst</a></td>
-		<td>Oslo, Norway</td>
-		<td>595</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -596,7 +596,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Arntzen Software As </td>
 		<td>No Twitter Username</td>
 		<td>Trondheim, Norway</td>
-		<td>589</td>
+		<td>588</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -765,7 +765,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/xyproto">xyproto</a></td>
 		<td>Oslo</td>
-		<td>448</td>
+		<td>449</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -778,7 +778,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Fram X </td>
 		<td><a href="https://twitter.com/chrfalch">chrfalch</a></td>
 		<td>Norway</td>
-		<td>431</td>
+		<td>432</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -830,7 +830,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@akerbp </td>
 		<td><a href="https://twitter.com/porestar">porestar</a></td>
 		<td>Stavanger, Norway</td>
-		<td>404</td>
+		<td>405</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -973,7 +973,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/eried">eried</a></td>
 		<td>Norway</td>
-		<td>327</td>
+		<td>328</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1043,19 +1043,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/coderbyheart">
-				<img src="https://avatars.githubusercontent.com/u/188915?s=72&v=4" width="24" alt="Avatar of coderbyheart"> coderbyheart
-			</a><br/>
-			Markus Tacker
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Trondheim, Norway</td>
-		<td>300</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
 			<a href="https://github.com/Starefossen">
 				<img src="https://avatars.githubusercontent.com/u/968267?s=72&u=a9f13701f2d6a38d24ff51d889d89d37eb80ab44&v=4" width="24" alt="Avatar of Starefossen"> Starefossen
 			</a><br/>
@@ -1064,6 +1051,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@nais @navikt </td>
 		<td>No Twitter Username</td>
 		<td>Bergen, Norway</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
+			<a href="https://github.com/coderbyheart">
+				<img src="https://avatars.githubusercontent.com/u/188915?s=72&v=4" width="24" alt="Avatar of coderbyheart"> coderbyheart
+			</a><br/>
+			Markus Tacker
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Trondheim, Norway</td>
 		<td>300</td>
 	</tr>
 	<tr>
@@ -1303,6 +1303,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>93</td>
 		<td>
+			<a href="https://github.com/chaosprint">
+				<img src="https://avatars.githubusercontent.com/u/35621141?s=72&u=d34c143fff8437b24a213287e26b4cdac47146ed&v=4" width="24" alt="Avatar of chaosprint"> chaosprint
+			</a><br/>
+			Qichao Lan
+		</td>
+		<td>Https://glicol.org </td>
+		<td><a href="https://twitter.com/chaosprint">chaosprint</a></td>
+		<td>University of Oslo</td>
+		<td>263</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
 			<a href="https://github.com/tobiasvl">
 				<img src="https://avatars.githubusercontent.com/u/80824?s=72&v=4" width="24" alt="Avatar of tobiasvl"> tobiasvl
 			</a><br/>
@@ -1314,7 +1327,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>263</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/hansjny">
 				<img src="https://avatars.githubusercontent.com/u/3218059?s=72&u=74e9f09577b35486c8cea8628f1827efcae747dd&v=4" width="24" alt="Avatar of hansjny"> hansjny
@@ -1325,19 +1338,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Oslo</td>
 		<td>263</td>
-	</tr>
-	<tr>
-		<td>95</td>
-		<td>
-			<a href="https://github.com/chaosprint">
-				<img src="https://avatars.githubusercontent.com/u/35621141?s=72&u=d34c143fff8437b24a213287e26b4cdac47146ed&v=4" width="24" alt="Avatar of chaosprint"> chaosprint
-			</a><br/>
-			Qichao Lan
-		</td>
-		<td>Https://glicol.org </td>
-		<td><a href="https://twitter.com/chaosprint">chaosprint</a></td>
-		<td>University of Oslo</td>
-		<td>262</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1732,19 +1732,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>126</td>
 		<td>
-			<a href="https://github.com/tido64">
-				<img src="https://avatars.githubusercontent.com/u/4123478?s=72&v=4" width="24" alt="Avatar of tido64"> tido64
-			</a><br/>
-			Tommy Nguyen
-		</td>
-		<td>@microsoft  </td>
-		<td>No Twitter Username</td>
-		<td>Oslo, Norway</td>
-		<td>212</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
 			<a href="https://github.com/domenicosolazzo">
 				<img src="https://avatars.githubusercontent.com/u/387012?s=72&u=e36158036ab36b9b6115bfe2eb0f554b6395ac60&v=4" width="24" alt="Avatar of domenicosolazzo"> domenicosolazzo
 			</a><br/>
@@ -1753,6 +1740,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/domenicosolazzo">domenicosolazzo</a></td>
 		<td>Oslo</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/tido64">
+				<img src="https://avatars.githubusercontent.com/u/4123478?s=72&v=4" width="24" alt="Avatar of tido64"> tido64
+			</a><br/>
+			Tommy Nguyen
+		</td>
+		<td>@microsoft  </td>
+		<td>No Twitter Username</td>
+		<td>Oslo, Norway</td>
 		<td>212</td>
 	</tr>
 	<tr>
@@ -2343,19 +2343,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>173</td>
 		<td>
-			<a href="https://github.com/zrrrzzt">
-				<img src="https://avatars.githubusercontent.com/u/2197936?s=72&u=16ed3175706dd9bca32dbacfd41dd05425e074d9&v=4" width="24" alt="Avatar of zrrrzzt"> zrrrzzt
-			</a><br/>
-			Geir Gåsodden
-		</td>
-		<td>@navikt </td>
-		<td>No Twitter Username</td>
-		<td>Norway</td>
-		<td>159</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
 			<a href="https://github.com/arcuri82">
 				<img src="https://avatars.githubusercontent.com/u/14858082?s=72&u=b34facaf97a1aa46fb8363777e8ed58de194be40&v=4" width="24" alt="Avatar of arcuri82"> arcuri82
 			</a><br/>
@@ -2367,7 +2354,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/atlemo">
 				<img src="https://avatars.githubusercontent.com/u/1849966?s=72&v=4" width="24" alt="Avatar of atlemo"> atlemo
@@ -2378,6 +2365,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td><a href="https://twitter.com/atlemo">atlemo</a></td>
 		<td>Nesodden, Norway</td>
 		<td>159</td>
+	</tr>
+	<tr>
+		<td>175</td>
+		<td>
+			<a href="https://github.com/zrrrzzt">
+				<img src="https://avatars.githubusercontent.com/u/2197936?s=72&u=16ed3175706dd9bca32dbacfd41dd05425e074d9&v=4" width="24" alt="Avatar of zrrrzzt"> zrrrzzt
+			</a><br/>
+			Geir Gåsodden
+		</td>
+		<td>@navikt </td>
+		<td>No Twitter Username</td>
+		<td>Norway</td>
+		<td>158</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -2512,19 +2512,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>186</td>
 		<td>
-			<a href="https://github.com/frk-sandkake">
-				<img src="https://avatars.githubusercontent.com/u/60813876?s=72&u=9df9aab30110b4befe211559cf8d2e95c79605dc&v=4" width="24" alt="Avatar of frk-sandkake"> frk-sandkake
-			</a><br/>
-			Linda Sandaker
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Oslo, Norway</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>187</td>
-		<td>
 			<a href="https://github.com/drmowinckels">
 				<img src="https://avatars.githubusercontent.com/u/14014329?s=72&u=e4a430bceabc15d39787ca29d35bd213e7457209&v=4" width="24" alt="Avatar of drmowinckels"> drmowinckels
 			</a><br/>
@@ -2532,6 +2519,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		</td>
 		<td>@lcbc-uio </td>
 		<td><a href="https://twitter.com/DrMowinckels">DrMowinckels</a></td>
+		<td>Oslo, Norway</td>
+		<td>149</td>
+	</tr>
+	<tr>
+		<td>187</td>
+		<td>
+			<a href="https://github.com/frk-sandkake">
+				<img src="https://avatars.githubusercontent.com/u/60813876?s=72&u=9df9aab30110b4befe211559cf8d2e95c79605dc&v=4" width="24" alt="Avatar of frk-sandkake"> frk-sandkake
+			</a><br/>
+			Linda Sandaker
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Oslo, Norway</td>
 		<td>149</td>
 	</tr>
@@ -3058,6 +3058,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>228</td>
 		<td>
+			<a href="https://github.com/alexbrasetvik">
+				<img src="https://avatars.githubusercontent.com/u/43624?s=72&u=f0c23352e898454fb67ff31b3648df62d56fa2b1&v=4" width="24" alt="Avatar of alexbrasetvik"> alexbrasetvik
+			</a><br/>
+			Alex Brasetvik
+		</td>
+		<td>@cognitedata </td>
+		<td><a href="https://twitter.com/alexbrasetvik">alexbrasetvik</a></td>
+		<td>Oslo</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>229</td>
+		<td>
 			<a href="https://github.com/tellnes">
 				<img src="https://avatars.githubusercontent.com/u/613729?s=72&v=4" width="24" alt="Avatar of tellnes"> tellnes
 			</a><br/>
@@ -3069,7 +3082,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/krosenvold">
 				<img src="https://avatars.githubusercontent.com/u/67744?s=72&v=4" width="24" alt="Avatar of krosenvold"> krosenvold
@@ -3082,7 +3095,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/hypervisor">
 				<img src="https://avatars.githubusercontent.com/u/35572104?s=72&u=885cf0a971e9450f932db492f7ea0ccf09e5f9d4&v=4" width="24" alt="Avatar of hypervisor"> hypervisor
@@ -3092,19 +3105,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bergen, Norway</td>
-		<td>122</td>
-	</tr>
-	<tr>
-		<td>231</td>
-		<td>
-			<a href="https://github.com/alexbrasetvik">
-				<img src="https://avatars.githubusercontent.com/u/43624?s=72&u=f0c23352e898454fb67ff31b3648df62d56fa2b1&v=4" width="24" alt="Avatar of alexbrasetvik"> alexbrasetvik
-			</a><br/>
-			Alex Brasetvik
-		</td>
-		<td>@cognitedata </td>
-		<td><a href="https://twitter.com/alexbrasetvik">alexbrasetvik</a></td>
-		<td>Oslo</td>
 		<td>122</td>
 	</tr>
 	<tr>
@@ -3313,7 +3313,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Scrimba </td>
 		<td><a href="https://twitter.com/frode_jensen">frode_jensen</a></td>
 		<td>Oslo, Norway</td>
-		<td>110</td>
+		<td>111</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -3591,19 +3591,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>269</td>
 		<td>
-			<a href="https://github.com/Prune2000">
-				<img src="https://avatars.githubusercontent.com/u/35957528?s=72&u=f81a0f74a359eec3e7a7a5ecfb0baebd758724f0&v=4" width="24" alt="Avatar of Prune2000"> Prune2000
-			</a><br/>
-			theyknow
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/victor_theyknow">victor_theyknow</a></td>
-		<td>Norway</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
 			<a href="https://github.com/stigkj">
 				<img src="https://avatars.githubusercontent.com/u/14671?s=72&v=4" width="24" alt="Avatar of stigkj"> stigkj
 			</a><br/>
@@ -3615,7 +3602,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/Coronux">
 				<img src="https://avatars.githubusercontent.com/u/28792255?s=72&u=14d5fb06743618a139e5b76e0e779b200fa57d87&v=4" width="24" alt="Avatar of Coronux"> Coronux
@@ -3628,7 +3615,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/danmichaelo">
 				<img src="https://avatars.githubusercontent.com/u/434495?s=72&v=4" width="24" alt="Avatar of danmichaelo"> danmichaelo
@@ -3641,7 +3628,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/itschip">
 				<img src="https://avatars.githubusercontent.com/u/59088889?s=72&u=4358b19be4537478016b1ea0ccd4f3c50736a64a&v=4" width="24" alt="Avatar of itschip"> itschip
@@ -3654,7 +3641,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/hampusborgos">
 				<img src="https://avatars.githubusercontent.com/u/574239?s=72&v=4" width="24" alt="Avatar of hampusborgos"> hampusborgos
@@ -3664,6 +3651,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Unfold </td>
 		<td>No Twitter Username</td>
 		<td>Oslo</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a href="https://github.com/Prune2000">
+				<img src="https://avatars.githubusercontent.com/u/35957528?s=72&u=f81a0f74a359eec3e7a7a5ecfb0baebd758724f0&v=4" width="24" alt="Avatar of Prune2000"> Prune2000
+			</a><br/>
+			theyknow
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/victor_theyknow">victor_theyknow</a></td>
+		<td>Norway</td>
 		<td>102</td>
 	</tr>
 	<tr>
@@ -3981,6 +3981,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>299</td>
 		<td>
+			<a href="https://github.com/gauteh">
+				<img src="https://avatars.githubusercontent.com/u/56827?s=72&v=4" width="24" alt="Avatar of gauteh"> gauteh
+			</a><br/>
+			Gaute Hope
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/gauteh">gauteh</a></td>
+		<td>Norway</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
 			<a href="https://github.com/Alxandr">
 				<img src="https://avatars.githubusercontent.com/u/112334?s=72&u=4a190c91ebf74be562cf5b67270c8da2f70a5d36&v=4" width="24" alt="Avatar of Alxandr"> Alxandr
 			</a><br/>
@@ -3992,7 +4005,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/trgwii">
 				<img src="https://avatars.githubusercontent.com/u/11262022?s=72&v=4" width="24" alt="Avatar of trgwii"> trgwii
@@ -4005,7 +4018,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/dietmarw">
 				<img src="https://avatars.githubusercontent.com/u/9332?s=72&v=4" width="24" alt="Avatar of dietmarw"> dietmarw
@@ -4018,7 +4031,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/konstantinstadler">
 				<img src="https://avatars.githubusercontent.com/u/6782923?s=72&u=5b6ea8241ecb16b64b50d9fbf7e7f39716964939&v=4" width="24" alt="Avatar of konstantinstadler"> konstantinstadler
@@ -4031,7 +4044,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/ameliaikeda">
 				<img src="https://avatars.githubusercontent.com/u/1074190?s=72&u=7b4fc2cd7cd8769a1e06213b68f88ecf483a80da&v=4" width="24" alt="Avatar of ameliaikeda"> ameliaikeda
@@ -4044,7 +4057,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/sigurdga">
 				<img src="https://avatars.githubusercontent.com/u/114134?s=72&u=4e6342e07742ab92faf467ba90813aa4bac046b3&v=4" width="24" alt="Avatar of sigurdga"> sigurdga
@@ -4057,7 +4070,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/fespinoza">
 				<img src="https://avatars.githubusercontent.com/u/167989?s=72&u=302fe134a4f030ff6914ef0170463066cdde7e0a&v=4" width="24" alt="Avatar of fespinoza"> fespinoza
@@ -4070,33 +4083,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>306</td>
-		<td>
-			<a href="https://github.com/gauteh">
-				<img src="https://avatars.githubusercontent.com/u/56827?s=72&v=4" width="24" alt="Avatar of gauteh"> gauteh
-			</a><br/>
-			Gaute Hope
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/gauteh">gauteh</a></td>
-		<td>Norway</td>
-		<td>93</td>
-	</tr>
-	<tr>
 		<td>307</td>
-		<td>
-			<a href="https://github.com/ivarconr">
-				<img src="https://avatars.githubusercontent.com/u/158948?s=72&v=4" width="24" alt="Avatar of ivarconr"> ivarconr
-			</a><br/>
-			Ivar Conradi Østhus
-		</td>
-		<td>@unleash </td>
-		<td><a href="https://twitter.com/ivarconr">ivarconr</a></td>
-		<td>Oslo, Norway</td>
-		<td>93</td>
-	</tr>
-	<tr>
-		<td>308</td>
 		<td>
 			<a href="https://github.com/mkmarek">
 				<img src="https://avatars.githubusercontent.com/u/7100597?s=72&u=2e2f76d9b137b0247d1d3ab210ee43c82e90ef9c&v=4" width="24" alt="Avatar of mkmarek"> mkmarek
@@ -4109,7 +4096,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/leifoolsen">
 				<img src="https://avatars.githubusercontent.com/u/10088486?s=72&u=7b0bf3131b4da039fa4a6409c285f951059dc6d7&v=4" width="24" alt="Avatar of leifoolsen"> leifoolsen
@@ -4120,6 +4107,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Norway</td>
 		<td>93</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
+			<a href="https://github.com/ivarconr">
+				<img src="https://avatars.githubusercontent.com/u/158948?s=72&v=4" width="24" alt="Avatar of ivarconr"> ivarconr
+			</a><br/>
+			Ivar Conradi Østhus
+		</td>
+		<td>@unleash </td>
+		<td><a href="https://twitter.com/ivarconr">ivarconr</a></td>
+		<td>Oslo, Norway</td>
+		<td>92</td>
 	</tr>
 	<tr>
 		<td>310</td>
@@ -4215,6 +4215,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>317</td>
 		<td>
+			<a href="https://github.com/HelgeSverre">
+				<img src="https://avatars.githubusercontent.com/u/1089652?s=72&u=0f411378dca99041ad246e7414a96f136b431862&v=4" width="24" alt="Avatar of HelgeSverre"> HelgeSverre
+			</a><br/>
+			Helge Sverre
+		</td>
+		<td>Crescat As </td>
+		<td><a href="https://twitter.com/helgesverre">helgesverre</a></td>
+		<td>Bergen, Norway</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
 			<a href="https://github.com/AlbertHambardzumyan">
 				<img src="https://avatars.githubusercontent.com/u/11527341?s=72&u=b32b9ad54b5e65d1bbc8a1f48f6303c75300aafa&v=4" width="24" alt="Avatar of AlbertHambardzumyan"> AlbertHambardzumyan
 			</a><br/>
@@ -4226,7 +4239,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/FredrikAugust">
 				<img src="https://avatars.githubusercontent.com/u/7691547?s=72&u=71682b19a3e860215017d19d2fd09840b6bdce51&v=4" width="24" alt="Avatar of FredrikAugust"> FredrikAugust
@@ -4239,7 +4252,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/Clorith">
 				<img src="https://avatars.githubusercontent.com/u/468735?s=72&v=4" width="24" alt="Avatar of Clorith"> Clorith
@@ -4252,7 +4265,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/sixem">
 				<img src="https://avatars.githubusercontent.com/u/2825338?s=72&u=6eb48633e0ce092aadfc00a59010b44317147a08&v=4" width="24" alt="Avatar of sixem"> sixem
@@ -4265,7 +4278,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/haraldk">
 				<img src="https://avatars.githubusercontent.com/u/110299?s=72&u=79790c9ca48a6cb2d8bc01b95697110608a4b61d&v=4" width="24" alt="Avatar of haraldk"> haraldk
@@ -4278,7 +4291,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/Sunjammer">
 				<img src="https://avatars.githubusercontent.com/u/249115?s=72&v=4" width="24" alt="Avatar of Sunjammer"> Sunjammer
@@ -4289,19 +4302,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Trondheim, Norway</td>
 		<td>91</td>
-	</tr>
-	<tr>
-		<td>323</td>
-		<td>
-			<a href="https://github.com/HelgeSverre">
-				<img src="https://avatars.githubusercontent.com/u/1089652?s=72&u=0f411378dca99041ad246e7414a96f136b431862&v=4" width="24" alt="Avatar of HelgeSverre"> HelgeSverre
-			</a><br/>
-			Helge Sverre
-		</td>
-		<td>Crescat As </td>
-		<td><a href="https://twitter.com/helgesverre">helgesverre</a></td>
-		<td>Bergen, Norway</td>
-		<td>90</td>
 	</tr>
 	<tr>
 		<td>324</td>
@@ -4371,6 +4371,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>329</td>
 		<td>
+			<a href="https://github.com/wisespace-io">
+				<img src="https://avatars.githubusercontent.com/u/18601893?s=72&u=dbb4aa44c138d9183d103fe0fd73ca32c20abe01&v=4" width="24" alt="Avatar of wisespace-io"> wisespace-io
+			</a><br/>
+			Flávio Oliveira
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Norway</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>330</td>
+		<td>
 			<a href="https://github.com/andreped">
 				<img src="https://avatars.githubusercontent.com/u/29090665?s=72&u=f9b515812c9c4a92250f27bb5fa6ef96b1a4815e&v=4" width="24" alt="Avatar of andreped"> andreped
 			</a><br/>
@@ -4382,7 +4395,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/omBratteng">
 				<img src="https://avatars.githubusercontent.com/u/1681525?s=72&u=40938d9a9f4ad990ead5c068bcd61f2c165641ff&v=4" width="24" alt="Avatar of omBratteng"> omBratteng
@@ -4395,7 +4408,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/myme">
 				<img src="https://avatars.githubusercontent.com/u/148158?s=72&v=4" width="24" alt="Avatar of myme"> myme
@@ -4408,7 +4421,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/jobergum">
 				<img src="https://avatars.githubusercontent.com/u/20928528?s=72&u=4da21c24447b1809e606a762c8d296084748456c&v=4" width="24" alt="Avatar of jobergum"> jobergum
@@ -4421,7 +4434,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/Schoyen">
 				<img src="https://avatars.githubusercontent.com/u/8521134?s=72&u=9e161e331c0f9aeb2b0d4dd45017d2f608dec594&v=4" width="24" alt="Avatar of Schoyen"> Schoyen
@@ -4434,7 +4447,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/jediofgever">
 				<img src="https://avatars.githubusercontent.com/u/18460336?s=72&v=4" width="24" alt="Avatar of jediofgever"> jediofgever
@@ -4442,19 +4455,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 			Fetullah Atas 
 		</td>
 		<td>Nmbu </td>
-		<td>No Twitter Username</td>
-		<td>Norway</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>335</td>
-		<td>
-			<a href="https://github.com/wisespace-io">
-				<img src="https://avatars.githubusercontent.com/u/18601893?s=72&u=dbb4aa44c138d9183d103fe0fd73ca32c20abe01&v=4" width="24" alt="Avatar of wisespace-io"> wisespace-io
-			</a><br/>
-			Flávio Oliveira
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Norway</td>
 		<td>88</td>
@@ -4514,6 +4514,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>340</td>
 		<td>
+			<a href="https://github.com/olefasting">
+				<img src="https://avatars.githubusercontent.com/u/19196824?s=72&u=79869e9ad9de47b4f88b7b0114b0cfb2e86cb9da&v=4" width="24" alt="Avatar of olefasting"> olefasting
+			</a><br/>
+			Ole A. Sjo Fasting
+		</td>
+		<td>Yay Learning </td>
+		<td>No Twitter Username</td>
+		<td>Sandnes, Norway</td>
+		<td>86</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
 			<a href="https://github.com/Humeyr">
 				<img src="https://avatars.githubusercontent.com/u/121400706?s=72&u=4d9741f3f4cb2be6f77d0246f34e1e9e7fe0c657&v=4" width="24" alt="Avatar of Humeyr"> Humeyr
 			</a><br/>
@@ -4525,7 +4538,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/alexarje">
 				<img src="https://avatars.githubusercontent.com/u/114316?s=72&u=f4ba97882e2d9e27713f29c9459acf395c343cd8&v=4" width="24" alt="Avatar of alexarje"> alexarje
@@ -4538,7 +4551,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/oc">
 				<img src="https://avatars.githubusercontent.com/u/2674?s=72&v=4" width="24" alt="Avatar of oc"> oc
@@ -4551,7 +4564,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/MartinIngesen">
 				<img src="https://avatars.githubusercontent.com/u/928641?s=72&u=d4976386365ad1e7b3195f4d84dc16aa6419110a&v=4" width="24" alt="Avatar of MartinIngesen"> MartinIngesen
@@ -4564,7 +4577,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/stianeikeland">
 				<img src="https://avatars.githubusercontent.com/u/680040?s=72&u=7a3be1f4af0525bcc55df22cffc3ec3f33a93915&v=4" width="24" alt="Avatar of stianeikeland"> stianeikeland
@@ -4577,7 +4590,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/unhammer">
 				<img src="https://avatars.githubusercontent.com/u/56868?s=72&u=f4e2deb68f2feb408b5665d22c3af9fe1ddc411d&v=4" width="24" alt="Avatar of unhammer"> unhammer
@@ -4590,7 +4603,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/TatriX">
 				<img src="https://avatars.githubusercontent.com/u/703150?s=72&u=54f629bf86759ce12ae7d849adb966e9614bccbe&v=4" width="24" alt="Avatar of TatriX"> TatriX
@@ -4603,7 +4616,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/vkbo">
 				<img src="https://avatars.githubusercontent.com/u/1619840?s=72&u=9e99208c1d98868bed15f835c01b548b87a39f24&v=4" width="24" alt="Avatar of vkbo"> vkbo
@@ -4613,19 +4626,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Turtlesec As </td>
 		<td>No Twitter Username</td>
 		<td>Oslo, Norway</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/olefasting">
-				<img src="https://avatars.githubusercontent.com/u/19196824?s=72&u=79869e9ad9de47b4f88b7b0114b0cfb2e86cb9da&v=4" width="24" alt="Avatar of olefasting"> olefasting
-			</a><br/>
-			Ole A. Sjo Fasting
-		</td>
-		<td>Yay Learning </td>
-		<td>No Twitter Username</td>
-		<td>Sandnes, Norway</td>
 		<td>84</td>
 	</tr>
 	<tr>
@@ -5580,6 +5580,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>422</td>
 		<td>
+			<a href="https://github.com/SecHex">
+				<img src="https://avatars.githubusercontent.com/u/96635023?s=72&u=10f9bbdd3c8a1a717dac9d2facf3eaa6da5c20ed&v=4" width="24" alt="Avatar of SecHex"> SecHex
+			</a><br/>
+			0x29A
+		</td>
+		<td>@1sa-intelligence </td>
+		<td>No Twitter Username</td>
+		<td>Norway</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>423</td>
+		<td>
 			<a href="https://github.com/redhog">
 				<img src="https://avatars.githubusercontent.com/u/104229?s=72&u=f38ae2494c9bf661d4446c67cafde5454df67974&v=4" width="24" alt="Avatar of redhog"> redhog
 			</a><br/>
@@ -5591,7 +5604,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/KristianLyng">
 				<img src="https://avatars.githubusercontent.com/u/164636?s=72&v=4" width="24" alt="Avatar of KristianLyng"> KristianLyng
@@ -5604,7 +5617,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/melcor76">
 				<img src="https://avatars.githubusercontent.com/u/4782776?s=72&u=282e9fcaebd6a945a0b0621294e64b1c18e47d46&v=4" width="24" alt="Avatar of melcor76"> melcor76
@@ -5617,7 +5630,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>425</td>
+		<td>426</td>
 		<td>
 			<a href="https://github.com/norgepaul">
 				<img src="https://avatars.githubusercontent.com/u/5075985?s=72&u=9c2345d3ba2a2e5745b064b2b2df96b67eb43480&v=4" width="24" alt="Avatar of norgepaul"> norgepaul
@@ -5630,7 +5643,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>427</td>
 		<td>
 			<a href="https://github.com/ordovician">
 				<img src="https://avatars.githubusercontent.com/u/72194?s=72&v=4" width="24" alt="Avatar of ordovician"> ordovician
@@ -5643,7 +5656,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>428</td>
 		<td>
 			<a href="https://github.com/erlend-aasland">
 				<img src="https://avatars.githubusercontent.com/u/13780613?s=72&u=51163f879388f085174a572d84bf4540830715e2&v=4" width="24" alt="Avatar of erlend-aasland"> erlend-aasland
@@ -5656,7 +5669,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>429</td>
 		<td>
 			<a href="https://github.com/mollerse">
 				<img src="https://avatars.githubusercontent.com/u/617743?s=72&v=4" width="24" alt="Avatar of mollerse"> mollerse
@@ -5669,7 +5682,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>430</td>
 		<td>
 			<a href="https://github.com/milesgranger">
 				<img src="https://avatars.githubusercontent.com/u/13764397?s=72&u=3267d8231fc03b2fe5133050921cb2997c0ace07&v=4" width="24" alt="Avatar of milesgranger"> milesgranger
@@ -5682,7 +5695,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>431</td>
 		<td>
 			<a href="https://github.com/rafidhoda">
 				<img src="https://avatars.githubusercontent.com/u/1913427?s=72&u=a2081ac177ac18945e59be3fa19011cd06add91a&v=4" width="24" alt="Avatar of rafidhoda"> rafidhoda
@@ -5695,7 +5708,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>432</td>
 		<td>
 			<a href="https://github.com/joachimhs">
 				<img src="https://avatars.githubusercontent.com/u/453373?s=72&v=4" width="24" alt="Avatar of joachimhs"> joachimhs
@@ -5708,7 +5721,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>433</td>
 		<td>
 			<a href="https://github.com/bjornmu">
 				<img src="https://avatars.githubusercontent.com/u/8928500?s=72&u=8290e1a5fb2961a8ab4e3d7a479f93f8bdf3bb8c&v=4" width="24" alt="Avatar of bjornmu"> bjornmu
@@ -5721,7 +5734,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>434</td>
 		<td>
 			<a href="https://github.com/muhammedkocaoglu">
 				<img src="https://avatars.githubusercontent.com/u/68936726?s=72&u=5cfaf1c4ea275d29e6cb061360e69f033cbba7a9&v=4" width="24" alt="Avatar of muhammedkocaoglu"> muhammedkocaoglu
@@ -5734,7 +5747,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>435</td>
 		<td>
 			<a href="https://github.com/andreassolberg">
 				<img src="https://avatars.githubusercontent.com/u/101361?s=72&u=d379b51fe1f83ada12418a0a0b7c4a7aa065bf71&v=4" width="24" alt="Avatar of andreassolberg"> andreassolberg
@@ -5747,7 +5760,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>436</td>
 		<td>
 			<a href="https://github.com/jmaih">
 				<img src="https://avatars.githubusercontent.com/u/2531535?s=72&u=374c5ff55fd64dd38561bb9872d6a99a1f28a1f0&v=4" width="24" alt="Avatar of jmaih"> jmaih
@@ -5760,7 +5773,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>437</td>
 		<td>
 			<a href="https://github.com/davidmorinNTNU">
 				<img src="https://avatars.githubusercontent.com/u/26093520?s=72&u=7c99f407572092bb3bca1d156a72489bb3db4e65&v=4" width="24" alt="Avatar of davidmorinNTNU"> davidmorinNTNU
@@ -5773,7 +5786,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>437</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/cristeahub">
 				<img src="https://avatars.githubusercontent.com/u/1488921?s=72&u=74f1a95dc4d91f433e5063b964aa81a22148e2cb&v=4" width="24" alt="Avatar of cristeahub"> cristeahub
@@ -5786,7 +5799,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/trond-snekvik">
 				<img src="https://avatars.githubusercontent.com/u/7857838?s=72&u=d942d59dbfa1eb2d3e1bafbec125709e583c132c&v=4" width="24" alt="Avatar of trond-snekvik"> trond-snekvik
@@ -5799,7 +5812,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/danielmahal">
 				<img src="https://avatars.githubusercontent.com/u/415411?s=72&u=1147811f3c2b74e2969e32e01ffae4cf37456d46&v=4" width="24" alt="Avatar of danielmahal"> danielmahal
@@ -5812,7 +5825,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/einarf">
 				<img src="https://avatars.githubusercontent.com/u/5418180?s=72&u=383970395177da1a9f7df3843bb09e97a622bd13&v=4" width="24" alt="Avatar of einarf"> einarf
@@ -5825,7 +5838,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/haakonnessjoen">
 				<img src="https://avatars.githubusercontent.com/u/416667?s=72&u=99df5ff4e113abb022ec38ce773b14ec6b4e3a43&v=4" width="24" alt="Avatar of haakonnessjoen"> haakonnessjoen
@@ -5838,7 +5851,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/evenh">
 				<img src="https://avatars.githubusercontent.com/u/2701536?s=72&v=4" width="24" alt="Avatar of evenh"> evenh
@@ -5851,7 +5864,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/frafra">
 				<img src="https://avatars.githubusercontent.com/u/4068?s=72&v=4" width="24" alt="Avatar of frafra"> frafra
@@ -5861,19 +5874,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@ninanor </td>
 		<td>No Twitter Username</td>
 		<td>Trondheim, Norway</td>
-		<td>71</td>
-	</tr>
-	<tr>
-		<td>444</td>
-		<td>
-			<a href="https://github.com/SecHex">
-				<img src="https://avatars.githubusercontent.com/u/96635023?s=72&u=10f9bbdd3c8a1a717dac9d2facf3eaa6da5c20ed&v=4" width="24" alt="Avatar of SecHex"> SecHex
-			</a><br/>
-			0x29A
-		</td>
-		<td>@1sa-intelligence </td>
-		<td>No Twitter Username</td>
-		<td>Norway</td>
 		<td>71</td>
 	</tr>
 	<tr>
@@ -6009,6 +6009,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>455</td>
 		<td>
+			<a href="https://github.com/karltk">
+				<img src="https://avatars.githubusercontent.com/u/1164594?s=72&v=4" width="24" alt="Avatar of karltk"> karltk
+			</a><br/>
+			Karl Trygve Kalleberg
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Oslo, Norway</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
 			<a href="https://github.com/andrerom">
 				<img src="https://avatars.githubusercontent.com/u/289757?s=72&u=d7efe9fc8a79e344f6c272cc6471d3816ee7919f&v=4" width="24" alt="Avatar of andrerom"> andrerom
 			</a><br/>
@@ -6020,7 +6033,20 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
+		<td>
+			<a href="https://github.com/sehyoun">
+				<img src="https://avatars.githubusercontent.com/u/7272694?s=72&v=4" width="24" alt="Avatar of sehyoun"> sehyoun
+			</a><br/>
+			SeHyoun Ahn
+		</td>
+		<td>Norges Bank </td>
+		<td>No Twitter Username</td>
+		<td>Oslo, Norway</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/tingelst">
 				<img src="https://avatars.githubusercontent.com/u/1017275?s=72&u=1a08dbb8b7dcaea531115c41ce9fa2ad347cd0d4&v=4" width="24" alt="Avatar of tingelst"> tingelst
@@ -6033,7 +6059,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/Bjarten">
 				<img src="https://avatars.githubusercontent.com/u/3868659?s=72&u=e117f882a87f630520d498225ffd6fdbcac17b9f&v=4" width="24" alt="Avatar of Bjarten"> Bjarten
@@ -6046,7 +6072,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/objorke">
 				<img src="https://avatars.githubusercontent.com/u/439716?s=72&u=6271f2a812c9c128a6de7abaca2ea079cc4f8426&v=4" width="24" alt="Avatar of objorke"> objorke
@@ -6059,7 +6085,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/hallvard">
 				<img src="https://avatars.githubusercontent.com/u/400291?s=72&u=c505102d74620eaf8f17f6991fe1145d33e5515e&v=4" width="24" alt="Avatar of hallvard"> hallvard
@@ -6072,20 +6098,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>460</td>
-		<td>
-			<a href="https://github.com/karltk">
-				<img src="https://avatars.githubusercontent.com/u/1164594?s=72&v=4" width="24" alt="Avatar of karltk"> karltk
-			</a><br/>
-			Karl Trygve Kalleberg
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Oslo, Norway</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/cmrosenberg">
 				<img src="https://avatars.githubusercontent.com/u/635225?s=72&u=a132f0362e07efe0f0fecf435ec489b56cfb9ab7&v=4" width="24" alt="Avatar of cmrosenberg"> cmrosenberg
@@ -6098,7 +6111,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/comotion">
 				<img src="https://avatars.githubusercontent.com/u/62794?s=72&u=f319e573a21bdf9c7a8072b584e1bd3d336afe07&v=4" width="24" alt="Avatar of comotion"> comotion
@@ -6106,19 +6119,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 			Kacper Why
 		</td>
 		<td>Why </td>
-		<td>No Twitter Username</td>
-		<td>Oslo, Norway</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>463</td>
-		<td>
-			<a href="https://github.com/sehyoun">
-				<img src="https://avatars.githubusercontent.com/u/7272694?s=72&v=4" width="24" alt="Avatar of sehyoun"> sehyoun
-			</a><br/>
-			SeHyoun Ahn
-		</td>
-		<td>Norges Bank </td>
 		<td>No Twitter Username</td>
 		<td>Oslo, Norway</td>
 		<td>69</td>
@@ -6139,19 +6139,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>465</td>
 		<td>
-			<a href="https://github.com/chriswk">
-				<img src="https://avatars.githubusercontent.com/u/177402?s=72&v=4" width="24" alt="Avatar of chriswk"> chriswk
-			</a><br/>
-			Christopher Kolstad
-		</td>
-		<td>@unleash  </td>
-		<td><a href="https://twitter.com/chriswk">chriswk</a></td>
-		<td>Oslo, Norway</td>
-		<td>68</td>
-	</tr>
-	<tr>
-		<td>466</td>
-		<td>
 			<a href="https://github.com/andmos">
 				<img src="https://avatars.githubusercontent.com/u/1283556?s=72&u=03cd2e23ae823c209d2fe488bb7b96e82f6a7fb7&v=4" width="24" alt="Avatar of andmos"> andmos
 			</a><br/>
@@ -6160,6 +6147,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@bekk </td>
 		<td><a href="https://twitter.com/amostii">amostii</a></td>
 		<td>Trondheim </td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/chriswk">
+				<img src="https://avatars.githubusercontent.com/u/177402?s=72&v=4" width="24" alt="Avatar of chriswk"> chriswk
+			</a><br/>
+			Christopher Kolstad
+		</td>
+		<td>@unleash  </td>
+		<td><a href="https://twitter.com/chriswk">chriswk</a></td>
+		<td>Oslo, Norway</td>
 		<td>68</td>
 	</tr>
 	<tr>
@@ -6217,6 +6217,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>471</td>
 		<td>
+			<a href="https://github.com/jenschr">
+				<img src="https://avatars.githubusercontent.com/u/550202?s=72&v=4" width="24" alt="Avatar of jenschr"> jenschr
+			</a><br/>
+			Jens Chr Brynildsen
+		</td>
+		<td>Maketronics As </td>
+		<td><a href="https://twitter.com/jenschr">jenschr</a></td>
+		<td>Oslo, Norway</td>
+		<td>68</td>
+	</tr>
+	<tr>
+		<td>472</td>
+		<td>
 			<a href="https://github.com/mouuff">
 				<img src="https://avatars.githubusercontent.com/u/1174730?s=72&u=21f735c7a3544092d015652e3550fa38390f9e65&v=4" width="24" alt="Avatar of mouuff"> mouuff
 			</a><br/>
@@ -6228,7 +6241,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a href="https://github.com/magnificus">
 				<img src="https://avatars.githubusercontent.com/u/3929146?s=72&u=d2500193fc097aa18c500b08f2092a016f077697&v=4" width="24" alt="Avatar of magnificus"> magnificus
@@ -6241,7 +6254,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>473</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/cmeeren">
 				<img src="https://avatars.githubusercontent.com/u/7766733?s=72&u=491c2cdc173ac07be00c8bd7a61f5d8d0f86a405&v=4" width="24" alt="Avatar of cmeeren"> cmeeren
@@ -6254,7 +6267,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/dagolap">
 				<img src="https://avatars.githubusercontent.com/u/299297?s=72&v=4" width="24" alt="Avatar of dagolap"> dagolap
@@ -6267,7 +6280,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>476</td>
 		<td>
 			<a href="https://github.com/Anderssorby">
 				<img src="https://avatars.githubusercontent.com/u/6331075?s=72&u=f73d664642b9a5ec5e8b9e962672b355170a4168&v=4" width="24" alt="Avatar of Anderssorby"> Anderssorby
@@ -6277,19 +6290,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Sopra Steria </td>
 		<td>No Twitter Username</td>
 		<td>Norway</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>476</td>
-		<td>
-			<a href="https://github.com/jenschr">
-				<img src="https://avatars.githubusercontent.com/u/550202?s=72&v=4" width="24" alt="Avatar of jenschr"> jenschr
-			</a><br/>
-			Jens Chr Brynildsen
-		</td>
-		<td>Maketronics As </td>
-		<td><a href="https://twitter.com/jenschr">jenschr</a></td>
-		<td>Oslo, Norway</td>
 		<td>67</td>
 	</tr>
 	<tr>
@@ -6594,6 +6594,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>500</td>
 		<td>
+			<a href="https://github.com/bchetioui">
+				<img src="https://avatars.githubusercontent.com/u/3920784?s=72&u=a9e09db261a4c3691a225aa01acef5d7d985a261&v=4" width="24" alt="Avatar of bchetioui"> bchetioui
+			</a><br/>
+			Benjamin Chetioui
+		</td>
+		<td>Google </td>
+		<td><a href="https://twitter.com/_SIben_">_SIben_</a></td>
+		<td>Oslo, Norway</td>
+		<td>63</td>
+	</tr>
+	<tr>
+		<td>501</td>
+		<td>
 			<a href="https://github.com/palerikm">
 				<img src="https://avatars.githubusercontent.com/u/5988626?s=72&u=b3bdfc03b2e2f4b233da6ee0cd3f567308ed2ab8&v=4" width="24" alt="Avatar of palerikm"> palerikm
 			</a><br/>
@@ -6605,7 +6618,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/necccc">
 				<img src="https://avatars.githubusercontent.com/u/395398?s=72&u=a41a2639c7fbfb8bd6010ff6475b64ae21962a88&v=4" width="24" alt="Avatar of necccc"> necccc
@@ -6618,7 +6631,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/jcamiloangarita">
 				<img src="https://avatars.githubusercontent.com/u/52009346?s=72&u=9733af52112b2890c0b7007fd9da398e83754814&v=4" width="24" alt="Avatar of jcamiloangarita"> jcamiloangarita
@@ -6631,7 +6644,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/larspars">
 				<img src="https://avatars.githubusercontent.com/u/664369?s=72&u=9286833ba7d49632c33bd874aaa68ef34e5f2e9f&v=4" width="24" alt="Avatar of larspars"> larspars
@@ -6644,7 +6657,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/hansrodtang">
 				<img src="https://avatars.githubusercontent.com/u/58717?s=72&v=4" width="24" alt="Avatar of hansrodtang"> hansrodtang
@@ -6657,7 +6670,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/elektronaut">
 				<img src="https://avatars.githubusercontent.com/u/5549?s=72&u=fedfb5f32aff25e5c4f0c5d5247fb2faa894a83d&v=4" width="24" alt="Avatar of elektronaut"> elektronaut
@@ -6670,7 +6683,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/fnoks">
 				<img src="https://avatars.githubusercontent.com/u/2578572?s=72&u=b214d52dd330be3fd5f4a384260918ed46758f67&v=4" width="24" alt="Avatar of fnoks"> fnoks
@@ -6683,7 +6696,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/boxhock">
 				<img src="https://avatars.githubusercontent.com/u/2546835?s=72&u=dccce6f93afeee5ff7e4c6663a961b53a4018da1&v=4" width="24" alt="Avatar of boxhock"> boxhock
@@ -6696,7 +6709,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/sirasjad">
 				<img src="https://avatars.githubusercontent.com/u/8083228?s=72&u=00bc9738745103e6b704884f86a1ec94c4269e85&v=4" width="24" alt="Avatar of sirasjad"> sirasjad
@@ -6709,7 +6722,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/ec1oud">
 				<img src="https://avatars.githubusercontent.com/u/2946740?s=72&u=b36c6457a94eade4a2ea4620d0de3fda46cca9d4&v=4" width="24" alt="Avatar of ec1oud"> ec1oud
@@ -6722,7 +6735,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/geirev">
 				<img src="https://avatars.githubusercontent.com/u/22790296?s=72&u=6c4ea03908edd29fd13c8825c457360dc4874113&v=4" width="24" alt="Avatar of geirev"> geirev
@@ -6735,7 +6748,20 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
+		<td>
+			<a href="https://github.com/atmoz">
+				<img src="https://avatars.githubusercontent.com/u/95689?s=72&v=4" width="24" alt="Avatar of atmoz"> atmoz
+			</a><br/>
+			Adrian Dvergsdal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bergen, Norway</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/eirsyl">
 				<img src="https://avatars.githubusercontent.com/u/1433491?s=72&u=3d88db15deb728f3baa94e0a48faf090b42657b8&v=4" width="24" alt="Avatar of eirsyl"> eirsyl
@@ -6748,7 +6774,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/brice-morin">
 				<img src="https://avatars.githubusercontent.com/u/576169?s=72&u=77b1db9d1ea1613c3045a71a10d8c8ad3d2da404&v=4" width="24" alt="Avatar of brice-morin"> brice-morin
@@ -6761,7 +6787,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/ennorehling">
 				<img src="https://avatars.githubusercontent.com/u/629521?s=72&v=4" width="24" alt="Avatar of ennorehling"> ennorehling
@@ -6774,7 +6800,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/fungiboletus">
 				<img src="https://avatars.githubusercontent.com/u/45740?s=72&u=1d1dbe754417b078a40f17aa926a3335eb4ba3df&v=4" width="24" alt="Avatar of fungiboletus"> fungiboletus
@@ -6787,7 +6813,20 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>517</td>
+		<td>
+			<a href="https://github.com/HolyBarrel">
+				<img src="https://avatars.githubusercontent.com/u/58830226?s=72&u=b1a85e9ac3ad125ec1ae969f642b1b1473bd30d4&v=4" width="24" alt="Avatar of HolyBarrel"> HolyBarrel
+			</a><br/>
+			Magnus Allison
+		</td>
+		<td>Gone Rogue </td>
+		<td>No Twitter Username</td>
+		<td>Trondheim, Norway</td>
+		<td>61</td>
+	</tr>
+	<tr>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/BorisKourt">
 				<img src="https://avatars.githubusercontent.com/u/1929082?s=72&u=e785558dd550a37ba347a94c42860f8e606e3774&v=4" width="24" alt="Avatar of BorisKourt"> BorisKourt
@@ -6800,7 +6839,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/tslamic">
 				<img src="https://avatars.githubusercontent.com/u/2017820?s=72&u=b23d605d778d9419d02e75c598560003eb8a8903&v=4" width="24" alt="Avatar of tslamic"> tslamic
@@ -6813,20 +6852,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>517</td>
-		<td>
-			<a href="https://github.com/bchetioui">
-				<img src="https://avatars.githubusercontent.com/u/3920784?s=72&u=a9e09db261a4c3691a225aa01acef5d7d985a261&v=4" width="24" alt="Avatar of bchetioui"> bchetioui
-			</a><br/>
-			Benjamin Chetioui
-		</td>
-		<td>Google </td>
-		<td><a href="https://twitter.com/_SIben_">_SIben_</a></td>
-		<td>Oslo, Norway</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>518</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/megoth">
 				<img src="https://avatars.githubusercontent.com/u/775139?s=72&u=210cd5bed3c802e21737a66962fce83693b17e50&v=4" width="24" alt="Avatar of megoth"> megoth
@@ -6839,7 +6865,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/bricaud">
 				<img src="https://avatars.githubusercontent.com/u/6340337?s=72&u=58fba0392d614a669ef026581205557993d40a5c&v=4" width="24" alt="Avatar of bricaud"> bricaud
@@ -6852,7 +6878,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/sesse">
 				<img src="https://avatars.githubusercontent.com/u/238700?s=72&u=18c8d2f9b506f5988d195b7827566fe7f349adc8&v=4" width="24" alt="Avatar of sesse"> sesse
@@ -6865,7 +6891,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/JensDyvik">
 				<img src="https://avatars.githubusercontent.com/u/6598148?s=72&v=4" width="24" alt="Avatar of JensDyvik"> JensDyvik
@@ -6878,7 +6904,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/freekh">
 				<img src="https://avatars.githubusercontent.com/u/91758?s=72&v=4" width="24" alt="Avatar of freekh"> freekh
@@ -6891,7 +6917,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/mathisGarberg">
 				<img src="https://avatars.githubusercontent.com/u/12895824?s=72&u=b0d143fda3c1aa49609c62b9b75d3354b85ef9fd&v=4" width="24" alt="Avatar of mathisGarberg"> mathisGarberg
@@ -6904,20 +6930,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>524</td>
-		<td>
-			<a href="https://github.com/atmoz">
-				<img src="https://avatars.githubusercontent.com/u/95689?s=72&v=4" width="24" alt="Avatar of atmoz"> atmoz
-			</a><br/>
-			Adrian Dvergsdal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bergen, Norway</td>
-		<td>61</td>
-	</tr>
-	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/trydis">
 				<img src="https://avatars.githubusercontent.com/u/446036?s=72&u=30d197867accef3ba5519ef753289bce020f5e53&v=4" width="24" alt="Avatar of trydis"> trydis
@@ -6930,7 +6943,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/LeonTG">
 				<img src="https://avatars.githubusercontent.com/u/8997490?s=72&u=e6da381e8a56a16ed9e4d01764625a31bc504750&v=4" width="24" alt="Avatar of LeonTG"> LeonTG
@@ -6943,7 +6956,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/olegranmo">
 				<img src="https://avatars.githubusercontent.com/u/4214416?s=72&v=4" width="24" alt="Avatar of olegranmo"> olegranmo
@@ -6956,7 +6969,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/Avokadoen">
 				<img src="https://avatars.githubusercontent.com/u/26302304?s=72&u=2344c82a6177b41d2a206cb402e383342bc70f90&v=4" width="24" alt="Avatar of Avokadoen"> Avokadoen
@@ -6969,7 +6982,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/expez">
 				<img src="https://avatars.githubusercontent.com/u/1006557?s=72&v=4" width="24" alt="Avatar of expez"> expez
@@ -6982,7 +6995,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/srs">
 				<img src="https://avatars.githubusercontent.com/u/45278?s=72&u=e06ba0d7857d96ff0de90f96d9f3ee2d82a8c43b&v=4" width="24" alt="Avatar of srs"> srs
@@ -6995,7 +7008,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/andreas-nesheim">
 				<img src="https://avatars.githubusercontent.com/u/11583629?s=72&u=e9f39f327c9ff4d208ffe13297b3d3de44b55eb4&v=4" width="24" alt="Avatar of andreas-nesheim"> andreas-nesheim
@@ -7008,7 +7021,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/balintlaczko">
 				<img src="https://avatars.githubusercontent.com/u/45127463?s=72&u=f8398d7bebc38d97fa2cb82c497c0520e2bae472&v=4" width="24" alt="Avatar of balintlaczko"> balintlaczko
@@ -7021,7 +7034,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/mikke89">
 				<img src="https://avatars.githubusercontent.com/u/5490330?s=72&u=81fb1aba7a16879c0d9d95a20c68f787aaabc06e&v=4" width="24" alt="Avatar of mikke89"> mikke89
@@ -7034,12 +7047,12 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/Nullcano">
 				<img src="https://avatars.githubusercontent.com/u/7031498?s=72&u=4d7f11349ac2c1ad05978b860cd14d9916ad09a9&v=4" width="24" alt="Avatar of Nullcano"> Nullcano
 			</a><br/>
-			Steffen W⚪ld
+			Steffen Wold
 		</td>
 		<td>Frontend Developer, Ikomm As<br/></td>
 		<td>No Twitter Username</td>
@@ -7047,7 +7060,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/st0ffern">
 				<img src="https://avatars.githubusercontent.com/u/943968?s=72&u=367e72272c31384fc4491fdab4b3def432fa2a5d&v=4" width="24" alt="Avatar of st0ffern"> st0ffern
@@ -7060,7 +7073,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/aaberg">
 				<img src="https://avatars.githubusercontent.com/u/651812?s=72&u=af2159fbb3c6d2dd20e81a34954318d020e1127b&v=4" width="24" alt="Avatar of aaberg"> aaberg
@@ -7073,7 +7086,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/legendofmiracles">
 				<img src="https://avatars.githubusercontent.com/u/30902201?s=72&u=a6c287876254acbef81f30d6d9f485bba2c44f51&v=4" width="24" alt="Avatar of legendofmiracles"> legendofmiracles
@@ -7086,7 +7099,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/tormaroe">
 				<img src="https://avatars.githubusercontent.com/u/191559?s=72&u=43572bc48c4be13689e191e3e7a1cd1d0ada65d5&v=4" width="24" alt="Avatar of tormaroe"> tormaroe
@@ -7099,7 +7112,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/trgr">
 				<img src="https://avatars.githubusercontent.com/u/6060188?s=72&u=04c39c1c34d61b16c1d8e9eaf23bd962937f3df8&v=4" width="24" alt="Avatar of trgr"> trgr
@@ -7112,7 +7125,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/anokland">
 				<img src="https://avatars.githubusercontent.com/u/18149149?s=72&u=e713add2e7011b2968eb896bf8db1325b0362606&v=4" width="24" alt="Avatar of anokland"> anokland
@@ -7125,7 +7138,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/Znote">
 				<img src="https://avatars.githubusercontent.com/u/1552144?s=72&u=1681b0b942c2927bebc2b191d53bf9044fe52921&v=4" width="24" alt="Avatar of Znote"> Znote
@@ -7138,7 +7151,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/aleksanb">
 				<img src="https://avatars.githubusercontent.com/u/1413365?s=72&v=4" width="24" alt="Avatar of aleksanb"> aleksanb
@@ -7151,7 +7164,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/petterdaae">
 				<img src="https://avatars.githubusercontent.com/u/32042687?s=72&u=f9a6598607cc8620823a76149c0fd2b7b1c15278&v=4" width="24" alt="Avatar of petterdaae"> petterdaae
@@ -7164,7 +7177,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/aelvan">
 				<img src="https://avatars.githubusercontent.com/u/2675644?s=72&v=4" width="24" alt="Avatar of aelvan"> aelvan
@@ -7177,7 +7190,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/mmikkel">
 				<img src="https://avatars.githubusercontent.com/u/298510?s=72&u=3c6ad71312ba325c8a50a6c5c49ca22ca87df50b&v=4" width="24" alt="Avatar of mmikkel"> mmikkel
@@ -7190,7 +7203,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/kharann">
 				<img src="https://avatars.githubusercontent.com/u/41551253?s=72&u=dc4a38d22a8db62e22f5a19ef2e23cb023f658fc&v=4" width="24" alt="Avatar of kharann"> kharann
@@ -7200,19 +7213,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>@dotkom @capralifecycle </td>
 		<td>No Twitter Username</td>
 		<td>Norway</td>
-		<td>59</td>
-	</tr>
-	<tr>
-		<td>547</td>
-		<td>
-			<a href="https://github.com/HolyBarrel">
-				<img src="https://avatars.githubusercontent.com/u/58830226?s=72&u=b1a85e9ac3ad125ec1ae969f642b1b1473bd30d4&v=4" width="24" alt="Avatar of HolyBarrel"> HolyBarrel
-			</a><br/>
-			Magnus Allison
-		</td>
-		<td>Gone Rogue </td>
-		<td>No Twitter Username</td>
-		<td>Trondheim, Norway</td>
 		<td>59</td>
 	</tr>
 	<tr>
@@ -7452,19 +7452,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>566</td>
 		<td>
-			<a href="https://github.com/dipespandey">
-				<img src="https://avatars.githubusercontent.com/u/7748835?s=72&u=8b67650c22b7e7220826f8150a7ccd764e9e678c&v=4" width="24" alt="Avatar of dipespandey"> dipespandey
-			</a><br/>
-			Dipesh Pandey
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dipespandey08">dipespandey08</a></td>
-		<td>Oslo, Norway</td>
-		<td>58</td>
-	</tr>
-	<tr>
-		<td>567</td>
-		<td>
 			<a href="https://github.com/MagnusEnger">
 				<img src="https://avatars.githubusercontent.com/u/13331?s=72&v=4" width="24" alt="Avatar of MagnusEnger"> MagnusEnger
 			</a><br/>
@@ -7473,6 +7460,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Libriotech </td>
 		<td>No Twitter Username</td>
 		<td>Bodø, Norway</td>
+		<td>58</td>
+	</tr>
+	<tr>
+		<td>567</td>
+		<td>
+			<a href="https://github.com/dipespandey">
+				<img src="https://avatars.githubusercontent.com/u/7748835?s=72&u=8b67650c22b7e7220826f8150a7ccd764e9e678c&v=4" width="24" alt="Avatar of dipespandey"> dipespandey
+			</a><br/>
+			Dipesh Pandey
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dipespandey08">dipespandey08</a></td>
+		<td>Oslo, Norway</td>
 		<td>58</td>
 	</tr>
 	<tr>
@@ -8141,19 +8141,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>619</td>
 		<td>
-			<a href="https://github.com/gvanem">
-				<img src="https://avatars.githubusercontent.com/u/945271?s=72&u=37a1086dc61d13033269f604444ad0d57fe4b15c&v=4" width="24" alt="Avatar of gvanem"> gvanem
-			</a><br/>
-			Gisle Vanem
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bergen, Norway</td>
-		<td>53</td>
-	</tr>
-	<tr>
-		<td>620</td>
-		<td>
 			<a href="https://github.com/DrMattG">
 				<img src="https://avatars.githubusercontent.com/u/11541781?s=72&u=336dbc666ca10a335cedc8ab8de887ecbb3eee2e&v=4" width="24" alt="Avatar of DrMattG"> DrMattG
 			</a><br/>
@@ -8165,7 +8152,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/matssom">
 				<img src="https://avatars.githubusercontent.com/u/26466585?s=72&u=6f11877d1b2e7fb04f6606958558367825ddb47c&v=4" width="24" alt="Avatar of matssom"> matssom
@@ -8178,7 +8165,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/chrhein">
 				<img src="https://avatars.githubusercontent.com/u/31273371?s=72&u=5c47177ce508eccb6e67ef9f1523f52545f3c343&v=4" width="24" alt="Avatar of chrhein"> chrhein
@@ -8191,7 +8178,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/bernes1">
 				<img src="https://avatars.githubusercontent.com/u/37117219?s=72&u=d16d410eca556652c45975b4073587f18b2f45a5&v=4" width="24" alt="Avatar of bernes1"> bernes1
@@ -8204,7 +8191,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/LorgeN">
 				<img src="https://avatars.githubusercontent.com/u/18295483?s=72&u=5133c88d94aceef9172825902b596843dfe272e8&v=4" width="24" alt="Avatar of LorgeN"> LorgeN
@@ -8217,7 +8204,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/mihirk284">
 				<img src="https://avatars.githubusercontent.com/u/27280479?s=72&u=fd89bf716f204cfcd07e4355e566bc2049cb3c41&v=4" width="24" alt="Avatar of mihirk284"> mihirk284
@@ -8230,7 +8217,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/ChrisBit">
 				<img src="https://avatars.githubusercontent.com/u/6694377?s=72&v=4" width="24" alt="Avatar of ChrisBit"> ChrisBit
@@ -8243,7 +8230,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/dicom">
 				<img src="https://avatars.githubusercontent.com/u/68168?s=72&v=4" width="24" alt="Avatar of dicom"> dicom
@@ -8256,7 +8243,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/mokkabonna">
 				<img src="https://avatars.githubusercontent.com/u/230877?s=72&u=528fb45bdc8a0a170de65a55e57397fd3379a673&v=4" width="24" alt="Avatar of mokkabonna"> mokkabonna
@@ -8269,7 +8256,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/Quist">
 				<img src="https://avatars.githubusercontent.com/u/1188754?s=72&u=da6e83a3f358d4182567772263b1e34775e049d4&v=4" width="24" alt="Avatar of Quist"> Quist
@@ -8282,7 +8269,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/vegather">
 				<img src="https://avatars.githubusercontent.com/u/3409925?s=72&u=9a5d301d62780f99fb9e5e6b8bca35aa17ca3571&v=4" width="24" alt="Avatar of vegather"> vegather
@@ -8295,7 +8282,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/simenandre">
 				<img src="https://avatars.githubusercontent.com/u/3726815?s=72&u=c9b3a446c7c59fcb9caedf4682c2049ac8b45540&v=4" width="24" alt="Avatar of simenandre"> simenandre
@@ -8308,7 +8295,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/finsberg">
 				<img src="https://avatars.githubusercontent.com/u/2010323?s=72&u=471b5bb455f1a5a86a64883caafd28034d6d77a3&v=4" width="24" alt="Avatar of finsberg"> finsberg
@@ -8321,7 +8308,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/funsim">
 				<img src="https://avatars.githubusercontent.com/u/763150?s=72&u=c015fee43b99242b8bf796939d1e2607e41bb1a7&v=4" width="24" alt="Avatar of funsim"> funsim
@@ -8334,7 +8321,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/saulotoledo">
 				<img src="https://avatars.githubusercontent.com/u/5031156?s=72&u=33b2bb6c96dcb156c5fdc2545a7c1c02e1c011cd&v=4" width="24" alt="Avatar of saulotoledo"> saulotoledo
@@ -8347,7 +8334,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/arnemolland">
 				<img src="https://avatars.githubusercontent.com/u/13465896?s=72&u=c102a4dd0cf4fd71a313175e3df1d799432bc597&v=4" width="24" alt="Avatar of arnemolland"> arnemolland
@@ -8360,7 +8347,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/davda54">
 				<img src="https://avatars.githubusercontent.com/u/937184?s=72&u=032e870ee4d3a2bfd468d8cd5a8b0e6706e39667&v=4" width="24" alt="Avatar of davda54"> davda54
@@ -8373,7 +8360,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/kbalog">
 				<img src="https://avatars.githubusercontent.com/u/2270570?s=72&u=14247a0deb552133d12c5ebc35639b8b64b5cc6c&v=4" width="24" alt="Avatar of kbalog"> kbalog
@@ -8386,7 +8373,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/fullmers">
 				<img src="https://avatars.githubusercontent.com/u/4819864?s=72&u=5750a5f1403a7ef0afcd4f1f2ff0a556f47c0189&v=4" width="24" alt="Avatar of fullmers"> fullmers
@@ -8399,7 +8386,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>638</td>
 		<td>
 			<a href="https://github.com/vasshaug">
 				<img src="https://avatars.githubusercontent.com/u/5300197?s=72&u=05fecad0a4d38ee110432e86c872f56ccc1e6077&v=4" width="24" alt="Avatar of vasshaug"> vasshaug
@@ -8412,7 +8399,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/MikAoJk">
 				<img src="https://avatars.githubusercontent.com/u/23274950?s=72&u=ba04cfb3f2cde3380ef0f50be09b14b899641236&v=4" width="24" alt="Avatar of MikAoJk"> MikAoJk
@@ -8425,7 +8412,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/roys">
 				<img src="https://avatars.githubusercontent.com/u/832005?s=72&u=79251abde6ef2eac48342c17896802510475f868&v=4" width="24" alt="Avatar of roys"> roys
@@ -8434,6 +8421,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		</td>
 		<td>@norapps </td>
 		<td><a href="https://twitter.com/roysolberg">roysolberg</a></td>
+		<td>Bergen, Norway</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>641</td>
+		<td>
+			<a href="https://github.com/gvanem">
+				<img src="https://avatars.githubusercontent.com/u/945271?s=72&u=37a1086dc61d13033269f604444ad0d57fe4b15c&v=4" width="24" alt="Avatar of gvanem"> gvanem
+			</a><br/>
+			Gisle Vanem
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Bergen, Norway</td>
 		<td>51</td>
 	</tr>
@@ -8973,6 +8973,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>683</td>
 		<td>
+			<a href="https://github.com/ZeroDayTea">
+				<img src="https://avatars.githubusercontent.com/u/45400957?s=72&u=dbce738452465dcad1295a153852616908411d44&v=4" width="24" alt="Avatar of ZeroDayTea"> ZeroDayTea
+			</a><br/>
+			Patrick Dobranowski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>In a coal mine in Svalbard, Norway</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>684</td>
+		<td>
 			<a href="https://github.com/joachifm">
 				<img src="https://avatars.githubusercontent.com/u/41977?s=72&u=ba54c9de3752a1aa05a462e38bd6e84bdc26a2bb&v=4" width="24" alt="Avatar of joachifm"> joachifm
 			</a><br/>
@@ -8984,7 +8997,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/chrrasmussen">
 				<img src="https://avatars.githubusercontent.com/u/480560?s=72&v=4" width="24" alt="Avatar of chrrasmussen"> chrrasmussen
@@ -8997,7 +9010,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/audunstrand">
 				<img src="https://avatars.githubusercontent.com/u/3470775?s=72&u=a741151d9e83e4861fa08488d5ccfc67ced8bfbb&v=4" width="24" alt="Avatar of audunstrand"> audunstrand
@@ -9010,7 +9023,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/miceiken">
 				<img src="https://avatars.githubusercontent.com/u/671748?s=72&u=a55d867476535ab79f428ddf893bb8be15425fb2&v=4" width="24" alt="Avatar of miceiken"> miceiken
@@ -9023,7 +9036,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/tristan">
 				<img src="https://avatars.githubusercontent.com/u/1412?s=72&u=aab8aaa4cc0f1210ac45fc93873a5909d314c965&v=4" width="24" alt="Avatar of tristan"> tristan
@@ -9036,7 +9049,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/dylanmikesell">
 				<img src="https://avatars.githubusercontent.com/u/6980210?s=72&v=4" width="24" alt="Avatar of dylanmikesell"> dylanmikesell
@@ -9049,7 +9062,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/alexbirkett">
 				<img src="https://avatars.githubusercontent.com/u/530659?s=72&v=4" width="24" alt="Avatar of alexbirkett"> alexbirkett
@@ -9062,7 +9075,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/JannineVanFrisks">
 				<img src="https://avatars.githubusercontent.com/u/8028208?s=72&u=7d367a67c6210170b19aec2d3966a87e29420902&v=4" width="24" alt="Avatar of JannineVanFrisks"> JannineVanFrisks
@@ -9075,7 +9088,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/estensen">
 				<img src="https://avatars.githubusercontent.com/u/9142800?s=72&u=ebe1ef50a4e83cea709538afa948716d547006bc&v=4" width="24" alt="Avatar of estensen"> estensen
@@ -9088,7 +9101,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/aslakhol">
 				<img src="https://avatars.githubusercontent.com/u/11901064?s=72&u=a699f303281c2f702672a734951d1eb983708b35&v=4" width="24" alt="Avatar of aslakhol"> aslakhol
@@ -9101,7 +9114,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/varjagg">
 				<img src="https://avatars.githubusercontent.com/u/2544247?s=72&u=521ff560e224f0b9c4759f5041cc746e29f29f2d&v=4" width="24" alt="Avatar of varjagg"> varjagg
@@ -9114,7 +9127,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/dreamyguy">
 				<img src="https://avatars.githubusercontent.com/u/1021849?s=72&v=4" width="24" alt="Avatar of dreamyguy"> dreamyguy
@@ -9127,7 +9140,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/sgulseth">
 				<img src="https://avatars.githubusercontent.com/u/1627633?s=72&u=ba38f39ef12d87338d959492439b34ee77d6b98f&v=4" width="24" alt="Avatar of sgulseth"> sgulseth
@@ -9140,7 +9153,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/eriweb">
 				<img src="https://avatars.githubusercontent.com/u/6181934?s=72&u=ca1df7841a40aa8554bdbc2b21b235849bdfcb9f&v=4" width="24" alt="Avatar of eriweb"> eriweb
@@ -9153,7 +9166,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/LudvigHz">
 				<img src="https://avatars.githubusercontent.com/u/42850232?s=72&u=e6dc6735bde01f2617a0620bcad683f87f4a02a9&v=4" width="24" alt="Avatar of LudvigHz"> LudvigHz
@@ -9166,7 +9179,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/vetlemangrud">
 				<img src="https://avatars.githubusercontent.com/u/10108088?s=72&u=0300c98a4ae6f8e4a434878d87841e3c859e659f&v=4" width="24" alt="Avatar of vetlemangrud"> vetlemangrud
@@ -9179,7 +9192,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/mariusbrataas">
 				<img src="https://avatars.githubusercontent.com/u/22888839?s=72&u=2f649df80301d47ff65ccbe7983107f1038c62a4&v=4" width="24" alt="Avatar of mariusbrataas"> mariusbrataas
@@ -9192,7 +9205,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/root4loot">
 				<img src="https://avatars.githubusercontent.com/u/44880186?s=72&v=4" width="24" alt="Avatar of root4loot"> root4loot
@@ -9202,19 +9215,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Company</td>
 		<td><a href="https://twitter.com/danielantonsen">danielantonsen</a></td>
 		<td>Norway</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>701</td>
-		<td>
-			<a href="https://github.com/ZeroDayTea">
-				<img src="https://avatars.githubusercontent.com/u/45400957?s=72&u=dbce738452465dcad1295a153852616908411d44&v=4" width="24" alt="Avatar of ZeroDayTea"> ZeroDayTea
-			</a><br/>
-			Patrick Dobranowski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>In a coal mine in Svalbard, Norway</td>
 		<td>47</td>
 	</tr>
 	<tr>
@@ -9909,19 +9909,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>755</td>
 		<td>
-			<a href="https://github.com/sergism77">
-				<img src="https://avatars.githubusercontent.com/u/97520112?s=72&u=833aaf29569218f25ccd969cc5776939d998f803&v=4" width="24" alt="Avatar of sergism77"> sergism77
-			</a><br/>
-			Sergi
-		</td>
-		<td>@seigr-huset-dao  </td>
-		<td><a href="https://twitter.com/sergismknack">sergismknack</a></td>
-		<td>Oslo</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>756</td>
-		<td>
 			<a href="https://github.com/arvidjohansen">
 				<img src="https://avatars.githubusercontent.com/u/1577320?s=72&u=4597eddee671336ebc27450b55dbbf7b4dc924b9&v=4" width="24" alt="Avatar of arvidjohansen"> arvidjohansen
 			</a><br/>
@@ -9933,7 +9920,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/nkvoll">
 				<img src="https://avatars.githubusercontent.com/u/391931?s=72&v=4" width="24" alt="Avatar of nkvoll"> nkvoll
@@ -9946,7 +9933,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/blauks">
 				<img src="https://avatars.githubusercontent.com/u/33070123?s=72&u=27bbad343101afddf1a5a5f545b60b8141f2bdeb&v=4" width="24" alt="Avatar of blauks"> blauks
@@ -9959,7 +9946,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/myrlund">
 				<img src="https://avatars.githubusercontent.com/u/388633?s=72&u=10680779489191e27c127d84fa985e5fa935b1a8&v=4" width="24" alt="Avatar of myrlund"> myrlund
@@ -9972,7 +9959,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/stigsb">
 				<img src="https://avatars.githubusercontent.com/u/169939?s=72&u=7fef01bdacd8a86d48ea1c22a5f0d1e0681a91cf&v=4" width="24" alt="Avatar of stigsb"> stigsb
@@ -9985,7 +9972,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/sxiii">
 				<img src="https://avatars.githubusercontent.com/u/575925?s=72&v=4" width="24" alt="Avatar of sxiii"> sxiii
@@ -9998,7 +9985,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/resulumit">
 				<img src="https://avatars.githubusercontent.com/u/13631630?s=72&u=acc4276f43f44ef460f6b4b4a52974554df315c9&v=4" width="24" alt="Avatar of resulumit"> resulumit
@@ -10011,7 +9998,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/mhgolestan">
 				<img src="https://avatars.githubusercontent.com/u/15702370?s=72&u=514b40cbe3642b86b301a2eb06d1d1d70e42afb9&v=4" width="24" alt="Avatar of mhgolestan"> mhgolestan
@@ -10024,7 +10011,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/pkhamre">
 				<img src="https://avatars.githubusercontent.com/u/207996?s=72&u=0712b80032d727ca8f1a93a83bd15b0c2b024816&v=4" width="24" alt="Avatar of pkhamre"> pkhamre
@@ -10037,7 +10024,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/belaliyim">
 				<img src="https://avatars.githubusercontent.com/u/97298322?s=72&u=5cf6f236fbb2541d615d198bfe4d3e3e16a8b1ff&v=4" width="24" alt="Avatar of belaliyim"> belaliyim
@@ -10050,7 +10037,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/sklirg">
 				<img src="https://avatars.githubusercontent.com/u/5422571?s=72&v=4" width="24" alt="Avatar of sklirg"> sklirg
@@ -10063,7 +10050,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/freost">
 				<img src="https://avatars.githubusercontent.com/u/773958?s=72&v=4" width="24" alt="Avatar of freost"> freost
@@ -10076,7 +10063,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/Ojself">
 				<img src="https://avatars.githubusercontent.com/u/32653149?s=72&u=966e0f72832cebe5c9f2270ad8c66ee54c41808a&v=4" width="24" alt="Avatar of Ojself"> Ojself
@@ -10089,7 +10076,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/augustskare">
 				<img src="https://avatars.githubusercontent.com/u/1009759?s=72&u=6e487cbc754b382b0520397cc2dc79de4c5f5779&v=4" width="24" alt="Avatar of augustskare"> augustskare
@@ -10102,7 +10089,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/niklasmh">
 				<img src="https://avatars.githubusercontent.com/u/8504538?s=72&u=5feff307447291c1bdca50ab38eb7421560a379b&v=4" width="24" alt="Avatar of niklasmh"> niklasmh
@@ -10115,7 +10102,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/xcitic">
 				<img src="https://avatars.githubusercontent.com/u/9099324?s=72&u=361f44aab69f50c58ca8203212ae589b19365de9&v=4" width="24" alt="Avatar of xcitic"> xcitic
@@ -10128,7 +10115,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/ellotheth">
 				<img src="https://avatars.githubusercontent.com/u/977114?s=72&u=5820b02e66a509c64790598f6879e80fc3180aea&v=4" width="24" alt="Avatar of ellotheth"> ellotheth
@@ -10141,7 +10128,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/emilva">
 				<img src="https://avatars.githubusercontent.com/u/422054?s=72&u=cff053358e9dc1c59b86fd5727113b48cbdf1a3c&v=4" width="24" alt="Avatar of emilva"> emilva
@@ -10154,7 +10141,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/thorerik">
 				<img src="https://avatars.githubusercontent.com/u/219796?s=72&v=4" width="24" alt="Avatar of thorerik"> thorerik
@@ -10164,6 +10151,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Oslo, Norway</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>774</td>
+		<td>
+			<a href="https://github.com/sergism77">
+				<img src="https://avatars.githubusercontent.com/u/97520112?s=72&u=833aaf29569218f25ccd969cc5776939d998f803&v=4" width="24" alt="Avatar of sergism77"> sergism77
+			</a><br/>
+			Sergi
+		</td>
+		<td>@seigr-huset-dao  </td>
+		<td><a href="https://twitter.com/sergismknack">sergismknack</a></td>
+		<td>Oslo</td>
 		<td>43</td>
 	</tr>
 	<tr>
@@ -11573,6 +11573,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>883</td>
 		<td>
+			<a href="https://github.com/s-benna">
+				<img src="https://avatars.githubusercontent.com/u/132576098?s=72&u=5b7d6775f422b99e51f161a6ca0a5686d7e4eb2d&v=4" width="24" alt="Avatar of s-benna"> s-benna
+			</a><br/>
+			Benna Sozen 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Norway</td>
+		<td>39</td>
+	</tr>
+	<tr>
+		<td>884</td>
+		<td>
 			<a href="https://github.com/Illedan">
 				<img src="https://avatars.githubusercontent.com/u/1519936?s=72&u=8a04a99c8433727c1fa3af2f01441db6140b077b&v=4" width="24" alt="Avatar of Illedan"> Illedan
 			</a><br/>
@@ -11584,7 +11597,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>885</td>
 		<td>
 			<a href="https://github.com/hinderberg">
 				<img src="https://avatars.githubusercontent.com/u/306541?s=72&v=4" width="24" alt="Avatar of hinderberg"> hinderberg
@@ -11597,7 +11610,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>886</td>
 		<td>
 			<a href="https://github.com/stianlagstad">
 				<img src="https://avatars.githubusercontent.com/u/4340859?s=72&v=4" width="24" alt="Avatar of stianlagstad"> stianlagstad
@@ -11610,7 +11623,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>887</td>
 		<td>
 			<a href="https://github.com/PetterKraabol">
 				<img src="https://avatars.githubusercontent.com/u/2125142?s=72&u=1c94e04f46199f9d0d2ee4c9f04fc74590921989&v=4" width="24" alt="Avatar of PetterKraabol"> PetterKraabol
@@ -11623,7 +11636,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>888</td>
 		<td>
 			<a href="https://github.com/guilfer-dev">
 				<img src="https://avatars.githubusercontent.com/u/57098649?s=72&u=07ed683ec90318235c17898c67cd9d0620860ecb&v=4" width="24" alt="Avatar of guilfer-dev"> guilfer-dev
@@ -11636,7 +11649,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>889</td>
 		<td>
 			<a href="https://github.com/Pakz001">
 				<img src="https://avatars.githubusercontent.com/u/18249306?s=72&u=22698c1ee9967cdd6be18b7693ce3485167a0571&v=4" width="24" alt="Avatar of Pakz001"> Pakz001
@@ -11649,7 +11662,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>890</td>
 		<td>
 			<a href="https://github.com/perbu">
 				<img src="https://avatars.githubusercontent.com/u/232665?s=72&u=33b75ba8ff527c18b772fc62dc0e7346fe7a2240&v=4" width="24" alt="Avatar of perbu"> perbu
@@ -11662,7 +11675,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>890</td>
+		<td>891</td>
 		<td>
 			<a href="https://github.com/PolarBean">
 				<img src="https://avatars.githubusercontent.com/u/38996929?s=72&u=e18cda261d911bbde8545c6afce3585a536aebf4&v=4" width="24" alt="Avatar of PolarBean"> PolarBean
@@ -11675,7 +11688,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>891</td>
+		<td>892</td>
 		<td>
 			<a href="https://github.com/SegersIan">
 				<img src="https://avatars.githubusercontent.com/u/1368259?s=72&u=28da42e6c4a4f4c8a32cd0e4a021459344288208&v=4" width="24" alt="Avatar of SegersIan"> SegersIan
@@ -11688,7 +11701,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>892</td>
+		<td>893</td>
 		<td>
 			<a href="https://github.com/OsirisTerje">
 				<img src="https://avatars.githubusercontent.com/u/203432?s=72&u=db322e83a430ba42c387929a3cdf585cb0c1e2d9&v=4" width="24" alt="Avatar of OsirisTerje"> OsirisTerje
@@ -11701,7 +11714,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>893</td>
+		<td>894</td>
 		<td>
 			<a href="https://github.com/mariussd">
 				<img src="https://avatars.githubusercontent.com/u/23496288?s=72&u=1cb4dbdb43af4b7b648c0cc351576c1032de4851&v=4" width="24" alt="Avatar of mariussd"> mariussd
@@ -11714,7 +11727,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>894</td>
+		<td>895</td>
 		<td>
 			<a href="https://github.com/pistasjis">
 				<img src="https://avatars.githubusercontent.com/u/57069715?s=72&u=40bbb81634b7767175d80d9281c7d324a8f9a35a&v=4" width="24" alt="Avatar of pistasjis"> pistasjis
@@ -11727,7 +11740,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>895</td>
+		<td>896</td>
 		<td>
 			<a href="https://github.com/oal">
 				<img src="https://avatars.githubusercontent.com/u/371103?s=72&u=693109cbe1fa8f7fbdd4afa07ed3d28f3d331691&v=4" width="24" alt="Avatar of oal"> oal
@@ -11740,7 +11753,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>896</td>
+		<td>897</td>
 		<td>
 			<a href="https://github.com/evenmn">
 				<img src="https://avatars.githubusercontent.com/u/31393910?s=72&v=4" width="24" alt="Avatar of evenmn"> evenmn
@@ -11753,7 +11766,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>897</td>
+		<td>898</td>
 		<td>
 			<a href="https://github.com/kristianlm">
 				<img src="https://avatars.githubusercontent.com/u/259445?s=72&u=acf0e65a3ed655d48bddfb6758ca3cbac0c7da85&v=4" width="24" alt="Avatar of kristianlm"> kristianlm
@@ -11761,19 +11774,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 			Kristian Lein-Mathisen
 		</td>
 		<td>Adellica </td>
-		<td>No Twitter Username</td>
-		<td>Norway</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>898</td>
-		<td>
-			<a href="https://github.com/Vidito">
-				<img src="https://avatars.githubusercontent.com/u/56190096?s=72&u=945923b50f565c84b2168a32e76ce4052c6fbb2a&v=4" width="24" alt="Avatar of Vidito"> Vidito
-			</a><br/>
-			Vahid
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Norway</td>
 		<td>38</td>
@@ -11794,6 +11794,19 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 	<tr>
 		<td>900</td>
 		<td>
+			<a href="https://github.com/Vidito">
+				<img src="https://avatars.githubusercontent.com/u/56190096?s=72&u=945923b50f565c84b2168a32e76ce4052c6fbb2a&v=4" width="24" alt="Avatar of Vidito"> Vidito
+			</a><br/>
+			Vahid
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Norway</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>901</td>
+		<td>
 			<a href="https://github.com/christiansyoung">
 				<img src="https://avatars.githubusercontent.com/u/920028?s=72&v=4" width="24" alt="Avatar of christiansyoung"> christiansyoung
 			</a><br/>
@@ -11805,7 +11818,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>901</td>
+		<td>902</td>
 		<td>
 			<a href="https://github.com/swisscodes">
 				<img src="https://avatars.githubusercontent.com/u/13457446?s=72&u=a454be18e548bce823612b626704637ba535bd66&v=4" width="24" alt="Avatar of swisscodes"> swisscodes
@@ -11818,7 +11831,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>902</td>
+		<td>903</td>
 		<td>
 			<a href="https://github.com/QuocAnh90">
 				<img src="https://avatars.githubusercontent.com/u/31693364?s=72&u=2fd4a850961fbfcaebe639923fde0288e179cb55&v=4" width="24" alt="Avatar of QuocAnh90"> QuocAnh90
@@ -11831,7 +11844,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>903</td>
+		<td>904</td>
 		<td>
 			<a href="https://github.com/simeng">
 				<img src="https://avatars.githubusercontent.com/u/2274?s=72&v=4" width="24" alt="Avatar of simeng"> simeng
@@ -11844,7 +11857,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>904</td>
+		<td>905</td>
 		<td>
 			<a href="https://github.com/datee">
 				<img src="https://avatars.githubusercontent.com/u/1677550?s=72&u=365288b3b8091bf9cc4073ad9ad2367948c49ccb&v=4" width="24" alt="Avatar of datee"> datee
@@ -11857,7 +11870,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>905</td>
+		<td>906</td>
 		<td>
 			<a href="https://github.com/samleoqh">
 				<img src="https://avatars.githubusercontent.com/u/17130727?s=72&u=46a2262435a06618d9e74194fcb038e43af603dd&v=4" width="24" alt="Avatar of samleoqh"> samleoqh
@@ -11870,7 +11883,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>906</td>
+		<td>907</td>
 		<td>
 			<a href="https://github.com/emilkje">
 				<img src="https://avatars.githubusercontent.com/u/666928?s=72&u=865522e546686355b51486249deaa5631f0b1eee&v=4" width="24" alt="Avatar of emilkje"> emilkje
@@ -11883,7 +11896,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>907</td>
+		<td>908</td>
 		<td>
 			<a href="https://github.com/Nilzor">
 				<img src="https://avatars.githubusercontent.com/u/990654?s=72&u=662ab36a856ddc4ca130e506ea31bf40de4fd940&v=4" width="24" alt="Avatar of Nilzor"> Nilzor
@@ -11896,7 +11909,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>908</td>
+		<td>909</td>
 		<td>
 			<a href="https://github.com/kung-foo">
 				<img src="https://avatars.githubusercontent.com/u/1357571?s=72&v=4" width="24" alt="Avatar of kung-foo"> kung-foo
@@ -11909,7 +11922,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>909</td>
+		<td>910</td>
 		<td>
 			<a href="https://github.com/AdmiralenOla">
 				<img src="https://avatars.githubusercontent.com/u/14874487?s=72&u=6b3f43d5207f7025880d78e9762673ca3a809da9&v=4" width="24" alt="Avatar of AdmiralenOla"> AdmiralenOla
@@ -11922,7 +11935,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>910</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/DBezemer">
 				<img src="https://avatars.githubusercontent.com/u/1172670?s=72&u=2a8473d9baaa3ccbf3232372d3ae727449c5a4ee&v=4" width="24" alt="Avatar of DBezemer"> DBezemer
@@ -11935,7 +11948,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>911</td>
+		<td>912</td>
 		<td>
 			<a href="https://github.com/Dodalun">
 				<img src="https://avatars.githubusercontent.com/u/55927424?s=72&v=4" width="24" alt="Avatar of Dodalun"> Dodalun
@@ -11948,7 +11961,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>913</td>
 		<td>
 			<a href="https://github.com/sveinhal">
 				<img src="https://avatars.githubusercontent.com/u/88693?s=72&u=54f1672e15eb9feb60d9306b313c08b78793a227&v=4" width="24" alt="Avatar of sveinhal"> sveinhal
@@ -11961,7 +11974,7 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>913</td>
+		<td>914</td>
 		<td>
 			<a href="https://github.com/mkotsbak">
 				<img src="https://avatars.githubusercontent.com/u/296523?s=72&u=13068b47f61c52f1c24431a7049c19f3d9aeb2cc&v=4" width="24" alt="Avatar of mkotsbak"> mkotsbak
@@ -11971,19 +11984,6 @@ There are `957 users`  in Norway. You need at least `36 followers` to be on this
 		<td>Webstep A/s Trondheim </td>
 		<td><a href="https://twitter.com/mkotsbak">mkotsbak</a></td>
 		<td>Trondheim, Norway</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>914</td>
-		<td>
-			<a href="https://github.com/s-benna">
-				<img src="https://avatars.githubusercontent.com/u/132576098?s=72&u=5b7d6775f422b99e51f161a6ca0a5686d7e4eb2d&v=4" width="24" alt="Avatar of s-benna"> s-benna
-			</a><br/>
-			Benna Sozen 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Norway</td>
 		<td>38</td>
 	</tr>
 	<tr>
