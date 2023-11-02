@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" alt="Italy">
 </a>
 
-The `public contributions` by users in Italy on `2023/11/1 10:51 PM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
+The `public contributions` by users in Italy on `2023/11/2 4:53 PM UTC`. This list contains users from `Italy` and cities `Rome` `Venice` `Florence` `Turin` `Milan` `Naples` `Bologna` `Genoa`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Fbk </td>
 		<td><a href="https://twitter.com/napo">napo</a></td>
 		<td>Trento, Italy</td>
-		<td>38198</td>
+		<td>38266</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/aborruso">aborruso</a></td>
 		<td>Palermo, Italy</td>
-		<td>10571</td>
+		<td>10592</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/oscerd2">oscerd2</a></td>
 		<td>Rome, Italy</td>
-		<td>8358</td>
+		<td>8388</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -154,7 +154,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@immobiliare </td>
 		<td><a href="https://twitter.com/im_simonecorsi">im_simonecorsi</a></td>
 		<td>Rome, Italy</td>
-		<td>5932</td>
+		<td>5938</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -167,7 +167,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@spectrocloud </td>
 		<td><a href="https://twitter.com/mudler_it">mudler_it</a></td>
 		<td>Italy</td>
-		<td>5524</td>
+		<td>5531</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -180,7 +180,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Gem </td>
 		<td>No Twitter Username</td>
 		<td>Milan, Italy</td>
-		<td>4761</td>
+		<td>4766</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -193,7 +193,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Italian Institute Of Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Genoa</td>
-		<td>4327</td>
+		<td>4338</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -206,7 +206,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@platformatic </td>
 		<td><a href="https://twitter.com/matteocollina">matteocollina</a></td>
 		<td>Forlì, Italy</td>
-		<td>4187</td>
+		<td>4192</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -232,7 +232,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/edoardottt2">edoardottt2</a></td>
 		<td>Italy</td>
-		<td>3431</td>
+		<td>3447</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -245,7 +245,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Ascom Ums </td>
 		<td><a href="https://twitter.com/HollowMatt_ITA">HollowMatt_ITA</a></td>
 		<td>Italy</td>
-		<td>3383</td>
+		<td>3384</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -258,7 +258,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Perugia, Italy</td>
-		<td>3194</td>
+		<td>3206</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -271,7 +271,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Suse </td>
 		<td><a href="https://twitter.com/flavio_castelli">flavio_castelli</a></td>
 		<td>Italy</td>
-		<td>3095</td>
+		<td>3122</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -284,7 +284,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@kiratech </td>
 		<td><a href="https://twitter.com/brusisceddu">brusisceddu</a></td>
 		<td>Catania, Italy</td>
-		<td>2815</td>
+		<td>2832</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -297,7 +297,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/gtagliala">gtagliala</a></td>
 		<td>Italy</td>
-		<td>2804</td>
+		<td>2806</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -336,7 +336,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/buccino_alessio">buccino_alessio</a></td>
 		<td>Milan</td>
-		<td>2751</td>
+		<td>2768</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -362,7 +362,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Leithà </td>
 		<td><a href="https://twitter.com/Wallflower408">Wallflower408</a></td>
 		<td>Milan, Italy</td>
-		<td>2628</td>
+		<td>2632</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -375,7 +375,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/LocatiM">LocatiM</a></td>
 		<td>Como, Italy</td>
-		<td>2564</td>
+		<td>2580</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -388,7 +388,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Alma Mater Studiorum -<br/>Università<br/>Di<br/>Bologna<br/></td>
 		<td><a href="https://twitter.com/DanySK86">DanySK86</a></td>
 		<td>Italy</td>
-		<td>2428</td>
+		<td>2430</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -453,7 +453,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/GiulioCanti">GiulioCanti</a></td>
 		<td>Milan, Italy</td>
-		<td>2273</td>
+		<td>2281</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -466,7 +466,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Almaviva Spa </td>
 		<td>No Twitter Username</td>
 		<td>Milan, IT</td>
-		<td>2258</td>
+		<td>2264</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -479,7 +479,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@suse </td>
 		<td>No Twitter Username</td>
 		<td>Rome</td>
-		<td>2159</td>
+		<td>2160</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -492,7 +492,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@dnsimple  </td>
 		<td><a href="https://twitter.com/weppos">weppos</a></td>
 		<td>Rome, Italy</td>
-		<td>2143</td>
+		<td>2145</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -505,7 +505,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Datastax.com </td>
 		<td><a href="https://twitter.com/eolivelli">eolivelli</a></td>
 		<td>Italy</td>
-		<td>2072</td>
+		<td>2088</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -557,7 +557,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>1951</td>
+		<td>1958</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -570,7 +570,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@particular </td>
 		<td><a href="https://twitter.com/mauroservienti">mauroservienti</a></td>
 		<td>Italy</td>
-		<td>1921</td>
+		<td>1922</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -583,7 +583,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@nebulab </td>
 		<td>No Twitter Username</td>
 		<td>Milan, Italy</td>
-		<td>1903</td>
+		<td>1904</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -609,7 +609,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@microsoft </td>
 		<td><a href="https://twitter.com/SergioPedri">SergioPedri</a></td>
 		<td>Rome, Italy</td>
-		<td>1872</td>
+		<td>1873</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -627,6 +627,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>41</td>
 		<td>
+			<a href="https://github.com/francescobianco">
+				<img src="https://avatars.githubusercontent.com/u/472171?s=72&u=7828bcef99dcd7389e0ff966339772eb4c0bcbe5&v=4" width="24" alt="Avatar of francescobianco"> francescobianco
+			</a><br/>
+			Francesco Bianco
+		</td>
+		<td>@javanile </td>
+		<td><a href="https://twitter.com/francescobianco">francescobianco</a></td>
+		<td>Sicily, Italy</td>
+		<td>1837</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td>
 			<a href="https://github.com/lolgab">
 				<img src="https://avatars.githubusercontent.com/u/5793054?s=72&u=b27fe447eae94ffe01c552e4024d9d00a5fb1b48&v=4" width="24" alt="Avatar of lolgab"> lolgab
 			</a><br/>
@@ -635,10 +648,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@codacy </td>
 		<td>No Twitter Username</td>
 		<td>San Demetrio Corone, Italy</td>
-		<td>1835</td>
+		<td>1836</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/Allan-Nava">
 				<img src="https://avatars.githubusercontent.com/u/22498435?s=72&u=f715d7ae5a09d3ddaf1c278886ec86e59e86ed64&v=4" width="24" alt="Avatar of Allan-Nava"> Allan-Nava
@@ -648,36 +661,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@hiway-media </td>
 		<td>No Twitter Username</td>
 		<td>Milan</td>
-		<td>1823</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/francescobianco">
-				<img src="https://avatars.githubusercontent.com/u/472171?s=72&u=7828bcef99dcd7389e0ff966339772eb4c0bcbe5&v=4" width="24" alt="Avatar of francescobianco"> francescobianco
-			</a><br/>
-			Francesco Bianco
-		</td>
-		<td>@javanile </td>
-		<td><a href="https://twitter.com/francescobianco">francescobianco</a></td>
-		<td>Sicily, Italy</td>
-		<td>1808</td>
+		<td>1825</td>
 	</tr>
 	<tr>
 		<td>44</td>
-		<td>
-			<a href="https://github.com/bassosimone">
-				<img src="https://avatars.githubusercontent.com/u/337298?s=72&v=4" width="24" alt="Avatar of bassosimone"> bassosimone
-			</a><br/>
-			Simone Basso
-		</td>
-		<td>@ooni </td>
-		<td><a href="https://twitter.com/bassosimone">bassosimone</a></td>
-		<td>Ventimiglia, Italy</td>
-		<td>1802</td>
-	</tr>
-	<tr>
-		<td>45</td>
 		<td>
 			<a href="https://github.com/pitmonticone">
 				<img src="https://avatars.githubusercontent.com/u/38562595?s=72&u=f206fbb8effad6a3e19370c07f901b19685422bc&v=4" width="24" alt="Avatar of pitmonticone"> pitmonticone
@@ -687,7 +674,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>University Of Trento </td>
 		<td><a href="https://twitter.com/PietroMonticone">PietroMonticone</a></td>
 		<td>Trento, Italy</td>
-		<td>1789</td>
+		<td>1811</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td>
+			<a href="https://github.com/bassosimone">
+				<img src="https://avatars.githubusercontent.com/u/337298?s=72&v=4" width="24" alt="Avatar of bassosimone"> bassosimone
+			</a><br/>
+			Simone Basso
+		</td>
+		<td>@ooni </td>
+		<td><a href="https://twitter.com/bassosimone">bassosimone</a></td>
+		<td>Ventimiglia, Italy</td>
+		<td>1806</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -700,7 +700,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Sysdig </td>
 		<td><a href="https://twitter.com/jasondellaluce">jasondellaluce</a></td>
 		<td>Milan, Italy</td>
-		<td>1762</td>
+		<td>1771</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -726,10 +726,23 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Seco Mind S.r.l. </td>
 		<td>No Twitter Username</td>
 		<td>Padova, Italy</td>
-		<td>1709</td>
+		<td>1714</td>
 	</tr>
 	<tr>
 		<td>49</td>
+		<td>
+			<a href="https://github.com/cagnulein">
+				<img src="https://avatars.githubusercontent.com/u/48216?s=72&u=1af308576dffd489251fca68aceab3d4585a43c1&v=4" width="24" alt="Avatar of cagnulein"> cagnulein
+			</a><br/>
+			Roberto Viola
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/cagnulein">cagnulein</a></td>
+		<td>Maranello, Italy</td>
+		<td>1710</td>
+	</tr>
+	<tr>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/formidablae">
 				<img src="https://avatars.githubusercontent.com/u/81068781?s=72&u=592cdbda095c2c9bbf4f05fb0b016f4297896954&v=4" width="24" alt="Avatar of formidablae"> formidablae
@@ -739,10 +752,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/a_humble_coder">a_humble_coder</a></td>
 		<td>Milan, Italy</td>
-		<td>1704</td>
+		<td>1706</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/Stypox">
 				<img src="https://avatars.githubusercontent.com/u/36421898?s=72&u=8f1fe63d9c609d572c1c4fbf322ff9c326728cdb&v=4" width="24" alt="Avatar of Stypox"> Stypox
@@ -755,19 +768,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>1689</td>
 	</tr>
 	<tr>
-		<td>51</td>
-		<td>
-			<a href="https://github.com/cagnulein">
-				<img src="https://avatars.githubusercontent.com/u/48216?s=72&u=1af308576dffd489251fca68aceab3d4585a43c1&v=4" width="24" alt="Avatar of cagnulein"> cagnulein
-			</a><br/>
-			Roberto Viola
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/cagnulein">cagnulein</a></td>
-		<td>Maranello, Italy</td>
-		<td>1688</td>
-	</tr>
-	<tr>
 		<td>52</td>
 		<td>
 			<a href="https://github.com/gioboa">
@@ -778,7 +778,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/giorgio_boa">giorgio_boa</a></td>
 		<td>Treviso, Italy</td>
-		<td>1646</td>
+		<td>1652</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -791,7 +791,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@nomicfoundation </td>
 		<td><a href="https://twitter.com/fvictorio_nan">fvictorio_nan</a></td>
 		<td>Italy</td>
-		<td>1629</td>
+		<td>1646</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -843,7 +843,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@babel, @igalia </td>
 		<td><a href="https://twitter.com/NicoloRibaudo">NicoloRibaudo</a></td>
 		<td>Turin, Italy</td>
-		<td>1466</td>
+		<td>1469</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -856,7 +856,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Veeps </td>
 		<td><a href="https://twitter.com/whatyouhide">whatyouhide</a></td>
 		<td>Italy</td>
-		<td>1465</td>
+		<td>1467</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -869,7 +869,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Foligno (PG), Italy</td>
-		<td>1453</td>
+		<td>1456</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -882,7 +882,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/_kubealex">_kubealex</a></td>
 		<td>Rome - Italy</td>
-		<td>1432</td>
+		<td>1435</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -895,7 +895,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Strumenta </td>
 		<td><a href="https://twitter.com/ftomasse">ftomasse</a></td>
 		<td>Turin, Italy</td>
-		<td>1415</td>
+		<td>1417</td>
 	</tr>
 	<tr>
 		<td>62</td>
@@ -908,10 +908,23 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Red Hat Inc. </td>
 		<td><a href="https://twitter.com/ppatierno">ppatierno</a></td>
 		<td>Italy</td>
-		<td>1409</td>
+		<td>1412</td>
 	</tr>
 	<tr>
 		<td>63</td>
+		<td>
+			<a href="https://github.com/remorses">
+				<img src="https://avatars.githubusercontent.com/u/31321188?s=72&u=b88b6468d78fd0623614f8d8093ca083d524f176&v=4" width="24" alt="Avatar of remorses"> remorses
+			</a><br/>
+			Tommy D. Rossi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/__morse">__morse</a></td>
+		<td>italy</td>
+		<td>1411</td>
+	</tr>
+	<tr>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/ivanhofer">
 				<img src="https://avatars.githubusercontent.com/u/21335119?s=72&u=c70ffc495b48d4d5be098d8f2ca0ff325f052417&v=4" width="24" alt="Avatar of ivanhofer"> ivanhofer
@@ -924,19 +937,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>1408</td>
 	</tr>
 	<tr>
-		<td>64</td>
-		<td>
-			<a href="https://github.com/remorses">
-				<img src="https://avatars.githubusercontent.com/u/31321188?s=72&u=b88b6468d78fd0623614f8d8093ca083d524f176&v=4" width="24" alt="Avatar of remorses"> remorses
-			</a><br/>
-			Tommy D. Rossi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/__morse">__morse</a></td>
-		<td>italy</td>
-		<td>1401</td>
-	</tr>
-	<tr>
 		<td>65</td>
 		<td>
 			<a href="https://github.com/LucaCappelletti94">
@@ -947,7 +947,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Università Degli Studi Di<br/>Milano<br/></td>
 		<td><a href="https://twitter.com/LucaCappellett6">LucaCappellett6</a></td>
 		<td>Milano, Italy</td>
-		<td>1395</td>
+		<td>1406</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -960,7 +960,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Istituto Italiano Di Tecnologia<br/>@icub-tech-iit<br/>@robotology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Genoa, Italy</td>
-		<td>1370</td>
+		<td>1372</td>
 	</tr>
 	<tr>
 		<td>67</td>
@@ -973,7 +973,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>1365</td>
+		<td>1370</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -986,7 +986,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Nebulab </td>
 		<td>No Twitter Username</td>
 		<td>Chieti, Italy</td>
-		<td>1358</td>
+		<td>1361</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -1012,7 +1012,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Red Hat </td>
 		<td><a href="https://twitter.com/gscrivano">gscrivano</a></td>
 		<td>Italy</td>
-		<td>1325</td>
+		<td>1330</td>
 	</tr>
 	<tr>
 		<td>71</td>
@@ -1077,7 +1077,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@nearform  </td>
 		<td><a href="https://twitter.com/ManuEomm">ManuEomm</a></td>
 		<td>Italy</td>
-		<td>1242</td>
+		<td>1247</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1103,7 +1103,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/cadienvan">cadienvan</a></td>
 		<td>Italy</td>
-		<td>1210</td>
+		<td>1211</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -1199,19 +1199,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>85</td>
 		<td>
-			<a href="https://github.com/Ansuel">
-				<img src="https://avatars.githubusercontent.com/u/20289090?s=72&u=dd7760e84a670541069c134df19012f9ff684692&v=4" width="24" alt="Avatar of Ansuel"> Ansuel
-			</a><br/>
-			Christian Marangi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>1100</td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>
 			<a href="https://github.com/simahawk">
 				<img src="https://avatars.githubusercontent.com/u/347149?s=72&v=4" width="24" alt="Avatar of simahawk"> simahawk
 			</a><br/>
@@ -1220,7 +1207,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@oca @camptocamp </td>
 		<td>No Twitter Username</td>
 		<td>Rome</td>
-		<td>1094</td>
+		<td>1110</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td>
+			<a href="https://github.com/Ansuel">
+				<img src="https://avatars.githubusercontent.com/u/20289090?s=72&u=dd7760e84a670541069c134df19012f9ff684692&v=4" width="24" alt="Avatar of Ansuel"> Ansuel
+			</a><br/>
+			Christian Marangi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>1101</td>
 	</tr>
 	<tr>
 		<td>87</td>
@@ -1233,10 +1233,36 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Lastminute.com </td>
 		<td><a href="https://twitter.com/syessou">syessou</a></td>
 		<td>Italy</td>
-		<td>1086</td>
+		<td>1096</td>
 	</tr>
 	<tr>
 		<td>88</td>
+		<td>
+			<a href="https://github.com/jorainer">
+				<img src="https://avatars.githubusercontent.com/u/5506112?s=72&u=5b8c5bf51bd80d7c5dbea620e388933440c5d6cd&v=4" width="24" alt="Avatar of jorainer"> jorainer
+			</a><br/>
+			Johannes Rainer
+		</td>
+		<td>Institute For Biomedicine, Eurac<br/>Research<br/></td>
+		<td><a href="https://twitter.com/jo_rainer">jo_rainer</a></td>
+		<td>Bolzano, Italy</td>
+		<td>1094</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td>
+			<a href="https://github.com/aaime">
+				<img src="https://avatars.githubusercontent.com/u/325433?s=72&u=07d7270f523f3613ee5934affa295ba5ade1e0f6&v=4" width="24" alt="Avatar of aaime"> aaime
+			</a><br/>
+			Andrea Aime
+		</td>
+		<td>Geosolutions </td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>1084</td>
+	</tr>
+	<tr>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/kalwalt">
 				<img src="https://avatars.githubusercontent.com/u/1275858?s=72&v=4" width="24" alt="Avatar of kalwalt"> kalwalt
@@ -1249,7 +1275,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>1074</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/CarloLucibello">
 				<img src="https://avatars.githubusercontent.com/u/7014210?s=72&u=62e8636ace4c85444d35cbba000cf29311cb53af&v=4" width="24" alt="Avatar of CarloLucibello"> CarloLucibello
@@ -1262,20 +1288,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>1074</td>
 	</tr>
 	<tr>
-		<td>90</td>
-		<td>
-			<a href="https://github.com/aaime">
-				<img src="https://avatars.githubusercontent.com/u/325433?s=72&u=07d7270f523f3613ee5934affa295ba5ade1e0f6&v=4" width="24" alt="Avatar of aaime"> aaime
-			</a><br/>
-			Andrea Aime
-		</td>
-		<td>Geosolutions </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>1071</td>
-	</tr>
-	<tr>
-		<td>91</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/jotadagostin">
 				<img src="https://avatars.githubusercontent.com/u/107184368?s=72&u=438ad246933982c6fbd715281e80ec1c0b6cb407&v=4" width="24" alt="Avatar of jotadagostin"> jotadagostin
@@ -1288,7 +1301,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>1071</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/andreabuttarelli">
 				<img src="https://avatars.githubusercontent.com/u/49411143?s=72&u=73acab39fe3c42279067c54807fbd1e31601bb26&v=4" width="24" alt="Avatar of andreabuttarelli"> andreabuttarelli
@@ -1301,7 +1314,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>1071</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/mkmik">
 				<img src="https://avatars.githubusercontent.com/u/52673?s=72&v=4" width="24" alt="Avatar of mkmik"> mkmik
@@ -1311,10 +1324,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Influxdata </td>
 		<td><a href="https://twitter.com/mmikulicic">mmikulicic</a></td>
 		<td>Italy</td>
-		<td>1066</td>
+		<td>1067</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/89luca89">
 				<img src="https://avatars.githubusercontent.com/u/598882?s=72&v=4" width="24" alt="Avatar of 89luca89"> 89luca89
@@ -1324,10 +1337,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@loft-sh </td>
 		<td><a href="https://twitter.com/LucaDiMaio11">LucaDiMaio11</a></td>
 		<td>Italy</td>
-		<td>1063</td>
+		<td>1064</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/pietroalbini">
 				<img src="https://avatars.githubusercontent.com/u/2299951?s=72&u=8c43b73285fe3e82d464b38b98020290f4bc4882&v=4" width="24" alt="Avatar of pietroalbini"> pietroalbini
@@ -1340,7 +1353,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>1058</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/roberto-butti">
 				<img src="https://avatars.githubusercontent.com/u/678434?s=72&u=d860e5ca54a2bddcb501f71b35e107bc133ecf9c&v=4" width="24" alt="Avatar of roberto-butti"> roberto-butti
@@ -1353,19 +1366,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>1053</td>
 	</tr>
 	<tr>
-		<td>97</td>
-		<td>
-			<a href="https://github.com/jorainer">
-				<img src="https://avatars.githubusercontent.com/u/5506112?s=72&u=5b8c5bf51bd80d7c5dbea620e388933440c5d6cd&v=4" width="24" alt="Avatar of jorainer"> jorainer
-			</a><br/>
-			Johannes Rainer
-		</td>
-		<td>Institute For Biomedicine, Eurac<br/>Research<br/></td>
-		<td><a href="https://twitter.com/jo_rainer">jo_rainer</a></td>
-		<td>Bolzano, Italy</td>
-		<td>1009</td>
-	</tr>
-	<tr>
 		<td>98</td>
 		<td>
 			<a href="https://github.com/skypjack">
@@ -1376,7 +1376,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Freelancer </td>
 		<td><a href="https://twitter.com/scaipgec">scaipgec</a></td>
 		<td>Florence, Italy</td>
-		<td>997</td>
+		<td>1051</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1389,10 +1389,23 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@robotology @ami-iit  </td>
 		<td><a href="https://twitter.com/giulioromualdi">giulioromualdi</a></td>
 		<td>Italy</td>
-		<td>983</td>
+		<td>996</td>
 	</tr>
 	<tr>
 		<td>100</td>
+		<td>
+			<a href="https://github.com/diegoberaldin">
+				<img src="https://avatars.githubusercontent.com/u/2738294?s=72&u=994601d9e7cd095a717199faf2b5b2926659497d&v=4" width="24" alt="Avatar of diegoberaldin"> diegoberaldin
+			</a><br/>
+			Diego Beraldin
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/diegoberaldin">diegoberaldin</a></td>
+		<td>Italy</td>
+		<td>979</td>
+	</tr>
+	<tr>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/rbonghi">
 				<img src="https://avatars.githubusercontent.com/u/4551246?s=72&u=a53f994422e682b5f3090ef8049b36c15589e084&v=4" width="24" alt="Avatar of rbonghi"> rbonghi
@@ -1405,33 +1418,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>977</td>
 	</tr>
 	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/diegoberaldin">
-				<img src="https://avatars.githubusercontent.com/u/2738294?s=72&u=994601d9e7cd095a717199faf2b5b2926659497d&v=4" width="24" alt="Avatar of diegoberaldin"> diegoberaldin
-			</a><br/>
-			Diego Beraldin
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/diegoberaldin">diegoberaldin</a></td>
-		<td>Italy</td>
-		<td>975</td>
-	</tr>
-	<tr>
 		<td>102</td>
-		<td>
-			<a href="https://github.com/rbino">
-				<img src="https://avatars.githubusercontent.com/u/2528778?s=72&u=3b58b2c2b381356fa06b7802ae23041b4f1b83de&v=4" width="24" alt="Avatar of rbino"> rbino
-			</a><br/>
-			Riccardo Binetti
-		</td>
-		<td>@secomind  </td>
-		<td>No Twitter Username</td>
-		<td>Padova, Italy</td>
-		<td>969</td>
-	</tr>
-	<tr>
-		<td>103</td>
 		<td>
 			<a href="https://github.com/JustWhit3">
 				<img src="https://avatars.githubusercontent.com/u/48323961?s=72&u=500a4ea6ed6e41f31b65c299f266b8f4028b6409&v=4" width="24" alt="Avatar of JustWhit3"> JustWhit3
@@ -1441,7 +1428,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>University Of Bologna And<br/>Infn<br/></td>
 		<td><a href="https://twitter.com/JustWhit33">JustWhit33</a></td>
 		<td>Bologna, Italy</td>
-		<td>967</td>
+		<td>975</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
+			<a href="https://github.com/rbino">
+				<img src="https://avatars.githubusercontent.com/u/2528778?s=72&u=3b58b2c2b381356fa06b7802ae23041b4f1b83de&v=4" width="24" alt="Avatar of rbino"> rbino
+			</a><br/>
+			Riccardo Binetti
+		</td>
+		<td>@secomind  </td>
+		<td>No Twitter Username</td>
+		<td>Padova, Italy</td>
+		<td>972</td>
 	</tr>
 	<tr>
 		<td>104</td>
@@ -1493,7 +1493,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@prisma </td>
 		<td><a href="https://twitter.com/jkomyno">jkomyno</a></td>
 		<td>Venice area, Italy</td>
-		<td>938</td>
+		<td>942</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -1576,6 +1576,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>114</td>
 		<td>
+			<a href="https://github.com/LukeMathWalker">
+				<img src="https://avatars.githubusercontent.com/u/20745048?s=72&u=8ae9563524a89067ebbe1817ccbecb564c13cfb8&v=4" width="24" alt="Avatar of LukeMathWalker"> LukeMathWalker
+			</a><br/>
+			Luca Palmieri
+		</td>
+		<td>Mainmatter </td>
+		<td><a href="https://twitter.com/algo_luca">algo_luca</a></td>
+		<td>Rome</td>
+		<td>860</td>
+	</tr>
+	<tr>
+		<td>115</td>
+		<td>
 			<a href="https://github.com/omissis">
 				<img src="https://avatars.githubusercontent.com/u/197604?s=72&v=4" width="24" alt="Avatar of omissis"> omissis
 			</a><br/>
@@ -1587,7 +1600,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>859</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/lantiga">
 				<img src="https://avatars.githubusercontent.com/u/191033?s=72&u=6a2385ae31e764fae8a352d5145792d09b0f613f&v=4" width="24" alt="Avatar of lantiga"> lantiga
@@ -1598,19 +1611,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/lantiga">lantiga</a></td>
 		<td>Bergamo, Italy</td>
 		<td>858</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/LukeMathWalker">
-				<img src="https://avatars.githubusercontent.com/u/20745048?s=72&u=8ae9563524a89067ebbe1817ccbecb564c13cfb8&v=4" width="24" alt="Avatar of LukeMathWalker"> LukeMathWalker
-			</a><br/>
-			Luca Palmieri
-		</td>
-		<td>Mainmatter </td>
-		<td><a href="https://twitter.com/algo_luca">algo_luca</a></td>
-		<td>Rome</td>
-		<td>855</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1628,6 +1628,32 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>118</td>
 		<td>
+			<a href="https://github.com/simoneb">
+				<img src="https://avatars.githubusercontent.com/u/20181?s=72&v=4" width="24" alt="Avatar of simoneb"> simoneb
+			</a><br/>
+			Simone Busoli
+		</td>
+		<td>Nearform </td>
+		<td><a href="https://twitter.com/simonebu">simonebu</a></td>
+		<td>Italy</td>
+		<td>841</td>
+	</tr>
+	<tr>
+		<td>119</td>
+		<td>
+			<a href="https://github.com/CastagnaIT">
+				<img src="https://avatars.githubusercontent.com/u/3257156?s=72&u=44ad608aa0086c3a26601650e3470829c470913f&v=4" width="24" alt="Avatar of CastagnaIT"> CastagnaIT
+			</a><br/>
+			Stefano Gottardo
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Venice, Italy</td>
+		<td>840</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
 			<a href="https://github.com/fedepaol">
 				<img src="https://avatars.githubusercontent.com/u/200560?s=72&u=aeb9ae668abd4c61e9198a1509f2d2b6b4ac29ec&v=4" width="24" alt="Avatar of fedepaol"> fedepaol
 			</a><br/>
@@ -1639,20 +1665,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>840</td>
 	</tr>
 	<tr>
-		<td>119</td>
-		<td>
-			<a href="https://github.com/simoneb">
-				<img src="https://avatars.githubusercontent.com/u/20181?s=72&v=4" width="24" alt="Avatar of simoneb"> simoneb
-			</a><br/>
-			Simone Busoli
-		</td>
-		<td>Nearform </td>
-		<td><a href="https://twitter.com/simonebu">simonebu</a></td>
-		<td>Italy</td>
-		<td>839</td>
-	</tr>
-	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/maboa">
 				<img src="https://avatars.githubusercontent.com/u/208756?s=72&u=ca08f9dc79777f45a0248233e78441966a7e2b2f&v=4" width="24" alt="Avatar of maboa"> maboa
@@ -1665,7 +1678,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>839</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/ptkdev">
 				<img src="https://avatars.githubusercontent.com/u/442844?s=72&u=dc8b660fc8127a099e5ef59745d21fb581ebe08f&v=4" width="24" alt="Avatar of ptkdev"> ptkdev
@@ -1676,19 +1689,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/ptkdevio">ptkdevio</a></td>
 		<td>Rome, Italy</td>
 		<td>837</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/CastagnaIT">
-				<img src="https://avatars.githubusercontent.com/u/3257156?s=72&u=44ad608aa0086c3a26601650e3470829c470913f&v=4" width="24" alt="Avatar of CastagnaIT"> CastagnaIT
-			</a><br/>
-			Stefano Gottardo
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Venice, Italy</td>
-		<td>831</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -1706,6 +1706,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>124</td>
 		<td>
+			<a href="https://github.com/FabioLolix">
+				<img src="https://avatars.githubusercontent.com/u/19638095?s=72&u=91eb37cc0e5d46e5f69119fbef48a73ea1030b75&v=4" width="24" alt="Avatar of FabioLolix"> FabioLolix
+			</a><br/>
+			Fabio Loli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Fabio_Lolix">Fabio_Lolix</a></td>
+		<td>Italy</td>
+		<td>793</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
 			<a href="https://github.com/Helias">
 				<img src="https://avatars.githubusercontent.com/u/519778?s=72&u=6878f752253a5fb0aab4d9a0c1db06fd0ec73d17&v=4" width="24" alt="Avatar of Helias"> Helias
 			</a><br/>
@@ -1714,10 +1727,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Fedex </td>
 		<td><a href="https://twitter.com/Heliasdev">Heliasdev</a></td>
 		<td>Italy</td>
-		<td>791</td>
+		<td>792</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/3v1n0">
 				<img src="https://avatars.githubusercontent.com/u/345675?s=72&v=4" width="24" alt="Avatar of 3v1n0"> 3v1n0
@@ -1730,33 +1743,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>789</td>
 	</tr>
 	<tr>
-		<td>126</td>
-		<td>
-			<a href="https://github.com/FabioLolix">
-				<img src="https://avatars.githubusercontent.com/u/19638095?s=72&u=91eb37cc0e5d46e5f69119fbef48a73ea1030b75&v=4" width="24" alt="Avatar of FabioLolix"> FabioLolix
-			</a><br/>
-			Fabio Loli
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Fabio_Lolix">Fabio_Lolix</a></td>
-		<td>Italy</td>
-		<td>786</td>
-	</tr>
-	<tr>
 		<td>127</td>
-		<td>
-			<a href="https://github.com/gabro">
-				<img src="https://avatars.githubusercontent.com/u/691940?s=72&u=cc41b494c40cff0015df21d897639d7d176bb9c6&v=4" width="24" alt="Avatar of gabro"> gabro
-			</a><br/>
-			Gabriele Petronella
-		</td>
-		<td>Buildo </td>
-		<td>No Twitter Username</td>
-		<td>Milan</td>
-		<td>779</td>
-	</tr>
-	<tr>
-		<td>128</td>
 		<td>
 			<a href="https://github.com/neysofu">
 				<img src="https://avatars.githubusercontent.com/u/18384577?s=72&u=0a003e8c25cc86546a7881c12a0e119cae0ee186&v=4" width="24" alt="Avatar of neysofu"> neysofu
@@ -1766,6 +1753,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@sovereign-labs </td>
 		<td><a href="https://twitter.com/neysofu">neysofu</a></td>
 		<td>Pisa, Italy</td>
+		<td>780</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
+			<a href="https://github.com/gabro">
+				<img src="https://avatars.githubusercontent.com/u/691940?s=72&u=cc41b494c40cff0015df21d897639d7d176bb9c6&v=4" width="24" alt="Avatar of gabro"> gabro
+			</a><br/>
+			Gabriele Petronella
+		</td>
+		<td>Buildo </td>
+		<td>No Twitter Username</td>
+		<td>Milan</td>
 		<td>779</td>
 	</tr>
 	<tr>
@@ -1862,6 +1862,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>136</td>
 		<td>
+			<a href="https://github.com/elpaso">
+				<img src="https://avatars.githubusercontent.com/u/142164?s=72&u=90a3ff628d57bc0c14bf0513b33e9a23bbcd58da&v=4" width="24" alt="Avatar of elpaso"> elpaso
+			</a><br/>
+			Alessandro Pasotti
+		</td>
+		<td>Itopen </td>
+		<td>No Twitter Username</td>
+		<td>Luserna San Giovanni (TO), Italy</td>
+		<td>725</td>
+	</tr>
+	<tr>
+		<td>137</td>
+		<td>
 			<a href="https://github.com/semanticart">
 				<img src="https://avatars.githubusercontent.com/u/8633?s=72&u=5c6cda21786f59ddfdb80d7e15473edfeb0f1302&v=4" width="24" alt="Avatar of semanticart"> semanticart
 			</a><br/>
@@ -1871,19 +1884,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/semanticart">semanticart</a></td>
 		<td>Rome, GA</td>
 		<td>721</td>
-	</tr>
-	<tr>
-		<td>137</td>
-		<td>
-			<a href="https://github.com/elpaso">
-				<img src="https://avatars.githubusercontent.com/u/142164?s=72&u=90a3ff628d57bc0c14bf0513b33e9a23bbcd58da&v=4" width="24" alt="Avatar of elpaso"> elpaso
-			</a><br/>
-			Alessandro Pasotti
-		</td>
-		<td>Itopen </td>
-		<td>No Twitter Username</td>
-		<td>Luserna San Giovanni (TO), Italy</td>
-		<td>720</td>
 	</tr>
 	<tr>
 		<td>138</td>
@@ -1901,6 +1901,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>139</td>
 		<td>
+			<a href="https://github.com/paolomainardi">
+				<img src="https://avatars.githubusercontent.com/u/8747?s=72&u=000e93e7d87e3614ec8c266cc88db1a4b059086a&v=4" width="24" alt="Avatar of paolomainardi"> paolomainardi
+			</a><br/>
+			Paolo Mainardi
+		</td>
+		<td>Sparkfabrik - We Build<br/>Rock<br/>Solid<br/>Cloud<br/>Native<br/>Solutions<br/></td>
+		<td><a href="https://twitter.com/paolomainardi">paolomainardi</a></td>
+		<td>Milano, Italy</td>
+		<td>707</td>
+	</tr>
+	<tr>
+		<td>140</td>
+		<td>
 			<a href="https://github.com/fedddddd">
 				<img src="https://avatars.githubusercontent.com/u/58637860?s=72&u=2354b84fcb78f0a081f6dc7490cbe23c8b92c6f1&v=4" width="24" alt="Avatar of fedddddd"> fedddddd
 			</a><br/>
@@ -1910,19 +1923,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Italy</td>
 		<td>707</td>
-	</tr>
-	<tr>
-		<td>140</td>
-		<td>
-			<a href="https://github.com/paolomainardi">
-				<img src="https://avatars.githubusercontent.com/u/8747?s=72&u=000e93e7d87e3614ec8c266cc88db1a4b059086a&v=4" width="24" alt="Avatar of paolomainardi"> paolomainardi
-			</a><br/>
-			Paolo Mainardi
-		</td>
-		<td>Sparkfabrik - We Build<br/>Rock<br/>Solid<br/>Cloud<br/>Native<br/>Solutions<br/></td>
-		<td><a href="https://twitter.com/paolomainardi">paolomainardi</a></td>
-		<td>Milano, Italy</td>
-		<td>706</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -1935,23 +1935,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@qredo  </td>
 		<td><a href="https://twitter.com/zaphodias">zaphodias</a></td>
 		<td>Italy</td>
-		<td>702</td>
+		<td>703</td>
 	</tr>
 	<tr>
 		<td>142</td>
-		<td>
-			<a href="https://github.com/Slamdunk">
-				<img src="https://avatars.githubusercontent.com/u/152236?s=72&u=b54ee2f228aaf2954ed85f0bdd3a9651dd4c0a50&v=4" width="24" alt="Avatar of Slamdunk"> Slamdunk
-			</a><br/>
-			Filippo Tessarotto
-		</td>
-		<td>@confinet  </td>
-		<td><a href="https://twitter.com/slamzoe">slamzoe</a></td>
-		<td>Italy</td>
-		<td>700</td>
-	</tr>
-	<tr>
-		<td>143</td>
 		<td>
 			<a href="https://github.com/jackdbd">
 				<img src="https://avatars.githubusercontent.com/u/5048090?s=72&u=64a46be85452cf8af56f0c6ae24d9f80ab552e09&v=4" width="24" alt="Avatar of jackdbd"> jackdbd
@@ -1962,6 +1949,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/jackdbd">jackdbd</a></td>
 		<td>Viareggio, Italy</td>
 		<td>700</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a href="https://github.com/Slamdunk">
+				<img src="https://avatars.githubusercontent.com/u/152236?s=72&u=b54ee2f228aaf2954ed85f0bdd3a9651dd4c0a50&v=4" width="24" alt="Avatar of Slamdunk"> Slamdunk
+			</a><br/>
+			Filippo Tessarotto
+		</td>
+		<td>@confinet  </td>
+		<td><a href="https://twitter.com/slamzoe">slamzoe</a></td>
+		<td>Italy</td>
+		<td>695</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2039,7 +2039,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/maboglia">maboglia</a></td>
 		<td>Itally, Turin</td>
-		<td>676</td>
+		<td>677</td>
 	</tr>
 	<tr>
 		<td>150</td>
@@ -2078,7 +2078,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@solarma  </td>
 		<td><a href="https://twitter.com/gpmacario">gpmacario</a></td>
 		<td>Italy</td>
-		<td>660</td>
+		<td>661</td>
 	</tr>
 	<tr>
 		<td>153</td>
@@ -2091,7 +2091,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@deepset-ai </td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>638</td>
+		<td>642</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2182,7 +2182,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@dailydotdev  </td>
 		<td><a href="https://twitter.com/FrancescoCiull4">FrancescoCiull4</a></td>
 		<td>Rome</td>
-		<td>602</td>
+		<td>603</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -2195,7 +2195,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/eldavo_exe">eldavo_exe</a></td>
 		<td>Italy</td>
-		<td>600</td>
+		<td>601</td>
 	</tr>
 	<tr>
 		<td>162</td>
@@ -2208,7 +2208,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Campania; Italy</td>
-		<td>600</td>
+		<td>601</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -2221,7 +2221,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Piasys.com </td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>597</td>
+		<td>599</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2252,19 +2252,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>166</td>
 		<td>
-			<a href="https://github.com/massimoaria">
-				<img src="https://avatars.githubusercontent.com/u/16023543?s=72&u=2c6c9a6eee9ddd3b5b5189c0f91d8335c23082b8&v=4" width="24" alt="Avatar of massimoaria"> massimoaria
-			</a><br/>
-			Massimo Aria
-		</td>
-		<td>University Of Naples Federico<br/>Ii<br/>(www.unina.it)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Naples, Italy</td>
-		<td>586</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
 			<a href="https://github.com/amerkoleci">
 				<img src="https://avatars.githubusercontent.com/u/1788857?s=72&u=e571373424ad03b0711c39c98e215c48bb3c5923&v=4" width="24" alt="Avatar of amerkoleci"> amerkoleci
 			</a><br/>
@@ -2273,7 +2260,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AmerKoleci">AmerKoleci</a></td>
 		<td>Padua (Padova), Italy</td>
-		<td>584</td>
+		<td>588</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
+			<a href="https://github.com/massimoaria">
+				<img src="https://avatars.githubusercontent.com/u/16023543?s=72&u=2c6c9a6eee9ddd3b5b5189c0f91d8335c23082b8&v=4" width="24" alt="Avatar of massimoaria"> massimoaria
+			</a><br/>
+			Massimo Aria
+		</td>
+		<td>University Of Naples Federico<br/>Ii<br/>(www.unina.it)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Naples, Italy</td>
+		<td>587</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -2286,7 +2286,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@usbarmory </td>
 		<td><a href="https://twitter.com/AndreaBarisani">AndreaBarisani</a></td>
 		<td>Trieste, Italy</td>
-		<td>579</td>
+		<td>582</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2351,7 +2351,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/burningion">burningion</a></td>
 		<td>Naples, FL</td>
-		<td>557</td>
+		<td>558</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -2364,7 +2364,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Politecnico Di Milano </td>
 		<td>No Twitter Username</td>
 		<td>Milan, Italy</td>
-		<td>557</td>
+		<td>558</td>
 	</tr>
 	<tr>
 		<td>175</td>
@@ -2429,7 +2429,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Vmware </td>
 		<td>No Twitter Username</td>
 		<td>Milano, Italy</td>
-		<td>533</td>
+		<td>536</td>
 	</tr>
 	<tr>
 		<td>180</td>
@@ -2442,7 +2442,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@nucleode </td>
 		<td>No Twitter Username</td>
 		<td>Gorizia, Italy</td>
-		<td>530</td>
+		<td>532</td>
 	</tr>
 	<tr>
 		<td>181</td>
@@ -2551,6 +2551,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>189</td>
 		<td>
+			<a href="https://github.com/asarubbo">
+				<img src="https://avatars.githubusercontent.com/u/4741819?s=72&v=4" width="24" alt="Avatar of asarubbo"> asarubbo
+			</a><br/>
+			Agostino Sarubbo
+		</td>
+		<td>Gentoo </td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>495</td>
+	</tr>
+	<tr>
+		<td>190</td>
+		<td>
 			<a href="https://github.com/Hypnootize">
 				<img src="https://avatars.githubusercontent.com/u/19785551?s=72&u=79f40a16ae28742b4400de952e22b8a69d32e30d&v=4" width="24" alt="Avatar of Hypnootize"> Hypnootize
 			</a><br/>
@@ -2560,19 +2573,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Italy</td>
 		<td>494</td>
-	</tr>
-	<tr>
-		<td>190</td>
-		<td>
-			<a href="https://github.com/asarubbo">
-				<img src="https://avatars.githubusercontent.com/u/4741819?s=72&v=4" width="24" alt="Avatar of asarubbo"> asarubbo
-			</a><br/>
-			Agostino Sarubbo
-		</td>
-		<td>Gentoo </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>491</td>
 	</tr>
 	<tr>
 		<td>191</td>
@@ -2598,10 +2598,23 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Sismed S.r.l. </td>
 		<td>No Twitter Username</td>
 		<td>Taranto, Italy</td>
-		<td>487</td>
+		<td>489</td>
 	</tr>
 	<tr>
 		<td>193</td>
+		<td>
+			<a href="https://github.com/gsora">
+				<img src="https://avatars.githubusercontent.com/u/145909?s=72&u=609de63b435d2f09bb8d98d847ae8d64dfe108ed&v=4" width="24" alt="Avatar of gsora"> gsora
+			</a><br/>
+			Gianguido Sorà
+		</td>
+		<td>@obolnetwork  </td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>487</td>
+	</tr>
+	<tr>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/paolosalvatori">
 				<img src="https://avatars.githubusercontent.com/u/1658419?s=72&u=289f9856d8368d672c88a79ff0a5935fa7ddcd40&v=4" width="24" alt="Avatar of paolosalvatori"> paolosalvatori
@@ -2614,7 +2627,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>486</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>195</td>
+		<td>
+			<a href="https://github.com/Gsantomaggio">
+				<img src="https://avatars.githubusercontent.com/u/386987?s=72&u=63f6f72b2410016d0809f57cf8651e1bb0aaf65e&v=4" width="24" alt="Avatar of Gsantomaggio"> Gsantomaggio
+			</a><br/>
+			Gabriele Santomaggio
+		</td>
+		<td>Vmware </td>
+		<td><a href="https://twitter.com/Gsantomaggio">Gsantomaggio</a></td>
+		<td>Bologna</td>
+		<td>485</td>
+	</tr>
+	<tr>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/LidiaKovac">
 				<img src="https://avatars.githubusercontent.com/u/70687866?s=72&u=1db96ca02cd2ffc11d10d2acca82d6cf53039ed3&v=4" width="24" alt="Avatar of LidiaKovac"> LidiaKovac
@@ -2625,32 +2651,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Genova, Italy</td>
 		<td>485</td>
-	</tr>
-	<tr>
-		<td>195</td>
-		<td>
-			<a href="https://github.com/gsora">
-				<img src="https://avatars.githubusercontent.com/u/145909?s=72&u=609de63b435d2f09bb8d98d847ae8d64dfe108ed&v=4" width="24" alt="Avatar of gsora"> gsora
-			</a><br/>
-			Gianguido Sorà
-		</td>
-		<td>@obolnetwork  </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>485</td>
-	</tr>
-	<tr>
-		<td>196</td>
-		<td>
-			<a href="https://github.com/Gsantomaggio">
-				<img src="https://avatars.githubusercontent.com/u/386987?s=72&u=63f6f72b2410016d0809f57cf8651e1bb0aaf65e&v=4" width="24" alt="Avatar of Gsantomaggio"> Gsantomaggio
-			</a><br/>
-			Gabriele Santomaggio
-		</td>
-		<td>Vmware </td>
-		<td><a href="https://twitter.com/Gsantomaggio">Gsantomaggio</a></td>
-		<td>Bologna</td>
-		<td>484</td>
 	</tr>
 	<tr>
 		<td>197</td>
@@ -2668,6 +2668,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>198</td>
 		<td>
+			<a href="https://github.com/sherpya">
+				<img src="https://avatars.githubusercontent.com/u/120074?s=72&v=4" width="24" alt="Avatar of sherpya"> sherpya
+			</a><br/>
+			Gianluigi Tiesi
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/sherpya">sherpya</a></td>
+		<td>Italy</td>
+		<td>476</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
 			<a href="https://github.com/rcardin">
 				<img src="https://avatars.githubusercontent.com/u/1671697?s=72&u=8b1b58f2fd8d35bb87bf162181492928a72d6bc0&v=4" width="24" alt="Avatar of rcardin"> rcardin
 			</a><br/>
@@ -2677,19 +2690,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/riccardo_cardin">riccardo_cardin</a></td>
 		<td>Padova, Italy</td>
 		<td>475</td>
-	</tr>
-	<tr>
-		<td>199</td>
-		<td>
-			<a href="https://github.com/sherpya">
-				<img src="https://avatars.githubusercontent.com/u/120074?s=72&v=4" width="24" alt="Avatar of sherpya"> sherpya
-			</a><br/>
-			Gianluigi Tiesi
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/sherpya">sherpya</a></td>
-		<td>Italy</td>
-		<td>472</td>
 	</tr>
 	<tr>
 		<td>200</td>
@@ -2720,6 +2720,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>202</td>
 		<td>
+			<a href="https://github.com/blocknotes">
+				<img src="https://avatars.githubusercontent.com/u/6893256?s=72&u=8dd41d5339c8259dfae1486b2dc82ad419a38c72&v=4" width="24" alt="Avatar of blocknotes"> blocknotes
+			</a><br/>
+			Mattia Roccoberton
+		</td>
+		<td>Telepass </td>
+		<td><a href="https://twitter.com/too_sleepy">too_sleepy</a></td>
+		<td>Italy</td>
+		<td>469</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
 			<a href="https://github.com/micheleriva">
 				<img src="https://avatars.githubusercontent.com/u/14977595?s=72&u=734253fca2edc6a42527d89c743a4aa0bd3cca4c&v=4" width="24" alt="Avatar of micheleriva"> micheleriva
 			</a><br/>
@@ -2728,10 +2741,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@oramasearch </td>
 		<td><a href="https://twitter.com/MicheleRivaCode">MicheleRivaCode</a></td>
 		<td>Milan, Italy</td>
-		<td>465</td>
+		<td>468</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/jodosha">
 				<img src="https://avatars.githubusercontent.com/u/5089?s=72&u=fd8839fca548996826c602e80f7b9430c6f27f91&v=4" width="24" alt="Avatar of jodosha"> jodosha
@@ -2741,10 +2754,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Backend Architect At @toptal<br/><br/></td>
 		<td><a href="https://twitter.com/jodosha">jodosha</a></td>
 		<td>Rome, Italy</td>
-		<td>461</td>
+		<td>466</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/MatteoGuadrini">
 				<img src="https://avatars.githubusercontent.com/u/29921418?s=72&u=39153435036defe0d8b4d9eaf35d70ef890516f1&v=4" width="24" alt="Avatar of MatteoGuadrini"> MatteoGuadrini
@@ -2757,7 +2770,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>460</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
+		<td>
+			<a href="https://github.com/thehowl">
+				<img src="https://avatars.githubusercontent.com/u/4681308?s=72&u=e4f46accc06daf2711a826caeb4a78cc5eb637bf&v=4" width="24" alt="Avatar of thehowl"> thehowl
+			</a><br/>
+			Morgan
+		</td>
+		<td>@gnolang </td>
+		<td>No Twitter Username</td>
+		<td>Turin, Italy</td>
+		<td>459</td>
+	</tr>
+	<tr>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/dainok">
 				<img src="https://avatars.githubusercontent.com/u/9211364?s=72&u=9a19147736de77acbac6f319da55b60c5c60567e&v=4" width="24" alt="Avatar of dainok"> dainok
@@ -2770,32 +2796,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>457</td>
 	</tr>
 	<tr>
-		<td>206</td>
-		<td>
-			<a href="https://github.com/thehowl">
-				<img src="https://avatars.githubusercontent.com/u/4681308?s=72&u=e4f46accc06daf2711a826caeb4a78cc5eb637bf&v=4" width="24" alt="Avatar of thehowl"> thehowl
-			</a><br/>
-			Morgan
-		</td>
-		<td>@gnolang </td>
-		<td>No Twitter Username</td>
-		<td>Turin, Italy</td>
-		<td>457</td>
-	</tr>
-	<tr>
-		<td>207</td>
-		<td>
-			<a href="https://github.com/blocknotes">
-				<img src="https://avatars.githubusercontent.com/u/6893256?s=72&u=8dd41d5339c8259dfae1486b2dc82ad419a38c72&v=4" width="24" alt="Avatar of blocknotes"> blocknotes
-			</a><br/>
-			Mattia Roccoberton
-		</td>
-		<td>Telepass </td>
-		<td><a href="https://twitter.com/too_sleepy">too_sleepy</a></td>
-		<td>Italy</td>
-		<td>456</td>
-	</tr>
-	<tr>
 		<td>208</td>
 		<td>
 			<a href="https://github.com/rock3r">
@@ -2806,7 +2806,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@google </td>
 		<td><a href="https://twitter.com/seebrock3r">seebrock3r</a></td>
 		<td>Italy</td>
-		<td>454</td>
+		<td>456</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -2824,6 +2824,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>210</td>
 		<td>
+			<a href="https://github.com/LoneDev6">
+				<img src="https://avatars.githubusercontent.com/u/27242001?s=72&u=88e84e13f68b7a5769b0aa3ab9b5dc49d9b5fbca&v=4" width="24" alt="Avatar of LoneDev6"> LoneDev6
+			</a><br/>
+			LoneDev
+		</td>
+		<td>Lonedev </td>
+		<td><a href="https://twitter.com/LoneDev6">LoneDev6</a></td>
+		<td>Italy</td>
+		<td>450</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
 			<a href="https://github.com/juristr">
 				<img src="https://avatars.githubusercontent.com/u/542458?s=72&u=759cbc8b11ee49a6aee140344ba0e206bdfd4227&v=4" width="24" alt="Avatar of juristr"> juristr
 			</a><br/>
@@ -2835,7 +2848,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>449</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/GuidoPenta">
 				<img src="https://avatars.githubusercontent.com/u/119898224?s=72&u=c9526e49c1ab656ff3c8b93f66de1a4853e68f9f&v=4" width="24" alt="Avatar of GuidoPenta"> GuidoPenta
@@ -2846,19 +2859,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Rome</td>
 		<td>449</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/LoneDev6">
-				<img src="https://avatars.githubusercontent.com/u/27242001?s=72&u=88e84e13f68b7a5769b0aa3ab9b5dc49d9b5fbca&v=4" width="24" alt="Avatar of LoneDev6"> LoneDev6
-			</a><br/>
-			LoneDev
-		</td>
-		<td>Lonedev </td>
-		<td><a href="https://twitter.com/LoneDev6">LoneDev6</a></td>
-		<td>Italy</td>
-		<td>448</td>
 	</tr>
 	<tr>
 		<td>213</td>
@@ -2910,7 +2910,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Codemotion </td>
 		<td><a href="https://twitter.com/sensorario">sensorario</a></td>
 		<td>Bologna</td>
-		<td>441</td>
+		<td>442</td>
 	</tr>
 	<tr>
 		<td>217</td>
@@ -2954,6 +2954,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>220</td>
 		<td>
+			<a href="https://github.com/jermp">
+				<img src="https://avatars.githubusercontent.com/u/10065674?s=72&u=bfccbabcf9b8d02b3f17166796afae4dad06db78&v=4" width="24" alt="Avatar of jermp"> jermp
+			</a><br/>
+			Giulio Ermanno Pibiri
+		</td>
+		<td>Ca' Foscari University Of<br/>Venice<br/></td>
+		<td><a href="https://twitter.com/giulio_pibiri">giulio_pibiri</a></td>
+		<td>Padova, Italy</td>
+		<td>424</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
 			<a href="https://github.com/lorenzovngl">
 				<img src="https://avatars.githubusercontent.com/u/13767301?s=72&u=d85b2a28d082287d266f3c0d0f94d2f83a928dbe&v=4" width="24" alt="Avatar of lorenzovngl"> lorenzovngl
 			</a><br/>
@@ -2965,20 +2978,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>423</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>222</td>
 		<td>
-			<a href="https://github.com/jermp">
-				<img src="https://avatars.githubusercontent.com/u/10065674?s=72&u=bfccbabcf9b8d02b3f17166796afae4dad06db78&v=4" width="24" alt="Avatar of jermp"> jermp
+			<a href="https://github.com/lucmos">
+				<img src="https://avatars.githubusercontent.com/u/11019190?s=72&u=96918be476f1b1b2cd160588f5fb05f7d8555ed9&v=4" width="24" alt="Avatar of lucmos"> lucmos
 			</a><br/>
-			Giulio Ermanno Pibiri
+			Luca Moschella
 		</td>
-		<td>Ca' Foscari University Of<br/>Venice<br/></td>
-		<td><a href="https://twitter.com/giulio_pibiri">giulio_pibiri</a></td>
-		<td>Padova, Italy</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
 		<td>422</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/massimobonanni">
 				<img src="https://avatars.githubusercontent.com/u/9560142?s=72&u=1f622db5d0caa6f179794104987d8b1ca6efb85f&v=4" width="24" alt="Avatar of massimobonanni"> massimobonanni
@@ -2991,7 +3004,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>421</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/fulcorno">
 				<img src="https://avatars.githubusercontent.com/u/6524099?s=72&v=4" width="24" alt="Avatar of fulcorno"> fulcorno
@@ -3004,33 +3017,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>420</td>
 	</tr>
 	<tr>
-		<td>224</td>
-		<td>
-			<a href="https://github.com/lucmos">
-				<img src="https://avatars.githubusercontent.com/u/11019190?s=72&u=96918be476f1b1b2cd160588f5fb05f7d8555ed9&v=4" width="24" alt="Avatar of lucmos"> lucmos
-			</a><br/>
-			Luca Moschella
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>420</td>
-	</tr>
-	<tr>
 		<td>225</td>
-		<td>
-			<a href="https://github.com/madbob">
-				<img src="https://avatars.githubusercontent.com/u/166089?s=72&u=c07725f98bbd4860ef797a295c36b5a10f3bbf15&v=4" width="24" alt="Avatar of madbob"> madbob
-			</a><br/>
-			Roberto Guido
-		</td>
-		<td>Mad </td>
-		<td><a href="https://twitter.com/madbob">madbob</a></td>
-		<td>Turin, Italy</td>
-		<td>414</td>
-	</tr>
-	<tr>
-		<td>226</td>
 		<td>
 			<a href="https://github.com/Dax89">
 				<img src="https://avatars.githubusercontent.com/u/1503603?s=72&u=62e33ffa2f68295f2d9c163cf65bfc7287cab696&v=4" width="24" alt="Avatar of Dax89"> Dax89
@@ -3040,7 +3027,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dax89">dax89</a></td>
 		<td>Macomer, Sardinia, Italy</td>
-		<td>413</td>
+		<td>419</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
+			<a href="https://github.com/madbob">
+				<img src="https://avatars.githubusercontent.com/u/166089?s=72&u=c07725f98bbd4860ef797a295c36b5a10f3bbf15&v=4" width="24" alt="Avatar of madbob"> madbob
+			</a><br/>
+			Roberto Guido
+		</td>
+		<td>Mad </td>
+		<td><a href="https://twitter.com/madbob">madbob</a></td>
+		<td>Turin, Italy</td>
+		<td>415</td>
 	</tr>
 	<tr>
 		<td>227</td>
@@ -3053,7 +3053,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Alma Mater Studiorum University<br/>Of<br/>Bologna<br/></td>
 		<td>No Twitter Username</td>
 		<td>Bologna, Italy</td>
-		<td>411</td>
+		<td>414</td>
 	</tr>
 	<tr>
 		<td>228</td>
@@ -3066,7 +3066,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@aiforensics @tracking-exposed @hermescenter @globaleaks<br/><br/></td>
 		<td><a href="https://twitter.com/_vecna">_vecna</a></td>
 		<td>Lisbon / Berlin / Milan</td>
-		<td>410</td>
+		<td>412</td>
 	</tr>
 	<tr>
 		<td>229</td>
@@ -3084,6 +3084,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>230</td>
 		<td>
+			<a href="https://github.com/gtolomei">
+				<img src="https://avatars.githubusercontent.com/u/9001735?s=72&u=c8319d2069e66a3b69bf61b8f4185eca386b8723&v=4" width="24" alt="Avatar of gtolomei"> gtolomei
+			</a><br/>
+			Gabriele Tolomei
+		</td>
+		<td>Sapienza University Of Rome<br/></td>
+		<td>No Twitter Username</td>
+		<td>Rome, Italy</td>
+		<td>409</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
 			<a href="https://github.com/alexamici">
 				<img src="https://avatars.githubusercontent.com/u/226037?s=72&u=6dc056b069dbccff0a13b92f2c0679e2d9cd3df0&v=4" width="24" alt="Avatar of alexamici"> alexamici
 			</a><br/>
@@ -3095,7 +3108,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>407</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/stefantalpalaru">
 				<img src="https://avatars.githubusercontent.com/u/495550?s=72&v=4" width="24" alt="Avatar of stefantalpalaru"> stefantalpalaru
@@ -3106,19 +3119,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Italy</td>
 		<td>407</td>
-	</tr>
-	<tr>
-		<td>232</td>
-		<td>
-			<a href="https://github.com/gtolomei">
-				<img src="https://avatars.githubusercontent.com/u/9001735?s=72&u=c8319d2069e66a3b69bf61b8f4185eca386b8723&v=4" width="24" alt="Avatar of gtolomei"> gtolomei
-			</a><br/>
-			Gabriele Tolomei
-		</td>
-		<td>Sapienza University Of Rome<br/></td>
-		<td>No Twitter Username</td>
-		<td>Rome, Italy</td>
-		<td>405</td>
 	</tr>
 	<tr>
 		<td>233</td>
@@ -3196,7 +3196,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/davide_v">davide_v</a></td>
 		<td>Milan, Italy</td>
-		<td>392</td>
+		<td>393</td>
 	</tr>
 	<tr>
 		<td>239</td>
@@ -3235,7 +3235,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>UK / US / Italy</td>
-		<td>388</td>
+		<td>389</td>
 	</tr>
 	<tr>
 		<td>242</td>
@@ -3326,7 +3326,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>374</td>
+		<td>375</td>
 	</tr>
 	<tr>
 		<td>249</td>
@@ -3422,6 +3422,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>256</td>
 		<td>
+			<a href="https://github.com/stefano-garzarella">
+				<img src="https://avatars.githubusercontent.com/u/6713874?s=72&u=9bfeec62ca36d50004af8e8b580613d293035dfe&v=4" width="24" alt="Avatar of stefano-garzarella"> stefano-garzarella
+			</a><br/>
+			Stefano Garzarella
+		</td>
+		<td>Red Hat </td>
+		<td><a href="https://twitter.com/sgarzarella">sgarzarella</a></td>
+		<td>Pisa, Italy</td>
+		<td>361</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
 			<a href="https://github.com/hiepph">
 				<img src="https://avatars.githubusercontent.com/u/13205547?s=72&u=5fba0a7dd58fc72c77ab0b2061326bb5092be045&v=4" width="24" alt="Avatar of hiepph"> hiepph
 			</a><br/>
@@ -3433,7 +3446,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>361</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/Wabri">
 				<img src="https://avatars.githubusercontent.com/u/12409541?s=72&u=1f79752c116229271eca9689040bb140df7430f7&v=4" width="24" alt="Avatar of Wabri"> Wabri
@@ -3446,7 +3459,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>358</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/ruslanmv">
 				<img src="https://avatars.githubusercontent.com/u/51296249?s=72&u=7b5fa0b48efc0963b5374663d9173642546f3694&v=4" width="24" alt="Avatar of ruslanmv"> ruslanmv
@@ -3456,19 +3469,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Ibm </td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>358</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
-			<a href="https://github.com/stefano-garzarella">
-				<img src="https://avatars.githubusercontent.com/u/6713874?s=72&u=9bfeec62ca36d50004af8e8b580613d293035dfe&v=4" width="24" alt="Avatar of stefano-garzarella"> stefano-garzarella
-			</a><br/>
-			Stefano Garzarella
-		</td>
-		<td>Red Hat </td>
-		<td><a href="https://twitter.com/sgarzarella">sgarzarella</a></td>
-		<td>Pisa, Italy</td>
 		<td>358</td>
 	</tr>
 	<tr>
@@ -3578,6 +3578,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>268</td>
 		<td>
+			<a href="https://github.com/sgotti">
+				<img src="https://avatars.githubusercontent.com/u/1690273?s=72&v=4" width="24" alt="Avatar of sgotti"> sgotti
+			</a><br/>
+			Simone Gotti
+		</td>
+		<td>@sorintlab </td>
+		<td>No Twitter Username</td>
+		<td>Parma, Italy</td>
+		<td>331</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
 			<a href="https://github.com/danielinux">
 				<img src="https://avatars.githubusercontent.com/u/1027688?s=72&u=2302bf1ee63f54a63c1dee5ca86108f19911670d&v=4" width="24" alt="Avatar of danielinux"> danielinux
 			</a><br/>
@@ -3586,10 +3599,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Wolfssl </td>
 		<td>No Twitter Username</td>
 		<td>Reggio Calabria, Italy</td>
-		<td>330</td>
+		<td>331</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/pauloxnet">
 				<img src="https://avatars.githubusercontent.com/u/521097?s=72&u=6568426fa040af229ac08c8facd4ee29f5ad0664&v=4" width="24" alt="Avatar of pauloxnet"> pauloxnet
@@ -3602,7 +3615,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>328</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/fox1t">
 				<img src="https://avatars.githubusercontent.com/u/1620916?s=72&u=82c559c99b63375789b5fbc60db87f3e3a110c7f&v=4" width="24" alt="Avatar of fox1t"> fox1t
@@ -3615,7 +3628,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>327</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>272</td>
+		<td>
+			<a href="https://github.com/mavimo">
+				<img src="https://avatars.githubusercontent.com/u/43941?s=72&v=4" width="24" alt="Avatar of mavimo"> mavimo
+			</a><br/>
+			Marco Vito Moscaritolo
+		</td>
+		<td>@prontopro  </td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>327</td>
+	</tr>
+	<tr>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/jfet97">
 				<img src="https://avatars.githubusercontent.com/u/24520167?s=72&u=ec39501fb54bb92321a24b7e5b37497f29e511c0&v=4" width="24" alt="Avatar of jfet97"> jfet97
@@ -3628,7 +3654,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>327</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/ValentinoUberti">
 				<img src="https://avatars.githubusercontent.com/u/5792329?s=72&u=efd174d78d15dea0c82648aceb72a49d5f426ded&v=4" width="24" alt="Avatar of ValentinoUberti"> ValentinoUberti
@@ -3641,20 +3667,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>327</td>
 	</tr>
 	<tr>
-		<td>273</td>
-		<td>
-			<a href="https://github.com/sgotti">
-				<img src="https://avatars.githubusercontent.com/u/1690273?s=72&v=4" width="24" alt="Avatar of sgotti"> sgotti
-			</a><br/>
-			Simone Gotti
-		</td>
-		<td>@sorintlab </td>
-		<td>No Twitter Username</td>
-		<td>Parma, Italy</td>
-		<td>326</td>
-	</tr>
-	<tr>
-		<td>274</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/goblindegook">
 				<img src="https://avatars.githubusercontent.com/u/285497?s=72&u=827aaab044e83f82eadc6c5eb51f6e5812c6e74b&v=4" width="24" alt="Avatar of goblindegook"> goblindegook
@@ -3667,7 +3680,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/gmazzap">
 				<img src="https://avatars.githubusercontent.com/u/2208282?s=72&v=4" width="24" alt="Avatar of gmazzap"> gmazzap
@@ -3680,7 +3693,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>323</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>277</td>
+		<td>
+			<a href="https://github.com/Lucksi">
+				<img src="https://avatars.githubusercontent.com/u/79308097?s=72&u=f5dd13af7d87e4f8743ce0a09eb4d41d30bbaecc&v=4" width="24" alt="Avatar of Lucksi"> Lucksi
+			</a><br/>
+			Luca Garofalo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/Lucksi_22">Lucksi_22</a></td>
+		<td>Italy</td>
+		<td>322</td>
+	</tr>
+	<tr>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/marcocesarato">
 				<img src="https://avatars.githubusercontent.com/u/36447518?s=72&u=c168ec305b535a6707bb552442e22ac20c4a662e&v=4" width="24" alt="Avatar of marcocesarato"> marcocesarato
@@ -3693,20 +3719,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>322</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>279</td>
 		<td>
-			<a href="https://github.com/Lucksi">
-				<img src="https://avatars.githubusercontent.com/u/79308097?s=72&u=f5dd13af7d87e4f8743ce0a09eb4d41d30bbaecc&v=4" width="24" alt="Avatar of Lucksi"> Lucksi
+			<a href="https://github.com/endorama">
+				<img src="https://avatars.githubusercontent.com/u/526307?s=72&u=a5f43c2bbc7026c148c58cbd0805c27a06c775c5&v=4" width="24" alt="Avatar of endorama"> endorama
 			</a><br/>
-			Luca Garofalo
+			Edoardo Tenani
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/Lucksi_22">Lucksi_22</a></td>
+		<td>@elastic  </td>
+		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>321</td>
+		<td>319</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/smx-smx">
 				<img src="https://avatars.githubusercontent.com/u/1978844?s=72&v=4" width="24" alt="Avatar of smx-smx"> smx-smx
@@ -3719,7 +3745,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>319</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/augustozanellato">
 				<img src="https://avatars.githubusercontent.com/u/13242738?s=72&u=30601f9d6115c7ea79d28a50f4d756f1a80c8806&v=4" width="24" alt="Avatar of augustozanellato"> augustozanellato
@@ -3729,32 +3755,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/auguzanellato">auguzanellato</a></td>
 		<td>Padua, Italy</td>
-		<td>318</td>
-	</tr>
-	<tr>
-		<td>280</td>
-		<td>
-			<a href="https://github.com/endorama">
-				<img src="https://avatars.githubusercontent.com/u/526307?s=72&u=a5f43c2bbc7026c148c58cbd0805c27a06c775c5&v=4" width="24" alt="Avatar of endorama"> endorama
-			</a><br/>
-			Edoardo Tenani
-		</td>
-		<td>@elastic  </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>318</td>
-	</tr>
-	<tr>
-		<td>281</td>
-		<td>
-			<a href="https://github.com/mavimo">
-				<img src="https://avatars.githubusercontent.com/u/43941?s=72&v=4" width="24" alt="Avatar of mavimo"> mavimo
-			</a><br/>
-			Marco Vito Moscaritolo
-		</td>
-		<td>@prontopro  </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
 		<td>318</td>
 	</tr>
 	<tr>
@@ -3773,6 +3773,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>283</td>
 		<td>
+			<a href="https://github.com/fenix-hub">
+				<img src="https://avatars.githubusercontent.com/u/45271396?s=72&u=e6b466c72c5ef129e9ba630948c1600c44fd35dd&v=4" width="24" alt="Avatar of fenix-hub"> fenix-hub
+			</a><br/>
+			Nicolò Santilio
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/fenixhub">fenixhub</a></td>
+		<td>Bari - Italy</td>
+		<td>314</td>
+	</tr>
+	<tr>
+		<td>284</td>
+		<td>
 			<a href="https://github.com/fametrano">
 				<img src="https://avatars.githubusercontent.com/u/3296421?s=72&u=d120ba966d7750e22a86ae283081a05d192a7209&v=4" width="24" alt="Avatar of fametrano"> fametrano
 			</a><br/>
@@ -3782,19 +3795,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/Ferdinando1970">Ferdinando1970</a></td>
 		<td>Milan and everywhere</td>
 		<td>313</td>
-	</tr>
-	<tr>
-		<td>284</td>
-		<td>
-			<a href="https://github.com/fenix-hub">
-				<img src="https://avatars.githubusercontent.com/u/45271396?s=72&u=e6b466c72c5ef129e9ba630948c1600c44fd35dd&v=4" width="24" alt="Avatar of fenix-hub"> fenix-hub
-			</a><br/>
-			Nicolò Santilio
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/fenixhub">fenixhub</a></td>
-		<td>Bari - Italy</td>
-		<td>312</td>
 	</tr>
 	<tr>
 		<td>285</td>
@@ -3833,7 +3833,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Http://www.bittimepr </td>
 		<td>No Twitter Username</td>
 		<td>Via di Valle Morta 10, 00132, Rome, Italy</td>
-		<td>307</td>
+		<td>308</td>
 	</tr>
 	<tr>
 		<td>288</td>
@@ -3963,7 +3963,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Milan, Italy</td>
-		<td>302</td>
+		<td>305</td>
 	</tr>
 	<tr>
 		<td>298</td>
@@ -3989,7 +3989,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Expondo </td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>298</td>
+		<td>300</td>
 	</tr>
 	<tr>
 		<td>300</td>
@@ -4007,19 +4007,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>301</td>
 		<td>
-			<a href="https://github.com/nostalgiaz">
-				<img src="https://avatars.githubusercontent.com/u/1184352?s=72&v=4" width="24" alt="Avatar of nostalgiaz"> nostalgiaz
-			</a><br/>
-			Mattia Larentis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>293</td>
-	</tr>
-	<tr>
-		<td>302</td>
-		<td>
 			<a href="https://github.com/blues-man">
 				<img src="https://avatars.githubusercontent.com/u/1446126?s=72&v=4" width="24" alt="Avatar of blues-man"> blues-man
 			</a><br/>
@@ -4027,6 +4014,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		</td>
 		<td>Red Hat Inc. </td>
 		<td><a href="https://twitter.com/natalevinto">natalevinto</a></td>
+		<td>Italy</td>
+		<td>294</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
+			<a href="https://github.com/nostalgiaz">
+				<img src="https://avatars.githubusercontent.com/u/1184352?s=72&v=4" width="24" alt="Avatar of nostalgiaz"> nostalgiaz
+			</a><br/>
+			Mattia Larentis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Italy</td>
 		<td>293</td>
 	</tr>
@@ -4054,7 +4054,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Dept. Of Maths, Units<br/>|<br/>@laconic-units<br/>⊆<br/>@ailab-units<br/>|<br/>@sissa-data-science<br/>|<br/>@ai-student-society<br/></td>
 		<td><a href="https://twitter.com/emaballarin">emaballarin</a></td>
 		<td>Trieste, Italy</td>
-		<td>288</td>
+		<td>291</td>
 	</tr>
 	<tr>
 		<td>305</td>
@@ -4111,6 +4111,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>309</td>
 		<td>
+			<a href="https://github.com/moebiusmania">
+				<img src="https://avatars.githubusercontent.com/u/1764542?s=72&u=4f4811b8dd928fec846a9bf3e7053cc55497bcc6&v=4" width="24" alt="Avatar of moebiusmania"> moebiusmania
+			</a><br/>
+			Salvatore Laisa
+		</td>
+		<td>Casavo </td>
+		<td><a href="https://twitter.com/moebiusmania">moebiusmania</a></td>
+		<td>Milano, Italy</td>
+		<td>279</td>
+	</tr>
+	<tr>
+		<td>310</td>
+		<td>
 			<a href="https://github.com/garak">
 				<img src="https://avatars.githubusercontent.com/u/179866?s=72&u=856c0e26285b8644788a41c0e05b04f8c4ecfa30&v=4" width="24" alt="Avatar of garak"> garak
 			</a><br/>
@@ -4122,7 +4135,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/davcri">
 				<img src="https://avatars.githubusercontent.com/u/6860637?s=72&u=2868720a60c18e4904665aa64c4ff1a7b81b161c&v=4" width="24" alt="Avatar of davcri"> davcri
@@ -4135,7 +4148,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/Herbrant">
 				<img src="https://avatars.githubusercontent.com/u/5670917?s=72&u=63060a404b0f5991f48138402eff7d38f71c1c7f&v=4" width="24" alt="Avatar of Herbrant"> Herbrant
@@ -4148,19 +4161,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>312</td>
-		<td>
-			<a href="https://github.com/dianaberna">
-				<img src="https://avatars.githubusercontent.com/u/20372529?s=72&u=4c835695aa87305bf71491d288098184cf27027f&v=4" width="24" alt="Avatar of dianaberna"> dianaberna
-			</a><br/>
-			Diana Bernabei
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/dianabernabei">dianabernabei</a></td>
-		<td>Marche, Italy</td>
-		<td>275</td>
-	</tr>
-	<tr>
 		<td>313</td>
 		<td>
 			<a href="https://github.com/Cipulot">
@@ -4171,20 +4171,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Lu.sv Solutions </td>
 		<td><a href="https://twitter.com/cipulot">cipulot</a></td>
 		<td>Italy</td>
-		<td>274</td>
+		<td>276</td>
 	</tr>
 	<tr>
 		<td>314</td>
 		<td>
-			<a href="https://github.com/moebiusmania">
-				<img src="https://avatars.githubusercontent.com/u/1764542?s=72&u=4f4811b8dd928fec846a9bf3e7053cc55497bcc6&v=4" width="24" alt="Avatar of moebiusmania"> moebiusmania
+			<a href="https://github.com/dianaberna">
+				<img src="https://avatars.githubusercontent.com/u/20372529?s=72&u=4c835695aa87305bf71491d288098184cf27027f&v=4" width="24" alt="Avatar of dianaberna"> dianaberna
 			</a><br/>
-			Salvatore Laisa
+			Diana Bernabei
 		</td>
-		<td>Casavo </td>
-		<td><a href="https://twitter.com/moebiusmania">moebiusmania</a></td>
-		<td>Milano, Italy</td>
-		<td>274</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/dianabernabei">dianabernabei</a></td>
+		<td>Marche, Italy</td>
+		<td>275</td>
 	</tr>
 	<tr>
 		<td>315</td>
@@ -4254,19 +4254,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>320</td>
 		<td>
-			<a href="https://github.com/AlessandroMinoccheri">
-				<img src="https://avatars.githubusercontent.com/u/3356506?s=72&u=09d65711f00a0c8617c923d240e625233c4b1c86&v=4" width="24" alt="Avatar of AlessandroMinoccheri"> AlessandroMinoccheri
-			</a><br/>
-			Alessandro Minoccheri
-		</td>
-		<td>@inpost-italy </td>
-		<td><a href="https://twitter.com/minompi">minompi</a></td>
-		<td>Ravenna (Italy)</td>
-		<td>264</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
 			<a href="https://github.com/marcellobardus">
 				<img src="https://avatars.githubusercontent.com/u/24204719?s=72&u=e7d633a937b0615885443a6b08c2cc84c566f98e&v=4" width="24" alt="Avatar of marcellobardus"> marcellobardus
 			</a><br/>
@@ -4275,6 +4262,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0xmarcello">0xmarcello</a></td>
 		<td>italy</td>
+		<td>266</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/AlessandroMinoccheri">
+				<img src="https://avatars.githubusercontent.com/u/3356506?s=72&u=09d65711f00a0c8617c923d240e625233c4b1c86&v=4" width="24" alt="Avatar of AlessandroMinoccheri"> AlessandroMinoccheri
+			</a><br/>
+			Alessandro Minoccheri
+		</td>
+		<td>@inpost-italy </td>
+		<td><a href="https://twitter.com/minompi">minompi</a></td>
+		<td>Ravenna (Italy)</td>
 		<td>264</td>
 	</tr>
 	<tr>
@@ -4314,10 +4314,23 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/settevolte">settevolte</a></td>
 		<td>Italy</td>
-		<td>260</td>
+		<td>262</td>
 	</tr>
 	<tr>
 		<td>325</td>
+		<td>
+			<a href="https://github.com/FezVrasta">
+				<img src="https://avatars.githubusercontent.com/u/5382443?s=72&u=04a0da91fca3a34f40abc5dff54c7f7a2d0bae8d&v=4" width="24" alt="Avatar of FezVrasta"> FezVrasta
+			</a><br/>
+			Federico Zivolo
+		</td>
+		<td>@sironamedical  </td>
+		<td><a href="https://twitter.com/FezVrasta">FezVrasta</a></td>
+		<td>Monza, Italy</td>
+		<td>260</td>
+	</tr>
+	<tr>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/LightDestory">
 				<img src="https://avatars.githubusercontent.com/u/5560558?s=72&u=eb897ce9f2341543a3e51ca93bea09c458605f5e&v=4" width="24" alt="Avatar of LightDestory"> LightDestory
@@ -4330,7 +4343,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/luigidr">
 				<img src="https://avatars.githubusercontent.com/u/1466597?s=72&v=4" width="24" alt="Avatar of luigidr"> luigidr
@@ -4343,7 +4356,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>257</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/Enrico204">
 				<img src="https://avatars.githubusercontent.com/u/8115660?s=72&u=78d86ad384e71f862ed8492c878cb44ef47b05cf&v=4" width="24" alt="Avatar of Enrico204"> Enrico204
@@ -4356,7 +4369,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>256</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/depau">
 				<img src="https://avatars.githubusercontent.com/u/1151321?s=72&u=27bb18bc0dd303bac5dc9f956fee1f666a7034ff&v=4" width="24" alt="Avatar of depau"> depau
@@ -4367,19 +4380,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Milan, Italy</td>
 		<td>255</td>
-	</tr>
-	<tr>
-		<td>329</td>
-		<td>
-			<a href="https://github.com/FezVrasta">
-				<img src="https://avatars.githubusercontent.com/u/5382443?s=72&u=04a0da91fca3a34f40abc5dff54c7f7a2d0bae8d&v=4" width="24" alt="Avatar of FezVrasta"> FezVrasta
-			</a><br/>
-			Federico Zivolo
-		</td>
-		<td>@sironamedical  </td>
-		<td><a href="https://twitter.com/FezVrasta">FezVrasta</a></td>
-		<td>Monza, Italy</td>
-		<td>254</td>
 	</tr>
 	<tr>
 		<td>330</td>
@@ -4410,19 +4410,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>332</td>
 		<td>
-			<a href="https://github.com/Erfaniaa">
-				<img src="https://avatars.githubusercontent.com/u/7780269?s=72&u=c9120cd27ad1020d37f77dd40f5a1f03bc99b24a&v=4" width="24" alt="Avatar of Erfaniaa"> Erfaniaa
-			</a><br/>
-			Erfan Alimohammadi
-		</td>
-		<td>@cafebazaar @thealgorithms @strawberry-graphql @itacpc<br/></td>
-		<td><a href="https://twitter.com/erfanafre">erfanafre</a></td>
-		<td>Milan, Italy</td>
-		<td>249</td>
-	</tr>
-	<tr>
-		<td>333</td>
-		<td>
 			<a href="https://github.com/torakiki">
 				<img src="https://avatars.githubusercontent.com/u/3884479?s=72&v=4" width="24" alt="Avatar of torakiki"> torakiki
 			</a><br/>
@@ -4431,10 +4418,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Sober Lemur S.r.l. </td>
 		<td><a href="https://twitter.com/Torakiki610">Torakiki610</a></td>
 		<td>Italy</td>
-		<td>249</td>
+		<td>250</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/matteobaglini">
 				<img src="https://avatars.githubusercontent.com/u/1433066?s=72&u=bd0417ef98afdad105770f1c14e1921e203ef9f4&v=4" width="24" alt="Avatar of matteobaglini"> matteobaglini
@@ -4444,6 +4431,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Doubleloop </td>
 		<td><a href="https://twitter.com/matteobaglini">matteobaglini</a></td>
 		<td>Livorno, Italy</td>
+		<td>250</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a href="https://github.com/Erfaniaa">
+				<img src="https://avatars.githubusercontent.com/u/7780269?s=72&u=c9120cd27ad1020d37f77dd40f5a1f03bc99b24a&v=4" width="24" alt="Avatar of Erfaniaa"> Erfaniaa
+			</a><br/>
+			Erfan Alimohammadi
+		</td>
+		<td>@cafebazaar @thealgorithms @strawberry-graphql @itacpc<br/></td>
+		<td><a href="https://twitter.com/erfanafre">erfanafre</a></td>
+		<td>Milan, Italy</td>
 		<td>249</td>
 	</tr>
 	<tr>
@@ -4501,6 +4501,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>339</td>
 		<td>
+			<a href="https://github.com/NyaomiDEV">
+				<img src="https://avatars.githubusercontent.com/u/13177694?s=72&u=2d6df10bd673bee4c6e056bba89d6a1a3bea1613&v=4" width="24" alt="Avatar of NyaomiDEV"> NyaomiDEV
+			</a><br/>
+			Naomi Calabretta
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>245</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
 			<a href="https://github.com/cozis">
 				<img src="https://avatars.githubusercontent.com/u/80131537?s=72&v=4" width="24" alt="Avatar of cozis"> cozis
 			</a><br/>
@@ -4512,7 +4525,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>243</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/spaghettidba">
 				<img src="https://avatars.githubusercontent.com/u/7592822?s=72&v=4" width="24" alt="Avatar of spaghettidba"> spaghettidba
@@ -4525,7 +4538,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>242</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/cyrus-and">
 				<img src="https://avatars.githubusercontent.com/u/1660263?s=72&u=f98b0d6c2f984a656573c0942c9aaf955d5e8013&v=4" width="24" alt="Avatar of cyrus-and"> cyrus-and
@@ -4538,7 +4551,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/amadvance">
 				<img src="https://avatars.githubusercontent.com/u/747159?s=72&u=a4927140a8070a830c69c8b445fba289c5603c72&v=4" width="24" alt="Avatar of amadvance"> amadvance
@@ -4551,7 +4564,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/Lorys89">
 				<img src="https://avatars.githubusercontent.com/u/64613690?s=72&u=c8ce2f541dd2330f9a0f979213fcb287ce07923d&v=4" width="24" alt="Avatar of Lorys89"> Lorys89
@@ -4564,7 +4577,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/emanuele-f">
 				<img src="https://avatars.githubusercontent.com/u/5488003?s=72&u=887351898980cd702e60efccc5fe2ca52391f91b&v=4" width="24" alt="Avatar of emanuele-f"> emanuele-f
@@ -4577,7 +4590,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/heytherewill">
 				<img src="https://avatars.githubusercontent.com/u/7688727?s=72&u=974359e001339d7f19b5c0fad8297df67069b961&v=4" width="24" alt="Avatar of heytherewill"> heytherewill
@@ -4585,19 +4598,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 			William Barbosa
 		</td>
 		<td>@spotify </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>239</td>
-	</tr>
-	<tr>
-		<td>346</td>
-		<td>
-			<a href="https://github.com/NyaomiDEV">
-				<img src="https://avatars.githubusercontent.com/u/13177694?s=72&u=2d6df10bd673bee4c6e056bba89d6a1a3bea1613&v=4" width="24" alt="Avatar of NyaomiDEV"> NyaomiDEV
-			</a><br/>
-			Naomi Calabretta
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
 		<td>239</td>
@@ -4618,6 +4618,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>348</td>
 		<td>
+			<a href="https://github.com/ilpropheta">
+				<img src="https://avatars.githubusercontent.com/u/5806546?s=72&u=fca9b0b0d238d134567ea1f2e338002681c946e1&v=4" width="24" alt="Avatar of ilpropheta"> ilpropheta
+			</a><br/>
+			Marco Arena
+		</td>
+		<td>@italiancpp @coding-gym @mlmodena </td>
+		<td><a href="https://twitter.com/ilpropheta">ilpropheta</a></td>
+		<td>Italy</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>349</td>
+		<td>
 			<a href="https://github.com/Guray00">
 				<img src="https://avatars.githubusercontent.com/u/30523962?s=72&u=04457538e96e4a53848f994b4b354d9132a79fad&v=4" width="24" alt="Avatar of Guray00"> Guray00
 			</a><br/>
@@ -4629,7 +4642,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/webysther">
 				<img src="https://avatars.githubusercontent.com/u/750007?s=72&v=4" width="24" alt="Avatar of webysther"> webysther
@@ -4642,7 +4655,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/FrancescoPaoloL">
 				<img src="https://avatars.githubusercontent.com/u/47259713?s=72&u=de7a203b5b73746b820b10b8dc4a76adc2daffe4&v=4" width="24" alt="Avatar of FrancescoPaoloL"> FrancescoPaoloL
@@ -4655,7 +4668,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/iacopomasi">
 				<img src="https://avatars.githubusercontent.com/u/4181279?s=72&u=25e6d96bab6e5e0d002d33c35060f962b22bbde4&v=4" width="24" alt="Avatar of iacopomasi"> iacopomasi
@@ -4668,7 +4681,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>228</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/mhamilt">
 				<img src="https://avatars.githubusercontent.com/u/33174176?s=72&u=ab57d3e719912052b06bf4e01693f3eab2af5e4a&v=4" width="24" alt="Avatar of mhamilt"> mhamilt
@@ -4681,7 +4694,33 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>228</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/nicolaerario">
+				<img src="https://avatars.githubusercontent.com/u/37365465?s=72&u=15ea9ada54411bfa5d3fb868f4fe2b745dc497c5&v=4" width="24" alt="Avatar of nicolaerario"> nicolaerario
+			</a><br/>
+			Nicola Erario
+		</td>
+		<td>Algo Ai @mazzocchibrothers </td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>227</td>
+	</tr>
+	<tr>
+		<td>355</td>
+		<td>
+			<a href="https://github.com/egregors">
+				<img src="https://avatars.githubusercontent.com/u/2153895?s=72&v=4" width="24" alt="Avatar of egregors"> egregors
+			</a><br/>
+			Vadim Iskuchekov
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/egregors">egregors</a></td>
+		<td>Italy, Puglia</td>
+		<td>227</td>
+	</tr>
+	<tr>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/garutilorenzo">
 				<img src="https://avatars.githubusercontent.com/u/4757326?s=72&u=ef73b2ba70e49e5af332615531fa58050779a1bf&v=4" width="24" alt="Avatar of garutilorenzo"> garutilorenzo
@@ -4694,33 +4733,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>227</td>
 	</tr>
 	<tr>
-		<td>354</td>
-		<td>
-			<a href="https://github.com/nicolaerario">
-				<img src="https://avatars.githubusercontent.com/u/37365465?s=72&u=15ea9ada54411bfa5d3fb868f4fe2b745dc497c5&v=4" width="24" alt="Avatar of nicolaerario"> nicolaerario
-			</a><br/>
-			Nicola Erario
-		</td>
-		<td>Algo Ai @mazzocchibrothers </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>226</td>
-	</tr>
-	<tr>
-		<td>355</td>
-		<td>
-			<a href="https://github.com/ilpropheta">
-				<img src="https://avatars.githubusercontent.com/u/5806546?s=72&u=fca9b0b0d238d134567ea1f2e338002681c946e1&v=4" width="24" alt="Avatar of ilpropheta"> ilpropheta
-			</a><br/>
-			Marco Arena
-		</td>
-		<td>@italiancpp @coding-gym @mlmodena </td>
-		<td><a href="https://twitter.com/ilpropheta">ilpropheta</a></td>
-		<td>Italy</td>
-		<td>226</td>
-	</tr>
-	<tr>
-		<td>356</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/ptobuon">
 				<img src="https://avatars.githubusercontent.com/u/98218366?s=72&v=4" width="24" alt="Avatar of ptobuon"> ptobuon
@@ -4730,19 +4743,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@bootnetos </td>
 		<td><a href="https://twitter.com/PtoBuon">PtoBuon</a></td>
 		<td>Italy</td>
-		<td>226</td>
-	</tr>
-	<tr>
-		<td>357</td>
-		<td>
-			<a href="https://github.com/egregors">
-				<img src="https://avatars.githubusercontent.com/u/2153895?s=72&v=4" width="24" alt="Avatar of egregors"> egregors
-			</a><br/>
-			Vadim Iskuchekov
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/egregors">egregors</a></td>
-		<td>Italy, Puglia</td>
 		<td>226</td>
 	</tr>
 	<tr>
@@ -4787,6 +4787,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>361</td>
 		<td>
+			<a href="https://github.com/Vytek">
+				<img src="https://avatars.githubusercontent.com/u/2614303?s=72&v=4" width="24" alt="Avatar of Vytek"> Vytek
+			</a><br/>
+			Enrico Speranza
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/vytek75">vytek75</a></td>
+		<td>Rome, Italy</td>
+		<td>214</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
 			<a href="https://github.com/HostFat">
 				<img src="https://avatars.githubusercontent.com/u/644416?s=72&u=6e5b0ceba2bf8490c2f5e69df2aaa277823e2d34&v=4" width="24" alt="Avatar of HostFat"> HostFat
 			</a><br/>
@@ -4798,7 +4811,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>213</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/dnldsht">
 				<img src="https://avatars.githubusercontent.com/u/5272320?s=72&u=3acc51fc76718b544edd2d326f64bf3778a8d237&v=4" width="24" alt="Avatar of dnldsht"> dnldsht
@@ -4808,19 +4821,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@unevensoftware </td>
 		<td><a href="https://twitter.com/Donald__SH">Donald__SH</a></td>
 		<td>Italy</td>
-		<td>213</td>
-	</tr>
-	<tr>
-		<td>363</td>
-		<td>
-			<a href="https://github.com/Vytek">
-				<img src="https://avatars.githubusercontent.com/u/2614303?s=72&v=4" width="24" alt="Avatar of Vytek"> Vytek
-			</a><br/>
-			Enrico Speranza
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/vytek75">vytek75</a></td>
-		<td>Rome, Italy</td>
 		<td>213</td>
 	</tr>
 	<tr>
@@ -4865,19 +4865,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>367</td>
 		<td>
-			<a href="https://github.com/ac12644">
-				<img src="https://avatars.githubusercontent.com/u/43683452?s=72&u=1e16e6a66f776ee5223eb111a6f978ed49798d9a&v=4" width="24" alt="Avatar of ac12644"> ac12644
-			</a><br/>
-			Abhishek Chauhan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>204</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
 			<a href="https://github.com/alexdupre">
 				<img src="https://avatars.githubusercontent.com/u/3694371?s=72&u=aa651af67b8de48a503cf82f5f7ef9d2a646af91&v=4" width="24" alt="Avatar of alexdupre"> alexdupre
 			</a><br/>
@@ -4886,6 +4873,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Milan, Italy</td>
+		<td>205</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
+			<a href="https://github.com/ac12644">
+				<img src="https://avatars.githubusercontent.com/u/43683452?s=72&u=1e16e6a66f776ee5223eb111a6f978ed49798d9a&v=4" width="24" alt="Avatar of ac12644"> ac12644
+			</a><br/>
+			Abhishek Chauhan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
 		<td>204</td>
 	</tr>
 	<tr>
@@ -4912,7 +4912,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Italian National Research Council<br/></td>
 		<td><a href="https://twitter.com/cino63634199">cino63634199</a></td>
 		<td>Genoa, Italy</td>
-		<td>202</td>
+		<td>203</td>
 	</tr>
 	<tr>
 		<td>371</td>
@@ -4925,7 +4925,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@dreamonkey  </td>
 		<td><a href="https://twitter.com/pcalloc">pcalloc</a></td>
 		<td>Albinea, Italy</td>
-		<td>200</td>
+		<td>203</td>
 	</tr>
 	<tr>
 		<td>372</td>
@@ -4938,7 +4938,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/simonesanfradev">simonesanfradev</a></td>
 		<td>Tuscany, Italy</td>
-		<td>199</td>
+		<td>201</td>
 	</tr>
 	<tr>
 		<td>373</td>
@@ -4951,7 +4951,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Microsoft </td>
 		<td><a href="https://twitter.com/carlottacaste">carlottacaste</a></td>
 		<td>Rome, Italy</td>
-		<td>198</td>
+		<td>200</td>
 	</tr>
 	<tr>
 		<td>374</td>
@@ -4969,19 +4969,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>375</td>
 		<td>
-			<a href="https://github.com/vittominacori">
-				<img src="https://avatars.githubusercontent.com/u/8151143?s=72&u=a45195d4f4a45cbd4c5b198305884378a483acb9&v=4" width="24" alt="Avatar of vittominacori"> vittominacori
-			</a><br/>
-			Vittorio Minacori
-		</td>
-		<td>@noncept </td>
-		<td><a href="https://twitter.com/vittominacori">vittominacori</a></td>
-		<td>Catania, Italy</td>
-		<td>194</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
 			<a href="https://github.com/mbeccati">
 				<img src="https://avatars.githubusercontent.com/u/282388?s=72&u=62c9efa3e7fff74d126a352eeb05e68c2c98e842&v=4" width="24" alt="Avatar of mbeccati"> mbeccati
 			</a><br/>
@@ -4990,6 +4977,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ferrara, Italy</td>
+		<td>197</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
+			<a href="https://github.com/vittominacori">
+				<img src="https://avatars.githubusercontent.com/u/8151143?s=72&u=a45195d4f4a45cbd4c5b198305884378a483acb9&v=4" width="24" alt="Avatar of vittominacori"> vittominacori
+			</a><br/>
+			Vittorio Minacori
+		</td>
+		<td>@noncept </td>
+		<td><a href="https://twitter.com/vittominacori">vittominacori</a></td>
+		<td>Catania, Italy</td>
 		<td>194</td>
 	</tr>
 	<tr>
@@ -5086,6 +5086,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>384</td>
 		<td>
+			<a href="https://github.com/urbanslug">
+				<img src="https://avatars.githubusercontent.com/u/4144645?s=72&u=b2050c663b7a58497f1010a1e3b62e37c4427874&v=4" width="24" alt="Avatar of urbanslug"> urbanslug
+			</a><br/>
+			Njagi Mwaniki
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/urbanslug">urbanslug</a></td>
+		<td>Pisa, Italy.</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
 			<a href="https://github.com/ProfAndreaPollini">
 				<img src="https://avatars.githubusercontent.com/u/22768609?s=72&u=0247dbd4cbd3d0f2a79f7446746b5a94254d567c&v=4" width="24" alt="Avatar of ProfAndreaPollini"> ProfAndreaPollini
 			</a><br/>
@@ -5097,7 +5110,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/francbartoli">
+				<img src="https://avatars.githubusercontent.com/u/560676?s=72&u=ac46cb5670dd87d4ca15d86533e4a4005473fb48&v=4" width="24" alt="Avatar of francbartoli"> francbartoli
+			</a><br/>
+			Francesco Bartoli
+		</td>
+		<td>@geobeyond </td>
+		<td><a href="https://twitter.com/francbartoli">francbartoli</a></td>
+		<td>Rome, IT</td>
+		<td>179</td>
+	</tr>
+	<tr>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/MaurizioFD">
 				<img src="https://avatars.githubusercontent.com/u/23312164?s=72&u=f548bc8f360b0f9798855810807d185a49914a5c&v=4" width="24" alt="Avatar of MaurizioFD"> MaurizioFD
@@ -5110,7 +5136,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/peazip">
 				<img src="https://avatars.githubusercontent.com/u/479850?s=72&u=eacb6385ffdfed718449f81d01103fc0ae3f7551&v=4" width="24" alt="Avatar of peazip"> peazip
@@ -5123,20 +5149,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>387</td>
-		<td>
-			<a href="https://github.com/francbartoli">
-				<img src="https://avatars.githubusercontent.com/u/560676?s=72&u=ac46cb5670dd87d4ca15d86533e4a4005473fb48&v=4" width="24" alt="Avatar of francbartoli"> francbartoli
-			</a><br/>
-			Francesco Bartoli
-		</td>
-		<td>@geobeyond </td>
-		<td><a href="https://twitter.com/francbartoli">francbartoli</a></td>
-		<td>Rome, IT</td>
-		<td>178</td>
-	</tr>
-	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/marcosh">
 				<img src="https://avatars.githubusercontent.com/u/2643972?s=72&v=4" width="24" alt="Avatar of marcosh"> marcosh
@@ -5149,7 +5162,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/rcmalli">
 				<img src="https://avatars.githubusercontent.com/u/7341604?s=72&u=031f176197cd5de825c1c7f73f286eb66766ea66&v=4" width="24" alt="Avatar of rcmalli"> rcmalli
@@ -5162,7 +5175,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/Neurone">
 				<img src="https://avatars.githubusercontent.com/u/562943?s=72&u=b4cc49611f48d53c88c6d64b72b1c7952150517f&v=4" width="24" alt="Avatar of Neurone"> Neurone
@@ -5175,7 +5188,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/Eversmile12">
 				<img src="https://avatars.githubusercontent.com/u/72762629?s=72&u=8ef2c054d83543c5a9a6f52bc83b00de3f0c775c&v=4" width="24" alt="Avatar of Eversmile12"> Eversmile12
@@ -5188,7 +5201,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/EmanueleGurini">
 				<img src="https://avatars.githubusercontent.com/u/33976932?s=72&u=115ebd09547ea6c3e2fc62f52157d3ab47f806ff&v=4" width="24" alt="Avatar of EmanueleGurini"> EmanueleGurini
@@ -5201,7 +5214,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/rfc1036">
 				<img src="https://avatars.githubusercontent.com/u/3151489?s=72&v=4" width="24" alt="Avatar of rfc1036"> rfc1036
@@ -5214,7 +5227,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/matrix">
 				<img src="https://avatars.githubusercontent.com/u/15381185?s=72&u=7da0b49690095283aa0028201d3fd185d5a17967&v=4" width="24" alt="Avatar of matrix"> matrix
@@ -5227,7 +5240,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>170</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/imperugo">
 				<img src="https://avatars.githubusercontent.com/u/758620?s=72&v=4" width="24" alt="Avatar of imperugo"> imperugo
@@ -5240,7 +5253,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/ostafen">
 				<img src="https://avatars.githubusercontent.com/u/37439175?s=72&u=77995b9795dd4d65dc329de1ed0071e8e1b621b7&v=4" width="24" alt="Avatar of ostafen"> ostafen
@@ -5253,7 +5266,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/aamaricci">
 				<img src="https://avatars.githubusercontent.com/u/2298328?s=72&u=7355677686fddb6a5decc9be46f872409c253613&v=4" width="24" alt="Avatar of aamaricci"> aamaricci
@@ -5266,7 +5279,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>168</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/albertogeniola">
 				<img src="https://avatars.githubusercontent.com/u/4648843?s=72&u=b97018f05d11789f5cb821f661e4d7d167b8871b&v=4" width="24" alt="Avatar of albertogeniola"> albertogeniola
@@ -5279,7 +5292,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
 		<td>
 			<a href="https://github.com/LasaleFamine">
 				<img src="https://avatars.githubusercontent.com/u/13070349?s=72&u=73c9748b585f1fb56f5bb23b59597a7c38cb5d61&v=4" width="24" alt="Avatar of LasaleFamine"> LasaleFamine
@@ -5292,7 +5305,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/silicia-apps">
 				<img src="https://avatars.githubusercontent.com/u/39646929?s=72&u=ea4b0b7fb48f4edcb5862c9685b118fe4867835a&v=4" width="24" alt="Avatar of silicia-apps"> silicia-apps
@@ -5305,7 +5318,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/xreef">
 				<img src="https://avatars.githubusercontent.com/u/1850282?s=72&u=918efb349f4df2efdc91da2680c7ded310d68a99&v=4" width="24" alt="Avatar of xreef"> xreef
@@ -5318,7 +5331,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/askides">
 				<img src="https://avatars.githubusercontent.com/u/9286706?s=72&u=499937eb5937063b693f2a93a0a5ea6c631050ff&v=4" width="24" alt="Avatar of askides"> askides
@@ -5331,7 +5344,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>403</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/HrX03">
 				<img src="https://avatars.githubusercontent.com/u/29352339?s=72&u=aa6ef221dcfd260d6b1a65caf2df1680ab385a9b&v=4" width="24" alt="Avatar of HrX03"> HrX03
@@ -5344,7 +5357,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/bsctl">
 				<img src="https://avatars.githubusercontent.com/u/2222461?s=72&u=8f685b3ab9bd48225d50f96fcf441a82c54da32b&v=4" width="24" alt="Avatar of bsctl"> bsctl
@@ -5357,7 +5370,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/Francesco149">
 				<img src="https://avatars.githubusercontent.com/u/973793?s=72&u=5808f60eabedde2c5e68d5bde037980c6b4f74b0&v=4" width="24" alt="Avatar of Francesco149"> Francesco149
@@ -5370,7 +5383,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>163</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/alvagante">
 				<img src="https://avatars.githubusercontent.com/u/283804?s=72&v=4" width="24" alt="Avatar of alvagante"> alvagante
@@ -5383,7 +5396,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/NoriSte">
 				<img src="https://avatars.githubusercontent.com/u/173663?s=72&u=e2304674960672460e18a13729e21e8916d9a6af&v=4" width="24" alt="Avatar of NoriSte"> NoriSte
@@ -5396,7 +5409,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/liarco">
 				<img src="https://avatars.githubusercontent.com/u/1532277?s=72&v=4" width="24" alt="Avatar of liarco"> liarco
@@ -5409,7 +5422,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a href="https://github.com/Lymphatus">
 				<img src="https://avatars.githubusercontent.com/u/12133996?s=72&u=198755fc04f791195deb32259a927ee177a59da3&v=4" width="24" alt="Avatar of Lymphatus"> Lymphatus
@@ -5422,7 +5435,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/federicoiosue">
 				<img src="https://avatars.githubusercontent.com/u/487104?s=72&u=4b47d0577239db1963be113e9f9031aec8059c8e&v=4" width="24" alt="Avatar of federicoiosue"> federicoiosue
@@ -5435,7 +5448,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/enricocid">
 				<img src="https://avatars.githubusercontent.com/u/7274841?s=72&u=03b5ce1f59e7a32aa9bdffde5314408eac71651d&v=4" width="24" alt="Avatar of enricocid"> enricocid
@@ -5448,7 +5461,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/tafaRU">
 				<img src="https://avatars.githubusercontent.com/u/3512779?s=72&u=ef443b1a3c8bcc150ba9a3ec57c27bf830ca48dc&v=4" width="24" alt="Avatar of tafaRU"> tafaRU
@@ -5461,7 +5474,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>157</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/koistya">
 				<img src="https://avatars.githubusercontent.com/u/197134?s=72&u=521ce5efe8d19e59a68e6c4788b0897f2246270c&v=4" width="24" alt="Avatar of koistya"> koistya
@@ -5472,19 +5485,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/koistya">koistya</a></td>
 		<td>Marches, Italy</td>
 		<td>155</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/urbanslug">
-				<img src="https://avatars.githubusercontent.com/u/4144645?s=72&u=b2050c663b7a58497f1010a1e3b62e37c4427874&v=4" width="24" alt="Avatar of urbanslug"> urbanslug
-			</a><br/>
-			Njagi Mwaniki
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/urbanslug">urbanslug</a></td>
-		<td>Pisa, Italy.</td>
-		<td>154</td>
 	</tr>
 	<tr>
 		<td>415</td>
@@ -5528,19 +5528,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>418</td>
 		<td>
-			<a href="https://github.com/pmusolino">
-				<img src="https://avatars.githubusercontent.com/u/495617?s=72&u=ef9f378be2eb1e12ea7831faa3e4c6904fface45&v=4" width="24" alt="Avatar of pmusolino"> pmusolino
-			</a><br/>
-			Paolo Musolino
-		</td>
-		<td>Automattic Inc. </td>
-		<td><a href="https://twitter.com/pmusolino">pmusolino</a></td>
-		<td>Rome</td>
-		<td>151</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
 			<a href="https://github.com/derogab">
 				<img src="https://avatars.githubusercontent.com/u/4183824?s=72&u=75466a9b85eeda36556ccec69199a4aa2ffafbf9&v=4" width="24" alt="Avatar of derogab"> derogab
 			</a><br/>
@@ -5549,10 +5536,10 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/derogab">derogab</a></td>
 		<td>Milan, Italy</td>
-		<td>151</td>
+		<td>152</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/adolfintel">
 				<img src="https://avatars.githubusercontent.com/u/16307689?s=72&u=0111cce10dc31bcc8e17c6aa74edf9cab2143618&v=4" width="24" alt="Avatar of adolfintel"> adolfintel
@@ -5562,7 +5549,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Italy</td>
-		<td>150</td>
+		<td>151</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
+			<a href="https://github.com/pmusolino">
+				<img src="https://avatars.githubusercontent.com/u/495617?s=72&u=ef9f378be2eb1e12ea7831faa3e4c6904fface45&v=4" width="24" alt="Avatar of pmusolino"> pmusolino
+			</a><br/>
+			Paolo Musolino
+		</td>
+		<td>Automattic Inc. </td>
+		<td><a href="https://twitter.com/pmusolino">pmusolino</a></td>
+		<td>Rome</td>
+		<td>151</td>
 	</tr>
 	<tr>
 		<td>421</td>
@@ -5775,6 +5775,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>437</td>
 		<td>
+			<a href="https://github.com/nandajavarma">
+				<img src="https://avatars.githubusercontent.com/u/2624550?s=72&u=d6788fc0279244c614aaab23b6df28a7cbc47663&v=4" width="24" alt="Avatar of nandajavarma"> nandajavarma
+			</a><br/>
+			Nandaja Varma
+		</td>
+		<td>@gitpod-io </td>
+		<td>No Twitter Username</td>
+		<td>Milano, Italy</td>
+		<td>130</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
 			<a href="https://github.com/valentinogagliardi">
 				<img src="https://avatars.githubusercontent.com/u/6078736?s=72&u=2fdcbb5f9a1c92a6b3f39a6556f76069951c9715&v=4" width="24" alt="Avatar of valentinogagliardi"> valentinogagliardi
 			</a><br/>
@@ -5786,7 +5799,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>438</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/gianscarpe">
 				<img src="https://avatars.githubusercontent.com/u/38523369?s=72&u=cef3a8cb2577f9bb64794f8c85c6703dad565fe3&v=4" width="24" alt="Avatar of gianscarpe"> gianscarpe
@@ -5799,7 +5812,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/0xMelkor">
 				<img src="https://avatars.githubusercontent.com/u/8720857?s=72&u=5e76734fe3fab6c97b90a158bb6bff40eb649f74&v=4" width="24" alt="Avatar of 0xMelkor"> 0xMelkor
@@ -5812,7 +5825,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/galeone">
 				<img src="https://avatars.githubusercontent.com/u/8427788?s=72&u=daea3c0ca4a794ba55fbfe6bae49dd91a54dbf49&v=4" width="24" alt="Avatar of galeone"> galeone
@@ -5823,19 +5836,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Italy</td>
 		<td>126</td>
-	</tr>
-	<tr>
-		<td>441</td>
-		<td>
-			<a href="https://github.com/nandajavarma">
-				<img src="https://avatars.githubusercontent.com/u/2624550?s=72&u=d6788fc0279244c614aaab23b6df28a7cbc47663&v=4" width="24" alt="Avatar of nandajavarma"> nandajavarma
-			</a><br/>
-			Nandaja Varma
-		</td>
-		<td>@gitpod-io </td>
-		<td>No Twitter Username</td>
-		<td>Milano, Italy</td>
-		<td>125</td>
 	</tr>
 	<tr>
 		<td>442</td>
@@ -5970,6 +5970,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>452</td>
 		<td>
+			<a href="https://github.com/evilsocket">
+				<img src="https://avatars.githubusercontent.com/u/86922?s=72&u=a94f946922b3c3c2e03df3be49370f6e3743bb5e&v=4" width="24" alt="Avatar of evilsocket"> evilsocket
+			</a><br/>
+			Simone Margaritelli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/evilsocket">evilsocket</a></td>
+		<td>Italy</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
 			<a href="https://github.com/matteocrippa">
 				<img src="https://avatars.githubusercontent.com/u/475463?s=72&u=ba860f7ff503a83aeb273a3c16a07d338ff31ba0&v=4" width="24" alt="Avatar of matteocrippa"> matteocrippa
 			</a><br/>
@@ -5981,7 +5994,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/alvisespano">
 				<img src="https://avatars.githubusercontent.com/u/2562502?s=72&u=50ef8ac308c8b2cf3aa6995dbb69ea71ef163d7e&v=4" width="24" alt="Avatar of alvisespano"> alvisespano
@@ -5994,7 +6007,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/kandros">
 				<img src="https://avatars.githubusercontent.com/u/4562878?s=72&u=de5562852538293e1202a23331391a9e51ee58a0&v=4" width="24" alt="Avatar of kandros"> kandros
@@ -6007,7 +6020,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>455</td>
+		<td>456</td>
 		<td>
 			<a href="https://github.com/alexcasalboni">
 				<img src="https://avatars.githubusercontent.com/u/2457588?s=72&u=03f9e2d5a0bf50e7ea9e6d51a5aea32312a46a44&v=4" width="24" alt="Avatar of alexcasalboni"> alexcasalboni
@@ -6020,7 +6033,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/pamoroso">
 				<img src="https://avatars.githubusercontent.com/u/10342479?s=72&v=4" width="24" alt="Avatar of pamoroso"> pamoroso
@@ -6033,7 +6046,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
+		<td>
+			<a href="https://github.com/xpepper">
+				<img src="https://avatars.githubusercontent.com/u/450934?s=72&u=560b3f378997982f6251f18ca03ddf7cb948a247&v=4" width="24" alt="Avatar of xpepper"> xpepper
+			</a><br/>
+			Pietro Di Bello
+		</td>
+		<td>@casavo </td>
+		<td><a href="https://twitter.com/pierodibello">pierodibello</a></td>
+		<td>Trento, Italy</td>
+		<td>114</td>
+	</tr>
+	<tr>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/aleron75">
 				<img src="https://avatars.githubusercontent.com/u/1199894?s=72&u=28244b78a634f5d234b35437f8831d6812ba0f5c&v=4" width="24" alt="Avatar of aleron75"> aleron75
@@ -6046,7 +6072,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/rvianello">
 				<img src="https://avatars.githubusercontent.com/u/383098?s=72&v=4" width="24" alt="Avatar of rvianello"> rvianello
@@ -6059,20 +6085,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>459</td>
-		<td>
-			<a href="https://github.com/xpepper">
-				<img src="https://avatars.githubusercontent.com/u/450934?s=72&u=560b3f378997982f6251f18ca03ddf7cb948a247&v=4" width="24" alt="Avatar of xpepper"> xpepper
-			</a><br/>
-			Pietro Di Bello
-		</td>
-		<td>@casavo </td>
-		<td><a href="https://twitter.com/pierodibello">pierodibello</a></td>
-		<td>Trento, Italy</td>
-		<td>111</td>
-	</tr>
-	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/lgs">
 				<img src="https://avatars.githubusercontent.com/u/1573?s=72&v=4" width="24" alt="Avatar of lgs"> lgs
@@ -6085,7 +6098,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/andreapavoni">
 				<img src="https://avatars.githubusercontent.com/u/142753?s=72&u=cb01037fec6a29e6bee19de7378f178aa2172312&v=4" width="24" alt="Avatar of andreapavoni"> andreapavoni
@@ -6098,7 +6111,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/Taneb">
 				<img src="https://avatars.githubusercontent.com/u/1901799?s=72&u=c66a6195c2dd2083c25aa06787e4042634ca503f&v=4" width="24" alt="Avatar of Taneb"> Taneb
@@ -6111,7 +6124,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/andreagrandi">
 				<img src="https://avatars.githubusercontent.com/u/636391?s=72&u=13d90cb8ec313593a5b71fbd4e33b78d6da736f5&v=4" width="24" alt="Avatar of andreagrandi"> andreagrandi
@@ -6124,7 +6137,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/Gigi-G">
 				<img src="https://avatars.githubusercontent.com/u/45624102?s=72&u=a3c473ee8e443f7fb0d1b370ecc7f104766862a4&v=4" width="24" alt="Avatar of Gigi-G"> Gigi-G
@@ -6135,19 +6148,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/Gigii_Gii">Gigii_Gii</a></td>
 		<td>Italy, Sicily, Catania</td>
 		<td>108</td>
-	</tr>
-	<tr>
-		<td>465</td>
-		<td>
-			<a href="https://github.com/evilsocket">
-				<img src="https://avatars.githubusercontent.com/u/86922?s=72&u=a94f946922b3c3c2e03df3be49370f6e3743bb5e&v=4" width="24" alt="Avatar of evilsocket"> evilsocket
-			</a><br/>
-			Simone Margaritelli
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/evilsocket">evilsocket</a></td>
-		<td>Italy</td>
-		<td>107</td>
 	</tr>
 	<tr>
 		<td>466</td>
@@ -6204,19 +6204,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>470</td>
 		<td>
-			<a href="https://github.com/gvinciguerra">
-				<img src="https://avatars.githubusercontent.com/u/12454651?s=72&u=a4757ca8f979c245c7cd3ac605abc3fb4b513603&v=4" width="24" alt="Avatar of gvinciguerra"> gvinciguerra
-			</a><br/>
-			Giorgio Vinciguerra
-		</td>
-		<td>Università Di Pisa </td>
-		<td>No Twitter Username</td>
-		<td>Pisa, Italy</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>471</td>
-		<td>
 			<a href="https://github.com/bianchimro">
 				<img src="https://avatars.githubusercontent.com/u/234869?s=72&v=4" width="24" alt="Avatar of bianchimro"> bianchimro
 			</a><br/>
@@ -6225,6 +6212,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Http://www.inmagik.c </td>
 		<td><a href="https://twitter.com/bianchimro">bianchimro</a></td>
 		<td>Bergamo, Italy</td>
+		<td>106</td>
+	</tr>
+	<tr>
+		<td>471</td>
+		<td>
+			<a href="https://github.com/gvinciguerra">
+				<img src="https://avatars.githubusercontent.com/u/12454651?s=72&u=a4757ca8f979c245c7cd3ac605abc3fb4b513603&v=4" width="24" alt="Avatar of gvinciguerra"> gvinciguerra
+			</a><br/>
+			Giorgio Vinciguerra
+		</td>
+		<td>Università Di Pisa </td>
+		<td>No Twitter Username</td>
+		<td>Pisa, Italy</td>
 		<td>105</td>
 	</tr>
 	<tr>
@@ -6386,6 +6386,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>484</td>
 		<td>
+			<a href="https://github.com/emadb">
+				<img src="https://avatars.githubusercontent.com/u/276876?s=72&u=d8e685d2cb89a8c989bdee166e8c5e96eb348ba3&v=4" width="24" alt="Avatar of emadb"> emadb
+			</a><br/>
+			Emanuele DelBono
+		</td>
+		<td>Codiceplastico </td>
+		<td><a href="https://twitter.com/emadb">emadb</a></td>
+		<td>Italy</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
 			<a href="https://github.com/yaapu">
 				<img src="https://avatars.githubusercontent.com/u/30294218?s=72&u=7c6c49acce5087f61e1bd581150471e5530c0f64&v=4" width="24" alt="Avatar of yaapu"> yaapu
 			</a><br/>
@@ -6397,7 +6410,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
 		<td>
 			<a href="https://github.com/andychiare">
 				<img src="https://avatars.githubusercontent.com/u/25705235?s=72&u=cc787a070c5fab51cacc7c8f77fae0232ea6e68f&v=4" width="24" alt="Avatar of andychiare"> andychiare
@@ -6410,7 +6423,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>487</td>
 		<td>
 			<a href="https://github.com/emrdgrmnci">
 				<img src="https://avatars.githubusercontent.com/u/10485498?s=72&u=673c18956953e2f03782d296eba100d7cb4af581&v=4" width="24" alt="Avatar of emrdgrmnci"> emrdgrmnci
@@ -6423,7 +6436,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/pymike00">
 				<img src="https://avatars.githubusercontent.com/u/32687496?s=72&u=f519094068db9fca94d8a8f9375bbbed46b31dbe&v=4" width="24" alt="Avatar of pymike00"> pymike00
@@ -6436,20 +6449,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
-			<a href="https://github.com/emadb">
-				<img src="https://avatars.githubusercontent.com/u/276876?s=72&u=d8e685d2cb89a8c989bdee166e8c5e96eb348ba3&v=4" width="24" alt="Avatar of emadb"> emadb
+			<a href="https://github.com/Tkd-Alex">
+				<img src="https://avatars.githubusercontent.com/u/14061593?s=72&u=6e02d49646c96ff3fab192277bcffee847320ade&v=4" width="24" alt="Avatar of Tkd-Alex"> Tkd-Alex
 			</a><br/>
-			Emanuele DelBono
+			Alessandro Maggio
 		</td>
-		<td>Codiceplastico </td>
-		<td><a href="https://twitter.com/emadb">emadb</a></td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TkdAxel">TkdAxel</a></td>
 		<td>Italy</td>
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/exalted">
 				<img src="https://avatars.githubusercontent.com/u/314398?s=72&v=4" width="24" alt="Avatar of exalted"> exalted
@@ -6462,7 +6475,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/roberto-arista">
 				<img src="https://avatars.githubusercontent.com/u/2218712?s=72&u=681dae8d1162a09d091b3ee8a684599e3cb636c6&v=4" width="24" alt="Avatar of roberto-arista"> roberto-arista
@@ -6475,7 +6488,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/gsscoder">
 				<img src="https://avatars.githubusercontent.com/u/1194228?s=72&u=6ad5dff4a14b948bc5b989492cf50768e3745a8d&v=4" width="24" alt="Avatar of gsscoder"> gsscoder
@@ -6488,7 +6501,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
+		<td>
+			<a href="https://github.com/massimiliano-mantione">
+				<img src="https://avatars.githubusercontent.com/u/426352?s=72&u=36a7ad8d01f5cbdfe71f878e1415a412f4fb0a68&v=4" width="24" alt="Avatar of massimiliano-mantione"> massimiliano-mantione
+			</a><br/>
+			Massimiliano Mantione
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gorgonzola, MI Italy</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/theMiddleBlue">
 				<img src="https://avatars.githubusercontent.com/u/4454961?s=72&u=ccc452a3b0be733012c25f5dece1be2677b592e9&v=4" width="24" alt="Avatar of theMiddleBlue"> theMiddleBlue
@@ -6501,7 +6527,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/mell-o-tron">
 				<img src="https://avatars.githubusercontent.com/u/76403900?s=72&u=012fea1fc1835513f1ae709876cb45f059797770&v=4" width="24" alt="Avatar of mell-o-tron"> mell-o-tron
@@ -6514,7 +6540,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/dentex">
 				<img src="https://avatars.githubusercontent.com/u/2931982?s=72&v=4" width="24" alt="Avatar of dentex"> dentex
@@ -6527,7 +6553,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/paolo-rossi">
 				<img src="https://avatars.githubusercontent.com/u/4686497?s=72&u=ae46a7cc0435351cb4a34356c9195a3f1fbbf115&v=4" width="24" alt="Avatar of paolo-rossi"> paolo-rossi
@@ -6540,7 +6566,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/salvatoreraccardi">
 				<img src="https://avatars.githubusercontent.com/u/36445663?s=72&u=a811a48f9e9ee8588260b54e0240b6f6e95e8650&v=4" width="24" alt="Avatar of salvatoreraccardi"> salvatoreraccardi
@@ -6553,7 +6579,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/mohammadT77">
 				<img src="https://avatars.githubusercontent.com/u/26257458?s=72&u=b4272f5d13114eba26637d9b9615955155a95949&v=4" width="24" alt="Avatar of mohammadT77"> mohammadT77
@@ -6566,7 +6592,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/albertodev01">
 				<img src="https://avatars.githubusercontent.com/u/2848696?s=72&u=752e09f7c0b2bd22f4a5daabfe4ad2678a0ade4d&v=4" width="24" alt="Avatar of albertodev01"> albertodev01
@@ -6579,7 +6605,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>501</td>
+		<td>
+			<a href="https://github.com/suspectedoceano">
+				<img src="https://avatars.githubusercontent.com/u/78665699?s=72&u=c3bc78d8dd81d3622d317a65e2409bcbafa52456&v=4" width="24" alt="Avatar of suspectedoceano"> suspectedoceano
+			</a><br/>
+			Jalal Bounaim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>rome</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/PirosB3">
 				<img src="https://avatars.githubusercontent.com/u/847179?s=72&u=6202a56aef77aaeee1af5ad56ba67e274524d47e&v=4" width="24" alt="Avatar of PirosB3"> PirosB3
@@ -6592,7 +6631,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/amusarra">
 				<img src="https://avatars.githubusercontent.com/u/708110?s=72&u=70332326e830c764f7a987a5c48404d4b75b228d&v=4" width="24" alt="Avatar of amusarra"> amusarra
@@ -6605,20 +6644,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>501</td>
-		<td>
-			<a href="https://github.com/Tkd-Alex">
-				<img src="https://avatars.githubusercontent.com/u/14061593?s=72&u=6e02d49646c96ff3fab192277bcffee847320ade&v=4" width="24" alt="Avatar of Tkd-Alex"> Tkd-Alex
-			</a><br/>
-			Alessandro Maggio
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/TkdAxel">TkdAxel</a></td>
-		<td>Italy</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>502</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/andrea-magni">
 				<img src="https://avatars.githubusercontent.com/u/7839604?s=72&u=e85cf72822ecae403a5aad5f4b2c78ff7b981ea1&v=4" width="24" alt="Avatar of andrea-magni"> andrea-magni
@@ -6631,7 +6657,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/agdl">
 				<img src="https://avatars.githubusercontent.com/u/2743774?s=72&u=0342934b0499f5674d415342897cfcb901a7c0d2&v=4" width="24" alt="Avatar of agdl"> agdl
@@ -6644,7 +6670,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/paoloantinori">
 				<img src="https://avatars.githubusercontent.com/u/1520602?s=72&v=4" width="24" alt="Avatar of paoloantinori"> paoloantinori
@@ -6657,7 +6683,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>507</td>
 		<td>
 			<a href="https://github.com/fguerri">
 				<img src="https://avatars.githubusercontent.com/u/19310643?s=72&u=78bd4f56cb21986481c45a3b4021cdb88ad94b4b&v=4" width="24" alt="Avatar of fguerri"> fguerri
@@ -6670,7 +6696,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>508</td>
 		<td>
 			<a href="https://github.com/zedr">
 				<img src="https://avatars.githubusercontent.com/u/243031?s=72&u=66cf3446ce635d86f8821528d709d7ea297a0003&v=4" width="24" alt="Avatar of zedr"> zedr
@@ -6683,7 +6709,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/stefanotorresi">
 				<img src="https://avatars.githubusercontent.com/u/2952427?s=72&u=c0bf6af8577289ca54628257b93600940ec4ef91&v=4" width="24" alt="Avatar of stefanotorresi"> stefanotorresi
@@ -6696,7 +6722,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/alberanid">
 				<img src="https://avatars.githubusercontent.com/u/222857?s=72&v=4" width="24" alt="Avatar of alberanid"> alberanid
@@ -6709,20 +6735,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>509</td>
-		<td>
-			<a href="https://github.com/nicolocarpignoli">
-				<img src="https://avatars.githubusercontent.com/u/22395670?s=72&u=cbfc666d718142836f3d178ed4b62920e48a9695&v=4" width="24" alt="Avatar of nicolocarpignoli"> nicolocarpignoli
-			</a><br/>
-			Nicolò Carpignoli
-		</td>
-		<td>@chialab  </td>
-		<td><a href="https://twitter.com/nicolocarp">nicolocarp</a></td>
-		<td>Italy</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/emilianobonassi">
 				<img src="https://avatars.githubusercontent.com/u/8052911?s=72&u=f437177dda48a4cad43d01566e1e7441bc11938f&v=4" width="24" alt="Avatar of emilianobonassi"> emilianobonassi
@@ -6735,7 +6748,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/aparo">
 				<img src="https://avatars.githubusercontent.com/u/28075?s=72&v=4" width="24" alt="Avatar of aparo"> aparo
@@ -6745,19 +6758,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Accenture Italia S.p.a </td>
 		<td><a href="https://twitter.com/aparo77">aparo77</a></td>
 		<td>Milan (Italy)</td>
-		<td>85</td>
-	</tr>
-	<tr>
-		<td>512</td>
-		<td>
-			<a href="https://github.com/suspectedoceano">
-				<img src="https://avatars.githubusercontent.com/u/78665699?s=72&u=c3bc78d8dd81d3622d317a65e2409bcbafa52456&v=4" width="24" alt="Avatar of suspectedoceano"> suspectedoceano
-			</a><br/>
-			Jalal Bounaim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>rome</td>
 		<td>85</td>
 	</tr>
 	<tr>
@@ -6776,6 +6776,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>514</td>
 		<td>
+			<a href="https://github.com/nicolocarpignoli">
+				<img src="https://avatars.githubusercontent.com/u/22395670?s=72&u=cbfc666d718142836f3d178ed4b62920e48a9695&v=4" width="24" alt="Avatar of nicolocarpignoli"> nicolocarpignoli
+			</a><br/>
+			Nicolò Carpignoli
+		</td>
+		<td>@chialab  </td>
+		<td><a href="https://twitter.com/nicolocarp">nicolocarp</a></td>
+		<td>Italy</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>515</td>
+		<td>
 			<a href="https://github.com/TryKatChup">
 				<img src="https://avatars.githubusercontent.com/u/39459803?s=72&u=777da2ac48664ca83627dd745b80a642b2172dd5&v=4" width="24" alt="Avatar of TryKatChup"> TryKatChup
 			</a><br/>
@@ -6784,19 +6797,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>University Of Bologna </td>
 		<td>No Twitter Username</td>
 		<td>Bologna, Italy</td>
-		<td>84</td>
-	</tr>
-	<tr>
-		<td>515</td>
-		<td>
-			<a href="https://github.com/massimiliano-mantione">
-				<img src="https://avatars.githubusercontent.com/u/426352?s=72&u=36a7ad8d01f5cbdfe71f878e1415a412f4fb0a68&v=4" width="24" alt="Avatar of massimiliano-mantione"> massimiliano-mantione
-			</a><br/>
-			Massimiliano Mantione
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gorgonzola, MI Italy</td>
 		<td>84</td>
 	</tr>
 	<tr>
@@ -6841,19 +6841,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>519</td>
 		<td>
-			<a href="https://github.com/enzomanuelmangano">
-				<img src="https://avatars.githubusercontent.com/u/37193302?s=72&u=fd8acd1338ba8ef696c40fc23eec8fb846cf3f70&v=4" width="24" alt="Avatar of enzomanuelmangano"> enzomanuelmangano
-			</a><br/>
-			Enzo Manuel Mangano
-		</td>
-		<td>Worklet </td>
-		<td><a href="https://twitter.com/reactiive_">reactiive_</a></td>
-		<td>Naples, Italy</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>520</td>
-		<td>
 			<a href="https://github.com/aurasphere">
 				<img src="https://avatars.githubusercontent.com/u/14991778?s=72&u=d748999a3c6461bc44dfe50bf0a354c0c8fb13a4&v=4" width="24" alt="Avatar of aurasphere"> aurasphere
 			</a><br/>
@@ -6865,7 +6852,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/vjt">
 				<img src="https://avatars.githubusercontent.com/u/14077?s=72&v=4" width="24" alt="Avatar of vjt"> vjt
@@ -6878,7 +6865,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/andreabergia">
 				<img src="https://avatars.githubusercontent.com/u/775653?s=72&v=4" width="24" alt="Avatar of andreabergia"> andreabergia
@@ -6889,6 +6876,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td><a href="https://twitter.com/andreabergia">andreabergia</a></td>
 		<td>Italy</td>
 		<td>80</td>
+	</tr>
+	<tr>
+		<td>522</td>
+		<td>
+			<a href="https://github.com/enzomanuelmangano">
+				<img src="https://avatars.githubusercontent.com/u/37193302?s=72&u=fd8acd1338ba8ef696c40fc23eec8fb846cf3f70&v=4" width="24" alt="Avatar of enzomanuelmangano"> enzomanuelmangano
+			</a><br/>
+			Enzo Manuel Mangano
+		</td>
+		<td>Worklet </td>
+		<td><a href="https://twitter.com/reactiive_">reactiive_</a></td>
+		<td>Naples, Italy</td>
+		<td>79</td>
 	</tr>
 	<tr>
 		<td>523</td>
@@ -6906,6 +6906,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>524</td>
 		<td>
+			<a href="https://github.com/devcarolinealmeida">
+				<img src="https://avatars.githubusercontent.com/u/104517812?s=72&u=2c02cf56db72f1111c76cfe6ca986d363666eef0&v=4" width="24" alt="Avatar of devcarolinealmeida"> devcarolinealmeida
+			</a><br/>
+			Caroline Almeida
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Turim, Italy</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
 			<a href="https://github.com/Domenicobrz">
 				<img src="https://avatars.githubusercontent.com/u/25647854?s=72&u=2b94c4ec5471200e4620cce2a06071bfb583e4d9&v=4" width="24" alt="Avatar of Domenicobrz"> Domenicobrz
 			</a><br/>
@@ -6917,7 +6930,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/nusco">
 				<img src="https://avatars.githubusercontent.com/u/17791?s=72&u=00bc78ec386116dc476e6ffb6e5380c5fdd3a7a5&v=4" width="24" alt="Avatar of nusco"> nusco
@@ -6930,7 +6943,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/volkanozsarac">
 				<img src="https://avatars.githubusercontent.com/u/46993652?s=72&u=fc74a2cfe4132f21b0f1fa33622abaaeeacbd050&v=4" width="24" alt="Avatar of volkanozsarac"> volkanozsarac
@@ -6940,19 +6953,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Iuss Pavia </td>
 		<td>No Twitter Username</td>
 		<td>Pavia, Italy</td>
-		<td>77</td>
-	</tr>
-	<tr>
-		<td>527</td>
-		<td>
-			<a href="https://github.com/devcarolinealmeida">
-				<img src="https://avatars.githubusercontent.com/u/104517812?s=72&u=2c02cf56db72f1111c76cfe6ca986d363666eef0&v=4" width="24" alt="Avatar of devcarolinealmeida"> devcarolinealmeida
-			</a><br/>
-			Caroline Almeida
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Turim, Italy</td>
 		<td>77</td>
 	</tr>
 	<tr>
@@ -6992,7 +6992,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>D3lab </td>
 		<td><a href="https://twitter.com/andreadraghetti">andreadraghetti</a></td>
 		<td>Bologna, Italy</td>
-		<td>74</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>531</td>
@@ -7010,6 +7010,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>532</td>
 		<td>
+			<a href="https://github.com/guizzo">
+				<img src="https://avatars.githubusercontent.com/u/10761747?s=72&u=fe840e9eb797ea7170be3bb9185af97e20b08fbe&v=4" width="24" alt="Avatar of guizzo"> guizzo
+			</a><br/>
+			Simone Gizzi
+		</td>
+		<td>@mazzocchibrothers </td>
+		<td><a href="https://twitter.com/Guizzo85">Guizzo85</a></td>
+		<td>Rome, Italy</td>
+		<td>74</td>
+	</tr>
+	<tr>
+		<td>533</td>
+		<td>
 			<a href="https://github.com/Pomettini">
 				<img src="https://avatars.githubusercontent.com/u/51203?s=72&u=2e33bad9fbca330f44692f172c8ccd89159c0a08&v=4" width="24" alt="Avatar of Pomettini"> Pomettini
 			</a><br/>
@@ -7021,7 +7034,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>534</td>
 		<td>
 			<a href="https://github.com/LanciWeb">
 				<img src="https://avatars.githubusercontent.com/u/15893446?s=72&u=a9d0f0f38d156062411ac9214ae320247bca9d9b&v=4" width="24" alt="Avatar of LanciWeb"> LanciWeb
@@ -7034,7 +7047,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a href="https://github.com/antonioCoco">
 				<img src="https://avatars.githubusercontent.com/u/19797064?s=72&u=4801f17015645ef9f687dafabf2aed39992e613e&v=4" width="24" alt="Avatar of antonioCoco"> antonioCoco
@@ -7047,7 +7060,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a href="https://github.com/emirhanai">
 				<img src="https://avatars.githubusercontent.com/u/72056400?s=72&u=84db0d744df592234488b95353d3efdfd12ab7ed&v=4" width="24" alt="Avatar of emirhanai"> emirhanai
@@ -7060,7 +7073,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a href="https://github.com/jtommy">
 				<img src="https://avatars.githubusercontent.com/u/8029488?s=72&u=3dff5c0f6184408aa4fc70882ba9cbe903d24a6f&v=4" width="24" alt="Avatar of jtommy"> jtommy
@@ -7073,7 +7086,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a href="https://github.com/imtoori">
 				<img src="https://avatars.githubusercontent.com/u/20601437?s=72&u=3f66c22a7483980624804054ae7f357cf102c784&v=4" width="24" alt="Avatar of imtoori"> imtoori
@@ -7086,7 +7099,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a href="https://github.com/angelodel80">
 				<img src="https://avatars.githubusercontent.com/u/3342724?s=72&v=4" width="24" alt="Avatar of angelodel80"> angelodel80
@@ -7099,7 +7112,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a href="https://github.com/piever">
 				<img src="https://avatars.githubusercontent.com/u/6333339?s=72&u=098925955ecc6eb9368051214c1feef37f7fb77b&v=4" width="24" alt="Avatar of piever"> piever
@@ -7112,7 +7125,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a href="https://github.com/danyspin97">
 				<img src="https://avatars.githubusercontent.com/u/11873789?s=72&u=2b9d2dadb615479972f8a58c0ea9942915f29666&v=4" width="24" alt="Avatar of danyspin97"> danyspin97
@@ -7125,7 +7138,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a href="https://github.com/matjack1">
 				<img src="https://avatars.githubusercontent.com/u/65402?s=72&u=265399f41428c4a21790c70a78a15c9a131baf4b&v=4" width="24" alt="Avatar of matjack1"> matjack1
@@ -7138,7 +7151,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
+		<td>
+			<a href="https://github.com/Pigrecos">
+				<img src="https://avatars.githubusercontent.com/u/16204864?s=72&u=20ec86bcad05581b402a96a31b18b733c4494707&v=4" width="24" alt="Avatar of Pigrecos"> Pigrecos
+			</a><br/>
+			Max
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/LucaAngioloni">
 				<img src="https://avatars.githubusercontent.com/u/12626501?s=72&u=ac12660695c41f6ddc65ad68351696676f2de788&v=4" width="24" alt="Avatar of LucaAngioloni"> LucaAngioloni
@@ -7151,7 +7177,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/stefoxp">
 				<img src="https://avatars.githubusercontent.com/u/33906742?s=72&u=86e14e4e93e71eccf34acd41bb5d80fc838a0fa2&v=4" width="24" alt="Avatar of stefoxp"> stefoxp
@@ -7164,20 +7190,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>544</td>
-		<td>
-			<a href="https://github.com/guizzo">
-				<img src="https://avatars.githubusercontent.com/u/10761747?s=72&u=fe840e9eb797ea7170be3bb9185af97e20b08fbe&v=4" width="24" alt="Avatar of guizzo"> guizzo
-			</a><br/>
-			Simone Gizzi
-		</td>
-		<td>@mazzocchibrothers </td>
-		<td><a href="https://twitter.com/Guizzo85">Guizzo85</a></td>
-		<td>Rome, Italy</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>545</td>
+		<td>546</td>
 		<td>
 			<a href="https://github.com/Fale">
 				<img src="https://avatars.githubusercontent.com/u/77888?s=72&u=a0fb6c6c84795a4f2b9e90a2aa1cc2cdd6353052&v=4" width="24" alt="Avatar of Fale"> Fale
@@ -7190,7 +7203,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>547</td>
 		<td>
 			<a href="https://github.com/macedonga">
 				<img src="https://avatars.githubusercontent.com/u/19750900?s=72&u=e4d96b94a48d8cda2c8e6b2c543fe31c4d3790fe&v=4" width="24" alt="Avatar of macedonga"> macedonga
@@ -7203,33 +7216,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>547</td>
-		<td>
-			<a href="https://github.com/napolux">
-				<img src="https://avatars.githubusercontent.com/u/1070836?s=72&u=e6b4a27b9a817221679ca588586ae36acd2ea286&v=4" width="24" alt="Avatar of napolux"> napolux
-			</a><br/>
-			Francesco Napoletano
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/napolux">napolux</a></td>
-		<td>Milan, Italy</td>
-		<td>71</td>
-	</tr>
-	<tr>
 		<td>548</td>
-		<td>
-			<a href="https://github.com/Pigrecos">
-				<img src="https://avatars.githubusercontent.com/u/16204864?s=72&u=20ec86bcad05581b402a96a31b18b733c4494707&v=4" width="24" alt="Avatar of Pigrecos"> Pigrecos
-			</a><br/>
-			Max
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>71</td>
-	</tr>
-	<tr>
-		<td>549</td>
 		<td>
 			<a href="https://github.com/FrancescoConti">
 				<img src="https://avatars.githubusercontent.com/u/7882682?s=72&u=ee9520d5f906437999a14f0d85a60e1558633bc8&v=4" width="24" alt="Avatar of FrancescoConti"> FrancescoConti
@@ -7239,6 +7226,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@pulp-platform : University Of<br/>Bologna<br/></td>
 		<td><a href="https://twitter.com/arunax">arunax</a></td>
 		<td>Bologna</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a href="https://github.com/napolux">
+				<img src="https://avatars.githubusercontent.com/u/1070836?s=72&u=e6b4a27b9a817221679ca588586ae36acd2ea286&v=4" width="24" alt="Avatar of napolux"> napolux
+			</a><br/>
+			Francesco Napoletano
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/napolux">napolux</a></td>
+		<td>Milan, Italy</td>
 		<td>71</td>
 	</tr>
 	<tr>
@@ -7252,10 +7252,36 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td><a href="https://twitter.com/niccolove">niccolove</a></td>
 		<td>Sweet Italy!</td>
-		<td>70</td>
+		<td>71</td>
 	</tr>
 	<tr>
 		<td>551</td>
+		<td>
+			<a href="https://github.com/ordex">
+				<img src="https://avatars.githubusercontent.com/u/3433035?s=72&u=d0575c2aec39381d2107a23e807762c52375c653&v=4" width="24" alt="Avatar of ordex"> ordex
+			</a><br/>
+			Antonio Quartulli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
+			<a href="https://github.com/OpenCode">
+				<img src="https://avatars.githubusercontent.com/u/265697?s=72&v=4" width="24" alt="Avatar of OpenCode"> OpenCode
+			</a><br/>
+			Apruzzese Francesco
+		</td>
+		<td>E-ware.org </td>
+		<td>No Twitter Username</td>
+		<td>Italy</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>553</td>
 		<td>
 			<a href="https://github.com/lordgrilo">
 				<img src="https://avatars.githubusercontent.com/u/2098905?s=72&u=22241aa81e9710f3b27b20fea1de42c8e86a2dbd&v=4" width="24" alt="Avatar of lordgrilo"> lordgrilo
@@ -7268,20 +7294,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>552</td>
-		<td>
-			<a href="https://github.com/ordex">
-				<img src="https://avatars.githubusercontent.com/u/3433035?s=72&u=d0575c2aec39381d2107a23e807762c52375c653&v=4" width="24" alt="Avatar of ordex"> ordex
-			</a><br/>
-			Antonio Quartulli
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
-		<td>69</td>
-	</tr>
-	<tr>
-		<td>553</td>
+		<td>554</td>
 		<td>
 			<a href="https://github.com/foysalit">
 				<img src="https://avatars.githubusercontent.com/u/1919066?s=72&u=d14fb2c04847770dc93132972d9799882ceb19c3&v=4" width="24" alt="Avatar of foysalit"> foysalit
@@ -7294,7 +7307,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a href="https://github.com/dancamdev">
 				<img src="https://avatars.githubusercontent.com/u/43640732?s=72&u=726e8a6d10ed5de9f60efe19dd9abe47ca522705&v=4" width="24" alt="Avatar of dancamdev"> dancamdev
@@ -7307,7 +7320,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>556</td>
 		<td>
 			<a href="https://github.com/serenasensini">
 				<img src="https://avatars.githubusercontent.com/u/17291035?s=72&u=298279df95fbd558dff1112a35f7cfa0b8e2393b&v=4" width="24" alt="Avatar of serenasensini"> serenasensini
@@ -7317,19 +7330,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Dedalus Spa </td>
 		<td><a href="https://twitter.com/s_sensini">s_sensini</a></td>
 		<td>Rome</td>
-		<td>67</td>
-	</tr>
-	<tr>
-		<td>556</td>
-		<td>
-			<a href="https://github.com/OpenCode">
-				<img src="https://avatars.githubusercontent.com/u/265697?s=72&v=4" width="24" alt="Avatar of OpenCode"> OpenCode
-			</a><br/>
-			Apruzzese Francesco
-		</td>
-		<td>E-ware.org </td>
-		<td>No Twitter Username</td>
-		<td>Italy</td>
 		<td>67</td>
 	</tr>
 	<tr>
@@ -7387,6 +7387,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>561</td>
 		<td>
+			<a href="https://github.com/federico-terzi">
+				<img src="https://avatars.githubusercontent.com/u/20475953?s=72&u=6af0ac7c5797ab82308224264d3a6970213f3db1&v=4" width="24" alt="Avatar of federico-terzi"> federico-terzi
+			</a><br/>
+			Federico Terzi
+		</td>
+		<td>Anima App </td>
+		<td><a href="https://twitter.com/terzi_federico">terzi_federico</a></td>
+		<td>Italy</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
 			<a href="https://github.com/0x5eba">
 				<img src="https://avatars.githubusercontent.com/u/15160790?s=72&u=4cb639f4b776ad90f939a29aaef5900f92835da0&v=4" width="24" alt="Avatar of 0x5eba"> 0x5eba
 			</a><br/>
@@ -7398,7 +7411,20 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
+		<td>
+			<a href="https://github.com/aesuli">
+				<img src="https://avatars.githubusercontent.com/u/6543521?s=72&u=33e57b6ad111d79c1d9824afb834d18f6b95b331&v=4" width="24" alt="Avatar of aesuli"> aesuli
+			</a><br/>
+			Andrea Esuli
+		</td>
+		<td>Istituto Di Scienza E<br/>Tecnologie<br/>Dell'informazione<br/>-<br/>Cnr<br/></td>
+		<td><a href="https://twitter.com/aesuli">aesuli</a></td>
+		<td>Pisa, Italy</td>
+		<td>64</td>
+	</tr>
+	<tr>
+		<td>564</td>
 		<td>
 			<a href="https://github.com/jocacace">
 				<img src="https://avatars.githubusercontent.com/u/10219563?s=72&u=504e033d476640cd3faa6de79c5b0c0216be3486&v=4" width="24" alt="Avatar of jocacace"> jocacace
@@ -7411,7 +7437,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>565</td>
 		<td>
 			<a href="https://github.com/DontPanicO">
 				<img src="https://avatars.githubusercontent.com/u/72745847?s=72&u=addf938a872805729e80ef6126c3cee9d46cb23b&v=4" width="24" alt="Avatar of DontPanicO"> DontPanicO
@@ -7424,20 +7450,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>564</td>
-		<td>
-			<a href="https://github.com/federico-terzi">
-				<img src="https://avatars.githubusercontent.com/u/20475953?s=72&u=6af0ac7c5797ab82308224264d3a6970213f3db1&v=4" width="24" alt="Avatar of federico-terzi"> federico-terzi
-			</a><br/>
-			Federico Terzi
-		</td>
-		<td>Anima App </td>
-		<td><a href="https://twitter.com/terzi_federico">terzi_federico</a></td>
-		<td>Italy</td>
-		<td>62</td>
-	</tr>
-	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a href="https://github.com/jekil">
 				<img src="https://avatars.githubusercontent.com/u/1069119?s=72&u=bcb62258f0e6356221cd7af680ff9c3aa845f187&v=4" width="24" alt="Avatar of jekil"> jekil
@@ -7450,7 +7463,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a href="https://github.com/growupboron">
 				<img src="https://avatars.githubusercontent.com/u/41593068?s=72&u=f476d689045bc86922662450c4c7c03e7c7a442e&v=4" width="24" alt="Avatar of growupboron"> growupboron
@@ -7463,7 +7476,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a href="https://github.com/MarcAnt01">
 				<img src="https://avatars.githubusercontent.com/u/43090263?s=72&u=9e2da2ff1dc77d89b70e16b441edbb3d9c6f2270&v=4" width="24" alt="Avatar of MarcAnt01"> MarcAnt01
@@ -7476,7 +7489,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a href="https://github.com/netoarmando">
 				<img src="https://avatars.githubusercontent.com/u/217367?s=72&u=826053b8aa3547270bc7523a0a11badf60f5d558&v=4" width="24" alt="Avatar of netoarmando"> netoarmando
@@ -7489,7 +7502,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>569</td>
+		<td>570</td>
 		<td>
 			<a href="https://github.com/atomotic">
 				<img src="https://avatars.githubusercontent.com/u/67420?s=72&u=83f66fa9c154d251fcbb75a777117f56e74b3d98&v=4" width="24" alt="Avatar of atomotic"> atomotic
@@ -7502,7 +7515,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>570</td>
+		<td>571</td>
 		<td>
 			<a href="https://github.com/adinapoli">
 				<img src="https://avatars.githubusercontent.com/u/442035?s=72&u=984f63f78c636defba125b65ca021773b8ecdf71&v=4" width="24" alt="Avatar of adinapoli"> adinapoli
@@ -7515,7 +7528,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>571</td>
+		<td>572</td>
 		<td>
 			<a href="https://github.com/gdassori">
 				<img src="https://avatars.githubusercontent.com/u/5659270?s=72&u=1ea01d12f937af20187fce7bc7704e0931b4a155&v=4" width="24" alt="Avatar of gdassori"> gdassori
@@ -7528,7 +7541,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a href="https://github.com/lmassaron">
 				<img src="https://avatars.githubusercontent.com/u/4325094?s=72&u=978c1d4ce0f554825feac618ad22c125bb9ac52b&v=4" width="24" alt="Avatar of lmassaron"> lmassaron
@@ -7541,7 +7554,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a href="https://github.com/saniales">
 				<img src="https://avatars.githubusercontent.com/u/3513298?s=72&u=fe07c4af38ae7bedf1fc0187586b4204c35800e9&v=4" width="24" alt="Avatar of saniales"> saniales
@@ -7554,7 +7567,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a href="https://github.com/naksyn">
 				<img src="https://avatars.githubusercontent.com/u/59816245?s=72&u=e0eb80d5694585e4837994c5901600d39b1ecce1&v=4" width="24" alt="Avatar of naksyn"> naksyn
@@ -7567,7 +7580,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/kesiev">
 				<img src="https://avatars.githubusercontent.com/u/248723?s=72&u=a0514ecf7003f84d05df89736005827466ff3d36&v=4" width="24" alt="Avatar of kesiev"> kesiev
@@ -7580,7 +7593,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/g3k0">
 				<img src="https://avatars.githubusercontent.com/u/4429186?s=72&u=ff36043ce65f0f1cb00a62383e2caa5282381063&v=4" width="24" alt="Avatar of g3k0"> g3k0
@@ -7593,7 +7606,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/Hexer10">
 				<img src="https://avatars.githubusercontent.com/u/21113203?s=72&u=456413a2413b1fde5fce96ea05dd078ed44df8ce&v=4" width="24" alt="Avatar of Hexer10"> Hexer10
@@ -7606,7 +7619,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/Swordfish90">
 				<img src="https://avatars.githubusercontent.com/u/6009070?s=72&u=2e01fbba8dfe771d3a0bd4a879b480cd4da64a35&v=4" width="24" alt="Avatar of Swordfish90"> Swordfish90
@@ -7619,7 +7632,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/jiayihu">
 				<img src="https://avatars.githubusercontent.com/u/10067273?s=72&u=cbf8dae07352121f9c43a825affa3dad068c1e30&v=4" width="24" alt="Avatar of jiayihu"> jiayihu
@@ -7632,7 +7645,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/puemos">
 				<img src="https://avatars.githubusercontent.com/u/13174025?s=72&u=13c417ead660f2816524c95c331c52a3cba14abc&v=4" width="24" alt="Avatar of puemos"> puemos
@@ -7642,19 +7655,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>@orbit-love </td>
 		<td><a href="https://twitter.com/puemos">puemos</a></td>
 		<td>Milan</td>
-		<td>55</td>
-	</tr>
-	<tr>
-		<td>581</td>
-		<td>
-			<a href="https://github.com/aesuli">
-				<img src="https://avatars.githubusercontent.com/u/6543521?s=72&u=33e57b6ad111d79c1d9824afb834d18f6b95b331&v=4" width="24" alt="Avatar of aesuli"> aesuli
-			</a><br/>
-			Andrea Esuli
-		</td>
-		<td>Istituto Di Scienza E<br/>Tecnologie<br/>Dell'informazione<br/>-<br/>Cnr<br/></td>
-		<td><a href="https://twitter.com/aesuli">aesuli</a></td>
-		<td>Pisa, Italy</td>
 		<td>55</td>
 	</tr>
 	<tr>
@@ -8700,6 +8700,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>662</td>
 		<td>
+			<a href="https://github.com/cubiq">
+				<img src="https://avatars.githubusercontent.com/u/427614?s=72&v=4" width="24" alt="Avatar of cubiq"> cubiq
+			</a><br/>
+			Matteo Spinelli
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Florence, Italy</td>
+		<td>29</td>
+	</tr>
+	<tr>
+		<td>663</td>
+		<td>
 			<a href="https://github.com/gotev">
 				<img src="https://avatars.githubusercontent.com/u/16792495?s=72&u=4ddc8d4357a207b5c899749cc6d009d31a53e260&v=4" width="24" alt="Avatar of gotev"> gotev
 			</a><br/>
@@ -8711,7 +8724,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/acuoci">
 				<img src="https://avatars.githubusercontent.com/u/3610292?s=72&u=afa03cc38abc5ddcf597078f705fed8584894b89&v=4" width="24" alt="Avatar of acuoci"> acuoci
@@ -8724,7 +8737,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/duksis">
 				<img src="https://avatars.githubusercontent.com/u/222101?s=72&u=e113e1da7e9d76f906dfad0a176cc7bdcb27a814&v=4" width="24" alt="Avatar of duksis"> duksis
@@ -8737,7 +8750,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/daquinoaldo">
 				<img src="https://avatars.githubusercontent.com/u/18645793?s=72&u=383c97e08a590111b92a3c587bb6bbcd40080743&v=4" width="24" alt="Avatar of daquinoaldo"> daquinoaldo
@@ -8748,19 +8761,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Twitter Username</td>
 		<td>Italy</td>
 		<td>29</td>
-	</tr>
-	<tr>
-		<td>666</td>
-		<td>
-			<a href="https://github.com/cubiq">
-				<img src="https://avatars.githubusercontent.com/u/427614?s=72&v=4" width="24" alt="Avatar of cubiq"> cubiq
-			</a><br/>
-			Matteo Spinelli
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Florence, Italy</td>
-		<td>28</td>
 	</tr>
 	<tr>
 		<td>667</td>
@@ -8856,6 +8856,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>674</td>
 		<td>
+			<a href="https://github.com/vcuculo">
+				<img src="https://avatars.githubusercontent.com/u/642555?s=72&v=4" width="24" alt="Avatar of vcuculo"> vcuculo
+			</a><br/>
+			Vittorio Cuculo
+		</td>
+		<td>@phuselab  </td>
+		<td>No Twitter Username</td>
+		<td>Milan, Italy</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>675</td>
+		<td>
 			<a href="https://github.com/davidefiocco">
 				<img src="https://avatars.githubusercontent.com/u/4547987?s=72&v=4" width="24" alt="Avatar of davidefiocco"> davidefiocco
 			</a><br/>
@@ -8867,7 +8880,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/MaxArt2501">
 				<img src="https://avatars.githubusercontent.com/u/2140858?s=72&u=7d3e1b8c9556d11bcf5b75c6e0d4cfbc4b4f3ece&v=4" width="24" alt="Avatar of MaxArt2501"> MaxArt2501
@@ -8880,7 +8893,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/kholk">
 				<img src="https://avatars.githubusercontent.com/u/1922359?s=72&u=ae5d5636f7b0694ae17c1adc63685c6fd6068a19&v=4" width="24" alt="Avatar of kholk"> kholk
@@ -8893,7 +8906,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/kessoning">
 				<img src="https://avatars.githubusercontent.com/u/5932586?s=72&u=025e08b2d470209bab685f15308f413f12de62c2&v=4" width="24" alt="Avatar of kessoning"> kessoning
@@ -8906,7 +8919,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/siscia">
 				<img src="https://avatars.githubusercontent.com/u/640555?s=72&v=4" width="24" alt="Avatar of siscia"> siscia
@@ -8919,7 +8932,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/packmad">
 				<img src="https://avatars.githubusercontent.com/u/5713555?s=72&u=a932bace0a416659ef84c5628ed72486a209f1fd&v=4" width="24" alt="Avatar of packmad"> packmad
@@ -8929,19 +8942,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>Eurecom </td>
 		<td><a href="https://twitter.com/packm4d">packm4d</a></td>
 		<td>Italy</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>680</td>
-		<td>
-			<a href="https://github.com/vcuculo">
-				<img src="https://avatars.githubusercontent.com/u/642555?s=72&v=4" width="24" alt="Avatar of vcuculo"> vcuculo
-			</a><br/>
-			Vittorio Cuculo
-		</td>
-		<td>@phuselab  </td>
-		<td>No Twitter Username</td>
-		<td>Milan, Italy</td>
 		<td>25</td>
 	</tr>
 	<tr>
@@ -10039,6 +10039,19 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 	<tr>
 		<td>765</td>
 		<td>
+			<a href="https://github.com/shoegazerstella">
+				<img src="https://avatars.githubusercontent.com/u/22822597?s=72&u=687c5d3dc0d10379a3f9be9caca495f33ad7a722&v=4" width="24" alt="Avatar of shoegazerstella"> shoegazerstella
+			</a><br/>
+			No Name
+		</td>
+		<td>@musixmatch @musixmatchresearch </td>
+		<td><a href="https://twitter.com/shoegazerstella">shoegazerstella</a></td>
+		<td>Bologna, Italy</td>
+		<td>10</td>
+	</tr>
+	<tr>
+		<td>766</td>
+		<td>
 			<a href="https://github.com/mkhm">
 				<img src="https://avatars.githubusercontent.com/u/6302765?s=72&u=8b05e8a2cf8f76d8e0ed417abad74de0ff816462&v=4" width="24" alt="Avatar of mkhm"> mkhm
 			</a><br/>
@@ -10050,7 +10063,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/brunoscopelliti">
 				<img src="https://avatars.githubusercontent.com/u/3489757?s=72&v=4" width="24" alt="Avatar of brunoscopelliti"> brunoscopelliti
@@ -10063,7 +10076,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/panisson">
 				<img src="https://avatars.githubusercontent.com/u/715757?s=72&v=4" width="24" alt="Avatar of panisson"> panisson
@@ -10076,7 +10089,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/leandrowar">
 				<img src="https://avatars.githubusercontent.com/u/4582415?s=72&u=1bb01769bee8aeb2475437fa575f4e0fba9d83b4&v=4" width="24" alt="Avatar of leandrowar"> leandrowar
@@ -10089,7 +10102,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/giannisalinetti">
 				<img src="https://avatars.githubusercontent.com/u/7509808?s=72&u=767e4c07a13706abbc116d01142720f4168d92b1&v=4" width="24" alt="Avatar of giannisalinetti"> giannisalinetti
@@ -10102,7 +10115,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/denocris">
 				<img src="https://avatars.githubusercontent.com/u/20791056?s=72&u=c2cbda0f2898c596e06b09af00c77c10a910412e&v=4" width="24" alt="Avatar of denocris"> denocris
@@ -10115,7 +10128,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/alirezaazadi">
 				<img src="https://avatars.githubusercontent.com/u/53966167?s=72&u=60da8590b73c5e0eefb092a2e22090284a910a6e&v=4" width="24" alt="Avatar of alirezaazadi"> alirezaazadi
@@ -10128,7 +10141,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/jaepass">
 				<img src="https://avatars.githubusercontent.com/u/48780927?s=72&u=74259c2c4150e07fe804dc49bf0dac17b15acd96&v=4" width="24" alt="Avatar of jaepass"> jaepass
@@ -10141,7 +10154,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/eduardomecchia">
 				<img src="https://avatars.githubusercontent.com/u/78828596?s=72&u=6fe49827dfcffb091d5d2893db706cb796338854&v=4" width="24" alt="Avatar of eduardomecchia"> eduardomecchia
@@ -10154,7 +10167,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/corna">
 				<img src="https://avatars.githubusercontent.com/u/6459604?s=72&u=f2e1fa1a5cf439f284504cd3f389e1ab32d5c648&v=4" width="24" alt="Avatar of corna"> corna
@@ -10167,7 +10180,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
 		<td>
 			<a href="https://github.com/yuchi">
 				<img src="https://avatars.githubusercontent.com/u/646609?s=72&u=7edfae6e213bb1cae77f1b7bdbe51a50345d2f5e&v=4" width="24" alt="Avatar of yuchi"> yuchi
@@ -10180,7 +10193,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/carlobaldassi">
 				<img src="https://avatars.githubusercontent.com/u/223753?s=72&u=6abeb6166282af606fef87499028bb2238cdb29e&v=4" width="24" alt="Avatar of carlobaldassi"> carlobaldassi
@@ -10193,7 +10206,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/richkmeli">
 				<img src="https://avatars.githubusercontent.com/u/7313162?s=72&u=38176e1e08bfb005b67b68cae1e30f865a633c18&v=4" width="24" alt="Avatar of richkmeli"> richkmeli
@@ -10206,7 +10219,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/acammaroto">
 				<img src="https://avatars.githubusercontent.com/u/77272432?s=72&u=6cf575aa565e107c73d6d464593a4f732074d0c7&v=4" width="24" alt="Avatar of acammaroto"> acammaroto
@@ -10219,7 +10232,7 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/gtoonstra">
 				<img src="https://avatars.githubusercontent.com/u/441978?s=72&u=0bc229b8fdf53805c9db9f93de8cfac35c3bf725&v=4" width="24" alt="Avatar of gtoonstra"> gtoonstra
@@ -10229,19 +10242,6 @@ There are `973 users`  in Italy. You need at least `65 followers` to be on this 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Firenze, Italy</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>780</td>
-		<td>
-			<a href="https://github.com/shoegazerstella">
-				<img src="https://avatars.githubusercontent.com/u/22822597?s=72&u=687c5d3dc0d10379a3f9be9caca495f33ad7a722&v=4" width="24" alt="Avatar of shoegazerstella"> shoegazerstella
-			</a><br/>
-			No Name
-		</td>
-		<td>@musixmatch @musixmatchresearch </td>
-		<td><a href="https://twitter.com/shoegazerstella">shoegazerstella</a></td>
-		<td>Bologna, Italy</td>
 		<td>8</td>
 	</tr>
 	<tr>
