@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" alt="Tanzania">
 </a>
 
-The `public contributions` and `private contributions` by users in Tanzania on `2023/11/2 6:46 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
+The `public contributions` and `private contributions` by users in Tanzania on `2023/11/3 12:46 AM UTC`. This list contains users from `Tanzania` and cities `Dar-es-salaam` `Mwanza` `Dodoma` `Mbeya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/hekimapro">hekimapro</a></td>
 		<td>Tanzania</td>
 		<td>38</td>
-		<td>14377</td>
+		<td>14378</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -159,7 +159,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/mazungu">mazungu</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>115</td>
-		<td>6897</td>
+		<td>6900</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -200,8 +200,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>@flexcodelabs @udsm-dhis2-lab </td>
 		<td><a href="https://twitter.com/BaharaJr">BaharaJr</a></td>
 		<td>Dar Es Salaam, Tanzania</td>
-		<td>887</td>
-		<td>4709</td>
+		<td>888</td>
+		<td>4710</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -215,7 +215,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
 		<td>11</td>
-		<td>4556</td>
+		<td>4586</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -228,8 +228,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Asoft Limited </td>
 		<td><a href="https://twitter.com/andy_lamax">andy_lamax</a></td>
 		<td>Tanzania</td>
-		<td>2266</td>
-		<td>4272</td>
+		<td>2274</td>
+		<td>4294</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -270,8 +270,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Myssa Tech </td>
 		<td><a href="https://twitter.com/mussacharles60">mussacharles60</a></td>
 		<td>Tanzania</td>
-		<td>227</td>
-		<td>3678</td>
+		<td>228</td>
+		<td>3681</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -313,7 +313,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/DilungaTheGreat">DilungaTheGreat</a></td>
 		<td>Dar Es Salaam, Tanzania</td>
 		<td>96</td>
-		<td>3155</td>
+		<td>3163</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -327,7 +327,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dar-Es-Salaam, Tanzania</td>
 		<td>6</td>
-		<td>3032</td>
+		<td>3044</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -369,7 +369,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/6onnykato">6onnykato</a></td>
 		<td>Dar Es Salaam, Tanzania</td>
 		<td>104</td>
-		<td>2941</td>
+		<td>2909</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -383,7 +383,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/elixml">elixml</a></td>
 		<td>Dar es salaam, Tanzania</td>
 		<td>946</td>
-		<td>2852</td>
+		<td>2853</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -397,7 +397,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/raphaelchaula">raphaelchaula</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>0</td>
-		<td>2780</td>
+		<td>2785</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -411,7 +411,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/estern_winluck">estern_winluck</a></td>
 		<td>Tanzania, United Republic of</td>
 		<td>3</td>
-		<td>2596</td>
+		<td>2605</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -452,8 +452,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>@hisptz </td>
 		<td><a href="https://twitter.com/nnko_gift">nnko_gift</a></td>
 		<td>Dar Es Salaam, Tanzania</td>
-		<td>1431</td>
-		<td>2459</td>
+		<td>1444</td>
+		<td>2472</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -494,8 +494,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>@codeforafrica </td>
 		<td><a href="https://twitter.com/kilemensi">kilemensi</a></td>
 		<td>Tanzania</td>
-		<td>2119</td>
-		<td>2389</td>
+		<td>2120</td>
+		<td>2400</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -536,11 +536,25 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/namestarlit">namestarlit</a></td>
 		<td>Tanzania</td>
-		<td>2314</td>
-		<td>2314</td>
+		<td>2316</td>
+		<td>2316</td>
 	</tr>
 	<tr>
 		<td>32</td>
+		<td>
+			<a href="https://github.com/jackkweyunga">
+				<img src="https://avatars.githubusercontent.com/u/75433841?s=72&u=0e3986daf1023e8a316fd3dbd295f3110262bf4c&v=4" width="24" alt="Avatar of jackkweyunga"> jackkweyunga
+			</a><br/>
+			jack kweyunga
+		</td>
+		<td>@atomatiki </td>
+		<td><a href="https://twitter.com/jackkweyunga">jackkweyunga</a></td>
+		<td>Dar es salaam - Tanzania</td>
+		<td>215</td>
+		<td>2312</td>
+	</tr>
+	<tr>
+		<td>33</td>
 		<td>
 			<a href="https://github.com/tumainimaganiko">
 				<img src="https://avatars.githubusercontent.com/u/105005469?s=72&u=e769876c7936a520abd609311b73a29a95b01f7c&v=4" width="24" alt="Avatar of tumainimaganiko"> tumainimaganiko
@@ -552,20 +566,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dodoma, Tanzania</td>
 		<td>2272</td>
 		<td>2308</td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>
-			<a href="https://github.com/jackkweyunga">
-				<img src="https://avatars.githubusercontent.com/u/75433841?s=72&u=0e3986daf1023e8a316fd3dbd295f3110262bf4c&v=4" width="24" alt="Avatar of jackkweyunga"> jackkweyunga
-			</a><br/>
-			jack kweyunga
-		</td>
-		<td>@atomatiki </td>
-		<td><a href="https://twitter.com/jackkweyunga">jackkweyunga</a></td>
-		<td>Dar es salaam - Tanzania</td>
-		<td>215</td>
-		<td>2302</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -607,7 +607,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/bmsteven_">bmsteven_</a></td>
 		<td>Tanzania</td>
 		<td>354</td>
-		<td>2174</td>
+		<td>2175</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -634,8 +634,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/AlfredMkg">AlfredMkg</a></td>
 		<td>Tanzania</td>
-		<td>1872</td>
-		<td>2040</td>
+		<td>1873</td>
+		<td>2041</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -649,7 +649,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/makindajack">makindajack</a></td>
 		<td>Dar es salaam, Tanzania</td>
 		<td>219</td>
-		<td>1951</td>
+		<td>1960</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -691,7 +691,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/tuke2911">tuke2911</a></td>
 		<td>Dar-es-salaam Tanzania</td>
 		<td>187</td>
-		<td>1891</td>
+		<td>1893</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -704,8 +704,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dar Es Salaam, Tanzania</td>
-		<td>1580</td>
-		<td>1851</td>
+		<td>1583</td>
+		<td>1854</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -774,8 +774,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>@hisptz  </td>
 		<td><a href="https://twitter.com/profchingalo">profchingalo</a></td>
 		<td>Kimara, Dar-es-salaam Tanzania</td>
-		<td>393</td>
-		<td>1738</td>
+		<td>402</td>
+		<td>1747</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -817,10 +817,24 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/epmnzava">epmnzava</a></td>
 		<td>Dar es Salaam Tanzania</td>
 		<td>61</td>
-		<td>1676</td>
+		<td>1678</td>
 	</tr>
 	<tr>
 		<td>52</td>
+		<td>
+			<a href="https://github.com/tibendadavis">
+				<img src="https://avatars.githubusercontent.com/u/87249937?s=72&u=db2113630bc1e69e4b506d881bd59f8855a60d00&v=4" width="24" alt="Avatar of tibendadavis"> tibendadavis
+			</a><br/>
+			Davis Tibenda
+		</td>
+		<td>@hisptz  </td>
+		<td>No Twitter Username</td>
+		<td>Dar es Salaam, Tanzania</td>
+		<td>77</td>
+		<td>1667</td>
+	</tr>
+	<tr>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/navilindo">
 				<img src="https://avatars.githubusercontent.com/u/12863596?s=72&u=5c48e749d105e6fb30d13dd720bb2743bed69c1f&v=4" width="24" alt="Avatar of navilindo"> navilindo
@@ -834,32 +848,18 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1665</td>
 	</tr>
 	<tr>
-		<td>53</td>
-		<td>
-			<a href="https://github.com/tibendadavis">
-				<img src="https://avatars.githubusercontent.com/u/87249937?s=72&u=db2113630bc1e69e4b506d881bd59f8855a60d00&v=4" width="24" alt="Avatar of tibendadavis"> tibendadavis
-			</a><br/>
-			Davis Tibenda
-		</td>
-		<td>@hisptz  </td>
-		<td>No Twitter Username</td>
-		<td>Dar es Salaam, Tanzania</td>
-		<td>77</td>
-		<td>1658</td>
-	</tr>
-	<tr>
 		<td>54</td>
 		<td>
-			<a href="https://github.com/yusuphiqbal">
-				<img src="https://avatars.githubusercontent.com/u/45909232?s=72&u=77b573b04221c95c29ec893c5177a30d85adcba1&v=4" width="24" alt="Avatar of yusuphiqbal"> yusuphiqbal
+			<a href="https://github.com/Raj067">
+				<img src="https://avatars.githubusercontent.com/u/75034394?s=72&u=6e2c593f32c1c070266e6e6903f1def905c0ebca&v=4" width="24" alt="Avatar of Raj067"> Raj067
 			</a><br/>
-			Yusuph Iqbal
+			Rajabu Mrisho
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dar es Salaam, Tanzania</td>
-		<td>136</td>
-		<td>1653</td>
+		<td>Minfoxy Technology Company </td>
+		<td><a href="https://twitter.com/rajabumrisho69">rajabumrisho69</a></td>
+		<td>Tanzania, Dar es saalaam</td>
+		<td>148</td>
+		<td>1637</td>
 	</tr>
 	<tr>
 		<td>55</td>
@@ -892,20 +892,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>57</td>
 		<td>
-			<a href="https://github.com/Raj067">
-				<img src="https://avatars.githubusercontent.com/u/75034394?s=72&u=6e2c593f32c1c070266e6e6903f1def905c0ebca&v=4" width="24" alt="Avatar of Raj067"> Raj067
-			</a><br/>
-			Rajabu Mrisho
-		</td>
-		<td>Minfoxy Technology Company </td>
-		<td><a href="https://twitter.com/rajabumrisho69">rajabumrisho69</a></td>
-		<td>Tanzania, Dar es saalaam</td>
-		<td>148</td>
-		<td>1630</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
 			<a href="https://github.com/mtuchi">
 				<img src="https://avatars.githubusercontent.com/u/6592749?s=72&u=dc793ebc9fe01e9962f6a6342a8d6efd944f3c64&v=4" width="24" alt="Avatar of mtuchi"> mtuchi
 			</a><br/>
@@ -914,11 +900,11 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Irabu </td>
 		<td><a href="https://twitter.com/mtuchidev">mtuchidev</a></td>
 		<td>Tanzania</td>
-		<td>1187</td>
-		<td>1627</td>
+		<td>1189</td>
+		<td>1629</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/hemmy6894">
 				<img src="https://avatars.githubusercontent.com/u/37750218?s=72&u=e4b45292c14999336495e3c2ee8a1d4a335f06f5&v=4" width="24" alt="Avatar of hemmy6894"> hemmy6894
@@ -932,7 +918,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1602</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/rexy09">
 				<img src="https://avatars.githubusercontent.com/u/50169290?s=72&u=a1f3cede5c0dfab92115e4bfc7614248168659bd&v=4" width="24" alt="Avatar of rexy09"> rexy09
@@ -943,7 +929,21 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/fredmuju">fredmuju</a></td>
 		<td>Dar es salaam, Tanzania</td>
 		<td>66</td>
-		<td>1594</td>
+		<td>1600</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td>
+			<a href="https://github.com/yusuphiqbal">
+				<img src="https://avatars.githubusercontent.com/u/45909232?s=72&u=77b573b04221c95c29ec893c5177a30d85adcba1&v=4" width="24" alt="Avatar of yusuphiqbal"> yusuphiqbal
+			</a><br/>
+			Yusuph Iqbal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dar es Salaam, Tanzania</td>
+		<td>136</td>
+		<td>1553</td>
 	</tr>
 	<tr>
 		<td>61</td>
@@ -985,7 +985,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/medson_naftali">medson_naftali</a></td>
 		<td>Tanzania</td>
 		<td>26</td>
-		<td>1463</td>
+		<td>1464</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -1032,6 +1032,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>67</td>
 		<td>
+			<a href="https://github.com/digitalbunny">
+				<img src="https://avatars.githubusercontent.com/u/55690016?s=72&u=41f4fcfd9bc19f94f57ca92f1808b7d70ab128ce&v=4" width="24" alt="Avatar of digitalbunny"> digitalbunny
+			</a><br/>
+			Gordian Basili
+		</td>
+		<td>Ipf Softwares </td>
+		<td>No Twitter Username</td>
+		<td>Dar es salaam Tanzania</td>
+		<td>30</td>
+		<td>1356</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>
 			<a href="https://github.com/crisskimaryo">
 				<img src="https://avatars.githubusercontent.com/u/17580654?s=72&u=98e450e0c272cdcc7a1c28ef0cd783df2c7e7347&v=4" width="24" alt="Avatar of crisskimaryo"> crisskimaryo
 			</a><br/>
@@ -1041,10 +1055,10 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>tanzania , dar es saalam</td>
 		<td>9</td>
-		<td>1346</td>
+		<td>1350</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/ericchingalo">
 				<img src="https://avatars.githubusercontent.com/u/36584802?s=72&u=6d8a23646c4676453866229272cce17e5199257c&v=4" width="24" alt="Avatar of ericchingalo"> ericchingalo
@@ -1055,20 +1069,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/ericchingalo">ericchingalo</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>643</td>
-		<td>1335</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
-			<a href="https://github.com/digitalbunny">
-				<img src="https://avatars.githubusercontent.com/u/55690016?s=72&u=41f4fcfd9bc19f94f57ca92f1808b7d70ab128ce&v=4" width="24" alt="Avatar of digitalbunny"> digitalbunny
-			</a><br/>
-			Gordian Basili
-		</td>
-		<td>Ipf Softwares </td>
-		<td>No Twitter Username</td>
-		<td>Dar es salaam Tanzania</td>
-		<td>30</td>
 		<td>1335</td>
 	</tr>
 	<tr>
@@ -1125,7 +1125,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>11</td>
-		<td>1304</td>
+		<td>1308</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1214,6 +1214,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>80</td>
 		<td>
+			<a href="https://github.com/developer006tz">
+				<img src="https://avatars.githubusercontent.com/u/110153645?s=72&u=835b64639b261de4dc577e4cd8086aec13e6c9bc&v=4" width="24" alt="Avatar of developer006tz"> developer006tz
+			</a><br/>
+			Ludovick Konyo
+		</td>
+		<td>@shulesoft.africa </td>
+		<td><a href="https://twitter.com/developer006">developer006</a></td>
+		<td>Dar es salaam</td>
+		<td>518</td>
+		<td>1260</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
 			<a href="https://github.com/L0rdCr1s">
 				<img src="https://avatars.githubusercontent.com/u/37629329?s=72&u=8703040f0b91067dda2dc93a4ab6d4b1048bd09d&v=4" width="24" alt="Avatar of L0rdCr1s"> L0rdCr1s
 			</a><br/>
@@ -1224,20 +1238,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam, Tanzania</td>
 		<td>0</td>
 		<td>1256</td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>
-			<a href="https://github.com/developer006tz">
-				<img src="https://avatars.githubusercontent.com/u/110153645?s=72&u=835b64639b261de4dc577e4cd8086aec13e6c9bc&v=4" width="24" alt="Avatar of developer006tz"> developer006tz
-			</a><br/>
-			Ludovick Konyo
-		</td>
-		<td>@shulesoft.africa </td>
-		<td><a href="https://twitter.com/developer006">developer006</a></td>
-		<td>Dar es salaam</td>
-		<td>518</td>
-		<td>1254</td>
 	</tr>
 	<tr>
 		<td>82</td>
@@ -1270,6 +1270,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>84</td>
 		<td>
+			<a href="https://github.com/Muneersahel">
+				<img src="https://avatars.githubusercontent.com/u/43274212?s=72&u=b65276eaf65d4bb3469c1dae3c5d7391dd0aadea&v=4" width="24" alt="Avatar of Muneersahel"> Muneersahel
+			</a><br/>
+			Munir I Said
+		</td>
+		<td>@medikea-systems </td>
+		<td><a href="https://twitter.com/Muneersahel">Muneersahel</a></td>
+		<td>Dar es Salaam, Tanzania</td>
+		<td>79</td>
+		<td>1204</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td>
 			<a href="https://github.com/Dkiba">
 				<img src="https://avatars.githubusercontent.com/u/43230080?s=72&u=fbfdb85d79c32407741ed2b4343b8960ce2bb6a2&v=4" width="24" alt="Avatar of Dkiba"> Dkiba
 			</a><br/>
@@ -1280,20 +1294,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es salaam,Tanzania</td>
 		<td>562</td>
 		<td>1192</td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>
-			<a href="https://github.com/Muneersahel">
-				<img src="https://avatars.githubusercontent.com/u/43274212?s=72&u=b65276eaf65d4bb3469c1dae3c5d7391dd0aadea&v=4" width="24" alt="Avatar of Muneersahel"> Muneersahel
-			</a><br/>
-			Munir I Said
-		</td>
-		<td>@medikea-systems </td>
-		<td><a href="https://twitter.com/Muneersahel">Muneersahel</a></td>
-		<td>Dar es Salaam, Tanzania</td>
-		<td>79</td>
-		<td>1188</td>
 	</tr>
 	<tr>
 		<td>86</td>
@@ -1377,7 +1377,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/aboud3am81">aboud3am81</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>30</td>
-		<td>1146</td>
+		<td>1153</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -1447,7 +1447,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/PeterMecar">PeterMecar</a></td>
 		<td>Dar es salaam, Tanzania</td>
 		<td>163</td>
-		<td>1054</td>
+		<td>1059</td>
 	</tr>
 	<tr>
 		<td>97</td>
@@ -1461,7 +1461,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/j_kalebu">j_kalebu</a></td>
 		<td>Dar es Salaam , Tanzania</td>
 		<td>272</td>
-		<td>1051</td>
+		<td>1050</td>
 	</tr>
 	<tr>
 		<td>98</td>
@@ -1474,8 +1474,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Gabe_2310">Gabe_2310</a></td>
 		<td>Dar Es Salaam ,Tanzania</td>
-		<td>547</td>
-		<td>1024</td>
+		<td>563</td>
+		<td>1040</td>
 	</tr>
 	<tr>
 		<td>99</td>
@@ -1494,6 +1494,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>100</td>
 		<td>
+			<a href="https://github.com/vincent-laizer">
+				<img src="https://avatars.githubusercontent.com/u/47497857?s=72&u=8d3fddf31065c4b536e6a38e10bf1d53630f115b&v=4" width="24" alt="Avatar of vincent-laizer"> vincent-laizer
+			</a><br/>
+			vincent laizer
+		</td>
+		<td>Laizer Corp </td>
+		<td>No Twitter Username</td>
+		<td>Arusha, Tanzania</td>
+		<td>138</td>
+		<td>998</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td>
 			<a href="https://github.com/kevoecodes">
 				<img src="https://avatars.githubusercontent.com/u/89477034?s=72&u=5f8e99290391141e057cefea46ea6832e36755b2&v=4" width="24" alt="Avatar of kevoecodes"> kevoecodes
 			</a><br/>
@@ -1504,20 +1518,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dare es Salaam, Tanzania</td>
 		<td>94</td>
 		<td>997</td>
-	</tr>
-	<tr>
-		<td>101</td>
-		<td>
-			<a href="https://github.com/vincent-laizer">
-				<img src="https://avatars.githubusercontent.com/u/47497857?s=72&u=8d3fddf31065c4b536e6a38e10bf1d53630f115b&v=4" width="24" alt="Avatar of vincent-laizer"> vincent-laizer
-			</a><br/>
-			vincent laizer
-		</td>
-		<td>Laizer Corp </td>
-		<td>No Twitter Username</td>
-		<td>Arusha, Tanzania</td>
-		<td>135</td>
-		<td>987</td>
 	</tr>
 	<tr>
 		<td>102</td>
@@ -1559,7 +1559,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/thepiusalfred">thepiusalfred</a></td>
 		<td>Dar es Salaam, Tanzania.</td>
 		<td>267</td>
-		<td>956</td>
+		<td>959</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -1573,10 +1573,24 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>dar es salaam</td>
 		<td>804</td>
-		<td>938</td>
+		<td>943</td>
 	</tr>
 	<tr>
 		<td>106</td>
+		<td>
+			<a href="https://github.com/jestrux">
+				<img src="https://avatars.githubusercontent.com/u/8426172?s=72&u=00b071a0bb5e4d0541c0c6a74cd21f5981d94935&v=4" width="24" alt="Avatar of jestrux"> jestrux
+			</a><br/>
+			WALTER KIMARO
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/jestrux">jestrux</a></td>
+		<td>Dar Es Salaam, Tanzania</td>
+		<td>492</td>
+		<td>938</td>
+	</tr>
+	<tr>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/josedaudi">
 				<img src="https://avatars.githubusercontent.com/u/8102951?s=72&u=beaa3f64aac84cf47d23a7b59ee28ba7d91c30a5&v=4" width="24" alt="Avatar of josedaudi"> josedaudi
@@ -1590,20 +1604,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>937</td>
 	</tr>
 	<tr>
-		<td>107</td>
-		<td>
-			<a href="https://github.com/jestrux">
-				<img src="https://avatars.githubusercontent.com/u/8426172?s=72&u=00b071a0bb5e4d0541c0c6a74cd21f5981d94935&v=4" width="24" alt="Avatar of jestrux"> jestrux
-			</a><br/>
-			WALTER KIMARO
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/jestrux">jestrux</a></td>
-		<td>Dar Es Salaam, Tanzania</td>
-		<td>492</td>
-		<td>934</td>
-	</tr>
-	<tr>
 		<td>108</td>
 		<td>
 			<a href="https://github.com/ruslanmasinjila">
@@ -1615,10 +1615,24 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
 		<td>124</td>
-		<td>921</td>
+		<td>922</td>
 	</tr>
 	<tr>
 		<td>109</td>
+		<td>
+			<a href="https://github.com/mikemasam">
+				<img src="https://avatars.githubusercontent.com/u/6332147?s=72&u=24b8b2d6d6344967e875e428c850489c94ef7b63&v=4" width="24" alt="Avatar of mikemasam"> mikemasam
+			</a><br/>
+			mikemasam
+		</td>
+		<td>@masam-technologies </td>
+		<td>No Twitter Username</td>
+		<td>Tanzania</td>
+		<td>37</td>
+		<td>916</td>
+	</tr>
+	<tr>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/rajey">
 				<img src="https://avatars.githubusercontent.com/u/16415434?s=72&u=e099c6a13d71362963f41293bae44be4dd84d08d&v=4" width="24" alt="Avatar of rajey"> rajey
@@ -1630,20 +1644,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam, Tanzania</td>
 		<td>155</td>
 		<td>905</td>
-	</tr>
-	<tr>
-		<td>110</td>
-		<td>
-			<a href="https://github.com/mikemasam">
-				<img src="https://avatars.githubusercontent.com/u/6332147?s=72&u=24b8b2d6d6344967e875e428c850489c94ef7b63&v=4" width="24" alt="Avatar of mikemasam"> mikemasam
-			</a><br/>
-			mikemasam
-		</td>
-		<td>@masam-technologies </td>
-		<td>No Twitter Username</td>
-		<td>Tanzania</td>
-		<td>37</td>
-		<td>899</td>
 	</tr>
 	<tr>
 		<td>111</td>
@@ -1704,6 +1704,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>115</td>
 		<td>
+			<a href="https://github.com/JoeEverest">
+				<img src="https://avatars.githubusercontent.com/u/42711226?s=72&u=5d621ebb4f4c6c46e78e30f507af843be8ea39ba&v=4" width="24" alt="Avatar of JoeEverest"> JoeEverest
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/JoeEverest165">JoeEverest165</a></td>
+		<td>Arusha, Tanzania</td>
+		<td>18</td>
+		<td>882</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
 			<a href="https://github.com/feisalmombo">
 				<img src="https://avatars.githubusercontent.com/u/21106696?s=72&u=63c32496c2c840b09fc96484480f9951cc1c9c21&v=4" width="24" alt="Avatar of feisalmombo"> feisalmombo
 			</a><br/>
@@ -1714,20 +1728,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam, Tanzania</td>
 		<td>881</td>
 		<td>881</td>
-	</tr>
-	<tr>
-		<td>116</td>
-		<td>
-			<a href="https://github.com/JoeEverest">
-				<img src="https://avatars.githubusercontent.com/u/42711226?s=72&u=5d621ebb4f4c6c46e78e30f507af843be8ea39ba&v=4" width="24" alt="Avatar of JoeEverest"> JoeEverest
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/JoeEverest165">JoeEverest165</a></td>
-		<td>Arusha, Tanzania</td>
-		<td>18</td>
-		<td>877</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1754,8 +1754,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/JovineMutelani">JovineMutelani</a></td>
 		<td>Dar es salaam,Tanzania</td>
-		<td>348</td>
-		<td>871</td>
+		<td>350</td>
+		<td>873</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1769,7 +1769,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Mikocheni, Dar es Salaam Tanzania</td>
 		<td>114</td>
-		<td>859</td>
+		<td>869</td>
 	</tr>
 	<tr>
 		<td>120</td>
@@ -1783,7 +1783,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/samuelKingslyy">samuelKingslyy</a></td>
 		<td>Tanzania</td>
 		<td>35</td>
-		<td>848</td>
+		<td>850</td>
 	</tr>
 	<tr>
 		<td>121</td>
@@ -1830,20 +1830,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>124</td>
 		<td>
-			<a href="https://github.com/Samweli">
-				<img src="https://avatars.githubusercontent.com/u/2663775?s=72&u=603ca8ae5138798e2df1e45a07657b3ab9159134&v=4" width="24" alt="Avatar of Samweli"> Samweli
-			</a><br/>
-			Samweli Mwakisambwe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dar es salaam, Tanzania</td>
-		<td>784</td>
-		<td>823</td>
-	</tr>
-	<tr>
-		<td>125</td>
-		<td>
 			<a href="https://github.com/Megacy777">
 				<img src="https://avatars.githubusercontent.com/u/90178398?s=72&u=ac37345ef8833ab410b9c5f243fb9bc476a1d67e&v=4" width="24" alt="Avatar of Megacy777"> Megacy777
 			</a><br/>
@@ -1853,7 +1839,21 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
 		<td>5</td>
-		<td>823</td>
+		<td>826</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
+			<a href="https://github.com/Samweli">
+				<img src="https://avatars.githubusercontent.com/u/2663775?s=72&u=603ca8ae5138798e2df1e45a07657b3ab9159134&v=4" width="24" alt="Avatar of Samweli"> Samweli
+			</a><br/>
+			Samweli Mwakisambwe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dar es salaam, Tanzania</td>
+		<td>786</td>
+		<td>825</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -1895,7 +1895,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/GodwinYona">GodwinYona</a></td>
 		<td>Tanzania</td>
 		<td>122</td>
-		<td>786</td>
+		<td>788</td>
 	</tr>
 	<tr>
 		<td>129</td>
@@ -1909,7 +1909,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/innocent_charz">innocent_charz</a></td>
 		<td>Dar es salaam, Tanzania</td>
 		<td>70</td>
-		<td>779</td>
+		<td>782</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1928,16 +1928,16 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>131</td>
 		<td>
-			<a href="https://github.com/dev-billy">
-				<img src="https://avatars.githubusercontent.com/u/44404782?s=72&u=74c85a82b41e382863b615fae990aced16d9a129&v=4" width="24" alt="Avatar of dev-billy"> dev-billy
+			<a href="https://github.com/LouisNgatale">
+				<img src="https://avatars.githubusercontent.com/u/27632033?s=72&u=d21b26a76c5a3f267ef43598d122e0e6c48c26bd&v=4" width="24" alt="Avatar of LouisNgatale"> LouisNgatale
 			</a><br/>
-			Billy
+			Louis Ngatale
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/itsdevbilly">itsdevbilly</a></td>
-		<td>Tanzania</td>
-		<td>22</td>
-		<td>756</td>
+		<td>@safiriapps  </td>
+		<td><a href="https://twitter.com/lngatale">lngatale</a></td>
+		<td>Dar es Salaam</td>
+		<td>9</td>
+		<td>767</td>
 	</tr>
 	<tr>
 		<td>132</td>
@@ -1951,21 +1951,21 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/feisalramar">feisalramar</a></td>
 		<td>Zanzibar, Tanzania</td>
 		<td>37</td>
-		<td>756</td>
+		<td>757</td>
 	</tr>
 	<tr>
 		<td>133</td>
 		<td>
-			<a href="https://github.com/LouisNgatale">
-				<img src="https://avatars.githubusercontent.com/u/27632033?s=72&u=d21b26a76c5a3f267ef43598d122e0e6c48c26bd&v=4" width="24" alt="Avatar of LouisNgatale"> LouisNgatale
+			<a href="https://github.com/dev-billy">
+				<img src="https://avatars.githubusercontent.com/u/44404782?s=72&u=74c85a82b41e382863b615fae990aced16d9a129&v=4" width="24" alt="Avatar of dev-billy"> dev-billy
 			</a><br/>
-			Louis Ngatale
+			Billy
 		</td>
-		<td>@safiriapps  </td>
-		<td><a href="https://twitter.com/lngatale">lngatale</a></td>
-		<td>Dar es Salaam</td>
-		<td>9</td>
-		<td>753</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/itsdevbilly">itsdevbilly</a></td>
+		<td>Tanzania</td>
+		<td>22</td>
+		<td>756</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -2007,7 +2007,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Dar Es Salaam, Tanzania</td>
 		<td>6</td>
-		<td>735</td>
+		<td>737</td>
 	</tr>
 	<tr>
 		<td>137</td>
@@ -2090,8 +2090,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Cooperate Information Technology Solutions<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
-		<td>654</td>
-		<td>685</td>
+		<td>659</td>
+		<td>690</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -2105,7 +2105,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/iambizzy19">iambizzy19</a></td>
 		<td>Tanzania</td>
 		<td>155</td>
-		<td>683</td>
+		<td>687</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2119,7 +2119,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/shebogholo">shebogholo</a></td>
 		<td>Tanzania</td>
 		<td>28</td>
-		<td>675</td>
+		<td>678</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2133,7 +2133,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/jerrylusato">jerrylusato</a></td>
 		<td>Dar es salaam, Tanzania</td>
 		<td>29</td>
-		<td>675</td>
+		<td>676</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -2147,24 +2147,10 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/kabo_ben">kabo_ben</a></td>
 		<td>Dar-es-Salaam,Tanzania</td>
 		<td>7</td>
-		<td>669</td>
+		<td>673</td>
 	</tr>
 	<tr>
 		<td>147</td>
-		<td>
-			<a href="https://github.com/Setadonati">
-				<img src="https://avatars.githubusercontent.com/u/96702733?s=72&u=4295287ee64bce5042866f716098b23dd32f23e1&v=4" width="24" alt="Avatar of Setadonati"> Setadonati
-			</a><br/>
-			SETA DONATI
-		</td>
-		<td>Samatech Cons. Ltd </td>
-		<td><a href="https://twitter.com/DocSeta">DocSeta</a></td>
-		<td>Dodoma, Tanzania </td>
-		<td>661</td>
-		<td>661</td>
-	</tr>
-	<tr>
-		<td>148</td>
 		<td>
 			<a href="https://github.com/bcmmbaga">
 				<img src="https://avatars.githubusercontent.com/u/8535888?s=72&u=01f320f648da7a1a5dd2097f4acd1c93529530e4&v=4" width="24" alt="Avatar of bcmmbaga"> bcmmbaga
@@ -2174,11 +2160,39 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dar-es-salaam, Tanzania</td>
-		<td>250</td>
-		<td>661</td>
+		<td>253</td>
+		<td>669</td>
+	</tr>
+	<tr>
+		<td>148</td>
+		<td>
+			<a href="https://github.com/Setadonati">
+				<img src="https://avatars.githubusercontent.com/u/96702733?s=72&u=4295287ee64bce5042866f716098b23dd32f23e1&v=4" width="24" alt="Avatar of Setadonati"> Setadonati
+			</a><br/>
+			SETA DONATI
+		</td>
+		<td>Samatech Cons. Ltd </td>
+		<td><a href="https://twitter.com/DocSeta">DocSeta</a></td>
+		<td>Dodoma, Tanzania </td>
+		<td>663</td>
+		<td>663</td>
 	</tr>
 	<tr>
 		<td>149</td>
+		<td>
+			<a href="https://github.com/asantaelly">
+				<img src="https://avatars.githubusercontent.com/u/42144545?s=72&u=a461c9bcb97afa78b876c7c7bdab253f7e6ec64c&v=4" width="24" alt="Avatar of asantaelly"> asantaelly
+			</a><br/>
+			Kelvin Shoo
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/asantaelly">asantaelly</a></td>
+		<td>Dar es salaam, Tanzania</td>
+		<td>72</td>
+		<td>661</td>
+	</tr>
+	<tr>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/Baruti-1">
 				<img src="https://avatars.githubusercontent.com/u/51821572?s=72&u=d376eb5cfae696274586d7a7aa9653d0c75b19bc&v=4" width="24" alt="Avatar of Baruti-1"> Baruti-1
@@ -2192,7 +2206,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>658</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/Emmanuelkusiluka">
 				<img src="https://avatars.githubusercontent.com/u/80108666?s=72&u=6519dea7b20d0a49d591a760ca44125cdcc1626f&v=4" width="24" alt="Avatar of Emmanuelkusiluka"> Emmanuelkusiluka
@@ -2204,20 +2218,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar Es salaam Tanzania</td>
 		<td>20</td>
 		<td>656</td>
-	</tr>
-	<tr>
-		<td>151</td>
-		<td>
-			<a href="https://github.com/asantaelly">
-				<img src="https://avatars.githubusercontent.com/u/42144545?s=72&u=a461c9bcb97afa78b876c7c7bdab253f7e6ec64c&v=4" width="24" alt="Avatar of asantaelly"> asantaelly
-			</a><br/>
-			Kelvin Shoo
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/asantaelly">asantaelly</a></td>
-		<td>Dar es salaam, Tanzania</td>
-		<td>72</td>
-		<td>655</td>
 	</tr>
 	<tr>
 		<td>152</td>
@@ -2306,20 +2306,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>158</td>
 		<td>
-			<a href="https://github.com/kelvinmbwilo">
-				<img src="https://avatars.githubusercontent.com/u/2929755?s=72&u=28dec47e00db51351ef9fe92d222c4386d8885a8&v=4" width="24" alt="Avatar of kelvinmbwilo"> kelvinmbwilo
-			</a><br/>
-			kelvin mbwilo
-		</td>
-		<td>Udsm </td>
-		<td>No Twitter Username</td>
-		<td>dar es saalam tanzania</td>
-		<td>0</td>
-		<td>614</td>
-	</tr>
-	<tr>
-		<td>159</td>
-		<td>
 			<a href="https://github.com/Nengha-John">
 				<img src="https://avatars.githubusercontent.com/u/68301183?s=72&u=1b8d4ca5a428550ed476021c3500a00dd12eaa78&v=4" width="24" alt="Avatar of Nengha-John"> Nengha-John
 			</a><br/>
@@ -2329,6 +2315,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/Nenghajm">Nenghajm</a></td>
 		<td>Dar es Salaam </td>
 		<td>37</td>
+		<td>621</td>
+	</tr>
+	<tr>
+		<td>159</td>
+		<td>
+			<a href="https://github.com/kelvinmbwilo">
+				<img src="https://avatars.githubusercontent.com/u/2929755?s=72&u=28dec47e00db51351ef9fe92d222c4386d8885a8&v=4" width="24" alt="Avatar of kelvinmbwilo"> kelvinmbwilo
+			</a><br/>
+			kelvin mbwilo
+		</td>
+		<td>Udsm </td>
+		<td>No Twitter Username</td>
+		<td>dar es saalam tanzania</td>
+		<td>0</td>
 		<td>614</td>
 	</tr>
 	<tr>
@@ -2348,6 +2348,34 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>161</td>
 		<td>
+			<a href="https://github.com/isaka-mabagala">
+				<img src="https://avatars.githubusercontent.com/u/78387718?s=72&u=adfec463892f97b946c6aa2ff9e6e495e88defce&v=4" width="24" alt="Avatar of isaka-mabagala"> isaka-mabagala
+			</a><br/>
+			Isaka Mabagala
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Morogoro, Tanzania</td>
+		<td>87</td>
+		<td>607</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a href="https://github.com/aisenyi">
+				<img src="https://avatars.githubusercontent.com/u/10381952?s=72&v=4" width="24" alt="Avatar of aisenyi"> aisenyi
+			</a><br/>
+			Aisenyi Malisa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tanzania</td>
+		<td>238</td>
+		<td>602</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
 			<a href="https://github.com/kaizipaul">
 				<img src="https://avatars.githubusercontent.com/u/105969119?s=72&u=fe4608bab3f7113b93d54d7d9f57afaca573afa3&v=4" width="24" alt="Avatar of kaizipaul"> kaizipaul
 			</a><br/>
@@ -2360,35 +2388,21 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>601</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>164</td>
 		<td>
-			<a href="https://github.com/isaka-mabagala">
-				<img src="https://avatars.githubusercontent.com/u/78387718?s=72&u=adfec463892f97b946c6aa2ff9e6e495e88defce&v=4" width="24" alt="Avatar of isaka-mabagala"> isaka-mabagala
+			<a href="https://github.com/iam-kevin">
+				<img src="https://avatars.githubusercontent.com/u/54111777?s=72&v=4" width="24" alt="Avatar of iam-kevin"> iam-kevin
 			</a><br/>
-			Isaka Mabagala
+			Kevin James
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Morogoro, Tanzania</td>
-		<td>87</td>
-		<td>599</td>
-	</tr>
-	<tr>
-		<td>163</td>
-		<td>
-			<a href="https://github.com/aisenyi">
-				<img src="https://avatars.githubusercontent.com/u/10381952?s=72&v=4" width="24" alt="Avatar of aisenyi"> aisenyi
-			</a><br/>
-			Aisenyi Malisa
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tanzania</td>
-		<td>238</td>
+		<td><a href="https://twitter.com/amKevinJames">amKevinJames</a></td>
+		<td>Dar es Salaam, Tanzania</td>
+		<td>20</td>
 		<td>598</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/jarvisrwabuyongo">
 				<img src="https://avatars.githubusercontent.com/u/94532677?s=72&u=34c3d04b4be26652bb28272fc978836b96483e39&v=4" width="24" alt="Avatar of jarvisrwabuyongo"> jarvisrwabuyongo
@@ -2402,7 +2416,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>596</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/kdaxh">
 				<img src="https://avatars.githubusercontent.com/u/67635565?s=72&u=9e38bd1e4e3ab1b50150043a55cda5b614e8b027&v=4" width="24" alt="Avatar of kdaxh"> kdaxh
@@ -2414,20 +2428,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam, Tanzania</td>
 		<td>592</td>
 		<td>592</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/iam-kevin">
-				<img src="https://avatars.githubusercontent.com/u/54111777?s=72&v=4" width="24" alt="Avatar of iam-kevin"> iam-kevin
-			</a><br/>
-			Kevin James
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/amKevinJames">amKevinJames</a></td>
-		<td>Dar es Salaam, Tanzania</td>
-		<td>20</td>
-		<td>590</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2446,16 +2446,16 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>168</td>
 		<td>
-			<a href="https://github.com/IanMarcello">
-				<img src="https://avatars.githubusercontent.com/u/66946094?s=72&u=610baf03ff2b9fe2856218fb9a3f7c4e188c8468&v=4" width="24" alt="Avatar of IanMarcello"> IanMarcello
+			<a href="https://github.com/fredygerman">
+				<img src="https://avatars.githubusercontent.com/u/26197540?s=72&u=3d4b99967f01fc52b5da92b302d71bf664f660f3&v=4" width="24" alt="Avatar of fredygerman"> fredygerman
 			</a><br/>
-			Ian Marcello Jada
+			Fredy Mgimba
 		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/ian_jada">ian_jada</a></td>
+		<td>Inalipa </td>
+		<td><a href="https://twitter.com/fredygerman_">fredygerman_</a></td>
 		<td>Tanzania</td>
-		<td>505</td>
-		<td>575</td>
+		<td>332</td>
+		<td>580</td>
 	</tr>
 	<tr>
 		<td>169</td>
@@ -2469,10 +2469,24 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/3nock_">3nock_</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>160</td>
-		<td>574</td>
+		<td>576</td>
 	</tr>
 	<tr>
 		<td>170</td>
+		<td>
+			<a href="https://github.com/IanMarcello">
+				<img src="https://avatars.githubusercontent.com/u/66946094?s=72&u=610baf03ff2b9fe2856218fb9a3f7c4e188c8468&v=4" width="24" alt="Avatar of IanMarcello"> IanMarcello
+			</a><br/>
+			Ian Marcello Jada
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/ian_jada">ian_jada</a></td>
+		<td>Tanzania</td>
+		<td>505</td>
+		<td>575</td>
+	</tr>
+	<tr>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/alexbarongo">
 				<img src="https://avatars.githubusercontent.com/u/105298694?s=72&u=1e9c607ec24750d5bdd64a665b4def4755c296d0&v=4" width="24" alt="Avatar of alexbarongo"> alexbarongo
@@ -2484,20 +2498,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam </td>
 		<td>572</td>
 		<td>572</td>
-	</tr>
-	<tr>
-		<td>171</td>
-		<td>
-			<a href="https://github.com/fredygerman">
-				<img src="https://avatars.githubusercontent.com/u/26197540?s=72&u=3d4b99967f01fc52b5da92b302d71bf664f660f3&v=4" width="24" alt="Avatar of fredygerman"> fredygerman
-			</a><br/>
-			Fredy Mgimba
-		</td>
-		<td>Inalipa </td>
-		<td><a href="https://twitter.com/fredygerman_">fredygerman_</a></td>
-		<td>Tanzania</td>
-		<td>323</td>
-		<td>571</td>
 	</tr>
 	<tr>
 		<td>172</td>
@@ -2595,7 +2595,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/KaondoYusuph">KaondoYusuph</a></td>
 		<td>Dar es salaam ,Tanzania</td>
 		<td>1</td>
-		<td>537</td>
+		<td>538</td>
 	</tr>
 	<tr>
 		<td>179</td>
@@ -2684,6 +2684,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>185</td>
 		<td>
+			<a href="https://github.com/kasongoyo">
+				<img src="https://avatars.githubusercontent.com/u/1956062?s=72&u=6ddd69b3403f8b0faeaf68501dc77d1d7ad783cb&v=4" width="24" alt="Avatar of kasongoyo"> kasongoyo
+			</a><br/>
+			kaso
+		</td>
+		<td>@booknook </td>
+		<td>No Twitter Username</td>
+		<td>Dar es Salaam, Tanzania</td>
+		<td>0</td>
+		<td>512</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
 			<a href="https://github.com/kelvinmayeye">
 				<img src="https://avatars.githubusercontent.com/u/45301108?s=72&u=df69755a967476db94dd47f26979f7f218308622&v=4" width="24" alt="Avatar of kelvinmayeye"> kelvinmayeye
 			</a><br/>
@@ -2694,20 +2708,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam - Tanzania</td>
 		<td>168</td>
 		<td>511</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a href="https://github.com/kasongoyo">
-				<img src="https://avatars.githubusercontent.com/u/1956062?s=72&u=6ddd69b3403f8b0faeaf68501dc77d1d7ad783cb&v=4" width="24" alt="Avatar of kasongoyo"> kasongoyo
-			</a><br/>
-			kaso
-		</td>
-		<td>@booknook </td>
-		<td>No Twitter Username</td>
-		<td>Dar es Salaam, Tanzania</td>
-		<td>0</td>
-		<td>508</td>
 	</tr>
 	<tr>
 		<td>187</td>
@@ -2721,7 +2721,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
 		<td>3</td>
-		<td>497</td>
+		<td>500</td>
 	</tr>
 	<tr>
 		<td>188</td>
@@ -2861,7 +2861,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/lurgic_me">lurgic_me</a></td>
 		<td>Tanzania, Dar es salaam</td>
 		<td>27</td>
-		<td>452</td>
+		<td>455</td>
 	</tr>
 	<tr>
 		<td>198</td>
@@ -2875,10 +2875,24 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
 		<td>71</td>
-		<td>445</td>
+		<td>446</td>
 	</tr>
 	<tr>
 		<td>199</td>
+		<td>
+			<a href="https://github.com/peterjidamva">
+				<img src="https://avatars.githubusercontent.com/u/64710848?s=72&u=4c070bada6d41816ca5125c65014dcf25743eb7d&v=4" width="24" alt="Avatar of peterjidamva"> peterjidamva
+			</a><br/>
+			Peter Jidamva
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/peterjidamva">peterjidamva</a></td>
+		<td>Ilala,Dar es salaam</td>
+		<td>30</td>
+		<td>445</td>
+	</tr>
+	<tr>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/daudln">
 				<img src="https://avatars.githubusercontent.com/u/83674818?s=72&u=3f669e330c4490c121798da5aedc9b637b89a8f5&v=4" width="24" alt="Avatar of daudln"> daudln
@@ -2890,20 +2904,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dodoma, Tanzania</td>
 		<td>423</td>
 		<td>445</td>
-	</tr>
-	<tr>
-		<td>200</td>
-		<td>
-			<a href="https://github.com/peterjidamva">
-				<img src="https://avatars.githubusercontent.com/u/64710848?s=72&u=4c070bada6d41816ca5125c65014dcf25743eb7d&v=4" width="24" alt="Avatar of peterjidamva"> peterjidamva
-			</a><br/>
-			Peter Jidamva
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/peterjidamva">peterjidamva</a></td>
-		<td>Ilala,Dar es salaam</td>
-		<td>30</td>
-		<td>442</td>
 	</tr>
 	<tr>
 		<td>201</td>
@@ -2936,6 +2936,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>203</td>
 		<td>
+			<a href="https://github.com/reubenwedson">
+				<img src="https://avatars.githubusercontent.com/u/26434298?s=72&u=8b199792735adf442af69e9bd9306b2e8babc37f&v=4" width="24" alt="Avatar of reubenwedson"> reubenwedson
+			</a><br/>
+			Reuben Wedson
+		</td>
+		<td>Inalipa </td>
+		<td><a href="https://twitter.com/_im23n">_im23n</a></td>
+		<td>Tanzania</td>
+		<td>9</td>
+		<td>427</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
 			<a href="https://github.com/masakachristopher">
 				<img src="https://avatars.githubusercontent.com/u/50275918?s=72&u=4d1cadb7271512e4a39471785bac8e5cae9d327a&v=4" width="24" alt="Avatar of masakachristopher"> masakachristopher
 			</a><br/>
@@ -2948,7 +2962,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>424</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/Major2000">
 				<img src="https://avatars.githubusercontent.com/u/65360332?s=72&u=5bd0842995254db0d6e47be4e3cb17fdeefad936&v=4" width="24" alt="Avatar of Major2000"> Major2000
@@ -2959,20 +2973,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/EdgarChebe">EdgarChebe</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>221</td>
-		<td>423</td>
-	</tr>
-	<tr>
-		<td>205</td>
-		<td>
-			<a href="https://github.com/reubenwedson">
-				<img src="https://avatars.githubusercontent.com/u/26434298?s=72&u=8b199792735adf442af69e9bd9306b2e8babc37f&v=4" width="24" alt="Avatar of reubenwedson"> reubenwedson
-			</a><br/>
-			Reuben Wedson
-		</td>
-		<td>Inalipa </td>
-		<td><a href="https://twitter.com/_im23n">_im23n</a></td>
-		<td>Tanzania</td>
-		<td>9</td>
 		<td>423</td>
 	</tr>
 	<tr>
@@ -3020,20 +3020,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>209</td>
 		<td>
-			<a href="https://github.com/Msangi21">
-				<img src="https://avatars.githubusercontent.com/u/29815436?s=72&u=872f5b4626c888623067b8a5c5d7d084733aabe7&v=4" width="24" alt="Avatar of Msangi21"> Msangi21
-			</a><br/>
-			Al-Amin Msangi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Dar es Salaam, Tanzania</td>
-		<td>0</td>
-		<td>415</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
 			<a href="https://github.com/mrshanas">
 				<img src="https://avatars.githubusercontent.com/u/87828025?s=72&u=034f6df15e3d3cde58cbe21af1c8a7cb1186c521&v=4" width="24" alt="Avatar of mrshanas"> mrshanas
 			</a><br/>
@@ -3046,7 +3032,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>410</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/softwisepro">
 				<img src="https://avatars.githubusercontent.com/u/122126027?s=72&u=23b737ea61013a6cb46a4459bd3b060b4a604461&v=4" width="24" alt="Avatar of softwisepro"> softwisepro
@@ -3060,7 +3046,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>410</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/racka98">
 				<img src="https://avatars.githubusercontent.com/u/41214249?s=72&u=30a84f22b5ed8cebb6c861068fd3d422293df7f2&v=4" width="24" alt="Avatar of racka98"> racka98
@@ -3074,7 +3060,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>409</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/isaacadam25">
 				<img src="https://avatars.githubusercontent.com/u/35621425?s=72&u=ce974d20ec5bd616f1a63a62e787a8d0c9704c7f&v=4" width="24" alt="Avatar of isaacadam25"> isaacadam25
@@ -3086,6 +3072,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar-es-salaam Tanzania</td>
 		<td>35</td>
 		<td>405</td>
+	</tr>
+	<tr>
+		<td>213</td>
+		<td>
+			<a href="https://github.com/MegaJoctan">
+				<img src="https://avatars.githubusercontent.com/u/65341461?s=72&u=2011f7a97c67c43d50f9997dc4d9563957ce0e46&v=4" width="24" alt="Avatar of MegaJoctan"> MegaJoctan
+			</a><br/>
+			Omega Joctan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/omega_joctan">omega_joctan</a></td>
+		<td>Located in Tanzania</td>
+		<td>172</td>
+		<td>403</td>
 	</tr>
 	<tr>
 		<td>214</td>
@@ -3132,20 +3132,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>217</td>
 		<td>
-			<a href="https://github.com/MegaJoctan">
-				<img src="https://avatars.githubusercontent.com/u/65341461?s=72&u=2011f7a97c67c43d50f9997dc4d9563957ce0e46&v=4" width="24" alt="Avatar of MegaJoctan"> MegaJoctan
-			</a><br/>
-			Omega Joctan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/omega_joctan">omega_joctan</a></td>
-		<td>Located in Tanzania</td>
-		<td>169</td>
-		<td>400</td>
-	</tr>
-	<tr>
-		<td>218</td>
-		<td>
 			<a href="https://github.com/OkkashaAlly">
 				<img src="https://avatars.githubusercontent.com/u/61141372?s=72&u=69dbdf37f0df6260890ca52db9043052b707199d&v=4" width="24" alt="Avatar of OkkashaAlly"> OkkashaAlly
 			</a><br/>
@@ -3158,7 +3144,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>395</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/mwasigala">
 				<img src="https://avatars.githubusercontent.com/u/20720317?s=72&u=567e4b62c186b62d819851ddef2cb49f06b1bf3d&v=4" width="24" alt="Avatar of mwasigala"> mwasigala
@@ -3172,7 +3158,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>392</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/patrickNachenga">
 				<img src="https://avatars.githubusercontent.com/u/52609457?s=72&u=1165c4990f4e3309c0ffb8cb792ce5a3165bf46c&v=4" width="24" alt="Avatar of patrickNachenga"> patrickNachenga
@@ -3186,7 +3172,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>392</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/nsomazr">
 				<img src="https://avatars.githubusercontent.com/u/39308811?s=72&u=2b04f2b8a94cc8b8776d1f97d80bb6a6c4cf7582&v=4" width="24" alt="Avatar of nsomazr"> nsomazr
@@ -3197,6 +3183,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/nsomazr">nsomazr</a></td>
 		<td>Dar es Salaam, Tanzania</td>
 		<td>384</td>
+		<td>384</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
+			<a href="https://github.com/simonmawole">
+				<img src="https://avatars.githubusercontent.com/u/12099168?s=72&u=219f33584d8b8c968865733a9e35f68053c7809c&v=4" width="24" alt="Avatar of simonmawole"> simonmawole
+			</a><br/>
+			Simon Mawole
+		</td>
+		<td>@saharaventures @ipfsoftwares  </td>
+		<td>No Twitter Username</td>
+		<td>Dar-es-salaam, Tanzania</td>
+		<td>0</td>
 		<td>384</td>
 	</tr>
 	<tr>
@@ -3216,20 +3216,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>223</td>
 		<td>
-			<a href="https://github.com/simonmawole">
-				<img src="https://avatars.githubusercontent.com/u/12099168?s=72&u=219f33584d8b8c968865733a9e35f68053c7809c&v=4" width="24" alt="Avatar of simonmawole"> simonmawole
-			</a><br/>
-			Simon Mawole
-		</td>
-		<td>@saharaventures @ipfsoftwares  </td>
-		<td>No Twitter Username</td>
-		<td>Dar-es-salaam, Tanzania</td>
-		<td>0</td>
-		<td>383</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
 			<a href="https://github.com/Josiahmpokera">
 				<img src="https://avatars.githubusercontent.com/u/44593117?s=72&u=b24458c14bbc1dbf4ef7a09b274f2dcd61bc0271&v=4" width="24" alt="Avatar of Josiahmpokera"> Josiahmpokera
 			</a><br/>
@@ -3242,7 +3228,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>379</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/MrishoLukamba">
 				<img src="https://avatars.githubusercontent.com/u/69342343?s=72&u=781f28252eb96e0c12f5ad9f532291c161f05c81&v=4" width="24" alt="Avatar of MrishoLukamba"> MrishoLukamba
@@ -3256,7 +3242,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>377</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/PeterNdomano">
 				<img src="https://avatars.githubusercontent.com/u/28900892?s=72&u=939f1e017fab268f4819ec79b1f37c6db89f9c78&v=4" width="24" alt="Avatar of PeterNdomano"> PeterNdomano
@@ -3270,7 +3256,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>377</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/gwesa">
 				<img src="https://avatars.githubusercontent.com/u/69437636?s=72&u=d53bb33c3618995e7ad3cec7a10427f26e4afe82&v=4" width="24" alt="Avatar of gwesa"> gwesa
@@ -3284,7 +3270,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>365</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/yezyilomo">
 				<img src="https://avatars.githubusercontent.com/u/20328561?s=72&u=8898babc0ba4f4ad66092584353176606aac5089&v=4" width="24" alt="Avatar of yezyilomo"> yezyilomo
@@ -3298,7 +3284,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>364</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/twalipo">
 				<img src="https://avatars.githubusercontent.com/u/9114181?s=72&u=8b7a8592a633c0b66b5c5ddd4de77578be78f226&v=4" width="24" alt="Avatar of twalipo"> twalipo
@@ -3312,7 +3298,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>354</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/ibnsultan">
 				<img src="https://avatars.githubusercontent.com/u/28471267?s=72&u=66b0e872f4d124299f44b840860aaced50b7849d&v=4" width="24" alt="Avatar of ibnsultan"> ibnsultan
@@ -3322,11 +3308,11 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>@triscopes </td>
 		<td>No Twitter Username</td>
 		<td>Dar es Salaam, Tanzania</td>
-		<td>266</td>
-		<td>352</td>
+		<td>267</td>
+		<td>353</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/waltervfaustine">
 				<img src="https://avatars.githubusercontent.com/u/28730536?s=72&u=b45b27dc6f5c079143196335621b368795700e9f&v=4" width="24" alt="Avatar of waltervfaustine"> waltervfaustine
@@ -3340,7 +3326,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>349</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/cretusmukiza">
 				<img src="https://avatars.githubusercontent.com/u/35197643?s=72&u=3cf042ed78369cdfefc9c44bb82c7ba639d9bed0&v=4" width="24" alt="Avatar of cretusmukiza"> cretusmukiza
@@ -3354,7 +3340,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>348</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/kilimaj">
 				<img src="https://avatars.githubusercontent.com/u/24374791?s=72&u=bc2700ace2b662012b9db5ab163c23c28ee174b8&v=4" width="24" alt="Avatar of kilimaj"> kilimaj
@@ -3368,7 +3354,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>348</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/ismailisimba">
 				<img src="https://avatars.githubusercontent.com/u/21842897?s=72&u=7ef65f2be7492268074bab90aa7746b3e0a505fc&v=4" width="24" alt="Avatar of ismailisimba"> ismailisimba
@@ -3379,10 +3365,10 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/isma95fb">isma95fb</a></td>
 		<td>Tanzania</td>
 		<td>172</td>
-		<td>345</td>
+		<td>346</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/Heracraft">
 				<img src="https://avatars.githubusercontent.com/u/66851037?s=72&u=187edbdbae93c8c2d676752324f830303f04d0cf&v=4" width="24" alt="Avatar of Heracraft"> Heracraft
@@ -3396,7 +3382,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>345</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/karimnyumba">
 				<img src="https://avatars.githubusercontent.com/u/96383368?s=72&u=bfa0923eda6230e7b31d06622a5cd6ac414a562e&v=4" width="24" alt="Avatar of karimnyumba"> karimnyumba
@@ -3410,7 +3396,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>338</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/ibby360">
 				<img src="https://avatars.githubusercontent.com/u/51038084?s=72&u=7b0afe2f4d873e37ce955cfd495e98ea924001cb&v=4" width="24" alt="Avatar of ibby360"> ibby360
@@ -3424,7 +3410,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>330</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/lykmapipo">
 				<img src="https://avatars.githubusercontent.com/u/1610857?s=72&u=6968489bf900f24f6670bd47176b2bbca63cc2ce&v=4" width="24" alt="Avatar of lykmapipo"> lykmapipo
@@ -3438,7 +3424,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>328</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/gosso22">
 				<img src="https://avatars.githubusercontent.com/u/2742891?s=72&u=3a7fa4a225908e8a489c7ac568a0c91dfe8a9f09&v=4" width="24" alt="Avatar of gosso22"> gosso22
@@ -3450,6 +3436,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es salaam, Tanzania</td>
 		<td>269</td>
 		<td>327</td>
+	</tr>
+	<tr>
+		<td>239</td>
+		<td>
+			<a href="https://github.com/omakei">
+				<img src="https://avatars.githubusercontent.com/u/48096457?s=72&u=446714eaa55c5371422f99c023910f37c8fa218f&v=4" width="24" alt="Avatar of omakei"> omakei
+			</a><br/>
+			Michael Omakei
+		</td>
+		<td>@duka-space  </td>
+		<td><a href="https://twitter.com/djomakei">djomakei</a></td>
+		<td>Dar es salaam</td>
+		<td>39</td>
+		<td>324</td>
 	</tr>
 	<tr>
 		<td>240</td>
@@ -3468,20 +3468,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>241</td>
 		<td>
-			<a href="https://github.com/omakei">
-				<img src="https://avatars.githubusercontent.com/u/48096457?s=72&u=446714eaa55c5371422f99c023910f37c8fa218f&v=4" width="24" alt="Avatar of omakei"> omakei
-			</a><br/>
-			Michael Omakei
-		</td>
-		<td>@duka-space  </td>
-		<td><a href="https://twitter.com/djomakei">djomakei</a></td>
-		<td>Dar es salaam</td>
-		<td>39</td>
-		<td>322</td>
-	</tr>
-	<tr>
-		<td>242</td>
-		<td>
 			<a href="https://github.com/Hatibu">
 				<img src="https://avatars.githubusercontent.com/u/44012303?s=72&u=21c057e7bc52c79d61c15e4dda27fd42733341f6&v=4" width="24" alt="Avatar of Hatibu"> Hatibu
 			</a><br/>
@@ -3494,7 +3480,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>317</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/EDGARJN">
 				<img src="https://avatars.githubusercontent.com/u/93963270?s=72&u=e4caf4c0fda486b7b5628a7e933c677184aa3f6f&v=4" width="24" alt="Avatar of EDGARJN"> EDGARJN
@@ -3505,10 +3491,10 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/BisendoEdgar">BisendoEdgar</a></td>
 		<td>Dar es salaam, Tanzania</td>
 		<td>114</td>
-		<td>316</td>
+		<td>317</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/mdachi-codes">
 				<img src="https://avatars.githubusercontent.com/u/52787574?s=72&u=994e59f33a2983ba72ab45cda741a8ab122da672&v=4" width="24" alt="Avatar of mdachi-codes"> mdachi-codes
@@ -3522,7 +3508,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>314</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/lioswin">
 				<img src="https://avatars.githubusercontent.com/u/117857404?s=72&u=75149671d0011a1478cf296e61ffb7318b43bf41&v=4" width="24" alt="Avatar of lioswin"> lioswin
@@ -3536,7 +3522,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>314</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/jmuganga54">
 				<img src="https://avatars.githubusercontent.com/u/12653629?s=72&u=d32e678268638fc6e66438de7318695c161f2eaa&v=4" width="24" alt="Avatar of jmuganga54"> jmuganga54
@@ -3550,7 +3536,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>311</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/mzugu">
 				<img src="https://avatars.githubusercontent.com/u/58077238?s=72&u=557054e7765e74632d654f50c7129bce6af130a0&v=4" width="24" alt="Avatar of mzugu"> mzugu
@@ -3564,7 +3550,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>310</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/mageta17">
 				<img src="https://avatars.githubusercontent.com/u/52885589?s=72&v=4" width="24" alt="Avatar of mageta17"> mageta17
@@ -3578,7 +3564,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>309</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/yosiaLukumai">
 				<img src="https://avatars.githubusercontent.com/u/81594753?s=72&v=4" width="24" alt="Avatar of yosiaLukumai"> yosiaLukumai
@@ -3592,7 +3578,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>307</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/Sajj96">
 				<img src="https://avatars.githubusercontent.com/u/44890673?s=72&u=fc2e683420d73fdff20deb698741f2b3b672936c&v=4" width="24" alt="Avatar of Sajj96"> Sajj96
@@ -3606,7 +3592,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>302</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/saidimt">
 				<img src="https://avatars.githubusercontent.com/u/85906757?s=72&u=e0a187629d00bd75ce3c4d579ac3dd834e38254a&v=4" width="24" alt="Avatar of saidimt"> saidimt
@@ -3620,7 +3606,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>300</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/vmataba">
 				<img src="https://avatars.githubusercontent.com/u/28536024?s=72&u=d95561d590f15565c53d5ad1b5fb60f7eac5b8c6&v=4" width="24" alt="Avatar of vmataba"> vmataba
@@ -3634,7 +3620,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>299</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/cozej4">
 				<img src="https://avatars.githubusercontent.com/u/9714534?s=72&u=f7795857418ee2ab1c13fed51b15bbeb3daf36e5&v=4" width="24" alt="Avatar of cozej4"> cozej4
@@ -3646,6 +3632,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Tanzania</td>
 		<td>265</td>
 		<td>297</td>
+	</tr>
+	<tr>
+		<td>253</td>
+		<td>
+			<a href="https://github.com/mrwilbroad">
+				<img src="https://avatars.githubusercontent.com/u/103819796?s=72&u=602d3d14ecaf7b6c72194f6bfd4256a55acd3a6d&v=4" width="24" alt="Avatar of mrwilbroad"> mrwilbroad
+			</a><br/>
+			mrwilbroad
+		</td>
+		<td>Software Engineer  </td>
+		<td><a href="https://twitter.com/mrwilbroad">mrwilbroad</a></td>
+		<td>Dar es salam, Tanzania</td>
+		<td>175</td>
+		<td>295</td>
 	</tr>
 	<tr>
 		<td>254</td>
@@ -3664,20 +3664,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>255</td>
 		<td>
-			<a href="https://github.com/mrwilbroad">
-				<img src="https://avatars.githubusercontent.com/u/103819796?s=72&u=602d3d14ecaf7b6c72194f6bfd4256a55acd3a6d&v=4" width="24" alt="Avatar of mrwilbroad"> mrwilbroad
-			</a><br/>
-			mrwilbroad
-		</td>
-		<td>Software Engineer  </td>
-		<td><a href="https://twitter.com/mrwilbroad">mrwilbroad</a></td>
-		<td>Dar es salam, Tanzania</td>
-		<td>164</td>
-		<td>284</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
 			<a href="https://github.com/genie360s">
 				<img src="https://avatars.githubusercontent.com/u/84270692?s=72&u=5527d16cdc40aafc3663d9e309dfdb5f5cf352db&v=4" width="24" alt="Avatar of genie360s"> genie360s
 			</a><br/>
@@ -3688,6 +3674,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Tanzania</td>
 		<td>205</td>
 		<td>279</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
+			<a href="https://github.com/mtali">
+				<img src="https://avatars.githubusercontent.com/u/29874428?s=72&u=1057ac320667c0e0a21ede899f82d8da1a7df5df&v=4" width="24" alt="Avatar of mtali"> mtali
+			</a><br/>
+			Emmanuel Mtali
+		</td>
+		<td>Jaza Energy </td>
+		<td><a href="https://twitter.com/emmanuel_mtali">emmanuel_mtali</a></td>
+		<td>Tanzania</td>
+		<td>278</td>
+		<td>278</td>
 	</tr>
 	<tr>
 		<td>257</td>
@@ -3706,20 +3706,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>258</td>
 		<td>
-			<a href="https://github.com/mtali">
-				<img src="https://avatars.githubusercontent.com/u/29874428?s=72&u=1057ac320667c0e0a21ede899f82d8da1a7df5df&v=4" width="24" alt="Avatar of mtali"> mtali
-			</a><br/>
-			Emmanuel Mtali
-		</td>
-		<td>Jaza Energy </td>
-		<td><a href="https://twitter.com/emmanuel_mtali">emmanuel_mtali</a></td>
-		<td>Tanzania</td>
-		<td>274</td>
-		<td>274</td>
-	</tr>
-	<tr>
-		<td>259</td>
-		<td>
 			<a href="https://github.com/masese">
 				<img src="https://avatars.githubusercontent.com/u/11858639?s=72&u=5a079c8523403109712ccb36c012f3bde9ad1096&v=4" width="24" alt="Avatar of masese"> masese
 			</a><br/>
@@ -3732,7 +3718,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>274</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/Syliver">
 				<img src="https://avatars.githubusercontent.com/u/24254140?s=72&u=3d75995e45626326a3f2b4a01bd38cdcda776246&v=4" width="24" alt="Avatar of Syliver"> Syliver
@@ -3746,7 +3732,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>268</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/Alkiyogoma">
 				<img src="https://avatars.githubusercontent.com/u/50145104?s=72&u=013afdbf7901d3d29266564d0f2875faab59342f&v=4" width="24" alt="Avatar of Alkiyogoma"> Alkiyogoma
@@ -3760,7 +3746,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>263</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/shamiraty">
 				<img src="https://avatars.githubusercontent.com/u/129072179?s=72&u=674959566ca2075c05568fe7f7a771cd7058c112&v=4" width="24" alt="Avatar of shamiraty"> shamiraty
@@ -3774,7 +3760,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>261</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/jimmyurl">
 				<img src="https://avatars.githubusercontent.com/u/33938444?s=72&u=b4ba07a4bf42efb00be9a2a1cd5f807993c57a10&v=4" width="24" alt="Avatar of jimmyurl"> jimmyurl
@@ -3788,7 +3774,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/fhonsiah">
 				<img src="https://avatars.githubusercontent.com/u/8911154?s=72&u=9ee505b448860f549cb214547275c92f735c3f2f&v=4" width="24" alt="Avatar of fhonsiah"> fhonsiah
@@ -3802,7 +3788,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/cosfix">
 				<img src="https://avatars.githubusercontent.com/u/71423519?s=72&u=85a0a0db6e9f1660a08a10d7411267b5f3609ba1&v=4" width="24" alt="Avatar of cosfix"> cosfix
@@ -3816,7 +3802,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/itsmushi">
 				<img src="https://avatars.githubusercontent.com/u/57533987?s=72&u=2d22ddbd55f26acf3ef2a2126ea8713719962646&v=4" width="24" alt="Avatar of itsmushi"> itsmushi
@@ -3830,7 +3816,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>256</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/ammwinchande">
 				<img src="https://avatars.githubusercontent.com/u/13267350?s=72&u=5c9eae8135973e04d4a0c0c5a9a4c3a9c12ef7a1&v=4" width="24" alt="Avatar of ammwinchande"> ammwinchande
@@ -3844,7 +3830,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/InnocentSuta">
 				<img src="https://avatars.githubusercontent.com/u/50251297?s=72&u=d2ad2412992bc20391ff749e96de879533c9e85b&v=4" width="24" alt="Avatar of InnocentSuta"> InnocentSuta
@@ -3858,7 +3844,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>253</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/Ngufuli">
 				<img src="https://avatars.githubusercontent.com/u/34767549?s=72&u=69a46fdc6aa0cd19af89472cd326e14b76aa2383&v=4" width="24" alt="Avatar of Ngufuli"> Ngufuli
@@ -3872,7 +3858,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>251</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/NuhuWambali">
 				<img src="https://avatars.githubusercontent.com/u/100964150?s=72&u=290b2c8687147f63c1bbf6a92c63ea5d5f54c2a2&v=4" width="24" alt="Avatar of NuhuWambali"> NuhuWambali
@@ -3883,10 +3869,10 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
 		<td>153</td>
-		<td>247</td>
+		<td>249</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/lupyana">
 				<img src="https://avatars.githubusercontent.com/u/9304600?s=72&u=a5e4235d58a4afe8e7005aecdcc92397d438e4a2&v=4" width="24" alt="Avatar of lupyana"> lupyana
@@ -3900,7 +3886,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>246</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/frank255">
 				<img src="https://avatars.githubusercontent.com/u/64634701?s=72&u=ce68f8d610bb0198fbfb7068925024cf0bf6291c&v=4" width="24" alt="Avatar of frank255"> frank255
@@ -3914,7 +3900,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>246</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/deogemini">
 				<img src="https://avatars.githubusercontent.com/u/51180096?s=72&u=e1fe7dade7ca5ae19160eeafcbfe097d25af86c4&v=4" width="24" alt="Avatar of deogemini"> deogemini
@@ -3928,7 +3914,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>245</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/keraf">
 				<img src="https://avatars.githubusercontent.com/u/30026749?s=72&u=27e7b849d39c701d98a4a00f350e0c15180a122b&v=4" width="24" alt="Avatar of keraf"> keraf
@@ -3942,7 +3928,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>243</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/chax255">
 				<img src="https://avatars.githubusercontent.com/u/97618088?s=72&u=8b7670c9442701dcbb842de251288c1846dfaf3e&v=4" width="24" alt="Avatar of chax255"> chax255
@@ -3956,7 +3942,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/tairocruiz">
 				<img src="https://avatars.githubusercontent.com/u/88344708?s=72&u=1c28632ab5d7b47d860603a72fe02186562ce4af&v=4" width="24" alt="Avatar of tairocruiz"> tairocruiz
@@ -3970,7 +3956,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/mrblack360">
 				<img src="https://avatars.githubusercontent.com/u/49749184?s=72&u=aeadbecb43ede3b08098739d1b24cedb6a828e54&v=4" width="24" alt="Avatar of mrblack360"> mrblack360
@@ -3984,7 +3970,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>234</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/lilkevinrobert">
 				<img src="https://avatars.githubusercontent.com/u/67233010?s=72&u=3d90b7f3d6aeecb5dcfe89b08a54b3194046d9e5&v=4" width="24" alt="Avatar of lilkevinrobert"> lilkevinrobert
@@ -3998,7 +3984,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/Freditto">
 				<img src="https://avatars.githubusercontent.com/u/44193167?s=72&u=be666e540d69db532bc53be50d92fcd3164f9ce6&v=4" width="24" alt="Avatar of Freditto"> Freditto
@@ -4012,7 +3998,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/Alice-Tom">
 				<img src="https://avatars.githubusercontent.com/u/67124267?s=72&u=0abed05e4e98fb1eb3a43940e6ff47af0a641004&v=4" width="24" alt="Avatar of Alice-Tom"> Alice-Tom
@@ -4026,7 +4012,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/adryxTZ">
 				<img src="https://avatars.githubusercontent.com/u/41329970?s=72&v=4" width="24" alt="Avatar of adryxTZ"> adryxTZ
@@ -4040,7 +4026,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/GwamakaCharles">
 				<img src="https://avatars.githubusercontent.com/u/28787554?s=72&u=190e820abb02910b5d3748668cb36ade20b89a98&v=4" width="24" alt="Avatar of GwamakaCharles"> GwamakaCharles
@@ -4054,7 +4040,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>223</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/mkawia">
 				<img src="https://avatars.githubusercontent.com/u/2458615?s=72&u=6a79561d74a09a855f568274388b471b6a07658b&v=4" width="24" alt="Avatar of mkawia"> mkawia
@@ -4068,7 +4054,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>222</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/Kayange123">
 				<img src="https://avatars.githubusercontent.com/u/96143653?s=72&u=506aa0e9119e346e100eaa0dcabb0a487ee95a4f&v=4" width="24" alt="Avatar of Kayange123"> Kayange123
@@ -4082,7 +4068,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>218</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/Aidan-bn">
 				<img src="https://avatars.githubusercontent.com/u/81457065?s=72&u=bd6e5f59584aa8749934d7ccead58909d548ea65&v=4" width="24" alt="Avatar of Aidan-bn"> Aidan-bn
@@ -4096,7 +4082,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/cisco2001">
 				<img src="https://avatars.githubusercontent.com/u/65680078?s=72&u=eb0b04bbf1713d543995c82bcd2196d814723028&v=4" width="24" alt="Avatar of cisco2001"> cisco2001
@@ -4110,7 +4096,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>217</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/jhembe">
 				<img src="https://avatars.githubusercontent.com/u/57839839?s=72&u=364934dd4e987bb22f6557f2e302446c938d5d14&v=4" width="24" alt="Avatar of jhembe"> jhembe
@@ -4124,7 +4110,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>213</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/Ab3id">
 				<img src="https://avatars.githubusercontent.com/u/40204062?s=72&u=eee5d35a08f1f1305b2a63c87238d8786eccdd97&v=4" width="24" alt="Avatar of Ab3id"> Ab3id
@@ -4136,6 +4122,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Arusha Tanzania</td>
 		<td>56</td>
 		<td>211</td>
+	</tr>
+	<tr>
+		<td>288</td>
+		<td>
+			<a href="https://github.com/Emt-tz">
+				<img src="https://avatars.githubusercontent.com/u/52101851?s=72&u=4040abb8c2d9385476cbf9f58b2de2e8b498f54e&v=4" width="24" alt="Avatar of Emt-tz"> Emt-tz
+			</a><br/>
+			Emmanuel Mtera
+		</td>
+		<td>Vijanatech </td>
+		<td>No Twitter Username</td>
+		<td>dar es salaam</td>
+		<td>63</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>289</td>
@@ -4168,20 +4168,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>291</td>
 		<td>
-			<a href="https://github.com/Emt-tz">
-				<img src="https://avatars.githubusercontent.com/u/52101851?s=72&u=4040abb8c2d9385476cbf9f58b2de2e8b498f54e&v=4" width="24" alt="Avatar of Emt-tz"> Emt-tz
-			</a><br/>
-			Emmanuel Mtera
-		</td>
-		<td>Vijanatech </td>
-		<td>No Twitter Username</td>
-		<td>dar es salaam</td>
-		<td>63</td>
-		<td>206</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
 			<a href="https://github.com/ShaboDevOps">
 				<img src="https://avatars.githubusercontent.com/u/57992262?s=72&u=5870ccc48e8aa75a7cec8dfea6f387882256099a&v=4" width="24" alt="Avatar of ShaboDevOps"> ShaboDevOps
 			</a><br/>
@@ -4194,7 +4180,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>206</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/bussury">
 				<img src="https://avatars.githubusercontent.com/u/3185814?s=72&u=b03988edfd39fc0dc810ad73e71db9e0edf95499&v=4" width="24" alt="Avatar of bussury"> bussury
@@ -4208,7 +4194,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/iam-budodi">
 				<img src="https://avatars.githubusercontent.com/u/53878115?s=72&u=d43297d6dfe23551228e1881f039a1c00ff6ac94&v=4" width="24" alt="Avatar of iam-budodi"> iam-budodi
@@ -4222,7 +4208,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>202</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/adevotus">
 				<img src="https://avatars.githubusercontent.com/u/73017158?s=72&u=25f15cdd09d18cfa1c79599a990de8712616b8ea&v=4" width="24" alt="Avatar of adevotus"> adevotus
@@ -4236,7 +4222,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/oderoi">
 				<img src="https://avatars.githubusercontent.com/u/50592711?s=72&u=c7be46a3c6fbb96368a2f3f6197e227ceabae611&v=4" width="24" alt="Avatar of oderoi"> oderoi
@@ -4250,7 +4236,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>195</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/farajael">
 				<img src="https://avatars.githubusercontent.com/u/29140215?s=72&u=7a505749c67da0c0ab6447c7b1638d0bea273398&v=4" width="24" alt="Avatar of farajael"> farajael
@@ -4264,7 +4250,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>193</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/ismohamedi">
 				<img src="https://avatars.githubusercontent.com/u/40492093?s=72&u=42fada5368e3be5fe1d21b9b154e4f61a8413d74&v=4" width="24" alt="Avatar of ismohamedi"> ismohamedi
@@ -4278,7 +4264,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>186</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/ZendaInnocent">
 				<img src="https://avatars.githubusercontent.com/u/50820298?s=72&u=1c19c49300322a60eb16a0469e1ebea51f7fa34d&v=4" width="24" alt="Avatar of ZendaInnocent"> ZendaInnocent
@@ -4292,7 +4278,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>185</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/lividavi19">
 				<img src="https://avatars.githubusercontent.com/u/43893458?s=72&u=06e2a1127e6a2a2bc592055bffa4357174ea98c7&v=4" width="24" alt="Avatar of lividavi19"> lividavi19
@@ -4306,7 +4292,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/heisabdallah">
 				<img src="https://avatars.githubusercontent.com/u/108978947?s=72&u=74b8aa3ec0e8868e1c92f62d611e5c6895479c19&v=4" width="24" alt="Avatar of heisabdallah"> heisabdallah
@@ -4320,7 +4306,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>183</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/lucasmgana">
 				<img src="https://avatars.githubusercontent.com/u/49315295?s=72&u=83d2fb72237b960c3d0537c105c67945724f1e76&v=4" width="24" alt="Avatar of lucasmgana"> lucasmgana
@@ -4334,7 +4320,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/joramkimata">
 				<img src="https://avatars.githubusercontent.com/u/4988463?s=72&u=397f7c8707a9c79407fe076de1943cc79f808090&v=4" width="24" alt="Avatar of joramkimata"> joramkimata
@@ -4348,7 +4334,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/lemasani">
 				<img src="https://avatars.githubusercontent.com/u/97600770?s=72&u=bfe108d0c37de1dff630e70b3202c5ab7514d9de&v=4" width="24" alt="Avatar of lemasani"> lemasani
@@ -4362,7 +4348,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/Iamunix">
 				<img src="https://avatars.githubusercontent.com/u/97262447?s=72&u=a4f3bcd9eb5fb32c402f0553236d67797fd13c89&v=4" width="24" alt="Avatar of Iamunix"> Iamunix
@@ -4376,7 +4362,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/ms3c">
 				<img src="https://avatars.githubusercontent.com/u/37941160?s=72&u=8764ef31c790774014b0629f6462992fe0eb0e0e&v=4" width="24" alt="Avatar of ms3c"> ms3c
@@ -4390,7 +4376,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/jasperrupia">
 				<img src="https://avatars.githubusercontent.com/u/84384453?s=72&u=800feb6cd7c4c11c8a7201d34215235d8c1c01a7&v=4" width="24" alt="Avatar of jasperrupia"> jasperrupia
@@ -4404,7 +4390,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>178</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/makilagied">
 				<img src="https://avatars.githubusercontent.com/u/95957182?s=72&u=61a559c4685e41699bddb9e13188f9ab74c06c05&v=4" width="24" alt="Avatar of makilagied"> makilagied
@@ -4418,7 +4404,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/miltonisaya">
 				<img src="https://avatars.githubusercontent.com/u/15718790?s=72&u=326b62cd445ff2abf302a07fe496268a87fc9ef7&v=4" width="24" alt="Avatar of miltonisaya"> miltonisaya
@@ -4432,7 +4418,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>172</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/iddimsangi">
 				<img src="https://avatars.githubusercontent.com/u/18734950?s=72&u=183a605054d7a04509f96a5d50bd07ffca9ff51c&v=4" width="24" alt="Avatar of iddimsangi"> iddimsangi
@@ -4442,11 +4428,11 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Laizer </td>
 		<td><a href="https://twitter.com/iddi_a">iddi_a</a></td>
 		<td>Dar es salaam</td>
-		<td>164</td>
-		<td>169</td>
+		<td>165</td>
+		<td>170</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/yeuni">
 				<img src="https://avatars.githubusercontent.com/u/50261889?s=72&u=ab47e194e3a98b1933beb71b97891e03f8d7cd43&v=4" width="24" alt="Avatar of yeuni"> yeuni
@@ -4457,10 +4443,10 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Arusha,Tanzania</td>
 		<td>1</td>
-		<td>163</td>
+		<td>164</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/bmborne">
 				<img src="https://avatars.githubusercontent.com/u/14241577?s=72&v=4" width="24" alt="Avatar of bmborne"> bmborne
@@ -4474,7 +4460,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>162</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/CodeWithCrescent">
 				<img src="https://avatars.githubusercontent.com/u/110913075?s=72&u=1afa41ff97e2666ddbf63aa38c9a5a4070719566&v=4" width="24" alt="Avatar of CodeWithCrescent"> CodeWithCrescent
@@ -4486,6 +4472,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Mbeya - Tanzania</td>
 		<td>161</td>
 		<td>161</td>
+	</tr>
+	<tr>
+		<td>313</td>
+		<td>
+			<a href="https://github.com/Mkhgkk">
+				<img src="https://avatars.githubusercontent.com/u/46445613?s=72&u=e6e138577e24f7f61d350c8804b8270eeda19555&v=4" width="24" alt="Avatar of Mkhgkk"> Mkhgkk
+			</a><br/>
+			EmmaChalz
+		</td>
+		<td>@bugilabs  </td>
+		<td>No Twitter Username</td>
+		<td>Dar es salaam, Tanzania</td>
+		<td>6</td>
+		<td>160</td>
 	</tr>
 	<tr>
 		<td>314</td>
@@ -4504,20 +4504,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>315</td>
 		<td>
-			<a href="https://github.com/Mkhgkk">
-				<img src="https://avatars.githubusercontent.com/u/46445613?s=72&u=e6e138577e24f7f61d350c8804b8270eeda19555&v=4" width="24" alt="Avatar of Mkhgkk"> Mkhgkk
-			</a><br/>
-			EmmaChalz
-		</td>
-		<td>@bugilabs  </td>
-		<td>No Twitter Username</td>
-		<td>Dar es salaam, Tanzania</td>
-		<td>0</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>316</td>
-		<td>
 			<a href="https://github.com/rayben109">
 				<img src="https://avatars.githubusercontent.com/u/18146963?s=72&u=1faaa5a3294f08559d61d3bd6a52c50377006cb8&v=4" width="24" alt="Avatar of rayben109"> rayben109
 			</a><br/>
@@ -4530,7 +4516,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/harshbix">
 				<img src="https://avatars.githubusercontent.com/u/116210510?s=72&u=3b4cb7261a80f6f78773eda594f4f4b3e0eb4f96&v=4" width="24" alt="Avatar of harshbix"> harshbix
@@ -4544,7 +4530,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/pwamly">
 				<img src="https://avatars.githubusercontent.com/u/39843669?s=72&u=0a17b58e5fde8e31af4aa42942273cbbbfbf7bcd&v=4" width="24" alt="Avatar of pwamly"> pwamly
@@ -4555,6 +4541,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/StephanoPwamly">StephanoPwamly</a></td>
 		<td>Dar es salaam Tanzania</td>
 		<td>153</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
+			<a href="https://github.com/elkd">
+				<img src="https://avatars.githubusercontent.com/u/27847245?s=72&u=2941555fa088dd727153b9ef7cf4e2ef10a2fc84&v=4" width="24" alt="Avatar of elkd"> elkd
+			</a><br/>
+			Elisha
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_elkd_">_elkd_</a></td>
+		<td>Dar es Salaam, TZ</td>
+		<td>5</td>
 		<td>153</td>
 	</tr>
 	<tr>
@@ -4574,20 +4574,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>320</td>
 		<td>
-			<a href="https://github.com/elkd">
-				<img src="https://avatars.githubusercontent.com/u/27847245?s=72&u=2941555fa088dd727153b9ef7cf4e2ef10a2fc84&v=4" width="24" alt="Avatar of elkd"> elkd
-			</a><br/>
-			Elisha
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_elkd_">_elkd_</a></td>
-		<td>Dar es Salaam, TZ</td>
-		<td>5</td>
-		<td>152</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
 			<a href="https://github.com/tomsgad">
 				<img src="https://avatars.githubusercontent.com/u/2600024?s=72&u=03db8bc4edf8fa0cf08f0561a89614a59622c533&v=4" width="24" alt="Avatar of tomsgad"> tomsgad
 			</a><br/>
@@ -4598,6 +4584,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Tanzania</td>
 		<td>6</td>
 		<td>152</td>
+	</tr>
+	<tr>
+		<td>321</td>
+		<td>
+			<a href="https://github.com/brotheralameen1">
+				<img src="https://avatars.githubusercontent.com/u/142023786?s=72&u=92ab687d401126718ac34e46e4a6827e7e95e10e&v=4" width="24" alt="Avatar of brotheralameen1"> brotheralameen1
+			</a><br/>
+			Alameen Karim Merali
+		</td>
+		<td>Alameen Tech Help &<br/>Cyber-security<br/></td>
+		<td>No Twitter Username</td>
+		<td>PPF Street, AGM Area. Next to Don Kassim Residence. Arusha, Tanzania</td>
+		<td>151</td>
+		<td>151</td>
 	</tr>
 	<tr>
 		<td>322</td>
@@ -4616,20 +4616,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>323</td>
 		<td>
-			<a href="https://github.com/brotheralameen1">
-				<img src="https://avatars.githubusercontent.com/u/142023786?s=72&u=92ab687d401126718ac34e46e4a6827e7e95e10e&v=4" width="24" alt="Avatar of brotheralameen1"> brotheralameen1
-			</a><br/>
-			Alameen Karim Merali
-		</td>
-		<td>Alameen Tech Help &<br/>Cyber-security<br/></td>
-		<td>No Twitter Username</td>
-		<td>PPF Street, AGM Area. Next to Don Kassim Residence. Arusha, Tanzania</td>
-		<td>150</td>
-		<td>150</td>
-	</tr>
-	<tr>
-		<td>324</td>
-		<td>
 			<a href="https://github.com/emmanuelkamala">
 				<img src="https://avatars.githubusercontent.com/u/49253728?s=72&u=1bfbe65dc93bac91971bd92bd5980859d641b0b4&v=4" width="24" alt="Avatar of emmanuelkamala"> emmanuelkamala
 			</a><br/>
@@ -4642,7 +4628,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/landrykapela">
 				<img src="https://avatars.githubusercontent.com/u/13052010?s=72&u=aeeb858d21f8e3d5bbcb57bad9ee2e522a6bb85d&v=4" width="24" alt="Avatar of landrykapela"> landrykapela
@@ -4656,7 +4642,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/ernestmalcolm">
 				<img src="https://avatars.githubusercontent.com/u/83300196?s=72&u=4da1a8e525304ff5fb3845a531d883e08ee8f35d&v=4" width="24" alt="Avatar of ernestmalcolm"> ernestmalcolm
@@ -4670,7 +4656,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/zolong1">
 				<img src="https://avatars.githubusercontent.com/u/24367900?s=72&u=bb6cb187b7f39bf403cfa30577ef00a06cf9ee59&v=4" width="24" alt="Avatar of zolong1"> zolong1
@@ -4684,7 +4670,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/nmalekela">
 				<img src="https://avatars.githubusercontent.com/u/34261978?s=72&v=4" width="24" alt="Avatar of nmalekela"> nmalekela
@@ -4698,7 +4684,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/PeterShekiondo">
 				<img src="https://avatars.githubusercontent.com/u/34899102?s=72&u=6610e088f1977a1c7ba7e815be2ec17c21b3c3a3&v=4" width="24" alt="Avatar of PeterShekiondo"> PeterShekiondo
@@ -4709,10 +4695,10 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/cefadavid">cefadavid</a></td>
 		<td>Dar-es-salaam Tanzania</td>
 		<td>17</td>
-		<td>146</td>
+		<td>147</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/maulidkategile">
 				<img src="https://avatars.githubusercontent.com/u/45490863?s=72&u=cd3d70005e01235c17194c4b548e13a2bed87600&v=4" width="24" alt="Avatar of maulidkategile"> maulidkategile
@@ -4726,7 +4712,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>146</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/amelyec">
 				<img src="https://avatars.githubusercontent.com/u/9518354?s=72&v=4" width="24" alt="Avatar of amelyec"> amelyec
@@ -4740,7 +4726,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/mwinamijr">
 				<img src="https://avatars.githubusercontent.com/u/45263794?s=72&u=ba376cfd3d57c28032e0071dcc853c6ae909aa4d&v=4" width="24" alt="Avatar of mwinamijr"> mwinamijr
@@ -4754,7 +4740,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>143</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/vusile">
 				<img src="https://avatars.githubusercontent.com/u/240282?s=72&v=4" width="24" alt="Avatar of vusile"> vusile
@@ -4766,6 +4752,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam</td>
 		<td>142</td>
 		<td>142</td>
+	</tr>
+	<tr>
+		<td>333</td>
+		<td>
+			<a href="https://github.com/StanAdim">
+				<img src="https://avatars.githubusercontent.com/u/53491205?s=72&u=c4fde74a88119f51df31d3b26a6d3e1cd2ff63fa&v=4" width="24" alt="Avatar of StanAdim"> StanAdim
+			</a><br/>
+			Adim
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/stanl_justn">stanl_justn</a></td>
+		<td>Dar es Salaam</td>
+		<td>141</td>
+		<td>141</td>
 	</tr>
 	<tr>
 		<td>334</td>
@@ -4798,20 +4798,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>336</td>
 		<td>
-			<a href="https://github.com/StanAdim">
-				<img src="https://avatars.githubusercontent.com/u/53491205?s=72&u=c4fde74a88119f51df31d3b26a6d3e1cd2ff63fa&v=4" width="24" alt="Avatar of StanAdim"> StanAdim
-			</a><br/>
-			Adim
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/stanl_justn">stanl_justn</a></td>
-		<td>Dar es Salaam</td>
-		<td>137</td>
-		<td>137</td>
-	</tr>
-	<tr>
-		<td>337</td>
-		<td>
 			<a href="https://github.com/erick-justin">
 				<img src="https://avatars.githubusercontent.com/u/55584873?s=72&v=4" width="24" alt="Avatar of erick-justin"> erick-justin
 			</a><br/>
@@ -4824,7 +4810,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/Amosi-04-sanga">
 				<img src="https://avatars.githubusercontent.com/u/70682160?s=72&u=cbf7eac84aa922576ddc91c35bd4d734ac5133e4&v=4" width="24" alt="Avatar of Amosi-04-sanga"> Amosi-04-sanga
@@ -4838,7 +4824,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>136</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/officialeric">
 				<img src="https://avatars.githubusercontent.com/u/116909528?s=72&u=503f088ec6b2415f6fb41f252238e8ab528453bd&v=4" width="24" alt="Avatar of officialeric"> officialeric
@@ -4852,7 +4838,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/snavid">
 				<img src="https://avatars.githubusercontent.com/u/105539783?s=72&u=ac39309bc724feb2f4174d53e41a9eda307388bd&v=4" width="24" alt="Avatar of snavid"> snavid
@@ -4863,10 +4849,10 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
 		<td>59</td>
-		<td>133</td>
+		<td>134</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/Eddieaero">
 				<img src="https://avatars.githubusercontent.com/u/94170494?s=72&u=65f6992c803ff68552aa022d3ef8c40356940759&v=4" width="24" alt="Avatar of Eddieaero"> Eddieaero
@@ -4880,7 +4866,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/Frontpage656">
 				<img src="https://avatars.githubusercontent.com/u/78578195?s=72&u=8a95d608ae49cf23ff9d4df921c19e143de7504f&v=4" width="24" alt="Avatar of Frontpage656"> Frontpage656
@@ -4894,7 +4880,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/Godie360">
 				<img src="https://avatars.githubusercontent.com/u/98256213?s=72&u=85712cee677a2dc5e0c7531ef7f4d75c6bd8aa74&v=4" width="24" alt="Avatar of Godie360"> Godie360
@@ -4908,7 +4894,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/BernardMasika">
 				<img src="https://avatars.githubusercontent.com/u/50598183?s=72&u=c444ff4d4c4a7d0e391991fb0d369d7bfd526c06&v=4" width="24" alt="Avatar of BernardMasika"> BernardMasika
@@ -4922,7 +4908,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/fumbuka1998">
 				<img src="https://avatars.githubusercontent.com/u/60630706?s=72&u=29b4e3a13a8e6a6e01e9f0aa29eb1b61d8bcce1b&v=4" width="24" alt="Avatar of fumbuka1998"> fumbuka1998
@@ -4936,7 +4922,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/seynation">
 				<img src="https://avatars.githubusercontent.com/u/82154373?s=72&u=d05c5f84c4427d47b8a23140ba55752eae27def4&v=4" width="24" alt="Avatar of seynation"> seynation
@@ -4950,7 +4936,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/younggeeks">
 				<img src="https://avatars.githubusercontent.com/u/5984570?s=72&u=c55a6dbf5a34552634b98c37114bef53bbb60514&v=4" width="24" alt="Avatar of younggeeks"> younggeeks
@@ -4964,7 +4950,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>348</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/onassiskenan">
 				<img src="https://avatars.githubusercontent.com/u/37585810?s=72&u=72bafd7fea8dc9c7a5e41089a32d85cb96bfd606&v=4" width="24" alt="Avatar of onassiskenan"> onassiskenan
@@ -4978,7 +4964,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/ghmeec">
 				<img src="https://avatars.githubusercontent.com/u/39438375?s=72&v=4" width="24" alt="Avatar of ghmeec"> ghmeec
@@ -4992,7 +4978,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/Lawrrr-08">
 				<img src="https://avatars.githubusercontent.com/u/84134520?s=72&u=ed862513cb3dad579710ce779fcba7d3788a17ca&v=4" width="24" alt="Avatar of Lawrrr-08"> Lawrrr-08
@@ -5006,7 +4992,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/ErickWDaniel">
 				<img src="https://avatars.githubusercontent.com/u/67169390?s=72&u=51865d712a8c86732c19164781f346e5f3b2f4ca&v=4" width="24" alt="Avatar of ErickWDaniel"> ErickWDaniel
@@ -5020,7 +5006,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/kzawadi">
 				<img src="https://avatars.githubusercontent.com/u/12481289?s=72&u=971f33c93bfdf135d3897af31fefe95ca811eeb6&v=4" width="24" alt="Avatar of kzawadi"> kzawadi
@@ -5034,7 +5020,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/Jeraldy">
 				<img src="https://avatars.githubusercontent.com/u/29575941?s=72&u=ce945c5568ab55b31edf6d7a0ea20722c81684c9&v=4" width="24" alt="Avatar of Jeraldy"> Jeraldy
@@ -5048,7 +5034,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/MogasaMokaka">
 				<img src="https://avatars.githubusercontent.com/u/100761623?s=72&u=8b25e6dd369e86627c17b4b5689a2720a30faf1a&v=4" width="24" alt="Avatar of MogasaMokaka"> MogasaMokaka
@@ -5062,7 +5048,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>354</td>
 		<td>
 			<a href="https://github.com/Masangula">
 				<img src="https://avatars.githubusercontent.com/u/62910784?s=72&u=6e02592b4d3b533a5261354775b912d7ecfb986c&v=4" width="24" alt="Avatar of Masangula"> Masangula
@@ -5076,7 +5062,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/midnightCODA">
 				<img src="https://avatars.githubusercontent.com/u/83478869?s=72&u=bfbcf15a80a5b4cca9ee30004f99ca2d46a5d9b4&v=4" width="24" alt="Avatar of midnightCODA"> midnightCODA
@@ -5090,7 +5076,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/alkadoHs">
 				<img src="https://avatars.githubusercontent.com/u/120256491?s=72&u=5cb0cb3e83eabdbce96e35c2ba5fe02a435e30e1&v=4" width="24" alt="Avatar of alkadoHs"> alkadoHs
@@ -5104,7 +5090,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/Hassankassim">
 				<img src="https://avatars.githubusercontent.com/u/114056773?s=72&u=8c4fb61252707cce10774bdd319ec939c2a8584f&v=4" width="24" alt="Avatar of Hassankassim"> Hassankassim
@@ -5118,7 +5104,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/amhafidhJr">
 				<img src="https://avatars.githubusercontent.com/u/50109942?s=72&u=1dff1e2ae34b7093b767f18496156c9c0ff02559&v=4" width="24" alt="Avatar of amhafidhJr"> amhafidhJr
@@ -5132,7 +5118,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/kizomanizo">
 				<img src="https://avatars.githubusercontent.com/u/234011?s=72&v=4" width="24" alt="Avatar of kizomanizo"> kizomanizo
@@ -5146,7 +5132,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/Rb-tech-byte">
 				<img src="https://avatars.githubusercontent.com/u/59007031?s=72&u=cdb10c65c893bff1e2105dd12a6fb04cce25f081&v=4" width="24" alt="Avatar of Rb-tech-byte"> Rb-tech-byte
@@ -5160,7 +5146,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/AuxGrep">
 				<img src="https://avatars.githubusercontent.com/u/103135612?s=72&u=b063b461f5d81b40766676aa6e0d0cbab4460a31&v=4" width="24" alt="Avatar of AuxGrep"> AuxGrep
@@ -5174,7 +5160,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/fundid">
 				<img src="https://avatars.githubusercontent.com/u/84317264?s=72&v=4" width="24" alt="Avatar of fundid"> fundid
@@ -5188,7 +5174,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/mkumbobeaty">
 				<img src="https://avatars.githubusercontent.com/u/20818269?s=72&u=75e9e71d1a057312e4547f0790c0f150060c61b2&v=4" width="24" alt="Avatar of mkumbobeaty"> mkumbobeaty
@@ -5202,7 +5188,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/ericmutta">
 				<img src="https://avatars.githubusercontent.com/u/20465797?s=72&u=75d0c5b52a0eff8c6e63f1bf9a4a5ddd000e03d0&v=4" width="24" alt="Avatar of ericmutta"> ericmutta
@@ -5216,7 +5202,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/isaka-lumato">
 				<img src="https://avatars.githubusercontent.com/u/75973193?s=72&u=20d46ff030bb2fb2a4384fe5eaa9349fa48cc1d9&v=4" width="24" alt="Avatar of isaka-lumato"> isaka-lumato
@@ -5230,7 +5216,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/mikenandi">
 				<img src="https://avatars.githubusercontent.com/u/59085852?s=72&u=d2dac0f2b5938d3cf53440eaf316bb5207a1006b&v=4" width="24" alt="Avatar of mikenandi"> mikenandi
@@ -5244,7 +5230,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/vonshirco">
 				<img src="https://avatars.githubusercontent.com/u/77049981?s=72&u=8a90edcc2486772fc762a496c630cbf3a2b908f6&v=4" width="24" alt="Avatar of vonshirco"> vonshirco
@@ -5258,7 +5244,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/anordy">
 				<img src="https://avatars.githubusercontent.com/u/49168715?s=72&u=b38572a8098f71e676bfdb562d596d0305ec7de2&v=4" width="24" alt="Avatar of anordy"> anordy
@@ -5272,7 +5258,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/renfrid">
 				<img src="https://avatars.githubusercontent.com/u/3600217?s=72&u=357d4ed7133727426ea04b974addf4e9f43e1ba9&v=4" width="24" alt="Avatar of renfrid"> renfrid
@@ -5284,6 +5270,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam, Tanzania</td>
 		<td>103</td>
 		<td>103</td>
+	</tr>
+	<tr>
+		<td>370</td>
+		<td>
+			<a href="https://github.com/lebrony">
+				<img src="https://avatars.githubusercontent.com/u/26278542?s=72&u=b322336f666bc074c476d815e5e063fc1324062c&v=4" width="24" alt="Avatar of lebrony"> lebrony
+			</a><br/>
+			Adam simon
+		</td>
+		<td>@interestingideas  </td>
+		<td>No Twitter Username</td>
+		<td>Tanzania</td>
+		<td>1</td>
+		<td>102</td>
 	</tr>
 	<tr>
 		<td>371</td>
@@ -5352,8 +5352,8 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Njox16">Njox16</a></td>
 		<td>Tanzania </td>
-		<td>64</td>
-		<td>97</td>
+		<td>62</td>
+		<td>96</td>
 	</tr>
 	<tr>
 		<td>376</td>
@@ -5456,6 +5456,34 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>383</td>
 		<td>
+			<a href="https://github.com/Mloweedgar">
+				<img src="https://avatars.githubusercontent.com/u/12539814?s=72&u=a99012decfa7addaf70f2be5dca491be951ffc44&v=4" width="24" alt="Avatar of Mloweedgar"> Mloweedgar
+			</a><br/>
+			Edgar Vitus Mlowe
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/mloweedgarvitus">mloweedgarvitus</a></td>
+		<td>Dar es salaam, Tanzania</td>
+		<td>92</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>384</td>
+		<td>
+			<a href="https://github.com/justinepeterson">
+				<img src="https://avatars.githubusercontent.com/u/29175252?s=72&u=88ff14b7a5f529c24503584e606afe4aaf7d5306&v=4" width="24" alt="Avatar of justinepeterson"> justinepeterson
+			</a><br/>
+			Justine Mahinyila
+		</td>
+		<td>Ufumbuzi Labs  </td>
+		<td><a href="https://twitter.com/justinelimtz">justinelimtz</a></td>
+		<td>Dar es salaam, Tanzania</td>
+		<td>4</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>385</td>
+		<td>
 			<a href="https://github.com/kidando">
 				<img src="https://avatars.githubusercontent.com/u/3077763?s=72&u=722ff3f48e5bb6f29f192d6007122e363da3f6a1&v=4" width="24" alt="Avatar of kidando"> kidando
 			</a><br/>
@@ -5468,21 +5496,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>384</td>
-		<td>
-			<a href="https://github.com/Mloweedgar">
-				<img src="https://avatars.githubusercontent.com/u/12539814?s=72&u=a99012decfa7addaf70f2be5dca491be951ffc44&v=4" width="24" alt="Avatar of Mloweedgar"> Mloweedgar
-			</a><br/>
-			Edgar Vitus Mlowe
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/mloweedgarvitus">mloweedgarvitus</a></td>
-		<td>Dar es salaam, Tanzania</td>
-		<td>91</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>385</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/chrisoemma">
 				<img src="https://avatars.githubusercontent.com/u/30432463?s=72&u=efbf0af4d25fc612b846054e4de62421863b7da5&v=4" width="24" alt="Avatar of chrisoemma"> chrisoemma
@@ -5496,7 +5510,21 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>387</td>
+		<td>
+			<a href="https://github.com/Tonyloyt">
+				<img src="https://avatars.githubusercontent.com/u/42056270?s=72&u=ebff067ada5d605425bdd0cc7327d04574b3b261&v=4" width="24" alt="Avatar of Tonyloyt"> Tonyloyt
+			</a><br/>
+			Anthony Mipawa
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/LoytTony">LoytTony</a></td>
+		<td>Dar es salaam,Tanzania</td>
+		<td>30</td>
+		<td>90</td>
+	</tr>
+	<tr>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/ChrissDisigale">
 				<img src="https://avatars.githubusercontent.com/u/86108630?s=72&u=4ac7bc07f9831b5927be3db2669e0872b2396508&v=4" width="24" alt="Avatar of ChrissDisigale"> ChrissDisigale
@@ -5510,7 +5538,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/m-taha52">
 				<img src="https://avatars.githubusercontent.com/u/64618100?s=72&u=4ea9dfddb1e5ba9189bfbebe774b8d589e298193&v=4" width="24" alt="Avatar of m-taha52"> m-taha52
@@ -5524,7 +5552,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/lukeloNgajilo">
 				<img src="https://avatars.githubusercontent.com/u/50261320?s=72&v=4" width="24" alt="Avatar of lukeloNgajilo"> lukeloNgajilo
@@ -5538,7 +5566,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/Eliah7">
 				<img src="https://avatars.githubusercontent.com/u/23521788?s=72&u=26713f0b0ebf9f38c39273b78c80da657bcf9693&v=4" width="24" alt="Avatar of Eliah7"> Eliah7
@@ -5552,21 +5580,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>390</td>
-		<td>
-			<a href="https://github.com/Tonyloyt">
-				<img src="https://avatars.githubusercontent.com/u/42056270?s=72&u=ebff067ada5d605425bdd0cc7327d04574b3b261&v=4" width="24" alt="Avatar of Tonyloyt"> Tonyloyt
-			</a><br/>
-			Anthony Mipawa
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/LoytTony">LoytTony</a></td>
-		<td>Dar es salaam,Tanzania</td>
-		<td>30</td>
-		<td>88</td>
-	</tr>
-	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/AK1239">
 				<img src="https://avatars.githubusercontent.com/u/115088568?s=72&u=8ede36222e49ce29b5a01920b74f814953e112db&v=4" width="24" alt="Avatar of AK1239"> AK1239
@@ -5578,20 +5592,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es Salaam , Tanzania</td>
 		<td>88</td>
 		<td>88</td>
-	</tr>
-	<tr>
-		<td>392</td>
-		<td>
-			<a href="https://github.com/justinepeterson">
-				<img src="https://avatars.githubusercontent.com/u/29175252?s=72&u=88ff14b7a5f529c24503584e606afe4aaf7d5306&v=4" width="24" alt="Avatar of justinepeterson"> justinepeterson
-			</a><br/>
-			Justine Mahinyila
-		</td>
-		<td>Ufumbuzi Labs  </td>
-		<td><a href="https://twitter.com/justinelimtz">justinelimtz</a></td>
-		<td>Dar es salaam, Tanzania</td>
-		<td>4</td>
-		<td>87</td>
 	</tr>
 	<tr>
 		<td>393</td>
@@ -5862,6 +5862,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>412</td>
 		<td>
+			<a href="https://github.com/ProfKache">
+				<img src="https://avatars.githubusercontent.com/u/5271093?s=72&u=28001e23046b18e613994efc3007d12a38cf4fb5&v=4" width="24" alt="Avatar of ProfKache"> ProfKache
+			</a><br/>
+			Salim Kachemela
+		</td>
+		<td>Ministry Of Health (moh)<br/></td>
+		<td><a href="https://twitter.com/ProfKache">ProfKache</a></td>
+		<td>Tanzania</td>
+		<td>19</td>
+		<td>69</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
 			<a href="https://github.com/JAXPARROW">
 				<img src="https://avatars.githubusercontent.com/u/16808182?s=72&u=fff5e6a74dc2cb1228f16e3e026547240686fca9&v=4" width="24" alt="Avatar of JAXPARROW"> JAXPARROW
 			</a><br/>
@@ -5874,7 +5888,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/robertotonde">
 				<img src="https://avatars.githubusercontent.com/u/64398864?s=72&u=4b3b0b0d4b371438f49a7163ae564e1995631fdb&v=4" width="24" alt="Avatar of robertotonde"> robertotonde
@@ -5888,7 +5902,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/tebajanga">
 				<img src="https://avatars.githubusercontent.com/u/9272851?s=72&u=79314477e0b24d486e777f46d1f3e9743f71c9ed&v=4" width="24" alt="Avatar of tebajanga"> tebajanga
@@ -5902,7 +5916,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/HassanSammah">
 				<img src="https://avatars.githubusercontent.com/u/100593011?s=72&u=486eb0bc1c45bb7c9f9d99a622d41774a931aa1c&v=4" width="24" alt="Avatar of HassanSammah"> HassanSammah
@@ -5916,7 +5930,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/mp3mba">
 				<img src="https://avatars.githubusercontent.com/u/49325947?s=72&u=7dc789acb753a799460f3ae0a0883cfed2a65f08&v=4" width="24" alt="Avatar of mp3mba"> mp3mba
@@ -5930,7 +5944,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/castobary">
 				<img src="https://avatars.githubusercontent.com/u/46651885?s=72&u=17f709a0befd3d971ddc125153f74823b19dc9cd&v=4" width="24" alt="Avatar of castobary"> castobary
@@ -5944,7 +5958,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/mirukibs">
 				<img src="https://avatars.githubusercontent.com/u/99078034?s=72&u=9b718e3c26e5803e5e30f27e63f84beb19d5d457&v=4" width="24" alt="Avatar of mirukibs"> mirukibs
@@ -5958,7 +5972,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/nkutigwa">
 				<img src="https://avatars.githubusercontent.com/u/51188125?s=72&u=e376c0d9d081985a7ff1da7e43a7b6e08909a169&v=4" width="24" alt="Avatar of nkutigwa"> nkutigwa
@@ -5970,20 +5984,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dar es salaam, Tanzania</td>
 		<td>66</td>
 		<td>66</td>
-	</tr>
-	<tr>
-		<td>420</td>
-		<td>
-			<a href="https://github.com/lebrony">
-				<img src="https://avatars.githubusercontent.com/u/26278542?s=72&u=b322336f666bc074c476d815e5e063fc1324062c&v=4" width="24" alt="Avatar of lebrony"> lebrony
-			</a><br/>
-			Adam simon
-		</td>
-		<td>@interestingideas  </td>
-		<td>No Twitter Username</td>
-		<td>Tanzania</td>
-		<td>1</td>
-		<td>65</td>
 	</tr>
 	<tr>
 		<td>421</td>
@@ -6212,20 +6212,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>437</td>
 		<td>
-			<a href="https://github.com/ProfKache">
-				<img src="https://avatars.githubusercontent.com/u/5271093?s=72&u=28001e23046b18e613994efc3007d12a38cf4fb5&v=4" width="24" alt="Avatar of ProfKache"> ProfKache
-			</a><br/>
-			Salim Kachemela
-		</td>
-		<td>Ministry Of Health (moh)<br/></td>
-		<td><a href="https://twitter.com/ProfKache">ProfKache</a></td>
-		<td>Tanzania</td>
-		<td>19</td>
-		<td>56</td>
-	</tr>
-	<tr>
-		<td>438</td>
-		<td>
 			<a href="https://github.com/Lau-Jr">
 				<img src="https://avatars.githubusercontent.com/u/83551026?s=72&u=e74a39d530f33de515184e668639361c6e94bdae&v=4" width="24" alt="Avatar of Lau-Jr"> Lau-Jr
 			</a><br/>
@@ -6238,7 +6224,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>439</td>
+		<td>438</td>
 		<td>
 			<a href="https://github.com/OMDTZ">
 				<img src="https://avatars.githubusercontent.com/u/53561173?s=72&u=252b3d604a8e7ff45e0f161644ad66a6e8418571&v=4" width="24" alt="Avatar of OMDTZ"> OMDTZ
@@ -6252,7 +6238,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>440</td>
+		<td>439</td>
 		<td>
 			<a href="https://github.com/chrismelky">
 				<img src="https://avatars.githubusercontent.com/u/6296926?s=72&v=4" width="24" alt="Avatar of chrismelky"> chrismelky
@@ -6266,7 +6252,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>441</td>
+		<td>440</td>
 		<td>
 			<a href="https://github.com/mnekx">
 				<img src="https://avatars.githubusercontent.com/u/22321030?s=72&u=42b8b2bd410b6b6d958d762d4c43d065de44cc8b&v=4" width="24" alt="Avatar of mnekx"> mnekx
@@ -6280,7 +6266,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>442</td>
+		<td>441</td>
 		<td>
 			<a href="https://github.com/abnain-14">
 				<img src="https://avatars.githubusercontent.com/u/82616156?s=72&u=0e06b937e7a8afeee5a6b03ea6803293b1af23c0&v=4" width="24" alt="Avatar of abnain-14"> abnain-14
@@ -6294,7 +6280,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>442</td>
 		<td>
 			<a href="https://github.com/EmaMasatu">
 				<img src="https://avatars.githubusercontent.com/u/84316564?s=72&u=4b8b190c6b2c72f5d2d025a6a01ced9a9a12508c&v=4" width="24" alt="Avatar of EmaMasatu"> EmaMasatu
@@ -6308,7 +6294,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>443</td>
 		<td>
 			<a href="https://github.com/paulmkanyu">
 				<img src="https://avatars.githubusercontent.com/u/46245306?s=72&u=91e802713643fa22538dd92e328e39ae30c820c1&v=4" width="24" alt="Avatar of paulmkanyu"> paulmkanyu
@@ -6322,7 +6308,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>444</td>
 		<td>
 			<a href="https://github.com/epk2112">
 				<img src="https://avatars.githubusercontent.com/u/70050678?s=72&u=757f1397e539a881edeb5b13ea2c2d7bef0adb08&v=4" width="24" alt="Avatar of epk2112"> epk2112
@@ -6336,7 +6322,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>445</td>
 		<td>
 			<a href="https://github.com/moseskereya">
 				<img src="https://avatars.githubusercontent.com/u/49228545?s=72&u=50cf499db0f8942e07d5236300a23fe162e28b61&v=4" width="24" alt="Avatar of moseskereya"> moseskereya
@@ -6350,7 +6336,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>447</td>
+		<td>446</td>
 		<td>
 			<a href="https://github.com/JacksonMwaya">
 				<img src="https://avatars.githubusercontent.com/u/87444087?s=72&u=6ddf06b5bfa27874ed72af611d944ccc7a120696&v=4" width="24" alt="Avatar of JacksonMwaya"> JacksonMwaya
@@ -6364,7 +6350,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>448</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/noelnoja">
 				<img src="https://avatars.githubusercontent.com/u/45862862?s=72&u=476d5011e7bd2ee5b8f47eb3c814ffb3ebe0f4c8&v=4" width="24" alt="Avatar of noelnoja"> noelnoja
@@ -6378,7 +6364,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>449</td>
+		<td>448</td>
 		<td>
 			<a href="https://github.com/Pipsson">
 				<img src="https://avatars.githubusercontent.com/u/81042089?s=72&u=247cc911fe43a5a6cf68cbf6bfb1e144da889249&v=4" width="24" alt="Avatar of Pipsson"> Pipsson
@@ -6390,6 +6376,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Tanzania </td>
 		<td>50</td>
 		<td>50</td>
+	</tr>
+	<tr>
+		<td>449</td>
+		<td>
+			<a href="https://github.com/josephmazigo">
+				<img src="https://avatars.githubusercontent.com/u/2848535?s=72&u=26c0a09e2a3ce3c37cc3b8a43f228b467bd966f6&v=4" width="24" alt="Avatar of josephmazigo"> josephmazigo
+			</a><br/>
+			Joseph Mazigo
+		</td>
+		<td>Maintek </td>
+		<td>No Twitter Username</td>
+		<td>Tanzania</td>
+		<td>14</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>450</td>
@@ -6422,6 +6422,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>452</td>
 		<td>
+			<a href="https://github.com/sudosalim">
+				<img src="https://avatars.githubusercontent.com/u/2443880?s=72&u=807a149a20210a3f5029ded7b71ed97c3883d686&v=4" width="24" alt="Avatar of sudosalim"> sudosalim
+			</a><br/>
+			Salim Salim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Zanzibar, Tanzania / Manchester, UK</td>
+		<td>47</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
 			<a href="https://github.com/LongiBigage">
 				<img src="https://avatars.githubusercontent.com/u/24587434?s=72&u=3da5e538769cbacfd04427e59edf3c496cd1c017&v=4" width="24" alt="Avatar of LongiBigage"> LongiBigage
 			</a><br/>
@@ -6434,7 +6448,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a href="https://github.com/elly1109">
 				<img src="https://avatars.githubusercontent.com/u/18699337?s=72&u=a094055e1940eb51ba7ce4dedca3a60a73a3a2e7&v=4" width="24" alt="Avatar of elly1109"> elly1109
@@ -6448,7 +6462,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>454</td>
+		<td>455</td>
 		<td>
 			<a href="https://github.com/simbamangu">
 				<img src="https://avatars.githubusercontent.com/u/1159748?s=72&v=4" width="24" alt="Avatar of simbamangu"> simbamangu
@@ -6459,20 +6473,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Arusha, Tanzania</td>
 		<td>18</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>455</td>
-		<td>
-			<a href="https://github.com/josephmazigo">
-				<img src="https://avatars.githubusercontent.com/u/2848535?s=72&u=26c0a09e2a3ce3c37cc3b8a43f228b467bd966f6&v=4" width="24" alt="Avatar of josephmazigo"> josephmazigo
-			</a><br/>
-			Joseph Mazigo
-		</td>
-		<td>Maintek </td>
-		<td>No Twitter Username</td>
-		<td>Tanzania</td>
-		<td>14</td>
 		<td>47</td>
 	</tr>
 	<tr>
@@ -6520,20 +6520,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>459</td>
 		<td>
-			<a href="https://github.com/sudosalim">
-				<img src="https://avatars.githubusercontent.com/u/2443880?s=72&u=807a149a20210a3f5029ded7b71ed97c3883d686&v=4" width="24" alt="Avatar of sudosalim"> sudosalim
-			</a><br/>
-			Salim Salim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Zanzibar, Tanzania / Manchester, UK</td>
-		<td>45</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>460</td>
-		<td>
 			<a href="https://github.com/BarakaElias">
 				<img src="https://avatars.githubusercontent.com/u/17127081?s=72&u=3ec6b14cd854579f27d91c7be05298cd7117c92a&v=4" width="24" alt="Avatar of BarakaElias"> BarakaElias
 			</a><br/>
@@ -6546,7 +6532,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/francistito">
 				<img src="https://avatars.githubusercontent.com/u/17033660?s=72&u=376ef0667465ae5eda839289fda76638954fbe73&v=4" width="24" alt="Avatar of francistito"> francistito
@@ -6560,7 +6546,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/mpawaso">
 				<img src="https://avatars.githubusercontent.com/u/89460098?s=72&u=ac09296cff42971d3a4c74e5187d550a011fcdb3&v=4" width="24" alt="Avatar of mpawaso"> mpawaso
@@ -6574,7 +6560,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/lylest">
 				<img src="https://avatars.githubusercontent.com/u/34285538?s=72&u=90532c251ad25f641859e9786385d912507b9bed&v=4" width="24" alt="Avatar of lylest"> lylest
@@ -6588,7 +6574,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/eliusmgani">
 				<img src="https://avatars.githubusercontent.com/u/67181978?s=72&v=4" width="24" alt="Avatar of eliusmgani"> eliusmgani
@@ -6602,7 +6588,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/humphreydaniel">
 				<img src="https://avatars.githubusercontent.com/u/48175829?s=72&u=12989ded8950e91c1df7c150cf0fd0b7abe2c4c2&v=4" width="24" alt="Avatar of humphreydaniel"> humphreydaniel
@@ -6616,7 +6602,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/kalokola">
 				<img src="https://avatars.githubusercontent.com/u/69508559?s=72&u=583757dae0fa26537f8744dd0e032689f722dbb1&v=4" width="24" alt="Avatar of kalokola"> kalokola
@@ -6630,7 +6616,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/Olaw2jr">
 				<img src="https://avatars.githubusercontent.com/u/2894741?s=72&u=34414ff4ecd7e7a28789d55c220673d0c9ac231c&v=4" width="24" alt="Avatar of Olaw2jr"> Olaw2jr
@@ -6644,7 +6630,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>468</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/count58">
 				<img src="https://avatars.githubusercontent.com/u/60480699?s=72&u=1c1d2513a0c5ccacb71894ab25396f5f4ddc598e&v=4" width="24" alt="Avatar of count58"> count58
@@ -6658,7 +6644,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/elitemind12">
 				<img src="https://avatars.githubusercontent.com/u/86465222?s=72&u=c35a36dda4b1d0730e022f602f5c36a718457f6c&v=4" width="24" alt="Avatar of elitemind12"> elitemind12
@@ -6668,6 +6654,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/elite_mind88">elite_mind88</a></td>
 		<td>Dar es Salaam Tanzania</td>
+		<td>41</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
+			<a href="https://github.com/Kadilana">
+				<img src="https://avatars.githubusercontent.com/u/119741778?s=72&u=a2e0eea577904fc999adf1f4a3458f08738dd6ee&v=4" width="24" alt="Avatar of Kadilana"> Kadilana
+			</a><br/>
+			Kadilana Charles
+		</td>
+		<td>Allus </td>
+		<td>No Twitter Username</td>
+		<td>Dar es salaam - Tanzania</td>
 		<td>41</td>
 		<td>41</td>
 	</tr>
@@ -6716,20 +6716,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>473</td>
 		<td>
-			<a href="https://github.com/Kadilana">
-				<img src="https://avatars.githubusercontent.com/u/119741778?s=72&u=a2e0eea577904fc999adf1f4a3458f08738dd6ee&v=4" width="24" alt="Avatar of Kadilana"> Kadilana
-			</a><br/>
-			Kadilana Charles
-		</td>
-		<td>Allus </td>
-		<td>No Twitter Username</td>
-		<td>Dar es salaam - Tanzania</td>
-		<td>40</td>
-		<td>40</td>
-	</tr>
-	<tr>
-		<td>474</td>
-		<td>
 			<a href="https://github.com/abdulmakuya">
 				<img src="https://avatars.githubusercontent.com/u/26178706?s=72&u=d98101c4a1ebde23279295faadc1bf3eeac057f8&v=4" width="24" alt="Avatar of abdulmakuya"> abdulmakuya
 			</a><br/>
@@ -6742,7 +6728,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>475</td>
+		<td>474</td>
 		<td>
 			<a href="https://github.com/cosmas28">
 				<img src="https://avatars.githubusercontent.com/u/24792513?s=72&u=b281e8fd5de898accb801833b202006058172284&v=4" width="24" alt="Avatar of cosmas28"> cosmas28
@@ -6756,7 +6742,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/giftcharles">
 				<img src="https://avatars.githubusercontent.com/u/16677910?s=72&v=4" width="24" alt="Avatar of giftcharles"> giftcharles
@@ -6767,6 +6753,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>tanzania</td>
 		<td>21</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
+			<a href="https://github.com/Rio-OMR21">
+				<img src="https://avatars.githubusercontent.com/u/110388806?s=72&u=baff30638ea619c268cd3b7066fa50190efffda5&v=4" width="24" alt="Avatar of Rio-OMR21"> Rio-OMR21
+			</a><br/>
+			ORINA RYAGA
+		</td>
+		<td>Omr Dreams Interprise </td>
+		<td>No Twitter Username</td>
+		<td>TANZANIA</td>
+		<td>38</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -6786,6 +6786,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>478</td>
 		<td>
+			<a href="https://github.com/SamSpeedX">
+				<img src="https://avatars.githubusercontent.com/u/109700174?s=72&u=6b91090119abed20795cbb7b9cd0c422e3e24214&v=4" width="24" alt="Avatar of SamSpeedX"> SamSpeedX
+			</a><br/>
+			SAM OCHU
+		</td>
+		<td>Sam Ochu Brand </td>
+		<td>No Twitter Username</td>
+		<td>Tanga Tanzania</td>
+		<td>37</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>479</td>
+		<td>
 			<a href="https://github.com/NucciNello">
 				<img src="https://avatars.githubusercontent.com/u/99115749?s=72&u=264b546e50e9df1ef937d6d9f47e132182c1125d&v=4" width="24" alt="Avatar of NucciNello"> NucciNello
 			</a><br/>
@@ -6798,7 +6812,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a href="https://github.com/JamesLoma">
 				<img src="https://avatars.githubusercontent.com/u/94559476?s=72&u=708d19426b7d0a57c464a5bb3039135104069804&v=4" width="24" alt="Avatar of JamesLoma"> JamesLoma
@@ -6812,7 +6826,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>481</td>
 		<td>
 			<a href="https://github.com/Dogani">
 				<img src="https://avatars.githubusercontent.com/u/43665568?s=72&v=4" width="24" alt="Avatar of Dogani"> Dogani
@@ -6822,20 +6836,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dar Es Salaam, Tanzania</td>
-		<td>36</td>
-		<td>36</td>
-	</tr>
-	<tr>
-		<td>481</td>
-		<td>
-			<a href="https://github.com/Rio-OMR21">
-				<img src="https://avatars.githubusercontent.com/u/110388806?s=72&u=baff30638ea619c268cd3b7066fa50190efffda5&v=4" width="24" alt="Avatar of Rio-OMR21"> Rio-OMR21
-			</a><br/>
-			ORINA RYAGA
-		</td>
-		<td>Omr Dreams Interprise </td>
-		<td>No Twitter Username</td>
-		<td>TANZANIA</td>
 		<td>36</td>
 		<td>36</td>
 	</tr>
@@ -7262,6 +7262,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>512</td>
 		<td>
+			<a href="https://github.com/Massawe14">
+				<img src="https://avatars.githubusercontent.com/u/46741997?s=72&u=f68f60b49163feae27a96e822c36d97caf205f01&v=4" width="24" alt="Avatar of Massawe14"> Massawe14
+			</a><br/>
+			Ramadhani Joseph Massawe
+		</td>
+		<td>Camelabs </td>
+		<td><a href="https://twitter.com/massawe_95">massawe_95</a></td>
+		<td>Tanzania</td>
+		<td>18</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>513</td>
+		<td>
 			<a href="https://github.com/bitwaleb12">
 				<img src="https://avatars.githubusercontent.com/u/72623779?s=72&u=48b4ad98f6fd40fa0777e0f4b722e518080bd717&v=4" width="24" alt="Avatar of bitwaleb12"> bitwaleb12
 			</a><br/>
@@ -7272,20 +7286,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Dodoma, Tanzania</td>
 		<td>0</td>
 		<td>26</td>
-	</tr>
-	<tr>
-		<td>513</td>
-		<td>
-			<a href="https://github.com/Massawe14">
-				<img src="https://avatars.githubusercontent.com/u/46741997?s=72&u=f68f60b49163feae27a96e822c36d97caf205f01&v=4" width="24" alt="Avatar of Massawe14"> Massawe14
-			</a><br/>
-			Ramadhani Joseph Massawe
-		</td>
-		<td>Camelabs </td>
-		<td><a href="https://twitter.com/massawe_95">massawe_95</a></td>
-		<td>Tanzania</td>
-		<td>18</td>
-		<td>25</td>
 	</tr>
 	<tr>
 		<td>514</td>
@@ -7332,20 +7332,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>517</td>
 		<td>
-			<a href="https://github.com/SamSpeedX">
-				<img src="https://avatars.githubusercontent.com/u/109700174?s=72&u=6b91090119abed20795cbb7b9cd0c422e3e24214&v=4" width="24" alt="Avatar of SamSpeedX"> SamSpeedX
-			</a><br/>
-			SAM OCHU
-		</td>
-		<td>Sam Ochu Brand </td>
-		<td>No Twitter Username</td>
-		<td>Tanga Tanzania</td>
-		<td>24</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>518</td>
-		<td>
 			<a href="https://github.com/ibrahimnkya">
 				<img src="https://avatars.githubusercontent.com/u/29438719?s=72&u=32314a726c288c2c1b95b203a6a11e0318775329&v=4" width="24" alt="Avatar of ibrahimnkya"> ibrahimnkya
 			</a><br/>
@@ -7358,7 +7344,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/senziai20">
 				<img src="https://avatars.githubusercontent.com/u/74474560?s=72&u=58e41d7ce9131e1756e8303647ff9b095d64cada&v=4" width="24" alt="Avatar of senziai20"> senziai20
@@ -7372,7 +7358,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/MasterCode112">
 				<img src="https://avatars.githubusercontent.com/u/105772414?s=72&u=00df549f3ff62959402fcda5bd219d886125fbc0&v=4" width="24" alt="Avatar of MasterCode112"> MasterCode112
@@ -7386,7 +7372,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/Caphace-Ethan">
 				<img src="https://avatars.githubusercontent.com/u/44304991?s=72&u=5bf655448c1c409b90b4bf67e8d1ed2ad51828bd&v=4" width="24" alt="Avatar of Caphace-Ethan"> Caphace-Ethan
@@ -7400,7 +7386,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/kelvinconrad">
 				<img src="https://avatars.githubusercontent.com/u/71941109?s=72&u=5350b062cf54e8595af5a4261bde7a6509979596&v=4" width="24" alt="Avatar of kelvinconrad"> kelvinconrad
@@ -7414,7 +7400,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/peterchain7">
 				<img src="https://avatars.githubusercontent.com/u/80506781?s=72&u=99f3a9bc9f87eec73b05e8ed8233a709edfd8d51&v=4" width="24" alt="Avatar of peterchain7"> peterchain7
@@ -7428,7 +7414,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/paeltech">
 				<img src="https://avatars.githubusercontent.com/u/26402504?s=72&v=4" width="24" alt="Avatar of paeltech"> paeltech
@@ -7442,7 +7428,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/reward-rabieth">
 				<img src="https://avatars.githubusercontent.com/u/45728482?s=72&u=9f7f869a057724307fae68ea85a9779d7d3732a5&v=4" width="24" alt="Avatar of reward-rabieth"> reward-rabieth
@@ -7456,7 +7442,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/ShamisAbby">
 				<img src="https://avatars.githubusercontent.com/u/100554359?s=72&u=fb9a5faa351e728673c865316f9809383b7a4bc3&v=4" width="24" alt="Avatar of ShamisAbby"> ShamisAbby
@@ -7470,7 +7456,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/warrenebx">
 				<img src="https://avatars.githubusercontent.com/u/107967346?s=72&u=adf6334e722c87828358132a8fd3cccae53ded80&v=4" width="24" alt="Avatar of warrenebx"> warrenebx
@@ -7484,7 +7470,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/karimkawambwa">
 				<img src="https://avatars.githubusercontent.com/u/4308339?s=72&u=71d4ba3a87b51a2fe285459ece85f524ed33c6e7&v=4" width="24" alt="Avatar of karimkawambwa"> karimkawambwa
@@ -7498,7 +7484,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/devmpemba">
 				<img src="https://avatars.githubusercontent.com/u/105650566?s=72&u=0dd428fc58583e3f46d9366e7ff83b51cb5ce2a0&v=4" width="24" alt="Avatar of devmpemba"> devmpemba
@@ -7512,7 +7498,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>530</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/mghase">
 				<img src="https://avatars.githubusercontent.com/u/6684405?s=72&u=0ed9f77f45e4e91a6d9a371707da20d5c58b1b91&v=4" width="24" alt="Avatar of mghase"> mghase
@@ -7526,7 +7512,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>531</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/loymollel">
 				<img src="https://avatars.githubusercontent.com/u/24901973?s=72&v=4" width="24" alt="Avatar of loymollel"> loymollel
@@ -7540,7 +7526,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>532</td>
+		<td>531</td>
 		<td>
 			<a href="https://github.com/zkemoshi">
 				<img src="https://avatars.githubusercontent.com/u/23149658?s=72&u=536d3e5e584ff31e47faddd4f48d0eb2636bbd30&v=4" width="24" alt="Avatar of zkemoshi"> zkemoshi
@@ -7554,7 +7540,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>533</td>
+		<td>532</td>
 		<td>
 			<a href="https://github.com/sikjunior">
 				<img src="https://avatars.githubusercontent.com/u/72263064?s=72&u=0c1f5813d9a4a101aa8fedd9205291b1170d6cc0&v=4" width="24" alt="Avatar of sikjunior"> sikjunior
@@ -7568,7 +7554,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>533</td>
 		<td>
 			<a href="https://github.com/BillieVijo">
 				<img src="https://avatars.githubusercontent.com/u/21168566?s=72&u=630431470a17cbbd952010694b7b66f722a4a8c0&v=4" width="24" alt="Avatar of BillieVijo"> BillieVijo
@@ -7578,6 +7564,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Tanzania</td>
+		<td>21</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
+			<a href="https://github.com/kaykhahima">
+				<img src="https://avatars.githubusercontent.com/u/42249295?s=72&u=bd3da4dba710f919f2a8c68f3673574af6abe230&v=4" width="24" alt="Avatar of kaykhahima"> kaykhahima
+			</a><br/>
+			Kay Khahima
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/kaykhahima">kaykhahima</a></td>
+		<td>Dar Es Salaam, Tanzania.</td>
 		<td>21</td>
 		<td>21</td>
 	</tr>
@@ -7682,20 +7682,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>542</td>
 		<td>
-			<a href="https://github.com/kaykhahima">
-				<img src="https://avatars.githubusercontent.com/u/42249295?s=72&u=bd3da4dba710f919f2a8c68f3673574af6abe230&v=4" width="24" alt="Avatar of kaykhahima"> kaykhahima
-			</a><br/>
-			Kay Khahima
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/kaykhahima">kaykhahima</a></td>
-		<td>Dar Es Salaam, Tanzania.</td>
-		<td>19</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>543</td>
-		<td>
 			<a href="https://github.com/davers98">
 				<img src="https://avatars.githubusercontent.com/u/60213665?s=72&u=44f862e5667cde1e86b8744d1a7e93137e3f0951&v=4" width="24" alt="Avatar of davers98"> davers98
 			</a><br/>
@@ -7708,7 +7694,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>543</td>
 		<td>
 			<a href="https://github.com/nilipetz">
 				<img src="https://avatars.githubusercontent.com/u/100028142?s=72&u=65c6d37a25b62cfaca7a721df678e9fb194e0d9c&v=4" width="24" alt="Avatar of nilipetz"> nilipetz
@@ -7722,7 +7708,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>544</td>
 		<td>
 			<a href="https://github.com/giltwizy">
 				<img src="https://avatars.githubusercontent.com/u/26347427?s=72&u=5d85286f02aca93cf272d99675b003c09b59edc6&v=4" width="24" alt="Avatar of giltwizy"> giltwizy
@@ -7736,7 +7722,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>545</td>
 		<td>
 			<a href="https://github.com/geraldsanga">
 				<img src="https://avatars.githubusercontent.com/u/56134987?s=72&u=a2823672b1f4afc66d882f211eae61de4b5f537c&v=4" width="24" alt="Avatar of geraldsanga"> geraldsanga
@@ -7747,6 +7733,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/sangagerard">sangagerard</a></td>
 		<td>Dar es Salaam - Tanzania</td>
 		<td>0</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>546</td>
+		<td>
+			<a href="https://github.com/mikegustaph">
+				<img src="https://avatars.githubusercontent.com/u/20980764?s=72&v=4" width="24" alt="Avatar of mikegustaph"> mikegustaph
+			</a><br/>
+			mike 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dar es salaam tanzania</td>
+		<td>18</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -8200,6 +8200,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>579</td>
 		<td>
+			<a href="https://github.com/patrick-paul">
+				<img src="https://avatars.githubusercontent.com/u/51241762?s=72&u=f04307e19ffd6611c1c7ea50f3148e2011bca9cc&v=4" width="24" alt="Avatar of patrick-paul"> patrick-paul
+			</a><br/>
+			Patric_forreal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Kilimanjaro Tanzania</td>
+		<td>11</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>
 			<a href="https://github.com/Budida">
 				<img src="https://avatars.githubusercontent.com/u/788283?s=72&u=9f19753997cc865140f4618e03a84cb117a6658b&v=4" width="24" alt="Avatar of Budida"> Budida
 			</a><br/>
@@ -8212,7 +8226,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/FrankMwandi">
 				<img src="https://avatars.githubusercontent.com/u/26661469?s=72&u=6520bacc7e81dd59ffa59acf4125999034cd1b05&v=4" width="24" alt="Avatar of FrankMwandi"> FrankMwandi
@@ -8226,7 +8240,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/jarasyola">
 				<img src="https://avatars.githubusercontent.com/u/86886581?s=72&u=206cd3765f261d587b7bf62723eb4101f92014e7&v=4" width="24" alt="Avatar of jarasyola"> jarasyola
@@ -8240,7 +8254,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/angelobuse">
 				<img src="https://avatars.githubusercontent.com/u/41784195?s=72&u=6191fcf4aa2bb88502d2df687aefb98faf4509f4&v=4" width="24" alt="Avatar of angelobuse"> angelobuse
@@ -8254,7 +8268,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/sudisaidi">
 				<img src="https://avatars.githubusercontent.com/u/146110119?s=72&u=b81830f425e720889a3afc54c4bac88c6f479697&v=4" width="24" alt="Avatar of sudisaidi"> sudisaidi
@@ -8268,7 +8282,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/mwangox">
 				<img src="https://avatars.githubusercontent.com/u/32011741?s=72&v=4" width="24" alt="Avatar of mwangox"> mwangox
@@ -8279,20 +8293,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td><a href="https://twitter.com/imwangoka">imwangoka</a></td>
 		<td>Dar es salaam, Tanzania</td>
 		<td>3</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>585</td>
-		<td>
-			<a href="https://github.com/patrick-paul">
-				<img src="https://avatars.githubusercontent.com/u/51241762?s=72&u=f04307e19ffd6611c1c7ea50f3148e2011bca9cc&v=4" width="24" alt="Avatar of patrick-paul"> patrick-paul
-			</a><br/>
-			Patric_forreal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Kilimanjaro Tanzania</td>
-		<td>10</td>
 		<td>12</td>
 	</tr>
 	<tr>
@@ -8354,6 +8354,20 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 	<tr>
 		<td>590</td>
 		<td>
+			<a href="https://github.com/CostantinoGwaka">
+				<img src="https://avatars.githubusercontent.com/u/7723911?s=72&u=0a66b7d907c4431e4a76d3ff87853fe55acca01e&v=4" width="24" alt="Avatar of CostantinoGwaka"> CostantinoGwaka
+			</a><br/>
+			Costantino Dionis Gwaka
+		</td>
+		<td>Isoft Tanzania Softwares </td>
+		<td>No Twitter Username</td>
+		<td>Dar es Salaam,Tanzania</td>
+		<td>12</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>591</td>
+		<td>
 			<a href="https://github.com/nimrutta">
 				<img src="https://avatars.githubusercontent.com/u/26523273?s=72&u=bc6234cb21dfa023acf2dfb1b11d5b6928976914&v=4" width="24" alt="Avatar of nimrutta"> nimrutta
 			</a><br/>
@@ -8366,7 +8380,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/bamsi">
 				<img src="https://avatars.githubusercontent.com/u/13251132?s=72&u=a66251f03893d201b9f2227879da923bed359270&v=4" width="24" alt="Avatar of bamsi"> bamsi
@@ -8380,7 +8394,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/jhenry081">
 				<img src="https://avatars.githubusercontent.com/u/43371996?s=72&u=e70ac038ab994f749704b7a93f709df90ca3f0be&v=4" width="24" alt="Avatar of jhenry081"> jhenry081
@@ -8394,7 +8408,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/pesaply">
 				<img src="https://avatars.githubusercontent.com/u/7356660?s=72&u=c5aa8b26f95f4ce29af243942d51c00528a192b4&v=4" width="24" alt="Avatar of pesaply"> pesaply
@@ -8408,7 +8422,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/fruganyumisa">
 				<img src="https://avatars.githubusercontent.com/u/33754893?s=72&u=22d37bcc0350b08e7dbdb0919a3cd3fadcf31b92&v=4" width="24" alt="Avatar of fruganyumisa"> fruganyumisa
@@ -8422,7 +8436,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/kenkataiwa">
 				<img src="https://avatars.githubusercontent.com/u/2436107?s=72&u=c109db324fa9602b5902fe44b2218d88f187453c&v=4" width="24" alt="Avatar of kenkataiwa"> kenkataiwa
@@ -8436,7 +8450,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/kemmie515">
 				<img src="https://avatars.githubusercontent.com/u/84315150?s=72&u=a5fd849956fe096d8151bac09c8d23f478032524&v=4" width="24" alt="Avatar of kemmie515"> kemmie515
@@ -8450,7 +8464,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/Mkwecracy">
 				<img src="https://avatars.githubusercontent.com/u/102211067?s=72&v=4" width="24" alt="Avatar of Mkwecracy"> Mkwecracy
@@ -8464,7 +8478,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/Udoddy">
 				<img src="https://avatars.githubusercontent.com/u/77205282?s=72&u=8bd84bf0bec8fc0ecb474888d745758779146cef&v=4" width="24" alt="Avatar of Udoddy"> Udoddy
@@ -8478,7 +8492,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/sabinusi">
 				<img src="https://avatars.githubusercontent.com/u/26820742?s=72&u=39a9e0ddb1c0b1fcb98892f5b41c342c67a361b1&v=4" width="24" alt="Avatar of sabinusi"> sabinusi
@@ -8492,7 +8506,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/kija56">
 				<img src="https://avatars.githubusercontent.com/u/19703803?s=72&v=4" width="24" alt="Avatar of kija56"> kija56
@@ -8506,7 +8520,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/Brightcoder1122">
 				<img src="https://avatars.githubusercontent.com/u/72887741?s=72&u=70557d2400cfa54962ae70976a1168084e786305&v=4" width="24" alt="Avatar of Brightcoder1122"> Brightcoder1122
@@ -8520,7 +8534,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/kennethsimon">
 				<img src="https://avatars.githubusercontent.com/u/32138863?s=72&u=84164c26ef5f756be49d967650a563de2f2c0f43&v=4" width="24" alt="Avatar of kennethsimon"> kennethsimon
@@ -8534,7 +8548,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
 			<a href="https://github.com/prosperous-kenny">
 				<img src="https://avatars.githubusercontent.com/u/40657484?s=72&u=e2463ed151017ee3550482aef123c53ca1a3f055&v=4" width="24" alt="Avatar of prosperous-kenny"> prosperous-kenny
@@ -8548,7 +8562,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/YesayaSoftware">
 				<img src="https://avatars.githubusercontent.com/u/18540067?s=72&u=afadec98bd32565c455f715e98049ead33a68162&v=4" width="24" alt="Avatar of YesayaSoftware"> YesayaSoftware
@@ -8562,7 +8576,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/NDEGEJACKSON1">
 				<img src="https://avatars.githubusercontent.com/u/71042688?s=72&u=e741163f1670537d4253775b3645193ea0561599&v=4" width="24" alt="Avatar of NDEGEJACKSON1"> NDEGEJACKSON1
@@ -8576,7 +8590,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/brompo">
 				<img src="https://avatars.githubusercontent.com/u/542393?s=72&v=4" width="24" alt="Avatar of brompo"> brompo
@@ -8590,7 +8604,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/iamarba7">
 				<img src="https://avatars.githubusercontent.com/u/93350850?s=72&u=a4bca300f69e6b6c647fd737e4a2099f2d2dc726&v=4" width="24" alt="Avatar of iamarba7"> iamarba7
@@ -8604,7 +8618,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/codewithsul">
 				<img src="https://avatars.githubusercontent.com/u/20230334?s=72&v=4" width="24" alt="Avatar of codewithsul"> codewithsul
@@ -8618,7 +8632,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/Briton-james">
 				<img src="https://avatars.githubusercontent.com/u/101688136?s=72&u=c20dd5c861b89feb919f31f2d67a6e67601e5391&v=4" width="24" alt="Avatar of Briton-james"> Briton-james
@@ -8632,7 +8646,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/robilin">
 				<img src="https://avatars.githubusercontent.com/u/10851378?s=72&v=4" width="24" alt="Avatar of robilin"> robilin
@@ -8646,7 +8660,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>10</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a href="https://github.com/Oswaldgerald">
 				<img src="https://avatars.githubusercontent.com/u/21096793?s=72&u=5387f3b2187e35efdcde8f3e85c4d98b84dd11f6&v=4" width="24" alt="Avatar of Oswaldgerald"> Oswaldgerald
@@ -8660,7 +8674,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/sammagafu">
 				<img src="https://avatars.githubusercontent.com/u/5717605?s=72&v=4" width="24" alt="Avatar of sammagafu"> sammagafu
@@ -8674,7 +8688,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/Glowryf">
 				<img src="https://avatars.githubusercontent.com/u/111210186?s=72&u=22e1383eca64536641789896972d0fe47ca3683b&v=4" width="24" alt="Avatar of Glowryf"> Glowryf
@@ -8688,7 +8702,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/Burnwood1911">
 				<img src="https://avatars.githubusercontent.com/u/29151955?s=72&u=0f6807d27c41a1d5a8e5327251c76de0a23e6dfc&v=4" width="24" alt="Avatar of Burnwood1911"> Burnwood1911
@@ -8702,7 +8716,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/mocodertz">
 				<img src="https://avatars.githubusercontent.com/u/15208322?s=72&u=f90288b378a9a9bd5f91d438b51b5bfbdbb40940&v=4" width="24" alt="Avatar of mocodertz"> mocodertz
@@ -8716,7 +8730,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/yohanatubike">
 				<img src="https://avatars.githubusercontent.com/u/12143027?s=72&u=77cae908a0606ffa4162f4a199882256a85c03c4&v=4" width="24" alt="Avatar of yohanatubike"> yohanatubike
@@ -8730,7 +8744,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/elvisernest">
 				<img src="https://avatars.githubusercontent.com/u/74082358?s=72&u=3079339a6f322f70a60b5d682295c38c323055c3&v=4" width="24" alt="Avatar of elvisernest"> elvisernest
@@ -8744,7 +8758,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>618</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/CharlesNjau">
 				<img src="https://avatars.githubusercontent.com/u/22008416?s=72&v=4" width="24" alt="Avatar of CharlesNjau"> CharlesNjau
@@ -8758,7 +8772,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/anzuannbabu">
 				<img src="https://avatars.githubusercontent.com/u/21256602?s=72&u=15db3949eea3ffd77f660c3879f0a0440cb82903&v=4" width="24" alt="Avatar of anzuannbabu"> anzuannbabu
@@ -8772,7 +8786,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/RomeoDenis">
 				<img src="https://avatars.githubusercontent.com/u/1019374?s=72&u=7637529a06eed4e96e8be1b871f1d64db0bb179b&v=4" width="24" alt="Avatar of RomeoDenis"> RomeoDenis
@@ -8786,7 +8800,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/satorukage">
 				<img src="https://avatars.githubusercontent.com/u/87832403?s=72&u=c43ba7c3832deff73e82ad66afeb8db118ac7c3c&v=4" width="24" alt="Avatar of satorukage"> satorukage
@@ -8800,7 +8814,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/Norah-524">
 				<img src="https://avatars.githubusercontent.com/u/59758580?s=72&v=4" width="24" alt="Avatar of Norah-524"> Norah-524
@@ -8814,7 +8828,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>9</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/lizzy-shiejer">
 				<img src="https://avatars.githubusercontent.com/u/65948882?s=72&u=58e37f6e624fc095e6ba4014c2d83dab6019a1f5&v=4" width="24" alt="Avatar of lizzy-shiejer"> lizzy-shiejer
@@ -8828,7 +8842,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/navish">
 				<img src="https://avatars.githubusercontent.com/u/8484784?s=72&u=3ed46cbd851634e17f2b94119a71ea0b9c87c120&v=4" width="24" alt="Avatar of navish"> navish
@@ -8842,7 +8856,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/erickeliab">
 				<img src="https://avatars.githubusercontent.com/u/48857102?s=72&u=65e64312149b626f2c130ea1f3186987a29a0bfc&v=4" width="24" alt="Avatar of erickeliab"> erickeliab
@@ -8856,7 +8870,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/abilmdone">
 				<img src="https://avatars.githubusercontent.com/u/85259352?s=72&v=4" width="24" alt="Avatar of abilmdone"> abilmdone
@@ -8870,7 +8884,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/LarryMatrix">
 				<img src="https://avatars.githubusercontent.com/u/26748021?s=72&u=17aa6efd32cca3f260136dcc60f7429c1d62620f&v=4" width="24" alt="Avatar of LarryMatrix"> LarryMatrix
@@ -8884,7 +8898,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/Cholowao">
 				<img src="https://avatars.githubusercontent.com/u/11339750?s=72&v=4" width="24" alt="Avatar of Cholowao"> Cholowao
@@ -8898,7 +8912,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/FROLIANI">
 				<img src="https://avatars.githubusercontent.com/u/84269100?s=72&u=ccf92e8b61058085fd43938c6b2b5776bc8a02a1&v=4" width="24" alt="Avatar of FROLIANI"> FROLIANI
@@ -8912,7 +8926,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/gmbeke">
 				<img src="https://avatars.githubusercontent.com/u/64093473?s=72&u=e17d0b724bc4c556e177921f161cc594b9e90f74&v=4" width="24" alt="Avatar of gmbeke"> gmbeke
@@ -8926,7 +8940,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/Munde">
 				<img src="https://avatars.githubusercontent.com/u/2358895?s=72&u=9666c43a373821cbca2e47b43bd49430c61dd1f1&v=4" width="24" alt="Avatar of Munde"> Munde
@@ -8940,7 +8954,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/Athumanahmed">
 				<img src="https://avatars.githubusercontent.com/u/77189491?s=72&u=a2e6195aab7bfcae3e5c2b543bb7f208abdc50ae&v=4" width="24" alt="Avatar of Athumanahmed"> Athumanahmed
@@ -8954,7 +8968,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/tweve09">
 				<img src="https://avatars.githubusercontent.com/u/91385391?s=72&u=e894c94e52a67335d1d28bdb13b68312bf28c006&v=4" width="24" alt="Avatar of tweve09"> tweve09
@@ -8968,7 +8982,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/michaelhaule">
 				<img src="https://avatars.githubusercontent.com/u/58132326?s=72&u=4368b6a0c09088f64c6de4270e90021e86651aeb&v=4" width="24" alt="Avatar of michaelhaule"> michaelhaule
@@ -8982,7 +8996,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/EmanuelLeonard">
 				<img src="https://avatars.githubusercontent.com/u/44773634?s=72&u=5df0f624d808b3783487e1c0fabac7eb695b5f88&v=4" width="24" alt="Avatar of EmanuelLeonard"> EmanuelLeonard
@@ -8996,7 +9010,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>637</td>
 		<td>
 			<a href="https://github.com/tonyfaby">
 				<img src="https://avatars.githubusercontent.com/u/4175987?s=72&u=569160b5a6f72f1f7bfaec06768a81f0ba1e1530&v=4" width="24" alt="Avatar of tonyfaby"> tonyfaby
@@ -9010,7 +9024,21 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>7</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>638</td>
+		<td>
+			<a href="https://github.com/Ceasarjulius">
+				<img src="https://avatars.githubusercontent.com/u/130777796?s=72&v=4" width="24" alt="Avatar of Ceasarjulius"> Ceasarjulius
+			</a><br/>
+			Sisa Julius Ryoba
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Dar es salaam</td>
+		<td>7</td>
+		<td>7</td>
+	</tr>
+	<tr>
+		<td>639</td>
 		<td>
 			<a href="https://github.com/sharifukitori">
 				<img src="https://avatars.githubusercontent.com/u/51135024?s=72&u=9dbbc2a20c0ff51a7612fdf5e96c0d490d87be6f&v=4" width="24" alt="Avatar of sharifukitori"> sharifukitori
@@ -9024,7 +9052,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>640</td>
 		<td>
 			<a href="https://github.com/Tajir-Ramadhan">
 				<img src="https://avatars.githubusercontent.com/u/111126403?s=72&v=4" width="24" alt="Avatar of Tajir-Ramadhan"> Tajir-Ramadhan
@@ -9038,7 +9066,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>641</td>
 		<td>
 			<a href="https://github.com/CodeWolf17">
 				<img src="https://avatars.githubusercontent.com/u/71965187?s=72&u=e1c6084f2b67a8e93440ed0392c49ba013be4877&v=4" width="24" alt="Avatar of CodeWolf17"> CodeWolf17
@@ -9052,7 +9080,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>640</td>
+		<td>642</td>
 		<td>
 			<a href="https://github.com/Fausers">
 				<img src="https://avatars.githubusercontent.com/u/17882601?s=72&v=4" width="24" alt="Avatar of Fausers"> Fausers
@@ -9066,7 +9094,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>641</td>
+		<td>643</td>
 		<td>
 			<a href="https://github.com/emanuelbariki">
 				<img src="https://avatars.githubusercontent.com/u/14216465?s=72&u=5e54daca568230c4c4187fe59a5c26d36c7ad85f&v=4" width="24" alt="Avatar of emanuelbariki"> emanuelbariki
@@ -9080,7 +9108,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>644</td>
 		<td>
 			<a href="https://github.com/nasznjoka">
 				<img src="https://avatars.githubusercontent.com/u/3130364?s=72&v=4" width="24" alt="Avatar of nasznjoka"> nasznjoka
@@ -9094,7 +9122,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>645</td>
 		<td>
 			<a href="https://github.com/BeniBakari">
 				<img src="https://avatars.githubusercontent.com/u/86267464?s=72&u=3af6e507f50491474296af2a0892739de8800840&v=4" width="24" alt="Avatar of BeniBakari"> BeniBakari
@@ -9108,7 +9136,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>646</td>
 		<td>
 			<a href="https://github.com/engfrankthomas">
 				<img src="https://avatars.githubusercontent.com/u/20245048?s=72&u=04401d462b1e284598a22122484eb4a7e965b9c3&v=4" width="24" alt="Avatar of engfrankthomas"> engfrankthomas
@@ -9122,7 +9150,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>645</td>
+		<td>647</td>
 		<td>
 			<a href="https://github.com/loomoni">
 				<img src="https://avatars.githubusercontent.com/u/47052369?s=72&u=f083f003ce139637ec8bc6e22b9512197699da9b&v=4" width="24" alt="Avatar of loomoni"> loomoni
@@ -9136,7 +9164,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>646</td>
+		<td>648</td>
 		<td>
 			<a href="https://github.com/forwardsahaya">
 				<img src="https://avatars.githubusercontent.com/u/116241834?s=72&u=8ead53b06255a9b4d0bb581469957adcb84bcb46&v=4" width="24" alt="Avatar of forwardsahaya"> forwardsahaya
@@ -9150,7 +9178,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>649</td>
 		<td>
 			<a href="https://github.com/govella08">
 				<img src="https://avatars.githubusercontent.com/u/55766361?s=72&u=f32461e737ee88dcbce8f20fb4e37454f58a4b6a&v=4" width="24" alt="Avatar of govella08"> govella08
@@ -9164,7 +9192,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>650</td>
 		<td>
 			<a href="https://github.com/Mosalum">
 				<img src="https://avatars.githubusercontent.com/u/119632267?s=72&u=7c4987875aa28c82bccbbf1d4401976689667ac0&v=4" width="24" alt="Avatar of Mosalum"> Mosalum
@@ -9178,7 +9206,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>651</td>
 		<td>
 			<a href="https://github.com/ElibarikiJ">
 				<img src="https://avatars.githubusercontent.com/u/15199051?s=72&v=4" width="24" alt="Avatar of ElibarikiJ"> ElibarikiJ
@@ -9192,7 +9220,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>652</td>
 		<td>
 			<a href="https://github.com/rigobert-art">
 				<img src="https://avatars.githubusercontent.com/u/85562416?s=72&u=e6c2077e0b4ba36ccaf799acd1864c38c2f5debc&v=4" width="24" alt="Avatar of rigobert-art"> rigobert-art
@@ -9206,7 +9234,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>653</td>
 		<td>
 			<a href="https://github.com/donald6414">
 				<img src="https://avatars.githubusercontent.com/u/64230419?s=72&u=bfc6ad2f3523dd534b5ae3969fd56d592c8c57f0&v=4" width="24" alt="Avatar of donald6414"> donald6414
@@ -9220,7 +9248,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>654</td>
 		<td>
 			<a href="https://github.com/Njunwa1">
 				<img src="https://avatars.githubusercontent.com/u/16492230?s=72&u=818b4d615297ffcbca76386b012a373a274828bc&v=4" width="24" alt="Avatar of Njunwa1"> Njunwa1
@@ -9234,7 +9262,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>655</td>
 		<td>
 			<a href="https://github.com/Ethan-Bit-256">
 				<img src="https://avatars.githubusercontent.com/u/79723001?s=72&u=a9052266cd623cf577f0c0c82f2880642261f608&v=4" width="24" alt="Avatar of Ethan-Bit-256"> Ethan-Bit-256
@@ -9248,7 +9276,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>656</td>
 		<td>
 			<a href="https://github.com/decolnz">
 				<img src="https://avatars.githubusercontent.com/u/5349422?s=72&u=2af49304508d880e88a29581bc78308995d434cd&v=4" width="24" alt="Avatar of decolnz"> decolnz
@@ -9262,7 +9290,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>657</td>
 		<td>
 			<a href="https://github.com/XcOdeTanzania">
 				<img src="https://avatars.githubusercontent.com/u/8332431?s=72&u=1c1d4be6837a9dc9fb37ede708afcd5d7b6d660c&v=4" width="24" alt="Avatar of XcOdeTanzania"> XcOdeTanzania
@@ -9276,7 +9304,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>658</td>
 		<td>
 			<a href="https://github.com/tahertechs">
 				<img src="https://avatars.githubusercontent.com/u/9886434?s=72&u=b4a7958b251cca05a1e71510163ea2fc0e8db5e5&v=4" width="24" alt="Avatar of tahertechs"> tahertechs
@@ -9290,7 +9318,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>659</td>
 		<td>
 			<a href="https://github.com/PMsanga">
 				<img src="https://avatars.githubusercontent.com/u/42935859?s=72&u=330bdc8070e39f294a617ba24095be62373afee7&v=4" width="24" alt="Avatar of PMsanga"> PMsanga
@@ -9304,7 +9332,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>660</td>
 		<td>
 			<a href="https://github.com/GrayCodez">
 				<img src="https://avatars.githubusercontent.com/u/6498806?s=72&u=2ce77ada57bb299bfaed1c2a575eb515aa904c2e&v=4" width="24" alt="Avatar of GrayCodez"> GrayCodez
@@ -9318,7 +9346,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>661</td>
 		<td>
 			<a href="https://github.com/charden-daxicen">
 				<img src="https://avatars.githubusercontent.com/u/26309555?s=72&u=c5a072c12cd48c3ff37cc9452c26efe2e19f89a2&v=4" width="24" alt="Avatar of charden-daxicen"> charden-daxicen
@@ -9332,7 +9360,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>662</td>
 		<td>
 			<a href="https://github.com/Kajabukama">
 				<img src="https://avatars.githubusercontent.com/u/8515707?s=72&u=163f6fd6b4cb40740af25eaa27f75f0c0b325647&v=4" width="24" alt="Avatar of Kajabukama"> Kajabukama
@@ -9346,7 +9374,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>663</td>
 		<td>
 			<a href="https://github.com/kadefue">
 				<img src="https://avatars.githubusercontent.com/u/2801614?s=72&u=8e4e7ee0b7707daa6b50c901bc2f3e12ca9c87e7&v=4" width="24" alt="Avatar of kadefue"> kadefue
@@ -9360,7 +9388,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>664</td>
 		<td>
 			<a href="https://github.com/bilaza">
 				<img src="https://avatars.githubusercontent.com/u/27545761?s=72&v=4" width="24" alt="Avatar of bilaza"> bilaza
@@ -9374,7 +9402,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>665</td>
 		<td>
 			<a href="https://github.com/twahakabika">
 				<img src="https://avatars.githubusercontent.com/u/24588462?s=72&u=e79081629d2ab8054bd3f2a8c8747595b737e832&v=4" width="24" alt="Avatar of twahakabika"> twahakabika
@@ -9388,7 +9416,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>666</td>
 		<td>
 			<a href="https://github.com/Officialkendrick">
 				<img src="https://avatars.githubusercontent.com/u/120029828?s=72&v=4" width="24" alt="Avatar of Officialkendrick"> Officialkendrick
@@ -9402,21 +9430,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>665</td>
-		<td>
-			<a href="https://github.com/pharajking">
-				<img src="https://avatars.githubusercontent.com/u/64103883?s=72&u=4c124884880dea8feb1479e1f0271b59d4e3ea5d&v=4" width="24" alt="Avatar of pharajking"> pharajking
-			</a><br/>
-			FALAJI ALLY MBILINYI
-		</td>
-		<td>Pkcompany </td>
-		<td><a href="https://twitter.com/Pharajking">Pharajking</a></td>
-		<td>Tanzania,Dodoma</td>
-		<td>4</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a href="https://github.com/tanzania">
 				<img src="https://avatars.githubusercontent.com/u/5156927?s=72&v=4" width="24" alt="Avatar of tanzania"> tanzania
@@ -9430,7 +9444,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>4</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a href="https://github.com/elineka">
 				<img src="https://avatars.githubusercontent.com/u/46896641?s=72&u=6a1e0c6623eef9b9266f469ec6383bb3ece7ef7d&v=4" width="24" alt="Avatar of elineka"> elineka
@@ -9444,7 +9458,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a href="https://github.com/allyndimbo">
 				<img src="https://avatars.githubusercontent.com/u/99618401?s=72&u=e2ab22a470cdea7258fb4051cf4a6fdee830ae13&v=4" width="24" alt="Avatar of allyndimbo"> allyndimbo
@@ -9458,7 +9472,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a href="https://github.com/bryceandy">
 				<img src="https://avatars.githubusercontent.com/u/11915180?s=72&u=ef61868b6d6873f2ae53b46757aadf07cf5a5e85&v=4" width="24" alt="Avatar of bryceandy"> bryceandy
@@ -9472,7 +9486,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a href="https://github.com/yusuphwickama">
 				<img src="https://avatars.githubusercontent.com/u/17740696?s=72&u=6fb9bd5f707f76c5c162fce25334ab64af4a1b25&v=4" width="24" alt="Avatar of yusuphwickama"> yusuphwickama
@@ -9486,7 +9500,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a href="https://github.com/leyluj">
 				<img src="https://avatars.githubusercontent.com/u/5972918?s=72&u=c01f405890f43134cf44e44ec40b759e0a107043&v=4" width="24" alt="Avatar of leyluj"> leyluj
@@ -9500,7 +9514,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a href="https://github.com/MorleyMinde">
 				<img src="https://avatars.githubusercontent.com/u/7271863?s=72&u=18b93f420dac869f3a4b221bd33cf08f4ba208c1&v=4" width="24" alt="Avatar of MorleyMinde"> MorleyMinde
@@ -9514,7 +9528,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
 		<td>
 			<a href="https://github.com/apixworks">
 				<img src="https://avatars.githubusercontent.com/u/39369908?s=72&v=4" width="24" alt="Avatar of apixworks"> apixworks
@@ -9528,7 +9542,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>675</td>
 		<td>
 			<a href="https://github.com/Gabby1024">
 				<img src="https://avatars.githubusercontent.com/u/67017747?s=72&u=2487eb744c6275b58b943684aafd71c324b53f8d&v=4" width="24" alt="Avatar of Gabby1024"> Gabby1024
@@ -9542,7 +9556,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>676</td>
 		<td>
 			<a href="https://github.com/DePosta20">
 				<img src="https://avatars.githubusercontent.com/u/59761792?s=72&u=47049402733e4c09767fb5727f71dbbc0e660c27&v=4" width="24" alt="Avatar of DePosta20"> DePosta20
@@ -9556,7 +9570,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a href="https://github.com/bellangowi">
 				<img src="https://avatars.githubusercontent.com/u/26577784?s=72&u=a4b8ab15507703e684e232b57df4c94c0b3ed36f&v=4" width="24" alt="Avatar of bellangowi"> bellangowi
@@ -9570,7 +9584,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a href="https://github.com/migambile25">
 				<img src="https://avatars.githubusercontent.com/u/88770455?s=72&u=4789fe311cef31074ca23805c70f3a44d2bf842b&v=4" width="24" alt="Avatar of migambile25"> migambile25
@@ -9584,7 +9598,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a href="https://github.com/amakrey">
 				<img src="https://avatars.githubusercontent.com/u/277676?s=72&v=4" width="24" alt="Avatar of amakrey"> amakrey
@@ -9598,7 +9612,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a href="https://github.com/lusajo143">
 				<img src="https://avatars.githubusercontent.com/u/72644298?s=72&u=83cd4e4ace052cb8b67b7895092ed66356f2e806&v=4" width="24" alt="Avatar of lusajo143"> lusajo143
@@ -9612,7 +9626,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a href="https://github.com/williamMtuiJr">
 				<img src="https://avatars.githubusercontent.com/u/47623180?s=72&u=fd5b689c7aafcd5ed8389ebc5c05dc339feb794c&v=4" width="24" alt="Avatar of williamMtuiJr"> williamMtuiJr
@@ -9626,7 +9640,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a href="https://github.com/EliyaFerdinand">
 				<img src="https://avatars.githubusercontent.com/u/35638318?s=72&u=183023393e89edf829cc0d63ded52ecddcabad82&v=4" width="24" alt="Avatar of EliyaFerdinand"> EliyaFerdinand
@@ -9640,7 +9654,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
 		<td>
 			<a href="https://github.com/XhivoLegend">
 				<img src="https://avatars.githubusercontent.com/u/106303482?s=72&u=2aa3a37343f01d00a29aad404bc139d90c19a8eb&v=4" width="24" alt="Avatar of XhivoLegend"> XhivoLegend
@@ -9654,7 +9668,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>684</td>
 		<td>
 			<a href="https://github.com/xizzmtui">
 				<img src="https://avatars.githubusercontent.com/u/67943122?s=72&u=5bbc3eb3eee14ae8b86dce354b0d42a944d6c702&v=4" width="24" alt="Avatar of xizzmtui"> xizzmtui
@@ -9668,7 +9682,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>685</td>
 		<td>
 			<a href="https://github.com/ubongofaidas">
 				<img src="https://avatars.githubusercontent.com/u/26626005?s=72&u=6aa42ef9cf69b97cb22bc106f1d43a9accbe2633&v=4" width="24" alt="Avatar of ubongofaidas"> ubongofaidas
@@ -9682,7 +9696,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>685</td>
+		<td>686</td>
 		<td>
 			<a href="https://github.com/hpgerald">
 				<img src="https://avatars.githubusercontent.com/u/7876645?s=72&u=424582e7a4d5e0fc7dd30637b114ba7584460759&v=4" width="24" alt="Avatar of hpgerald"> hpgerald
@@ -9696,7 +9710,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a href="https://github.com/KhadijaMahanga">
 				<img src="https://avatars.githubusercontent.com/u/7962097?s=72&u=02681962a1d865f55dacef885b4d41c6bde58571&v=4" width="24" alt="Avatar of KhadijaMahanga"> KhadijaMahanga
@@ -9710,7 +9724,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a href="https://github.com/blessnathan01">
 				<img src="https://avatars.githubusercontent.com/u/37616358?s=72&u=79237eb2791d10376978958024b5e2b6f3945789&v=4" width="24" alt="Avatar of blessnathan01"> blessnathan01
@@ -9724,7 +9738,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a href="https://github.com/as7r44">
 				<img src="https://avatars.githubusercontent.com/u/71061844?s=72&u=04550bdb958b2cf1a75ecb1bd7e6d400492b4a92&v=4" width="24" alt="Avatar of as7r44"> as7r44
@@ -9738,7 +9752,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a href="https://github.com/valencydickson">
 				<img src="https://avatars.githubusercontent.com/u/72242807?s=72&u=294caf94a81d409a6a3227d3ed5250ede164f4b3&v=4" width="24" alt="Avatar of valencydickson"> valencydickson
@@ -9752,7 +9766,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a href="https://github.com/iamrayman89">
 				<img src="https://avatars.githubusercontent.com/u/52482411?s=72&u=fe5480fb64382c45244fb580f09f50d2b9267fa7&v=4" width="24" alt="Avatar of iamrayman89"> iamrayman89
@@ -9766,7 +9780,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a href="https://github.com/Tektz">
 				<img src="https://avatars.githubusercontent.com/u/34957383?s=72&u=4669c786a4aa46b47d1855c783f65a08248f8ad8&v=4" width="24" alt="Avatar of Tektz"> Tektz
@@ -9780,7 +9794,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a href="https://github.com/mwakalukwa">
 				<img src="https://avatars.githubusercontent.com/u/23524324?s=72&u=fce3b00681469b54e21bc29b5fb8d1714335cc78&v=4" width="24" alt="Avatar of mwakalukwa"> mwakalukwa
@@ -9794,7 +9808,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/evaristhenry">
 				<img src="https://avatars.githubusercontent.com/u/52232911?s=72&v=4" width="24" alt="Avatar of evaristhenry"> evaristhenry
@@ -9808,7 +9822,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/radsad">
 				<img src="https://avatars.githubusercontent.com/u/38376300?s=72&u=182db733c06d88ebd565e8b4c33327b5214a7896&v=4" width="24" alt="Avatar of radsad"> radsad
@@ -9822,7 +9836,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/cyb4x">
 				<img src="https://avatars.githubusercontent.com/u/123634164?s=72&u=61eea8e22a191a321547fd5da65844a5769979b3&v=4" width="24" alt="Avatar of cyb4x"> cyb4x
@@ -9836,7 +9850,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/fredwilliam">
 				<img src="https://avatars.githubusercontent.com/u/209934?s=72&v=4" width="24" alt="Avatar of fredwilliam"> fredwilliam
@@ -9850,7 +9864,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/jovinejestas">
 				<img src="https://avatars.githubusercontent.com/u/67503226?s=72&u=73053a62b8100da2e7dd75513d67aeeea6b79f31&v=4" width="24" alt="Avatar of jovinejestas"> jovinejestas
@@ -9864,7 +9878,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a href="https://github.com/JboscoFrancis">
 				<img src="https://avatars.githubusercontent.com/u/66788613?s=72&u=65362836cffe4317f0825a78c14704ed31ba2bd2&v=4" width="24" alt="Avatar of JboscoFrancis"> JboscoFrancis
@@ -9878,7 +9892,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a href="https://github.com/Techguuy">
 				<img src="https://avatars.githubusercontent.com/u/74897229?s=72&u=f3f1defe7a9c82b58ad572f94534bb8f2ea4281a&v=4" width="24" alt="Avatar of Techguuy"> Techguuy
@@ -9892,7 +9906,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a href="https://github.com/FrRwega">
 				<img src="https://avatars.githubusercontent.com/u/67070656?s=72&u=1973be0542c4c83410f0f9556564a325b22dd2ca&v=4" width="24" alt="Avatar of FrRwega"> FrRwega
@@ -9906,7 +9920,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a href="https://github.com/marquizq">
 				<img src="https://avatars.githubusercontent.com/u/21156037?s=72&u=0fcdb55d2efc7197ac26ca40fa3b479dd71b329f&v=4" width="24" alt="Avatar of marquizq"> marquizq
@@ -9920,7 +9934,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a href="https://github.com/HusseinWinza">
 				<img src="https://avatars.githubusercontent.com/u/29793874?s=72&u=f37bb1c812fe8a860a09b42009304738d09123c9&v=4" width="24" alt="Avatar of HusseinWinza"> HusseinWinza
@@ -9934,7 +9948,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a href="https://github.com/danielchikaka">
 				<img src="https://avatars.githubusercontent.com/u/3510818?s=72&u=a3984f10438d6eb5ca716e6d6aaaa33181531c84&v=4" width="24" alt="Avatar of danielchikaka"> danielchikaka
@@ -9948,7 +9962,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a href="https://github.com/CryptopapiDeFi">
 				<img src="https://avatars.githubusercontent.com/u/16536790?s=72&u=b991d968a34ff5cc262cfcb6d79f68e53780cbad&v=4" width="24" alt="Avatar of CryptopapiDeFi"> CryptopapiDeFi
@@ -9962,7 +9976,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a href="https://github.com/supersume">
 				<img src="https://avatars.githubusercontent.com/u/3321145?s=72&u=1c98a04fac7c8d0c93d91a3a3a0db889c730e720&v=4" width="24" alt="Avatar of supersume"> supersume
@@ -9976,7 +9990,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a href="https://github.com/AhmadHJabu">
 				<img src="https://avatars.githubusercontent.com/u/20850252?s=72&u=9758462704bb79499fa4d4e077cad8edd6aad890&v=4" width="24" alt="Avatar of AhmadHJabu"> AhmadHJabu
@@ -9990,7 +10004,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a href="https://github.com/Ritha911">
 				<img src="https://avatars.githubusercontent.com/u/72339833?s=72&v=4" width="24" alt="Avatar of Ritha911"> Ritha911
@@ -10004,7 +10018,7 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a href="https://github.com/Yethroy">
 				<img src="https://avatars.githubusercontent.com/u/3989043?s=72&u=25e06e387be228d66ae42f319f56fc65e2acd9d8&v=4" width="24" alt="Avatar of Yethroy"> Yethroy
@@ -10014,20 +10028,6 @@ There are `940 users`  in Tanzania. You need at least `3 followers` to be on thi
 		<td>Bizy Tech Ltd </td>
 		<td><a href="https://twitter.com/yethroy">yethroy</a></td>
 		<td>Dar es Salaam, Tanzania </td>
-		<td>1</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>709</td>
-		<td>
-			<a href="https://github.com/mikegustaph">
-				<img src="https://avatars.githubusercontent.com/u/20980764?s=72&v=4" width="24" alt="Avatar of mikegustaph"> mikegustaph
-			</a><br/>
-			mike 
-		</td>
-		<td>Cloudfan Technology </td>
-		<td>No Twitter Username</td>
-		<td>Dar es salaam tanzania</td>
 		<td>1</td>
 		<td>1</td>
 	</tr>
