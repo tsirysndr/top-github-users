@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `public contributions` and `private contributions` by users in Chad on `2023/11/3 5:45 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `public contributions` and `private contributions` by users in Chad on `2023/11/4 5:02 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -144,8 +144,8 @@ There are `127 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Chad</td>
-		<td>211</td>
-		<td>323</td>
+		<td>231</td>
+		<td>343</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -201,7 +201,7 @@ There are `127 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Chad</td>
 		<td>121</td>
-		<td>155</td>
+		<td>156</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -214,8 +214,8 @@ There are `127 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Treeofcontent.com </td>
 		<td>No Twitter Username</td>
 		<td>chad</td>
-		<td>133</td>
-		<td>133</td>
+		<td>134</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -514,20 +514,6 @@ There are `127 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/MrArchduke">
-				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
-			</a><br/>
-			MrArchduke
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad, USA</td>
-		<td>7</td>
-		<td>7</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
 			<a href="https://github.com/Hazel-Tech4Chad">
 				<img src="https://avatars.githubusercontent.com/u/122890176?s=72&u=f3b8b47c81119ab08ecb7d6865ce70044b021717&v=4" width="24" alt="Avatar of Hazel-Tech4Chad"> Hazel-Tech4Chad
 			</a><br/>
@@ -538,6 +524,20 @@ There are `127 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Chad</td>
 		<td>5</td>
 		<td>5</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/MrArchduke">
+				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
+			</a><br/>
+			MrArchduke
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad, USA</td>
+		<td>4</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>32</td>
