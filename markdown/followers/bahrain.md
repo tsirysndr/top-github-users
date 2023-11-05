@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg" alt="Bahrain">
 </a>
 
-The `number of followers` of users in Bahrain on `2023/11/4 8:51 PM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
+The `number of followers` of users in Bahrain on `2023/11/5 2:24 PM UTC`. This list contains users from `Bahrain` and cities `Nassau` `Riffa` `Muharraq`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `894 users`  in Bahrain. You need at least `0 followers` to be on this
 		<td>@sorcero </td>
 		<td>No Twitter Username</td>
 		<td> Bahrain</td>
-		<td>365</td>
+		<td>366</td>
 	</tr>
 	<tr>
 		<td>3</td>
