@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg" alt="El Salvador">
 </a>
 
-The `public contributions` by users in El Salvador on `2023/11/5 12:27 AM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
+The `public contributions` by users in El Salvador on `2023/11/5 6:02 PM UTC`. This list contains users from `El Salvador` and cities `San-salvador` `San-miguel` `Santa-ana` `Santa-tecla` `San-martin`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>Tamayo And Co </td>
 		<td><a href="https://twitter.com/heftamayo">heftamayo</a></td>
 		<td>San Salvador, El Salvador, Central America</td>
-		<td>2138</td>
+		<td>2141</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -258,7 +258,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>Don't Stop Believing In<br/>Yourself!<br/></td>
 		<td><a href="https://twitter.com/MagnusManz">MagnusManz</a></td>
 		<td>San Miguel de Tucumán, Argentina</td>
-		<td>593</td>
+		<td>595</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -406,19 +406,6 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 	<tr>
 		<td>24</td>
 		<td>
-			<a href="https://github.com/Niffxd">
-				<img src="https://avatars.githubusercontent.com/u/24300027?s=72&u=4e8d53a336cd0c5d201c8e38bca0b466c54ad90d&v=4" width="24" alt="Avatar of Niffxd"> Niffxd
-			</a><br/>
-			Nico Sanchez
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/nico_sanchez_97">nico_sanchez_97</a></td>
-		<td>San Miguel de Tucuman</td>
-		<td>418</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
 			<a href="https://github.com/BenjaMura">
 				<img src="https://avatars.githubusercontent.com/u/124720814?s=72&u=9398e48bafe4794134fb280bb426fe3ff7952dbc&v=4" width="24" alt="Avatar of BenjaMura"> BenjaMura
 			</a><br/>
@@ -427,6 +414,19 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Miguel de Tucumán, Tucumán, Argentina</td>
+		<td>421</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
+			<a href="https://github.com/Niffxd">
+				<img src="https://avatars.githubusercontent.com/u/24300027?s=72&u=4e8d53a336cd0c5d201c8e38bca0b466c54ad90d&v=4" width="24" alt="Avatar of Niffxd"> Niffxd
+			</a><br/>
+			Nico Sanchez
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/nico_sanchez_97">nico_sanchez_97</a></td>
+		<td>San Miguel de Tucuman</td>
 		<td>418</td>
 	</tr>
 	<tr>
@@ -479,7 +479,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>Synadia </td>
 		<td><a href="https://twitter.com/thecodegangsta">thecodegangsta</a></td>
 		<td>Santa Ana CA</td>
-		<td>393</td>
+		<td>398</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -1103,10 +1103,23 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Miguel, Buenos Aires</td>
-		<td>157</td>
+		<td>159</td>
 	</tr>
 	<tr>
 		<td>78</td>
+		<td>
+			<a href="https://github.com/Mendoza-Matias">
+				<img src="https://avatars.githubusercontent.com/u/111383565?s=72&u=9e4e22c5cabe0c77fa1b0cc5cbdc2cd2175b569c&v=4" width="24" alt="Avatar of Mendoza-Matias"> Mendoza-Matias
+			</a><br/>
+			Matias 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Miguel </td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/JustinBui">
 				<img src="https://avatars.githubusercontent.com/u/56216778?s=72&u=b2856667cd05e40f3d84b2770bbd39b4b5f0201d&v=4" width="24" alt="Avatar of JustinBui"> JustinBui
@@ -1119,7 +1132,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/josueayala27">
 				<img src="https://avatars.githubusercontent.com/u/44786998?s=72&u=f62bfb0955854f0d8bd2c62ca1b255e30646422d&v=4" width="24" alt="Avatar of josueayala27"> josueayala27
@@ -1132,7 +1145,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/devmattrick">
 				<img src="https://avatars.githubusercontent.com/u/5848320?s=72&u=806d700e10307ae4ffaeb8db450d7a6b150a96c6&v=4" width="24" alt="Avatar of devmattrick"> devmattrick
@@ -1145,7 +1158,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/Danield05">
 				<img src="https://avatars.githubusercontent.com/u/117314016?s=72&u=8e686927b602df458dab15f504a7f6c07e11680e&v=4" width="24" alt="Avatar of Danield05"> Danield05
@@ -1158,7 +1171,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/Cotto213">
 				<img src="https://avatars.githubusercontent.com/u/61715791?s=72&u=41dc94250a605d0e02c9ab6eb43d962be2e625f5&v=4" width="24" alt="Avatar of Cotto213"> Cotto213
@@ -1168,19 +1181,6 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>Universidad Don Bosco </td>
 		<td><a href="https://twitter.com/aafcotto">aafcotto</a></td>
 		<td>San Salvador</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
-			<a href="https://github.com/Mendoza-Matias">
-				<img src="https://avatars.githubusercontent.com/u/111383565?s=72&u=9e4e22c5cabe0c77fa1b0cc5cbdc2cd2175b569c&v=4" width="24" alt="Avatar of Mendoza-Matias"> Mendoza-Matias
-			</a><br/>
-			Matias 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Miguel </td>
 		<td>154</td>
 	</tr>
 	<tr>
@@ -2317,19 +2317,6 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 	<tr>
 		<td>171</td>
 		<td>
-			<a href="https://github.com/FrancoSanchez2022">
-				<img src="https://avatars.githubusercontent.com/u/106325232?s=72&u=4cc86c7b379d00d33badb2e02dd357b647acc6a4&v=4" width="24" alt="Avatar of FrancoSanchez2022"> FrancoSanchez2022
-			</a><br/>
-			Franco Sanchez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Miguel, Buenos Aires</td>
-		<td>70</td>
-	</tr>
-	<tr>
-		<td>172</td>
-		<td>
 			<a href="https://github.com/pablonicolasr">
 				<img src="https://avatars.githubusercontent.com/u/43579638?s=72&u=2f56700f71d0ebe442ec0f2b076858c6525e3a95&v=4" width="24" alt="Avatar of pablonicolasr"> pablonicolasr
 			</a><br/>
@@ -2338,6 +2325,19 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>Vlinderbox </td>
 		<td><a href="https://twitter.com/pablonramos1">pablonramos1</a></td>
 		<td>San Salvador de Jujuy</td>
+		<td>71</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
+			<a href="https://github.com/FrancoSanchez2022">
+				<img src="https://avatars.githubusercontent.com/u/106325232?s=72&u=4cc86c7b379d00d33badb2e02dd357b647acc6a4&v=4" width="24" alt="Avatar of FrancoSanchez2022"> FrancoSanchez2022
+			</a><br/>
+			Franco Sanchez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Miguel, Buenos Aires</td>
 		<td>70</td>
 	</tr>
 	<tr>
@@ -2811,6 +2811,19 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 	<tr>
 		<td>209</td>
 		<td>
+			<a href="https://github.com/Exodimus">
+				<img src="https://avatars.githubusercontent.com/u/69990325?s=72&u=7af2aeda1d141ca3c628f9dee468c175d9587d43&v=4" width="24" alt="Avatar of Exodimus"> Exodimus
+			</a><br/>
+			Jorge Miguel
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Salvador</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
 			<a href="https://github.com/mayen23309">
 				<img src="https://avatars.githubusercontent.com/u/54299510?s=72&u=910c49ef2ca6f9a4c0b28e122f831df00469cc84&v=4" width="24" alt="Avatar of mayen23309"> mayen23309
 			</a><br/>
@@ -2822,7 +2835,20 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>211</td>
+		<td>
+			<a href="https://github.com/MateoBaravalle">
+				<img src="https://avatars.githubusercontent.com/u/76018341?s=72&v=4" width="24" alt="Avatar of MateoBaravalle"> MateoBaravalle
+			</a><br/>
+			Mateo Baravalle
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Miguel de Tucuman</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/mmedinasv05">
 				<img src="https://avatars.githubusercontent.com/u/45176841?s=72&u=2f007144ddcc02965df707a269b2dbc4b2adb8b0&v=4" width="24" alt="Avatar of mmedinasv05"> mmedinasv05
@@ -2835,7 +2861,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/FSichi">
 				<img src="https://avatars.githubusercontent.com/u/68669763?s=72&u=b82888b4abcd3e26cdb2f41efab91b2da7275e82&v=4" width="24" alt="Avatar of FSichi"> FSichi
@@ -2846,32 +2872,6 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>No Twitter Username</td>
 		<td>San Miguel de Tucuman, Tucuman, Argentina.</td>
 		<td>49</td>
-	</tr>
-	<tr>
-		<td>212</td>
-		<td>
-			<a href="https://github.com/Exodimus">
-				<img src="https://avatars.githubusercontent.com/u/69990325?s=72&u=7af2aeda1d141ca3c628f9dee468c175d9587d43&v=4" width="24" alt="Avatar of Exodimus"> Exodimus
-			</a><br/>
-			Jorge Miguel
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Salvador</td>
-		<td>48</td>
-	</tr>
-	<tr>
-		<td>213</td>
-		<td>
-			<a href="https://github.com/MateoBaravalle">
-				<img src="https://avatars.githubusercontent.com/u/76018341?s=72&v=4" width="24" alt="Avatar of MateoBaravalle"> MateoBaravalle
-			</a><br/>
-			Mateo Baravalle
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Miguel de Tucuman</td>
-		<td>48</td>
 	</tr>
 	<tr>
 		<td>214</td>
@@ -4059,6 +4059,19 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 	<tr>
 		<td>305</td>
 		<td>
+			<a href="https://github.com/DavidAyala503">
+				<img src="https://avatars.githubusercontent.com/u/82042698?s=72&u=b57ca322d745ce5a3ba5d15f52cb469835917dc1&v=4" width="24" alt="Avatar of DavidAyala503"> DavidAyala503
+			</a><br/>
+			David Ayala
+		</td>
+		<td>Universidad Tecnológica De El<br/>Salvador<br/><br/></td>
+		<td><a href="https://twitter.com/DavidAyalaR1">DavidAyalaR1</a></td>
+		<td>San Salvador, El Salvador</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
 			<a href="https://github.com/nhulox97">
 				<img src="https://avatars.githubusercontent.com/u/36805903?s=72&u=3bccebec7416c9fea796dca7497bc99eefff4b34&v=4" width="24" alt="Avatar of nhulox97"> nhulox97
 			</a><br/>
@@ -4070,7 +4083,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/Presii">
 				<img src="https://avatars.githubusercontent.com/u/10994084?s=72&u=837db756f461c8c720db8da009d80dd042e98eec&v=4" width="24" alt="Avatar of Presii"> Presii
@@ -4083,7 +4096,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/raarevalo96">
 				<img src="https://avatars.githubusercontent.com/u/33340107?s=72&u=2639bc92cc817f505594e0c0e3058b521e1d28ab&v=4" width="24" alt="Avatar of raarevalo96"> raarevalo96
@@ -4096,7 +4109,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/ChristianVlad">
 				<img src="https://avatars.githubusercontent.com/u/61268729?s=72&v=4" width="24" alt="Avatar of ChristianVlad"> ChristianVlad
@@ -4109,7 +4122,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/MierezAugusto">
 				<img src="https://avatars.githubusercontent.com/u/85651836?s=72&u=0a6a7c39fca20a125e03cff60baae1bcc52e11b8&v=4" width="24" alt="Avatar of MierezAugusto"> MierezAugusto
@@ -4122,7 +4135,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>310</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/kevingeogarcia">
 				<img src="https://avatars.githubusercontent.com/u/38563386?s=72&u=2edb471415e83c1183851e1fffc730c4822ab04d&v=4" width="24" alt="Avatar of kevingeogarcia"> kevingeogarcia
@@ -4135,7 +4148,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/Sonyx17">
 				<img src="https://avatars.githubusercontent.com/u/140350870?s=72&u=4636d6aa77782e10233d9b2e158854d1c4d0e896&v=4" width="24" alt="Avatar of Sonyx17"> Sonyx17
@@ -4148,7 +4161,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/bruno-avila21">
 				<img src="https://avatars.githubusercontent.com/u/82076482?s=72&u=f37cae27b502cf761394680036d1d00aea84e134&v=4" width="24" alt="Avatar of bruno-avila21"> bruno-avila21
@@ -4161,7 +4174,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/ken-brown">
 				<img src="https://avatars.githubusercontent.com/u/6101370?s=72&u=232643943e9b2d11f7316d63745c27bdde047b2f&v=4" width="24" alt="Avatar of ken-brown"> ken-brown
@@ -4174,7 +4187,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>315</td>
 		<td>
 			<a href="https://github.com/SantiagoCernadas">
 				<img src="https://avatars.githubusercontent.com/u/70312781?s=72&u=75776655b359013dcd1f9c1335fa9d6e5fa7d53d&v=4" width="24" alt="Avatar of SantiagoCernadas"> SantiagoCernadas
@@ -4187,7 +4200,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/dubsnipe">
 				<img src="https://avatars.githubusercontent.com/u/599959?s=72&u=3a7fa25ccd1e65f7aa31cba198b79bd4d7ef411a&v=4" width="24" alt="Avatar of dubsnipe"> dubsnipe
@@ -4200,7 +4213,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/StanleyTorres">
 				<img src="https://avatars.githubusercontent.com/u/56464058?s=72&u=0e3ba9360beae1597d386e362cd6d5cb3e953fd6&v=4" width="24" alt="Avatar of StanleyTorres"> StanleyTorres
@@ -4213,7 +4226,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/Kallahans21">
 				<img src="https://avatars.githubusercontent.com/u/77999591?s=72&u=a9aaaa94c730e652c0464b7a14ac896a642947cf&v=4" width="24" alt="Avatar of Kallahans21"> Kallahans21
@@ -4226,7 +4239,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/diggity801">
 				<img src="https://avatars.githubusercontent.com/u/4187168?s=72&u=d88fa628141db47ed73d75b6205a410a16a73b33&v=4" width="24" alt="Avatar of diggity801"> diggity801
@@ -4239,7 +4252,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/Ernesto-Gregori">
 				<img src="https://avatars.githubusercontent.com/u/46912758?s=72&v=4" width="24" alt="Avatar of Ernesto-Gregori"> Ernesto-Gregori
@@ -4252,7 +4265,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/cabrerafrancisco">
 				<img src="https://avatars.githubusercontent.com/u/45265068?s=72&u=d85c247affef4acf0415da39e3e75ac363ec035d&v=4" width="24" alt="Avatar of cabrerafrancisco"> cabrerafrancisco
@@ -4265,7 +4278,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/Akyongpogi28">
 				<img src="https://avatars.githubusercontent.com/u/104346250?s=72&u=e0c88c85e1d96d7bd3581c3921a281db9297a083&v=4" width="24" alt="Avatar of Akyongpogi28"> Akyongpogi28
@@ -4278,7 +4291,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/marcelob12">
 				<img src="https://avatars.githubusercontent.com/u/59714489?s=72&u=8b78c5b9f3c147042a7b65703cb5de6dea05b230&v=4" width="24" alt="Avatar of marcelob12"> marcelob12
@@ -4291,7 +4304,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/HGAteam">
 				<img src="https://avatars.githubusercontent.com/u/54682400?s=72&u=19ce91df48decb9c2e42e9b9437d0258651bfd83&v=4" width="24" alt="Avatar of HGAteam"> HGAteam
@@ -4304,7 +4317,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/enzojuarez92">
 				<img src="https://avatars.githubusercontent.com/u/63736212?s=72&u=bb49a78d04d2131a947cc8a5471b7127c492ef4a&v=4" width="24" alt="Avatar of enzojuarez92"> enzojuarez92
@@ -4317,7 +4330,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/victorok17">
 				<img src="https://avatars.githubusercontent.com/u/109565598?s=72&u=97cdb22c97b269d10c1b7038b549185336edf817&v=4" width="24" alt="Avatar of victorok17"> victorok17
@@ -4330,7 +4343,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/alej0se">
 				<img src="https://avatars.githubusercontent.com/u/138629061?s=72&u=b2362d57ccd737663b7254e6a26c093cf882c1ce&v=4" width="24" alt="Avatar of alej0se"> alej0se
@@ -4343,7 +4356,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/DavidGalileo24">
 				<img src="https://avatars.githubusercontent.com/u/86960966?s=72&u=a7f1b0c920fffc15a73e0c4faaef25ab9be545c0&v=4" width="24" alt="Avatar of DavidGalileo24"> DavidGalileo24
@@ -4356,7 +4369,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/renzolasquera">
 				<img src="https://avatars.githubusercontent.com/u/114465427?s=72&u=c0ca0e933bf8587a3ce7371b9bab2250ec0b3e2b&v=4" width="24" alt="Avatar of renzolasquera"> renzolasquera
@@ -4369,7 +4382,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/Ibrandan">
 				<img src="https://avatars.githubusercontent.com/u/105253055?s=72&v=4" width="24" alt="Avatar of Ibrandan"> Ibrandan
@@ -4382,7 +4395,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/natanaelDominguez28">
 				<img src="https://avatars.githubusercontent.com/u/16432115?s=72&u=78adcf6ad6bfadedc02f3efdea7d930adb1c37f6&v=4" width="24" alt="Avatar of natanaelDominguez28"> natanaelDominguez28
@@ -4395,7 +4408,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/EURosales">
 				<img src="https://avatars.githubusercontent.com/u/41809453?s=72&u=0f10e2c31bcaaca3d4a3edfe80513902ecaefefd&v=4" width="24" alt="Avatar of EURosales"> EURosales
@@ -4408,7 +4421,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/rominagarciarojas">
 				<img src="https://avatars.githubusercontent.com/u/72225415?s=72&u=1390bf856f1c283c8cf5dd9f9405e607508ad815&v=4" width="24" alt="Avatar of rominagarciarojas"> rominagarciarojas
@@ -4421,7 +4434,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/alexislopezdev">
 				<img src="https://avatars.githubusercontent.com/u/76917200?s=72&u=36b7641b3472db97b202e6f178bae7273649c3f6&v=4" width="24" alt="Avatar of alexislopezdev"> alexislopezdev
@@ -4434,7 +4447,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/Henry-Cardona">
 				<img src="https://avatars.githubusercontent.com/u/69940894?s=72&u=f1a7833e4b5b4b8b01a3f309e2a8aca49cb8c5d3&v=4" width="24" alt="Avatar of Henry-Cardona"> Henry-Cardona
@@ -4447,7 +4460,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/sofi-24soto">
 				<img src="https://avatars.githubusercontent.com/u/38234517?s=72&u=a60e3e2cb30c4e721e436fe3769fa4a9ffb70c2a&v=4" width="24" alt="Avatar of sofi-24soto"> sofi-24soto
@@ -4460,7 +4473,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>336</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/Lucasrichards19">
 				<img src="https://avatars.githubusercontent.com/u/112177589?s=72&v=4" width="24" alt="Avatar of Lucasrichards19"> Lucasrichards19
@@ -4473,7 +4486,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/erjosara8916">
 				<img src="https://avatars.githubusercontent.com/u/39475739?s=72&u=d12d089a3a492dc7153a82a1b52522e09c1b767a&v=4" width="24" alt="Avatar of erjosara8916"> erjosara8916
@@ -4486,7 +4499,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/Alexander-Luna">
 				<img src="https://avatars.githubusercontent.com/u/106166555?s=72&v=4" width="24" alt="Avatar of Alexander-Luna"> Alexander-Luna
@@ -4499,7 +4512,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/andreayalad">
 				<img src="https://avatars.githubusercontent.com/u/36248011?s=72&u=cfffea45a61aef44099f0f945b0e9715224ab4b9&v=4" width="24" alt="Avatar of andreayalad"> andreayalad
@@ -4512,7 +4525,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/jmbross">
 				<img src="https://avatars.githubusercontent.com/u/95294025?s=72&u=9f0d6810294cd1917a3ae1e5fc13c12e3f6c0946&v=4" width="24" alt="Avatar of jmbross"> jmbross
@@ -4525,7 +4538,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/BryanRogel">
 				<img src="https://avatars.githubusercontent.com/u/38388048?s=72&u=ed88651de26675ba150db8545bcc93807f0eef47&v=4" width="24" alt="Avatar of BryanRogel"> BryanRogel
@@ -4538,7 +4551,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/marioconti">
 				<img src="https://avatars.githubusercontent.com/u/73957531?s=72&u=170aaadec2da88c3996b56df110085edccf7ede6&v=4" width="24" alt="Avatar of marioconti"> marioconti
@@ -4551,7 +4564,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/dubiweb1">
 				<img src="https://avatars.githubusercontent.com/u/91283512?s=72&u=39bc82f3b4aea3c922085c0716b0d0fcc0dcb949&v=4" width="24" alt="Avatar of dubiweb1"> dubiweb1
@@ -4564,7 +4577,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/julioolivares90">
 				<img src="https://avatars.githubusercontent.com/u/60302770?s=72&u=71dc78a7dc0cb71c6bab030b3a7aeb43c90e604a&v=4" width="24" alt="Avatar of julioolivares90"> julioolivares90
@@ -4577,7 +4590,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/kevinDuran247">
 				<img src="https://avatars.githubusercontent.com/u/101837764?s=72&u=9356623ccc1e6d82e62abc3ee256e1bbd3bdd0f9&v=4" width="24" alt="Avatar of kevinDuran247"> kevinDuran247
@@ -4590,7 +4603,7 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/laea51">
 				<img src="https://avatars.githubusercontent.com/u/41549092?s=72&u=a6e797bc6b93e99eed39b1949115b0871499c673&v=4" width="24" alt="Avatar of laea51"> laea51
@@ -4599,19 +4612,6 @@ There are `982 users`  in El Salvador. You need at least `0 followers` to be on 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>San Salvador, El Salvador</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/DavidAyala503">
-				<img src="https://avatars.githubusercontent.com/u/82042698?s=72&u=b57ca322d745ce5a3ba5d15f52cb469835917dc1&v=4" width="24" alt="Avatar of DavidAyala503"> DavidAyala503
-			</a><br/>
-			David Ayala
-		</td>
-		<td>Universidad Tecnológica De El<br/>Salvador<br/><br/></td>
-		<td><a href="https://twitter.com/DavidAyalaR1">DavidAyalaR1</a></td>
 		<td>San Salvador, El Salvador</td>
 		<td>15</td>
 	</tr>
