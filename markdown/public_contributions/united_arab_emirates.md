@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" alt="United Arab Emirates">
 </a>
 
-The `public contributions` by users in United Arab Emirates on `2023/11/5 11:50 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
+The `public contributions` by users in United Arab Emirates on `2023/11/6 5:05 AM UTC`. This list contains users from `United Arab Emirates` and cities `Dubai` `Sharjah` `Ajman`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `57 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>Datapatrol </td>
 		<td>No Twitter Username</td>
 		<td>Dubai</td>
-		<td>496</td>
+		<td>489</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `57 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>@qintot @website-et @epicgames <br/></td>
 		<td><a href="https://twitter.com/BamlakEndal">BamlakEndal</a></td>
 		<td>Dubai, UAE</td>
-		<td>131</td>
+		<td>128</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -354,19 +354,6 @@ There are `57 users`  in United Arab Emirates. You need at least `0 followers` t
 	<tr>
 		<td>20</td>
 		<td>
-			<a href="https://github.com/multiwo">
-				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
-			</a><br/>
-			Multi wood
-		</td>
-		<td>Multiwood </td>
-		<td>No Twitter Username</td>
-		<td>dubai</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>
 			<a href="https://github.com/theaccountantllc">
 				<img src="https://avatars.githubusercontent.com/u/149769163?s=72&v=4" width="24" alt="Avatar of theaccountantllc"> theaccountantllc
 			</a><br/>
@@ -375,6 +362,19 @@ There are `57 users`  in United Arab Emirates. You need at least `0 followers` t
 		<td>The Accountant  </td>
 		<td><a href="https://twitter.com/accountantuae">accountantuae</a></td>
 		<td>1502 BLUE BAY TOWER 1512, BUSINESS BAY, DUBAI UAE</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/multiwo">
+				<img src="https://avatars.githubusercontent.com/u/132578717?s=72&v=4" width="24" alt="Avatar of multiwo"> multiwo
+			</a><br/>
+			Multi wood
+		</td>
+		<td>Multiwood </td>
+		<td>No Twitter Username</td>
+		<td>dubai</td>
 		<td>1</td>
 	</tr>
 	<tr>
