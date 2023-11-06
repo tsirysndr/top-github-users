@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" alt="Oman">
 </a>
 
-The `public contributions` by users in Oman on `2023/11/6 12:39 AM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
+The `public contributions` by users in Oman on `2023/11/6 6:34 PM UTC`. This list contains users from `Oman` and cities `Muscat` `Salalah` `Nizwa` `Sohar` `Seeb`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -375,7 +375,7 @@ There are `935 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Muscat, Oman</td>
-		<td>193</td>
+		<td>195</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -596,7 +596,7 @@ There are `935 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>Buc </td>
 		<td>No Twitter Username</td>
 		<td>Oman</td>
-		<td>129</td>
+		<td>130</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -1836,6 +1836,19 @@ There are `935 users`  in Oman. You need at least `0 followers` to be on this li
 	<tr>
 		<td>134</td>
 		<td>
+			<a href="https://github.com/crushingxom">
+				<img src="https://avatars.githubusercontent.com/u/44071351?s=72&u=e9e82d94b13e0c87654e36cf3482252d3c47237a&v=4" width="24" alt="Avatar of crushingxom"> crushingxom
+			</a><br/>
+			CrUsHiNg
+		</td>
+		<td>Pirates Linux Organization </td>
+		<td><a href="https://twitter.com/0xBl4ck">0xBl4ck</a></td>
+		<td>Oman</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>135</td>
+		<td>
 			<a href="https://github.com/Hebah9886">
 				<img src="https://avatars.githubusercontent.com/u/97502205?s=72&u=be3fc40b93c033ee781fb85305bc6e2d0a23ace8&v=4" width="24" alt="Avatar of Hebah9886"> Hebah9886
 			</a><br/>
@@ -1847,7 +1860,7 @@ There are `935 users`  in Oman. You need at least `0 followers` to be on this li
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/makeengit">
 				<img src="https://avatars.githubusercontent.com/u/130405804?s=72&v=4" width="24" alt="Avatar of makeengit"> makeengit
@@ -1856,19 +1869,6 @@ There are `935 users`  in Oman. You need at least `0 followers` to be on this li
 		</td>
 		<td>Code Academy </td>
 		<td>No Twitter Username</td>
-		<td>Oman</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>136</td>
-		<td>
-			<a href="https://github.com/crushingxom">
-				<img src="https://avatars.githubusercontent.com/u/44071351?s=72&u=e9e82d94b13e0c87654e36cf3482252d3c47237a&v=4" width="24" alt="Avatar of crushingxom"> crushingxom
-			</a><br/>
-			CrUsHiNg
-		</td>
-		<td>Pirates Linux Organization </td>
-		<td><a href="https://twitter.com/0xBl4ck">0xBl4ck</a></td>
 		<td>Oman</td>
 		<td>23</td>
 	</tr>
