@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" alt="New Zealand">
 </a>
 
-The `number of followers` of users in New Zealand on `2023/11/5 6:46 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
+The `number of followers` of users in New Zealand on `2023/11/6 12:05 AM UTC`. This list contains users from `New Zealand` and cities `Auckland` `Wellington` `Christchurch` `Dunedin`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland</td>
-		<td>13073</td>
+		<td>13074</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -323,7 +323,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>@rust-in-action  </td>
 		<td><a href="https://twitter.com/timClicks">timClicks</a></td>
 		<td>Wellington, New Zealand</td>
-		<td>527</td>
+		<td>529</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -471,6 +471,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>29</td>
 		<td>
+			<a href="https://github.com/Richienb">
+				<img src="https://avatars.githubusercontent.com/u/29491356?s=72&v=4" width="24" alt="Avatar of Richienb"> Richienb
+			</a><br/>
+			Richie Bendall
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/richienb2">richienb2</a></td>
+		<td>Auckland, New Zealand</td>
+		<td>340</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td>
 			<a href="https://github.com/kentfredric">
 				<img src="https://avatars.githubusercontent.com/u/44790?s=72&v=4" width="24" alt="Avatar of kentfredric"> kentfredric
 			</a><br/>
@@ -480,19 +493,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Christchurch, New Zealand</td>
 		<td>340</td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>
-			<a href="https://github.com/Richienb">
-				<img src="https://avatars.githubusercontent.com/u/29491356?s=72&v=4" width="24" alt="Avatar of Richienb"> Richienb
-			</a><br/>
-			Richie Bendall
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/richienb2">richienb2</a></td>
-		<td>Auckland, New Zealand</td>
-		<td>339</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -505,7 +505,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vuong">vuong</a></td>
 		<td>Auckland, New Zealand</td>
-		<td>330</td>
+		<td>331</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -947,7 +947,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
-		<td>184</td>
+		<td>183</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1927,6 +1927,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>141</td>
 		<td>
+			<a href="https://github.com/gregsdennis">
+				<img src="https://avatars.githubusercontent.com/u/2676804?s=72&v=4" width="24" alt="Avatar of gregsdennis"> gregsdennis
+			</a><br/>
+			Greg Dennis
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Auckland, NZ, Earth, Sector ZZ9 Plural Z Alpha</td>
+		<td>91</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
 			<a href="https://github.com/Protoneer">
 				<img src="https://avatars.githubusercontent.com/u/3835171?s=72&v=4" width="24" alt="Avatar of Protoneer"> Protoneer
 			</a><br/>
@@ -1938,7 +1951,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>143</td>
 		<td>
 			<a href="https://github.com/zhoubass">
 				<img src="https://avatars.githubusercontent.com/u/61225349?s=72&u=ee42f7cf42ffbd90c38930e324a355d7f1ecb9a5&v=4" width="24" alt="Avatar of zhoubass"> zhoubass
@@ -1949,19 +1962,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Auckland</td>
 		<td>91</td>
-	</tr>
-	<tr>
-		<td>143</td>
-		<td>
-			<a href="https://github.com/gregsdennis">
-				<img src="https://avatars.githubusercontent.com/u/2676804?s=72&v=4" width="24" alt="Avatar of gregsdennis"> gregsdennis
-			</a><br/>
-			Greg Dennis
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Auckland, NZ, Earth, Sector ZZ9 Plural Z Alpha</td>
-		<td>90</td>
 	</tr>
 	<tr>
 		<td>144</td>
@@ -2967,19 +2967,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>221</td>
 		<td>
-			<a href="https://github.com/davidcole1340">
-				<img src="https://avatars.githubusercontent.com/u/991872?s=72&u=4031f7b82b007d7bc4390dd5015a898593055443&v=4" width="24" alt="Avatar of davidcole1340"> davidcole1340
-			</a><br/>
-			David Cole
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>65</td>
-	</tr>
-	<tr>
-		<td>222</td>
-		<td>
 			<a href="https://github.com/alexkorban">
 				<img src="https://avatars.githubusercontent.com/u/128337?s=72&v=4" width="24" alt="Avatar of alexkorban"> alexkorban
 			</a><br/>
@@ -2988,6 +2975,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Korban.net </td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>222</td>
+		<td>
+			<a href="https://github.com/davidcole1340">
+				<img src="https://avatars.githubusercontent.com/u/991872?s=72&u=4031f7b82b007d7bc4390dd5015a898593055443&v=4" width="24" alt="Avatar of davidcole1340"> davidcole1340
+			</a><br/>
+			David Cole
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
 		<td>65</td>
 	</tr>
 	<tr>
@@ -3955,6 +3955,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>297</td>
 		<td>
+			<a href="https://github.com/grantm">
+				<img src="https://avatars.githubusercontent.com/u/39456?s=72&v=4" width="24" alt="Avatar of grantm"> grantm
+			</a><br/>
+			Grant McLean
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/grantmnz">grantmnz</a></td>
+		<td>Wellington, New Zealand</td>
+		<td>52</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
 			<a href="https://github.com/makoConstruct">
 				<img src="https://avatars.githubusercontent.com/u/346569?s=72&u=45caddadfd82263cbd984a3e98c51098ef01c94c&v=4" width="24" alt="Avatar of makoConstruct"> makoConstruct
 			</a><br/>
@@ -3966,7 +3979,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/Grayson-Orr">
 				<img src="https://avatars.githubusercontent.com/u/22671392?s=72&u=3b555b7395407483a92b2373a5bd984211de4c9a&v=4" width="24" alt="Avatar of Grayson-Orr"> Grayson-Orr
@@ -3979,7 +3992,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/eamars">
 				<img src="https://avatars.githubusercontent.com/u/973159?s=72&u=2a0feff74921147c7ec5f82c86dac674e638e114&v=4" width="24" alt="Avatar of eamars"> eamars
@@ -3992,7 +4005,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/ebanner">
 				<img src="https://avatars.githubusercontent.com/u/2068912?s=72&v=4" width="24" alt="Avatar of ebanner"> ebanner
@@ -4002,19 +4015,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Dunedin, FL</td>
-		<td>51</td>
-	</tr>
-	<tr>
-		<td>301</td>
-		<td>
-			<a href="https://github.com/grantm">
-				<img src="https://avatars.githubusercontent.com/u/39456?s=72&v=4" width="24" alt="Avatar of grantm"> grantm
-			</a><br/>
-			Grant McLean
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/grantmnz">grantmnz</a></td>
-		<td>Wellington, New Zealand</td>
 		<td>51</td>
 	</tr>
 	<tr>
@@ -4449,19 +4449,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>335</td>
 		<td>
-			<a href="https://github.com/nrkn">
-				<img src="https://avatars.githubusercontent.com/u/607925?s=72&u=1d549ade69dd53693a2796a05dbc765674e20aad&v=4" width="24" alt="Avatar of nrkn"> nrkn
-			</a><br/>
-			Nik 
-		</td>
-		<td>Information Age Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>46</td>
-	</tr>
-	<tr>
-		<td>336</td>
-		<td>
 			<a href="https://github.com/emilyparkes">
 				<img src="https://avatars.githubusercontent.com/u/30305644?s=72&v=4" width="24" alt="Avatar of emilyparkes"> emilyparkes
 			</a><br/>
@@ -4473,7 +4460,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/mjs">
 				<img src="https://avatars.githubusercontent.com/u/14993?s=72&v=4" width="24" alt="Avatar of mjs"> mjs
@@ -4486,7 +4473,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/zjfheart">
 				<img src="https://avatars.githubusercontent.com/u/10344081?s=72&u=001709a6c7d595b3c3aa54c5f8e0db1257a96a6d&v=4" width="24" alt="Avatar of zjfheart"> zjfheart
@@ -4499,7 +4486,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/psiphi75">
 				<img src="https://avatars.githubusercontent.com/u/2125796?s=72&u=d4b904c0306dbc4f66a0d06f74634b8e3ba2bffd&v=4" width="24" alt="Avatar of psiphi75"> psiphi75
@@ -4512,7 +4499,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/ben-biddington">
 				<img src="https://avatars.githubusercontent.com/u/32415?s=72&v=4" width="24" alt="Avatar of ben-biddington"> ben-biddington
@@ -4525,7 +4512,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/hyjk2000">
 				<img src="https://avatars.githubusercontent.com/u/4647136?s=72&u=86921ac7c043a9885c1d89d07c0bc20cf1f76288&v=4" width="24" alt="Avatar of hyjk2000"> hyjk2000
@@ -4538,7 +4525,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/HiruNya">
 				<img src="https://avatars.githubusercontent.com/u/20044495?s=72&u=8d60bc1a6151a10b929046f12d98031fb03f746d&v=4" width="24" alt="Avatar of HiruNya"> HiruNya
@@ -4551,7 +4538,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/adamreeve">
 				<img src="https://avatars.githubusercontent.com/u/626438?s=72&u=4f04c735f06e1374839ea23e8bf9d84e40a2ff3c&v=4" width="24" alt="Avatar of adamreeve"> adamreeve
@@ -4559,6 +4546,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 			Adam Reeve
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>343</td>
+		<td>
+			<a href="https://github.com/nrkn">
+				<img src="https://avatars.githubusercontent.com/u/607925?s=72&u=1d549ade69dd53693a2796a05dbc765674e20aad&v=4" width="24" alt="Avatar of nrkn"> nrkn
+			</a><br/>
+			Nik 
+		</td>
+		<td>Information Age Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>45</td>
@@ -4774,6 +4774,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>360</td>
 		<td>
+			<a href="https://github.com/justinlatimer">
+				<img src="https://avatars.githubusercontent.com/u/479785?s=72&v=4" width="24" alt="Avatar of justinlatimer"> justinlatimer
+			</a><br/>
+			Justin Latimer
+		</td>
+		<td>@atlassian </td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>361</td>
+		<td>
 			<a href="https://github.com/sleemanj">
 				<img src="https://avatars.githubusercontent.com/u/207209?s=72&u=8332fd71fd402a52522e4cf933f02e424c25cac4&v=4" width="24" alt="Avatar of sleemanj"> sleemanj
 			</a><br/>
@@ -4785,7 +4798,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>362</td>
 		<td>
 			<a href="https://github.com/zinwalin">
 				<img src="https://avatars.githubusercontent.com/u/5416196?s=72&u=a56c9922c925a0bb363debaf9f1d27487d3d39aa&v=4" width="24" alt="Avatar of zinwalin"> zinwalin
@@ -4798,7 +4811,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>363</td>
 		<td>
 			<a href="https://github.com/barancw">
 				<img src="https://avatars.githubusercontent.com/u/1300552?s=72&v=4" width="24" alt="Avatar of barancw"> barancw
@@ -4811,7 +4824,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>364</td>
 		<td>
 			<a href="https://github.com/Passive">
 				<img src="https://avatars.githubusercontent.com/u/40716556?s=72&u=a1aa8af42522c0d11747efae64b79f832e02a88a&v=4" width="24" alt="Avatar of Passive"> Passive
@@ -4824,7 +4837,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/augusto-altman">
 				<img src="https://avatars.githubusercontent.com/u/7969511?s=72&u=47549e99487a10a4f1159df113ba47947a44d6f1&v=4" width="24" alt="Avatar of augusto-altman"> augusto-altman
@@ -4837,7 +4850,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/KiwiBryn">
 				<img src="https://avatars.githubusercontent.com/u/12842169?s=72&u=719d495a7e78ff0860bbcff6f1d0d502f27f8480&v=4" width="24" alt="Avatar of KiwiBryn"> KiwiBryn
@@ -4847,19 +4860,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Devmobile Software </td>
 		<td><a href="https://twitter.com/kiwibryn">kiwibryn</a></td>
 		<td>Christchurch, New Zealand</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>366</td>
-		<td>
-			<a href="https://github.com/bittercoder">
-				<img src="https://avatars.githubusercontent.com/u/156155?s=72&v=4" width="24" alt="Avatar of bittercoder"> bittercoder
-			</a><br/>
-			Alex Henderson
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/bittercoder">bittercoder</a></td>
-		<td>Auckland, New Zealand</td>
 		<td>43</td>
 	</tr>
 	<tr>
@@ -4878,6 +4878,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>368</td>
 		<td>
+			<a href="https://github.com/bittercoder">
+				<img src="https://avatars.githubusercontent.com/u/156155?s=72&v=4" width="24" alt="Avatar of bittercoder"> bittercoder
+			</a><br/>
+			Alex Henderson
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/bittercoder">bittercoder</a></td>
+		<td>Auckland, New Zealand</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
 			<a href="https://github.com/vkitchen">
 				<img src="https://avatars.githubusercontent.com/u/4065445?s=72&u=3e94b75fbd4c72d931fcd899d4b91f5430aca115&v=4" width="24" alt="Avatar of vkitchen"> vkitchen
 			</a><br/>
@@ -4889,7 +4902,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/mikblack">
 				<img src="https://avatars.githubusercontent.com/u/1858386?s=72&u=a1725b4396a84d6cee6789c66d9dc31da5c8424f&v=4" width="24" alt="Avatar of mikblack"> mikblack
@@ -4902,7 +4915,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/b-steve">
 				<img src="https://avatars.githubusercontent.com/u/924129?s=72&u=51193d0a03545d4e7f27833ccc2860ab53710ac1&v=4" width="24" alt="Avatar of b-steve"> b-steve
@@ -4910,19 +4923,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 			Ben Stevenson
 		</td>
 		<td>University Of Auckland </td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>371</td>
-		<td>
-			<a href="https://github.com/justinlatimer">
-				<img src="https://avatars.githubusercontent.com/u/479785?s=72&v=4" width="24" alt="Avatar of justinlatimer"> justinlatimer
-			</a><br/>
-			Justin Latimer
-		</td>
-		<td>@atlassian </td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>43</td>
@@ -5411,19 +5411,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>409</td>
 		<td>
-			<a href="https://github.com/efcaguab">
-				<img src="https://avatars.githubusercontent.com/u/8033969?s=72&u=790c4751975040e92674570ad5eab26206b1c1f7&v=4" width="24" alt="Avatar of efcaguab"> efcaguab
-			</a><br/>
-			Fernando Cagua
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Christchurch, New Zealand</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>410</td>
-		<td>
 			<a href="https://github.com/fede-rodes">
 				<img src="https://avatars.githubusercontent.com/u/16927407?s=72&u=3356706c4b94c22ab21dda94c90c8156a94cdd56&v=4" width="24" alt="Avatar of fede-rodes"> fede-rodes
 			</a><br/>
@@ -5432,6 +5419,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/efcaguab">
+				<img src="https://avatars.githubusercontent.com/u/8033969?s=72&u=790c4751975040e92674570ad5eab26206b1c1f7&v=4" width="24" alt="Avatar of efcaguab"> efcaguab
+			</a><br/>
+			Fernando Cagua
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Christchurch, New Zealand</td>
 		<td>38</td>
 	</tr>
 	<tr>
@@ -5710,12 +5710,12 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>432</td>
 		<td>
-			<a href="https://github.com/Tom-Alexander">
-				<img src="https://avatars.githubusercontent.com/u/1132330?s=72&v=4" width="24" alt="Avatar of Tom-Alexander"> Tom-Alexander
+			<a href="https://github.com/goriunov">
+				<img src="https://avatars.githubusercontent.com/u/18750503?s=72&u=2f5c09eefb02574f2a5a29b3321128e1c73d6ea9&v=4" width="24" alt="Avatar of goriunov"> goriunov
 			</a><br/>
-			Tom Alexander
+			Dmitrii G
 		</td>
-		<td>@caminoai </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>37</td>
@@ -5723,12 +5723,12 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>433</td>
 		<td>
-			<a href="https://github.com/goriunov">
-				<img src="https://avatars.githubusercontent.com/u/18750503?s=72&u=2f5c09eefb02574f2a5a29b3321128e1c73d6ea9&v=4" width="24" alt="Avatar of goriunov"> goriunov
+			<a href="https://github.com/Tom-Alexander">
+				<img src="https://avatars.githubusercontent.com/u/1132330?s=72&v=4" width="24" alt="Avatar of Tom-Alexander"> Tom-Alexander
 			</a><br/>
-			Dmitrii G
+			Tom Alexander
 		</td>
-		<td>No Company</td>
+		<td>@caminoai </td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>37</td>
@@ -5944,19 +5944,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>450</td>
 		<td>
-			<a href="https://github.com/pauln">
-				<img src="https://avatars.githubusercontent.com/u/574359?s=72&v=4" width="24" alt="Avatar of pauln"> pauln
-			</a><br/>
-			Paul Nicholls
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Christchurch, New Zealand</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>451</td>
-		<td>
 			<a href="https://github.com/jonathanbcsouza">
 				<img src="https://avatars.githubusercontent.com/u/25882133?s=72&u=d03f0fb007dc7182102b1165408a07b0790feaa4&v=4" width="24" alt="Avatar of jonathanbcsouza"> jonathanbcsouza
 			</a><br/>
@@ -5965,6 +5952,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td> Auckland, New Zealand</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>451</td>
+		<td>
+			<a href="https://github.com/pauln">
+				<img src="https://avatars.githubusercontent.com/u/574359?s=72&v=4" width="24" alt="Avatar of pauln"> pauln
+			</a><br/>
+			Paul Nicholls
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Christchurch, New Zealand</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -5996,19 +5996,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>454</td>
 		<td>
-			<a href="https://github.com/w84thesun">
-				<img src="https://avatars.githubusercontent.com/u/1074954?s=72&u=29dcfb0aa9c8730898d32e8218e2723e78493a59&v=4" width="24" alt="Avatar of w84thesun"> w84thesun
-			</a><br/>
-			Dmitry
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/w84thesun">w84thesun</a></td>
-		<td>Christchurch, UK</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>455</td>
-		<td>
 			<a href="https://github.com/micmania1">
 				<img src="https://avatars.githubusercontent.com/u/881537?s=72&v=4" width="24" alt="Avatar of micmania1"> micmania1
 			</a><br/>
@@ -6017,6 +6004,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>455</td>
+		<td>
+			<a href="https://github.com/w84thesun">
+				<img src="https://avatars.githubusercontent.com/u/1074954?s=72&u=29dcfb0aa9c8730898d32e8218e2723e78493a59&v=4" width="24" alt="Avatar of w84thesun"> w84thesun
+			</a><br/>
+			Dmitry
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/w84thesun">w84thesun</a></td>
+		<td>Christchurch, UK</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -6048,19 +6048,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>458</td>
 		<td>
-			<a href="https://github.com/harkanwals">
-				<img src="https://avatars.githubusercontent.com/u/33413881?s=72&u=04d4d5d253d7a14dfea61d5c8f37190698f38885&v=4" width="24" alt="Avatar of harkanwals"> harkanwals
-			</a><br/>
-			Harkanwal
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>459</td>
-		<td>
 			<a href="https://github.com/kendonB">
 				<img src="https://avatars.githubusercontent.com/u/5327505?s=72&u=3561faea2f6a445da1e13aaab3cf2cdeed5d2096&v=4" width="24" alt="Avatar of kendonB"> kendonB
 			</a><br/>
@@ -6069,6 +6056,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Scarlatti </td>
 		<td>No Twitter Username</td>
 		<td>Auckland, NZ</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
+			<a href="https://github.com/harkanwals">
+				<img src="https://avatars.githubusercontent.com/u/33413881?s=72&u=04d4d5d253d7a14dfea61d5c8f37190698f38885&v=4" width="24" alt="Avatar of harkanwals"> harkanwals
+			</a><br/>
+			Harkanwal
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -6126,19 +6126,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>464</td>
 		<td>
-			<a href="https://github.com/geoffleyland">
-				<img src="https://avatars.githubusercontent.com/u/691516?s=72&v=4" width="24" alt="Avatar of geoffleyland"> geoffleyland
-			</a><br/>
-			Geoff Leyland
-		</td>
-		<td>Incremental Ltd </td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>35</td>
-	</tr>
-	<tr>
-		<td>465</td>
-		<td>
 			<a href="https://github.com/OneSadCookie">
 				<img src="https://avatars.githubusercontent.com/u/37714?s=72&u=d204c4a024ef5173e69fd4c67f9d25e51f059fee&v=4" width="24" alt="Avatar of OneSadCookie"> OneSadCookie
 			</a><br/>
@@ -6150,7 +6137,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/daviribe">
 				<img src="https://avatars.githubusercontent.com/u/19349637?s=72&u=06c9b0de5a6adbda544a1f2d272afd0fb271c2aa&v=4" width="24" alt="Avatar of daviribe"> daviribe
@@ -6160,6 +6147,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>466</td>
+		<td>
+			<a href="https://github.com/geoffleyland">
+				<img src="https://avatars.githubusercontent.com/u/691516?s=72&v=4" width="24" alt="Avatar of geoffleyland"> geoffleyland
+			</a><br/>
+			Geoff Leyland
+		</td>
+		<td>Incremental Ltd </td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
 		<td>35</td>
 	</tr>
 	<tr>
@@ -6243,6 +6243,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>473</td>
 		<td>
+			<a href="https://github.com/abrokenjester">
+				<img src="https://avatars.githubusercontent.com/u/728776?s=72&v=4" width="24" alt="Avatar of abrokenjester"> abrokenjester
+			</a><br/>
+			Jeen Broekstra
+		</td>
+		<td>@cultureamp  </td>
+		<td>No Twitter Username</td>
+		<td>Wellington, New Zealand</td>
+		<td>34</td>
+	</tr>
+	<tr>
+		<td>474</td>
+		<td>
 			<a href="https://github.com/eoinkelly">
 				<img src="https://avatars.githubusercontent.com/u/599867?s=72&v=4" width="24" alt="Avatar of eoinkelly"> eoinkelly
 			</a><br/>
@@ -6254,7 +6267,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>474</td>
+		<td>475</td>
 		<td>
 			<a href="https://github.com/Yoda-Soda">
 				<img src="https://avatars.githubusercontent.com/u/25014150?s=72&u=65c530a9a0810129025332f81ec040e4cf6e2fc0&v=4" width="24" alt="Avatar of Yoda-Soda"> Yoda-Soda
@@ -6264,19 +6277,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Cloudcannon </td>
 		<td><a href="https://twitter.com/janclaasen">janclaasen</a></td>
 		<td>Dunedin</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>475</td>
-		<td>
-			<a href="https://github.com/abrokenjester">
-				<img src="https://avatars.githubusercontent.com/u/728776?s=72&v=4" width="24" alt="Avatar of abrokenjester"> abrokenjester
-			</a><br/>
-			Jeen Broekstra
-		</td>
-		<td>@cultureamp  </td>
-		<td>No Twitter Username</td>
-		<td>Wellington, New Zealand</td>
 		<td>34</td>
 	</tr>
 	<tr>
@@ -6529,19 +6529,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>495</td>
 		<td>
-			<a href="https://github.com/rbarraud">
-				<img src="https://avatars.githubusercontent.com/u/397042?s=72&u=abda0f9f7f64bd5ec6843a937f3e4872144f2622&v=4" width="24" alt="Avatar of rbarraud"> rbarraud
-			</a><br/>
-			Roger Barraud
-		</td>
-		<td>Robar Systems (new Zealand)<br/></td>
-		<td>No Twitter Username</td>
-		<td>Up a Mountain, of course - just like all good Guru's should be ;-) - Wellington, New Zealand</td>
-		<td>33</td>
-	</tr>
-	<tr>
-		<td>496</td>
-		<td>
 			<a href="https://github.com/mechatroNick">
 				<img src="https://avatars.githubusercontent.com/u/11700360?s=72&u=f56f97cdbd22b202f5880a2a4a132dda7b5c096b&v=4" width="24" alt="Avatar of mechatroNick"> mechatroNick
 			</a><br/>
@@ -6553,7 +6540,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/dznz">
 				<img src="https://avatars.githubusercontent.com/u/245206?s=72&u=9b9a6b3a9a80f16a598af57b93ef36c91569c1e1&v=4" width="24" alt="Avatar of dznz"> dznz
@@ -6563,6 +6550,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Free Agent </td>
 		<td><a href="https://twitter.com/dznz">dznz</a></td>
 		<td>Auckland, New Zealand</td>
+		<td>33</td>
+	</tr>
+	<tr>
+		<td>497</td>
+		<td>
+			<a href="https://github.com/rbarraud">
+				<img src="https://avatars.githubusercontent.com/u/397042?s=72&u=abda0f9f7f64bd5ec6843a937f3e4872144f2622&v=4" width="24" alt="Avatar of rbarraud"> rbarraud
+			</a><br/>
+			Roger Barraud
+		</td>
+		<td>Robar Systems (new Zealand)<br/></td>
+		<td>No Twitter Username</td>
+		<td>Up a Mountain, of course - just like all good Guru's should be ;-) - Wellington, New Zealand</td>
 		<td>33</td>
 	</tr>
 	<tr>
@@ -7374,19 +7374,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>560</td>
 		<td>
-			<a href="https://github.com/ScopeyNZ">
-				<img src="https://avatars.githubusercontent.com/u/3260989?s=72&u=e65dbed94a3c2c363dc5ed16028368197c779f2f&v=4" width="24" alt="Avatar of ScopeyNZ"> ScopeyNZ
-			</a><br/>
-			Guy Marriott
-		</td>
-		<td>@grindinggear </td>
-		<td>No Twitter Username</td>
-		<td>Auckland, NZ</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>561</td>
-		<td>
 			<a href="https://github.com/Maxdamantus">
 				<img src="https://avatars.githubusercontent.com/u/502805?s=72&v=4" width="24" alt="Avatar of Maxdamantus"> Maxdamantus
 			</a><br/>
@@ -7398,7 +7385,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>561</td>
 		<td>
 			<a href="https://github.com/karlbennett">
 				<img src="https://avatars.githubusercontent.com/u/135296?s=72&u=16598e7843e7a6ab8a745b399b0b0f5178f3f2ce&v=4" width="24" alt="Avatar of karlbennett"> karlbennett
@@ -7408,6 +7395,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland</td>
+		<td>30</td>
+	</tr>
+	<tr>
+		<td>562</td>
+		<td>
+			<a href="https://github.com/ScopeyNZ">
+				<img src="https://avatars.githubusercontent.com/u/3260989?s=72&u=e65dbed94a3c2c363dc5ed16028368197c779f2f&v=4" width="24" alt="Avatar of ScopeyNZ"> ScopeyNZ
+			</a><br/>
+			Guy Marriott
+		</td>
+		<td>@grindinggear </td>
+		<td>No Twitter Username</td>
+		<td>Auckland, NZ</td>
 		<td>30</td>
 	</tr>
 	<tr>
@@ -7751,10 +7751,10 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>589</td>
 		<td>
-			<a href="https://github.com/kuahyeow">
-				<img src="https://avatars.githubusercontent.com/u/16723?s=72&u=9126c751b27da1542c84195ab750bdfae7c61bef&v=4" width="24" alt="Avatar of kuahyeow"> kuahyeow
+			<a href="https://github.com/akampjes">
+				<img src="https://avatars.githubusercontent.com/u/196615?s=72&u=006b52e3e05cc51a67ddb140b7a66b76bdd8f6fd&v=4" width="24" alt="Avatar of akampjes"> akampjes
 			</a><br/>
-			Thong Kuah
+			Andrew Kampjes
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -7764,10 +7764,10 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>590</td>
 		<td>
-			<a href="https://github.com/akampjes">
-				<img src="https://avatars.githubusercontent.com/u/196615?s=72&u=006b52e3e05cc51a67ddb140b7a66b76bdd8f6fd&v=4" width="24" alt="Avatar of akampjes"> akampjes
+			<a href="https://github.com/kuahyeow">
+				<img src="https://avatars.githubusercontent.com/u/16723?s=72&u=9126c751b27da1542c84195ab750bdfae7c61bef&v=4" width="24" alt="Avatar of kuahyeow"> kuahyeow
 			</a><br/>
-			Andrew Kampjes
+			Thong Kuah
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8128,19 +8128,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>618</td>
 		<td>
-			<a href="https://github.com/n8-dev">
-				<img src="https://avatars.githubusercontent.com/u/11827838?s=72&u=a65a5ec42a6b262487ba02613a4540a6e3e0f2cf&v=4" width="24" alt="Avatar of n8-dev"> n8-dev
-			</a><br/>
-			Nate Devereux
-		</td>
-		<td>@silverstripe @silverstripeltd </td>
-		<td>No Twitter Username</td>
-		<td>Auckland</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>619</td>
-		<td>
 			<a href="https://github.com/davidgarywood">
 				<img src="https://avatars.githubusercontent.com/u/5118734?s=72&u=2d72679a44c3ed1e5d4deb8d266c666614543e4b&v=4" width="24" alt="Avatar of davidgarywood"> davidgarywood
 			</a><br/>
@@ -8149,6 +8136,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Lightbeam Apps </td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a href="https://github.com/n8-dev">
+				<img src="https://avatars.githubusercontent.com/u/11827838?s=72&u=a65a5ec42a6b262487ba02613a4540a6e3e0f2cf&v=4" width="24" alt="Avatar of n8-dev"> n8-dev
+			</a><br/>
+			Nate Devereux
+		</td>
+		<td>@silverstripe @silverstripeltd </td>
+		<td>No Twitter Username</td>
+		<td>Auckland</td>
 		<td>27</td>
 	</tr>
 	<tr>
@@ -8557,19 +8557,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>651</td>
 		<td>
-			<a href="https://github.com/drfknoble">
-				<img src="https://avatars.githubusercontent.com/u/15025021?s=72&u=5bf52e9e4f4761b3721665b0f5072f33d5f86a59&v=4" width="24" alt="Avatar of drfknoble"> drfknoble
-			</a><br/>
-			Frazer Noble
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/drfknoble">drfknoble</a></td>
-		<td>Auckland, New Zealand.</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>652</td>
-		<td>
 			<a href="https://github.com/cwbaker">
 				<img src="https://avatars.githubusercontent.com/u/681179?s=72&u=b2ca5fe9bc6188613aff950678e8a85446a798d6&v=4" width="24" alt="Avatar of cwbaker"> cwbaker
 			</a><br/>
@@ -8578,6 +8565,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>652</td>
+		<td>
+			<a href="https://github.com/drfknoble">
+				<img src="https://avatars.githubusercontent.com/u/15025021?s=72&u=5bf52e9e4f4761b3721665b0f5072f33d5f86a59&v=4" width="24" alt="Avatar of drfknoble"> drfknoble
+			</a><br/>
+			Frazer Noble
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/drfknoble">drfknoble</a></td>
+		<td>Auckland, New Zealand.</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -9428,19 +9428,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>718</td>
 		<td>
-			<a href="https://github.com/phindmarsh">
-				<img src="https://avatars.githubusercontent.com/u/344000?s=72&u=2c142f2b56c05304ad0b4e07b482443ad5809e98&v=4" width="24" alt="Avatar of phindmarsh"> phindmarsh
-			</a><br/>
-			Patrick Hindmarsh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Wellington, NZ</td>
-		<td>24</td>
-	</tr>
-	<tr>
-		<td>719</td>
-		<td>
 			<a href="https://github.com/agwells">
 				<img src="https://avatars.githubusercontent.com/u/265127?s=72&u=745cfa92de51624a5d46c363ef36c48f15c6c54d&v=4" width="24" alt="Avatar of agwells"> agwells
 			</a><br/>
@@ -9449,6 +9436,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Catalyst It Ltd </td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>719</td>
+		<td>
+			<a href="https://github.com/phindmarsh">
+				<img src="https://avatars.githubusercontent.com/u/344000?s=72&u=2c142f2b56c05304ad0b4e07b482443ad5809e98&v=4" width="24" alt="Avatar of phindmarsh"> phindmarsh
+			</a><br/>
+			Patrick Hindmarsh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Wellington, NZ</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -9883,19 +9883,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>753</td>
 		<td>
-			<a href="https://github.com/tomhallam">
-				<img src="https://avatars.githubusercontent.com/u/202395?s=72&u=481be1f26750b0361688b66b4a11688893206bbd&v=4" width="24" alt="Avatar of tomhallam"> tomhallam
-			</a><br/>
-			Tom Hallam
-		</td>
-		<td>Freshnode Limited </td>
-		<td><a href="https://twitter.com/tomhallam">tomhallam</a></td>
-		<td>Christchurch, NZ</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>754</td>
-		<td>
 			<a href="https://github.com/ian-patel">
 				<img src="https://avatars.githubusercontent.com/u/9893863?s=72&u=c08029eb4f19c348b58665b2dcdf32a696a27ded&v=4" width="24" alt="Avatar of ian-patel"> ian-patel
 			</a><br/>
@@ -9904,6 +9891,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Icehouse Ventures </td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>754</td>
+		<td>
+			<a href="https://github.com/tomhallam">
+				<img src="https://avatars.githubusercontent.com/u/202395?s=72&u=481be1f26750b0361688b66b4a11688893206bbd&v=4" width="24" alt="Avatar of tomhallam"> tomhallam
+			</a><br/>
+			Tom Hallam
+		</td>
+		<td>Freshnode Limited </td>
+		<td><a href="https://twitter.com/tomhallam">tomhallam</a></td>
+		<td>Christchurch, NZ</td>
 		<td>22</td>
 	</tr>
 	<tr>
@@ -10273,19 +10273,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>783</td>
 		<td>
-			<a href="https://github.com/GTamilSelvan07">
-				<img src="https://avatars.githubusercontent.com/u/62588894?s=72&u=f2d4d37565d8bfd21c4d70250a908d2d424d0352&v=4" width="24" alt="Avatar of GTamilSelvan07"> GTamilSelvan07
-			</a><br/>
-			Tamil Selvan
-		</td>
-		<td>Empathic Computing Lab </td>
-		<td><a href="https://twitter.com/GTamilSelvan07">GTamilSelvan07</a></td>
-		<td>Auckland, New Zealand</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>784</td>
-		<td>
 			<a href="https://github.com/james-wallace-nz">
 				<img src="https://avatars.githubusercontent.com/u/4538317?s=72&v=4" width="24" alt="Avatar of james-wallace-nz"> james-wallace-nz
 			</a><br/>
@@ -10297,7 +10284,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/AndLen">
 				<img src="https://avatars.githubusercontent.com/u/4524224?s=72&u=e01447970dcab8f741b09e877f7996f61b6752f1&v=4" width="24" alt="Avatar of AndLen"> AndLen
@@ -10310,7 +10297,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/vprigent">
 				<img src="https://avatars.githubusercontent.com/u/5131277?s=72&u=8aa39b375594426fcf83726187a7bb687289455e&v=4" width="24" alt="Avatar of vprigent"> vprigent
@@ -10323,7 +10310,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/altierispeixoto">
 				<img src="https://avatars.githubusercontent.com/u/7549223?s=72&u=74359ea7292d482fdfc7106cef57501eede42387&v=4" width="24" alt="Avatar of altierispeixoto"> altierispeixoto
@@ -10336,7 +10323,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/constantm">
 				<img src="https://avatars.githubusercontent.com/u/292439?s=72&u=463ab104d238b84f11c3d73c2eebeadafba57224&v=4" width="24" alt="Avatar of constantm"> constantm
@@ -10345,6 +10332,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		</td>
 		<td>In Game Collectables </td>
 		<td><a href="https://twitter.com/constantlm">constantlm</a></td>
+		<td>Auckland, New Zealand</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>788</td>
+		<td>
+			<a href="https://github.com/deeplyembeddedWP">
+				<img src="https://avatars.githubusercontent.com/u/23131959?s=72&u=50f17e03f314db0cb68018c21ac73ced5b5ace83&v=4" width="24" alt="Avatar of deeplyembeddedWP"> deeplyembeddedWP
+			</a><br/>
+			Vinay Divakar
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
 		<td>21</td>
 	</tr>
@@ -10364,14 +10364,14 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>790</td>
 		<td>
-			<a href="https://github.com/deeplyembeddedWP">
-				<img src="https://avatars.githubusercontent.com/u/23131959?s=72&u=50f17e03f314db0cb68018c21ac73ced5b5ace83&v=4" width="24" alt="Avatar of deeplyembeddedWP"> deeplyembeddedWP
+			<a href="https://github.com/wilberforce">
+				<img src="https://avatars.githubusercontent.com/u/5050824?s=72&u=fe1ff2d796cba91d7c8ba0c4b36ec72aa695e0dc&v=4" width="24" alt="Avatar of wilberforce"> wilberforce
 			</a><br/>
-			Vinay Divakar
+			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
+		<td>Auckland, NZ</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -10390,19 +10390,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>792</td>
 		<td>
-			<a href="https://github.com/wilberforce">
-				<img src="https://avatars.githubusercontent.com/u/5050824?s=72&u=fe1ff2d796cba91d7c8ba0c4b36ec72aa695e0dc&v=4" width="24" alt="Avatar of wilberforce"> wilberforce
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Auckland, NZ</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>793</td>
-		<td>
 			<a href="https://github.com/terrcin">
 				<img src="https://avatars.githubusercontent.com/u/17045?s=72&u=640237357b284ca56c741bc57c3359aab42ee086&v=4" width="24" alt="Avatar of terrcin"> terrcin
 			</a><br/>
@@ -10414,7 +10401,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/mongris">
 				<img src="https://avatars.githubusercontent.com/u/259816?s=72&u=5e64ff4d50454c4ca92d6cdba912fbd0ac6e35bd&v=4" width="24" alt="Avatar of mongris"> mongris
@@ -10427,7 +10414,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/AbhinavBehal">
 				<img src="https://avatars.githubusercontent.com/u/26621619?s=72&v=4" width="24" alt="Avatar of AbhinavBehal"> AbhinavBehal
@@ -10440,7 +10427,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/peterpengnz">
 				<img src="https://avatars.githubusercontent.com/u/1710327?s=72&v=4" width="24" alt="Avatar of peterpengnz"> peterpengnz
@@ -10453,7 +10440,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/phalkunz">
 				<img src="https://avatars.githubusercontent.com/u/318116?s=72&v=4" width="24" alt="Avatar of phalkunz"> phalkunz
@@ -10466,7 +10453,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/beulathamban">
 				<img src="https://avatars.githubusercontent.com/u/35990861?s=72&u=bbbf1fb0378d278ffc932bccc8911da6c947e751&v=4" width="24" alt="Avatar of beulathamban"> beulathamban
@@ -10479,7 +10466,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/yrb">
 				<img src="https://avatars.githubusercontent.com/u/35154?s=72&v=4" width="24" alt="Avatar of yrb"> yrb
@@ -10492,7 +10479,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/NHSEI-Analytics">
 				<img src="https://avatars.githubusercontent.com/u/49308822?s=72&u=bf5cecd2f300bfd90e074da5677115f30c383496&v=4" width="24" alt="Avatar of NHSEI-Analytics"> NHSEI-Analytics
@@ -10505,7 +10492,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/cainjonm">
 				<img src="https://avatars.githubusercontent.com/u/992653?s=72&v=4" width="24" alt="Avatar of cainjonm"> cainjonm
@@ -10518,7 +10505,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/mortezaalizadeh">
 				<img src="https://avatars.githubusercontent.com/u/3070738?s=72&u=5ec35926df2415864e33ad280cdc755b23dbc4ce&v=4" width="24" alt="Avatar of mortezaalizadeh"> mortezaalizadeh
@@ -10531,7 +10518,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/Annahcj">
 				<img src="https://avatars.githubusercontent.com/u/64110146?s=72&u=4e932ee294e00efb75410d108bc23946cb6e23e0&v=4" width="24" alt="Avatar of Annahcj"> Annahcj
@@ -10541,6 +10528,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Joyous </td>
 		<td><a href="https://twitter.com/anna_hcj">anna_hcj</a></td>
 		<td>Auckland, New Zealand</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>803</td>
+		<td>
+			<a href="https://github.com/davidhodge931">
+				<img src="https://avatars.githubusercontent.com/u/55065152?s=72&u=07a8380ccdf3e1d701dbe4e4044e051cade0c9dc&v=4" width="24" alt="Avatar of davidhodge931"> davidhodge931
+			</a><br/>
+			David Hodge
+		</td>
+		<td>@minhealthnz </td>
+		<td>No Twitter Username</td>
+		<td>Wellington, New Zealand</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -10559,19 +10559,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>805</td>
 		<td>
-			<a href="https://github.com/davidhodge931">
-				<img src="https://avatars.githubusercontent.com/u/55065152?s=72&u=07a8380ccdf3e1d701dbe4e4044e051cade0c9dc&v=4" width="24" alt="Avatar of davidhodge931"> davidhodge931
-			</a><br/>
-			David Hodge
-		</td>
-		<td>@minhealthnz </td>
-		<td>No Twitter Username</td>
-		<td>Wellington, New Zealand</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>806</td>
-		<td>
 			<a href="https://github.com/pkraus138">
 				<img src="https://avatars.githubusercontent.com/u/5879433?s=72&v=4" width="24" alt="Avatar of pkraus138"> pkraus138
 			</a><br/>
@@ -10583,7 +10570,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>806</td>
 		<td>
 			<a href="https://github.com/lesliev">
 				<img src="https://avatars.githubusercontent.com/u/331763?s=72&v=4" width="24" alt="Avatar of lesliev"> lesliev
@@ -10596,7 +10583,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>807</td>
 		<td>
 			<a href="https://github.com/ekini">
 				<img src="https://avatars.githubusercontent.com/u/1527663?s=72&v=4" width="24" alt="Avatar of ekini"> ekini
@@ -10609,7 +10596,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/go-bayes">
 				<img src="https://avatars.githubusercontent.com/u/19438348?s=72&u=0481035c8ec8435e9640f7d383035ef00f3cfd2f&v=4" width="24" alt="Avatar of go-bayes"> go-bayes
@@ -10622,7 +10609,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/leighghunt">
 				<img src="https://avatars.githubusercontent.com/u/349153?s=72&u=557888c4f5f333b9e77918ebb531d5eabd47f96a&v=4" width="24" alt="Avatar of leighghunt"> leighghunt
@@ -10635,7 +10622,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/noelw19">
 				<img src="https://avatars.githubusercontent.com/u/53453274?s=72&u=0da75ea02060a6b9e841af84c9a23959e67dad2f&v=4" width="24" alt="Avatar of noelw19"> noelw19
@@ -10648,7 +10635,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>811</td>
 		<td>
 			<a href="https://github.com/alvindaiyan">
 				<img src="https://avatars.githubusercontent.com/u/2063558?s=72&u=701c6216cd8f59a2816668515e84d9cb8dfb332d&v=4" width="24" alt="Avatar of alvindaiyan"> alvindaiyan
@@ -10661,7 +10648,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>812</td>
 		<td>
 			<a href="https://github.com/nigelcharman">
 				<img src="https://avatars.githubusercontent.com/u/144202?s=72&v=4" width="24" alt="Avatar of nigelcharman"> nigelcharman
@@ -10674,7 +10661,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/slaterx">
 				<img src="https://avatars.githubusercontent.com/u/15024405?s=72&u=24d934030f6f7547e8f7fbc049d700568c110237&v=4" width="24" alt="Avatar of slaterx"> slaterx
@@ -10687,7 +10674,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/bagedevimo">
 				<img src="https://avatars.githubusercontent.com/u/1319813?s=72&u=d16f81843cf5ba51ae2bba4e9a0b6a5c5d61d9dd&v=4" width="24" alt="Avatar of bagedevimo"> bagedevimo
@@ -10700,20 +10687,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>816</td>
-		<td>
-			<a href="https://github.com/TimStannard">
-				<img src="https://avatars.githubusercontent.com/u/26725777?s=72&u=ee7be3daf8109ee3df944168e4586e0a5bcc2459&v=4" width="24" alt="Avatar of TimStannard"> TimStannard
-			</a><br/>
-			Tim Stannard
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Wellington, NZ</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>817</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/gitfool">
 				<img src="https://avatars.githubusercontent.com/u/750121?s=72&v=4" width="24" alt="Avatar of gitfool"> gitfool
@@ -10726,7 +10700,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/hlzhang">
 				<img src="https://avatars.githubusercontent.com/u/1484631?s=72&u=d5bdb1bfe75d94c0f1de6ff70f810b6c3f3b544d&v=4" width="24" alt="Avatar of hlzhang"> hlzhang
@@ -10739,7 +10713,20 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>817</td>
+		<td>
+			<a href="https://github.com/TimStannard">
+				<img src="https://avatars.githubusercontent.com/u/26725777?s=72&u=ee7be3daf8109ee3df944168e4586e0a5bcc2459&v=4" width="24" alt="Avatar of TimStannard"> TimStannard
+			</a><br/>
+			Tim Stannard
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Wellington, NZ</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/Phil-Wheeler">
 				<img src="https://avatars.githubusercontent.com/u/10428410?s=72&u=91f65affff79b88c84a5ee9f221065c74101b2c3&v=4" width="24" alt="Avatar of Phil-Wheeler"> Phil-Wheeler
@@ -10749,6 +10736,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>@adinstruments </td>
 		<td>No Twitter Username</td>
 		<td>Dunedin, New Zealand</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>819</td>
+		<td>
+			<a href="https://github.com/Acen">
+				<img src="https://avatars.githubusercontent.com/u/924120?s=72&u=bfafd2e29bccef7273890121d211ff83c267294d&v=4" width="24" alt="Avatar of Acen"> Acen
+			</a><br/>
+			Zac
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -10767,13 +10767,13 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>821</td>
 		<td>
-			<a href="https://github.com/Acen">
-				<img src="https://avatars.githubusercontent.com/u/924120?s=72&u=bfafd2e29bccef7273890121d211ff83c267294d&v=4" width="24" alt="Avatar of Acen"> Acen
+			<a href="https://github.com/GTamilSelvan07">
+				<img src="https://avatars.githubusercontent.com/u/62588894?s=72&u=f2d4d37565d8bfd21c4d70250a908d2d424d0352&v=4" width="24" alt="Avatar of GTamilSelvan07"> GTamilSelvan07
 			</a><br/>
-			Zac
+			Tamil Selvan
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
+		<td>Empathic Computing Lab </td>
+		<td><a href="https://twitter.com/GTamilSelvan07">GTamilSelvan07</a></td>
 		<td>Auckland, New Zealand</td>
 		<td>20</td>
 	</tr>
@@ -10858,19 +10858,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>828</td>
 		<td>
-			<a href="https://github.com/xlevus">
-				<img src="https://avatars.githubusercontent.com/u/143979?s=72&v=4" width="24" alt="Avatar of xlevus"> xlevus
-			</a><br/>
-			Chris Targett
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Wellington, NZ</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>829</td>
-		<td>
 			<a href="https://github.com/finalduty">
 				<img src="https://avatars.githubusercontent.com/u/4401489?s=72&u=84b005433b206fe7059c2f3a20c511f91fd1d305&v=4" width="24" alt="Avatar of finalduty"> finalduty
 			</a><br/>
@@ -10882,20 +10869,20 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>829</td>
 		<td>
-			<a href="https://github.com/unkillbob">
-				<img src="https://avatars.githubusercontent.com/u/1883524?s=72&u=0bda7b9e02651ca8f5b8ba4ffba9440fba2c447b&v=4" width="24" alt="Avatar of unkillbob"> unkillbob
+			<a href="https://github.com/xlevus">
+				<img src="https://avatars.githubusercontent.com/u/143979?s=72&v=4" width="24" alt="Avatar of xlevus"> xlevus
 			</a><br/>
-			James Bunt
+			Chris Targett
 		</td>
-		<td>Vend </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
+		<td>Wellington, NZ</td>
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/EtherealPtr">
 				<img src="https://avatars.githubusercontent.com/u/22670429?s=72&u=9b87318045ef862c9cc4e25c75262b0d02586e8b&v=4" width="24" alt="Avatar of EtherealPtr"> EtherealPtr
@@ -10908,7 +10895,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/chron">
 				<img src="https://avatars.githubusercontent.com/u/39213?s=72&u=c6717a6a41b9ffd00c3bea85b4afadb9ab28b53d&v=4" width="24" alt="Avatar of chron"> chron
@@ -10918,6 +10905,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Usabilityhub </td>
 		<td><a href="https://twitter.com/chron9">chron9</a></td>
 		<td>Wellington, New Zealand</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>832</td>
+		<td>
+			<a href="https://github.com/unkillbob">
+				<img src="https://avatars.githubusercontent.com/u/1883524?s=72&u=0bda7b9e02651ca8f5b8ba4ffba9440fba2c447b&v=4" width="24" alt="Avatar of unkillbob"> unkillbob
+			</a><br/>
+			James Bunt
+		</td>
+		<td>Vend </td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -11032,7 +11032,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 			</a><br/>
 			Ben Dubuisson
 		</td>
-		<td>Trove Nz </td>
+		<td>Tempo </td>
 		<td>No Twitter Username</td>
 		<td>Wellington, NZ</td>
 		<td>19</td>
@@ -11209,19 +11209,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>855</td>
 		<td>
-			<a href="https://github.com/hikurangi">
-				<img src="https://avatars.githubusercontent.com/u/13827643?s=72&v=4" width="24" alt="Avatar of hikurangi"> hikurangi
-			</a><br/>
-			Hikurangi
-		</td>
-		<td>Bamboo Creative </td>
-		<td><a href="https://twitter.com/ignarukih">ignarukih</a></td>
-		<td>Wellington, New Zealand</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>856</td>
-		<td>
 			<a href="https://github.com/m-wild">
 				<img src="https://avatars.githubusercontent.com/u/3260812?s=72&u=64669f593109c3115ba7274f3565d6a2b28a8982&v=4" width="24" alt="Avatar of m-wild"> m-wild
 			</a><br/>
@@ -11230,6 +11217,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland, New Zealand</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>856</td>
+		<td>
+			<a href="https://github.com/hikurangi">
+				<img src="https://avatars.githubusercontent.com/u/13827643?s=72&v=4" width="24" alt="Avatar of hikurangi"> hikurangi
+			</a><br/>
+			Hikurangi
+		</td>
+		<td>Bamboo Creative </td>
+		<td><a href="https://twitter.com/ignarukih">ignarukih</a></td>
+		<td>Wellington, New Zealand</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -11508,19 +11508,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>878</td>
 		<td>
-			<a href="https://github.com/jeremyolliver">
-				<img src="https://avatars.githubusercontent.com/u/14826?s=72&v=4" width="24" alt="Avatar of jeremyolliver"> jeremyolliver
-			</a><br/>
-			Jeremy Olliver
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Wellington, New Zealand</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>879</td>
-		<td>
 			<a href="https://github.com/bcnzer">
 				<img src="https://avatars.githubusercontent.com/u/13621876?s=72&u=f8cdfc91c354dcd1114df6ae04dc93e3a154e472&v=4" width="24" alt="Avatar of bcnzer"> bcnzer
 			</a><br/>
@@ -11532,7 +11519,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>880</td>
+		<td>879</td>
 		<td>
 			<a href="https://github.com/tomshanley">
 				<img src="https://avatars.githubusercontent.com/u/7007620?s=72&u=2b021381f41e9de004f3d214c85d22d49016e9ba&v=4" width="24" alt="Avatar of tomshanley"> tomshanley
@@ -11545,7 +11532,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>881</td>
+		<td>880</td>
 		<td>
 			<a href="https://github.com/mackross">
 				<img src="https://avatars.githubusercontent.com/u/247049?s=72&v=4" width="24" alt="Avatar of mackross"> mackross
@@ -11558,7 +11545,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>881</td>
 		<td>
 			<a href="https://github.com/KenneyC">
 				<img src="https://avatars.githubusercontent.com/u/21161968?s=72&u=343b272c812f642a1dca89b222e4a319a9b2cb2f&v=4" width="24" alt="Avatar of KenneyC"> KenneyC
@@ -11571,7 +11558,7 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>882</td>
 		<td>
 			<a href="https://github.com/diegosieg">
 				<img src="https://avatars.githubusercontent.com/u/1525866?s=72&u=9e4f516421f9cbf5950be3056ce0572404a578fa&v=4" width="24" alt="Avatar of diegosieg"> diegosieg
@@ -11581,6 +11568,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Xero.com </td>
 		<td><a href="https://twitter.com/diegosieg">diegosieg</a></td>
 		<td>Christchurch, New Zealand</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>883</td>
+		<td>
+			<a href="https://github.com/jeremyolliver">
+				<img src="https://avatars.githubusercontent.com/u/14826?s=72&v=4" width="24" alt="Avatar of jeremyolliver"> jeremyolliver
+			</a><br/>
+			Jeremy Olliver
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Wellington, New Zealand</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -11781,19 +11781,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>899</td>
 		<td>
-			<a href="https://github.com/mullenkamp">
-				<img src="https://avatars.githubusercontent.com/u/2656596?s=72&u=40f0dc80fc75ddf8ee5d102b33185fa0f185ed2f&v=4" width="24" alt="Avatar of mullenkamp"> mullenkamp
-			</a><br/>
-			Mike Kittridge
-		</td>
-		<td>@evapotranspiration @tethys-ts </td>
-		<td>No Twitter Username</td>
-		<td>Christchurch</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>900</td>
-		<td>
 			<a href="https://github.com/scott-abernethy">
 				<img src="https://avatars.githubusercontent.com/u/3343524?s=72&u=6e2affe39f6330e98f2bc4ea22c2260989db3e88&v=4" width="24" alt="Avatar of scott-abernethy"> scott-abernethy
 			</a><br/>
@@ -11802,6 +11789,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wellington, New Zealand</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>900</td>
+		<td>
+			<a href="https://github.com/mullenkamp">
+				<img src="https://avatars.githubusercontent.com/u/2656596?s=72&u=40f0dc80fc75ddf8ee5d102b33185fa0f185ed2f&v=4" width="24" alt="Avatar of mullenkamp"> mullenkamp
+			</a><br/>
+			Mike Kittridge
+		</td>
+		<td>@evapotranspiration @tethys-ts </td>
+		<td>No Twitter Username</td>
+		<td>Christchurch</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -11885,19 +11885,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>907</td>
 		<td>
-			<a href="https://github.com/nicbarker">
-				<img src="https://avatars.githubusercontent.com/u/2264338?s=72&u=a90e8178ebcf2b9b50f94f94efd0b4986e3a4556&v=4" width="24" alt="Avatar of nicbarker"> nicbarker
-			</a><br/>
-			Nic Barker
-		</td>
-		<td>@canva </td>
-		<td><a href="https://twitter.com/nicbarkeragain">nicbarkeragain</a></td>
-		<td>Christchurch, New Zealand</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>908</td>
-		<td>
 			<a href="https://github.com/sujee81">
 				<img src="https://avatars.githubusercontent.com/u/659991?s=72&u=8ec5e5ea490c3173ac963858d24bd749a21500a6&v=4" width="24" alt="Avatar of sujee81"> sujee81
 			</a><br/>
@@ -11906,6 +11893,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Auckland</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>908</td>
+		<td>
+			<a href="https://github.com/nicbarker">
+				<img src="https://avatars.githubusercontent.com/u/2264338?s=72&u=a90e8178ebcf2b9b50f94f94efd0b4986e3a4556&v=4" width="24" alt="Avatar of nicbarker"> nicbarker
+			</a><br/>
+			Nic Barker
+		</td>
+		<td>@canva </td>
+		<td><a href="https://twitter.com/nicbarkeragain">nicbarkeragain</a></td>
+		<td>Christchurch, New Zealand</td>
 		<td>18</td>
 	</tr>
 	<tr>
@@ -12353,19 +12353,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>943</td>
 		<td>
-			<a href="https://github.com/saint-lascivious">
-				<img src="https://avatars.githubusercontent.com/u/1484933?s=72&u=9c39b78eafa9d15eefaa25d12662fb9643c51c90&v=4" width="24" alt="Avatar of saint-lascivious"> saint-lascivious
-			</a><br/>
-			Hayden Pearce
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Christchurch 8011, New Zealand</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>944</td>
-		<td>
 			<a href="https://github.com/mouyang2001">
 				<img src="https://avatars.githubusercontent.com/u/43261675?s=72&u=73724ea5029ce8c7ea98b1a3c949ccc26d403ba8&v=4" width="24" alt="Avatar of mouyang2001"> mouyang2001
 			</a><br/>
@@ -12374,6 +12361,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>University Of Auckland </td>
 		<td>No Twitter Username</td>
 		<td>Auckland New Zealand</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>944</td>
+		<td>
+			<a href="https://github.com/saint-lascivious">
+				<img src="https://avatars.githubusercontent.com/u/1484933?s=72&u=9c39b78eafa9d15eefaa25d12662fb9643c51c90&v=4" width="24" alt="Avatar of saint-lascivious"> saint-lascivious
+			</a><br/>
+			Hayden Pearce
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Christchurch 8011, New Zealand</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -12548,19 +12548,6 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 	<tr>
 		<td>958</td>
 		<td>
-			<a href="https://github.com/sandruskyi">
-				<img src="https://avatars.githubusercontent.com/u/36504512?s=72&u=4ceb866b0bcd1164a87cddfcf1d60d0833714c7a&v=4" width="24" alt="Avatar of sandruskyi"> sandruskyi
-			</a><br/>
-			Sandrus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Auckland, New Zealand</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>959</td>
-		<td>
 			<a href="https://github.com/shawyunz">
 				<img src="https://avatars.githubusercontent.com/u/43285754?s=72&u=d83f1ff964404b22a2793fc5f5339c408d9106c8&v=4" width="24" alt="Avatar of shawyunz"> shawyunz
 			</a><br/>
@@ -12569,6 +12556,19 @@ There are `981 users`  in New Zealand. You need at least `17 followers` to be on
 		<td>Abel Software </td>
 		<td>No Twitter Username</td>
 		<td>Auckland</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>959</td>
+		<td>
+			<a href="https://github.com/sandruskyi">
+				<img src="https://avatars.githubusercontent.com/u/36504512?s=72&u=4ceb866b0bcd1164a87cddfcf1d60d0833714c7a&v=4" width="24" alt="Avatar of sandruskyi"> sandruskyi
+			</a><br/>
+			Sandrus
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Auckland, New Zealand</td>
 		<td>17</td>
 	</tr>
 	<tr>
