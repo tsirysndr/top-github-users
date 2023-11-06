@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2023/11/5 9:29 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2023/11/6 2:43 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `243 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>216</td>
+		<td>217</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -497,19 +497,6 @@ There are `243 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>31</td>
 		<td>
-			<a href="https://github.com/jayabdulraman">
-				<img src="https://avatars.githubusercontent.com/u/43217154?s=72&u=3ad2f73ab39fbdd385874dea54a10e535fb7eea1&v=4" width="24" alt="Avatar of jayabdulraman"> jayabdulraman
-			</a><br/>
-			Abdulrahman Jalloh
-		</td>
-		<td>Directorate Of Science, Technology<br/>And<br/>Innovation<br/>(dsti)<br/></td>
-		<td><a href="https://twitter.com/jayabdulraman">jayabdulraman</a></td>
-		<td>Freetown</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
 			<a href="https://github.com/LinuxFofinspiron">
 				<img src="https://avatars.githubusercontent.com/u/56222967?s=72&u=aeeb252d9af9154b9e352bddf0548a761b6309d5&v=4" width="24" alt="Avatar of LinuxFofinspiron"> LinuxFofinspiron
 			</a><br/>
@@ -518,6 +505,19 @@ There are `243 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Sierraiot </td>
 		<td>No Twitter Username</td>
 		<td>Freetown Sierra leone</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td>
+			<a href="https://github.com/jayabdulraman">
+				<img src="https://avatars.githubusercontent.com/u/43217154?s=72&u=3ad2f73ab39fbdd385874dea54a10e535fb7eea1&v=4" width="24" alt="Avatar of jayabdulraman"> jayabdulraman
+			</a><br/>
+			Abdulrahman Jalloh
+		</td>
+		<td>Directorate Of Science, Technology<br/>And<br/>Innovation<br/>(dsti)<br/></td>
+		<td><a href="https://twitter.com/jayabdulraman">jayabdulraman</a></td>
+		<td>Freetown</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -1888,19 +1888,6 @@ There are `243 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>138</td>
 		<td>
-			<a href="https://github.com/engmansa">
-				<img src="https://avatars.githubusercontent.com/u/40606516?s=72&v=4" width="24" alt="Avatar of engmansa"> engmansa
-			</a><br/>
-			No Name
-		</td>
-		<td>Integems Limited </td>
-		<td><a href="https://twitter.com/engmansa">engmansa</a></td>
-		<td>Freetown</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>139</td>
-		<td>
 			<a href="https://github.com/kibrown">
 				<img src="https://avatars.githubusercontent.com/u/30808812?s=72&u=a5245abdfbffd960c28f9a6f4dcb9b2bb18d78fd&v=4" width="24" alt="Avatar of kibrown"> kibrown
 			</a><br/>
@@ -1912,7 +1899,7 @@ There are `243 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/graycodingsl">
 				<img src="https://avatars.githubusercontent.com/u/55925031?s=72&v=4" width="24" alt="Avatar of graycodingsl"> graycodingsl
@@ -1925,7 +1912,7 @@ There are `243 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/MaosCreation">
 				<img src="https://avatars.githubusercontent.com/u/54360092?s=72&v=4" width="24" alt="Avatar of MaosCreation"> MaosCreation
@@ -1935,6 +1922,19 @@ There are `243 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Maos Creation </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
+			<a href="https://github.com/engmansa">
+				<img src="https://avatars.githubusercontent.com/u/40606516?s=72&v=4" width="24" alt="Avatar of engmansa"> engmansa
+			</a><br/>
+			No Name
+		</td>
+		<td>Integems Limited </td>
+		<td><a href="https://twitter.com/engmansa">engmansa</a></td>
+		<td>Freetown</td>
 		<td>1</td>
 	</tr>
 	<tr>
