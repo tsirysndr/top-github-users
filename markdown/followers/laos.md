@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg" alt="Laos">
 </a>
 
-The `number of followers` of users in Laos on `2023/11/9 11:04 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
+The `number of followers` of users in Laos on `2023/11/10 4:59 AM UTC`. This list contains users from `Laos` and cities `Vientiane`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1602,19 +1602,6 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>116</td>
 		<td>
-			<a href="https://github.com/chansoukitv">
-				<img src="https://avatars.githubusercontent.com/u/42201724?s=72&u=d1d24a4194e94bb8e0d89739c033431b566cff5f&v=4" width="24" alt="Avatar of chansoukitv"> chansoukitv
-			</a><br/>
-			Tay Inthavong
-		</td>
-		<td>Aif Group </td>
-		<td>No Twitter Username</td>
-		<td>laos</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>117</td>
-		<td>
 			<a href="https://github.com/khamlar123">
 				<img src="https://avatars.githubusercontent.com/u/52391199?s=72&u=a437af7468c9e1cb44494265a5dea160e940f269&v=4" width="24" alt="Avatar of khamlar123"> khamlar123
 			</a><br/>
@@ -1626,7 +1613,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/Sengkue">
 				<img src="https://avatars.githubusercontent.com/u/82859778?s=72&u=5b9b9be55a54b2348e953c5fb5fa2af8dbd16323&v=4" width="24" alt="Avatar of Sengkue"> Sengkue
@@ -1639,7 +1626,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/douangtavanh">
 				<img src="https://avatars.githubusercontent.com/u/32052391?s=72&u=6d0b958b14cffacd1ae282eb2cbfe6598af84b26&v=4" width="24" alt="Avatar of douangtavanh"> douangtavanh
@@ -1652,7 +1639,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/ctechitdev">
 				<img src="https://avatars.githubusercontent.com/u/100678557?s=72&u=388bbfbad78fed87b243aefbcda6aebf13a8d7d2&v=4" width="24" alt="Avatar of ctechitdev"> ctechitdev
@@ -1665,7 +1652,7 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/t-toum">
 				<img src="https://avatars.githubusercontent.com/u/34739834?s=72&u=172fe8e5ccf30c7bdeb8e2484d1955fc668fad38&v=4" width="24" alt="Avatar of t-toum"> t-toum
@@ -1673,6 +1660,19 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 			Nanthavath Vongsouna
 		</td>
 		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Laos</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>121</td>
+		<td>
+			<a href="https://github.com/SaiyaladPS">
+				<img src="https://avatars.githubusercontent.com/u/111510372?s=72&u=133496da032b8e62478d6c1dd5db6f0c4864869c&v=4" width="24" alt="Avatar of SaiyaladPS"> SaiyaladPS
+			</a><br/>
+			Mona
+		</td>
+		<td>Bct College For I.t<br/>Education<br/></td>
 		<td>No Twitter Username</td>
 		<td>Laos</td>
 		<td>1</td>
@@ -1693,12 +1693,12 @@ There are `436 users`  in Laos. You need at least `0 followers` to be on this li
 	<tr>
 		<td>123</td>
 		<td>
-			<a href="https://github.com/SaiyaladPS">
-				<img src="https://avatars.githubusercontent.com/u/111510372?s=72&u=133496da032b8e62478d6c1dd5db6f0c4864869c&v=4" width="24" alt="Avatar of SaiyaladPS"> SaiyaladPS
+			<a href="https://github.com/mrarty55">
+				<img src="https://avatars.githubusercontent.com/u/26305310?s=72&u=ae1b47c94998ccbfc5ee270efd925a9b9c9f1e57&v=4" width="24" alt="Avatar of mrarty55"> mrarty55
 			</a><br/>
-			Saiyalad
+			Arty
 		</td>
-		<td>Bct College For I.t<br/>Education<br/></td>
+		<td>Lao It Dev </td>
 		<td>No Twitter Username</td>
 		<td>Laos</td>
 		<td>1</td>
