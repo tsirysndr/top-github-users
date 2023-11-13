@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg" alt="Mauritania">
 </a>
 
-The `number of followers` of users in Mauritania on `2023/11/12 11:34 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
+The `number of followers` of users in Mauritania on `2023/11/13 5:00 AM UTC`. This list contains users from `Mauritania` and cities `Nouakchott` `Nouadhibou` `Atar` `Rosso`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -419,6 +419,19 @@ There are `176 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>25</td>
 		<td>
+			<a href="https://github.com/Rapideinfo-Mauritanie">
+				<img src="https://avatars.githubusercontent.com/u/74497177?s=72&u=7550a20a8b3308a0b5e47190cf335b3852ac69f6&v=4" width="24" alt="Avatar of Rapideinfo-Mauritanie"> Rapideinfo-Mauritanie
+			</a><br/>
+			RAPIDE INFO EN MAURITANIE- INFOS NEWS MAROC ET POLISARIO
+		</td>
+		<td>@rapideinfo </td>
+		<td><a href="https://twitter.com/RIBETTAR">RIBETTAR</a></td>
+		<td>Mauritania</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
 			<a href="https://github.com/medsabbar">
 				<img src="https://avatars.githubusercontent.com/u/69307808?s=72&v=4" width="24" alt="Avatar of medsabbar"> medsabbar
 			</a><br/>
@@ -430,7 +443,7 @@ There are `176 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/CarbabouSy">
 				<img src="https://avatars.githubusercontent.com/u/76449404?s=72&u=f82dd77643ef9bac63fd550037374acb38870363&v=4" width="24" alt="Avatar of CarbabouSy"> CarbabouSy
@@ -443,7 +456,7 @@ There are `176 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/brahimjid">
 				<img src="https://avatars.githubusercontent.com/u/51297701?s=72&v=4" width="24" alt="Avatar of brahimjid"> brahimjid
@@ -456,7 +469,7 @@ There are `176 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/eminoullahh">
 				<img src="https://avatars.githubusercontent.com/u/52550752?s=72&u=40bf9599d491aa211807689a90b95047a49b470c&v=4" width="24" alt="Avatar of eminoullahh"> eminoullahh
@@ -465,19 +478,6 @@ There are `176 users`  in Mauritania. You need at least `0 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/eminoullahh">eminoullahh</a></td>
-		<td>Mauritania</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/Rapideinfo-Mauritanie">
-				<img src="https://avatars.githubusercontent.com/u/74497177?s=72&u=7550a20a8b3308a0b5e47190cf335b3852ac69f6&v=4" width="24" alt="Avatar of Rapideinfo-Mauritanie"> Rapideinfo-Mauritanie
-			</a><br/>
-			RAPIDE INFO EN MAURITANIE- INFOS NEWS MAROC ET POLISARIO
-		</td>
-		<td>@rapideinfo </td>
-		<td><a href="https://twitter.com/RIBETTAR">RIBETTAR</a></td>
 		<td>Mauritania</td>
 		<td>5</td>
 	</tr>
@@ -731,19 +731,6 @@ There are `176 users`  in Mauritania. You need at least `0 followers` to be on t
 	<tr>
 		<td>49</td>
 		<td>
-			<a href="https://github.com/EL-Arby">
-				<img src="https://avatars.githubusercontent.com/u/80636501?s=72&u=e68a01b58bbd7698d36071bf0702b825f0eb00f9&v=4" width="24" alt="Avatar of EL-Arby"> EL-Arby
-			</a><br/>
-			No Name
-		</td>
-		<td>Una </td>
-		<td>No Twitter Username</td>
-		<td>Nouakchott-Mauritanie</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>
 			<a href="https://github.com/medali06">
 				<img src="https://avatars.githubusercontent.com/u/37084532?s=72&u=b24eea3d776074b404182542f108d05ec6711a92&v=4" width="24" alt="Avatar of medali06"> medali06
 			</a><br/>
@@ -752,6 +739,19 @@ There are `176 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nouakchott, Mauritania</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td>
+			<a href="https://github.com/EL-Arby">
+				<img src="https://avatars.githubusercontent.com/u/80636501?s=72&u=e68a01b58bbd7698d36071bf0702b825f0eb00f9&v=4" width="24" alt="Avatar of EL-Arby"> EL-Arby
+			</a><br/>
+			No Name
+		</td>
+		<td>Una </td>
+		<td>No Twitter Username</td>
+		<td>Nouakchott-Mauritanie</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1051,19 +1051,6 @@ There are `176 users`  in Mauritania. You need at least `0 followers` to be on t
 		<td>Bktrans International Logistics </td>
 		<td><a href="https://twitter.com/AhmedHa64277741">AhmedHa64277741</a></td>
 		<td>Mauritania, Nouakchott</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/eljoud">
-				<img src="https://avatars.githubusercontent.com/u/1808222?s=72&v=4" width="24" alt="Avatar of eljoud"> eljoud
-			</a><br/>
-			El Joud Taki
-		</td>
-		<td>Itechnologies </td>
-		<td>No Twitter Username</td>
-		<td>Mauritania</td>
 		<td>1</td>
 	</tr>
 </table>
