@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romania">
 </a>
 
-The `number of followers` of users in Romania on `2023/11/16 2:36 PM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
+The `number of followers` of users in Romania on `2023/11/17 8:39 AM UTC`. This list contains users from `Romania` and cities `Bucharest` `Constanța`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>Icodethis.com </td>
 		<td><a href="https://twitter.com/florinpop1705">florinpop1705</a></td>
 		<td>Romania</td>
-		<td>12558</td>
+		<td>12563</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>Baeldung </td>
 		<td><a href="https://twitter.com/baeldung">baeldung</a></td>
 		<td>Bucharest, Romania</td>
-		<td>9724</td>
+		<td>9726</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>@weaveworks </td>
 		<td><a href="https://twitter.com/stefanprodan">stefanprodan</a></td>
 		<td>Bucharest</td>
-		<td>7608</td>
+		<td>7614</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -180,7 +180,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>@sablier-labs </td>
 		<td><a href="https://twitter.com/PaulRBerg">PaulRBerg</a></td>
 		<td>Romania</td>
-		<td>1680</td>
+		<td>1681</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -232,7 +232,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>Valinet Solutions Srl </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
-		<td>799</td>
+		<td>801</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -245,23 +245,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cluj-Napoca, Romania</td>
-		<td>738</td>
+		<td>739</td>
 	</tr>
 	<tr>
 		<td>12</td>
-		<td>
-			<a href="https://github.com/eddyb">
-				<img src="https://avatars.githubusercontent.com/u/77424?s=72&u=799954c3a5044d91fac203dd1860038e86b6533c&v=4" width="24" alt="Avatar of eddyb"> eddyb
-			</a><br/>
-			Eduard-Mihai Burtescu
-		</td>
-		<td>@lykensol </td>
-		<td>No Twitter Username</td>
-		<td>Bucharest, Romania</td>
-		<td>607</td>
-	</tr>
-	<tr>
-		<td>13</td>
 		<td>
 			<a href="https://github.com/lazarnarcis">
 				<img src="https://avatars.githubusercontent.com/u/82839799?s=72&u=cf22800aea19335e78ecb4da98294361226c193d&v=4" width="24" alt="Avatar of lazarnarcis"> lazarnarcis
@@ -271,10 +258,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/lnarcis310">lnarcis310</a></td>
 		<td>Romania</td>
-		<td>592</td>
+		<td>593</td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>13</td>
 		<td>
 			<a href="https://github.com/alexandru-paduraru">
 				<img src="https://avatars.githubusercontent.com/u/2517758?s=72&u=61bbe64c86cad157c72180cfdab458ccede382cf&v=4" width="24" alt="Avatar of alexandru-paduraru"> alexandru-paduraru
@@ -287,7 +274,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>567</td>
 	</tr>
 	<tr>
-		<td>15</td>
+		<td>14</td>
 		<td>
 			<a href="https://github.com/dangeabunea">
 				<img src="https://avatars.githubusercontent.com/u/5540674?s=72&u=7a8413e4a883fcf11dd8a81078d66af4d1134b29&v=4" width="24" alt="Avatar of dangeabunea"> dangeabunea
@@ -300,7 +287,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>538</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>
 			<a href="https://github.com/ntdevlabs">
 				<img src="https://avatars.githubusercontent.com/u/38796849?s=72&u=2fec45040c82d7c7638983006b18e0ad4aa6377b&v=4" width="24" alt="Avatar of ntdevlabs"> ntdevlabs
@@ -313,7 +300,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>518</td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>
 			<a href="https://github.com/cleanunicorn">
 				<img src="https://avatars.githubusercontent.com/u/547012?s=72&u=9c79de8f03668bf5f40b5abd321a820ac7c6894c&v=4" width="24" alt="Avatar of cleanunicorn"> cleanunicorn
@@ -326,7 +313,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>494</td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>17</td>
 		<td>
 			<a href="https://github.com/cubedro">
 				<img src="https://avatars.githubusercontent.com/u/6094026?s=72&u=ef740328571ec670ffba1b02599a2a9be78efd9e&v=4" width="24" alt="Avatar of cubedro"> cubedro
@@ -339,7 +326,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>484</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>18</td>
 		<td>
 			<a href="https://github.com/nottimnik">
 				<img src="https://avatars.githubusercontent.com/u/72356939?s=72&u=b653c85fe0727f599d7a4d35ba727b4dba71b2fb&v=4" width="24" alt="Avatar of nottimnik"> nottimnik
@@ -352,7 +339,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>468</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>19</td>
 		<td>
 			<a href="https://github.com/rennokki">
 				<img src="https://avatars.githubusercontent.com/u/21983456?s=72&u=a75789287b704b6a75188dfc83ba37044059b3ba&v=4" width="24" alt="Avatar of rennokki"> rennokki
@@ -365,7 +352,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>462</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/bpoplauschi">
 				<img src="https://avatars.githubusercontent.com/u/154913?s=72&u=f5fb43562c6f3c50e769786debbb416a7ff73d51&v=4" width="24" alt="Avatar of bpoplauschi"> bpoplauschi
@@ -375,10 +362,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Cluj-Napoca, Romania</td>
-		<td>456</td>
+		<td>457</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/ionelmc">
 				<img src="https://avatars.githubusercontent.com/u/129501?s=72&u=f8f5bfa29fb9ae201514b4b8faaa806fbd5c0e78&v=4" width="24" alt="Avatar of ionelmc"> ionelmc
@@ -391,7 +378,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>452</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/AnghelLeonard">
 				<img src="https://avatars.githubusercontent.com/u/3829643?s=72&u=0b1cb2b6bc0f05f9e77f2d075c930a9df59b3850&v=4" width="24" alt="Avatar of AnghelLeonard"> AnghelLeonard
@@ -404,7 +391,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>442</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/MAJigsaw77">
 				<img src="https://avatars.githubusercontent.com/u/77043862?s=72&u=ccfafdbcb8e6d4c24f068954e34761b86e89ed95&v=4" width="24" alt="Avatar of MAJigsaw77"> MAJigsaw77
@@ -417,7 +404,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>416</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/alin23">
 				<img src="https://avatars.githubusercontent.com/u/3819725?s=72&u=f4bd82a1f4ad407d15562f8e0887e678e18bd215&v=4" width="24" alt="Avatar of alin23"> alin23
@@ -430,7 +417,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>386</td>
 	</tr>
 	<tr>
-		<td>26</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/vladfrangu">
 				<img src="https://avatars.githubusercontent.com/u/17960496?s=72&u=e1e3408a0f110e6207f7668195290db543cb5311&v=4" width="24" alt="Avatar of vladfrangu"> vladfrangu
@@ -443,7 +430,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>381</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/virag-ky">
 				<img src="https://avatars.githubusercontent.com/u/79658534?s=72&u=245f3cb46ce88775da4333bc14c41dc6354000d9&v=4" width="24" alt="Avatar of virag-ky"> virag-ky
@@ -453,10 +440,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Virag_Ky">Virag_Ky</a></td>
 		<td>Romania</td>
-		<td>371</td>
+		<td>372</td>
 	</tr>
 	<tr>
-		<td>28</td>
+		<td>27</td>
 		<td>
 			<a href="https://github.com/cristianbote">
 				<img src="https://avatars.githubusercontent.com/u/3405161?s=72&u=d290a823f6f753e6ff8bc561c2089b7653d14f34&v=4" width="24" alt="Avatar of cristianbote"> cristianbote
@@ -469,7 +456,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>369</td>
 	</tr>
 	<tr>
-		<td>29</td>
+		<td>28</td>
 		<td>
 			<a href="https://github.com/NytroRST">
 				<img src="https://avatars.githubusercontent.com/u/13242689?s=72&u=94a2af104acbb4f3fcef2b658f56ff77a588d0d2&v=4" width="24" alt="Avatar of NytroRST"> NytroRST
@@ -482,7 +469,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>368</td>
 	</tr>
 	<tr>
-		<td>30</td>
+		<td>29</td>
 		<td>
 			<a href="https://github.com/nomemory">
 				<img src="https://avatars.githubusercontent.com/u/1010477?s=72&u=e8f454c0de16001028e03b8a1b880f2b4d594a3e&v=4" width="24" alt="Avatar of nomemory"> nomemory
@@ -495,7 +482,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>348</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>30</td>
 		<td>
 			<a href="https://github.com/CKGrafico">
 				<img src="https://avatars.githubusercontent.com/u/2048511?s=72&u=084ea1adaaf13be52c160867cbb22e98ca4863a5&v=4" width="24" alt="Avatar of CKGrafico"> CKGrafico
@@ -506,6 +493,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td><a href="https://twitter.com/CKGrafico">CKGrafico</a></td>
 		<td>Bucharest, Romania</td>
 		<td>336</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/bendik0329">
+				<img src="https://avatars.githubusercontent.com/u/121418385?s=72&u=905b4cac92601d514e6777de32b53590891277b8&v=4" width="24" alt="Avatar of bendik0329"> bendik0329
+			</a><br/>
+			Bendik Razvan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Int odobesti, Bucharest, Romania</td>
+		<td>330</td>
 	</tr>
 	<tr>
 		<td>32</td>
@@ -523,19 +523,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>33</td>
 		<td>
-			<a href="https://github.com/bendik0329">
-				<img src="https://avatars.githubusercontent.com/u/121418385?s=72&u=905b4cac92601d514e6777de32b53590891277b8&v=4" width="24" alt="Avatar of bendik0329"> bendik0329
-			</a><br/>
-			Bendik Razvan
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Int odobesti, Bucharest, Romania</td>
-		<td>329</td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>
 			<a href="https://github.com/ilg-ul">
 				<img src="https://avatars.githubusercontent.com/u/362732?s=72&v=4" width="24" alt="Avatar of ilg-ul"> ilg-ul
 			</a><br/>
@@ -547,7 +534,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>328</td>
 	</tr>
 	<tr>
-		<td>35</td>
+		<td>34</td>
 		<td>
 			<a href="https://github.com/tzyganu">
 				<img src="https://avatars.githubusercontent.com/u/2447784?s=72&u=62bfac199565859e98e6ca27e76aede30e666ff7&v=4" width="24" alt="Avatar of tzyganu"> tzyganu
@@ -560,7 +547,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>321</td>
 	</tr>
 	<tr>
-		<td>36</td>
+		<td>35</td>
 		<td>
 			<a href="https://github.com/zoltanszogyenyi">
 				<img src="https://avatars.githubusercontent.com/u/8052108?s=72&u=d55632b749a1be15b89c360729276b29bb48c46a&v=4" width="24" alt="Avatar of zoltanszogyenyi"> zoltanszogyenyi
@@ -573,7 +560,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>315</td>
 	</tr>
 	<tr>
-		<td>37</td>
+		<td>36</td>
 		<td>
 			<a href="https://github.com/lor6">
 				<img src="https://avatars.githubusercontent.com/u/18684932?s=72&v=4" width="24" alt="Avatar of lor6"> lor6
@@ -586,7 +573,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>315</td>
 	</tr>
 	<tr>
-		<td>38</td>
+		<td>37</td>
 		<td>
 			<a href="https://github.com/echo7yankee">
 				<img src="https://avatars.githubusercontent.com/u/37633121?s=72&u=08b0341d075c5dc67bdb046183d340e7deb7ab26&v=4" width="24" alt="Avatar of echo7yankee"> echo7yankee
@@ -599,7 +586,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>300</td>
 	</tr>
 	<tr>
-		<td>39</td>
+		<td>38</td>
 		<td>
 			<a href="https://github.com/serbanghita">
 				<img src="https://avatars.githubusercontent.com/u/1106849?s=72&u=fd3717ac3d4776d02f95782ee14f7370162a75d4&v=4" width="24" alt="Avatar of serbanghita"> serbanghita
@@ -612,7 +599,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>292</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>39</td>
 		<td>
 			<a href="https://github.com/0-vortex">
 				<img src="https://avatars.githubusercontent.com/u/237133?s=72&u=64379657205570b77ceeeba44e495ca3135916b0&v=4" width="24" alt="Avatar of 0-vortex"> 0-vortex
@@ -622,10 +609,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/0_vortex">0_vortex</a></td>
 		<td>Romania</td>
-		<td>278</td>
+		<td>279</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>40</td>
 		<td>
 			<a href="https://github.com/ibrahimgunduz34">
 				<img src="https://avatars.githubusercontent.com/u/1161927?s=72&u=ad69bad9984bc96effd96bd41938a759ec1938c3&v=4" width="24" alt="Avatar of ibrahimgunduz34"> ibrahimgunduz34
@@ -638,7 +625,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>266</td>
 	</tr>
 	<tr>
-		<td>42</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/aromanro">
 				<img src="https://avatars.githubusercontent.com/u/16321322?s=72&u=6607d1de39ef8e3ba1fe73d491a00ab10b902a26&v=4" width="24" alt="Avatar of aromanro"> aromanro
@@ -651,7 +638,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/iRaul">
 				<img src="https://avatars.githubusercontent.com/u/6464945?s=72&u=f530104b5c916770c102533b087a1be5b451b811&v=4" width="24" alt="Avatar of iRaul"> iRaul
@@ -661,10 +648,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>@fyusion  </td>
 		<td>No Twitter Username</td>
 		<td>Romania, Arad</td>
-		<td>254</td>
+		<td>255</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/gbbr">
 				<img src="https://avatars.githubusercontent.com/u/6686356?s=72&u=dc307b2cacf6c2a91358f1b228525a7f762bcbcc&v=4" width="24" alt="Avatar of gbbr"> gbbr
@@ -677,7 +664,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>253</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>44</td>
 		<td>
 			<a href="https://github.com/razvand">
 				<img src="https://avatars.githubusercontent.com/u/232418?s=72&v=4" width="24" alt="Avatar of razvand"> razvand
@@ -690,7 +677,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>46</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/alessioalex">
 				<img src="https://avatars.githubusercontent.com/u/332898?s=72&u=b5e10bd637f57c8eac860f308561d00b08babc5a&v=4" width="24" alt="Avatar of alessioalex"> alessioalex
@@ -703,7 +690,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>47</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/d4rckh">
 				<img src="https://avatars.githubusercontent.com/u/35298550?s=72&u=b2f548723947566289d38e5f62d16845214d62c0&v=4" width="24" alt="Avatar of d4rckh"> d4rckh
@@ -716,7 +703,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>48</td>
+		<td>47</td>
 		<td>
 			<a href="https://github.com/stefangabos">
 				<img src="https://avatars.githubusercontent.com/u/741165?s=72&u=95c38afa1015f9ed705f3ad9848b3c2687b547db&v=4" width="24" alt="Avatar of stefangabos"> stefangabos
@@ -729,7 +716,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>227</td>
 	</tr>
 	<tr>
-		<td>49</td>
+		<td>48</td>
 		<td>
 			<a href="https://github.com/icflorescu">
 				<img src="https://avatars.githubusercontent.com/u/581999?s=72&u=da379f8a537c24f895587ea2500fd32ab12111f9&v=4" width="24" alt="Avatar of icflorescu"> icflorescu
@@ -739,10 +726,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>React/svelte/node.js Developer </td>
 		<td><a href="https://twitter.com/icflorescu">icflorescu</a></td>
 		<td>Bucharest, Romania</td>
-		<td>223</td>
+		<td>224</td>
 	</tr>
 	<tr>
-		<td>50</td>
+		<td>49</td>
 		<td>
 			<a href="https://github.com/danburzo">
 				<img src="https://avatars.githubusercontent.com/u/205375?s=72&u=4c4ce47c81f7a67965f8423d0569c9f896432071&v=4" width="24" alt="Avatar of danburzo"> danburzo
@@ -755,7 +742,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>221</td>
 	</tr>
 	<tr>
-		<td>51</td>
+		<td>50</td>
 		<td>
 			<a href="https://github.com/GabrielMajeri">
 				<img src="https://avatars.githubusercontent.com/u/3010346?s=72&u=d959b990dbb842429defb91ea513c141b9b4967f&v=4" width="24" alt="Avatar of GabrielMajeri"> GabrielMajeri
@@ -768,7 +755,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>211</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>51</td>
 		<td>
 			<a href="https://github.com/kleampa">
 				<img src="https://avatars.githubusercontent.com/u/1394512?s=72&v=4" width="24" alt="Avatar of kleampa"> kleampa
@@ -781,7 +768,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>210</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>52</td>
 		<td>
 			<a href="https://github.com/razvancir96">
 				<img src="https://avatars.githubusercontent.com/u/40989335?s=72&u=9a9c4990d5a725f780f13ba64ac01ca8786fb2d4&v=4" width="24" alt="Avatar of razvancir96"> razvancir96
@@ -794,7 +781,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>208</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/catalinghita8">
 				<img src="https://avatars.githubusercontent.com/u/30151847?s=72&u=83dc67f8e6be54db76b7e3a9670b3ebf52b114ef&v=4" width="24" alt="Avatar of catalinghita8"> catalinghita8
@@ -807,7 +794,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>204</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/gabrielpreda">
 				<img src="https://avatars.githubusercontent.com/u/4171005?s=72&u=900af07fa9bc4509a33314d4666ce3ffd25b429b&v=4" width="24" alt="Avatar of gabrielpreda"> gabrielpreda
@@ -820,7 +807,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>201</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/mgax">
 				<img src="https://avatars.githubusercontent.com/u/27617?s=72&u=0995209b3dcefd9d7e49a6c64acf20c484f2e19f&v=4" width="24" alt="Avatar of mgax"> mgax
@@ -833,7 +820,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>57</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/hetmann">
 				<img src="https://avatars.githubusercontent.com/u/3584560?s=72&u=f54bd481e956c6b3fe88a15f466ff9a3973e4b35&v=4" width="24" alt="Avatar of hetmann"> hetmann
@@ -846,7 +833,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>58</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/bscript">
 				<img src="https://avatars.githubusercontent.com/u/43368124?s=72&u=2a021739e82fdf672c3f0d6ab0061e9eaec4cf72&v=4" width="24" alt="Avatar of bscript"> bscript
@@ -856,10 +843,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bucharest</td>
-		<td>185</td>
+		<td>186</td>
 	</tr>
 	<tr>
-		<td>59</td>
+		<td>58</td>
 		<td>
 			<a href="https://github.com/icebreaker">
 				<img src="https://avatars.githubusercontent.com/u/57083?s=72&v=4" width="24" alt="Avatar of icebreaker"> icebreaker
@@ -872,7 +859,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>184</td>
 	</tr>
 	<tr>
-		<td>60</td>
+		<td>59</td>
 		<td>
 			<a href="https://github.com/igstan">
 				<img src="https://avatars.githubusercontent.com/u/49002?s=72&v=4" width="24" alt="Avatar of igstan"> igstan
@@ -885,7 +872,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>61</td>
+		<td>60</td>
 		<td>
 			<a href="https://github.com/dsaltares">
 				<img src="https://avatars.githubusercontent.com/u/570314?s=72&u=dd7cadcc702b211759d4196b45b593d99f859824&v=4" width="24" alt="Avatar of dsaltares"> dsaltares
@@ -898,7 +885,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>62</td>
+		<td>61</td>
 		<td>
 			<a href="https://github.com/cristicretu">
 				<img src="https://avatars.githubusercontent.com/u/45521157?s=72&u=f94e5f81b0952621395ca148aa0446c939bd70b5&v=4" width="24" alt="Avatar of cristicretu"> cristicretu
@@ -908,10 +895,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>@deta </td>
 		<td><a href="https://twitter.com/cristicrtu">cristicrtu</a></td>
 		<td>Romania</td>
-		<td>177</td>
+		<td>178</td>
 	</tr>
 	<tr>
-		<td>63</td>
+		<td>62</td>
 		<td>
 			<a href="https://github.com/SasLuca">
 				<img src="https://avatars.githubusercontent.com/u/15983269?s=72&u=a9324011fcd1141464f41474cd24de17b02ca58e&v=4" width="24" alt="Avatar of SasLuca"> SasLuca
@@ -924,7 +911,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>64</td>
+		<td>63</td>
 		<td>
 			<a href="https://github.com/avenirer">
 				<img src="https://avatars.githubusercontent.com/u/3034772?s=72&v=4" width="24" alt="Avatar of avenirer"> avenirer
@@ -937,7 +924,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>177</td>
 	</tr>
 	<tr>
-		<td>65</td>
+		<td>64</td>
 		<td>
 			<a href="https://github.com/bytao7mao">
 				<img src="https://avatars.githubusercontent.com/u/28831190?s=72&u=b7f100bf228310c3b3875d05e0396b5bf0165b95&v=4" width="24" alt="Avatar of bytao7mao"> bytao7mao
@@ -950,7 +937,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>66</td>
+		<td>65</td>
 		<td>
 			<a href="https://github.com/corsicanu">
 				<img src="https://avatars.githubusercontent.com/u/6254131?s=72&u=24b985ba040128a8f50a162ae0bc456ceee28667&v=4" width="24" alt="Avatar of corsicanu"> corsicanu
@@ -963,7 +950,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>174</td>
 	</tr>
 	<tr>
-		<td>67</td>
+		<td>66</td>
 		<td>
 			<a href="https://github.com/magdamiu">
 				<img src="https://avatars.githubusercontent.com/u/5019440?s=72&u=4928dc1148201bb1b938ffb5b9f952b68a4fb622&v=4" width="24" alt="Avatar of magdamiu"> magdamiu
@@ -976,7 +963,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>173</td>
 	</tr>
 	<tr>
-		<td>68</td>
+		<td>67</td>
 		<td>
 			<a href="https://github.com/narcodico">
 				<img src="https://avatars.githubusercontent.com/u/29372054?s=72&u=b9837419bfb0ce75414dec23cf93695adaf803b1&v=4" width="24" alt="Avatar of narcodico"> narcodico
@@ -986,10 +973,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>Narcodic </td>
 		<td>No Twitter Username</td>
 		<td>Satu Mare, Romania</td>
-		<td>171</td>
+		<td>172</td>
 	</tr>
 	<tr>
-		<td>69</td>
+		<td>68</td>
 		<td>
 			<a href="https://github.com/Therzok">
 				<img src="https://avatars.githubusercontent.com/u/109974?s=72&u=6e17388320615b5854481611410fd75560df09af&v=4" width="24" alt="Avatar of Therzok"> Therzok
@@ -1002,7 +989,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>170</td>
 	</tr>
 	<tr>
-		<td>70</td>
+		<td>69</td>
 		<td>
 			<a href="https://github.com/adrianiftode">
 				<img src="https://avatars.githubusercontent.com/u/13752939?s=72&u=dc6ee7f6dfda3c4e46d3041ae7ba4c7123f86345&v=4" width="24" alt="Avatar of adrianiftode"> adrianiftode
@@ -1015,7 +1002,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>167</td>
 	</tr>
 	<tr>
-		<td>71</td>
+		<td>70</td>
 		<td>
 			<a href="https://github.com/marqbeniamin">
 				<img src="https://avatars.githubusercontent.com/u/4600172?s=72&u=a5dd888cb87a9733c6a25561342392b063d47bb9&v=4" width="24" alt="Avatar of marqbeniamin"> marqbeniamin
@@ -1028,7 +1015,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>164</td>
 	</tr>
 	<tr>
-		<td>72</td>
+		<td>71</td>
 		<td>
 			<a href="https://github.com/Gagniuc">
 				<img src="https://avatars.githubusercontent.com/u/88835962?s=72&u=db5c62f59612a7001807a46ae62fd67d395fab6c&v=4" width="24" alt="Avatar of Gagniuc"> Gagniuc
@@ -1041,7 +1028,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>73</td>
+		<td>72</td>
 		<td>
 			<a href="https://github.com/cristianraiber">
 				<img src="https://avatars.githubusercontent.com/u/7841556?s=72&u=70f7dd95885d489fa2797087d4c91f0704ab17d4&v=4" width="24" alt="Avatar of cristianraiber"> cristianraiber
@@ -1054,7 +1041,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>161</td>
 	</tr>
 	<tr>
-		<td>74</td>
+		<td>73</td>
 		<td>
 			<a href="https://github.com/mariludobrescu">
 				<img src="https://avatars.githubusercontent.com/u/77236554?s=72&u=4c27c9eb7ad6101a9b2c068159870393c287fa4c&v=4" width="24" alt="Avatar of mariludobrescu"> mariludobrescu
@@ -1067,7 +1054,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/carcabot">
 				<img src="https://avatars.githubusercontent.com/u/5592599?s=72&u=c3c3f0bcdc6fb68469da1ccda7a0bab431075261&v=4" width="24" alt="Avatar of carcabot"> carcabot
@@ -1080,7 +1067,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/GeorgianaElena">
 				<img src="https://avatars.githubusercontent.com/u/7579677?s=72&u=1ebcc2526a9787b4786c9383870c6b8fbad217d8&v=4" width="24" alt="Avatar of GeorgianaElena"> GeorgianaElena
@@ -1093,7 +1080,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/tiberiuichim">
 				<img src="https://avatars.githubusercontent.com/u/141568?s=72&v=4" width="24" alt="Avatar of tiberiuichim"> tiberiuichim
@@ -1106,7 +1093,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/aistrate">
 				<img src="https://avatars.githubusercontent.com/u/170662?s=72&u=09386ebc04e9c93dc2cfa73fa39fa786d415c066&v=4" width="24" alt="Avatar of aistrate"> aistrate
@@ -1119,7 +1106,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/cossssmin">
 				<img src="https://avatars.githubusercontent.com/u/1656595?s=72&u=3dff26cb9817ae5b50506bef3e0b4bce1b64b60e&v=4" width="24" alt="Avatar of cossssmin"> cossssmin
@@ -1132,7 +1119,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>80</td>
+		<td>79</td>
 		<td>
 			<a href="https://github.com/fufexan">
 				<img src="https://avatars.githubusercontent.com/u/36706276?s=72&v=4" width="24" alt="Avatar of fufexan"> fufexan
@@ -1145,7 +1132,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/ionuttbara">
 				<img src="https://avatars.githubusercontent.com/u/76656855?s=72&u=d91a653622161fb784ecccb4d0bb044038e7f0cf&v=4" width="24" alt="Avatar of ionuttbara"> ionuttbara
@@ -1158,7 +1145,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>141</td>
 	</tr>
 	<tr>
-		<td>82</td>
+		<td>81</td>
 		<td>
 			<a href="https://github.com/RoliSoft">
 				<img src="https://avatars.githubusercontent.com/u/119426?s=72&u=b19be2a871007399d1b19c7fc8adfb49a89c5097&v=4" width="24" alt="Avatar of RoliSoft"> RoliSoft
@@ -1171,7 +1158,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>140</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>82</td>
 		<td>
 			<a href="https://github.com/amiq-consulting">
 				<img src="https://avatars.githubusercontent.com/u/9588678?s=72&u=40d6b494b350008792672d4fdc479d0bb8c31e58&v=4" width="24" alt="Avatar of amiq-consulting"> amiq-consulting
@@ -1184,7 +1171,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>83</td>
 		<td>
 			<a href="https://github.com/WopsS">
 				<img src="https://avatars.githubusercontent.com/u/3403191?s=72&u=f828f07c20ba58ced9d5a4d2631adf3551745073&v=4" width="24" alt="Avatar of WopsS"> WopsS
@@ -1194,10 +1181,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>137</td>
+		<td>136</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/dianpopa">
 				<img src="https://avatars.githubusercontent.com/u/4263668?s=72&u=0ebb829173ecb4cc3e238ba3015ae089f30d0ce5&v=4" width="24" alt="Avatar of dianpopa"> dianpopa
@@ -1210,7 +1197,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/rvencu">
 				<img src="https://avatars.githubusercontent.com/u/287411?s=72&v=4" width="24" alt="Avatar of rvencu"> rvencu
@@ -1223,7 +1210,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/floringogianu">
 				<img src="https://avatars.githubusercontent.com/u/1670348?s=72&u=716089ad588dcd3ad58066a21b3015fdb0a47a32&v=4" width="24" alt="Avatar of floringogianu"> floringogianu
@@ -1236,7 +1223,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/Ernyoke">
 				<img src="https://avatars.githubusercontent.com/u/5096852?s=72&u=c90aaa070316961f3550822bb669da27578a4e0c&v=4" width="24" alt="Avatar of Ernyoke"> Ernyoke
@@ -1249,7 +1236,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>128</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/revolter">
 				<img src="https://avatars.githubusercontent.com/u/5748627?s=72&v=4" width="24" alt="Avatar of revolter"> revolter
@@ -1262,7 +1249,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/dragomirtitian">
 				<img src="https://avatars.githubusercontent.com/u/8193316?s=72&u=a7bed7df69458ee80acf8a50e7437b4b305c0d61&v=4" width="24" alt="Avatar of dragomirtitian"> dragomirtitian
@@ -1275,7 +1262,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>126</td>
 	</tr>
 	<tr>
-		<td>91</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/ignatandrei">
 				<img src="https://avatars.githubusercontent.com/u/153982?s=72&v=4" width="24" alt="Avatar of ignatandrei"> ignatandrei
@@ -1288,7 +1275,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>92</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/liviucotfas">
 				<img src="https://avatars.githubusercontent.com/u/2981923?s=72&u=09684137050257d28afab0587cf06b72cd33ab90&v=4" width="24" alt="Avatar of liviucotfas"> liviucotfas
@@ -1301,7 +1288,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>93</td>
+		<td>92</td>
 		<td>
 			<a href="https://github.com/capr">
 				<img src="https://avatars.githubusercontent.com/u/131660?s=72&u=b1823b9a659387d9cd02513a0f3c2835dd27eeab&v=4" width="24" alt="Avatar of capr"> capr
@@ -1314,7 +1301,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>94</td>
+		<td>93</td>
 		<td>
 			<a href="https://github.com/lnicola">
 				<img src="https://avatars.githubusercontent.com/u/308347?s=72&u=caacdb10d53bc9a294c044dd304065a0173c8b0d&v=4" width="24" alt="Avatar of lnicola"> lnicola
@@ -1327,7 +1314,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>95</td>
+		<td>94</td>
 		<td>
 			<a href="https://github.com/andreicioban">
 				<img src="https://avatars.githubusercontent.com/u/7642654?s=72&v=4" width="24" alt="Avatar of andreicioban"> andreicioban
@@ -1340,7 +1327,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>96</td>
+		<td>95</td>
 		<td>
 			<a href="https://github.com/senisioi">
 				<img src="https://avatars.githubusercontent.com/u/1649296?s=72&u=51a12453fe41df71a933559c944deb561a632922&v=4" width="24" alt="Avatar of senisioi"> senisioi
@@ -1353,7 +1340,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>97</td>
+		<td>96</td>
 		<td>
 			<a href="https://github.com/decebals">
 				<img src="https://avatars.githubusercontent.com/u/1248311?s=72&u=e75cfd91d382cc5f15ebb761cb752b238b381ebe&v=4" width="24" alt="Avatar of decebals"> decebals
@@ -1366,7 +1353,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>98</td>
+		<td>97</td>
 		<td>
 			<a href="https://github.com/mariusbancila">
 				<img src="https://avatars.githubusercontent.com/u/5336650?s=72&u=f944a0256eb3df325181a4b8e69c50e49cc1c09c&v=4" width="24" alt="Avatar of mariusbancila"> mariusbancila
@@ -1379,7 +1366,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>99</td>
+		<td>98</td>
 		<td>
 			<a href="https://github.com/iuliagroza">
 				<img src="https://avatars.githubusercontent.com/u/22706226?s=72&u=54f258d89f366a99c08258f095181976192e1c48&v=4" width="24" alt="Avatar of iuliagroza"> iuliagroza
@@ -1392,7 +1379,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>99</td>
 		<td>
 			<a href="https://github.com/chelaruc">
 				<img src="https://avatars.githubusercontent.com/u/22840626?s=72&u=8b0c1a51834585b96c9340383aba9e76c61e0a95&v=4" width="24" alt="Avatar of chelaruc"> chelaruc
@@ -1405,7 +1392,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>101</td>
+		<td>100</td>
 		<td>
 			<a href="https://github.com/adrianthedev">
 				<img src="https://avatars.githubusercontent.com/u/1334409?s=72&v=4" width="24" alt="Avatar of adrianthedev"> adrianthedev
@@ -1418,7 +1405,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>102</td>
+		<td>101</td>
 		<td>
 			<a href="https://github.com/cristianciurea">
 				<img src="https://avatars.githubusercontent.com/u/61052988?s=72&u=7c505694c674907e0fb5caa8a26b7a34b1f4ec24&v=4" width="24" alt="Avatar of cristianciurea"> cristianciurea
@@ -1429,6 +1416,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td><a href="https://twitter.com/cristianciurea">cristianciurea</a></td>
 		<td>Bucharest, Romania</td>
 		<td>113</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td>
+			<a href="https://github.com/timisalin01">
+				<img src="https://avatars.githubusercontent.com/u/43674869?s=72&u=4c9538136bdb9f562effbe8d0e36cecbbc345c29&v=4" width="24" alt="Avatar of timisalin01"> timisalin01
+			</a><br/>
+			TIMIS ALIN
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>ROMANIA</td>
+		<td>112</td>
 	</tr>
 	<tr>
 		<td>103</td>
@@ -1459,19 +1459,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>105</td>
 		<td>
-			<a href="https://github.com/timisalin01">
-				<img src="https://avatars.githubusercontent.com/u/43674869?s=72&u=4c9538136bdb9f562effbe8d0e36cecbbc345c29&v=4" width="24" alt="Avatar of timisalin01"> timisalin01
-			</a><br/>
-			TIMIS ALIN
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>ROMANIA</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>106</td>
-		<td>
 			<a href="https://github.com/tehniq3">
 				<img src="https://avatars.githubusercontent.com/u/4947574?s=72&u=8e2a6c786fe408891e246f553985ee5509c0353a&v=4" width="24" alt="Avatar of tehniq3"> tehniq3
 			</a><br/>
@@ -1483,7 +1470,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>106</td>
 		<td>
 			<a href="https://github.com/RobertLucian">
 				<img src="https://avatars.githubusercontent.com/u/26958764?s=72&u=6775187b004163184e653587d38f3b7f21401cc0&v=4" width="24" alt="Avatar of RobertLucian"> RobertLucian
@@ -1496,7 +1483,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>107</td>
 		<td>
 			<a href="https://github.com/aistodorescu">
 				<img src="https://avatars.githubusercontent.com/u/1647748?s=72&v=4" width="24" alt="Avatar of aistodorescu"> aistodorescu
@@ -1509,7 +1496,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>109</td>
+		<td>108</td>
 		<td>
 			<a href="https://github.com/celtare21">
 				<img src="https://avatars.githubusercontent.com/u/29823626?s=72&u=99c3dc5d8c833fda3da0968be66f3f1fcd2cc4f0&v=4" width="24" alt="Avatar of celtare21"> celtare21
@@ -1522,7 +1509,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>110</td>
+		<td>109</td>
 		<td>
 			<a href="https://github.com/dapetcu21">
 				<img src="https://avatars.githubusercontent.com/u/428060?s=72&v=4" width="24" alt="Avatar of dapetcu21"> dapetcu21
@@ -1535,7 +1522,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>111</td>
+		<td>110</td>
 		<td>
 			<a href="https://github.com/JustBeYou">
 				<img src="https://avatars.githubusercontent.com/u/10727813?s=72&u=e7bfe666b7d81b57c53aa1353bc0a34e24cc2475&v=4" width="24" alt="Avatar of JustBeYou"> JustBeYou
@@ -1548,7 +1535,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>112</td>
+		<td>111</td>
 		<td>
 			<a href="https://github.com/necenzurat">
 				<img src="https://avatars.githubusercontent.com/u/145449?s=72&u=f7130e39d195f1541e85362ffe84e260fc4268a7&v=4" width="24" alt="Avatar of necenzurat"> necenzurat
@@ -1561,7 +1548,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>112</td>
 		<td>
 			<a href="https://github.com/DreadKnight">
 				<img src="https://avatars.githubusercontent.com/u/587487?s=72&u=e54cac07c86b67c2553a971b1b375b1945130789&v=4" width="24" alt="Avatar of DreadKnight"> DreadKnight
@@ -1574,7 +1561,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>114</td>
+		<td>113</td>
 		<td>
 			<a href="https://github.com/acln0">
 				<img src="https://avatars.githubusercontent.com/u/3393388?s=72&u=0a07c565705320653060deae2e27f1902b2800cb&v=4" width="24" alt="Avatar of acln0"> acln0
@@ -1587,7 +1574,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>115</td>
+		<td>114</td>
 		<td>
 			<a href="https://github.com/ViorelMocanu">
 				<img src="https://avatars.githubusercontent.com/u/166049?s=72&u=3cbe5df506924d5696c0e4b5c9d2cb2cb93b9e69&v=4" width="24" alt="Avatar of ViorelMocanu"> ViorelMocanu
@@ -1600,7 +1587,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>116</td>
+		<td>115</td>
 		<td>
 			<a href="https://github.com/alexandruradovici">
 				<img src="https://avatars.githubusercontent.com/u/2838177?s=72&u=02eb3a2c1b7622b14ec75589e6ebd254ba83c05a&v=4" width="24" alt="Avatar of alexandruradovici"> alexandruradovici
@@ -1613,7 +1600,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>117</td>
+		<td>116</td>
 		<td>
 			<a href="https://github.com/stefanbc">
 				<img src="https://avatars.githubusercontent.com/u/1278794?s=72&v=4" width="24" alt="Avatar of stefanbc"> stefanbc
@@ -1626,7 +1613,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>118</td>
+		<td>117</td>
 		<td>
 			<a href="https://github.com/irinascurtu">
 				<img src="https://avatars.githubusercontent.com/u/27294452?s=72&u=815195f2a4406cf4dcfa201a410dcdbc10cc46b1&v=4" width="24" alt="Avatar of irinascurtu"> irinascurtu
@@ -1639,7 +1626,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>119</td>
+		<td>118</td>
 		<td>
 			<a href="https://github.com/didinele">
 				<img src="https://avatars.githubusercontent.com/u/27137376?s=72&u=2e47b8142bc6a131d66d9894d04f6a5452d11089&v=4" width="24" alt="Avatar of didinele"> didinele
@@ -1652,7 +1639,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>119</td>
 		<td>
 			<a href="https://github.com/mehanix">
 				<img src="https://avatars.githubusercontent.com/u/23579982?s=72&u=98bb789925f6310a5f7b3883d3acf690053a5a1e&v=4" width="24" alt="Avatar of mehanix"> mehanix
@@ -1665,7 +1652,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>120</td>
 		<td>
 			<a href="https://github.com/andreinitescu">
 				<img src="https://avatars.githubusercontent.com/u/743918?s=72&u=d05b465c64b7be9c2c08b4c8cbae4aac291a59ac&v=4" width="24" alt="Avatar of andreinitescu"> andreinitescu
@@ -1678,7 +1665,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>122</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/BogdanIancu">
 				<img src="https://avatars.githubusercontent.com/u/33757747?s=72&u=5611183e9e66b79e332dfed291478c77d5801f7c&v=4" width="24" alt="Avatar of BogdanIancu"> BogdanIancu
@@ -1691,7 +1678,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>123</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/mariuz">
 				<img src="https://avatars.githubusercontent.com/u/18359?s=72&u=026072d27d04b6257e1a7ee914a3500e862abc10&v=4" width="24" alt="Avatar of mariuz"> mariuz
@@ -1704,7 +1691,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>124</td>
+		<td>123</td>
 		<td>
 			<a href="https://github.com/rdragos">
 				<img src="https://avatars.githubusercontent.com/u/708809?s=72&u=000022fbc0a9a17758892a0e6deaba46825f0a79&v=4" width="24" alt="Avatar of rdragos"> rdragos
@@ -1717,7 +1704,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>101</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>124</td>
 		<td>
 			<a href="https://github.com/GhitaB">
 				<img src="https://avatars.githubusercontent.com/u/3416893?s=72&u=85aa4505b43069049c011077f82abf2bd21328a2&v=4" width="24" alt="Avatar of GhitaB"> GhitaB
@@ -1730,7 +1717,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>125</td>
 		<td>
 			<a href="https://github.com/stefanneculai">
 				<img src="https://avatars.githubusercontent.com/u/637004?s=72&u=7b1500ba8b0e0b8db88d3c0a181db31da0a548e9&v=4" width="24" alt="Avatar of stefanneculai"> stefanneculai
@@ -1743,7 +1730,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>127</td>
+		<td>126</td>
 		<td>
 			<a href="https://github.com/Radu-Raicea">
 				<img src="https://avatars.githubusercontent.com/u/15457029?s=72&u=37ac4933e285fdf51c5a449ec948357944b4a1c4&v=4" width="24" alt="Avatar of Radu-Raicea"> Radu-Raicea
@@ -1756,7 +1743,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>127</td>
 		<td>
 			<a href="https://github.com/mihai-vlc">
 				<img src="https://avatars.githubusercontent.com/u/3531898?s=72&u=0f22607d743e51e2bf9c808152a23a182f834210&v=4" width="24" alt="Avatar of mihai-vlc"> mihai-vlc
@@ -1769,10 +1756,10 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>128</td>
 		<td>
 			<a href="https://github.com/xpirt">
-				<img src="https://avatars.githubusercontent.com/u/3776815?s=72&u=e69653d0dffa42535bb0a93c0fcffabc2a168df3&v=4" width="24" alt="Avatar of xpirt"> xpirt
+				<img src="https://avatars.githubusercontent.com/u/3776815?s=72&u=4dc8cc0fae83463c675e342c10266c2d09da4da7&v=4" width="24" alt="Avatar of xpirt"> xpirt
 			</a><br/>
 			Andrei Conache
 		</td>
@@ -1782,7 +1769,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>130</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/einazare">
 				<img src="https://avatars.githubusercontent.com/u/26245512?s=72&u=44fb11edf32627b02f66a5d4880e720c150964b4&v=4" width="24" alt="Avatar of einazare"> einazare
@@ -1795,7 +1782,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>131</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/antonkulaga">
 				<img src="https://avatars.githubusercontent.com/u/842436?s=72&u=7edf0675595cd4085f96cfd70a28bfe702ffcc59&v=4" width="24" alt="Avatar of antonkulaga"> antonkulaga
@@ -1808,7 +1795,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>132</td>
+		<td>131</td>
 		<td>
 			<a href="https://github.com/aghecenco">
 				<img src="https://avatars.githubusercontent.com/u/2035829?s=72&u=91822aaade68499c5dbab0389ffe38ffdb3551f2&v=4" width="24" alt="Avatar of aghecenco"> aghecenco
@@ -1821,7 +1808,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>133</td>
+		<td>132</td>
 		<td>
 			<a href="https://github.com/voltlog">
 				<img src="https://avatars.githubusercontent.com/u/14857827?s=72&u=1af0d4cc40b6e18b1775ae6caf3c2ea3a329e287&v=4" width="24" alt="Avatar of voltlog"> voltlog
@@ -1834,7 +1821,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>134</td>
+		<td>133</td>
 		<td>
 			<a href="https://github.com/kaex">
 				<img src="https://avatars.githubusercontent.com/u/48059103?s=72&u=e48812d368281a82cb8bc2678daef1fd135cf2b8&v=4" width="24" alt="Avatar of kaex"> kaex
@@ -1847,7 +1834,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>135</td>
+		<td>134</td>
 		<td>
 			<a href="https://github.com/dira">
 				<img src="https://avatars.githubusercontent.com/u/29137?s=72&v=4" width="24" alt="Avatar of dira"> dira
@@ -1860,7 +1847,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>136</td>
+		<td>135</td>
 		<td>
 			<a href="https://github.com/lucianmarin">
 				<img src="https://avatars.githubusercontent.com/u/42651?s=72&u=31ab2dc6fdec1b08e8d5a3430d4294a8c4e23229&v=4" width="24" alt="Avatar of lucianmarin"> lucianmarin
@@ -1873,7 +1860,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>137</td>
+		<td>136</td>
 		<td>
 			<a href="https://github.com/florinrm">
 				<img src="https://avatars.githubusercontent.com/u/12157537?s=72&u=9cc7bb9eea23c03a705d931fe33a7b4245b9311f&v=4" width="24" alt="Avatar of florinrm"> florinrm
@@ -1886,7 +1873,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>138</td>
+		<td>137</td>
 		<td>
 			<a href="https://github.com/alinradut">
 				<img src="https://avatars.githubusercontent.com/u/380846?s=72&u=d17141232beb7faaafa25b0d52a3bad8b4202d36&v=4" width="24" alt="Avatar of alinradut"> alinradut
@@ -1899,7 +1886,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>139</td>
+		<td>138</td>
 		<td>
 			<a href="https://github.com/SiR-DanieL">
 				<img src="https://avatars.githubusercontent.com/u/4429413?s=72&u=558dd0d14f9cb695e1470e0da28e019d88d6e704&v=4" width="24" alt="Avatar of SiR-DanieL"> SiR-DanieL
@@ -1912,7 +1899,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>140</td>
+		<td>139</td>
 		<td>
 			<a href="https://github.com/aocneanu">
 				<img src="https://avatars.githubusercontent.com/u/16073274?s=72&u=5e0618ab5d63d808c64458ac7d10c700d7af6063&v=4" width="24" alt="Avatar of aocneanu"> aocneanu
@@ -1925,7 +1912,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>141</td>
+		<td>140</td>
 		<td>
 			<a href="https://github.com/DimaOanaTeodora">
 				<img src="https://avatars.githubusercontent.com/u/61749814?s=72&u=557b88b280562222fd6320cf5a776ffd193301e1&v=4" width="24" alt="Avatar of DimaOanaTeodora"> DimaOanaTeodora
@@ -1938,7 +1925,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>142</td>
+		<td>141</td>
 		<td>
 			<a href="https://github.com/YouGotHitByGunner">
 				<img src="https://avatars.githubusercontent.com/u/36851534?s=72&v=4" width="24" alt="Avatar of YouGotHitByGunner"> YouGotHitByGunner
@@ -1949,6 +1936,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td><a href="https://twitter.com/UGotHitByGunner">UGotHitByGunner</a></td>
 		<td>Bucharest, Romania</td>
 		<td>93</td>
+	</tr>
+	<tr>
+		<td>142</td>
+		<td>
+			<a href="https://github.com/Vegas007">
+				<img src="https://avatars.githubusercontent.com/u/17238102?s=72&u=cde63654c3457c98268ea3f714fb8e5e1db483f6&v=4" width="24" alt="Avatar of Vegas007"> Vegas007
+			</a><br/>
+			Emanuel Constantin
+		</td>
+		<td>Ex Software Engineer At<br/>Continental<br/>&<br/>Nokia<br/></td>
+		<td>No Twitter Username</td>
+		<td>Timisoara, Romania</td>
+		<td>92</td>
 	</tr>
 	<tr>
 		<td>143</td>
@@ -1966,19 +1966,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>144</td>
 		<td>
-			<a href="https://github.com/Vegas007">
-				<img src="https://avatars.githubusercontent.com/u/17238102?s=72&u=cde63654c3457c98268ea3f714fb8e5e1db483f6&v=4" width="24" alt="Avatar of Vegas007"> Vegas007
-			</a><br/>
-			Emanuel Constantin
-		</td>
-		<td>Ex Software Engineer At<br/>Continental<br/>&<br/>Nokia<br/></td>
-		<td>No Twitter Username</td>
-		<td>Timisoara, Romania</td>
-		<td>91</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
 			<a href="https://github.com/andreidiaconu">
 				<img src="https://avatars.githubusercontent.com/u/1402046?s=72&u=7bab6153657b75e41ec7eb77fca8afe3eef36f4b&v=4" width="24" alt="Avatar of andreidiaconu"> andreidiaconu
 			</a><br/>
@@ -1990,7 +1977,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>146</td>
+		<td>145</td>
 		<td>
 			<a href="https://github.com/catileptic">
 				<img src="https://avatars.githubusercontent.com/u/14028425?s=72&u=8d7af3d0f7d0c1da2f622c70d6aee7296a2f7a76&v=4" width="24" alt="Avatar of catileptic"> catileptic
@@ -2003,7 +1990,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>147</td>
+		<td>146</td>
 		<td>
 			<a href="https://github.com/adragomir">
 				<img src="https://avatars.githubusercontent.com/u/3326?s=72&v=4" width="24" alt="Avatar of adragomir"> adragomir
@@ -2016,7 +2003,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>90</td>
 	</tr>
 	<tr>
-		<td>148</td>
+		<td>147</td>
 		<td>
 			<a href="https://github.com/feketemihai">
 				<img src="https://avatars.githubusercontent.com/u/7651755?s=72&u=f50c3b5ebed20851548abaf71d675452d1bd30d9&v=4" width="24" alt="Avatar of feketemihai"> feketemihai
@@ -2029,7 +2016,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>149</td>
+		<td>148</td>
 		<td>
 			<a href="https://github.com/Pufcorina">
 				<img src="https://avatars.githubusercontent.com/u/24194751?s=72&u=b6fb88ea667ef6db2f5c935e8fdd6dd8f266a91b&v=4" width="24" alt="Avatar of Pufcorina"> Pufcorina
@@ -2042,7 +2029,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/cmin764">
 				<img src="https://avatars.githubusercontent.com/u/709053?s=72&u=00b581f6047ad35fb49909583ed69066aeac29a4&v=4" width="24" alt="Avatar of cmin764"> cmin764
@@ -2055,7 +2042,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/andreicristianpetcu">
 				<img src="https://avatars.githubusercontent.com/u/922368?s=72&u=4aa72f1bcd0202bfcc2a379738a5db55995880a4&v=4" width="24" alt="Avatar of andreicristianpetcu"> andreicristianpetcu
@@ -2068,7 +2055,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>152</td>
+		<td>151</td>
 		<td>
 			<a href="https://github.com/u0m3">
 				<img src="https://avatars.githubusercontent.com/u/2176232?s=72&u=cfecd6520c74a3d2c67d658b3060524aebcda15c&v=4" width="24" alt="Avatar of u0m3"> u0m3
@@ -2081,7 +2068,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>153</td>
+		<td>152</td>
 		<td>
 			<a href="https://github.com/CanciuCostin">
 				<img src="https://avatars.githubusercontent.com/u/27332434?s=72&u=8ba994e7710c1f6bfb9b5660181fc9e8baf6f143&v=4" width="24" alt="Avatar of CanciuCostin"> CanciuCostin
@@ -2094,7 +2081,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>154</td>
+		<td>153</td>
 		<td>
 			<a href="https://github.com/rolisz">
 				<img src="https://avatars.githubusercontent.com/u/426313?s=72&u=8977b3a5a8f5866b4d22e2e90f2783fc504ba442&v=4" width="24" alt="Avatar of rolisz"> rolisz
@@ -2107,7 +2094,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>155</td>
+		<td>154</td>
 		<td>
 			<a href="https://github.com/catalinc">
 				<img src="https://avatars.githubusercontent.com/u/435209?s=72&u=8df1ddaf6a0f0001fa776bb638bc6f1c0606a3c2&v=4" width="24" alt="Avatar of catalinc"> catalinc
@@ -2120,7 +2107,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>156</td>
+		<td>155</td>
 		<td>
 			<a href="https://github.com/theodorDiaconu">
 				<img src="https://avatars.githubusercontent.com/u/1814863?s=72&u=152ebcfff57881a4bd341c6a87b6726cc50f0078&v=4" width="24" alt="Avatar of theodorDiaconu"> theodorDiaconu
@@ -2133,7 +2120,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>157</td>
+		<td>156</td>
 		<td>
 			<a href="https://github.com/Tarek-Bohdima">
 				<img src="https://avatars.githubusercontent.com/u/33880180?s=72&u=a0186e5e03083a54cc2024c01d0ca06f7aa2506e&v=4" width="24" alt="Avatar of Tarek-Bohdima"> Tarek-Bohdima
@@ -2146,7 +2133,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>158</td>
+		<td>157</td>
 		<td>
 			<a href="https://github.com/0x4139">
 				<img src="https://avatars.githubusercontent.com/u/6107427?s=72&u=d8072ccb897dc883818ad0b09924d895291ab2ad&v=4" width="24" alt="Avatar of 0x4139"> 0x4139
@@ -2159,7 +2146,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>159</td>
+		<td>158</td>
 		<td>
 			<a href="https://github.com/ghinda">
 				<img src="https://avatars.githubusercontent.com/u/325171?s=72&v=4" width="24" alt="Avatar of ghinda"> ghinda
@@ -2172,7 +2159,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>160</td>
+		<td>159</td>
 		<td>
 			<a href="https://github.com/adrg">
 				<img src="https://avatars.githubusercontent.com/u/6454770?s=72&u=5471add6d6c60da7a54645a38e97db5e24ffb280&v=4" width="24" alt="Avatar of adrg"> adrg
@@ -2185,7 +2172,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>161</td>
+		<td>160</td>
 		<td>
 			<a href="https://github.com/KrivanRaulAdrian">
 				<img src="https://avatars.githubusercontent.com/u/111854652?s=72&u=058d999bfd635937b771b0675b3bf6c88600c075&v=4" width="24" alt="Avatar of KrivanRaulAdrian"> KrivanRaulAdrian
@@ -2198,7 +2185,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>162</td>
+		<td>161</td>
 		<td>
 			<a href="https://github.com/flaviusmatis">
 				<img src="https://avatars.githubusercontent.com/u/1138852?s=72&u=f66e4c4b935a36256a952c8d1e64effa4e303c91&v=4" width="24" alt="Avatar of flaviusmatis"> flaviusmatis
@@ -2211,7 +2198,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/Andrei0872">
 				<img src="https://avatars.githubusercontent.com/u/36248290?s=72&u=429851d0ab1ab29962205ab98e7a5db8f57e9217&v=4" width="24" alt="Avatar of Andrei0872"> Andrei0872
@@ -2224,7 +2211,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>163</td>
 		<td>
 			<a href="https://github.com/Mirch">
 				<img src="https://avatars.githubusercontent.com/u/15807790?s=72&u=44cb333c66bf58ee7b5b5d5391c7653d0e705b96&v=4" width="24" alt="Avatar of Mirch"> Mirch
@@ -2237,7 +2224,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>164</td>
 		<td>
 			<a href="https://github.com/alexo">
 				<img src="https://avatars.githubusercontent.com/u/30596?s=72&v=4" width="24" alt="Avatar of alexo"> alexo
@@ -2250,7 +2237,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>166</td>
+		<td>165</td>
 		<td>
 			<a href="https://github.com/valentin-stamate">
 				<img src="https://avatars.githubusercontent.com/u/43499753?s=72&u=a6a2c7159367d360d8e4eb0fc06363e89aa9db6c&v=4" width="24" alt="Avatar of valentin-stamate"> valentin-stamate
@@ -2263,7 +2250,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>167</td>
+		<td>166</td>
 		<td>
 			<a href="https://github.com/silviatofana">
 				<img src="https://avatars.githubusercontent.com/u/100236377?s=72&u=2419c11125a52ccd12693d5b918c83deafb8e242&v=4" width="24" alt="Avatar of silviatofana"> silviatofana
@@ -2276,7 +2263,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>167</td>
 		<td>
 			<a href="https://github.com/alexgrozav">
 				<img src="https://avatars.githubusercontent.com/u/6179477?s=72&u=70709d6b01ccbf6d197486994ce151f0ac8a7f76&v=4" width="24" alt="Avatar of alexgrozav"> alexgrozav
@@ -2289,7 +2276,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>168</td>
 		<td>
 			<a href="https://github.com/andreialecu">
 				<img src="https://avatars.githubusercontent.com/u/697707?s=72&u=091800d1b122350ab2f30677bc1b76a91dea1497&v=4" width="24" alt="Avatar of andreialecu"> andreialecu
@@ -2302,7 +2289,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>169</td>
 		<td>
 			<a href="https://github.com/timotei">
 				<img src="https://avatars.githubusercontent.com/u/428492?s=72&v=4" width="24" alt="Avatar of timotei"> timotei
@@ -2315,7 +2302,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>170</td>
 		<td>
 			<a href="https://github.com/groovemen">
 				<img src="https://avatars.githubusercontent.com/u/21063398?s=72&u=9cb76165e2b746f4aafdf479eb9023e9ba0ad96f&v=4" width="24" alt="Avatar of groovemen"> groovemen
@@ -2328,7 +2315,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>171</td>
 		<td>
 			<a href="https://github.com/mihneadb">
 				<img src="https://avatars.githubusercontent.com/u/643127?s=72&u=a3e53b3a1a1493aea2b74b35f30d7558cb391c5d&v=4" width="24" alt="Avatar of mihneadb"> mihneadb
@@ -2341,7 +2328,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>172</td>
 		<td>
 			<a href="https://github.com/mateioprea">
 				<img src="https://avatars.githubusercontent.com/u/1246733?s=72&u=e82993c3efa0be0d4335ce07e56d4338e68373cd&v=4" width="24" alt="Avatar of mateioprea"> mateioprea
@@ -2354,7 +2341,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>174</td>
+		<td>173</td>
 		<td>
 			<a href="https://github.com/ubogdan">
 				<img src="https://avatars.githubusercontent.com/u/4992696?s=72&u=ef8328d77a0a4818a4f66cf840b1776efba160a9&v=4" width="24" alt="Avatar of ubogdan"> ubogdan
@@ -2367,7 +2354,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>175</td>
+		<td>174</td>
 		<td>
 			<a href="https://github.com/robiXxu">
 				<img src="https://avatars.githubusercontent.com/u/1962141?s=72&u=129bdba5ce00b2b4eb246ff8ebb0c7cac2596146&v=4" width="24" alt="Avatar of robiXxu"> robiXxu
@@ -2380,7 +2367,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>175</td>
 		<td>
 			<a href="https://github.com/radutopala">
 				<img src="https://avatars.githubusercontent.com/u/647137?s=72&v=4" width="24" alt="Avatar of radutopala"> radutopala
@@ -2393,7 +2380,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>176</td>
 		<td>
 			<a href="https://github.com/adrd">
 				<img src="https://avatars.githubusercontent.com/u/12354033?s=72&v=4" width="24" alt="Avatar of adrd"> adrd
@@ -2406,7 +2393,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>177</td>
 		<td>
 			<a href="https://github.com/LucaConstantin">
 				<img src="https://avatars.githubusercontent.com/u/99320381?s=72&u=f201be20a2706fcaaccb2aea1de7251273d09cb8&v=4" width="24" alt="Avatar of LucaConstantin"> LucaConstantin
@@ -2419,7 +2406,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>178</td>
 		<td>
 			<a href="https://github.com/cristeigabriel">
 				<img src="https://avatars.githubusercontent.com/u/51248378?s=72&u=a726c735c763a9c99e510400d97fc48ddcac7624&v=4" width="24" alt="Avatar of cristeigabriel"> cristeigabriel
@@ -2432,7 +2419,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/udan11">
 				<img src="https://avatars.githubusercontent.com/u/4147664?s=72&u=5aa7ec3b92f9e4fdd81902ddafd229d1a1df592e&v=4" width="24" alt="Avatar of udan11"> udan11
@@ -2445,7 +2432,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/cosminpopescu14">
 				<img src="https://avatars.githubusercontent.com/u/4983185?s=72&u=bd6c7fca1788c6a8e7be4f957bc4f449bbb09fbc&v=4" width="24" alt="Avatar of cosminpopescu14"> cosminpopescu14
@@ -2458,7 +2445,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>74</td>
 	</tr>
 	<tr>
-		<td>182</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/mercer">
 				<img src="https://avatars.githubusercontent.com/u/95358?s=72&u=e9e4b177e67f1f01df43e1632ebd897eafb0fac4&v=4" width="24" alt="Avatar of mercer"> mercer
@@ -2471,7 +2458,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>183</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/pdanpdan">
 				<img src="https://avatars.githubusercontent.com/u/118764?s=72&u=faec9728381cf511002dab7a2a0847b53d135785&v=4" width="24" alt="Avatar of pdanpdan"> pdanpdan
@@ -2484,7 +2471,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>184</td>
+		<td>183</td>
 		<td>
 			<a href="https://github.com/dbaluta">
 				<img src="https://avatars.githubusercontent.com/u/62316?s=72&u=09b0667eb1d77ca1a69f7a3d4921abb13a35e7aa&v=4" width="24" alt="Avatar of dbaluta"> dbaluta
@@ -2497,7 +2484,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>73</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>184</td>
 		<td>
 			<a href="https://github.com/teodutu">
 				<img src="https://avatars.githubusercontent.com/u/19818392?s=72&u=c4fdbe15049b808bc0b9923e713300920b496b51&v=4" width="24" alt="Avatar of teodutu"> teodutu
@@ -2510,7 +2497,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>185</td>
 		<td>
 			<a href="https://github.com/tacheshun">
 				<img src="https://avatars.githubusercontent.com/u/115804?s=72&u=4357183f6995b47d9690e3c49cc651801040c456&v=4" width="24" alt="Avatar of tacheshun"> tacheshun
@@ -2523,7 +2510,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>72</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>186</td>
 		<td>
 			<a href="https://github.com/ionutnechita">
 				<img src="https://avatars.githubusercontent.com/u/9405900?s=72&u=48d18e6aa9335abf02071d7a36682615cb443495&v=4" width="24" alt="Avatar of ionutnechita"> ionutnechita
@@ -2536,7 +2523,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>188</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/mtivadar">
 				<img src="https://avatars.githubusercontent.com/u/8540032?s=72&v=4" width="24" alt="Avatar of mtivadar"> mtivadar
@@ -2549,7 +2536,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>189</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/MrAugu">
 				<img src="https://avatars.githubusercontent.com/u/39545629?s=72&u=b2be4124862f3d8122fd0acf453081ab6df0967e&v=4" width="24" alt="Avatar of MrAugu"> MrAugu
@@ -2562,7 +2549,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>190</td>
+		<td>189</td>
 		<td>
 			<a href="https://github.com/etishor">
 				<img src="https://avatars.githubusercontent.com/u/530460?s=72&v=4" width="24" alt="Avatar of etishor"> etishor
@@ -2575,7 +2562,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>191</td>
+		<td>190</td>
 		<td>
 			<a href="https://github.com/alinpisica">
 				<img src="https://avatars.githubusercontent.com/u/10105079?s=72&u=7158c9502ff1c498923575691e2730391f43cfcd&v=4" width="24" alt="Avatar of alinpisica"> alinpisica
@@ -2588,7 +2575,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>192</td>
+		<td>191</td>
 		<td>
 			<a href="https://github.com/ClimenteA">
 				<img src="https://avatars.githubusercontent.com/u/9250009?s=72&u=56d5fcc22d97026db7ece9249c515372a354d855&v=4" width="24" alt="Avatar of ClimenteA"> ClimenteA
@@ -2601,7 +2588,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>193</td>
+		<td>192</td>
 		<td>
 			<a href="https://github.com/iulianpascalau">
 				<img src="https://avatars.githubusercontent.com/u/36724586?s=72&u=b167a3a65ea8ba51e79fb9d0c6c042291e1d3164&v=4" width="24" alt="Avatar of iulianpascalau"> iulianpascalau
@@ -2614,7 +2601,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>194</td>
+		<td>193</td>
 		<td>
 			<a href="https://github.com/danzisky">
 				<img src="https://avatars.githubusercontent.com/u/65520086?s=72&u=d6eaa9dc739fbc7fa1f4eca256e1eaf267ef2699&v=4" width="24" alt="Avatar of danzisky"> danzisky
@@ -2627,7 +2614,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>195</td>
+		<td>194</td>
 		<td>
 			<a href="https://github.com/wsdookadr">
 				<img src="https://avatars.githubusercontent.com/u/180373?s=72&v=4" width="24" alt="Avatar of wsdookadr"> wsdookadr
@@ -2640,7 +2627,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>195</td>
 		<td>
 			<a href="https://github.com/nalexandru">
 				<img src="https://avatars.githubusercontent.com/u/9295849?s=72&u=1ddb834e45381a0182e8cc88df6455a7c7fa960a&v=4" width="24" alt="Avatar of nalexandru"> nalexandru
@@ -2653,7 +2640,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>196</td>
 		<td>
 			<a href="https://github.com/pirofti">
 				<img src="https://avatars.githubusercontent.com/u/1188967?s=72&u=143fae83c6f654959fc414ebcd399944e83a7590&v=4" width="24" alt="Avatar of pirofti"> pirofti
@@ -2666,7 +2653,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>197</td>
 		<td>
 			<a href="https://github.com/biroeniko">
 				<img src="https://avatars.githubusercontent.com/u/20223727?s=72&u=eb37fd55c3bb97d1a45d213b4b6ff96861b484af&v=4" width="24" alt="Avatar of biroeniko"> biroeniko
@@ -2679,7 +2666,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>68</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/Mateiadrielrafael">
 				<img src="https://avatars.githubusercontent.com/u/39400800?s=72&u=18817500fd51d3d2465d394710ed9d4db69bb0cb&v=4" width="24" alt="Avatar of Mateiadrielrafael"> Mateiadrielrafael
@@ -2692,7 +2679,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/mariusmotea">
 				<img src="https://avatars.githubusercontent.com/u/5594370?s=72&v=4" width="24" alt="Avatar of mariusmotea"> mariusmotea
@@ -2705,7 +2692,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>201</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/cristianCeamatu">
 				<img src="https://avatars.githubusercontent.com/u/19146884?s=72&u=df70c4a8f9255393dc68943d39518320ed35dc02&v=4" width="24" alt="Avatar of cristianCeamatu"> cristianCeamatu
@@ -2718,7 +2705,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/rosoftdeveloper">
 				<img src="https://avatars.githubusercontent.com/u/15912497?s=72&u=84b2c4f709681f4827b0b3aea4dfb61b561cc3b0&v=4" width="24" alt="Avatar of rosoftdeveloper"> rosoftdeveloper
@@ -2731,7 +2718,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>67</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>202</td>
 		<td>
 			<a href="https://github.com/CatalinFrancu">
 				<img src="https://avatars.githubusercontent.com/u/1180392?s=72&u=63da91211ebec1c3daef77199da970967b8470ef&v=4" width="24" alt="Avatar of CatalinFrancu"> CatalinFrancu
@@ -2744,7 +2731,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>203</td>
 		<td>
 			<a href="https://github.com/skinzor">
 				<img src="https://avatars.githubusercontent.com/u/16451884?s=72&u=75188b62a8faa66dc561fee8ece29b55ed8571b8&v=4" width="24" alt="Avatar of skinzor"> skinzor
@@ -2757,7 +2744,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>66</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/lucianghinda">
 				<img src="https://avatars.githubusercontent.com/u/1407869?s=72&u=6e7bba5b1827623cb30a29995028a2b3db6da4ab&v=4" width="24" alt="Avatar of lucianghinda"> lucianghinda
@@ -2770,7 +2757,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>205</td>
 		<td>
 			<a href="https://github.com/nandor">
 				<img src="https://avatars.githubusercontent.com/u/961615?s=72&u=b1abce6280f1dadad0f7d2d78895ef547525caf6&v=4" width="24" alt="Avatar of nandor"> nandor
@@ -2783,7 +2770,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/selul">
 				<img src="https://avatars.githubusercontent.com/u/3330746?s=72&u=0067fcba7aaadd96e74ed45ccff555a824accbf3&v=4" width="24" alt="Avatar of selul"> selul
@@ -2796,7 +2783,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/RaduNichita">
 				<img src="https://avatars.githubusercontent.com/u/45298861?s=72&u=e13407325ab4370088047989c8a7a747ed31845f&v=4" width="24" alt="Avatar of RaduNichita"> RaduNichita
@@ -2809,7 +2796,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>209</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/nightsh">
 				<img src="https://avatars.githubusercontent.com/u/1579997?s=72&v=4" width="24" alt="Avatar of nightsh"> nightsh
@@ -2822,7 +2809,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>210</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/Pibee08">
 				<img src="https://avatars.githubusercontent.com/u/77978215?s=72&u=67ee138fda211b69f8335917e9a59a46623092b8&v=4" width="24" alt="Avatar of Pibee08"> Pibee08
@@ -2835,7 +2822,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>211</td>
+		<td>210</td>
 		<td>
 			<a href="https://github.com/radhoo">
 				<img src="https://avatars.githubusercontent.com/u/678421?s=72&v=4" width="24" alt="Avatar of radhoo"> radhoo
@@ -2848,7 +2835,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>65</td>
 	</tr>
 	<tr>
-		<td>212</td>
+		<td>211</td>
 		<td>
 			<a href="https://github.com/EndreEndi">
 				<img src="https://avatars.githubusercontent.com/u/14347302?s=72&u=172391930e49253276436aa3339f96afb2754ef2&v=4" width="24" alt="Avatar of EndreEndi"> EndreEndi
@@ -2861,7 +2848,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>213</td>
+		<td>212</td>
 		<td>
 			<a href="https://github.com/Lorelei89">
 				<img src="https://avatars.githubusercontent.com/u/12247675?s=72&u=c6855bc17ca12ae8a3a8081d6b83dedcc9964952&v=4" width="24" alt="Avatar of Lorelei89"> Lorelei89
@@ -2874,7 +2861,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>214</td>
+		<td>213</td>
 		<td>
 			<a href="https://github.com/cristianbica">
 				<img src="https://avatars.githubusercontent.com/u/150381?s=72&u=19ea987c4d402c67eac103064c5ae6ef22e5c891&v=4" width="24" alt="Avatar of cristianbica"> cristianbica
@@ -2887,7 +2874,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>215</td>
+		<td>214</td>
 		<td>
 			<a href="https://github.com/LucianU">
 				<img src="https://avatars.githubusercontent.com/u/912849?s=72&u=43d8abfdab71fad20c5736feb17770d93befd4eb&v=4" width="24" alt="Avatar of LucianU"> LucianU
@@ -2900,7 +2887,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>216</td>
+		<td>215</td>
 		<td>
 			<a href="https://github.com/Alexandra182">
 				<img src="https://avatars.githubusercontent.com/u/7154339?s=72&u=a29a3d47ec19fd7f221c66c95ca8ab97d279bfcc&v=4" width="24" alt="Avatar of Alexandra182"> Alexandra182
@@ -2913,7 +2900,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>216</td>
 		<td>
 			<a href="https://github.com/radusqrt">
 				<img src="https://avatars.githubusercontent.com/u/8861522?s=72&u=e900ed97b42b3c0e4f3cebcf14fbc9bf528bc4ca&v=4" width="24" alt="Avatar of radusqrt"> radusqrt
@@ -2926,7 +2913,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>217</td>
 		<td>
 			<a href="https://github.com/Tynael">
 				<img src="https://avatars.githubusercontent.com/u/16559614?s=72&u=757d928ed848d9cd54388b6aa70874c9b0b4a21b&v=4" width="24" alt="Avatar of Tynael"> Tynael
@@ -2939,7 +2926,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>63</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/craciunoiuc">
 				<img src="https://avatars.githubusercontent.com/u/46280801?s=72&u=83f75813a5211f946b52700018fbab11a7dc02e1&v=4" width="24" alt="Avatar of craciunoiuc"> craciunoiuc
@@ -2952,7 +2939,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>220</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/andreibancioiu">
 				<img src="https://avatars.githubusercontent.com/u/5137841?s=72&v=4" width="24" alt="Avatar of andreibancioiu"> andreibancioiu
@@ -2965,7 +2952,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>221</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/motorina0">
 				<img src="https://avatars.githubusercontent.com/u/2951406?s=72&u=af4fd082ac8ed672d3336c39c1d30b8498bf4aa5&v=4" width="24" alt="Avatar of motorina0"> motorina0
@@ -2978,7 +2965,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>222</td>
+		<td>221</td>
 		<td>
 			<a href="https://github.com/cthackers">
 				<img src="https://avatars.githubusercontent.com/u/210514?s=72&v=4" width="24" alt="Avatar of cthackers"> cthackers
@@ -2991,7 +2978,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>223</td>
+		<td>222</td>
 		<td>
 			<a href="https://github.com/Natain">
 				<img src="https://avatars.githubusercontent.com/u/84060003?s=72&u=85dd4be5092d3d0d1b3aa74ed1f3e14823542167&v=4" width="24" alt="Avatar of Natain"> Natain
@@ -3004,7 +2991,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>61</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>223</td>
 		<td>
 			<a href="https://github.com/stefanasandei">
 				<img src="https://avatars.githubusercontent.com/u/52822996?s=72&u=b0c166f284655436a285dcd7f02ff1fd60cde22b&v=4" width="24" alt="Avatar of stefanasandei"> stefanasandei
@@ -3017,7 +3004,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/ruxiang05">
 				<img src="https://avatars.githubusercontent.com/u/14987594?s=72&u=8c23395f3fba2df839d47d86c164e1b061db3465&v=4" width="24" alt="Avatar of ruxiang05"> ruxiang05
@@ -3030,7 +3017,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/joswha">
 				<img src="https://avatars.githubusercontent.com/u/30861155?s=72&u=53c886c93343556cb24f786822856562341a8cbe&v=4" width="24" alt="Avatar of joswha"> joswha
@@ -3043,7 +3030,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/rif">
 				<img src="https://avatars.githubusercontent.com/u/461577?s=72&v=4" width="24" alt="Avatar of rif"> rif
@@ -3056,7 +3043,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/MikyPopescu">
 				<img src="https://avatars.githubusercontent.com/u/51006720?s=72&u=280d1437f9d9afa34dd383fac526dd0463fd2725&v=4" width="24" alt="Avatar of MikyPopescu"> MikyPopescu
@@ -3069,7 +3056,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>60</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/cristipufu">
 				<img src="https://avatars.githubusercontent.com/u/3955285?s=72&u=545f405390a0a06f038f2543dff0d41887f0eabe&v=4" width="24" alt="Avatar of cristipufu"> cristipufu
@@ -3082,7 +3069,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/gabrielmocanu">
 				<img src="https://avatars.githubusercontent.com/u/34304856?s=72&u=f148ed355edd4cb0225409758f9b861c5dae8b3e&v=4" width="24" alt="Avatar of gabrielmocanu"> gabrielmocanu
@@ -3095,7 +3082,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/vladnicula">
 				<img src="https://avatars.githubusercontent.com/u/126038?s=72&u=0780a7196020e7e3123f9e8238c9ea43ef4f94be&v=4" width="24" alt="Avatar of vladnicula"> vladnicula
@@ -3108,7 +3095,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/zalog">
 				<img src="https://avatars.githubusercontent.com/u/985838?s=72&u=ed0758039f98c1be67cd4741bea9b59aa7cc2bcd&v=4" width="24" alt="Avatar of zalog"> zalog
@@ -3121,7 +3108,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/alexsomai">
 				<img src="https://avatars.githubusercontent.com/u/5720977?s=72&u=e77390c155f10d7dd8b5110448c3ae1ce29ce817&v=4" width="24" alt="Avatar of alexsomai"> alexsomai
@@ -3134,7 +3121,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>59</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/Alexejhero">
 				<img src="https://avatars.githubusercontent.com/u/32238504?s=72&u=93a5b729bff3b344a2132bca06b63ef2cbd399f6&v=4" width="24" alt="Avatar of Alexejhero"> Alexejhero
@@ -3147,7 +3134,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/sasurobert">
 				<img src="https://avatars.githubusercontent.com/u/713090?s=72&u=c520c73ad8ab6fa971fee85b2541cdd61992c7d4&v=4" width="24" alt="Avatar of sasurobert"> sasurobert
@@ -3160,7 +3147,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>236</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/iosifache">
 				<img src="https://avatars.githubusercontent.com/u/11766982?s=72&u=0f7856d6c003577da2b16576e08d657350d6b400&v=4" width="24" alt="Avatar of iosifache"> iosifache
@@ -3173,7 +3160,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>237</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/aoancea">
 				<img src="https://avatars.githubusercontent.com/u/4282532?s=72&v=4" width="24" alt="Avatar of aoancea"> aoancea
@@ -3186,7 +3173,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>238</td>
+		<td>237</td>
 		<td>
 			<a href="https://github.com/iuliaco">
 				<img src="https://avatars.githubusercontent.com/u/31440913?s=72&u=6d8ac23baca2de47bf019c4793f57be174729e79&v=4" width="24" alt="Avatar of iuliaco"> iuliaco
@@ -3199,7 +3186,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>239</td>
+		<td>238</td>
 		<td>
 			<a href="https://github.com/peterbuga">
 				<img src="https://avatars.githubusercontent.com/u/6365174?s=72&u=04d0669abeec08209254a881c4d94201b7a2b5f3&v=4" width="24" alt="Avatar of peterbuga"> peterbuga
@@ -3212,7 +3199,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>58</td>
 	</tr>
 	<tr>
-		<td>240</td>
+		<td>239</td>
 		<td>
 			<a href="https://github.com/ksenonadv">
 				<img src="https://avatars.githubusercontent.com/u/25392951?s=72&u=2340af7464b39b6c39b1d7b09a3537d8ff40984b&v=4" width="24" alt="Avatar of ksenonadv"> ksenonadv
@@ -3225,7 +3212,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>241</td>
+		<td>240</td>
 		<td>
 			<a href="https://github.com/Photonios">
 				<img src="https://avatars.githubusercontent.com/u/5777517?s=72&u=42a2c71439db7dfa3de6781ed25838dd53959868&v=4" width="24" alt="Avatar of Photonios"> Photonios
@@ -3238,7 +3225,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>242</td>
+		<td>241</td>
 		<td>
 			<a href="https://github.com/andrei-marinica">
 				<img src="https://avatars.githubusercontent.com/u/26074099?s=72&u=2a9a350cbeb900c94713f6e6afda4ab6b7a93106&v=4" width="24" alt="Avatar of andrei-marinica"> andrei-marinica
@@ -3251,7 +3238,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>243</td>
+		<td>242</td>
 		<td>
 			<a href="https://github.com/wmariuss">
 				<img src="https://avatars.githubusercontent.com/u/6131115?s=72&u=7068905815ba5c99b8be95dfc19a9aae7a1dc520&v=4" width="24" alt="Avatar of wmariuss"> wmariuss
@@ -3264,7 +3251,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>243</td>
 		<td>
 			<a href="https://github.com/afurculita">
 				<img src="https://avatars.githubusercontent.com/u/3129631?s=72&u=834f0d82b1c36dc4283b8d58aed1033358abfffd&v=4" width="24" alt="Avatar of afurculita"> afurculita
@@ -3277,7 +3264,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>244</td>
 		<td>
 			<a href="https://github.com/surdu">
 				<img src="https://avatars.githubusercontent.com/u/11520795?s=72&u=508a07eb626be49045541abb89df86786467c52d&v=4" width="24" alt="Avatar of surdu"> surdu
@@ -3290,7 +3277,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/craiu">
 				<img src="https://avatars.githubusercontent.com/u/3932279?s=72&v=4" width="24" alt="Avatar of craiu"> craiu
@@ -3303,7 +3290,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/evalica">
 				<img src="https://avatars.githubusercontent.com/u/629552?s=72&u=aca81ed549bc1747c10aae40c977769f685293cf&v=4" width="24" alt="Avatar of evalica"> evalica
@@ -3316,7 +3303,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/alecs">
 				<img src="https://avatars.githubusercontent.com/u/1592826?s=72&v=4" width="24" alt="Avatar of alecs"> alecs
@@ -3329,7 +3316,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>249</td>
+		<td>248</td>
 		<td>
 			<a href="https://github.com/liviubouruc">
 				<img src="https://avatars.githubusercontent.com/u/56819199?s=72&u=f54e70c96feed0029b5ff19b0a9094ff467bc509&v=4" width="24" alt="Avatar of liviubouruc"> liviubouruc
@@ -3342,7 +3329,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>250</td>
+		<td>249</td>
 		<td>
 			<a href="https://github.com/adrian-budau">
 				<img src="https://avatars.githubusercontent.com/u/1350273?s=72&u=ef523d996bddbc517973cff13554bf05585bc418&v=4" width="24" alt="Avatar of adrian-budau"> adrian-budau
@@ -3355,7 +3342,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>57</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>250</td>
 		<td>
 			<a href="https://github.com/daemon3000">
 				<img src="https://avatars.githubusercontent.com/u/3215789?s=72&v=4" width="24" alt="Avatar of daemon3000"> daemon3000
@@ -3368,7 +3355,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>251</td>
 		<td>
 			<a href="https://github.com/dmfarcas">
 				<img src="https://avatars.githubusercontent.com/u/681522?s=72&u=569da90d1ba8dbe36f46c689681b2a0ba2836559&v=4" width="24" alt="Avatar of dmfarcas"> dmfarcas
@@ -3381,7 +3368,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>252</td>
 		<td>
 			<a href="https://github.com/Mesi21">
 				<img src="https://avatars.githubusercontent.com/u/45359536?s=72&u=5169b79291996f0e327cecc16fd24beedec0496c&v=4" width="24" alt="Avatar of Mesi21"> Mesi21
@@ -3394,7 +3381,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>253</td>
 		<td>
 			<a href="https://github.com/oprearocks">
 				<img src="https://avatars.githubusercontent.com/u/2746712?s=72&u=d142a853e255ad77127bff90553f6eb731d25812&v=4" width="24" alt="Avatar of oprearocks"> oprearocks
@@ -3407,7 +3394,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>254</td>
 		<td>
 			<a href="https://github.com/whoisbaby">
 				<img src="https://avatars.githubusercontent.com/u/63604401?s=72&u=9a17ac0f1365d0441d3bd9d44024401bedcdd970&v=4" width="24" alt="Avatar of whoisbaby"> whoisbaby
@@ -3420,7 +3407,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>255</td>
 		<td>
 			<a href="https://github.com/florinel-chis">
 				<img src="https://avatars.githubusercontent.com/u/2117053?s=72&u=7545368d82c8a478bdf2850a1483aade17131b49&v=4" width="24" alt="Avatar of florinel-chis"> florinel-chis
@@ -3433,7 +3420,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>56</td>
 	</tr>
 	<tr>
-		<td>257</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/plesalex100">
 				<img src="https://avatars.githubusercontent.com/u/34649178?s=72&u=6c06289d6c07764e8bf4006861a38ed3d1925996&v=4" width="24" alt="Avatar of plesalex100"> plesalex100
@@ -3446,7 +3433,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>258</td>
+		<td>257</td>
 		<td>
 			<a href="https://github.com/rolandleth">
 				<img src="https://avatars.githubusercontent.com/u/1858700?s=72&v=4" width="24" alt="Avatar of rolandleth"> rolandleth
@@ -3459,7 +3446,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>259</td>
+		<td>258</td>
 		<td>
 			<a href="https://github.com/alexcoman">
 				<img src="https://avatars.githubusercontent.com/u/5760107?s=72&u=9e3dc627e4de1864483d812d900c68e59291f880&v=4" width="24" alt="Avatar of alexcoman"> alexcoman
@@ -3472,7 +3459,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>55</td>
 	</tr>
 	<tr>
-		<td>260</td>
+		<td>259</td>
 		<td>
 			<a href="https://github.com/andreitoma8">
 				<img src="https://avatars.githubusercontent.com/u/96236521?s=72&u=da79033c33852449a0e6168024dc9559b5b35be0&v=4" width="24" alt="Avatar of andreitoma8"> andreitoma8
@@ -3485,7 +3472,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>261</td>
+		<td>260</td>
 		<td>
 			<a href="https://github.com/mariasfiraiala">
 				<img src="https://avatars.githubusercontent.com/u/94474066?s=72&u=a8448f0413a94e989a1b34cd107946a06f8514a7&v=4" width="24" alt="Avatar of mariasfiraiala"> mariasfiraiala
@@ -3498,7 +3485,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>262</td>
+		<td>261</td>
 		<td>
 			<a href="https://github.com/tomadimitrie">
 				<img src="https://avatars.githubusercontent.com/u/34240434?s=72&u=b0cb371076a5bcfd7c8bccebe5a16f6a2cbc91ec&v=4" width="24" alt="Avatar of tomadimitrie"> tomadimitrie
@@ -3511,7 +3498,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>263</td>
+		<td>262</td>
 		<td>
 			<a href="https://github.com/kosson">
 				<img src="https://avatars.githubusercontent.com/u/3862735?s=72&u=a86ed0b16e12f7e31f6ebc4b47961a6f2aba05f2&v=4" width="24" alt="Avatar of kosson"> kosson
@@ -3524,7 +3511,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>264</td>
+		<td>263</td>
 		<td>
 			<a href="https://github.com/mihaidoinea">
 				<img src="https://avatars.githubusercontent.com/u/15867110?s=72&v=4" width="24" alt="Avatar of mihaidoinea"> mihaidoinea
@@ -3537,7 +3524,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>54</td>
 	</tr>
 	<tr>
-		<td>265</td>
+		<td>264</td>
 		<td>
 			<a href="https://github.com/cipriancraciun">
 				<img src="https://avatars.githubusercontent.com/u/29785?s=72&v=4" width="24" alt="Avatar of cipriancraciun"> cipriancraciun
@@ -3550,7 +3537,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>266</td>
+		<td>265</td>
 		<td>
 			<a href="https://github.com/dnutiu">
 				<img src="https://avatars.githubusercontent.com/u/6840706?s=72&u=667619bb01e1543c1225eb970e540711f4425cae&v=4" width="24" alt="Avatar of dnutiu"> dnutiu
@@ -3563,7 +3550,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>267</td>
+		<td>266</td>
 		<td>
 			<a href="https://github.com/THDigi">
 				<img src="https://avatars.githubusercontent.com/u/844339?s=72&u=d0564d376dc6bbd27f916c2c2bd148b22f7ad1bf&v=4" width="24" alt="Avatar of THDigi"> THDigi
@@ -3576,7 +3563,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>267</td>
 		<td>
 			<a href="https://github.com/Ioan-Popovici">
 				<img src="https://avatars.githubusercontent.com/u/17069425?s=72&v=4" width="24" alt="Avatar of Ioan-Popovici"> Ioan-Popovici
@@ -3589,7 +3576,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>268</td>
 		<td>
 			<a href="https://github.com/gpailler">
 				<img src="https://avatars.githubusercontent.com/u/3621529?s=72&v=4" width="24" alt="Avatar of gpailler"> gpailler
@@ -3602,7 +3589,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>269</td>
 		<td>
 			<a href="https://github.com/yoyosan">
 				<img src="https://avatars.githubusercontent.com/u/32405?s=72&u=08e20233efd55ec8ce3cc33e97aea67f503da61c&v=4" width="24" alt="Avatar of yoyosan"> yoyosan
@@ -3615,7 +3602,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>271</td>
+		<td>270</td>
 		<td>
 			<a href="https://github.com/bgadrian">
 				<img src="https://avatars.githubusercontent.com/u/830001?s=72&u=69f115baad2fcd8c14eb05bdbf5cd80f4649a95a&v=4" width="24" alt="Avatar of bgadrian"> bgadrian
@@ -3628,7 +3615,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>53</td>
 	</tr>
 	<tr>
-		<td>272</td>
+		<td>271</td>
 		<td>
 			<a href="https://github.com/drazvan">
 				<img src="https://avatars.githubusercontent.com/u/206165?s=72&u=316915101f4edf0f3aaeea6ebe320e22e76b5044&v=4" width="24" alt="Avatar of drazvan"> drazvan
@@ -3641,7 +3628,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>273</td>
+		<td>272</td>
 		<td>
 			<a href="https://github.com/catalina757">
 				<img src="https://avatars.githubusercontent.com/u/72210388?s=72&u=aae747bb09bb23f58227b39a4176e28556686882&v=4" width="24" alt="Avatar of catalina757"> catalina757
@@ -3654,7 +3641,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>273</td>
 		<td>
 			<a href="https://github.com/andreiavrammsd">
 				<img src="https://avatars.githubusercontent.com/u/6795248?s=72&u=61078d48872855197bac5403f6b47dba8b6a9e92&v=4" width="24" alt="Avatar of andreiavrammsd"> andreiavrammsd
@@ -3667,7 +3654,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>274</td>
 		<td>
 			<a href="https://github.com/critoma">
 				<img src="https://avatars.githubusercontent.com/u/29583672?s=72&u=a57bb8fdbc4066a1514525e796d7d9a91403d984&v=4" width="24" alt="Avatar of critoma"> critoma
@@ -3680,7 +3667,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/madalinaeleonorag">
 				<img src="https://avatars.githubusercontent.com/u/28501996?s=72&u=434f0405921c1d4e12aaa5cff0db2460ec2ce448&v=4" width="24" alt="Avatar of madalinaeleonorag"> madalinaeleonorag
@@ -3693,7 +3680,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>277</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/bicsi">
 				<img src="https://avatars.githubusercontent.com/u/8794929?s=72&u=8422b85b40838deef1da66508ec48d1cd70b82d9&v=4" width="24" alt="Avatar of bicsi"> bicsi
@@ -3706,7 +3693,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>52</td>
 	</tr>
 	<tr>
-		<td>278</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/BucurEva87">
 				<img src="https://avatars.githubusercontent.com/u/64814566?s=72&v=4" width="24" alt="Avatar of BucurEva87"> BucurEva87
@@ -3719,7 +3706,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>279</td>
+		<td>278</td>
 		<td>
 			<a href="https://github.com/TheLuckyCoder">
 				<img src="https://avatars.githubusercontent.com/u/11237093?s=72&u=f117e19f835e528077e8e3273e2818114ee68489&v=4" width="24" alt="Avatar of TheLuckyCoder"> TheLuckyCoder
@@ -3732,7 +3719,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>280</td>
+		<td>279</td>
 		<td>
 			<a href="https://github.com/andiradulescu">
 				<img src="https://avatars.githubusercontent.com/u/76900?s=72&v=4" width="24" alt="Avatar of andiradulescu"> andiradulescu
@@ -3745,7 +3732,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>280</td>
 		<td>
 			<a href="https://github.com/tvlad1234">
 				<img src="https://avatars.githubusercontent.com/u/60291077?s=72&v=4" width="24" alt="Avatar of tvlad1234"> tvlad1234
@@ -3758,7 +3745,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>281</td>
 		<td>
 			<a href="https://github.com/mihaifm">
 				<img src="https://avatars.githubusercontent.com/u/981184?s=72&u=68185eb7fb568eb8293d0006af05102208be0588&v=4" width="24" alt="Avatar of mihaifm"> mihaifm
@@ -3771,7 +3758,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>282</td>
 		<td>
 			<a href="https://github.com/conacelelena">
 				<img src="https://avatars.githubusercontent.com/u/2582303?s=72&u=86677806f3c1a2045c4b31a330f323c2a7577f81&v=4" width="24" alt="Avatar of conacelelena"> conacelelena
@@ -3784,7 +3771,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>284</td>
+		<td>283</td>
 		<td>
 			<a href="https://github.com/racoltacalin">
 				<img src="https://avatars.githubusercontent.com/u/37398532?s=72&u=045369305367773c1877b0564100f65f6e3006b0&v=4" width="24" alt="Avatar of racoltacalin"> racoltacalin
@@ -3797,7 +3784,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>285</td>
+		<td>284</td>
 		<td>
 			<a href="https://github.com/lmsasu">
 				<img src="https://avatars.githubusercontent.com/u/3276268?s=72&v=4" width="24" alt="Avatar of lmsasu"> lmsasu
@@ -3810,7 +3797,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>286</td>
+		<td>285</td>
 		<td>
 			<a href="https://github.com/botofancalin">
 				<img src="https://avatars.githubusercontent.com/u/32721615?s=72&u=c9ead700f39c22b53f8c0a1873f62e4bf79707af&v=4" width="24" alt="Avatar of botofancalin"> botofancalin
@@ -3823,7 +3810,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>287</td>
+		<td>286</td>
 		<td>
 			<a href="https://github.com/flavius-dinu">
 				<img src="https://avatars.githubusercontent.com/u/57911064?s=72&u=127f860c7d40c1baa088f77efaeca0494b6b6887&v=4" width="24" alt="Avatar of flavius-dinu"> flavius-dinu
@@ -3836,7 +3823,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>288</td>
+		<td>287</td>
 		<td>
 			<a href="https://github.com/carinaghiorghita">
 				<img src="https://avatars.githubusercontent.com/u/72523580?s=72&u=7cdad5f5508bbb06b675dc6970fa77fd3eac8e60&v=4" width="24" alt="Avatar of carinaghiorghita"> carinaghiorghita
@@ -3849,7 +3836,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>289</td>
+		<td>288</td>
 		<td>
 			<a href="https://github.com/NitrogenDev">
 				<img src="https://avatars.githubusercontent.com/u/44950964?s=72&u=fbb8baf0eedb21ee61568796279b35a10e9c5907&v=4" width="24" alt="Avatar of NitrogenDev"> NitrogenDev
@@ -3862,7 +3849,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>290</td>
+		<td>289</td>
 		<td>
 			<a href="https://github.com/eduardsui">
 				<img src="https://avatars.githubusercontent.com/u/16817829?s=72&u=52ad9c924cb383ed50fef11cb3015bd119653ab0&v=4" width="24" alt="Avatar of eduardsui"> eduardsui
@@ -3875,7 +3862,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>291</td>
+		<td>290</td>
 		<td>
 			<a href="https://github.com/ivdorelian">
 				<img src="https://avatars.githubusercontent.com/u/2019410?s=72&u=cb213ab9b07a432a34fbc350aad37ed588d75acd&v=4" width="24" alt="Avatar of ivdorelian"> ivdorelian
@@ -3888,7 +3875,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>291</td>
 		<td>
 			<a href="https://github.com/alexaandru">
 				<img src="https://avatars.githubusercontent.com/u/85237?s=72&v=4" width="24" alt="Avatar of alexaandru"> alexaandru
@@ -3901,7 +3888,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>293</td>
+		<td>292</td>
 		<td>
 			<a href="https://github.com/ioanaandreeab">
 				<img src="https://avatars.githubusercontent.com/u/17382650?s=72&u=aeef52b8e22a350a2c1974a9b336e3852dd15762&v=4" width="24" alt="Avatar of ioanaandreeab"> ioanaandreeab
@@ -3914,7 +3901,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>293</td>
 		<td>
 			<a href="https://github.com/tiberiuzuld">
 				<img src="https://avatars.githubusercontent.com/u/15310395?s=72&u=145938993ee30ac5a6ed158ab3abd1d1d2e615a3&v=4" width="24" alt="Avatar of tiberiuzuld"> tiberiuzuld
@@ -3927,7 +3914,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>294</td>
 		<td>
 			<a href="https://github.com/bdaniel7">
 				<img src="https://avatars.githubusercontent.com/u/215914?s=72&u=3cf62920d30c2b395f135b3f2a46bfa2275c047f&v=4" width="24" alt="Avatar of bdaniel7"> bdaniel7
@@ -3940,7 +3927,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/orosandrei">
 				<img src="https://avatars.githubusercontent.com/u/6123431?s=72&u=327478d616b46131f13d6b0288baa54e873a665b&v=4" width="24" alt="Avatar of orosandrei"> orosandrei
@@ -3953,7 +3940,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>297</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/zenopopovici">
 				<img src="https://avatars.githubusercontent.com/u/767998?s=72&v=4" width="24" alt="Avatar of zenopopovici"> zenopopovici
@@ -3966,7 +3953,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/NitescuLucian">
 				<img src="https://avatars.githubusercontent.com/u/12897148?s=72&u=87cd2ea3ae20e2207f5cbf24d90df195990e9fdf&v=4" width="24" alt="Avatar of NitescuLucian"> NitescuLucian
@@ -3979,7 +3966,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>298</td>
 		<td>
 			<a href="https://github.com/alxb421">
 				<img src="https://avatars.githubusercontent.com/u/72302254?s=72&u=570b6267ef21e2b024c1ac79bafc28a139d82c4e&v=4" width="24" alt="Avatar of alxb421"> alxb421
@@ -3992,7 +3979,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>299</td>
 		<td>
 			<a href="https://github.com/titratcristina">
 				<img src="https://avatars.githubusercontent.com/u/31698958?s=72&u=6ea3387d92fe611c5f64827f3439a2201c9311e5&v=4" width="24" alt="Avatar of titratcristina"> titratcristina
@@ -4005,7 +3992,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>300</td>
 		<td>
 			<a href="https://github.com/Shadowss">
 				<img src="https://avatars.githubusercontent.com/u/1140613?s=72&v=4" width="24" alt="Avatar of Shadowss"> Shadowss
@@ -4018,7 +4005,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>301</td>
 		<td>
 			<a href="https://github.com/tudorconstantin">
 				<img src="https://avatars.githubusercontent.com/u/1287696?s=72&v=4" width="24" alt="Avatar of tudorconstantin"> tudorconstantin
@@ -4031,7 +4018,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>302</td>
 		<td>
 			<a href="https://github.com/redecs">
 				<img src="https://avatars.githubusercontent.com/u/153277?s=72&u=ec5f5c5c0bd012761364adb9875dc49f49bd90f4&v=4" width="24" alt="Avatar of redecs"> redecs
@@ -4044,7 +4031,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>303</td>
 		<td>
 			<a href="https://github.com/rarestoma">
 				<img src="https://avatars.githubusercontent.com/u/27827318?s=72&u=2453debebf9ef5e1dde9795476318ada92a12663&v=4" width="24" alt="Avatar of rarestoma"> rarestoma
@@ -4057,7 +4044,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>304</td>
 		<td>
 			<a href="https://github.com/boldijar">
 				<img src="https://avatars.githubusercontent.com/u/7826299?s=72&u=47e33ebb9fddc1e253e885ec0e5a3ecf13e09af8&v=4" width="24" alt="Avatar of boldijar"> boldijar
@@ -4070,7 +4057,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>305</td>
 		<td>
 			<a href="https://github.com/sabinmarcu">
 				<img src="https://avatars.githubusercontent.com/u/333327?s=72&v=4" width="24" alt="Avatar of sabinmarcu"> sabinmarcu
@@ -4083,7 +4070,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>307</td>
+		<td>306</td>
 		<td>
 			<a href="https://github.com/birkof">
 				<img src="https://avatars.githubusercontent.com/u/65848?s=72&u=07d74b0066adb81747e10794950c3847cda46544&v=4" width="24" alt="Avatar of birkof"> birkof
@@ -4096,7 +4083,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>307</td>
 		<td>
 			<a href="https://github.com/sarbull">
 				<img src="https://avatars.githubusercontent.com/u/1864112?s=72&u=ba8c07b4f837245a1425c81693a14c9a4ac4e106&v=4" width="24" alt="Avatar of sarbull"> sarbull
@@ -4109,20 +4096,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>309</td>
-		<td>
-			<a href="https://github.com/CosminPOP">
-				<img src="https://avatars.githubusercontent.com/u/7255825?s=72&u=7496ab4aa0c9833953161713bffbfc62501166f4&v=4" width="24" alt="Avatar of CosminPOP"> CosminPOP
-			</a><br/>
-			Cosmin POP
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Cluj Napoca, Romania</td>
-		<td>47</td>
-	</tr>
-	<tr>
-		<td>310</td>
+		<td>308</td>
 		<td>
 			<a href="https://github.com/c10b10">
 				<img src="https://avatars.githubusercontent.com/u/306633?s=72&u=6541e19edb5ff398a3e84736dcc763c73ca69f54&v=4" width="24" alt="Avatar of c10b10"> c10b10
@@ -4135,7 +4109,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>311</td>
+		<td>309</td>
 		<td>
 			<a href="https://github.com/VeronicaM">
 				<img src="https://avatars.githubusercontent.com/u/2241065?s=72&u=d4527e3042631b27d7afc02951775b6086d7a326&v=4" width="24" alt="Avatar of VeronicaM"> VeronicaM
@@ -4148,7 +4122,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>312</td>
+		<td>310</td>
 		<td>
 			<a href="https://github.com/raduenuca">
 				<img src="https://avatars.githubusercontent.com/u/462852?s=72&u=3b0bbe0cd51cb9a7931e0c534aba96105ff97197&v=4" width="24" alt="Avatar of raduenuca"> raduenuca
@@ -4161,7 +4135,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>313</td>
+		<td>311</td>
 		<td>
 			<a href="https://github.com/gcazaciuc">
 				<img src="https://avatars.githubusercontent.com/u/1248360?s=72&v=4" width="24" alt="Avatar of gcazaciuc"> gcazaciuc
@@ -4174,7 +4148,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>314</td>
+		<td>312</td>
 		<td>
 			<a href="https://github.com/gapacurar">
 				<img src="https://avatars.githubusercontent.com/u/17094289?s=72&u=603be61863cc7e9f37897d210b6dba22b374ae61&v=4" width="24" alt="Avatar of gapacurar"> gapacurar
@@ -4187,7 +4161,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>315</td>
+		<td>313</td>
 		<td>
 			<a href="https://github.com/cvicentiu">
 				<img src="https://avatars.githubusercontent.com/u/2320573?s=72&u=33f9a1306533232055b85a8831c116f27a0eadda&v=4" width="24" alt="Avatar of cvicentiu"> cvicentiu
@@ -4200,7 +4174,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>314</td>
 		<td>
 			<a href="https://github.com/vladimiroltean">
 				<img src="https://avatars.githubusercontent.com/u/11811246?s=72&u=f93a05c26026ecd11c13b0046e27f77130c9b06c&v=4" width="24" alt="Avatar of vladimiroltean"> vladimiroltean
@@ -4213,7 +4187,20 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>315</td>
+		<td>
+			<a href="https://github.com/CosminPOP">
+				<img src="https://avatars.githubusercontent.com/u/7255825?s=72&u=7496ab4aa0c9833953161713bffbfc62501166f4&v=4" width="24" alt="Avatar of CosminPOP"> CosminPOP
+			</a><br/>
+			Cosmin POP
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Cluj Napoca, Romania</td>
+		<td>46</td>
+	</tr>
+	<tr>
+		<td>316</td>
 		<td>
 			<a href="https://github.com/ader1990">
 				<img src="https://avatars.githubusercontent.com/u/1412442?s=72&u=ec902bb907ccbd6fc8761ea9fe2c38a2c7516984&v=4" width="24" alt="Avatar of ader1990"> ader1990
@@ -4226,7 +4213,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>317</td>
 		<td>
 			<a href="https://github.com/bogdanm">
 				<img src="https://avatars.githubusercontent.com/u/211717?s=72&v=4" width="24" alt="Avatar of bogdanm"> bogdanm
@@ -4239,7 +4226,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>318</td>
 		<td>
 			<a href="https://github.com/dariabroscoteanu">
 				<img src="https://avatars.githubusercontent.com/u/72194114?s=72&u=6b01bc828ec8dff77f95fa839e43cfaf154223f1&v=4" width="24" alt="Avatar of dariabroscoteanu"> dariabroscoteanu
@@ -4252,7 +4239,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>319</td>
 		<td>
 			<a href="https://github.com/Gabitzuu">
 				<img src="https://avatars.githubusercontent.com/u/17215898?s=72&u=42293ce57f7e2582e6424d874f2d0c479cd5cbce&v=4" width="24" alt="Avatar of Gabitzuu"> Gabitzuu
@@ -4265,7 +4252,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>320</td>
 		<td>
 			<a href="https://github.com/seastorm">
 				<img src="https://avatars.githubusercontent.com/u/3180296?s=72&u=93c24992de970728e143523b243c4e7f6398c9b1&v=4" width="24" alt="Avatar of seastorm"> seastorm
@@ -4278,7 +4265,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>322</td>
+		<td>321</td>
 		<td>
 			<a href="https://github.com/rcstanciu">
 				<img src="https://avatars.githubusercontent.com/u/1048185?s=72&u=f9d8722f4714840cdd092dfb37cce536ca204e47&v=4" width="24" alt="Avatar of rcstanciu"> rcstanciu
@@ -4291,7 +4278,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>323</td>
+		<td>322</td>
 		<td>
 			<a href="https://github.com/niladam">
 				<img src="https://avatars.githubusercontent.com/u/4151765?s=72&u=1ead8ec3bd6063113c353acf2d148029c6f90623&v=4" width="24" alt="Avatar of niladam"> niladam
@@ -4304,7 +4291,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>323</td>
 		<td>
 			<a href="https://github.com/andreimaxim">
 				<img src="https://avatars.githubusercontent.com/u/256?s=72&v=4" width="24" alt="Avatar of andreimaxim"> andreimaxim
@@ -4317,7 +4304,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>325</td>
+		<td>324</td>
 		<td>
 			<a href="https://github.com/eliakorkmaz">
 				<img src="https://avatars.githubusercontent.com/u/16090189?s=72&u=4dfa825fee255c93b94e627b145c89a177f09542&v=4" width="24" alt="Avatar of eliakorkmaz"> eliakorkmaz
@@ -4330,7 +4317,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>326</td>
+		<td>325</td>
 		<td>
 			<a href="https://github.com/bogdan-petre">
 				<img src="https://avatars.githubusercontent.com/u/67657591?s=72&u=97c754c554cf810631ef46e9bbe6f20e1ea69678&v=4" width="24" alt="Avatar of bogdan-petre"> bogdan-petre
@@ -4343,7 +4330,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>326</td>
 		<td>
 			<a href="https://github.com/silviutroscot">
 				<img src="https://avatars.githubusercontent.com/u/25715995?s=72&u=0925bb7f1ea499f318193a87947cd4d9bd0e64db&v=4" width="24" alt="Avatar of silviutroscot"> silviutroscot
@@ -4356,7 +4343,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>327</td>
 		<td>
 			<a href="https://github.com/teodor-pripoae">
 				<img src="https://avatars.githubusercontent.com/u/393437?s=72&u=07d6e3163b637badc4585653ca8179511e03a174&v=4" width="24" alt="Avatar of teodor-pripoae"> teodor-pripoae
@@ -4369,7 +4356,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>329</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/alecslupu">
 				<img src="https://avatars.githubusercontent.com/u/105683?s=72&u=50b5ec5fc9b7aaf1a722bb9fe06448fe4831a6ea&v=4" width="24" alt="Avatar of alecslupu"> alecslupu
@@ -4382,7 +4369,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>330</td>
+		<td>329</td>
 		<td>
 			<a href="https://github.com/bencagri">
 				<img src="https://avatars.githubusercontent.com/u/823521?s=72&u=9b17bb64a9a7029639a0254baf06c83b23159214&v=4" width="24" alt="Avatar of bencagri"> bencagri
@@ -4395,7 +4382,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>330</td>
 		<td>
 			<a href="https://github.com/liadomide">
 				<img src="https://avatars.githubusercontent.com/u/674853?s=72&v=4" width="24" alt="Avatar of liadomide"> liadomide
@@ -4408,7 +4395,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>331</td>
 		<td>
 			<a href="https://github.com/ovidiumihaibelciug">
 				<img src="https://avatars.githubusercontent.com/u/25400915?s=72&u=952889485268a706060465f63054775de1c9a392&v=4" width="24" alt="Avatar of ovidiumihaibelciug"> ovidiumihaibelciug
@@ -4421,7 +4408,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>333</td>
+		<td>332</td>
 		<td>
 			<a href="https://github.com/cosmin-harangus">
 				<img src="https://avatars.githubusercontent.com/u/381639?s=72&v=4" width="24" alt="Avatar of cosmin-harangus"> cosmin-harangus
@@ -4434,7 +4421,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>334</td>
+		<td>333</td>
 		<td>
 			<a href="https://github.com/ovidiubute">
 				<img src="https://avatars.githubusercontent.com/u/462561?s=72&u=91c2d2087ac57ae0ec480525b47844612a82fa97&v=4" width="24" alt="Avatar of ovidiubute"> ovidiubute
@@ -4447,7 +4434,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>335</td>
+		<td>334</td>
 		<td>
 			<a href="https://github.com/eek">
 				<img src="https://avatars.githubusercontent.com/u/2953026?s=72&v=4" width="24" alt="Avatar of eek"> eek
@@ -4460,20 +4447,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>336</td>
-		<td>
-			<a href="https://github.com/ZoltanVeres">
-				<img src="https://avatars.githubusercontent.com/u/214139?s=72&u=ab7941a0d54c2e4abd83b3a902f07a2d5ff5817c&v=4" width="24" alt="Avatar of ZoltanVeres"> ZoltanVeres
-			</a><br/>
-			Zoli Veres
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/zoltanveres">zoltanveres</a></td>
-		<td>Romania, Satu Mare</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>337</td>
+		<td>335</td>
 		<td>
 			<a href="https://github.com/tiberiu44">
 				<img src="https://avatars.githubusercontent.com/u/1275594?s=72&u=490fc5c22159a562bccb466b08bbb592253aaa63&v=4" width="24" alt="Avatar of tiberiu44"> tiberiu44
@@ -4486,7 +4460,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>336</td>
 		<td>
 			<a href="https://github.com/danionescu0">
 				<img src="https://avatars.githubusercontent.com/u/4610414?s=72&u=d1e40ed9ca3999afeb3710da42d5d9136855e3f4&v=4" width="24" alt="Avatar of danionescu0"> danionescu0
@@ -4499,7 +4473,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>337</td>
 		<td>
 			<a href="https://github.com/Focus3D">
 				<img src="https://avatars.githubusercontent.com/u/1816969?s=72&u=625e901ef23e8c8371822e16afc853cff484d54c&v=4" width="24" alt="Avatar of Focus3D"> Focus3D
@@ -4512,7 +4486,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>340</td>
+		<td>338</td>
 		<td>
 			<a href="https://github.com/AlinResources">
 				<img src="https://avatars.githubusercontent.com/u/25686544?s=72&u=1e256548e090717635b8ca1c4f8de171d02a131f&v=4" width="24" alt="Avatar of AlinResources"> AlinResources
@@ -4525,7 +4499,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>341</td>
+		<td>339</td>
 		<td>
 			<a href="https://github.com/samuelctn">
 				<img src="https://avatars.githubusercontent.com/u/17054294?s=72&u=e3e61df4a899dba6f12f115f2047f9cf84ff54cc&v=4" width="24" alt="Avatar of samuelctn"> samuelctn
@@ -4538,7 +4512,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>340</td>
 		<td>
 			<a href="https://github.com/laurentzziu">
 				<img src="https://avatars.githubusercontent.com/u/383100?s=72&v=4" width="24" alt="Avatar of laurentzziu"> laurentzziu
@@ -4551,7 +4525,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>341</td>
 		<td>
 			<a href="https://github.com/ionelamelaniastanciu">
 				<img src="https://avatars.githubusercontent.com/u/25088981?s=72&u=910cc30a2d0409815b998c4bc0a6cd7b2ca4651c&v=4" width="24" alt="Avatar of ionelamelaniastanciu"> ionelamelaniastanciu
@@ -4564,7 +4538,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>44</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>342</td>
 		<td>
 			<a href="https://github.com/ijula">
 				<img src="https://avatars.githubusercontent.com/u/50696966?s=72&u=d54cade5e26e95352f7d73abdc3a3ef1e956d8d4&v=4" width="24" alt="Avatar of ijula"> ijula
@@ -4577,7 +4551,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>343</td>
 		<td>
 			<a href="https://github.com/snorkypie">
 				<img src="https://avatars.githubusercontent.com/u/244598?s=72&v=4" width="24" alt="Avatar of snorkypie"> snorkypie
@@ -4590,7 +4564,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>344</td>
 		<td>
 			<a href="https://github.com/TeodorVecerdi">
 				<img src="https://avatars.githubusercontent.com/u/22182657?s=72&u=82d498996c981ef42091b1fc4244704210e3c2f1&v=4" width="24" alt="Avatar of TeodorVecerdi"> TeodorVecerdi
@@ -4603,20 +4577,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>347</td>
-		<td>
-			<a href="https://github.com/costinEEST">
-				<img src="https://avatars.githubusercontent.com/u/3479248?s=72&v=4" width="24" alt="Avatar of costinEEST"> costinEEST
-			</a><br/>
-			Constantin Câmpean
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bucharest</td>
-		<td>43</td>
-	</tr>
-	<tr>
-		<td>348</td>
+		<td>345</td>
 		<td>
 			<a href="https://github.com/silviuaavram">
 				<img src="https://avatars.githubusercontent.com/u/11275392?s=72&u=96ce88bc45264f21cc1a998454e310f25ea3a561&v=4" width="24" alt="Avatar of silviuaavram"> silviuaavram
@@ -4629,7 +4590,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>349</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/vimishor">
 				<img src="https://avatars.githubusercontent.com/u/477960?s=72&u=7094f9c508dcaddc1a37a706721f7b183341f052&v=4" width="24" alt="Avatar of vimishor"> vimishor
@@ -4642,7 +4603,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>350</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/bianca-mihaela-stan">
 				<img src="https://avatars.githubusercontent.com/u/55094172?s=72&u=fd2cd1963662041668fd0511c63d34cbd01faf87&v=4" width="24" alt="Avatar of bianca-mihaela-stan"> bianca-mihaela-stan
@@ -4655,7 +4616,20 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>348</td>
+		<td>
+			<a href="https://github.com/ZoltanVeres">
+				<img src="https://avatars.githubusercontent.com/u/214139?s=72&u=ab7941a0d54c2e4abd83b3a902f07a2d5ff5817c&v=4" width="24" alt="Avatar of ZoltanVeres"> ZoltanVeres
+			</a><br/>
+			Zoli Veres
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/zoltanveres">zoltanveres</a></td>
+		<td>Romania, Satu Mare</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>349</td>
 		<td>
 			<a href="https://github.com/CristiSandu">
 				<img src="https://avatars.githubusercontent.com/u/45518615?s=72&u=3f8608133cfbff2173a37e06e49d4c1a5ca8501a&v=4" width="24" alt="Avatar of CristiSandu"> CristiSandu
@@ -4668,7 +4642,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>350</td>
 		<td>
 			<a href="https://github.com/neaorin">
 				<img src="https://avatars.githubusercontent.com/u/3250626?s=72&u=7a3be2f262d4b4f415ba460aedd25af6b7e0b22e&v=4" width="24" alt="Avatar of neaorin"> neaorin
@@ -4681,7 +4655,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>351</td>
 		<td>
 			<a href="https://github.com/XPilot">
 				<img src="https://avatars.githubusercontent.com/u/691234?s=72&u=ee710c71263e4002a21360ea0b25b0ca4c7622e4&v=4" width="24" alt="Avatar of XPilot"> XPilot
@@ -4694,7 +4668,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>352</td>
 		<td>
 			<a href="https://github.com/serban-petrescu">
 				<img src="https://avatars.githubusercontent.com/u/15961282?s=72&v=4" width="24" alt="Avatar of serban-petrescu"> serban-petrescu
@@ -4707,7 +4681,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>353</td>
 		<td>
 			<a href="https://github.com/comandrei">
 				<img src="https://avatars.githubusercontent.com/u/642828?s=72&u=b1c67984a4e9dea6e1db4d584de68864e3a9c5a1&v=4" width="24" alt="Avatar of comandrei"> comandrei
@@ -4720,7 +4694,20 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>354</td>
+		<td>
+			<a href="https://github.com/costinEEST">
+				<img src="https://avatars.githubusercontent.com/u/3479248?s=72&v=4" width="24" alt="Avatar of costinEEST"> costinEEST
+			</a><br/>
+			Constantin Câmpean
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest</td>
+		<td>42</td>
+	</tr>
+	<tr>
+		<td>355</td>
 		<td>
 			<a href="https://github.com/bruhmoment21">
 				<img src="https://avatars.githubusercontent.com/u/53657322?s=72&v=4" width="24" alt="Avatar of bruhmoment21"> bruhmoment21
@@ -4733,7 +4720,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>356</td>
 		<td>
 			<a href="https://github.com/sebastiantecsi">
 				<img src="https://avatars.githubusercontent.com/u/1449681?s=72&v=4" width="24" alt="Avatar of sebastiantecsi"> sebastiantecsi
@@ -4746,7 +4733,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>357</td>
 		<td>
 			<a href="https://github.com/ilarele">
 				<img src="https://avatars.githubusercontent.com/u/147226?s=72&v=4" width="24" alt="Avatar of ilarele"> ilarele
@@ -4759,7 +4746,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>358</td>
 		<td>
 			<a href="https://github.com/andrei-cacio">
 				<img src="https://avatars.githubusercontent.com/u/5195546?s=72&u=8b734546f5b0f9accfdbfbf9586ec829dba8bbd4&v=4" width="24" alt="Avatar of andrei-cacio"> andrei-cacio
@@ -4772,7 +4759,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>359</td>
 		<td>
 			<a href="https://github.com/SPIRY-RO">
 				<img src="https://avatars.githubusercontent.com/u/6036012?s=72&u=048c901bb051db5d51a439b5b15dfaa8cdf3ee62&v=4" width="24" alt="Avatar of SPIRY-RO"> SPIRY-RO
@@ -4785,7 +4772,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>360</td>
 		<td>
 			<a href="https://github.com/razvancazacu">
 				<img src="https://avatars.githubusercontent.com/u/37286774?s=72&u=ad7c9a1c17c61f28ecc10be578ca06566d8203e4&v=4" width="24" alt="Avatar of razvancazacu"> razvancazacu
@@ -4798,7 +4785,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>361</td>
 		<td>
 			<a href="https://github.com/danlucian">
 				<img src="https://avatars.githubusercontent.com/u/6909300?s=72&u=f45067cef7b628b6754b3e82ea48e952e295b164&v=4" width="24" alt="Avatar of danlucian"> danlucian
@@ -4808,6 +4795,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>@snyk  </td>
 		<td><a href="https://twitter.com/danlucianrosu">danlucianrosu</a></td>
 		<td>Bucharest</td>
+		<td>41</td>
+	</tr>
+	<tr>
+		<td>362</td>
+		<td>
+			<a href="https://github.com/TudorMurariu">
+				<img src="https://avatars.githubusercontent.com/u/30391543?s=72&u=8e1c5a9142a6d80eada99cfb7bc6af9ac4cfb13d&v=4" width="24" alt="Avatar of TudorMurariu"> TudorMurariu
+			</a><br/>
+			Tudor
+		</td>
+		<td>Babeş-bolyai University | Broadridge<br/></td>
+		<td>No Twitter Username</td>
+		<td>Cluj-Napoca, Romania | Targu Neamt, Romania</td>
 		<td>41</td>
 	</tr>
 	<tr>
@@ -4826,19 +4826,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>364</td>
 		<td>
-			<a href="https://github.com/TudorMurariu">
-				<img src="https://avatars.githubusercontent.com/u/30391543?s=72&u=8e1c5a9142a6d80eada99cfb7bc6af9ac4cfb13d&v=4" width="24" alt="Avatar of TudorMurariu"> TudorMurariu
-			</a><br/>
-			Tudor
-		</td>
-		<td>Babeş-bolyai University | Broadridge<br/></td>
-		<td>No Twitter Username</td>
-		<td>Cluj-Napoca, Romania | Targu Neamt, Romania</td>
-		<td>41</td>
-	</tr>
-	<tr>
-		<td>365</td>
-		<td>
 			<a href="https://github.com/condor2">
 				<img src="https://avatars.githubusercontent.com/u/14251939?s=72&v=4" width="24" alt="Avatar of condor2"> condor2
 			</a><br/>
@@ -4850,7 +4837,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>365</td>
 		<td>
 			<a href="https://github.com/ursachecodrut">
 				<img src="https://avatars.githubusercontent.com/u/33762909?s=72&u=cf60331523b620e266f54dceea66e9f2d17ba62d&v=4" width="24" alt="Avatar of ursachecodrut"> ursachecodrut
@@ -4863,7 +4850,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>367</td>
+		<td>366</td>
 		<td>
 			<a href="https://github.com/xslendix">
 				<img src="https://avatars.githubusercontent.com/u/32436619?s=72&u=13f7cdcb5e9f9c2b3b1625f74eebc2de8bdd2869&v=4" width="24" alt="Avatar of xslendix"> xslendix
@@ -4876,7 +4863,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/WarriorsSami">
 				<img src="https://avatars.githubusercontent.com/u/70215066?s=72&u=93a45689ea36460fcab95bc95e7f95f61835b235&v=4" width="24" alt="Avatar of WarriorsSami"> WarriorsSami
@@ -4889,7 +4876,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>368</td>
 		<td>
 			<a href="https://github.com/paulbrie">
 				<img src="https://avatars.githubusercontent.com/u/3997538?s=72&v=4" width="24" alt="Avatar of paulbrie"> paulbrie
@@ -4902,7 +4889,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>369</td>
 		<td>
 			<a href="https://github.com/daniel-savescu">
 				<img src="https://avatars.githubusercontent.com/u/71008399?s=72&u=8b17173848f02f49231bb215431223637f6596ac&v=4" width="24" alt="Avatar of daniel-savescu"> daniel-savescu
@@ -4915,7 +4902,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/ralucatudor">
 				<img src="https://avatars.githubusercontent.com/u/26596122?s=72&v=4" width="24" alt="Avatar of ralucatudor"> ralucatudor
@@ -4928,7 +4915,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/PotatoGolden76">
 				<img src="https://avatars.githubusercontent.com/u/26687462?s=72&u=15cb93f5b031d207e5e18331f6feca6a95b28874&v=4" width="24" alt="Avatar of PotatoGolden76"> PotatoGolden76
@@ -4941,7 +4928,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>373</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/tudorcebere">
 				<img src="https://avatars.githubusercontent.com/u/31571425?s=72&u=d6770a9a985ea3b318de07b47e85838235881a2a&v=4" width="24" alt="Avatar of tudorcebere"> tudorcebere
@@ -4954,7 +4941,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>374</td>
+		<td>373</td>
 		<td>
 			<a href="https://github.com/AndreiDuma">
 				<img src="https://avatars.githubusercontent.com/u/1846640?s=72&v=4" width="24" alt="Avatar of AndreiDuma"> AndreiDuma
@@ -4967,7 +4954,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>374</td>
 		<td>
 			<a href="https://github.com/bebef1987">
 				<img src="https://avatars.githubusercontent.com/u/703611?s=72&v=4" width="24" alt="Avatar of bebef1987"> bebef1987
@@ -4980,7 +4967,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>376</td>
+		<td>375</td>
 		<td>
 			<a href="https://github.com/mvpopuk">
 				<img src="https://avatars.githubusercontent.com/u/35864222?s=72&u=db8d6c60e6e5b24a15a3c4fd6cce115fb6f57dc9&v=4" width="24" alt="Avatar of mvpopuk"> mvpopuk
@@ -4993,7 +4980,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>377</td>
+		<td>376</td>
 		<td>
 			<a href="https://github.com/aniri">
 				<img src="https://avatars.githubusercontent.com/u/1358055?s=72&u=bd762da920c3f5064f6980bfcd9c866a6eb72ffd&v=4" width="24" alt="Avatar of aniri"> aniri
@@ -5006,7 +4993,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>378</td>
+		<td>377</td>
 		<td>
 			<a href="https://github.com/ardek66">
 				<img src="https://avatars.githubusercontent.com/u/30049821?s=72&u=7f4c8ee35fc8da329db7e3ab912ab2e941388a98&v=4" width="24" alt="Avatar of ardek66"> ardek66
@@ -5019,7 +5006,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>378</td>
 		<td>
 			<a href="https://github.com/heh9">
 				<img src="https://avatars.githubusercontent.com/u/13141557?s=72&u=bf22ec8e2eded3c59f83f2752a7980f19c9e8558&v=4" width="24" alt="Avatar of heh9"> heh9
@@ -5032,7 +5019,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>380</td>
+		<td>379</td>
 		<td>
 			<a href="https://github.com/palingheorghe">
 				<img src="https://avatars.githubusercontent.com/u/15977949?s=72&u=87d8dd7ef47ac4b13732369a432c863f472e17db&v=4" width="24" alt="Avatar of palingheorghe"> palingheorghe
@@ -5045,7 +5032,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>381</td>
+		<td>380</td>
 		<td>
 			<a href="https://github.com/PCatinean">
 				<img src="https://avatars.githubusercontent.com/u/3704235?s=72&u=1a1394c677cabc60de915b598167072971ccda11&v=4" width="24" alt="Avatar of PCatinean"> PCatinean
@@ -5058,7 +5045,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>382</td>
+		<td>381</td>
 		<td>
 			<a href="https://github.com/cosminstefanxp">
 				<img src="https://avatars.githubusercontent.com/u/1536594?s=72&u=514ba0b0587e9d21d767c55d1c3bc81f783230c7&v=4" width="24" alt="Avatar of cosminstefanxp"> cosminstefanxp
@@ -5071,7 +5058,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>383</td>
+		<td>382</td>
 		<td>
 			<a href="https://github.com/balamaci">
 				<img src="https://avatars.githubusercontent.com/u/310160?s=72&u=eb41376088385f855d0b241cb4def5e1a65e0348&v=4" width="24" alt="Avatar of balamaci"> balamaci
@@ -5084,7 +5071,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>384</td>
+		<td>383</td>
 		<td>
 			<a href="https://github.com/GeorgianaLoba">
 				<img src="https://avatars.githubusercontent.com/u/49317043?s=72&u=7c6c4671858e06918d0ec2f09279838ae3e5bc84&v=4" width="24" alt="Avatar of GeorgianaLoba"> GeorgianaLoba
@@ -5097,7 +5084,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>385</td>
+		<td>384</td>
 		<td>
 			<a href="https://github.com/devsprint">
 				<img src="https://avatars.githubusercontent.com/u/89512?s=72&u=8dc34eacaad6fa63611c0d2911460532926700f4&v=4" width="24" alt="Avatar of devsprint"> devsprint
@@ -5110,7 +5097,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>386</td>
+		<td>385</td>
 		<td>
 			<a href="https://github.com/marianposaceanu">
 				<img src="https://avatars.githubusercontent.com/u/40126?s=72&u=ad9ea61e621433debc697138e36038c6592b0e27&v=4" width="24" alt="Avatar of marianposaceanu"> marianposaceanu
@@ -5123,7 +5110,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>387</td>
+		<td>386</td>
 		<td>
 			<a href="https://github.com/dragosbulugean">
 				<img src="https://avatars.githubusercontent.com/u/2504398?s=72&u=37a38f9a7ff6244c15161557333f3ba43375d986&v=4" width="24" alt="Avatar of dragosbulugean"> dragosbulugean
@@ -5136,7 +5123,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>387</td>
 		<td>
 			<a href="https://github.com/bogdanbujdea">
 				<img src="https://avatars.githubusercontent.com/u/793611?s=72&u=ad2ce0c006f9183fee99728b7d8b13a887c0c4aa&v=4" width="24" alt="Avatar of bogdanbujdea"> bogdanbujdea
@@ -5149,7 +5136,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>388</td>
 		<td>
 			<a href="https://github.com/legraphista">
 				<img src="https://avatars.githubusercontent.com/u/962643?s=72&u=a8930a50e667d1b3f45dd7814f5405c8ccfdb543&v=4" width="24" alt="Avatar of legraphista"> legraphista
@@ -5162,7 +5149,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/Secret-chest">
 				<img src="https://avatars.githubusercontent.com/u/74449186?s=72&u=599ad5c6b6bc2d3aec47d13455d14a15ee7043e6&v=4" width="24" alt="Avatar of Secret-chest"> Secret-chest
@@ -5175,7 +5162,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/vycdev">
 				<img src="https://avatars.githubusercontent.com/u/49570123?s=72&u=e6a18eb9d7314924740b65393a2de4d707d57cff&v=4" width="24" alt="Avatar of vycdev"> vycdev
@@ -5188,7 +5175,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/dianaprajescu">
 				<img src="https://avatars.githubusercontent.com/u/1551136?s=72&v=4" width="24" alt="Avatar of dianaprajescu"> dianaprajescu
@@ -5201,7 +5188,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/danoneata">
 				<img src="https://avatars.githubusercontent.com/u/819256?s=72&u=d3067124d4bc53a19b38088e358e98520df6a1d2&v=4" width="24" alt="Avatar of danoneata"> danoneata
@@ -5214,7 +5201,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/andreea-popa22">
 				<img src="https://avatars.githubusercontent.com/u/61750293?s=72&u=60989ead40803619c24d3045a3d6f17d8ed6aa30&v=4" width="24" alt="Avatar of andreea-popa22"> andreea-popa22
@@ -5227,7 +5214,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/dorianverna17">
 				<img src="https://avatars.githubusercontent.com/u/57098767?s=72&u=f9af45f5d1a966874b7315503f6b364fa7ff1125&v=4" width="24" alt="Avatar of dorianverna17"> dorianverna17
@@ -5237,6 +5224,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>University Politehnica Bucharest </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>395</td>
+		<td>
+			<a href="https://github.com/ionandrei44">
+				<img src="https://avatars.githubusercontent.com/u/108984706?s=72&u=1d968a5f75f0f0fbeeefa3532120744a73bf6424&v=4" width="24" alt="Avatar of ionandrei44"> ionandrei44
+			</a><br/>
+			Andrei Ion
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
 		<td>40</td>
 	</tr>
 	<tr>
@@ -6412,6 +6412,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>486</td>
 		<td>
+			<a href="https://github.com/The24thDS">
+				<img src="https://avatars.githubusercontent.com/u/26633429?s=72&u=eca6fc4674f6a2b49329b4d0755a59b7a5bd87ab&v=4" width="24" alt="Avatar of The24thDS"> The24thDS
+			</a><br/>
+			David Sima
+		</td>
+		<td>@ensemble-software </td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>487</td>
+		<td>
 			<a href="https://github.com/Ilusion9">
 				<img src="https://avatars.githubusercontent.com/u/40362576?s=72&v=4" width="24" alt="Avatar of Ilusion9"> Ilusion9
 			</a><br/>
@@ -6423,7 +6436,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>488</td>
 		<td>
 			<a href="https://github.com/frozenminds">
 				<img src="https://avatars.githubusercontent.com/u/59042?s=72&v=4" width="24" alt="Avatar of frozenminds"> frozenminds
@@ -6436,7 +6449,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>488</td>
+		<td>489</td>
 		<td>
 			<a href="https://github.com/vd-rd">
 				<img src="https://avatars.githubusercontent.com/u/23215426?s=72&v=4" width="24" alt="Avatar of vd-rd"> vd-rd
@@ -6449,7 +6462,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>489</td>
+		<td>490</td>
 		<td>
 			<a href="https://github.com/danuker">
 				<img src="https://avatars.githubusercontent.com/u/74835?s=72&u=cd425f18289a2316d8b72001bc9bc6d1ae25fc3f&v=4" width="24" alt="Avatar of danuker"> danuker
@@ -6462,7 +6475,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>490</td>
+		<td>491</td>
 		<td>
 			<a href="https://github.com/ristea">
 				<img src="https://avatars.githubusercontent.com/u/22917972?s=72&u=54c00da5f99e585370be87f40f863e553b13d840&v=4" width="24" alt="Avatar of ristea"> ristea
@@ -6475,7 +6488,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>491</td>
+		<td>492</td>
 		<td>
 			<a href="https://github.com/Pirvu2k">
 				<img src="https://avatars.githubusercontent.com/u/14019728?s=72&u=5b7cca56033a500e3fc4c6676c73a1e319d7c208&v=4" width="24" alt="Avatar of Pirvu2k"> Pirvu2k
@@ -6488,7 +6501,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>492</td>
+		<td>493</td>
 		<td>
 			<a href="https://github.com/mariapascu">
 				<img src="https://avatars.githubusercontent.com/u/20505215?s=72&u=c710c516f7dab1414e0525e5e3ae6b784fea2e30&v=4" width="24" alt="Avatar of mariapascu"> mariapascu
@@ -6501,7 +6514,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>493</td>
+		<td>494</td>
 		<td>
 			<a href="https://github.com/mihaibivol">
 				<img src="https://avatars.githubusercontent.com/u/490125?s=72&v=4" width="24" alt="Avatar of mihaibivol"> mihaibivol
@@ -6514,7 +6527,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>494</td>
+		<td>495</td>
 		<td>
 			<a href="https://github.com/adrianvlupu">
 				<img src="https://avatars.githubusercontent.com/u/4486850?s=72&v=4" width="24" alt="Avatar of adrianvlupu"> adrianvlupu
@@ -6527,7 +6540,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>495</td>
+		<td>496</td>
 		<td>
 			<a href="https://github.com/candasm">
 				<img src="https://avatars.githubusercontent.com/u/1390090?s=72&v=4" width="24" alt="Avatar of candasm"> candasm
@@ -6540,7 +6553,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>497</td>
 		<td>
 			<a href="https://github.com/kosz">
 				<img src="https://avatars.githubusercontent.com/u/86150?s=72&u=3ab63c1256b2fe94a3ff4b6512b4a8543ff5f566&v=4" width="24" alt="Avatar of kosz"> kosz
@@ -6553,7 +6566,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>497</td>
+		<td>498</td>
 		<td>
 			<a href="https://github.com/madalinpopa">
 				<img src="https://avatars.githubusercontent.com/u/5753617?s=72&u=deb0dfae82dd71f986741f4eaef5b806411e68e0&v=4" width="24" alt="Avatar of madalinpopa"> madalinpopa
@@ -6566,7 +6579,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>499</td>
 		<td>
 			<a href="https://github.com/vasyok28">
 				<img src="https://avatars.githubusercontent.com/u/12010258?s=72&u=8073ac1568d5e2959101c258b52c3c22c46108f9&v=4" width="24" alt="Avatar of vasyok28"> vasyok28
@@ -6579,7 +6592,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>500</td>
 		<td>
 			<a href="https://github.com/sandreim">
 				<img src="https://avatars.githubusercontent.com/u/54316454?s=72&u=e5a26e808ef00092d76b6d6d8df165b1a0ffd45b&v=4" width="24" alt="Avatar of sandreim"> sandreim
@@ -6592,7 +6605,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>501</td>
 		<td>
 			<a href="https://github.com/hopingsteam">
 				<img src="https://avatars.githubusercontent.com/u/11734201?s=72&u=5916742c46d571c7a90ba5275f17edca56639063&v=4" width="24" alt="Avatar of hopingsteam"> hopingsteam
@@ -6605,7 +6618,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>502</td>
 		<td>
 			<a href="https://github.com/georgebrata">
 				<img src="https://avatars.githubusercontent.com/u/15268479?s=72&u=e7aca22e68ab7002915b69355d882fe9ee3f2663&v=4" width="24" alt="Avatar of georgebrata"> georgebrata
@@ -6618,7 +6631,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/ExtremeXT">
 				<img src="https://avatars.githubusercontent.com/u/75576145?s=72&u=3f8ccfcc00fbd11ed42934a76571a95e4efa1738&v=4" width="24" alt="Avatar of ExtremeXT"> ExtremeXT
@@ -6626,19 +6639,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 			No Name
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Romania</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>503</td>
-		<td>
-			<a href="https://github.com/The24thDS">
-				<img src="https://avatars.githubusercontent.com/u/26633429?s=72&u=eca6fc4674f6a2b49329b4d0755a59b7a5bd87ab&v=4" width="24" alt="Avatar of The24thDS"> The24thDS
-			</a><br/>
-			David Sima
-		</td>
-		<td>@ensemble-software </td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
 		<td>31</td>
@@ -7556,6 +7556,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>574</td>
 		<td>
+			<a href="https://github.com/RealKC">
+				<img src="https://avatars.githubusercontent.com/u/16511305?s=72&v=4" width="24" alt="Avatar of RealKC"> RealKC
+			</a><br/>
+			Dumitru Mițca
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>28</td>
+	</tr>
+	<tr>
+		<td>575</td>
+		<td>
 			<a href="https://github.com/willfrew">
 				<img src="https://avatars.githubusercontent.com/u/521750?s=72&u=c1149ed686f5cb7e12bdbafc39eb45ac9b495668&v=4" width="24" alt="Avatar of willfrew"> willfrew
 			</a><br/>
@@ -7567,7 +7580,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a href="https://github.com/ZeroSpree">
 				<img src="https://avatars.githubusercontent.com/u/1673595?s=72&u=826ea356f45273eb3e9f64413c7d322f9dfa72b8&v=4" width="24" alt="Avatar of ZeroSpree"> ZeroSpree
@@ -7580,7 +7593,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a href="https://github.com/mogasergiu">
 				<img src="https://avatars.githubusercontent.com/u/45634497?s=72&u=4baaac2cc2c4beb26430603bdb93913d75a32492&v=4" width="24" alt="Avatar of mogasergiu"> mogasergiu
@@ -7593,7 +7606,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a href="https://github.com/alinaMihai">
 				<img src="https://avatars.githubusercontent.com/u/8319825?s=72&u=e5509b00c2cc237903b189b1fc1051ef705fd959&v=4" width="24" alt="Avatar of alinaMihai"> alinaMihai
@@ -7606,7 +7619,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a href="https://github.com/aznashwan">
 				<img src="https://avatars.githubusercontent.com/u/6192535?s=72&u=16c0e6e14aa6619c00d0dbe9fab64dbbeef27f86&v=4" width="24" alt="Avatar of aznashwan"> aznashwan
@@ -7619,7 +7632,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a href="https://github.com/iulyanp">
 				<img src="https://avatars.githubusercontent.com/u/6533422?s=72&u=d90fbba2b1fb314dd09768faa0f3d1caff24c138&v=4" width="24" alt="Avatar of iulyanp"> iulyanp
@@ -7632,7 +7645,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a href="https://github.com/bogdanoancea">
 				<img src="https://avatars.githubusercontent.com/u/9313914?s=72&u=b5b480b602841eecd20d0a06a8c9fc2b791f2a4b&v=4" width="24" alt="Avatar of bogdanoancea"> bogdanoancea
@@ -7645,7 +7658,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a href="https://github.com/EmanuelPutura">
 				<img src="https://avatars.githubusercontent.com/u/72196173?s=72&u=d68ef546b0f52c8a78b9edefc265435261ccc2fc&v=4" width="24" alt="Avatar of EmanuelPutura"> EmanuelPutura
@@ -7658,7 +7671,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a href="https://github.com/EduardMiclos">
 				<img src="https://avatars.githubusercontent.com/u/59684906?s=72&u=6432937f54cf0efe874d84bfd72602f8013804e9&v=4" width="24" alt="Avatar of EduardMiclos"> EduardMiclos
@@ -7671,7 +7684,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a href="https://github.com/tr0yyy">
 				<img src="https://avatars.githubusercontent.com/u/63098825?s=72&u=5574ce780a5f8f07ea0defab6fbef0fb66ed8f04&v=4" width="24" alt="Avatar of tr0yyy"> tr0yyy
@@ -7684,7 +7697,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a href="https://github.com/crissdev">
 				<img src="https://avatars.githubusercontent.com/u/822571?s=72&v=4" width="24" alt="Avatar of crissdev"> crissdev
@@ -7697,7 +7710,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a href="https://github.com/chrisneagu">
 				<img src="https://avatars.githubusercontent.com/u/57600322?s=72&u=b9c68c46d0a65621c10ec7893e4749255b896ae8&v=4" width="24" alt="Avatar of chrisneagu"> chrisneagu
@@ -7710,7 +7723,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a href="https://github.com/iulianu">
 				<img src="https://avatars.githubusercontent.com/u/18719?s=72&u=ab73246f6a3d4bf38d8d5819fb9acbfdae14b731&v=4" width="24" alt="Avatar of iulianu"> iulianu
@@ -7723,7 +7736,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>588</td>
 		<td>
 			<a href="https://github.com/PHPVibe">
 				<img src="https://avatars.githubusercontent.com/u/6543076?s=72&u=09cfed437d130a869176963c2cc62cd9f986099f&v=4" width="24" alt="Avatar of PHPVibe"> PHPVibe
@@ -7736,7 +7749,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>588</td>
+		<td>589</td>
 		<td>
 			<a href="https://github.com/c7tincu">
 				<img src="https://avatars.githubusercontent.com/u/1591593?s=72&u=ab741e78c60ee24274db4da181f60c6f33241f54&v=4" width="24" alt="Avatar of c7tincu"> c7tincu
@@ -7749,7 +7762,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>589</td>
+		<td>590</td>
 		<td>
 			<a href="https://github.com/lboor">
 				<img src="https://avatars.githubusercontent.com/u/118308821?s=72&u=df250d949574a590c2e1897b64f4c97fea5cfcda&v=4" width="24" alt="Avatar of lboor"> lboor
@@ -7762,7 +7775,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>590</td>
+		<td>591</td>
 		<td>
 			<a href="https://github.com/IonutAlexandruPanait">
 				<img src="https://avatars.githubusercontent.com/u/29681377?s=72&u=1f5417c55d56ed14dcee3c3003b0714d819296d5&v=4" width="24" alt="Avatar of IonutAlexandruPanait"> IonutAlexandruPanait
@@ -7775,7 +7788,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>591</td>
+		<td>592</td>
 		<td>
 			<a href="https://github.com/raresica1234">
 				<img src="https://avatars.githubusercontent.com/u/18537359?s=72&u=288350ca7fcf35e455baa7fca2a4b58770a38c40&v=4" width="24" alt="Avatar of raresica1234"> raresica1234
@@ -7788,7 +7801,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>592</td>
+		<td>593</td>
 		<td>
 			<a href="https://github.com/CanerGures">
 				<img src="https://avatars.githubusercontent.com/u/24733838?s=72&u=efbf9dd2199a51e9604348432fb5c496bb062cde&v=4" width="24" alt="Avatar of CanerGures"> CanerGures
@@ -7801,7 +7814,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>593</td>
+		<td>594</td>
 		<td>
 			<a href="https://github.com/VladCincean">
 				<img src="https://avatars.githubusercontent.com/u/20501263?s=72&u=26c494999b01f533293f82dfada0f81969997a95&v=4" width="24" alt="Avatar of VladCincean"> VladCincean
@@ -7814,7 +7827,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>594</td>
+		<td>595</td>
 		<td>
 			<a href="https://github.com/cvasii23">
 				<img src="https://avatars.githubusercontent.com/u/6549500?s=72&u=18abc2f785a27d4621ac8d682a4fa8f4be8b463f&v=4" width="24" alt="Avatar of cvasii23"> cvasii23
@@ -7827,7 +7840,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>595</td>
+		<td>596</td>
 		<td>
 			<a href="https://github.com/cengsemihsahin">
 				<img src="https://avatars.githubusercontent.com/u/40797170?s=72&u=14f3a6267a98c14e8b6d0bcfa738ff6a74028391&v=4" width="24" alt="Avatar of cengsemihsahin"> cengsemihsahin
@@ -7840,7 +7853,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>596</td>
+		<td>597</td>
 		<td>
 			<a href="https://github.com/carmenmitru">
 				<img src="https://avatars.githubusercontent.com/u/6141479?s=72&u=4a387df678013d248914e401eeb6cbb7af730eb4&v=4" width="24" alt="Avatar of carmenmitru"> carmenmitru
@@ -7853,7 +7866,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>598</td>
 		<td>
 			<a href="https://github.com/razgraf">
 				<img src="https://avatars.githubusercontent.com/u/15740806?s=72&u=a478f61a8b61e6e13002fa1558bdd0c6d6e1cd1b&v=4" width="24" alt="Avatar of razgraf"> razgraf
@@ -7866,7 +7879,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>599</td>
 		<td>
 			<a href="https://github.com/cristicalin">
 				<img src="https://avatars.githubusercontent.com/u/6627509?s=72&u=1fb57e5403ca54736bc188b375fe7c6d995c58a9&v=4" width="24" alt="Avatar of cristicalin"> cristicalin
@@ -7879,7 +7892,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>600</td>
 		<td>
 			<a href="https://github.com/bvdr">
 				<img src="https://avatars.githubusercontent.com/u/4183317?s=72&u=17c6cb70e60dff33bb1612fa28190fa87423d533&v=4" width="24" alt="Avatar of bvdr"> bvdr
@@ -7892,7 +7905,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>601</td>
 		<td>
 			<a href="https://github.com/StancuFlorin">
 				<img src="https://avatars.githubusercontent.com/u/1199404?s=72&v=4" width="24" alt="Avatar of StancuFlorin"> StancuFlorin
@@ -7905,7 +7918,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>602</td>
 		<td>
 			<a href="https://github.com/ichim-david">
 				<img src="https://avatars.githubusercontent.com/u/152852?s=72&v=4" width="24" alt="Avatar of ichim-david"> ichim-david
@@ -7918,7 +7931,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>603</td>
 		<td>
 			<a href="https://github.com/arhtudormorar">
 				<img src="https://avatars.githubusercontent.com/u/7933833?s=72&u=b9fdb9e1072b90e71a6ec6fb16f2441443c471ab&v=4" width="24" alt="Avatar of arhtudormorar"> arhtudormorar
@@ -7931,20 +7944,20 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>603</td>
+		<td>604</td>
 		<td>
-			<a href="https://github.com/RealKC">
-				<img src="https://avatars.githubusercontent.com/u/16511305?s=72&v=4" width="24" alt="Avatar of RealKC"> RealKC
+			<a href="https://github.com/victorholo">
+				<img src="https://avatars.githubusercontent.com/u/8835396?s=72&u=85df0fa9a1747ebe46170076d184febf183755af&v=4" width="24" alt="Avatar of victorholo"> victorholo
 			</a><br/>
-			Dumitru Mițca
+			Victor Holotescu
 		</td>
-		<td>No Company</td>
+		<td>Buidler Labs </td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>604</td>
+		<td>605</td>
 		<td>
 			<a href="https://github.com/brown121407">
 				<img src="https://avatars.githubusercontent.com/u/24657667?s=72&u=1c9cabb550606e56f8a5ffd4aea74e0d95023e4d&v=4" width="24" alt="Avatar of brown121407"> brown121407
@@ -7957,7 +7970,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>605</td>
+		<td>606</td>
 		<td>
 			<a href="https://github.com/metas-rc">
 				<img src="https://avatars.githubusercontent.com/u/16001442?s=72&v=4" width="24" alt="Avatar of metas-rc"> metas-rc
@@ -7970,7 +7983,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>606</td>
+		<td>607</td>
 		<td>
 			<a href="https://github.com/cristeab">
 				<img src="https://avatars.githubusercontent.com/u/544112?s=72&u=c20cb77927c22523b926865391ce9c0b0e148f05&v=4" width="24" alt="Avatar of cristeab"> cristeab
@@ -7983,7 +7996,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>607</td>
+		<td>608</td>
 		<td>
 			<a href="https://github.com/andreimarinescu">
 				<img src="https://avatars.githubusercontent.com/u/1049591?s=72&v=4" width="24" alt="Avatar of andreimarinescu"> andreimarinescu
@@ -7996,7 +8009,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>608</td>
+		<td>609</td>
 		<td>
 			<a href="https://github.com/nicugnm">
 				<img src="https://avatars.githubusercontent.com/u/73650825?s=72&u=0ec885cc2ade22085d18edfe5b0efa3a71a297e2&v=4" width="24" alt="Avatar of nicugnm"> nicugnm
@@ -8009,7 +8022,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>609</td>
+		<td>610</td>
 		<td>
 			<a href="https://github.com/horatiu-udrea">
 				<img src="https://avatars.githubusercontent.com/u/30434125?s=72&u=64958afd5ad40dceec94a21798105cf648a086cf&v=4" width="24" alt="Avatar of horatiu-udrea"> horatiu-udrea
@@ -8022,7 +8035,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>610</td>
+		<td>611</td>
 		<td>
 			<a href="https://github.com/axbg">
 				<img src="https://avatars.githubusercontent.com/u/24988697?s=72&u=4b70e7fec1576e045516b980609e7fce14935949&v=4" width="24" alt="Avatar of axbg"> axbg
@@ -8035,7 +8048,20 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
+		<td>
+			<a href="https://github.com/ripanioan">
+				<img src="https://avatars.githubusercontent.com/u/29998456?s=72&v=4" width="24" alt="Avatar of ripanioan"> ripanioan
+			</a><br/>
+			Ioan Rîpan
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>613</td>
 		<td>
 			<a href="https://github.com/ionescu77">
 				<img src="https://avatars.githubusercontent.com/u/8016748?s=72&v=4" width="24" alt="Avatar of ionescu77"> ionescu77
@@ -8048,7 +8074,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>614</td>
 		<td>
 			<a href="https://github.com/marius-sucan">
 				<img src="https://avatars.githubusercontent.com/u/35074874?s=72&u=e6a911cd9945dbf0802bbc6183cb636802a5229f&v=4" width="24" alt="Avatar of marius-sucan"> marius-sucan
@@ -8061,7 +8087,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>615</td>
 		<td>
 			<a href="https://github.com/lauralt">
 				<img src="https://avatars.githubusercontent.com/u/46103760?s=72&u=47306d96a180ce35209c19411728ab5fa152411b&v=4" width="24" alt="Avatar of lauralt"> lauralt
@@ -8074,7 +8100,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>616</td>
 		<td>
 			<a href="https://github.com/danielturus">
 				<img src="https://avatars.githubusercontent.com/u/32390499?s=72&u=a804797253f567040ad15750fe55d96c9bbaed26&v=4" width="24" alt="Avatar of danielturus"> danielturus
@@ -8087,7 +8113,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>617</td>
 		<td>
 			<a href="https://github.com/radude89">
 				<img src="https://avatars.githubusercontent.com/u/2872139?s=72&u=5eb813e685d1cd232545cc5d1c386c009b7e2695&v=4" width="24" alt="Avatar of radude89"> radude89
@@ -8100,7 +8126,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>618</td>
 		<td>
 			<a href="https://github.com/danichim">
 				<img src="https://avatars.githubusercontent.com/u/14906788?s=72&u=70431a60df56eeee34523e98dddaded24456c107&v=4" width="24" alt="Avatar of danichim"> danichim
@@ -8113,7 +8139,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>617</td>
+		<td>619</td>
 		<td>
 			<a href="https://github.com/bogdanteodoru">
 				<img src="https://avatars.githubusercontent.com/u/2531337?s=72&u=29b0e9ea4501f6a91a6d2bef07a847363530d601&v=4" width="24" alt="Avatar of bogdanteodoru"> bogdanteodoru
@@ -8126,20 +8152,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>618</td>
-		<td>
-			<a href="https://github.com/raph-exe">
-				<img src="https://avatars.githubusercontent.com/u/81021823?s=72&u=741461c927a77691171fc1dbfe91134fd29f123b&v=4" width="24" alt="Avatar of raph-exe"> raph-exe
-			</a><br/>
-			Raphael
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brasov, Romania</td>
-		<td>27</td>
-	</tr>
-	<tr>
-		<td>619</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/florinc">
 				<img src="https://avatars.githubusercontent.com/u/443676?s=72&u=e3bfed8011b910a8269b6f1666d4d2226f2b545e&v=4" width="24" alt="Avatar of florinc"> florinc
@@ -8152,7 +8165,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>621</td>
 		<td>
 			<a href="https://github.com/bvizureanu">
 				<img src="https://avatars.githubusercontent.com/u/3786565?s=72&u=fed60dc0b127c49123e477dc3d12cbf8e5ed7391&v=4" width="24" alt="Avatar of bvizureanu"> bvizureanu
@@ -8165,7 +8178,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>622</td>
 		<td>
 			<a href="https://github.com/bogdan-cornianu">
 				<img src="https://avatars.githubusercontent.com/u/3063103?s=72&v=4" width="24" alt="Avatar of bogdan-cornianu"> bogdan-cornianu
@@ -8178,7 +8191,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>623</td>
 		<td>
 			<a href="https://github.com/corneacristian">
 				<img src="https://avatars.githubusercontent.com/u/59137279?s=72&u=4dc635d1d51ecf20a67ff48a1412e7312aedf009&v=4" width="24" alt="Avatar of corneacristian"> corneacristian
@@ -8191,7 +8204,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a href="https://github.com/lighthousand">
 				<img src="https://avatars.githubusercontent.com/u/26488586?s=72&u=dfaa7650953d34a4f719d14630489d6ab590a505&v=4" width="24" alt="Avatar of lighthousand"> lighthousand
@@ -8204,7 +8217,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>625</td>
 		<td>
 			<a href="https://github.com/alexsisu">
 				<img src="https://avatars.githubusercontent.com/u/13520?s=72&u=5e16682b78e0a931ae061c5c7ddeb55ad3fbb829&v=4" width="24" alt="Avatar of alexsisu"> alexsisu
@@ -8217,7 +8230,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>626</td>
 		<td>
 			<a href="https://github.com/Stickey21">
 				<img src="https://avatars.githubusercontent.com/u/36411522?s=72&u=1a560a02e95479db9dd4e62d994cb3a37c7eb610&v=4" width="24" alt="Avatar of Stickey21"> Stickey21
@@ -8230,7 +8243,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>626</td>
+		<td>627</td>
 		<td>
 			<a href="https://github.com/rawc0der">
 				<img src="https://avatars.githubusercontent.com/u/1760897?s=72&v=4" width="24" alt="Avatar of rawc0der"> rawc0der
@@ -8243,7 +8256,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a href="https://github.com/madl3x">
 				<img src="https://avatars.githubusercontent.com/u/12233025?s=72&u=211dfefdb7ada6255b0fca9d40b60a6af7f0f3c2&v=4" width="24" alt="Avatar of madl3x"> madl3x
@@ -8256,7 +8269,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>628</td>
+		<td>629</td>
 		<td>
 			<a href="https://github.com/warchildmd">
 				<img src="https://avatars.githubusercontent.com/u/1886059?s=72&u=6ae64e5213f3b6c590333d545202bac6617a5aaa&v=4" width="24" alt="Avatar of warchildmd"> warchildmd
@@ -8269,7 +8282,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>629</td>
+		<td>630</td>
 		<td>
 			<a href="https://github.com/WebDevSHORTS">
 				<img src="https://avatars.githubusercontent.com/u/44138280?s=72&u=767d3800c2f9b5e933bbdbd94b60cc379d49fbe7&v=4" width="24" alt="Avatar of WebDevSHORTS"> WebDevSHORTS
@@ -8282,7 +8295,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>630</td>
+		<td>631</td>
 		<td>
 			<a href="https://github.com/tamaspap">
 				<img src="https://avatars.githubusercontent.com/u/1059643?s=72&v=4" width="24" alt="Avatar of tamaspap"> tamaspap
@@ -8295,7 +8308,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>632</td>
 		<td>
 			<a href="https://github.com/UngureanuVlad">
 				<img src="https://avatars.githubusercontent.com/u/9714522?s=72&u=1d8bef866077adce0693f2521bea71a862f31d67&v=4" width="24" alt="Avatar of UngureanuVlad"> UngureanuVlad
@@ -8308,7 +8321,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>633</td>
 		<td>
 			<a href="https://github.com/saintandy">
 				<img src="https://avatars.githubusercontent.com/u/2447339?s=72&u=9ffc14554cb76bc17ae19ecd8381f91c3c7f7d70&v=4" width="24" alt="Avatar of saintandy"> saintandy
@@ -8321,7 +8334,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>634</td>
 		<td>
 			<a href="https://github.com/robipop22">
 				<img src="https://avatars.githubusercontent.com/u/13586721?s=72&u=74142439b0544f8246ded9d31620cbd24145e37b&v=4" width="24" alt="Avatar of robipop22"> robipop22
@@ -8334,7 +8347,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>634</td>
+		<td>635</td>
 		<td>
 			<a href="https://github.com/NsdHSO">
 				<img src="https://avatars.githubusercontent.com/u/37635083?s=72&u=8a36547be4bc128a22dbb860ca1fe3ebd917d14e&v=4" width="24" alt="Avatar of NsdHSO"> NsdHSO
@@ -8347,7 +8360,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>635</td>
+		<td>636</td>
 		<td>
 			<a href="https://github.com/viseztrance">
 				<img src="https://avatars.githubusercontent.com/u/13088?s=72&u=3b2b46ff5bc9f666544f298efdaa4f508e222b41&v=4" width="24" alt="Avatar of viseztrance"> viseztrance
@@ -8357,19 +8370,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Buzău, Romania</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>636</td>
-		<td>
-			<a href="https://github.com/victorholo">
-				<img src="https://avatars.githubusercontent.com/u/8835396?s=72&u=85df0fa9a1747ebe46170076d184febf183755af&v=4" width="24" alt="Avatar of victorholo"> victorholo
-			</a><br/>
-			Victor Holotescu
-		</td>
-		<td>Buidler Labs </td>
-		<td>No Twitter Username</td>
-		<td>Romania</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -8544,19 +8544,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>650</td>
 		<td>
-			<a href="https://github.com/BudacaB">
-				<img src="https://avatars.githubusercontent.com/u/41928945?s=72&u=21aaf39d76f6601a119b46efdc1f9f9615318987&v=4" width="24" alt="Avatar of BudacaB"> BudacaB
-			</a><br/>
-			Bogdan Budaca
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/budak_bn">budak_bn</a></td>
-		<td>Bucharest, Romania</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>651</td>
-		<td>
 			<a href="https://github.com/andreitudose2000">
 				<img src="https://avatars.githubusercontent.com/u/23433414?s=72&u=e4f3667f913337da098ad504d8f231598220c8c3&v=4" width="24" alt="Avatar of andreitudose2000"> andreitudose2000
 			</a><br/>
@@ -8565,6 +8552,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>Amdaris </td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>651</td>
+		<td>
+			<a href="https://github.com/raph-exe">
+				<img src="https://avatars.githubusercontent.com/u/81021823?s=72&u=741461c927a77691171fc1dbfe91134fd29f123b&v=4" width="24" alt="Avatar of raph-exe"> raph-exe
+			</a><br/>
+			Raphael
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brasov, Romania</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -8661,19 +8661,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>659</td>
 		<td>
-			<a href="https://github.com/AlexandraMariaPop">
-				<img src="https://avatars.githubusercontent.com/u/56788948?s=72&u=49985cfec7dc0e96feb96d897a3e4166e4607f5e&v=4" width="24" alt="Avatar of AlexandraMariaPop"> AlexandraMariaPop
-			</a><br/>
-			Pop Alexandra Maria
-		</td>
-		<td>Fortech </td>
-		<td>No Twitter Username</td>
-		<td>Oradea, Romania</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>660</td>
-		<td>
 			<a href="https://github.com/andreeasky">
 				<img src="https://avatars.githubusercontent.com/u/25120109?s=72&u=eca43f1b01e30704a09661516ad1ca84197ff4bf&v=4" width="24" alt="Avatar of andreeasky"> andreeasky
 			</a><br/>
@@ -8682,6 +8669,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
+		<td>26</td>
+	</tr>
+	<tr>
+		<td>660</td>
+		<td>
+			<a href="https://github.com/AlexandraMariaPop">
+				<img src="https://avatars.githubusercontent.com/u/56788948?s=72&u=49985cfec7dc0e96feb96d897a3e4166e4607f5e&v=4" width="24" alt="Avatar of AlexandraMariaPop"> AlexandraMariaPop
+			</a><br/>
+			Pop Alexandra Maria
+		</td>
+		<td>Fortech </td>
+		<td>No Twitter Username</td>
+		<td>Oradea, Romania</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -9727,6 +9727,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>741</td>
 		<td>
+			<a href="https://github.com/w1bb">
+				<img src="https://avatars.githubusercontent.com/u/45993965?s=72&u=bbac100404d541751fa74242a90082f2b6890a51&v=4" width="24" alt="Avatar of w1bb"> w1bb
+			</a><br/>
+			Valentin-Ioan VINTILĂ
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>742</td>
+		<td>
 			<a href="https://github.com/Mayhem93">
 				<img src="https://avatars.githubusercontent.com/u/705289?s=72&v=4" width="24" alt="Avatar of Mayhem93"> Mayhem93
 			</a><br/>
@@ -9738,7 +9751,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>743</td>
 		<td>
 			<a href="https://github.com/Cosmin-Parvulescu">
 				<img src="https://avatars.githubusercontent.com/u/635806?s=72&u=ff4cc9838918962dd833a409c8e1bbe11c1f9a0f&v=4" width="24" alt="Avatar of Cosmin-Parvulescu"> Cosmin-Parvulescu
@@ -9751,7 +9764,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>744</td>
 		<td>
 			<a href="https://github.com/mcarare">
 				<img src="https://avatars.githubusercontent.com/u/48995920?s=72&v=4" width="24" alt="Avatar of mcarare"> mcarare
@@ -9764,7 +9777,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>745</td>
 		<td>
 			<a href="https://github.com/vladolaru">
 				<img src="https://avatars.githubusercontent.com/u/8830539?s=72&v=4" width="24" alt="Avatar of vladolaru"> vladolaru
@@ -9777,7 +9790,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>746</td>
 		<td>
 			<a href="https://github.com/akizor">
 				<img src="https://avatars.githubusercontent.com/u/1052439?s=72&v=4" width="24" alt="Avatar of akizor"> akizor
@@ -9790,7 +9803,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>747</td>
 		<td>
 			<a href="https://github.com/Zedpaixd">
 				<img src="https://avatars.githubusercontent.com/u/70021545?s=72&u=05f512441fec6d1e55fe877155f7067dcc2bfd5a&v=4" width="24" alt="Avatar of Zedpaixd"> Zedpaixd
@@ -9803,7 +9816,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>748</td>
 		<td>
 			<a href="https://github.com/3Nigma">
 				<img src="https://avatars.githubusercontent.com/u/210908?s=72&u=1ae265ba533edcfe830daf7cb3ff24e80b31d4df&v=4" width="24" alt="Avatar of 3Nigma"> 3Nigma
@@ -9816,7 +9829,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>749</td>
 		<td>
 			<a href="https://github.com/DianaVasiliu">
 				<img src="https://avatars.githubusercontent.com/u/80322089?s=72&u=c77a31bdbe9c716c688bb99f878906adac6b7cf7&v=4" width="24" alt="Avatar of DianaVasiliu"> DianaVasiliu
@@ -9829,7 +9842,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/AlexandraBledea">
 				<img src="https://avatars.githubusercontent.com/u/72063091?s=72&u=be52d6d15c3215521d0981f74fc7fe33f01959ed&v=4" width="24" alt="Avatar of AlexandraBledea"> AlexandraBledea
@@ -9842,7 +9855,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/raluvy95">
 				<img src="https://avatars.githubusercontent.com/u/43247023?s=72&u=195baf9ff13287a7c65f257950eee5fae46c2bc8&v=4" width="24" alt="Avatar of raluvy95"> raluvy95
@@ -9855,7 +9868,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/victormura">
 				<img src="https://avatars.githubusercontent.com/u/58548443?s=72&u=ad422ada558dcd2d4b499dad7f75e5f494578c9e&v=4" width="24" alt="Avatar of victormura"> victormura
@@ -9868,7 +9881,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/brokenthorn">
 				<img src="https://avatars.githubusercontent.com/u/2119004?s=72&u=73f612396b827b76b2cd9787700e0ddf09438962&v=4" width="24" alt="Avatar of brokenthorn"> brokenthorn
@@ -9881,7 +9894,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/mtarnovan">
 				<img src="https://avatars.githubusercontent.com/u/4074?s=72&u=af2c2ec05e4d7f085a11a5c6f2c105d9dd5acb1f&v=4" width="24" alt="Avatar of mtarnovan"> mtarnovan
@@ -9894,7 +9907,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a href="https://github.com/andreisebastianc">
 				<img src="https://avatars.githubusercontent.com/u/636000?s=72&u=d2869ac4a341e6eccee9fba289778cea107fdb9b&v=4" width="24" alt="Avatar of andreisebastianc"> andreisebastianc
@@ -9907,7 +9920,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
 		<td>
 			<a href="https://github.com/unDemian">
 				<img src="https://avatars.githubusercontent.com/u/2129455?s=72&v=4" width="24" alt="Avatar of unDemian"> unDemian
@@ -9920,7 +9933,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a href="https://github.com/ana-rosu">
 				<img src="https://avatars.githubusercontent.com/u/108434901?s=72&u=4a1c94425b2e00bb337bfc4e7e274948d396d8ad&v=4" width="24" alt="Avatar of ana-rosu"> ana-rosu
@@ -9933,7 +9946,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a href="https://github.com/smrazvan">
 				<img src="https://avatars.githubusercontent.com/u/28351500?s=72&u=3b13329c27aaeb81df6f7d8e17486cc99b872ddf&v=4" width="24" alt="Avatar of smrazvan"> smrazvan
@@ -9946,7 +9959,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>759</td>
 		<td>
 			<a href="https://github.com/BadescuGabi">
 				<img src="https://avatars.githubusercontent.com/u/56481005?s=72&u=42412ebf1e006f6ac01b69589170a7b0bb9bec3e&v=4" width="24" alt="Avatar of BadescuGabi"> BadescuGabi
@@ -9959,7 +9972,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>760</td>
 		<td>
 			<a href="https://github.com/TibixDev">
 				<img src="https://avatars.githubusercontent.com/u/21055141?s=72&v=4" width="24" alt="Avatar of TibixDev"> TibixDev
@@ -9972,7 +9985,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>760</td>
+		<td>761</td>
 		<td>
 			<a href="https://github.com/alexthemaster">
 				<img src="https://avatars.githubusercontent.com/u/31011461?s=72&u=f6708735801b93cefd6b06c403c867ca8bde4d43&v=4" width="24" alt="Avatar of alexthemaster"> alexthemaster
@@ -9985,7 +9998,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a href="https://github.com/Alegzandra">
 				<img src="https://avatars.githubusercontent.com/u/4492390?s=72&u=67a8d7f7a58d568c91e9d18e2148d11a8d54ebca&v=4" width="24" alt="Avatar of Alegzandra"> Alegzandra
@@ -9998,7 +10011,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a href="https://github.com/adavidoaiei">
 				<img src="https://avatars.githubusercontent.com/u/69617328?s=72&u=e108723e66da14d65600e61447aed76868adc0e1&v=4" width="24" alt="Avatar of adavidoaiei"> adavidoaiei
@@ -10011,7 +10024,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a href="https://github.com/ComicoX">
 				<img src="https://avatars.githubusercontent.com/u/17796390?s=72&u=afc2d9300d506c98ad2cdf501110327be956b824&v=4" width="24" alt="Avatar of ComicoX"> ComicoX
@@ -10024,7 +10037,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a href="https://github.com/StefaniaCarutasu">
 				<img src="https://avatars.githubusercontent.com/u/62119841?s=72&u=4da26b3e77f76bd8c2c0291e493fb878690cf0be&v=4" width="24" alt="Avatar of StefaniaCarutasu"> StefaniaCarutasu
@@ -10037,7 +10050,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a href="https://github.com/petrepatrasc">
 				<img src="https://avatars.githubusercontent.com/u/1115084?s=72&u=ad65e9ab65f32325da7d80ce60889d3f10924dc3&v=4" width="24" alt="Avatar of petrepatrasc"> petrepatrasc
@@ -10050,7 +10063,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a href="https://github.com/Irikos">
 				<img src="https://avatars.githubusercontent.com/u/2596078?s=72&u=82e0474666a11f91b6a67b04389ee5bfe95ae4ee&v=4" width="24" alt="Avatar of Irikos"> Irikos
@@ -10063,7 +10076,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a href="https://github.com/diana-frontdev">
 				<img src="https://avatars.githubusercontent.com/u/26607309?s=72&u=d5757945bc28fd53032b53ce4d3b851df0477b94&v=4" width="24" alt="Avatar of diana-frontdev"> diana-frontdev
@@ -10076,7 +10089,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a href="https://github.com/bogdanconstantinescu">
 				<img src="https://avatars.githubusercontent.com/u/301601?s=72&u=5149f9a25bd4faaf2f604373d54e911119324d7c&v=4" width="24" alt="Avatar of bogdanconstantinescu"> bogdanconstantinescu
@@ -10089,7 +10102,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a href="https://github.com/iuliaL">
 				<img src="https://avatars.githubusercontent.com/u/15954865?s=72&u=dbb5c4aaed004edfbb6fa28cffb4ebc85c8d45fd&v=4" width="24" alt="Avatar of iuliaL"> iuliaL
@@ -10102,7 +10115,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a href="https://github.com/MirceaKitsune">
 				<img src="https://avatars.githubusercontent.com/u/825418?s=72&u=c7f07c6e076dbd01c1d36903845bbd5bec95e0cd&v=4" width="24" alt="Avatar of MirceaKitsune"> MirceaKitsune
@@ -10115,7 +10128,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a href="https://github.com/stefansbv">
 				<img src="https://avatars.githubusercontent.com/u/574782?s=72&v=4" width="24" alt="Avatar of stefansbv"> stefansbv
@@ -10128,7 +10141,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a href="https://github.com/bogtan">
 				<img src="https://avatars.githubusercontent.com/u/310450?s=72&u=3cc8861f3f2da063d74995db726ddeb60766dd01&v=4" width="24" alt="Avatar of bogtan"> bogtan
@@ -10141,7 +10154,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a href="https://github.com/lupuleasa-core">
 				<img src="https://avatars.githubusercontent.com/u/5671120?s=72&u=650e47313388ecf06e81c8898d7503383b02ef6b&v=4" width="24" alt="Avatar of lupuleasa-core"> lupuleasa-core
@@ -10154,7 +10167,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a href="https://github.com/lcostea">
 				<img src="https://avatars.githubusercontent.com/u/1910380?s=72&u=2fc9b0771075f58d907642e8891e06d6f5a7ac63&v=4" width="24" alt="Avatar of lcostea"> lcostea
@@ -10167,7 +10180,20 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
+		<td>
+			<a href="https://github.com/danigorbaciov">
+				<img src="https://avatars.githubusercontent.com/u/35705104?s=72&u=9a627d624ce5e6a39f14fdeda6d8316d3b2aadc9&v=4" width="24" alt="Avatar of danigorbaciov"> danigorbaciov
+			</a><br/>
+			Dani Gorbaciov
+		</td>
+		<td>Mac Daniel's </td>
+		<td>No Twitter Username</td>
+		<td>Romania</td>
+		<td>23</td>
+	</tr>
+	<tr>
+		<td>777</td>
 		<td>
 			<a href="https://github.com/robery567">
 				<img src="https://avatars.githubusercontent.com/u/2547282?s=72&u=9513db8193f1cde1cd051f09bdbca69490368ac4&v=4" width="24" alt="Avatar of robery567"> robery567
@@ -10180,7 +10206,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>778</td>
 		<td>
 			<a href="https://github.com/iulianR">
 				<img src="https://avatars.githubusercontent.com/u/6775259?s=72&u=e3dff413c4de3a02f370cc25e50d3361e3d9da2b&v=4" width="24" alt="Avatar of iulianR"> iulianR
@@ -10193,7 +10219,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>779</td>
 		<td>
 			<a href="https://github.com/moisadoru">
 				<img src="https://avatars.githubusercontent.com/u/109328?s=72&u=1d12f998cd2b4e96fa3ff2d893276c6fb1a99a36&v=4" width="24" alt="Avatar of moisadoru"> moisadoru
@@ -10206,7 +10232,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>780</td>
 		<td>
 			<a href="https://github.com/links234">
 				<img src="https://avatars.githubusercontent.com/u/2182124?s=72&u=5b7a385b88a94e4497f1866fd33fa59321ea0421&v=4" width="24" alt="Avatar of links234"> links234
@@ -10219,7 +10245,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>781</td>
 		<td>
 			<a href="https://github.com/costimuraru">
 				<img src="https://avatars.githubusercontent.com/u/952836?s=72&u=d6d5847e4f3334803bfd00d51942b61952db8133&v=4" width="24" alt="Avatar of costimuraru"> costimuraru
@@ -10232,7 +10258,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>782</td>
 		<td>
 			<a href="https://github.com/andreilupu">
 				<img src="https://avatars.githubusercontent.com/u/1893980?s=72&u=d3aba527dac3dc1b2aa5d487edbbd76b36ee5b9f&v=4" width="24" alt="Avatar of andreilupu"> andreilupu
@@ -10245,7 +10271,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>783</td>
 		<td>
 			<a href="https://github.com/gabiudrescu">
 				<img src="https://avatars.githubusercontent.com/u/5156054?s=72&v=4" width="24" alt="Avatar of gabiudrescu"> gabiudrescu
@@ -10258,7 +10284,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>784</td>
 		<td>
 			<a href="https://github.com/THEBOSS619">
 				<img src="https://avatars.githubusercontent.com/u/32247935?s=72&u=d662d9dfd7c0110cd9e5fd6ad82af93721ce8453&v=4" width="24" alt="Avatar of THEBOSS619"> THEBOSS619
@@ -10271,7 +10297,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>785</td>
 		<td>
 			<a href="https://github.com/catalin-burcea">
 				<img src="https://avatars.githubusercontent.com/u/8037635?s=72&u=5cdb5f454a1584c6a881346d29e19cf125c71b60&v=4" width="24" alt="Avatar of catalin-burcea"> catalin-burcea
@@ -10284,7 +10310,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>786</td>
 		<td>
 			<a href="https://github.com/mtiutiu">
 				<img src="https://avatars.githubusercontent.com/u/2891463?s=72&u=97878ab0f8f0ff06df595bddb84b489bfe5775ba&v=4" width="24" alt="Avatar of mtiutiu"> mtiutiu
@@ -10297,7 +10323,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>787</td>
 		<td>
 			<a href="https://github.com/miculprogramator">
 				<img src="https://avatars.githubusercontent.com/u/7827301?s=72&u=bc0749289e5063d30c67841c8bdd26bd91fb530d&v=4" width="24" alt="Avatar of miculprogramator"> miculprogramator
@@ -10310,7 +10336,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>788</td>
 		<td>
 			<a href="https://github.com/petru-dimitriu">
 				<img src="https://avatars.githubusercontent.com/u/15856130?s=72&u=c1162665d20fbd0994feac954bded2dc570691c6&v=4" width="24" alt="Avatar of petru-dimitriu"> petru-dimitriu
@@ -10323,7 +10349,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>789</td>
 		<td>
 			<a href="https://github.com/bopopescu">
 				<img src="https://avatars.githubusercontent.com/u/68062990?s=72&u=f3db24c196d0152177a60d1a1f39e851c990b02c&v=4" width="24" alt="Avatar of bopopescu"> bopopescu
@@ -10336,7 +10362,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>790</td>
 		<td>
 			<a href="https://github.com/lostandfownd">
 				<img src="https://avatars.githubusercontent.com/u/2671627?s=72&u=b30512069d22ca1fed74a6e9974ff463bdbffa0a&v=4" width="24" alt="Avatar of lostandfownd"> lostandfownd
@@ -10349,20 +10375,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>789</td>
-		<td>
-			<a href="https://github.com/catalinciupic">
-				<img src="https://avatars.githubusercontent.com/u/1160595?s=72&v=4" width="24" alt="Avatar of catalinciupic"> catalinciupic
-			</a><br/>
-			Catalin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bucharest, Romania</td>
-		<td>23</td>
-	</tr>
-	<tr>
-		<td>790</td>
+		<td>791</td>
 		<td>
 			<a href="https://github.com/cionescu">
 				<img src="https://avatars.githubusercontent.com/u/3137291?s=72&v=4" width="24" alt="Avatar of cionescu"> cionescu
@@ -10375,7 +10388,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>791</td>
+		<td>792</td>
 		<td>
 			<a href="https://github.com/fangg19">
 				<img src="https://avatars.githubusercontent.com/u/68244095?s=72&v=4" width="24" alt="Avatar of fangg19"> fangg19
@@ -10388,7 +10401,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>792</td>
+		<td>793</td>
 		<td>
 			<a href="https://github.com/dxps">
 				<img src="https://avatars.githubusercontent.com/u/14140226?s=72&u=911776ffc3e35b26ac2e36eb9e01fb8acdc4e69e&v=4" width="24" alt="Avatar of dxps"> dxps
@@ -10401,7 +10414,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>793</td>
+		<td>794</td>
 		<td>
 			<a href="https://github.com/janosrusiczki">
 				<img src="https://avatars.githubusercontent.com/u/189468?s=72&u=878e8f1fcc3cdc47adb48b20cc32b0d72dfac84c&v=4" width="24" alt="Avatar of janosrusiczki"> janosrusiczki
@@ -10414,7 +10427,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>794</td>
+		<td>795</td>
 		<td>
 			<a href="https://github.com/cunev">
 				<img src="https://avatars.githubusercontent.com/u/61335176?s=72&u=adc51a8fb6566d41282890ed805c65c9c4167bd8&v=4" width="24" alt="Avatar of cunev"> cunev
@@ -10427,7 +10440,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>795</td>
+		<td>796</td>
 		<td>
 			<a href="https://github.com/ghitacornel">
 				<img src="https://avatars.githubusercontent.com/u/28965482?s=72&u=7e328e9dd44fab467d8d762de13b404fbc953516&v=4" width="24" alt="Avatar of ghitacornel"> ghitacornel
@@ -10440,7 +10453,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>797</td>
 		<td>
 			<a href="https://github.com/alinmigea">
 				<img src="https://avatars.githubusercontent.com/u/4415229?s=72&u=aa8523732f88a933df95ddfe557a46047ed20f4e&v=4" width="24" alt="Avatar of alinmigea"> alinmigea
@@ -10453,7 +10466,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>798</td>
 		<td>
 			<a href="https://github.com/danpercic86">
 				<img src="https://avatars.githubusercontent.com/u/48769902?s=72&u=5963aa167478246f8b0c5231a41e717812e05c02&v=4" width="24" alt="Avatar of danpercic86"> danpercic86
@@ -10466,7 +10479,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>799</td>
 		<td>
 			<a href="https://github.com/ClaudiuCeia">
 				<img src="https://avatars.githubusercontent.com/u/22706412?s=72&u=e8cb3b6100f32129a25d62e2d4b73ac91e51aac7&v=4" width="24" alt="Avatar of ClaudiuCeia"> ClaudiuCeia
@@ -10479,7 +10492,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>800</td>
 		<td>
 			<a href="https://github.com/CutzuDev">
 				<img src="https://avatars.githubusercontent.com/u/107065294?s=72&u=b62cbadb89593f125214ca064b93115b0ea6d3d6&v=4" width="24" alt="Avatar of CutzuDev"> CutzuDev
@@ -10492,7 +10505,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>801</td>
 		<td>
 			<a href="https://github.com/mirceanton">
 				<img src="https://avatars.githubusercontent.com/u/28601784?s=72&u=6a53746d76bc180022048097da6f5efb4f8df34b&v=4" width="24" alt="Avatar of mirceanton"> mirceanton
@@ -10505,7 +10518,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>802</td>
 		<td>
 			<a href="https://github.com/stefan-moraru">
 				<img src="https://avatars.githubusercontent.com/u/14219325?s=72&u=e3b4098047a17a6c34d2757d53d720b8499fe44e&v=4" width="24" alt="Avatar of stefan-moraru"> stefan-moraru
@@ -10518,7 +10531,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>803</td>
 		<td>
 			<a href="https://github.com/nicolae1099">
 				<img src="https://avatars.githubusercontent.com/u/58396465?s=72&u=dca6a94f87df0d202c5c917934c23b39616883eb&v=4" width="24" alt="Avatar of nicolae1099"> nicolae1099
@@ -10531,7 +10544,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>804</td>
 		<td>
 			<a href="https://github.com/trifangrobert">
 				<img src="https://avatars.githubusercontent.com/u/34407605?s=72&v=4" width="24" alt="Avatar of trifangrobert"> trifangrobert
@@ -10544,7 +10557,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>805</td>
 		<td>
 			<a href="https://github.com/Daniele1209">
 				<img src="https://avatars.githubusercontent.com/u/54501187?s=72&u=e9024145af099ac027e5ca3fde63ba265ab7879a&v=4" width="24" alt="Avatar of Daniele1209"> Daniele1209
@@ -10557,7 +10570,20 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>806</td>
+		<td>
+			<a href="https://github.com/xAlpharax">
+				<img src="https://avatars.githubusercontent.com/u/42233094?s=72&u=b05d5fe60079b1e4504a3060b6fb9a2df410580e&v=4" width="24" alt="Avatar of xAlpharax"> xAlpharax
+			</a><br/>
+			Alphara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brasov, Romania</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>807</td>
 		<td>
 			<a href="https://github.com/lucianlature">
 				<img src="https://avatars.githubusercontent.com/u/24992?s=72&u=24e6a9727c2c404a9362539c62af9ccc5294d357&v=4" width="24" alt="Avatar of lucianlature"> lucianlature
@@ -10570,7 +10596,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>808</td>
 		<td>
 			<a href="https://github.com/mariusciurea">
 				<img src="https://avatars.githubusercontent.com/u/81191004?s=72&u=d7dc0dc96e672a27f2c5747f74085dd09cf913a3&v=4" width="24" alt="Avatar of mariusciurea"> mariusciurea
@@ -10583,7 +10609,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>809</td>
 		<td>
 			<a href="https://github.com/sanzor">
 				<img src="https://avatars.githubusercontent.com/u/26228414?s=72&u=450fb6c6bbb36cad6766de4c44a2c21b486af3b9&v=4" width="24" alt="Avatar of sanzor"> sanzor
@@ -10596,7 +10622,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>810</td>
 		<td>
 			<a href="https://github.com/balannarcis96">
 				<img src="https://avatars.githubusercontent.com/u/8436410?s=72&u=74a8fe9d5ad0dbabb3bfb077bc8579a672e049a7&v=4" width="24" alt="Avatar of balannarcis96"> balannarcis96
@@ -10609,7 +10635,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>811</td>
 		<td>
 			<a href="https://github.com/iRaduS">
 				<img src="https://avatars.githubusercontent.com/u/21007741?s=72&u=479e14490b0181ec5e78ba8bdefb7a30435bff21&v=4" width="24" alt="Avatar of iRaduS"> iRaduS
@@ -10622,7 +10648,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>812</td>
 		<td>
 			<a href="https://github.com/mihai-constantin">
 				<img src="https://avatars.githubusercontent.com/u/38539385?s=72&u=343c4c9d5962018b1ce2882df33b3442aa544efc&v=4" width="24" alt="Avatar of mihai-constantin"> mihai-constantin
@@ -10635,7 +10661,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>813</td>
 		<td>
 			<a href="https://github.com/g-un--">
 				<img src="https://avatars.githubusercontent.com/u/2708835?s=72&v=4" width="24" alt="Avatar of g-un--"> g-un--
@@ -10648,7 +10674,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>814</td>
 		<td>
 			<a href="https://github.com/andrei-micuda">
 				<img src="https://avatars.githubusercontent.com/u/24955084?s=72&u=9db1e8e482c862b3fd50f1c3e4e050a34e4de282&v=4" width="24" alt="Avatar of andrei-micuda"> andrei-micuda
@@ -10661,7 +10687,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>815</td>
 		<td>
 			<a href="https://github.com/zoltanhalasz">
 				<img src="https://avatars.githubusercontent.com/u/42749923?s=72&u=0ed87c777eb1dd4d4b589af17bf5d78144defa3a&v=4" width="24" alt="Avatar of zoltanhalasz"> zoltanhalasz
@@ -10674,20 +10700,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>814</td>
-		<td>
-			<a href="https://github.com/danigorbaciov">
-				<img src="https://avatars.githubusercontent.com/u/35705104?s=72&u=9a627d624ce5e6a39f14fdeda6d8316d3b2aadc9&v=4" width="24" alt="Avatar of danigorbaciov"> danigorbaciov
-			</a><br/>
-			Dani Gorbaciov
-		</td>
-		<td>Mac Daniel's </td>
-		<td>No Twitter Username</td>
-		<td>Romania</td>
-		<td>22</td>
-	</tr>
-	<tr>
-		<td>815</td>
+		<td>816</td>
 		<td>
 			<a href="https://github.com/adriannuta">
 				<img src="https://avatars.githubusercontent.com/u/956984?s=72&u=9f1734cc14ae3a1ead502257f7196947b47cd148&v=4" width="24" alt="Avatar of adriannuta"> adriannuta
@@ -10700,7 +10713,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>817</td>
 		<td>
 			<a href="https://github.com/cipriansofronia">
 				<img src="https://avatars.githubusercontent.com/u/9365666?s=72&u=5b9a597a2ae901eb420ed63d6215483e4a255e82&v=4" width="24" alt="Avatar of cipriansofronia"> cipriansofronia
@@ -10713,7 +10726,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>818</td>
 		<td>
 			<a href="https://github.com/mihneacristian">
 				<img src="https://avatars.githubusercontent.com/u/29492860?s=72&u=438ef3ced9b6decf3279558aa75a63cfeff29332&v=4" width="24" alt="Avatar of mihneacristian"> mihneacristian
@@ -10726,7 +10739,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>819</td>
 		<td>
 			<a href="https://github.com/AndreiSpatariu">
 				<img src="https://avatars.githubusercontent.com/u/8727931?s=72&v=4" width="24" alt="Avatar of AndreiSpatariu"> AndreiSpatariu
@@ -10739,7 +10752,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>820</td>
 		<td>
 			<a href="https://github.com/0x2539">
 				<img src="https://avatars.githubusercontent.com/u/6463015?s=72&v=4" width="24" alt="Avatar of 0x2539"> 0x2539
@@ -10752,7 +10765,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>821</td>
 		<td>
 			<a href="https://github.com/bit-twit">
 				<img src="https://avatars.githubusercontent.com/u/6631742?s=72&v=4" width="24" alt="Avatar of bit-twit"> bit-twit
@@ -10765,7 +10778,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>821</td>
+		<td>822</td>
 		<td>
 			<a href="https://github.com/alertor">
 				<img src="https://avatars.githubusercontent.com/u/1184805?s=72&u=4f50a5600ce2a974d4181731ff7fe0cc6be085fc&v=4" width="24" alt="Avatar of alertor"> alertor
@@ -10778,7 +10791,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>822</td>
+		<td>823</td>
 		<td>
 			<a href="https://github.com/AdiMarianMutu">
 				<img src="https://avatars.githubusercontent.com/u/39502043?s=72&u=de21b3ed65af5864bb76af941890f4f1035c3050&v=4" width="24" alt="Avatar of AdiMarianMutu"> AdiMarianMutu
@@ -10791,7 +10804,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>823</td>
+		<td>824</td>
 		<td>
 			<a href="https://github.com/vladubogdan">
 				<img src="https://avatars.githubusercontent.com/u/1398772?s=72&v=4" width="24" alt="Avatar of vladubogdan"> vladubogdan
@@ -10804,7 +10817,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>825</td>
 		<td>
 			<a href="https://github.com/remoteur">
 				<img src="https://avatars.githubusercontent.com/u/3585797?s=72&u=1117af4882af197ad78c171e787f112ed82cf94a&v=4" width="24" alt="Avatar of remoteur"> remoteur
@@ -10817,7 +10830,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>826</td>
 		<td>
 			<a href="https://github.com/DeliaDumitrescu">
 				<img src="https://avatars.githubusercontent.com/u/60919824?s=72&u=6d622535e2d0c674478654d32c9862fa850bf8bf&v=4" width="24" alt="Avatar of DeliaDumitrescu"> DeliaDumitrescu
@@ -10830,7 +10843,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>827</td>
 		<td>
 			<a href="https://github.com/AgileHubAssociation">
 				<img src="https://avatars.githubusercontent.com/u/62354607?s=72&u=3576c2c466446a95cae83c4848978b9e41fceab4&v=4" width="24" alt="Avatar of AgileHubAssociation"> AgileHubAssociation
@@ -10843,7 +10856,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>828</td>
 		<td>
 			<a href="https://github.com/AlexandruPislariu">
 				<img src="https://avatars.githubusercontent.com/u/57287326?s=72&u=8eb4bddb2a9e72fd1c34787bc1e063c0a527d3dd&v=4" width="24" alt="Avatar of AlexandruPislariu"> AlexandruPislariu
@@ -10856,7 +10869,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>829</td>
 		<td>
 			<a href="https://github.com/tux2nicolae">
 				<img src="https://avatars.githubusercontent.com/u/39991250?s=72&u=fb4c3ff0abc4eedb83b25f5073ec507d2d52b8e5&v=4" width="24" alt="Avatar of tux2nicolae"> tux2nicolae
@@ -10869,7 +10882,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>830</td>
 		<td>
 			<a href="https://github.com/AndreiLucaci">
 				<img src="https://avatars.githubusercontent.com/u/1398757?s=72&u=58d35d8fd19f78dfab0a6f2bfc18d54405587774&v=4" width="24" alt="Avatar of AndreiLucaci"> AndreiLucaci
@@ -10882,7 +10895,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/bogdanghervan">
 				<img src="https://avatars.githubusercontent.com/u/585130?s=72&u=c75421f76e7fa8f9092331a20be63c0ea08d7c47&v=4" width="24" alt="Avatar of bogdanghervan"> bogdanghervan
@@ -10895,7 +10908,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>832</td>
 		<td>
 			<a href="https://github.com/hadesgames">
 				<img src="https://avatars.githubusercontent.com/u/650744?s=72&u=7529b4b8470e7c964aff3c023d0584d41facbc1e&v=4" width="24" alt="Avatar of hadesgames"> hadesgames
@@ -10908,7 +10921,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>833</td>
 		<td>
 			<a href="https://github.com/sweethuman">
 				<img src="https://avatars.githubusercontent.com/u/22968511?s=72&u=6f2d3153d0d05e7a0cbeda622a210a6b7d809af4&v=4" width="24" alt="Avatar of sweethuman"> sweethuman
@@ -10921,7 +10934,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>834</td>
 		<td>
 			<a href="https://github.com/dantodor">
 				<img src="https://avatars.githubusercontent.com/u/5310618?s=72&v=4" width="24" alt="Avatar of dantodor"> dantodor
@@ -10934,7 +10947,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>835</td>
 		<td>
 			<a href="https://github.com/nanobeep">
 				<img src="https://avatars.githubusercontent.com/u/29136?s=72&v=4" width="24" alt="Avatar of nanobeep"> nanobeep
@@ -10947,7 +10960,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>836</td>
 		<td>
 			<a href="https://github.com/alexandrubagu">
 				<img src="https://avatars.githubusercontent.com/u/215710?s=72&u=1f75e58c26e0fbc3fa13f5bf3c2587de0864b5a8&v=4" width="24" alt="Avatar of alexandrubagu"> alexandrubagu
@@ -10960,7 +10973,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>837</td>
 		<td>
 			<a href="https://github.com/postolache-andreea-miruna">
 				<img src="https://avatars.githubusercontent.com/u/79594745?s=72&u=eeac71a100605627bd32a9ac553b2427795d655a&v=4" width="24" alt="Avatar of postolache-andreea-miruna"> postolache-andreea-miruna
@@ -10973,7 +10986,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>838</td>
 		<td>
 			<a href="https://github.com/Pepi100">
 				<img src="https://avatars.githubusercontent.com/u/51680722?s=72&u=041ed84e9333336de9dbc96a010bfe0a24ab359b&v=4" width="24" alt="Avatar of Pepi100"> Pepi100
@@ -10986,7 +10999,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>839</td>
 		<td>
 			<a href="https://github.com/andreiv03">
 				<img src="https://avatars.githubusercontent.com/u/72941614?s=72&v=4" width="24" alt="Avatar of andreiv03"> andreiv03
@@ -10999,7 +11012,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>839</td>
+		<td>840</td>
 		<td>
 			<a href="https://github.com/BFMC-Rares-Lemnariu">
 				<img src="https://avatars.githubusercontent.com/u/26706991?s=72&v=4" width="24" alt="Avatar of BFMC-Rares-Lemnariu"> BFMC-Rares-Lemnariu
@@ -11012,7 +11025,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>840</td>
+		<td>841</td>
 		<td>
 			<a href="https://github.com/v36u">
 				<img src="https://avatars.githubusercontent.com/u/61616221?s=72&u=45893e5515ffb608a47882b5a1c48075e51ae733&v=4" width="24" alt="Avatar of v36u"> v36u
@@ -11022,19 +11035,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>841</td>
-		<td>
-			<a href="https://github.com/xAlpharax">
-				<img src="https://avatars.githubusercontent.com/u/42233094?s=72&u=b05d5fe60079b1e4504a3060b6fb9a2df410580e&v=4" width="24" alt="Avatar of xAlpharax"> xAlpharax
-			</a><br/>
-			Alphara
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brasov, Romania</td>
 		<td>21</td>
 	</tr>
 	<tr>
@@ -11924,19 +11924,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>910</td>
 		<td>
-			<a href="https://github.com/bocse">
-				<img src="https://avatars.githubusercontent.com/u/4527035?s=72&u=155ffef14ea17586d8dd3a39068cc3ba147ec101&v=4" width="24" alt="Avatar of bocse"> bocse
-			</a><br/>
-			Bogdan Bocșe
-		</td>
-		<td>Knosis.ai And Deepviss.org </td>
-		<td><a href="https://twitter.com/bocse">bocse</a></td>
-		<td>Bucharest</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>911</td>
-		<td>
 			<a href="https://github.com/PopaGabriel">
 				<img src="https://avatars.githubusercontent.com/u/67683820?s=72&v=4" width="24" alt="Avatar of PopaGabriel"> PopaGabriel
 			</a><br/>
@@ -11948,7 +11935,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>912</td>
+		<td>911</td>
 		<td>
 			<a href="https://github.com/vodaion">
 				<img src="https://avatars.githubusercontent.com/u/154091?s=72&u=e4250b5b4eb59200599b5bc9fa4cca818bf423ac&v=4" width="24" alt="Avatar of vodaion"> vodaion
@@ -11958,6 +11945,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Romania, Bucuresti</td>
+		<td>20</td>
+	</tr>
+	<tr>
+		<td>912</td>
+		<td>
+			<a href="https://github.com/vladcalin">
+				<img src="https://avatars.githubusercontent.com/u/8172476?s=72&u=1824921a098588321c02fe8734a62f4240f90f66&v=4" width="24" alt="Avatar of vladcalin"> vladcalin
+			</a><br/>
+			Calin Vlad
+		</td>
+		<td>Cto @ Vuuh.com <br/></td>
+		<td><a href="https://twitter.com/stefanvladcalin">stefanvladcalin</a></td>
+		<td>Iasi, Romania</td>
 		<td>20</td>
 	</tr>
 	<tr>
@@ -11976,19 +11976,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>914</td>
 		<td>
-			<a href="https://github.com/vladcalin">
-				<img src="https://avatars.githubusercontent.com/u/8172476?s=72&u=1824921a098588321c02fe8734a62f4240f90f66&v=4" width="24" alt="Avatar of vladcalin"> vladcalin
-			</a><br/>
-			Calin Vlad
-		</td>
-		<td>Cto @ Vuuh.com <br/></td>
-		<td><a href="https://twitter.com/stefanvladcalin">stefanvladcalin</a></td>
-		<td>Iasi, Romania</td>
-		<td>20</td>
-	</tr>
-	<tr>
-		<td>915</td>
-		<td>
 			<a href="https://github.com/RaduMilici">
 				<img src="https://avatars.githubusercontent.com/u/4340153?s=72&u=4a74986dd59b4af579b3f9a451841aafeb0e75aa&v=4" width="24" alt="Avatar of RaduMilici"> RaduMilici
 			</a><br/>
@@ -12000,7 +11987,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>916</td>
+		<td>915</td>
 		<td>
 			<a href="https://github.com/lucaboieru">
 				<img src="https://avatars.githubusercontent.com/u/4629087?s=72&u=b19fd444cb3b969c87059fc462f51b86d5f762df&v=4" width="24" alt="Avatar of lucaboieru"> lucaboieru
@@ -12013,7 +12000,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>917</td>
+		<td>916</td>
 		<td>
 			<a href="https://github.com/silviabt">
 				<img src="https://avatars.githubusercontent.com/u/61543799?s=72&v=4" width="24" alt="Avatar of silviabt"> silviabt
@@ -12026,7 +12013,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>918</td>
+		<td>917</td>
 		<td>
 			<a href="https://github.com/cosmin-paunica">
 				<img src="https://avatars.githubusercontent.com/u/57110774?s=72&u=1452c3bc077c3cbbca42f5206870eba749d8ad36&v=4" width="24" alt="Avatar of cosmin-paunica"> cosmin-paunica
@@ -12039,7 +12026,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>919</td>
+		<td>918</td>
 		<td>
 			<a href="https://github.com/mihaiparvu">
 				<img src="https://avatars.githubusercontent.com/u/4466614?s=72&u=083ce5ce5d393f6fcb416f3b2ccfcf88ef304d3f&v=4" width="24" alt="Avatar of mihaiparvu"> mihaiparvu
@@ -12052,7 +12039,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>919</td>
 		<td>
 			<a href="https://github.com/alessandromuresan">
 				<img src="https://avatars.githubusercontent.com/u/5909586?s=72&u=8f4d5f5d5b18584f08302acb175438b3cd950e6f&v=4" width="24" alt="Avatar of alessandromuresan"> alessandromuresan
@@ -12065,7 +12052,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>920</td>
 		<td>
 			<a href="https://github.com/CyberXCodder">
 				<img src="https://avatars.githubusercontent.com/u/30607186?s=72&u=b97a02d4fdf20117ae369a11f93e4ea244b61c1d&v=4" width="24" alt="Avatar of CyberXCodder"> CyberXCodder
@@ -12078,7 +12065,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>921</td>
 		<td>
 			<a href="https://github.com/ctudorache87">
 				<img src="https://avatars.githubusercontent.com/u/26014470?s=72&u=d31bf9a9177e82b299777c0f494f9e3db24a976d&v=4" width="24" alt="Avatar of ctudorache87"> ctudorache87
@@ -12091,7 +12078,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>922</td>
 		<td>
 			<a href="https://github.com/monicadragan">
 				<img src="https://avatars.githubusercontent.com/u/4270488?s=72&v=4" width="24" alt="Avatar of monicadragan"> monicadragan
@@ -12104,7 +12091,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>923</td>
 		<td>
 			<a href="https://github.com/AlexMihai04">
 				<img src="https://avatars.githubusercontent.com/u/34480571?s=72&u=7b396b8b7ccf6e1991e83640859d3224b0abf692&v=4" width="24" alt="Avatar of AlexMihai04"> AlexMihai04
@@ -12117,7 +12104,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>924</td>
 		<td>
 			<a href="https://github.com/radustoenescu">
 				<img src="https://avatars.githubusercontent.com/u/1506044?s=72&u=7271fac7b67851ce35eda9224e8b1698c3ea496c&v=4" width="24" alt="Avatar of radustoenescu"> radustoenescu
@@ -12130,7 +12117,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>925</td>
 		<td>
 			<a href="https://github.com/pcnc">
 				<img src="https://avatars.githubusercontent.com/u/30039543?s=72&u=a38edb1fe2b48f5d426377061291c4e5cd3f0327&v=4" width="24" alt="Avatar of pcnc"> pcnc
@@ -12143,7 +12130,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>926</td>
 		<td>
 			<a href="https://github.com/g-stefan">
 				<img src="https://avatars.githubusercontent.com/u/5883720?s=72&u=cfa4b19075b37933746dff45de65174509eaf1a2&v=4" width="24" alt="Avatar of g-stefan"> g-stefan
@@ -12156,7 +12143,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>927</td>
 		<td>
 			<a href="https://github.com/terebentina">
 				<img src="https://avatars.githubusercontent.com/u/238611?s=72&u=9069f6ef0e3a5cbcfc8b81b9c9fe22c7f8082623&v=4" width="24" alt="Avatar of terebentina"> terebentina
@@ -12169,7 +12156,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>928</td>
 		<td>
 			<a href="https://github.com/raulgavris">
 				<img src="https://avatars.githubusercontent.com/u/17341548?s=72&u=1c8ab7147f9c960c695d8370ab6ad39d7ea6a1b6&v=4" width="24" alt="Avatar of raulgavris"> raulgavris
@@ -12182,7 +12169,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>929</td>
 		<td>
 			<a href="https://github.com/andreifilip123">
 				<img src="https://avatars.githubusercontent.com/u/8095119?s=72&u=e53dd9d67d296a4a610169ab801e0a194ed54c4e&v=4" width="24" alt="Avatar of andreifilip123"> andreifilip123
@@ -12195,7 +12182,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>930</td>
 		<td>
 			<a href="https://github.com/cristidrg">
 				<img src="https://avatars.githubusercontent.com/u/13036803?s=72&u=d3a0747a85ed50d3222dd9a42b3be3e576d53662&v=4" width="24" alt="Avatar of cristidrg"> cristidrg
@@ -12208,7 +12195,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>931</td>
 		<td>
 			<a href="https://github.com/adrianmteo">
 				<img src="https://avatars.githubusercontent.com/u/2344806?s=72&u=aab933b775b4f8cc6deabe3a8789e301cc73e6ad&v=4" width="24" alt="Avatar of adrianmteo"> adrianmteo
@@ -12221,7 +12208,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>932</td>
 		<td>
 			<a href="https://github.com/LaurentiuUngur">
 				<img src="https://avatars.githubusercontent.com/u/13499785?s=72&u=cf3cd822fd61b5e178cfd904643a4354faa19848&v=4" width="24" alt="Avatar of LaurentiuUngur"> LaurentiuUngur
@@ -12234,7 +12221,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>933</td>
 		<td>
 			<a href="https://github.com/lucamtudor">
 				<img src="https://avatars.githubusercontent.com/u/3036785?s=72&u=0564946f5f1483a15f357bfe1da8aaba413d7f84&v=4" width="24" alt="Avatar of lucamtudor"> lucamtudor
@@ -12247,7 +12234,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>934</td>
 		<td>
 			<a href="https://github.com/ArmynC">
 				<img src="https://avatars.githubusercontent.com/u/16375271?s=72&u=20c7ee78f63a7a24c11d5bc83c2d8c0f4508a702&v=4" width="24" alt="Avatar of ArmynC"> ArmynC
@@ -12260,7 +12247,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>935</td>
 		<td>
 			<a href="https://github.com/filipac">
 				<img src="https://avatars.githubusercontent.com/u/271155?s=72&u=f0d2e426fed95ae3f9b6bb675bec510f160d5453&v=4" width="24" alt="Avatar of filipac"> filipac
@@ -12270,6 +12257,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>Arnia </td>
 		<td><a href="https://twitter.com/filipacro">filipacro</a></td>
 		<td>Arad, Romania</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>936</td>
+		<td>
+			<a href="https://github.com/alexdragnea">
+				<img src="https://avatars.githubusercontent.com/u/58791006?s=72&u=d64942aee4bfee1a98e761587706adb9b1be9311&v=4" width="24" alt="Avatar of alexdragnea"> alexdragnea
+			</a><br/>
+			Dragnea Alexandru Marian
+		</td>
+		<td>Endava </td>
+		<td>No Twitter Username</td>
+		<td>Bucharest, Romania</td>
 		<td>19</td>
 	</tr>
 	<tr>
@@ -12288,19 +12288,6 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 	<tr>
 		<td>938</td>
 		<td>
-			<a href="https://github.com/alexdragnea">
-				<img src="https://avatars.githubusercontent.com/u/58791006?s=72&u=d64942aee4bfee1a98e761587706adb9b1be9311&v=4" width="24" alt="Avatar of alexdragnea"> alexdragnea
-			</a><br/>
-			Dragnea Alexandru Marian
-		</td>
-		<td>Endava </td>
-		<td>No Twitter Username</td>
-		<td>Brasov, Romania</td>
-		<td>19</td>
-	</tr>
-	<tr>
-		<td>939</td>
-		<td>
 			<a href="https://github.com/alecghica">
 				<img src="https://avatars.githubusercontent.com/u/1176874?s=72&u=07f7aaac7fc56b346a844a989e9689e695dee0de&v=4" width="24" alt="Avatar of alecghica"> alecghica
 			</a><br/>
@@ -12312,7 +12299,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>940</td>
+		<td>939</td>
 		<td>
 			<a href="https://github.com/tudorpavel">
 				<img src="https://avatars.githubusercontent.com/u/2506871?s=72&u=f86f9f0fcd72a42090c4cf34bb8464406cf98b5c&v=4" width="24" alt="Avatar of tudorpavel"> tudorpavel
@@ -12325,7 +12312,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>941</td>
+		<td>940</td>
 		<td>
 			<a href="https://github.com/AlexandraViorel">
 				<img src="https://avatars.githubusercontent.com/u/112551587?s=72&u=be963b798f7b3cfe52cdda805a58c57e54f994dc&v=4" width="24" alt="Avatar of AlexandraViorel"> AlexandraViorel
@@ -12338,7 +12325,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>942</td>
+		<td>941</td>
 		<td>
 			<a href="https://github.com/calex257">
 				<img src="https://avatars.githubusercontent.com/u/58564871?s=72&v=4" width="24" alt="Avatar of calex257"> calex257
@@ -12351,7 +12338,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>943</td>
+		<td>942</td>
 		<td>
 			<a href="https://github.com/tudorcoman">
 				<img src="https://avatars.githubusercontent.com/u/10133006?s=72&u=4263ddb41748db6f9ee829eb11d7374338215089&v=4" width="24" alt="Avatar of tudorcoman"> tudorcoman
@@ -12364,7 +12351,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>944</td>
+		<td>943</td>
 		<td>
 			<a href="https://github.com/bogdibota">
 				<img src="https://avatars.githubusercontent.com/u/7130019?s=72&u=dcd171033f695600911d7e0e73f02c3dc064d807&v=4" width="24" alt="Avatar of bogdibota"> bogdibota
@@ -12377,7 +12364,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>945</td>
+		<td>944</td>
 		<td>
 			<a href="https://github.com/speedwheel">
 				<img src="https://avatars.githubusercontent.com/u/5404341?s=72&u=d11967d547c7ba478b4c2640da102a3de9c1895d&v=4" width="24" alt="Avatar of speedwheel"> speedwheel
@@ -12390,7 +12377,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>946</td>
+		<td>945</td>
 		<td>
 			<a href="https://github.com/ionutmilica">
 				<img src="https://avatars.githubusercontent.com/u/627239?s=72&u=281809f3f2991eab11ad38eb0450432e590135e8&v=4" width="24" alt="Avatar of ionutmilica"> ionutmilica
@@ -12403,7 +12390,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>947</td>
+		<td>946</td>
 		<td>
 			<a href="https://github.com/Oreoezi">
 				<img src="https://avatars.githubusercontent.com/u/37777619?s=72&u=57009f9330b09ec4370cccef47071a440973675b&v=4" width="24" alt="Avatar of Oreoezi"> Oreoezi
@@ -12416,7 +12403,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>948</td>
+		<td>947</td>
 		<td>
 			<a href="https://github.com/StefanCsPurge">
 				<img src="https://avatars.githubusercontent.com/u/57230349?s=72&u=aef4c6e2ff292ae2cd2c85aef19ea8069ba2bbb5&v=4" width="24" alt="Avatar of StefanCsPurge"> StefanCsPurge
@@ -12429,7 +12416,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>949</td>
+		<td>948</td>
 		<td>
 			<a href="https://github.com/liviu-gheorghe">
 				<img src="https://avatars.githubusercontent.com/u/40499823?s=72&u=5ae42afc2c711dfb2fca7c6b0b453355d8181543&v=4" width="24" alt="Avatar of liviu-gheorghe"> liviu-gheorghe
@@ -12442,7 +12429,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>950</td>
+		<td>949</td>
 		<td>
 			<a href="https://github.com/gabrielconstantin02">
 				<img src="https://avatars.githubusercontent.com/u/39054700?s=72&u=07a6350280b3323f9762579df89e20ca46dbca1c&v=4" width="24" alt="Avatar of gabrielconstantin02"> gabrielconstantin02
@@ -12455,7 +12442,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>951</td>
+		<td>950</td>
 		<td>
 			<a href="https://github.com/iSLC">
 				<img src="https://avatars.githubusercontent.com/u/2294815?s=72&v=4" width="24" alt="Avatar of iSLC"> iSLC
@@ -12468,7 +12455,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>952</td>
+		<td>951</td>
 		<td>
 			<a href="https://github.com/stefanolaru">
 				<img src="https://avatars.githubusercontent.com/u/373213?s=72&u=cbf8bf1b83de1d1e72b378ed1ab5767cda925c58&v=4" width="24" alt="Avatar of stefanolaru"> stefanolaru
@@ -12481,7 +12468,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>953</td>
+		<td>952</td>
 		<td>
 			<a href="https://github.com/vladfxstoader">
 				<img src="https://avatars.githubusercontent.com/u/79061408?s=72&u=eaa0848f7351cc097511926e388f4baebdd888c6&v=4" width="24" alt="Avatar of vladfxstoader"> vladfxstoader
@@ -12494,7 +12481,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>954</td>
+		<td>953</td>
 		<td>
 			<a href="https://github.com/vasileHebristean1">
 				<img src="https://avatars.githubusercontent.com/u/79838394?s=72&u=0851b934b50d825a559a536560ac47d4868110be&v=4" width="24" alt="Avatar of vasileHebristean1"> vasileHebristean1
@@ -12507,7 +12494,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>955</td>
+		<td>954</td>
 		<td>
 			<a href="https://github.com/CMoH">
 				<img src="https://avatars.githubusercontent.com/u/663132?s=72&u=5d892c2fba833bb9d12e886e618524dd4edd23cd&v=4" width="24" alt="Avatar of CMoH"> CMoH
@@ -12520,7 +12507,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>956</td>
+		<td>955</td>
 		<td>
 			<a href="https://github.com/crazyquark">
 				<img src="https://avatars.githubusercontent.com/u/2444933?s=72&u=ec73706a23425fb1711c272ff8e20193a1668a32&v=4" width="24" alt="Avatar of crazyquark"> crazyquark
@@ -12533,7 +12520,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>957</td>
+		<td>956</td>
 		<td>
 			<a href="https://github.com/icostan">
 				<img src="https://avatars.githubusercontent.com/u/10635?s=72&v=4" width="24" alt="Avatar of icostan"> icostan
@@ -12546,7 +12533,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>958</td>
+		<td>957</td>
 		<td>
 			<a href="https://github.com/dchirila">
 				<img src="https://avatars.githubusercontent.com/u/1716675?s=72&u=efff0424526ec56768aec705390419ff8284ba4b&v=4" width="24" alt="Avatar of dchirila"> dchirila
@@ -12559,7 +12546,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>959</td>
+		<td>958</td>
 		<td>
 			<a href="https://github.com/andrab0">
 				<img src="https://avatars.githubusercontent.com/u/56958517?s=72&u=b9fb212f6f965cb8bfaf1f3a3798e426da350433&v=4" width="24" alt="Avatar of andrab0"> andrab0
@@ -12572,7 +12559,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>960</td>
+		<td>959</td>
 		<td>
 			<a href="https://github.com/Comi9">
 				<img src="https://avatars.githubusercontent.com/u/1078551?s=72&v=4" width="24" alt="Avatar of Comi9"> Comi9
@@ -12585,7 +12572,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>961</td>
+		<td>960</td>
 		<td>
 			<a href="https://github.com/vrosu">
 				<img src="https://avatars.githubusercontent.com/u/11868471?s=72&u=ccdb95a739431f2973a167690e429ea766773ca1&v=4" width="24" alt="Avatar of vrosu"> vrosu
@@ -12598,7 +12585,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>962</td>
+		<td>961</td>
 		<td>
 			<a href="https://github.com/acip">
 				<img src="https://avatars.githubusercontent.com/u/1649442?s=72&u=1102e5bac557c4a4c9169e69684c1b13d4491c68&v=4" width="24" alt="Avatar of acip"> acip
@@ -12611,7 +12598,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>963</td>
+		<td>962</td>
 		<td>
 			<a href="https://github.com/ovidiugiorgi">
 				<img src="https://avatars.githubusercontent.com/u/16405210?s=72&v=4" width="24" alt="Avatar of ovidiugiorgi"> ovidiugiorgi
@@ -12624,7 +12611,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>964</td>
+		<td>963</td>
 		<td>
 			<a href="https://github.com/CristiHabliuc">
 				<img src="https://avatars.githubusercontent.com/u/1491833?s=72&u=6f0ae22df3a11fd73b92f7d1b05b9d4cd5312830&v=4" width="24" alt="Avatar of CristiHabliuc"> CristiHabliuc
@@ -12637,7 +12624,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>965</td>
+		<td>964</td>
 		<td>
 			<a href="https://github.com/andreigrigorean">
 				<img src="https://avatars.githubusercontent.com/u/678675?s=72&u=992dd64ee3a1e165f7bdbf34eeb7a6141ab06a42&v=4" width="24" alt="Avatar of andreigrigorean"> andreigrigorean
@@ -12650,7 +12637,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>966</td>
+		<td>965</td>
 		<td>
 			<a href="https://github.com/mihaisavezi">
 				<img src="https://avatars.githubusercontent.com/u/6965490?s=72&u=6fe20c88792fb7e59b4369f34d1ff9da5473fde0&v=4" width="24" alt="Avatar of mihaisavezi"> mihaisavezi
@@ -12663,7 +12650,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>967</td>
+		<td>966</td>
 		<td>
 			<a href="https://github.com/caciobanu">
 				<img src="https://avatars.githubusercontent.com/u/3765656?s=72&u=0a44f71bd7f652175c149526d0ba55db07f1ffcd&v=4" width="24" alt="Avatar of caciobanu"> caciobanu
@@ -12676,7 +12663,7 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>968</td>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/atoader">
 				<img src="https://avatars.githubusercontent.com/u/3097909?s=72&v=4" width="24" alt="Avatar of atoader"> atoader
@@ -12686,6 +12673,19 @@ There are `978 users`  in Romania. You need at least `19 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bucharest, Romania</td>
+		<td>19</td>
+	</tr>
+	<tr>
+		<td>968</td>
+		<td>
+			<a href="https://github.com/bocse">
+				<img src="https://avatars.githubusercontent.com/u/4527035?s=72&u=155ffef14ea17586d8dd3a39068cc3ba147ec101&v=4" width="24" alt="Avatar of bocse"> bocse
+			</a><br/>
+			Bogdan Bocșe
+		</td>
+		<td>Knosis.ai And Deepviss.org </td>
+		<td><a href="https://twitter.com/bocse">bocse</a></td>
+		<td>Bucharest</td>
 		<td>19</td>
 	</tr>
 	<tr>
