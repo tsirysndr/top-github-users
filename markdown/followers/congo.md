@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg" alt="Congo">
 </a>
 
-The `number of followers` of users in Congo on `2023/11/18 10:44 AM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
+The `number of followers` of users in Congo on `2023/11/19 4:06 AM UTC`. This list contains users from `Congo` and cities `Brazzaville` `Pointe-noire`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1005,11 +1005,11 @@ There are `634 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>70</td>
 		<td>
 			<a href="https://github.com/Fantasy-programming">
-				<img src="https://avatars.githubusercontent.com/u/37631123?s=72&u=3f2947fe07ea5d324503c95685d9f9de09fcbd3f&v=4" width="24" alt="Avatar of Fantasy-programming"> Fantasy-programming
+				<img src="https://avatars.githubusercontent.com/u/37631123?s=72&u=bda614507bfe00a51cfcd5c928167e5cfe82b5ea&v=4" width="24" alt="Avatar of Fantasy-programming"> Fantasy-programming
 			</a><br/>
 			Ridy Franck Rich
 		</td>
-		<td>Fantasy Corp (in The<br/>Future)<br/></td>
+		<td>Fantasy </td>
 		<td><a href="https://twitter.com/Richnewone1">Richnewone1</a></td>
 		<td>Congo, Ghana</td>
 		<td>12</td>
@@ -2915,6 +2915,19 @@ There are `634 users`  in Congo. You need at least `0 followers` to be on this l
 	<tr>
 		<td>217</td>
 		<td>
+			<a href="https://github.com/GomaDevs">
+				<img src="https://avatars.githubusercontent.com/u/16046943?s=72&v=4" width="24" alt="Avatar of GomaDevs"> GomaDevs
+			</a><br/>
+			Team243
+		</td>
+		<td>Gdg Goma </td>
+		<td>No Twitter Username</td>
+		<td>Goma/Nord-Kivu/ Democratic Republic of Congo</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>218</td>
+		<td>
 			<a href="https://github.com/MakroLabProject">
 				<img src="https://avatars.githubusercontent.com/u/31632967?s=72&u=52c8ed1ba5fa5a90f949e7efc05cefce1d6b6859&v=4" width="24" alt="Avatar of MakroLabProject"> MakroLabProject
 			</a><br/>
@@ -2926,7 +2939,7 @@ There are `634 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/Joliette">
 				<img src="https://avatars.githubusercontent.com/u/62248519?s=72&u=304abb0e8dc2ea90b1a4276d47db33e549fd8cfc&v=4" width="24" alt="Avatar of Joliette"> Joliette
@@ -2936,19 +2949,6 @@ There are `634 users`  in Congo. You need at least `0 followers` to be on this l
 		<td>No Company</td>
 		<td><a href="https://twitter.com/j_joliette">j_joliette</a></td>
 		<td>Pointe-Noire, Congo</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/GomaDevs">
-				<img src="https://avatars.githubusercontent.com/u/16046943?s=72&v=4" width="24" alt="Avatar of GomaDevs"> GomaDevs
-			</a><br/>
-			Team243
-		</td>
-		<td>Gdg Goma </td>
-		<td>No Twitter Username</td>
-		<td>Goma/Nord-Kivu/ Democratic Republic of Congo</td>
 		<td>2</td>
 	</tr>
 	<tr>
