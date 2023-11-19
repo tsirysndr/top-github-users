@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil">
 </a>
 
-The `public contributions` by users in Brazil on `2023/11/19 2:38 AM UTC`. This list contains users from `Brazil` and cities `Rio-de-janeiro` `São-paulo` `Manaus` `Brasilia` `Fortaleza` `Belém` `Goiânia` `Belo-horizonte` `Curitiba`.
+The `public contributions` by users in Brazil on `2023/11/19 8:14 PM UTC`. This list contains users from `Brazil` and cities `Rio-de-janeiro` `São-paulo` `Manaus` `Brasilia` `Fortaleza` `Belém` `Goiânia` `Belo-horizonte` `Curitiba`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -115,7 +115,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/isyuricunha">isyuricunha</a></td>
 		<td>Brazil</td>
-		<td>32598</td>
+		<td>32682</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -128,7 +128,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Quantum Software Develpment </td>
 		<td><a href="https://twitter.com/CampanariFabi">CampanariFabi</a></td>
 		<td>Brazil</td>
-		<td>17713</td>
+		<td>17853</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -141,7 +141,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@charmbracelet @goreleaser </td>
 		<td><a href="https://twitter.com/caarlos0">caarlos0</a></td>
 		<td>Brazil</td>
-		<td>3671</td>
+		<td>3678</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -180,7 +180,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@bluerobotics @kde @robotadasufsc @ibexcps<br/></td>
 		<td>No Twitter Username</td>
 		<td>Brazil, florianópolis</td>
-		<td>3003</td>
+		<td>3004</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -245,7 +245,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Brazil</td>
-		<td>2201</td>
+		<td>2202</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -271,7 +271,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@tauri-apps </td>
 		<td>No Twitter Username</td>
 		<td>Brazil</td>
-		<td>2115</td>
+		<td>2124</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -284,7 +284,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@lugaralgum </td>
 		<td>No Twitter Username</td>
 		<td>São Paulo</td>
-		<td>2056</td>
+		<td>2058</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -297,7 +297,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@gramado </td>
 		<td><a href="https://twitter.com/frednora">frednora</a></td>
 		<td>Londrina, Parana - Brazil</td>
-		<td>1989</td>
+		<td>1991</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -310,7 +310,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@curso-r E Universidade De<br/>São<br/>Paulo<br/></td>
 		<td>No Twitter Username</td>
 		<td>São Paulo, Brasil</td>
-		<td>1764</td>
+		<td>1781</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -427,7 +427,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/bdlukaadev">bdlukaadev</a></td>
 		<td>Brazil</td>
-		<td>1497</td>
+		<td>1498</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -445,19 +445,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>27</td>
 		<td>
-			<a href="https://github.com/JuanBindez">
-				<img src="https://avatars.githubusercontent.com/u/79322362?s=72&u=d8e41f91289bec860165171e0a71c445ff393125&v=4" width="24" alt="Avatar of JuanBindez"> JuanBindez
-			</a><br/>
-			Juan Bindez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brazil</td>
-		<td>1447</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
 			<a href="https://github.com/otavio">
 				<img src="https://avatars.githubusercontent.com/u/25278?s=72&u=96e8411a1097219c5817b3c74f5d69a6d0897dea&v=4" width="24" alt="Avatar of otavio"> otavio
 			</a><br/>
@@ -466,7 +453,20 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>O.s. Systems </td>
 		<td><a href="https://twitter.com/otaviosalvador">otaviosalvador</a></td>
 		<td>Brazil</td>
-		<td>1447</td>
+		<td>1452</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
+			<a href="https://github.com/JuanBindez">
+				<img src="https://avatars.githubusercontent.com/u/79322362?s=72&u=d8e41f91289bec860165171e0a71c445ff393125&v=4" width="24" alt="Avatar of JuanBindez"> JuanBindez
+			</a><br/>
+			Juan Bindez
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brazil</td>
+		<td>1450</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -518,7 +518,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Ilegra.com </td>
 		<td>No Twitter Username</td>
 		<td>Brazil</td>
-		<td>1372</td>
+		<td>1375</td>
 	</tr>
 	<tr>
 		<td>33</td>
@@ -531,7 +531,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Esss </td>
 		<td><a href="https://twitter.com/nicoddemus">nicoddemus</a></td>
 		<td>Florianopolis, Brazil</td>
-		<td>1363</td>
+		<td>1364</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -557,7 +557,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Raizacirne@gmail.com </td>
 		<td>No Twitter Username</td>
 		<td>São Pedro da Aldeia, Rio de Janeiro</td>
-		<td>1343</td>
+		<td>1344</td>
 	</tr>
 	<tr>
 		<td>36</td>
@@ -596,7 +596,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Kasco R&d </td>
 		<td><a href="https://twitter.com/arthurfiorette">arthurfiorette</a></td>
 		<td>Santa Catarina, Brazil ✈️</td>
-		<td>1223</td>
+		<td>1232</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -609,7 +609,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@perfectdreams </td>
 		<td><a href="https://twitter.com/MrPowerGamerBR">MrPowerGamerBR</a></td>
 		<td>Brazil</td>
-		<td>1182</td>
+		<td>1187</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -622,7 +622,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Dainf - Utfpr <br/></td>
 		<td><a href="https://twitter.com/adolfont">adolfont</a></td>
 		<td>Curitiba, PR, Brazil</td>
-		<td>1141</td>
+		<td>1143</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -635,10 +635,23 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Nox Bitcoin </td>
 		<td><a href="https://twitter.com/crgimenes">crgimenes</a></td>
 		<td>São Paulo, SP, Brasil</td>
-		<td>1133</td>
+		<td>1131</td>
 	</tr>
 	<tr>
 		<td>42</td>
+		<td>
+			<a href="https://github.com/isaac545454">
+				<img src="https://avatars.githubusercontent.com/u/93602614?s=72&u=fbab43f879f863a1f43d0b0cf1ecce30d044feea&v=4" width="24" alt="Avatar of isaac545454"> isaac545454
+			</a><br/>
+			isaac gomes
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>são Paulo </td>
+		<td>1130</td>
+	</tr>
+	<tr>
+		<td>43</td>
 		<td>
 			<a href="https://github.com/glaucia86">
 				<img src="https://avatars.githubusercontent.com/u/1631477?s=72&u=d1e8f57cc23c3b13a8a7e35b099027c7ac9f059b&v=4" width="24" alt="Avatar of glaucia86"> glaucia86
@@ -651,20 +664,20 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>1125</td>
 	</tr>
 	<tr>
-		<td>43</td>
+		<td>44</td>
 		<td>
-			<a href="https://github.com/isaac545454">
-				<img src="https://avatars.githubusercontent.com/u/93602614?s=72&u=fbab43f879f863a1f43d0b0cf1ecce30d044feea&v=4" width="24" alt="Avatar of isaac545454"> isaac545454
+			<a href="https://github.com/avelino">
+				<img src="https://avatars.githubusercontent.com/u/31996?s=72&u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4" width="24" alt="Avatar of avelino"> avelino
 			</a><br/>
-			isaac gomes
+			Avelino
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>são Paulo </td>
-		<td>1122</td>
+		<td>@buserbrasil </td>
+		<td><a href="https://twitter.com/avelinorun">avelinorun</a></td>
+		<td>Brazil</td>
+		<td>1109</td>
 	</tr>
 	<tr>
-		<td>44</td>
+		<td>45</td>
 		<td>
 			<a href="https://github.com/joaopauloaramuni">
 				<img src="https://avatars.githubusercontent.com/u/58268075?s=72&u=c0a5bb5b8ee399bb1b6e6445380f87bc53fe4fa1&v=4" width="24" alt="Avatar of joaopauloaramuni"> joaopauloaramuni
@@ -677,7 +690,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>1100</td>
 	</tr>
 	<tr>
-		<td>45</td>
+		<td>46</td>
 		<td>
 			<a href="https://github.com/rafapereirabr">
 				<img src="https://avatars.githubusercontent.com/u/7448421?s=72&u=01aed495e612154e54be4c51221e706cdff7779d&v=4" width="24" alt="Avatar of rafapereirabr"> rafapereirabr
@@ -688,19 +701,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td><a href="https://twitter.com/UrbanDemog">UrbanDemog</a></td>
 		<td>Brasilia, Brazil</td>
 		<td>1093</td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>
-			<a href="https://github.com/avelino">
-				<img src="https://avatars.githubusercontent.com/u/31996?s=72&u=7cf01e307d8cb792e10be3cc1af1a0754e941017&v=4" width="24" alt="Avatar of avelino"> avelino
-			</a><br/>
-			Avelino
-		</td>
-		<td>@buserbrasil </td>
-		<td><a href="https://twitter.com/avelinorun">avelinorun</a></td>
-		<td>Brazil</td>
-		<td>1065</td>
 	</tr>
 	<tr>
 		<td>47</td>
@@ -752,7 +752,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@kyndryl </td>
 		<td><a href="https://twitter.com/amaurybsouza_">amaurybsouza_</a></td>
 		<td>Monte Mor, São Paulo, Brasil</td>
-		<td>955</td>
+		<td>957</td>
 	</tr>
 	<tr>
 		<td>51</td>
@@ -1043,6 +1043,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>73</td>
 		<td>
+			<a href="https://github.com/canesche">
+				<img src="https://avatars.githubusercontent.com/u/11246081?s=72&u=b46206d9ff25b3d81bdb1a848a63fce1263561d6&v=4" width="24" alt="Avatar of canesche"> canesche
+			</a><br/>
+			Michael Canesche
+		</td>
+		<td>Ufmg </td>
+		<td>No Twitter Username</td>
+		<td>Belo Horizonte, Brazil</td>
+		<td>759</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td>
 			<a href="https://github.com/lucis">
 				<img src="https://avatars.githubusercontent.com/u/18706156?s=72&u=b44a9d6bb0bbc41691c8c7746678be2d37d2138b&v=4" width="24" alt="Avatar of lucis"> lucis
 			</a><br/>
@@ -1052,19 +1065,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Rio de Janeiro, Brazil</td>
 		<td>758</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
-			<a href="https://github.com/canesche">
-				<img src="https://avatars.githubusercontent.com/u/11246081?s=72&u=b46206d9ff25b3d81bdb1a848a63fce1263561d6&v=4" width="24" alt="Avatar of canesche"> canesche
-			</a><br/>
-			Michael Canesche
-		</td>
-		<td>Ufmg </td>
-		<td>No Twitter Username</td>
-		<td>Belo Horizonte, Brazil</td>
-		<td>751</td>
 	</tr>
 	<tr>
 		<td>75</td>
@@ -1168,7 +1168,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/KennedyTedesco">KennedyTedesco</a></td>
 		<td>Betim, Brazil</td>
-		<td>719</td>
+		<td>720</td>
 	</tr>
 	<tr>
 		<td>83</td>
@@ -1337,7 +1337,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Software Developer @tarkenag </td>
 		<td>No Twitter Username</td>
 		<td>Manaus, Amazonas (Brazil)</td>
-		<td>631</td>
+		<td>634</td>
 	</tr>
 	<tr>
 		<td>96</td>
@@ -1641,6 +1641,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>119</td>
 		<td>
+			<a href="https://github.com/RafaelGallo">
+				<img src="https://avatars.githubusercontent.com/u/44452165?s=72&u=0f7933de885c587d341e6a78ed9ca3d51e99ad9c&v=4" width="24" alt="Avatar of RafaelGallo"> RafaelGallo
+			</a><br/>
+			Rafael Gallo
+		</td>
+		<td>Data Scientist - Usebens-seguradora<br/></td>
+		<td>No Twitter Username</td>
+		<td>Brazil - São Paulo</td>
+		<td>544</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
 			<a href="https://github.com/josemalcher">
 				<img src="https://avatars.githubusercontent.com/u/914913?s=72&u=536a37eab7177c75a5778769716ce8fa7a934a3b&v=4" width="24" alt="Avatar of josemalcher"> josemalcher
 			</a><br/>
@@ -1652,7 +1665,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>540</td>
 	</tr>
 	<tr>
-		<td>120</td>
+		<td>121</td>
 		<td>
 			<a href="https://github.com/rodrigobranas">
 				<img src="https://avatars.githubusercontent.com/u/7491283?s=72&u=af373a343dd451402953c7f2e82fc92c78550652&v=4" width="24" alt="Avatar of rodrigobranas"> rodrigobranas
@@ -1665,7 +1678,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>539</td>
 	</tr>
 	<tr>
-		<td>121</td>
+		<td>122</td>
 		<td>
 			<a href="https://github.com/codingscode">
 				<img src="https://avatars.githubusercontent.com/u/50297646?s=72&u=3e5244526e96e70c36f7bb95bdfe1602f3a918bc&v=4" width="24" alt="Avatar of codingscode"> codingscode
@@ -1676,19 +1689,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Brazil</td>
 		<td>538</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
-			<a href="https://github.com/RafaelGallo">
-				<img src="https://avatars.githubusercontent.com/u/44452165?s=72&u=0f7933de885c587d341e6a78ed9ca3d51e99ad9c&v=4" width="24" alt="Avatar of RafaelGallo"> RafaelGallo
-			</a><br/>
-			Rafael Gallo
-		</td>
-		<td>Data Scientist - Usebens-seguradora<br/></td>
-		<td>No Twitter Username</td>
-		<td>Brazil - São Paulo</td>
-		<td>534</td>
 	</tr>
 	<tr>
 		<td>123</td>
@@ -1771,6 +1771,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>129</td>
 		<td>
+			<a href="https://github.com/anajuliabit">
+				<img src="https://avatars.githubusercontent.com/u/50335980?s=72&u=b331ab4d4027b6f7adfcf5c17aae51a223b98647&v=4" width="24" alt="Avatar of anajuliabit"> anajuliabit
+			</a><br/>
+			Ana Julia Bittencourt 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brazil</td>
+		<td>496</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
 			<a href="https://github.com/hacktoon">
 				<img src="https://avatars.githubusercontent.com/u/434841?s=72&v=4" width="24" alt="Avatar of hacktoon"> hacktoon
 			</a><br/>
@@ -1780,19 +1793,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td><a href="https://twitter.com/hacktoon">hacktoon</a></td>
 		<td>São Paulo/SP - Brazil</td>
 		<td>496</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/anajuliabit">
-				<img src="https://avatars.githubusercontent.com/u/50335980?s=72&u=b331ab4d4027b6f7adfcf5c17aae51a223b98647&v=4" width="24" alt="Avatar of anajuliabit"> anajuliabit
-			</a><br/>
-			Ana Julia Bittencourt 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brazil</td>
-		<td>494</td>
 	</tr>
 	<tr>
 		<td>131</td>
@@ -1831,7 +1831,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Nfephp </td>
 		<td>No Twitter Username</td>
 		<td>SP Brazil </td>
-		<td>483</td>
+		<td>486</td>
 	</tr>
 	<tr>
 		<td>134</td>
@@ -2013,7 +2013,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Itaú  </td>
 		<td>No Twitter Username</td>
 		<td>São Paulo - BR</td>
-		<td>439</td>
+		<td>440</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -2161,15 +2161,15 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>159</td>
 		<td>
-			<a href="https://github.com/AnaProgramando">
-				<img src="https://avatars.githubusercontent.com/u/31097110?s=72&u=c6f88bcbbcc1f9a8bb7a207f67224066d7c74779&v=4" width="24" alt="Avatar of AnaProgramando"> AnaProgramando
+			<a href="https://github.com/plt-amy">
+				<img src="https://avatars.githubusercontent.com/u/29957583?s=72&u=a714b3e9751c0ee030bafe434a9063196500b291&v=4" width="24" alt="Avatar of plt-amy"> plt-amy
 			</a><br/>
-			Ana Valentim
+			Amélia
 		</td>
-		<td>@itau </td>
-		<td>No Twitter Username</td>
-		<td>São Paulo, SP - Brasil</td>
-		<td>420</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/plt_amy">plt_amy</a></td>
+		<td>Brazil</td>
+		<td>421</td>
 	</tr>
 	<tr>
 		<td>160</td>
@@ -2182,10 +2182,23 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Porto Alegre, Brazil</td>
-		<td>418</td>
+		<td>420</td>
 	</tr>
 	<tr>
 		<td>161</td>
+		<td>
+			<a href="https://github.com/AnaProgramando">
+				<img src="https://avatars.githubusercontent.com/u/31097110?s=72&u=c6f88bcbbcc1f9a8bb7a207f67224066d7c74779&v=4" width="24" alt="Avatar of AnaProgramando"> AnaProgramando
+			</a><br/>
+			Ana Valentim
+		</td>
+		<td>@itau </td>
+		<td>No Twitter Username</td>
+		<td>São Paulo, SP - Brasil</td>
+		<td>420</td>
+	</tr>
+	<tr>
+		<td>162</td>
 		<td>
 			<a href="https://github.com/aridsm">
 				<img src="https://avatars.githubusercontent.com/u/82792918?s=72&u=99c0cd25312bb2140cd8c99df9449b830ab6d94d&v=4" width="24" alt="Avatar of aridsm"> aridsm
@@ -2196,19 +2209,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Fortaleza</td>
 		<td>416</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
-			<a href="https://github.com/plt-amy">
-				<img src="https://avatars.githubusercontent.com/u/29957583?s=72&u=a714b3e9751c0ee030bafe434a9063196500b291&v=4" width="24" alt="Avatar of plt-amy"> plt-amy
-			</a><br/>
-			Amélia
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/plt_amy">plt_amy</a></td>
-		<td>Brazil</td>
-		<td>414</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -2260,7 +2260,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@coinbase </td>
 		<td><a href="https://twitter.com/heynemann">heynemann</a></td>
 		<td>Rio de Janeiro, Brazil</td>
-		<td>406</td>
+		<td>407</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -2785,6 +2785,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>207</td>
 		<td>
+			<a href="https://github.com/andrebaltieri">
+				<img src="https://avatars.githubusercontent.com/u/965305?s=72&u=550eb5c33a47aae15a176ed834bff62e8b0049fe&v=4" width="24" alt="Avatar of andrebaltieri"> andrebaltieri
+			</a><br/>
+			Andre Baltieri
+		</td>
+		<td>@balta-io </td>
+		<td><a href="https://twitter.com/andrebaltieri">andrebaltieri</a></td>
+		<td>São Paulo, SP - Brazil</td>
+		<td>324</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
 			<a href="https://github.com/the-akira">
 				<img src="https://avatars.githubusercontent.com/u/31507194?s=72&u=37a3fd5ca050e9761a2c05f601fae6b3f6a5a301&v=4" width="24" alt="Avatar of the-akira"> the-akira
 			</a><br/>
@@ -2794,19 +2807,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td><a href="https://twitter.com/akirascientist">akirascientist</a></td>
 		<td>Santa Catarina, Brazil</td>
 		<td>324</td>
-	</tr>
-	<tr>
-		<td>208</td>
-		<td>
-			<a href="https://github.com/andrebaltieri">
-				<img src="https://avatars.githubusercontent.com/u/965305?s=72&u=550eb5c33a47aae15a176ed834bff62e8b0049fe&v=4" width="24" alt="Avatar of andrebaltieri"> andrebaltieri
-			</a><br/>
-			Andre Baltieri
-		</td>
-		<td>@balta-io </td>
-		<td><a href="https://twitter.com/andrebaltieri">andrebaltieri</a></td>
-		<td>São Paulo, SP - Brazil</td>
-		<td>323</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -2902,6 +2902,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>216</td>
 		<td>
+			<a href="https://github.com/FBSeletronica">
+				<img src="https://avatars.githubusercontent.com/u/4184762?s=72&u=7dab7fbb867cc609bfe4620389a6c1ba0ab4d41d&v=4" width="24" alt="Avatar of FBSeletronica"> FBSeletronica
+			</a><br/>
+			Fábio Souza
+		</td>
+		<td>@franzininho  </td>
+		<td><a href="https://twitter.com/Fabiosouza_io">Fabiosouza_io</a></td>
+		<td>Brazil</td>
+		<td>314</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
 			<a href="https://github.com/douglasjunior">
 				<img src="https://avatars.githubusercontent.com/u/1512341?s=72&u=b5b5605f50f4ec192c7dd7d3018833f68a743bfd&v=4" width="24" alt="Avatar of douglasjunior"> douglasjunior
 			</a><br/>
@@ -2913,20 +2926,20 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>313</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
-			<a href="https://github.com/FBSeletronica">
-				<img src="https://avatars.githubusercontent.com/u/4184762?s=72&u=7dab7fbb867cc609bfe4620389a6c1ba0ab4d41d&v=4" width="24" alt="Avatar of FBSeletronica"> FBSeletronica
+			<a href="https://github.com/vaamonde">
+				<img src="https://avatars.githubusercontent.com/u/21218780?s=72&u=5ebd184cea45eac6e4011e7c8ba5020fbe32ddb3&v=4" width="24" alt="Avatar of vaamonde"> vaamonde
 			</a><br/>
-			Fábio Souza
+			Robson Vaamonde
 		</td>
-		<td>@franzininho  </td>
-		<td><a href="https://twitter.com/Fabiosouza_io">Fabiosouza_io</a></td>
-		<td>Brazil</td>
-		<td>313</td>
+		<td>Procedimentos Em Ti </td>
+		<td>No Twitter Username</td>
+		<td>São Paulo/SP</td>
+		<td>309</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/caroldaniel">
 				<img src="https://avatars.githubusercontent.com/u/80178342?s=72&u=dcf34ed2853a5f8c641e023bbe5abee4c93ab40e&v=4" width="24" alt="Avatar of caroldaniel"> caroldaniel
@@ -2937,19 +2950,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>São Paulo</td>
 		<td>309</td>
-	</tr>
-	<tr>
-		<td>219</td>
-		<td>
-			<a href="https://github.com/vaamonde">
-				<img src="https://avatars.githubusercontent.com/u/21218780?s=72&u=5ebd184cea45eac6e4011e7c8ba5020fbe32ddb3&v=4" width="24" alt="Avatar of vaamonde"> vaamonde
-			</a><br/>
-			Robson Vaamonde
-		</td>
-		<td>Procedimentos Em Ti </td>
-		<td>No Twitter Username</td>
-		<td>São Paulo/SP</td>
-		<td>307</td>
 	</tr>
 	<tr>
 		<td>220</td>
@@ -2993,6 +2993,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>223</td>
 		<td>
+			<a href="https://github.com/vmesel">
+				<img src="https://avatars.githubusercontent.com/u/4984147?s=72&u=f470d6fa49b5202440cb46609fe6f658406c7bbe&v=4" width="24" alt="Avatar of vmesel"> vmesel
+			</a><br/>
+			Vinicius Mesel
+		</td>
+		<td>@hotgluexyz </td>
+		<td><a href="https://twitter.com/vmesel">vmesel</a></td>
+		<td>São Paulo</td>
+		<td>303</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
 			<a href="https://github.com/Yuri-stack">
 				<img src="https://avatars.githubusercontent.com/u/62682253?s=72&u=15c274f7df526a402bbfc9d4103a753fb66d2781&v=4" width="24" alt="Avatar of Yuri-stack"> Yuri-stack
 			</a><br/>
@@ -3004,7 +3017,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>299</td>
 	</tr>
 	<tr>
-		<td>224</td>
+		<td>225</td>
 		<td>
 			<a href="https://github.com/lubien">
 				<img src="https://avatars.githubusercontent.com/u/9121359?s=72&u=526383fabd6956861e5b43d4ead322ae4e88753b&v=4" width="24" alt="Avatar of lubien"> lubien
@@ -3017,7 +3030,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>299</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>226</td>
 		<td>
 			<a href="https://github.com/ramalho">
 				<img src="https://avatars.githubusercontent.com/u/29944?s=72&v=4" width="24" alt="Avatar of ramalho"> ramalho
@@ -3030,7 +3043,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>297</td>
 	</tr>
 	<tr>
-		<td>226</td>
+		<td>227</td>
 		<td>
 			<a href="https://github.com/luc0liv">
 				<img src="https://avatars.githubusercontent.com/u/71158905?s=72&u=6b001d6761f79cfb5df52afa832ba6844089ad4b&v=4" width="24" alt="Avatar of luc0liv"> luc0liv
@@ -3043,7 +3056,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>295</td>
 	</tr>
 	<tr>
-		<td>227</td>
+		<td>228</td>
 		<td>
 			<a href="https://github.com/gilsondev">
 				<img src="https://avatars.githubusercontent.com/u/265653?s=72&u=6825c94587a74ec24ff6ea822f0cc468e2b07d5b&v=4" width="24" alt="Avatar of gilsondev"> gilsondev
@@ -3056,7 +3069,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>287</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/leonardomso">
 				<img src="https://avatars.githubusercontent.com/u/8030067?s=72&u=16612509cc5933a8c6be9c80d2563e0a85c090cd&v=4" width="24" alt="Avatar of leonardomso"> leonardomso
@@ -3066,10 +3079,10 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/leonardomso">leonardomso</a></td>
 		<td>Franca, São Paulo, Brazil</td>
-		<td>285</td>
+		<td>286</td>
 	</tr>
 	<tr>
-		<td>229</td>
+		<td>230</td>
 		<td>
 			<a href="https://github.com/tabarra">
 				<img src="https://avatars.githubusercontent.com/u/1808295?s=72&u=0c3e0683fa6a3269da7899299682a23ff5403a7b&v=4" width="24" alt="Avatar of tabarra"> tabarra
@@ -3082,7 +3095,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>230</td>
+		<td>231</td>
 		<td>
 			<a href="https://github.com/lucasfcosta">
 				<img src="https://avatars.githubusercontent.com/u/6868147?s=72&u=f5b1b127ce8647f6bd35b8a70c8d3ea3860b0d7b&v=4" width="24" alt="Avatar of lucasfcosta"> lucasfcosta
@@ -3095,7 +3108,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a href="https://github.com/vnen">
 				<img src="https://avatars.githubusercontent.com/u/5599796?s=72&u=4609ceaeea06ef2484368f7ecdf0c9262a8dd825&v=4" width="24" alt="Avatar of vnen"> vnen
@@ -3108,7 +3121,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>279</td>
 	</tr>
 	<tr>
-		<td>232</td>
+		<td>233</td>
 		<td>
 			<a href="https://github.com/lucasrmagalhaes">
 				<img src="https://avatars.githubusercontent.com/u/43296467?s=72&u=2a2c0852355a08b320508f12a61c5c38cec82b8b&v=4" width="24" alt="Avatar of lucasrmagalhaes"> lucasrmagalhaes
@@ -3121,7 +3134,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a href="https://github.com/Luciana-Santos">
 				<img src="https://avatars.githubusercontent.com/u/95719499?s=72&u=d94b0c0180dee40e6d2577e8c352678e80394938&v=4" width="24" alt="Avatar of Luciana-Santos"> Luciana-Santos
@@ -3134,7 +3147,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>278</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/obetomuniz">
 				<img src="https://avatars.githubusercontent.com/u/1680157?s=72&u=c31d04ed4fcdeeee335bcffe5bf56ec5f543b128&v=4" width="24" alt="Avatar of obetomuniz"> obetomuniz
@@ -3145,19 +3158,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Belo Horizonte, Brazil</td>
 		<td>276</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a href="https://github.com/vmesel">
-				<img src="https://avatars.githubusercontent.com/u/4984147?s=72&u=f470d6fa49b5202440cb46609fe6f658406c7bbe&v=4" width="24" alt="Avatar of vmesel"> vmesel
-			</a><br/>
-			Vinicius Mesel
-		</td>
-		<td>@hotgluexyz </td>
-		<td><a href="https://twitter.com/vmesel">vmesel</a></td>
-		<td>São Paulo</td>
-		<td>275</td>
 	</tr>
 	<tr>
 		<td>236</td>
@@ -3396,6 +3396,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>254</td>
 		<td>
+			<a href="https://github.com/LauraBeatris">
+				<img src="https://avatars.githubusercontent.com/u/48022589?s=72&u=0116c4f70e0fcfe42f779a7d7e1ab5020e33c03d&v=4" width="24" alt="Avatar of LauraBeatris"> LauraBeatris
+			</a><br/>
+			Laura Beatris
+		</td>
+		<td>@workos </td>
+		<td><a href="https://twitter.com/lauradotjs">lauradotjs</a></td>
+		<td>Florianópolis, Brazil</td>
+		<td>249</td>
+	</tr>
+	<tr>
+		<td>255</td>
+		<td>
 			<a href="https://github.com/fbamuniz">
 				<img src="https://avatars.githubusercontent.com/u/91092904?s=72&u=eb3abe4a18b959af756cfef8e1b29be960b536cf&v=4" width="24" alt="Avatar of fbamuniz"> fbamuniz
 			</a><br/>
@@ -3407,7 +3420,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>249</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a href="https://github.com/felipeholanda2077">
 				<img src="https://avatars.githubusercontent.com/u/79938668?s=72&u=327c9d180f532e5bfb8a0892f1758deb02d48433&v=4" width="24" alt="Avatar of felipeholanda2077"> felipeholanda2077
@@ -3418,19 +3431,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>São Paulo - Brazil</td>
 		<td>246</td>
-	</tr>
-	<tr>
-		<td>256</td>
-		<td>
-			<a href="https://github.com/LauraBeatris">
-				<img src="https://avatars.githubusercontent.com/u/48022589?s=72&u=0116c4f70e0fcfe42f779a7d7e1ab5020e33c03d&v=4" width="24" alt="Avatar of LauraBeatris"> LauraBeatris
-			</a><br/>
-			Laura Beatris
-		</td>
-		<td>@workos </td>
-		<td><a href="https://twitter.com/lauradotjs">lauradotjs</a></td>
-		<td>Florianópolis, Brazil</td>
-		<td>245</td>
 	</tr>
 	<tr>
 		<td>257</td>
@@ -3643,6 +3643,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>273</td>
 		<td>
+			<a href="https://github.com/guiireal">
+				<img src="https://avatars.githubusercontent.com/u/13739343?s=72&v=4" width="24" alt="Avatar of guiireal"> guiireal
+			</a><br/>
+			Guilherme França
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>São Paulo</td>
+		<td>230</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
 			<a href="https://github.com/aleDsz">
 				<img src="https://avatars.githubusercontent.com/u/6402997?s=72&u=e35407ae2ebe04f5e1db2f1af1f100c478ddd2bf&v=4" width="24" alt="Avatar of aleDsz"> aleDsz
 			</a><br/>
@@ -3654,7 +3667,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>275</td>
 		<td>
 			<a href="https://github.com/thelinuxlich">
 				<img src="https://avatars.githubusercontent.com/u/5043?s=72&u=4a66ee78a8c85502049786972debd994cbe083cf&v=4" width="24" alt="Avatar of thelinuxlich"> thelinuxlich
@@ -3667,7 +3680,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>229</td>
 	</tr>
 	<tr>
-		<td>275</td>
+		<td>276</td>
 		<td>
 			<a href="https://github.com/claudiosanches">
 				<img src="https://avatars.githubusercontent.com/u/1264099?s=72&u=e6056efbc7aee78c8575e78be9a644792a0aaea6&v=4" width="24" alt="Avatar of claudiosanches"> claudiosanches
@@ -3680,7 +3693,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>276</td>
+		<td>277</td>
 		<td>
 			<a href="https://github.com/dev-mariana">
 				<img src="https://avatars.githubusercontent.com/u/60895455?s=72&u=e4280058e35effa7da07c64e7fee6037ca8f1656&v=4" width="24" alt="Avatar of dev-mariana"> dev-mariana
@@ -3691,19 +3704,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Rio de Janeiro</td>
 		<td>226</td>
-	</tr>
-	<tr>
-		<td>277</td>
-		<td>
-			<a href="https://github.com/guiireal">
-				<img src="https://avatars.githubusercontent.com/u/13739343?s=72&v=4" width="24" alt="Avatar of guiireal"> guiireal
-			</a><br/>
-			Guilherme França
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>São Paulo</td>
-		<td>225</td>
 	</tr>
 	<tr>
 		<td>278</td>
@@ -4020,19 +4020,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>302</td>
 		<td>
-			<a href="https://github.com/viglioni">
-				<img src="https://avatars.githubusercontent.com/u/11412209?s=72&u=18c00e239df08e9ed0eddc19a8a606a7bef24c69&v=4" width="24" alt="Avatar of viglioni"> viglioni
-			</a><br/>
-			Laura Viglioni
-		</td>
-		<td>@findhotel  </td>
-		<td><a href="https://twitter.com/lauraviglioni">lauraviglioni</a></td>
-		<td>Belo Horizonte, Brazil</td>
-		<td>190</td>
-	</tr>
-	<tr>
-		<td>303</td>
-		<td>
 			<a href="https://github.com/lucianodiisouza">
 				<img src="https://avatars.githubusercontent.com/u/10830068?s=72&u=a46485b335cb161c22e6981865315e276adaa675&v=4" width="24" alt="Avatar of lucianodiisouza"> lucianodiisouza
 			</a><br/>
@@ -4041,6 +4028,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Decisiv </td>
 		<td><a href="https://twitter.com/lucianodiisouza">lucianodiisouza</a></td>
 		<td>Belo Horizonte</td>
+		<td>192</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
+			<a href="https://github.com/viglioni">
+				<img src="https://avatars.githubusercontent.com/u/11412209?s=72&u=18c00e239df08e9ed0eddc19a8a606a7bef24c69&v=4" width="24" alt="Avatar of viglioni"> viglioni
+			</a><br/>
+			Laura Viglioni
+		</td>
+		<td>@findhotel  </td>
+		<td><a href="https://twitter.com/lauraviglioni">lauraviglioni</a></td>
+		<td>Belo Horizonte, Brazil</td>
 		<td>190</td>
 	</tr>
 	<tr>
@@ -4839,6 +4839,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>365</td>
 		<td>
+			<a href="https://github.com/duartecgustavo">
+				<img src="https://avatars.githubusercontent.com/u/65131471?s=72&u=b8a79a6e7aa8520ff566d9d556d39c061b4367fd&v=4" width="24" alt="Avatar of duartecgustavo"> duartecgustavo
+			</a><br/>
+			Gustavo Castanho
+		</td>
+		<td>@actdigital </td>
+		<td><a href="https://twitter.com/duartecgustav0">duartecgustav0</a></td>
+		<td>São Paulo - Brasil</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>366</td>
+		<td>
 			<a href="https://github.com/carolcurcelli">
 				<img src="https://avatars.githubusercontent.com/u/1522117?s=72&u=0740694a10277a3df02e9d77c8196ec16fc6baff&v=4" width="24" alt="Avatar of carolcurcelli"> carolcurcelli
 			</a><br/>
@@ -4850,7 +4863,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a href="https://github.com/barraponto">
 				<img src="https://avatars.githubusercontent.com/u/134005?s=72&u=9bc53d570388367b17b6041bb8bb4923c1f4a12d&v=4" width="24" alt="Avatar of barraponto"> barraponto
@@ -4860,19 +4873,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@hackatoa @betrybe @belvo-finance </td>
 		<td>No Twitter Username</td>
 		<td>Brazil</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
-			<a href="https://github.com/duartecgustavo">
-				<img src="https://avatars.githubusercontent.com/u/65131471?s=72&u=b8a79a6e7aa8520ff566d9d556d39c061b4367fd&v=4" width="24" alt="Avatar of duartecgustavo"> duartecgustavo
-			</a><br/>
-			Gustavo Castanho
-		</td>
-		<td>@actdigital </td>
-		<td><a href="https://twitter.com/duartecgustav0">duartecgustav0</a></td>
-		<td>São Paulo - Brasil</td>
 		<td>136</td>
 	</tr>
 	<tr>
@@ -5125,6 +5125,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>387</td>
 		<td>
+			<a href="https://github.com/galvez">
+				<img src="https://avatars.githubusercontent.com/u/12291?s=72&u=934aca2de103ced7aebdc486127a7e169ad0f162&v=4" width="24" alt="Avatar of galvez"> galvez
+			</a><br/>
+			Jonas Galvez
+		</td>
+		<td>@nodesource </td>
+		<td><a href="https://twitter.com/anothergalvez">anothergalvez</a></td>
+		<td>Barretos, Brazil</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
 			<a href="https://github.com/felipefontoura">
 				<img src="https://avatars.githubusercontent.com/u/281622?s=72&u=799ca737c7600faa5c6c47a23ed0baa59fdcd47b&v=4" width="24" alt="Avatar of felipefontoura"> felipefontoura
 			</a><br/>
@@ -5136,7 +5149,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a href="https://github.com/LucasCapSilva">
 				<img src="https://avatars.githubusercontent.com/u/57732522?s=72&u=6f32a5b930a703b5d3485e443eefe3005412db19&v=4" width="24" alt="Avatar of LucasCapSilva"> LucasCapSilva
@@ -5149,7 +5162,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>390</td>
 		<td>
 			<a href="https://github.com/nic">
 				<img src="https://avatars.githubusercontent.com/u/66042?s=72&u=68bc222b206e091b5ee9a8b0e810e333afbeba6d&v=4" width="24" alt="Avatar of nic"> nic
@@ -5162,7 +5175,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/Ricnaga">
 				<img src="https://avatars.githubusercontent.com/u/47759922?s=72&u=0ee91ebdbcd0fbe63ec8b5a32f2c723c0f5cb702&v=4" width="24" alt="Avatar of Ricnaga"> Ricnaga
@@ -5175,7 +5188,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a href="https://github.com/LariMoro20">
 				<img src="https://avatars.githubusercontent.com/u/54962550?s=72&u=f0241c083f4428eca030ba0836f6dff53a28cc1c&v=4" width="24" alt="Avatar of LariMoro20"> LariMoro20
@@ -5188,7 +5201,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a href="https://github.com/lucasgdb">
 				<img src="https://avatars.githubusercontent.com/u/13838273?s=72&u=ed5b5fa7c7ac90723f12dede1073189df3b41e28&v=4" width="24" alt="Avatar of lucasgdb"> lucasgdb
@@ -5201,7 +5214,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a href="https://github.com/hallpaz">
 				<img src="https://avatars.githubusercontent.com/u/5713977?s=72&u=307a7bbb14d4a01731ed56f7891d24cd069b2c74&v=4" width="24" alt="Avatar of hallpaz"> hallpaz
@@ -5214,7 +5227,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a href="https://github.com/Pr3d4dor">
 				<img src="https://avatars.githubusercontent.com/u/13210429?s=72&u=dc318350a47cf6b357424df5f57752660e866a4b&v=4" width="24" alt="Avatar of Pr3d4dor"> Pr3d4dor
@@ -5227,7 +5240,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>395</td>
+		<td>396</td>
 		<td>
 			<a href="https://github.com/fgrehm">
 				<img src="https://avatars.githubusercontent.com/u/81859?s=72&v=4" width="24" alt="Avatar of fgrehm"> fgrehm
@@ -5240,7 +5253,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>396</td>
+		<td>397</td>
 		<td>
 			<a href="https://github.com/AlphaLawless">
 				<img src="https://avatars.githubusercontent.com/u/65187737?s=72&u=5847a25f080f4de7871b06fe9b46d72dc85347b2&v=4" width="24" alt="Avatar of AlphaLawless"> AlphaLawless
@@ -5253,7 +5266,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>397</td>
+		<td>398</td>
 		<td>
 			<a href="https://github.com/nathyts">
 				<img src="https://avatars.githubusercontent.com/u/72207361?s=72&u=5d1c30c75452a3d0072aafaa91e94f78485089e0&v=4" width="24" alt="Avatar of nathyts"> nathyts
@@ -5266,7 +5279,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>398</td>
+		<td>399</td>
 		<td>
 			<a href="https://github.com/HeannaReis">
 				<img src="https://avatars.githubusercontent.com/u/67883256?s=72&u=a6ca3ed44f126ebb9076d55b4f9a5926156459cb&v=4" width="24" alt="Avatar of HeannaReis"> HeannaReis
@@ -5279,7 +5292,20 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>399</td>
+		<td>400</td>
+		<td>
+			<a href="https://github.com/Gurtinho">
+				<img src="https://avatars.githubusercontent.com/u/50364832?s=72&u=9108059ea22b0f2366f4ecb3f097461e9ad226fc&v=4" width="24" alt="Avatar of Gurtinho"> Gurtinho
+			</a><br/>
+			Gustavo Litter
+		</td>
+		<td>Okton </td>
+		<td>No Twitter Username</td>
+		<td>Santa Catarina, Brazil</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>401</td>
 		<td>
 			<a href="https://github.com/mirianfsilva">
 				<img src="https://avatars.githubusercontent.com/u/29445968?s=72&u=f1be03546c3deb2d565201a6ea683014ccfa81cf&v=4" width="24" alt="Avatar of mirianfsilva"> mirianfsilva
@@ -5292,7 +5318,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>400</td>
+		<td>402</td>
 		<td>
 			<a href="https://github.com/kilerhg">
 				<img src="https://avatars.githubusercontent.com/u/64300982?s=72&u=928ece15e80b34ca8d541db88593e5897941f41f&v=4" width="24" alt="Avatar of kilerhg"> kilerhg
@@ -5305,7 +5331,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>403</td>
 		<td>
 			<a href="https://github.com/professorisidro">
 				<img src="https://avatars.githubusercontent.com/u/6184696?s=72&u=a3d8ab067d8192d8330e1bdda20eff2dcbe8d63a&v=4" width="24" alt="Avatar of professorisidro"> professorisidro
@@ -5318,7 +5344,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>402</td>
+		<td>404</td>
 		<td>
 			<a href="https://github.com/allisson">
 				<img src="https://avatars.githubusercontent.com/u/5202?s=72&u=4a7bb1cd7d1d30e7757fded56c5180ce4a2dd2d2&v=4" width="24" alt="Avatar of allisson"> allisson
@@ -5331,20 +5357,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>403</td>
-		<td>
-			<a href="https://github.com/Gurtinho">
-				<img src="https://avatars.githubusercontent.com/u/50364832?s=72&u=9108059ea22b0f2366f4ecb3f097461e9ad226fc&v=4" width="24" alt="Avatar of Gurtinho"> Gurtinho
-			</a><br/>
-			Gustavo Litter
-		</td>
-		<td>Okton </td>
-		<td>No Twitter Username</td>
-		<td>Santa Catarina, Brazil</td>
-		<td>114</td>
-	</tr>
-	<tr>
-		<td>404</td>
+		<td>405</td>
 		<td>
 			<a href="https://github.com/micheleambrosio">
 				<img src="https://avatars.githubusercontent.com/u/55519539?s=72&u=1d1dad564d24a9e9d7b6f6e6442af3cfd9e560af&v=4" width="24" alt="Avatar of micheleambrosio"> micheleambrosio
@@ -5357,7 +5370,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a href="https://github.com/FlavioAro">
 				<img src="https://avatars.githubusercontent.com/u/35077695?s=72&u=6f44a840df4e8022ea54dabec273d0f58a7b445f&v=4" width="24" alt="Avatar of FlavioAro"> FlavioAro
@@ -5370,7 +5383,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a href="https://github.com/coreh">
 				<img src="https://avatars.githubusercontent.com/u/418473?s=72&u=bec58d5b07a1559fee254f7b8be464fb3fd06524&v=4" width="24" alt="Avatar of coreh"> coreh
@@ -5383,7 +5396,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a href="https://github.com/lucascprazeres">
 				<img src="https://avatars.githubusercontent.com/u/51201126?s=72&u=71186e6b750d6031b7c7496d38e28424370ccf2f&v=4" width="24" alt="Avatar of lucascprazeres"> lucascprazeres
@@ -5396,7 +5409,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a href="https://github.com/willmendesneto">
 				<img src="https://avatars.githubusercontent.com/u/1252570?s=72&u=22bb196f22ba23dc37f5d515ba886f5611eee928&v=4" width="24" alt="Avatar of willmendesneto"> willmendesneto
@@ -5409,7 +5422,20 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/vbuxbaum">
+				<img src="https://avatars.githubusercontent.com/u/10200286?s=72&u=509590991e5d1c4fecb7c5ea962d78a745fe755c&v=4" width="24" alt="Avatar of vbuxbaum"> vbuxbaum
+			</a><br/>
+			Vitor [Bux]baum
+		</td>
+		<td>@betrybe </td>
+		<td>No Twitter Username</td>
+		<td>Belo Horizonte - MG, Brazil</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>411</td>
 		<td>
 			<a href="https://github.com/fjsj">
 				<img src="https://avatars.githubusercontent.com/u/397989?s=72&u=b7c8a9a56653795bd21e2735c2ab5d3a5090389a&v=4" width="24" alt="Avatar of fjsj"> fjsj
@@ -5422,20 +5448,20 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>412</td>
 		<td>
-			<a href="https://github.com/vbuxbaum">
-				<img src="https://avatars.githubusercontent.com/u/10200286?s=72&u=509590991e5d1c4fecb7c5ea962d78a745fe755c&v=4" width="24" alt="Avatar of vbuxbaum"> vbuxbaum
+			<a href="https://github.com/h-ssiqueira">
+				<img src="https://avatars.githubusercontent.com/u/46844681?s=72&u=548065046b102bbcb167c227c93f2041b3e0ba3b&v=4" width="24" alt="Avatar of h-ssiqueira"> h-ssiqueira
 			</a><br/>
-			Vitor [Bux]baum
+			Henrique
 		</td>
-		<td>@betrybe </td>
+		<td>Matera Systems </td>
 		<td>No Twitter Username</td>
-		<td>Belo Horizonte - MG, Brazil</td>
-		<td>109</td>
+		<td>Brazil</td>
+		<td>108</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/ribeiroevandro">
 				<img src="https://avatars.githubusercontent.com/u/943553?s=72&u=be67fa96dadfb04456ae5ca2c7675c343079624c&v=4" width="24" alt="Avatar of ribeiroevandro"> ribeiroevandro
@@ -5448,7 +5474,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/Thamyresarm">
 				<img src="https://avatars.githubusercontent.com/u/24790794?s=72&u=b54d134049478f273c12374bbbe8ba5ba9c6a96e&v=4" width="24" alt="Avatar of Thamyresarm"> Thamyresarm
@@ -5461,7 +5487,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>415</td>
 		<td>
 			<a href="https://github.com/leogregianin">
 				<img src="https://avatars.githubusercontent.com/u/1684053?s=72&u=a26bfeca69015748f8ef2a371514a7a1738036b7&v=4" width="24" alt="Avatar of leogregianin"> leogregianin
@@ -5474,7 +5500,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>416</td>
 		<td>
 			<a href="https://github.com/vsouzx">
 				<img src="https://avatars.githubusercontent.com/u/88911545?s=72&u=4e7bb775ef79d89e1345a9f9fba73becadbaedf9&v=4" width="24" alt="Avatar of vsouzx"> vsouzx
@@ -5487,7 +5513,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>417</td>
 		<td>
 			<a href="https://github.com/araujodanield">
 				<img src="https://avatars.githubusercontent.com/u/91623766?s=72&u=d9ae40d79d20b75c11ac10c7bd23524189b27dd2&v=4" width="24" alt="Avatar of araujodanield"> araujodanield
@@ -5500,7 +5526,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>418</td>
 		<td>
 			<a href="https://github.com/hpoyatos">
 				<img src="https://avatars.githubusercontent.com/u/957400?s=72&v=4" width="24" alt="Avatar of hpoyatos"> hpoyatos
@@ -5513,7 +5539,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>419</td>
 		<td>
 			<a href="https://github.com/JoyceFatima">
 				<img src="https://avatars.githubusercontent.com/u/88751257?s=72&u=8b8df6a502c1ece52dc3b94c6241cd96e8d5b600&v=4" width="24" alt="Avatar of JoyceFatima"> JoyceFatima
@@ -5526,20 +5552,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>418</td>
-		<td>
-			<a href="https://github.com/galvez">
-				<img src="https://avatars.githubusercontent.com/u/12291?s=72&u=934aca2de103ced7aebdc486127a7e169ad0f162&v=4" width="24" alt="Avatar of galvez"> galvez
-			</a><br/>
-			Jonas Galvez
-		</td>
-		<td>@nodesource </td>
-		<td><a href="https://twitter.com/anothergalvez">anothergalvez</a></td>
-		<td>Barretos, Brazil</td>
-		<td>105</td>
-	</tr>
-	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a href="https://github.com/davidsdearaujo">
 				<img src="https://avatars.githubusercontent.com/u/16373553?s=72&u=be4c9732fe2603a30373dee95f65a20d4c4ec829&v=4" width="24" alt="Avatar of davidsdearaujo"> davidsdearaujo
@@ -5552,7 +5565,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>421</td>
 		<td>
 			<a href="https://github.com/carsimoes">
 				<img src="https://avatars.githubusercontent.com/u/4956055?s=72&u=61bd247f38722b9bca7d79d49b475a5103537a57&v=4" width="24" alt="Avatar of carsimoes"> carsimoes
@@ -5565,7 +5578,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>421</td>
+		<td>422</td>
 		<td>
 			<a href="https://github.com/marcosvcorsi">
 				<img src="https://avatars.githubusercontent.com/u/5308575?s=72&u=dfc851762388368f23d48485069d32f8f5670218&v=4" width="24" alt="Avatar of marcosvcorsi"> marcosvcorsi
@@ -5578,12 +5591,12 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>422</td>
+		<td>423</td>
 		<td>
 			<a href="https://github.com/lucioerlan">
 				<img src="https://avatars.githubusercontent.com/u/67064886?s=72&u=9908d78829d8234569c4b570260801308940a455&v=4" width="24" alt="Avatar of lucioerlan"> lucioerlan
 			</a><br/>
-			Erlan 
+			Erlan Lucio
 		</td>
 		<td>@grupoboticario  </td>
 		<td>No Twitter Username</td>
@@ -5591,7 +5604,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>423</td>
+		<td>424</td>
 		<td>
 			<a href="https://github.com/paclaraujo">
 				<img src="https://avatars.githubusercontent.com/u/39506102?s=72&u=1c9de52493aa31926cb16e2311252ad4504f1355&v=4" width="24" alt="Avatar of paclaraujo"> paclaraujo
@@ -5604,7 +5617,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>424</td>
+		<td>425</td>
 		<td>
 			<a href="https://github.com/devjosecarlosteles">
 				<img src="https://avatars.githubusercontent.com/u/66531520?s=72&u=fba3a680a91f543fabf0a29843031f33f2095ff4&v=4" width="24" alt="Avatar of devjosecarlosteles"> devjosecarlosteles
@@ -5615,19 +5628,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>São Paulo, Sp</td>
 		<td>103</td>
-	</tr>
-	<tr>
-		<td>425</td>
-		<td>
-			<a href="https://github.com/h-ssiqueira">
-				<img src="https://avatars.githubusercontent.com/u/46844681?s=72&u=548065046b102bbcb167c227c93f2041b3e0ba3b&v=4" width="24" alt="Avatar of h-ssiqueira"> h-ssiqueira
-			</a><br/>
-			Henrique
-		</td>
-		<td>Matera Systems </td>
-		<td>No Twitter Username</td>
-		<td>Brazil</td>
-		<td>102</td>
 	</tr>
 	<tr>
 		<td>426</td>
@@ -5879,6 +5879,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>445</td>
 		<td>
+			<a href="https://github.com/Rychillie">
+				<img src="https://avatars.githubusercontent.com/u/14102456?s=72&u=2e498ec82c884415275f9cee78fafd3c26c2c93a&v=4" width="24" alt="Avatar of Rychillie"> Rychillie
+			</a><br/>
+			Rychillie
+		</td>
+		<td>@he4rt  </td>
+		<td><a href="https://twitter.com/rychillie">rychillie</a></td>
+		<td>Brazil</td>
+		<td>94</td>
+	</tr>
+	<tr>
+		<td>446</td>
+		<td>
 			<a href="https://github.com/danieldsf">
 				<img src="https://avatars.githubusercontent.com/u/7511789?s=72&u=2da4585121aedfef7a07531253d50f51d1c2e08e&v=4" width="24" alt="Avatar of danieldsf"> danieldsf
 			</a><br/>
@@ -5890,7 +5903,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
 		<td>
 			<a href="https://github.com/VitorLuizC">
 				<img src="https://avatars.githubusercontent.com/u/9027363?s=72&u=b2836465b8c527de706eab8787b4176f31ae13fc&v=4" width="24" alt="Avatar of VitorLuizC"> VitorLuizC
@@ -5900,19 +5913,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@maissimples </td>
 		<td><a href="https://twitter.com/VitorLuizC">VitorLuizC</a></td>
 		<td>São Paulo, Brasil</td>
-		<td>93</td>
-	</tr>
-	<tr>
-		<td>447</td>
-		<td>
-			<a href="https://github.com/Rychillie">
-				<img src="https://avatars.githubusercontent.com/u/14102456?s=72&u=2e498ec82c884415275f9cee78fafd3c26c2c93a&v=4" width="24" alt="Avatar of Rychillie"> Rychillie
-			</a><br/>
-			Rychillie
-		</td>
-		<td>@he4rt  </td>
-		<td><a href="https://twitter.com/rychillie">rychillie</a></td>
-		<td>Brazil</td>
 		<td>93</td>
 	</tr>
 	<tr>
@@ -6009,6 +6009,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>455</td>
 		<td>
+			<a href="https://github.com/Nikaum-js">
+				<img src="https://avatars.githubusercontent.com/u/62979208?s=72&u=2dcfd511c57d8f3755f3bc70ec7e75ca8f6e8cd9&v=4" width="24" alt="Avatar of Nikaum-js"> Nikaum-js
+			</a><br/>
+			Nikolas.js
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NikaumJs">NikaumJs</a></td>
+		<td>Brasil - São Paulo</td>
+		<td>89</td>
+	</tr>
+	<tr>
+		<td>456</td>
+		<td>
 			<a href="https://github.com/SciammarellaBrenno">
 				<img src="https://avatars.githubusercontent.com/u/80230186?s=72&u=1e4eed72362b8f4e52435c313d347cdf923a838f&v=4" width="24" alt="Avatar of SciammarellaBrenno"> SciammarellaBrenno
 			</a><br/>
@@ -6020,7 +6033,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>456</td>
+		<td>457</td>
 		<td>
 			<a href="https://github.com/liara987">
 				<img src="https://avatars.githubusercontent.com/u/12224963?s=72&u=5a521f40a79ebff0a1d3b33d9cb8f64be768aec8&v=4" width="24" alt="Avatar of liara987"> liara987
@@ -6033,7 +6046,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>88</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/RubensZimbres">
 				<img src="https://avatars.githubusercontent.com/u/20270054?s=72&u=07a28045e85c4dcb530b024d0a2de6351c766eb6&v=4" width="24" alt="Avatar of RubensZimbres"> RubensZimbres
@@ -6046,7 +6059,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a href="https://github.com/camilatigre">
 				<img src="https://avatars.githubusercontent.com/u/13002348?s=72&u=ede1ecba592c21f0143cf61e6568992c53c9fbb4&v=4" width="24" alt="Avatar of camilatigre"> camilatigre
@@ -6059,7 +6072,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a href="https://github.com/lucianopf">
 				<img src="https://avatars.githubusercontent.com/u/8251208?s=72&u=a3e8d8c434b672adfb286b91b64b96aa53ff6a7e&v=4" width="24" alt="Avatar of lucianopf"> lucianopf
@@ -6072,7 +6085,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a href="https://github.com/gabuldev">
 				<img src="https://avatars.githubusercontent.com/u/32063378?s=72&u=a6a4e8648aa884353740f84ef1517107198de8f9&v=4" width="24" alt="Avatar of gabuldev"> gabuldev
@@ -6085,7 +6098,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a href="https://github.com/AllineFranciely">
 				<img src="https://avatars.githubusercontent.com/u/86837443?s=72&u=96706e21f035f8906a20536c6ea492335e10fe3a&v=4" width="24" alt="Avatar of AllineFranciely"> AllineFranciely
@@ -6098,7 +6111,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a href="https://github.com/21Johnn">
 				<img src="https://avatars.githubusercontent.com/u/105572537?s=72&u=72d5792bd6378fae767a0324e2e9d20e404ac43d&v=4" width="24" alt="Avatar of 21Johnn"> 21Johnn
@@ -6111,7 +6124,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a href="https://github.com/natalia-fs">
 				<img src="https://avatars.githubusercontent.com/u/53195920?s=72&u=34e01ca294aebf0f3e0aaf409c7ad79cb046d214&v=4" width="24" alt="Avatar of natalia-fs"> natalia-fs
@@ -6124,7 +6137,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a href="https://github.com/thgmhz">
 				<img src="https://avatars.githubusercontent.com/u/19213244?s=72&u=a97fc863de5e1a0d2ab32709971b0d10f4c39e44&v=4" width="24" alt="Avatar of thgmhz"> thgmhz
@@ -6137,7 +6150,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a href="https://github.com/simaraconceicao">
 				<img src="https://avatars.githubusercontent.com/u/50921892?s=72&u=8f689c08f4e56fa79bcf965a84dc0c220566a30b&v=4" width="24" alt="Avatar of simaraconceicao"> simaraconceicao
@@ -6150,7 +6163,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>467</td>
 		<td>
 			<a href="https://github.com/giovannalinda">
 				<img src="https://avatars.githubusercontent.com/u/71105672?s=72&u=3841d19fb2f932cb41ac75debc56d95ef56ed214&v=4" width="24" alt="Avatar of giovannalinda"> giovannalinda
@@ -6163,7 +6176,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>468</td>
 		<td>
 			<a href="https://github.com/josepholiveira">
 				<img src="https://avatars.githubusercontent.com/u/39345247?s=72&u=cf3b26cb8c15ebbf0e7df22912cce84c0108f839&v=4" width="24" alt="Avatar of josepholiveira"> josepholiveira
@@ -6173,19 +6186,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>@rocketseat  </td>
 		<td><a href="https://twitter.com/josepholiveirad">josepholiveirad</a></td>
 		<td>Brazil</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>468</td>
-		<td>
-			<a href="https://github.com/Nikaum-js">
-				<img src="https://avatars.githubusercontent.com/u/62979208?s=72&u=2dcfd511c57d8f3755f3bc70ec7e75ca8f6e8cd9&v=4" width="24" alt="Avatar of Nikaum-js"> Nikaum-js
-			</a><br/>
-			Nikolas.js
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NikaumJs">NikaumJs</a></td>
-		<td>Brasil - São Paulo</td>
 		<td>83</td>
 	</tr>
 	<tr>
@@ -6420,7 +6420,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Youtube - Gabriel Luchina<br/></td>
 		<td>No Twitter Username</td>
 		<td>Curitiba - Paraná - Brazil </td>
-		<td>74</td>
+		<td>76</td>
 	</tr>
 	<tr>
 		<td>487</td>
@@ -6555,6 +6555,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>497</td>
 		<td>
+			<a href="https://github.com/vsouza">
+				<img src="https://avatars.githubusercontent.com/u/484656?s=72&u=9f71c7757f341dd0ba129f2d159857578b0aac52&v=4" width="24" alt="Avatar of vsouza"> vsouza
+			</a><br/>
+			Vinicius Souza
+		</td>
+		<td>@globocom  </td>
+		<td><a href="https://twitter.com/iamvsouza">iamvsouza</a></td>
+		<td>Brazil</td>
+		<td>70</td>
+	</tr>
+	<tr>
+		<td>498</td>
+		<td>
 			<a href="https://github.com/DiegoTeles">
 				<img src="https://avatars.githubusercontent.com/u/14819933?s=72&u=7c66c36a74605a05dbe7513bfd558476e023bd3f&v=4" width="24" alt="Avatar of DiegoTeles"> DiegoTeles
 			</a><br/>
@@ -6564,19 +6577,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td><a href="https://twitter.com/UnicornCoder">UnicornCoder</a></td>
 		<td>São Paulo - SP</td>
 		<td>70</td>
-	</tr>
-	<tr>
-		<td>498</td>
-		<td>
-			<a href="https://github.com/vsouza">
-				<img src="https://avatars.githubusercontent.com/u/484656?s=72&u=9f71c7757f341dd0ba129f2d159857578b0aac52&v=4" width="24" alt="Avatar of vsouza"> vsouza
-			</a><br/>
-			Vinicius Souza
-		</td>
-		<td>@globocom  </td>
-		<td><a href="https://twitter.com/iamvsouza">iamvsouza</a></td>
-		<td>Brazil</td>
-		<td>69</td>
 	</tr>
 	<tr>
 		<td>499</td>
@@ -9090,6 +9090,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>692</td>
 		<td>
+			<a href="https://github.com/bmotadev">
+				<img src="https://avatars.githubusercontent.com/u/123843027?s=72&u=65b24c38c742094213dc8d7209100e4d3dfe79c9&v=4" width="24" alt="Avatar of bmotadev"> bmotadev
+			</a><br/>
+			Bruno Mota
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Brazil</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>693</td>
+		<td>
 			<a href="https://github.com/coproduto">
 				<img src="https://avatars.githubusercontent.com/u/8183792?s=72&u=401b8aaa44096e4e8a6fda60f2f6240821e4ea1d&v=4" width="24" alt="Avatar of coproduto"> coproduto
 			</a><br/>
@@ -9101,7 +9114,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a href="https://github.com/marcelcaraciolo">
 				<img src="https://avatars.githubusercontent.com/u/275084?s=72&u=d4d51ed5b9a7f311654becf86bd5d6c06e282127&v=4" width="24" alt="Avatar of marcelcaraciolo"> marcelcaraciolo
@@ -9114,7 +9127,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a href="https://github.com/nettofarah">
 				<img src="https://avatars.githubusercontent.com/u/270688?s=72&u=8b9f67ea9f280f97d0e184694a13ec72c2fc0a8b&v=4" width="24" alt="Avatar of nettofarah"> nettofarah
@@ -9127,7 +9140,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a href="https://github.com/danielfm">
 				<img src="https://avatars.githubusercontent.com/u/29534?s=72&u=948fed95ace10c7d5dddfd08babd17bc58918ab3&v=4" width="24" alt="Avatar of danielfm"> danielfm
@@ -9140,7 +9153,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a href="https://github.com/thiagoleitecarvalho">
 				<img src="https://avatars.githubusercontent.com/u/14020499?s=72&u=608a179d92e07d4bb40c35b85182136fd0c097f1&v=4" width="24" alt="Avatar of thiagoleitecarvalho"> thiagoleitecarvalho
@@ -9153,7 +9166,7 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a href="https://github.com/kterra">
 				<img src="https://avatars.githubusercontent.com/u/6809851?s=72&u=013b913efe0283bd1c860f88f97cf7c9e0018d0f&v=4" width="24" alt="Avatar of kterra"> kterra
@@ -9163,19 +9176,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Programação Dinâmica </td>
 		<td><a href="https://twitter.com/kizzy_terra">kizzy_terra</a></td>
 		<td>Rio de Janeiro, RJ</td>
-		<td>17</td>
-	</tr>
-	<tr>
-		<td>698</td>
-		<td>
-			<a href="https://github.com/bmotadev">
-				<img src="https://avatars.githubusercontent.com/u/123843027?s=72&u=65b24c38c742094213dc8d7209100e4d3dfe79c9&v=4" width="24" alt="Avatar of bmotadev"> bmotadev
-			</a><br/>
-			Bruno Mota
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Brazil</td>
 		<td>17</td>
 	</tr>
 	<tr>
@@ -10585,19 +10585,6 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 	<tr>
 		<td>807</td>
 		<td>
-			<a href="https://github.com/ceci">
-				<img src="https://avatars.githubusercontent.com/u/46282?s=72&u=21a89570cf19254bcccd578cd54af8927bc5eac7&v=4" width="24" alt="Avatar of ceci"> ceci
-			</a><br/>
-			Ceci Fernandes
-		</td>
-		<td>@nubank  </td>
-		<td><a href="https://twitter.com/cecifernandes">cecifernandes</a></td>
-		<td>São Paulo - Brazil</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>808</td>
-		<td>
 			<a href="https://github.com/hideraldus13">
 				<img src="https://avatars.githubusercontent.com/u/14840484?s=72&u=2886cda5414436a99ba94f3cf6cf5cc7e3e45a01&v=4" width="24" alt="Avatar of hideraldus13"> hideraldus13
 			</a><br/>
@@ -10606,6 +10593,19 @@ There are `961 users`  in Brazil. You need at least `214 followers` to be on thi
 		<td>Wap | Waaw By<br/>Alok<br/></td>
 		<td>No Twitter Username</td>
 		<td>Curitiba / PR</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>808</td>
+		<td>
+			<a href="https://github.com/ceci">
+				<img src="https://avatars.githubusercontent.com/u/46282?s=72&u=21a89570cf19254bcccd578cd54af8927bc5eac7&v=4" width="24" alt="Avatar of ceci"> ceci
+			</a><br/>
+			Ceci Fernandes
+		</td>
+		<td>@nubank  </td>
+		<td><a href="https://twitter.com/cecifernandes">cecifernandes</a></td>
+		<td>São Paulo - Brazil</td>
 		<td>5</td>
 	</tr>
 	<tr>
