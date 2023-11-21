@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `number of followers` of users in Mali on `2023/11/20 9:20 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `number of followers` of users in Mali on `2023/11/21 3:26 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
-There are `404 users`  in Mali. You need at least `0 followers` to be on this list.
+There are `405 users`  in Mali. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -341,19 +341,6 @@ There are `404 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>19</td>
 		<td>
-			<a href="https://github.com/jehzlau">
-				<img src="https://avatars.githubusercontent.com/u/1579560?s=72&v=4" width="24" alt="Avatar of jehzlau"> jehzlau
-			</a><br/>
-			Jehzeel Laurente
-		</td>
-		<td>Jehzlau Concepts </td>
-		<td><a href="https://twitter.com/jehzlau">jehzlau</a></td>
-		<td>Timbuktu, Mali</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>
 			<a href="https://github.com/Mamdy017">
 				<img src="https://avatars.githubusercontent.com/u/107038833?s=72&u=1701da42a516805da128d3447e59f97381ffefd0&v=4" width="24" alt="Avatar of Mamdy017"> Mamdy017
 			</a><br/>
@@ -365,7 +352,7 @@ There are `404 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/adama-coulibaly">
 				<img src="https://avatars.githubusercontent.com/u/81464680?s=72&u=a6110390ab610c765c7c6791ef68219f1c1f9c6f&v=4" width="24" alt="Avatar of adama-coulibaly"> adama-coulibaly
@@ -375,6 +362,19 @@ There are `404 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td>
+			<a href="https://github.com/jehzlau">
+				<img src="https://avatars.githubusercontent.com/u/1579560?s=72&v=4" width="24" alt="Avatar of jehzlau"> jehzlau
+			</a><br/>
+			Jehzeel Laurente
+		</td>
+		<td>Jehzlau Concepts </td>
+		<td><a href="https://twitter.com/jehzlau">jehzlau</a></td>
+		<td>Timbuktu, Mali</td>
 		<td>13</td>
 	</tr>
 	<tr>
