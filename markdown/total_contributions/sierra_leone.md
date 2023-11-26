@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `public contributions` and `private contributions` by users in Sierra Leone on `2023/11/25 4:20 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `public contributions` and `private contributions` by users in Sierra Leone on `2023/11/26 9:41 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Freetown. Sierra Leone</td>
 		<td>7</td>
-		<td>1499</td>
+		<td>1500</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -172,7 +172,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>@monimesl , @monime-lab <br/></td>
 		<td><a href="https://twitter.com/Abarrie_potter">Abarrie_potter</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>19</td>
+		<td>20</td>
 		<td>872</td>
 	</tr>
 	<tr>
@@ -201,7 +201,7 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/medvik_k">medvik_k</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>90</td>
-		<td>549</td>
+		<td>550</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -248,6 +248,20 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>11</td>
 		<td>
+			<a href="https://github.com/Ham-zie">
+				<img src="https://avatars.githubusercontent.com/u/97621080?s=72&u=bab9d64f7be03b7f0cdefe09941f8927fa479cec&v=4" width="24" alt="Avatar of Ham-zie"> Ham-zie
+			</a><br/>
+			Hamzie 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Freetown,Sierraleone</td>
+		<td>311</td>
+		<td>311</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
 			<a href="https://github.com/JAS0047">
 				<img src="https://avatars.githubusercontent.com/u/91621358?s=72&u=deb46087e6fecb24fc1ec7d5e067e7afdaaba398&v=4" width="24" alt="Avatar of JAS0047"> JAS0047
 			</a><br/>
@@ -258,20 +272,6 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Freetown, Sierra Leone</td>
 		<td>309</td>
 		<td>309</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
-			<a href="https://github.com/Ham-zie">
-				<img src="https://avatars.githubusercontent.com/u/97621080?s=72&u=bab9d64f7be03b7f0cdefe09941f8927fa479cec&v=4" width="24" alt="Avatar of Ham-zie"> Ham-zie
-			</a><br/>
-			Hamzie 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Freetown,Sierraleone</td>
-		<td>305</td>
-		<td>305</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -570,20 +570,6 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 	<tr>
 		<td>34</td>
 		<td>
-			<a href="https://github.com/ZenoPrime">
-				<img src="https://avatars.githubusercontent.com/u/125915578?s=72&u=70bdf00ffb1252bf6449cf70730febd3c24c9f84&v=4" width="24" alt="Avatar of ZenoPrime"> ZenoPrime
-			</a><br/>
-			Mohamed Jawad
-		</td>
-		<td>Christex Foundation </td>
-		<td><a href="https://twitter.com/zeno_prime">zeno_prime</a></td>
-		<td>Freetown, Sierra Leone</td>
-		<td>30</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>
 			<a href="https://github.com/pessima-au">
 				<img src="https://avatars.githubusercontent.com/u/144061972?s=72&u=bed44314f1ca6e739cd0e9e59b8919af42087a3e&v=4" width="24" alt="Avatar of pessima-au"> pessima-au
 			</a><br/>
@@ -591,6 +577,20 @@ There are `244 users`  in Sierra Leone. You need at least `0 followers` to be on
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/71eaeea3bb0849e">71eaeea3bb0849e</a></td>
+		<td>Freetown, Sierra Leone</td>
+		<td>32</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td>
+			<a href="https://github.com/ZenoPrime">
+				<img src="https://avatars.githubusercontent.com/u/125915578?s=72&u=70bdf00ffb1252bf6449cf70730febd3c24c9f84&v=4" width="24" alt="Avatar of ZenoPrime"> ZenoPrime
+			</a><br/>
+			Mohamed Jawad
+		</td>
+		<td>Christex Foundation </td>
+		<td><a href="https://twitter.com/zeno_prime">zeno_prime</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>30</td>
 		<td>30</td>
