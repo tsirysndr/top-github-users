@@ -1,6 +1,6 @@
 {
   "devMode": "false",
   "locations":[
-    { "country":  "madagascar", "geoName": "Madagascar", "cities": ["antananarivo", "toamasina", "mahajanga", "antsirabe"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" }
+    { "country":  "madagascar", "geoName": "Madagascar", "cities": ["antananarivo", "toamasina", "mahajanga", "antsirabe", "fianarantsoa", "toliara", "antsiranana"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" }
   ]
 }
