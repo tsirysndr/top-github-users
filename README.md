@@ -5,9 +5,9 @@
 	<img align="right" width="400" src="https://github.com/gayanvoice/top-github-users-monitor/raw/master/public/images/banner/top-github-users-map.png" alt="top-github-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/12/4 5:30 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/12/4 5:43 AM UTC`.
 
-This repository contains users `1 countries` and `7 cities`. 
+This repository contains users `1 countries` and `33 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/tsirysndr/top-github-users/blob/main/config.json).
 
 Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action). The project maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
@@ -105,6 +105,32 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 			<code>Fianarantsoa</code> 
 			<code>Toliara</code> 
 			<code>Antsiranana</code> 
+			<code>Morondava</code> 
+			<code>Tsiroanomandidy</code> 
+			<code>Antalaha</code> 
+			<code>Sambava</code> 
+			<code>Ambositra</code> 
+			<code>Ambatolampy</code> 
+			<code>Ambanja</code> 
+			<code>Ambalavao</code> 
+			<code>Ambatondrazaka</code> 
+			<code>Moramanga</code> 
+			<code>Farafangana</code> 
+			<code>Marovoay</code> 
+			<code>Maroantsetra</code> 
+			<code>Manjary</code> 
+			<code>Manankara</code> 
+			<code>Maintirano</code> 
+			<code>Taolagnaro</code> 
+			<code>Vatomandry</code> 
+			<code>Vangaindrano</code> 
+			<code>Nosy-be</code> 
+			<code>Sainte-marie</code> 
+			<code>Ihosy</code> 
+			<code>Maevatanana</code> 
+			<code>Ambilobe</code> 
+			<code>Ambanja</code> 
+			<code>Andapa</code> 
 		</td>
 	</tr>
 </table>
