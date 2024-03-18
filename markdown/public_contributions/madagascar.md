@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/3/18 4:53 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/3/18 5:00 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `33 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1082,6 +1082,19 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>76</td>
 		<td>
+			<a href="https://github.com/mgcodeur">
+				<img src="https://avatars.githubusercontent.com/u/91603608?s=72&u=1f4edfa357d34c1d250db5749e2d44fb16335c45&v=4" width="24" alt="Avatar of mgcodeur"> mgcodeur
+			</a><br/>
+			Jimmy Raphaël (Iharena)
+		</td>
+		<td>Paneramg, Kintana Technology, Mgcodeur<br/></td>
+		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
+		<td>Madagascar</td>
+		<td>303</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
 			<a href="https://github.com/MiiJack">
 				<img src="https://avatars.githubusercontent.com/u/32428593?s=72&u=004191233f8b89be9eb62b36ab1912b182f36470&v=4" width="24" alt="Avatar of MiiJack"> MiiJack
 			</a><br/>
@@ -1091,19 +1104,6 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>303</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/mgcodeur">
-				<img src="https://avatars.githubusercontent.com/u/91603608?s=72&u=1f4edfa357d34c1d250db5749e2d44fb16335c45&v=4" width="24" alt="Avatar of mgcodeur"> mgcodeur
-			</a><br/>
-			Jimmy Raphaël (Iharena)
-		</td>
-		<td>Paneramg, Kintana Technology, Mgcodeur<br/></td>
-		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
-		<td>Madagascar</td>
-		<td>298</td>
 	</tr>
 	<tr>
 		<td>78</td>
