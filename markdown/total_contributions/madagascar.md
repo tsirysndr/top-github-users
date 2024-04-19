@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/4/19 6:01 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/4/19 6:08 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `33 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -4812,6 +4812,20 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>337</td>
 		<td>
+			<a href="https://github.com/Fahazavana">
+				<img src="https://avatars.githubusercontent.com/u/68125192?s=72&u=4209dad17eaab29fdf07d8eb1b654432291bd967&v=4" width="24" alt="Avatar of Fahazavana"> Fahazavana
+			</a><br/>
+			RANDRIANANTENAINA Jean Lucien
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/rjlucienaina">rjlucienaina</a></td>
+		<td>Fianarantsoa Madagascar</td>
+		<td>71</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>338</td>
+		<td>
 			<a href="https://github.com/jckylalaina">
 				<img src="https://avatars.githubusercontent.com/u/46310926?s=72&v=4" width="24" alt="Avatar of jckylalaina"> jckylalaina
 			</a><br/>
@@ -4821,20 +4835,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>79</td>
-		<td>79</td>
-	</tr>
-	<tr>
-		<td>338</td>
-		<td>
-			<a href="https://github.com/Fahazavana">
-				<img src="https://avatars.githubusercontent.com/u/68125192?s=72&u=4209dad17eaab29fdf07d8eb1b654432291bd967&v=4" width="24" alt="Avatar of Fahazavana"> Fahazavana
-			</a><br/>
-			RANDRIANANTENAINA Jean Lucien
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/rjlucienaina">rjlucienaina</a></td>
-		<td>Fianarantsoa Madagascar</td>
-		<td>70</td>
 		<td>79</td>
 	</tr>
 	<tr>
@@ -5890,6 +5890,20 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>414</td>
 		<td>
+			<a href="https://github.com/Mickaellah">
+				<img src="https://avatars.githubusercontent.com/u/60210064?s=72&u=87fefe7f58f0bed0329980609320ae31b332ab32&v=4" width="24" alt="Avatar of Mickaellah"> Mickaellah
+			</a><br/>
+			Clopedia Nomenjanahary
+		</td>
+		<td>Onja </td>
+		<td>No Twitter Username</td>
+		<td>Mahanoro Toamasina Madagascar</td>
+		<td>0</td>
+		<td>45</td>
+	</tr>
+	<tr>
+		<td>415</td>
+		<td>
 			<a href="https://github.com/ryurina">
 				<img src="https://avatars.githubusercontent.com/u/45909337?s=72&u=e524aee4bc95a7c1a5d6f933a54f09e5903d4cc5&v=4" width="24" alt="Avatar of ryurina"> ryurina
 			</a><br/>
@@ -5900,20 +5914,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Antananarivo - Madagascar</td>
 		<td>8</td>
 		<td>45</td>
-	</tr>
-	<tr>
-		<td>415</td>
-		<td>
-			<a href="https://github.com/Mickaellah">
-				<img src="https://avatars.githubusercontent.com/u/60210064?s=72&u=87fefe7f58f0bed0329980609320ae31b332ab32&v=4" width="24" alt="Avatar of Mickaellah"> Mickaellah
-			</a><br/>
-			Clopedia Nomenjanahary
-		</td>
-		<td>Onja </td>
-		<td>No Twitter Username</td>
-		<td>Mahanoro Toamasina Madagascar</td>
-		<td>0</td>
-		<td>44</td>
 	</tr>
 	<tr>
 		<td>416</td>
