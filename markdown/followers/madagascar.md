@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2024/4/22 9:23 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2024/4/22 9:30 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `33 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -9389,19 +9389,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>715</td>
 		<td>
-			<a href="https://github.com/onoyr">
-				<img src="https://avatars.githubusercontent.com/u/7762749?s=72&u=d9c09dbe4a5cb2338fe990e57c409adc60414a61&v=4" width="24" alt="Avatar of onoyr"> onoyr
-			</a><br/>
-			Sitraka Ratsimba
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/_ratsimba">_ratsimba</a></td>
-		<td>Antananarivo, Madagascar</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>716</td>
-		<td>
 			<a href="https://github.com/Knoclar">
 				<img src="https://avatars.githubusercontent.com/u/48055858?s=72&v=4" width="24" alt="Avatar of Knoclar"> Knoclar
 			</a><br/>
@@ -9413,7 +9400,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>716</td>
 		<td>
 			<a href="https://github.com/EudinoDev">
 				<img src="https://avatars.githubusercontent.com/u/58036950?s=72&u=8ec6f831abd181bd1a6a3eff8fe889cfe4fcc27e&v=4" width="24" alt="Avatar of EudinoDev"> EudinoDev
@@ -9422,6 +9409,19 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		</td>
 		<td>Value Builder Outsourcing </td>
 		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>717</td>
+		<td>
+			<a href="https://github.com/onoyr">
+				<img src="https://avatars.githubusercontent.com/u/7762749?s=72&u=d9c09dbe4a5cb2338fe990e57c409adc60414a61&v=4" width="24" alt="Avatar of onoyr"> onoyr
+			</a><br/>
+			Sitraka Ratsimba
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/_ratsimba">_ratsimba</a></td>
 		<td>Antananarivo, Madagascar</td>
 		<td>2</td>
 	</tr>
