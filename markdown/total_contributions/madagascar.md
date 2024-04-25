@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/4/25 1:02 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/4/25 1:09 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -830,7 +830,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>@game-of-whales </td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
-		<td>158</td>
+		<td>157</td>
 		<td>1034</td>
 	</tr>
 	<tr>
@@ -1097,7 +1097,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Mahanoro/Madagascar</td>
 		<td>200</td>
-		<td>862</td>
+		<td>863</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -4924,6 +4924,20 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>345</td>
 		<td>
+			<a href="https://github.com/Estcepoire">
+				<img src="https://avatars.githubusercontent.com/u/118931385?s=72&u=42702b6e5b498d455dddbe944416e36a0988f4f6&v=4" width="24" alt="Avatar of Estcepoire"> Estcepoire
+			</a><br/>
+			Mamison Rajaoharisaona
+		</td>
+		<td>Stack-x </td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo Madagascar</td>
+		<td>77</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>346</td>
+		<td>
 			<a href="https://github.com/RovaFitia">
 				<img src="https://avatars.githubusercontent.com/u/107760774?s=72&u=6ab156e2cc551c2fb1cc24e17cf577b4368f234d&v=4" width="24" alt="Avatar of RovaFitia"> RovaFitia
 			</a><br/>
@@ -4936,7 +4950,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/rajaomariajaona">
 				<img src="https://avatars.githubusercontent.com/u/26646864?s=72&u=f4bfcada566188216a75d4b6492f18173a46429d&v=4" width="24" alt="Avatar of rajaomariajaona"> rajaomariajaona
@@ -4950,7 +4964,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/FrancoRATOVOSON">
 				<img src="https://avatars.githubusercontent.com/u/56756707?s=72&u=774895ed23c1ef75d015e53bfef15dc7e318fdfa&v=4" width="24" alt="Avatar of FrancoRATOVOSON"> FrancoRATOVOSON
@@ -4961,20 +4975,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/FrancoRatovoson">FrancoRatovoson</a></td>
 		<td>Antananarivo, Madagascar</td>
 		<td>52</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/Estcepoire">
-				<img src="https://avatars.githubusercontent.com/u/118931385?s=72&u=42702b6e5b498d455dddbe944416e36a0988f4f6&v=4" width="24" alt="Avatar of Estcepoire"> Estcepoire
-			</a><br/>
-			Mamison Rajaoharisaona
-		</td>
-		<td>Stack-x </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo Madagascar</td>
-		<td>75</td>
 		<td>75</td>
 	</tr>
 	<tr>
