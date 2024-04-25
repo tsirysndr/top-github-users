@@ -1,6 +1,6 @@
 {
   "devMode": "false",
   "locations":[
-    { "country":  "madagascar", "geoName": "Madagascar", "cities": ["antananarivo", "toamasina", "mahajanga", "antsirabe", "fianarantsoa", "toliara", "antsiranana", "morondava", "tsiroanomandidy", "antalaha", "sambava", "ambositra", "ambatolampy", "ambanja", "ambalavao", "ambatondrazaka", "moramanga", "farafangana", "marovoay", "maroantsetra", "mananjary", "manankara", "maintirano", "taolagnaro", "vatomandry", "vangaindrano", "nosy-be", "sainte-marie", "ihosy", "maevatanana", "ambilobe", "ambanja", "andapa"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" }
+    { "country":  "madagascar", "geoName": "Madagascar", "cities": ["antananarivo", "toamasina", "mahajanga", "antsirabe", "fianarantsoa", "toliara", "antsiranana", "morondava", "tsiroanomandidy", "antalaha", "sambava", "ambositra", "ambatolampy", "ambanja", "ambalavao", "ambatondrazaka", "moramanga", "farafangana", "marovoay", "maroantsetra", "mananjary", "manankara", "Vohipeno", "maintirano", "taolagnaro", "vatomandry", "vangaindrano", "nosy-be", "sainte-marie", "ihosy", "maevatanana", "ambilobe", "ambanja", "andapa"], "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" }
   ]
 }
