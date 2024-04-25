@@ -20,67 +20,6 @@ Contribute to GitHub action [gayanvoice/top-github-users-action](https://github.
 	</tr>
 </table>
 
-### 🚀 Share on
-
-<table>
-	<tr>
-		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/tsirysndr/top-github-users&_rdc=1&_rdr">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/tsirysndr/top-github-users&app_id=291494419107518&redirect_uri=https://github.com/tsirysndr/top-github-users">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/tsirysndr/top-github-users">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Country https://github.com/tsirysndr/top-github-users">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://t.me/share/url?url=https://github.com/tsirysndr/top-github-users&text=Top%20GitHub%20Users%20By%20Country">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/tsirysndr/top-github-users">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/tsirysndr/top-github-users">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/tsirysndr/top-github-users">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/tsirysndr/top-github-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&i=">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
-			</a>
-		</td>
-		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country-https://github.com/tsirysndr/top-github-users">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/tsirysndr/top-github-users">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
-			</a>
-		</td>
-	</tr>
-</table>
 
 <table>
 	<tr>
