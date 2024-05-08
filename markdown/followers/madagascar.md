@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2024/5/8 12:01 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2024/5/8 12:08 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -5138,19 +5138,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>388</td>
 		<td>
-			<a href="https://github.com/laza-niaina">
-				<img src="https://avatars.githubusercontent.com/u/97720707?s=72&u=97a6326736c2a485034c298df9b6ed465c630e95&v=4" width="24" alt="Avatar of laza-niaina"> laza-niaina
-			</a><br/>
-			Laza
-		</td>
-		<td>@gg </td>
-		<td><a href="https://twitter.com/laza_niaina">laza_niaina</a></td>
-		<td>Madagascar/Antananarivo</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>389</td>
-		<td>
 			<a href="https://github.com/KelwinZnhr">
 				<img src="https://avatars.githubusercontent.com/u/38430496?s=72&u=84692c7f4f74245bf619906788c37c92b695d425&v=4" width="24" alt="Avatar of KelwinZnhr"> KelwinZnhr
 			</a><br/>
@@ -5159,6 +5146,19 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>389</td>
+		<td>
+			<a href="https://github.com/laza-niaina">
+				<img src="https://avatars.githubusercontent.com/u/97720707?s=72&u=97a6326736c2a485034c298df9b6ed465c630e95&v=4" width="24" alt="Avatar of laza-niaina"> laza-niaina
+			</a><br/>
+			Laza
+		</td>
+		<td>@gg </td>
+		<td><a href="https://twitter.com/laza_niaina">laza_niaina</a></td>
+		<td>Madagascar/Antananarivo</td>
 		<td>5</td>
 	</tr>
 	<tr>
