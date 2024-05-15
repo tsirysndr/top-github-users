@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/5/15 5:20 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/5/15 5:27 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -3258,6 +3258,20 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>226</td>
 		<td>
+			<a href="https://github.com/valdoth">
+				<img src="https://avatars.githubusercontent.com/u/50540492?s=72&u=a738a96af711fe587cc4941f1da859904ee9ca0c&v=4" width="24" alt="Avatar of valdoth"> valdoth
+			</a><br/>
+			NDIMBIARISOA Valdo Tsiaro Hasina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
+		<td>108</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>227</td>
+		<td>
 			<a href="https://github.com/Lynxgsm">
 				<img src="https://avatars.githubusercontent.com/u/17699418?s=72&u=5556ee48f21126fbac2a5e690701b0dbe805cbdf&v=4" width="24" alt="Avatar of Lynxgsm"> Lynxgsm
 			</a><br/>
@@ -3268,20 +3282,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Antananarivo, Madagascar</td>
 		<td>189</td>
 		<td>189</td>
-	</tr>
-	<tr>
-		<td>227</td>
-		<td>
-			<a href="https://github.com/valdoth">
-				<img src="https://avatars.githubusercontent.com/u/50540492?s=72&u=a738a96af711fe587cc4941f1da859904ee9ca0c&v=4" width="24" alt="Avatar of valdoth"> valdoth
-			</a><br/>
-			NDIMBIARISOA Valdo Tsiaro Hasina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
-		<td>107</td>
-		<td>188</td>
 	</tr>
 	<tr>
 		<td>228</td>
