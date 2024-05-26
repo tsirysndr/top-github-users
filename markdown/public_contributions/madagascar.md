@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/5/26 10:24 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/5/26 10:30 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2746,6 +2746,19 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>204</td>
 		<td>
+			<a href="https://github.com/haroldraj">
+				<img src="https://avatars.githubusercontent.com/u/29299980?s=72&u=1e413ddf9c8111428e08a10ac8fd37b19e8e7c43&v=4" width="24" alt="Avatar of haroldraj"> haroldraj
+			</a><br/>
+			Harold Rajaonarison
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>92</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
 			<a href="https://github.com/jckylalaina">
 				<img src="https://avatars.githubusercontent.com/u/46310926?s=72&v=4" width="24" alt="Avatar of jckylalaina"> jckylalaina
 			</a><br/>
@@ -2757,7 +2770,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>206</td>
 		<td>
 			<a href="https://github.com/josoa-ramaroson">
 				<img src="https://avatars.githubusercontent.com/u/108058896?s=72&u=f10e5f19a20f1506d9203a0b9951ff741e5d25d6&v=4" width="24" alt="Avatar of josoa-ramaroson"> josoa-ramaroson
@@ -2770,7 +2783,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>206</td>
+		<td>207</td>
 		<td>
 			<a href="https://github.com/sylvio-jerry">
 				<img src="https://avatars.githubusercontent.com/u/85332961?s=72&u=4694c2c78bac51117eced0314f4e1cc541a596a3&v=4" width="24" alt="Avatar of sylvio-jerry"> sylvio-jerry
@@ -2783,7 +2796,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>207</td>
+		<td>208</td>
 		<td>
 			<a href="https://github.com/Jonathanrazakalalaina">
 				<img src="https://avatars.githubusercontent.com/u/97547623?s=72&u=0c104d1a01dbc59d44d23f53252ba69e5c1b070c&v=4" width="24" alt="Avatar of Jonathanrazakalalaina"> Jonathanrazakalalaina
@@ -2796,7 +2809,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>208</td>
+		<td>209</td>
 		<td>
 			<a href="https://github.com/init-daemon">
 				<img src="https://avatars.githubusercontent.com/u/37933415?s=72&u=1fbf198777f6c39c583dbd8c40235004bc2144ff&v=4" width="24" alt="Avatar of init-daemon"> init-daemon
@@ -2806,19 +2819,6 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>@itekadev </td>
 		<td>No Twitter Username</td>
 		<td>Toamasina, Madagascar</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>209</td>
-		<td>
-			<a href="https://github.com/haroldraj">
-				<img src="https://avatars.githubusercontent.com/u/29299980?s=72&u=1e413ddf9c8111428e08a10ac8fd37b19e8e7c43&v=4" width="24" alt="Avatar of haroldraj"> haroldraj
-			</a><br/>
-			Harold Rajaonarison
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
 		<td>90</td>
 	</tr>
 	<tr>
