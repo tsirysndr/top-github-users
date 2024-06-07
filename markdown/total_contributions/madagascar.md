@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/6/7 12:21 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/6/7 12:28 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -5834,6 +5834,20 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>410</td>
 		<td>
+			<a href="https://github.com/koulienathalie">
+				<img src="https://avatars.githubusercontent.com/u/129661580?s=72&u=0c56b70aac44ac5890b377f16985d0a9c5d346db&v=4" width="24" alt="Avatar of koulienathalie"> koulienathalie
+			</a><br/>
+			Koulie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
+		<td>51</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
 			<a href="https://github.com/MiRandria">
 				<img src="https://avatars.githubusercontent.com/u/103509226?s=72&u=eebaa1548911beabf173a9ba9c63287ef61a0be0&v=4" width="24" alt="Avatar of MiRandria"> MiRandria
 			</a><br/>
@@ -5846,7 +5860,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a href="https://github.com/Nambinina-H">
 				<img src="https://avatars.githubusercontent.com/u/87691645?s=72&u=7fabc2bfece4c5926e07bcd1779c3701dfe8cc70&v=4" width="24" alt="Avatar of Nambinina-H"> Nambinina-H
@@ -5860,7 +5874,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a href="https://github.com/sebastienRafalimanana">
 				<img src="https://avatars.githubusercontent.com/u/84314026?s=72&u=8dddd9a1ac0145073a84f8d9d36d6c0e53174e36&v=4" width="24" alt="Avatar of sebastienRafalimanana"> sebastienRafalimanana
@@ -5874,7 +5888,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>414</td>
 		<td>
 			<a href="https://github.com/Liantsoarandria0803">
 				<img src="https://avatars.githubusercontent.com/u/133999827?s=72&u=61f5308c9b244e92c52dbb6d78292994e6b7379b&v=4" width="24" alt="Avatar of Liantsoarandria0803"> Liantsoarandria0803
@@ -5884,20 +5898,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Imerintsiatosika Antananarivo Madagascar</td>
-		<td>50</td>
-		<td>50</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
-			<a href="https://github.com/koulienathalie">
-				<img src="https://avatars.githubusercontent.com/u/129661580?s=72&u=0c56b70aac44ac5890b377f16985d0a9c5d346db&v=4" width="24" alt="Avatar of koulienathalie"> koulienathalie
-			</a><br/>
-			Koulie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
 		<td>50</td>
 		<td>50</td>
 	</tr>
