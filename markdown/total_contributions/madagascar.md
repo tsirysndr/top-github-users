@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/6/13 1:38 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/6/13 1:45 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -144,8 +144,8 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>@fluentci-io </td>
 		<td><a href="https://twitter.com/tsiry_sndr">tsiry_sndr</a></td>
 		<td>Antananarivo / Madagascar</td>
-		<td>7581</td>
-		<td>8583</td>
+		<td>7585</td>
+		<td>8584</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -299,7 +299,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/KsKrimi">KsKrimi</a></td>
 		<td>Fianarantsoa, Madagascar</td>
 		<td>190</td>
-		<td>1970</td>
+		<td>1980</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -696,6 +696,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>43</td>
 		<td>
+			<a href="https://github.com/WiseRandr">
+				<img src="https://avatars.githubusercontent.com/u/44466918?s=72&u=4f63ee2649ed5d606912037ee158f900ef46202d&v=4" width="24" alt="Avatar of WiseRandr"> WiseRandr
+			</a><br/>
+			Wise Randr
+		</td>
+		<td>From Home </td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo Madagascar</td>
+		<td>14</td>
+		<td>1223</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td>
 			<a href="https://github.com/andritianaa">
 				<img src="https://avatars.githubusercontent.com/u/50718030?s=72&u=5b63b74a54226a3d369ee8ce3f9a3993b34c0d1d&v=4" width="24" alt="Avatar of andritianaa"> andritianaa
 			</a><br/>
@@ -706,20 +720,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Antananarivo</td>
 		<td>291</td>
 		<td>1221</td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>
-			<a href="https://github.com/WiseRandr">
-				<img src="https://avatars.githubusercontent.com/u/44466918?s=72&u=4f63ee2649ed5d606912037ee158f900ef46202d&v=4" width="24" alt="Avatar of WiseRandr"> WiseRandr
-			</a><br/>
-			Wise Randr
-		</td>
-		<td>From Home </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo Madagascar</td>
-		<td>14</td>
-		<td>1220</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -2063,7 +2063,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>3</td>
-		<td>478</td>
+		<td>480</td>
 	</tr>
 	<tr>
 		<td>141</td>
@@ -3734,6 +3734,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>260</td>
 		<td>
+			<a href="https://github.com/likwel">
+				<img src="https://avatars.githubusercontent.com/u/57036957?s=72&u=f2e64f8218fe492be34ab9456ae3f9815c50993c&v=4" width="24" alt="Avatar of likwel"> likwel
+			</a><br/>
+			Elie Andriatsitohaina
+		</td>
+		<td>Geomadagascar </td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo</td>
+		<td>159</td>
+		<td>159</td>
+	</tr>
+	<tr>
+		<td>261</td>
+		<td>
 			<a href="https://github.com/Rivosoa">
 				<img src="https://avatars.githubusercontent.com/u/31648871?s=72&u=46853224a4f0cfef270d967b9c22a8513156e70c&v=4" width="24" alt="Avatar of Rivosoa"> Rivosoa
 			</a><br/>
@@ -3743,20 +3757,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>1</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>261</td>
-		<td>
-			<a href="https://github.com/likwel">
-				<img src="https://avatars.githubusercontent.com/u/57036957?s=72&u=f2e64f8218fe492be34ab9456ae3f9815c50993c&v=4" width="24" alt="Avatar of likwel"> likwel
-			</a><br/>
-			Elie Andriatsitohaina
-		</td>
-		<td>Geomadagascar </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo</td>
-		<td>158</td>
 		<td>158</td>
 	</tr>
 	<tr>
@@ -3874,6 +3874,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>270</td>
 		<td>
+			<a href="https://github.com/ITokianaR">
+				<img src="https://avatars.githubusercontent.com/u/102740913?s=72&u=7cb2073e4f8028e1b180475c6119cb8230b15cd5&v=4" width="24" alt="Avatar of ITokianaR"> ITokianaR
+			</a><br/>
+			Itokiana, The Creator
+		</td>
+		<td>Esti </td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
+		<td>13</td>
+		<td>145</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
 			<a href="https://github.com/Julio23F">
 				<img src="https://avatars.githubusercontent.com/u/122742762?s=72&u=02b36b21245dd88e39a9780a1dc4728f596c05b9&v=4" width="24" alt="Avatar of Julio23F"> Julio23F
 			</a><br/>
@@ -3884,20 +3898,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Madagascar, Tananarive</td>
 		<td>145</td>
 		<td>145</td>
-	</tr>
-	<tr>
-		<td>271</td>
-		<td>
-			<a href="https://github.com/ITokianaR">
-				<img src="https://avatars.githubusercontent.com/u/102740913?s=72&u=7cb2073e4f8028e1b180475c6119cb8230b15cd5&v=4" width="24" alt="Avatar of ITokianaR"> ITokianaR
-			</a><br/>
-			Itokiana, The Creator
-		</td>
-		<td>Esti </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
-		<td>13</td>
-		<td>144</td>
 	</tr>
 	<tr>
 		<td>272</td>
