@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2024/6/19 2:08 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2024/6/19 2:16 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -9038,12 +9038,12 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>688</td>
 		<td>
-			<a href="https://github.com/MJaonary">
-				<img src="https://avatars.githubusercontent.com/u/105315328?s=72&u=e602006d5d86919901a59c5eb9ee698ab6accf4a&v=4" width="24" alt="Avatar of MJaonary"> MJaonary
+			<a href="https://github.com/kevinliddel">
+				<img src="https://avatars.githubusercontent.com/u/81240986?s=72&u=44fef01123f86f704106fe257456e4432b935c37&v=4" width="24" alt="Avatar of kevinliddel"> kevinliddel
 			</a><br/>
-			Onitiana Rajaonarivony
+			Kevin Liddel
 		</td>
-		<td>@wauio  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>2</td>
@@ -9051,12 +9051,12 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>689</td>
 		<td>
-			<a href="https://github.com/kevinliddel">
-				<img src="https://avatars.githubusercontent.com/u/81240986?s=72&u=44fef01123f86f704106fe257456e4432b935c37&v=4" width="24" alt="Avatar of kevinliddel"> kevinliddel
+			<a href="https://github.com/MJaonary">
+				<img src="https://avatars.githubusercontent.com/u/105315328?s=72&u=e602006d5d86919901a59c5eb9ee698ab6accf4a&v=4" width="24" alt="Avatar of MJaonary"> MJaonary
 			</a><br/>
-			Kevin Liddel
+			Onitiana Rajaonarivony
 		</td>
-		<td>No Company</td>
+		<td>@wauio  </td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>2</td>
