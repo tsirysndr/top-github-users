@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/7/7 12:37 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/7/7 12:44 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -430,6 +430,20 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>24</td>
 		<td>
+			<a href="https://github.com/danielgwood">
+				<img src="https://avatars.githubusercontent.com/u/168163?s=72&u=18d84e73cd5a37b43652f7b4671a0ba353094c10&v=4" width="24" alt="Avatar of danielgwood"> danielgwood
+			</a><br/>
+			Daniel Wood
+		</td>
+		<td>Atsimo25 </td>
+		<td>No Twitter Username</td>
+		<td>Taolagnaro, Madagascar</td>
+		<td>0</td>
+		<td>1727</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td>
 			<a href="https://github.com/RDavidNH">
 				<img src="https://avatars.githubusercontent.com/u/25670795?s=72&u=74894d5cc1ce97f4e15c097953eb4ee11c4d5864&v=4" width="24" alt="Avatar of RDavidNH"> RDavidNH
 			</a><br/>
@@ -440,20 +454,6 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Antananarivo, Madagascar</td>
 		<td>6</td>
 		<td>1724</td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>
-			<a href="https://github.com/danielgwood">
-				<img src="https://avatars.githubusercontent.com/u/168163?s=72&u=18d84e73cd5a37b43652f7b4671a0ba353094c10&v=4" width="24" alt="Avatar of danielgwood"> danielgwood
-			</a><br/>
-			Daniel Wood
-		</td>
-		<td>Atsimo25 </td>
-		<td>No Twitter Username</td>
-		<td>Taolagnaro, Madagascar</td>
-		<td>0</td>
-		<td>1723</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -2054,6 +2054,20 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>140</td>
 		<td>
+			<a href="https://github.com/CousemaAnjary">
+				<img src="https://avatars.githubusercontent.com/u/140645726?s=72&u=3176677b21b18c888a2e4346a74da4161e86ff66&v=4" width="24" alt="Avatar of CousemaAnjary"> CousemaAnjary
+			</a><br/>
+			ABDILLAH Cousema Anjary
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo - Madagascar</td>
+		<td>487</td>
+		<td>487</td>
+	</tr>
+	<tr>
+		<td>141</td>
+		<td>
 			<a href="https://github.com/ManoarySarobidy">
 				<img src="https://avatars.githubusercontent.com/u/103274612?s=72&u=36b23c46f773339908c3a25fa34b804f57020edb&v=4" width="24" alt="Avatar of ManoarySarobidy"> ManoarySarobidy
 			</a><br/>
@@ -2063,20 +2077,6 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>244</td>
-		<td>485</td>
-	</tr>
-	<tr>
-		<td>141</td>
-		<td>
-			<a href="https://github.com/CousemaAnjary">
-				<img src="https://avatars.githubusercontent.com/u/140645726?s=72&u=3176677b21b18c888a2e4346a74da4161e86ff66&v=4" width="24" alt="Avatar of CousemaAnjary"> CousemaAnjary
-			</a><br/>
-			ABDILLAH Cousema Anjary
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo - Madagascar</td>
-		<td>485</td>
 		<td>485</td>
 	</tr>
 	<tr>
