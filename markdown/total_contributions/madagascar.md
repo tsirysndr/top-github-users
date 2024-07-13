@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/7/13 7:35 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/7/13 7:42 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>241</td>
-		<td>13498</td>
+		<td>13499</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -2712,6 +2712,20 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>187</td>
 		<td>
+			<a href="https://github.com/Ntsoa2112">
+				<img src="https://avatars.githubusercontent.com/u/49555661?s=72&u=32fc9fd7a58bd18fc00a755f1c3563ed8b701ae2&v=4" width="24" alt="Avatar of Ntsoa2112"> Ntsoa2112
+			</a><br/>
+			MIHAINGOHERILANTO
+		</td>
+		<td>Ecole Supérieure Des Technologies<br/>De<br/>L'information<br/></td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo</td>
+		<td>120</td>
+		<td>329</td>
+	</tr>
+	<tr>
+		<td>188</td>
+		<td>
 			<a href="https://github.com/Clavien317">
 				<img src="https://avatars.githubusercontent.com/u/110566445?s=72&u=4aa381ea5c1631e25a2281ffb07df1dacf793fba&v=4" width="24" alt="Avatar of Clavien317"> Clavien317
 			</a><br/>
@@ -2722,20 +2736,6 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Madagascar </td>
 		<td>167</td>
 		<td>328</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/Ntsoa2112">
-				<img src="https://avatars.githubusercontent.com/u/49555661?s=72&u=32fc9fd7a58bd18fc00a755f1c3563ed8b701ae2&v=4" width="24" alt="Avatar of Ntsoa2112"> Ntsoa2112
-			</a><br/>
-			MIHAINGOHERILANTO
-		</td>
-		<td>Ecole Supérieure Des Technologies<br/>De<br/>L'information<br/></td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo</td>
-		<td>118</td>
-		<td>327</td>
 	</tr>
 	<tr>
 		<td>189</td>
