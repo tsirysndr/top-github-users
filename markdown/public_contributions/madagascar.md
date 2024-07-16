@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/7/16 1:27 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/7/16 1:34 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -393,6 +393,19 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>23</td>
 		<td>
+			<a href="https://github.com/Josoa886">
+				<img src="https://avatars.githubusercontent.com/u/76913187?s=72&u=b2f0c42464ab51f7ab27cd0abda86a1dda17eae8&v=4" width="24" alt="Avatar of Josoa886"> Josoa886
+			</a><br/>
+			Josoa Vonjiniaina
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/j_Josoa">j_Josoa</a></td>
+		<td>Antananarivo, Madagascar</td>
+		<td>895</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td>
 			<a href="https://github.com/j03-dev">
 				<img src="https://avatars.githubusercontent.com/u/63072781?s=72&u=6403988dcc1dcdc92348cd6222f7fff93c002949&v=4" width="24" alt="Avatar of j03-dev"> j03-dev
 			</a><br/>
@@ -402,19 +415,6 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar; Mahajanga 401</td>
 		<td>894</td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>
-			<a href="https://github.com/Josoa886">
-				<img src="https://avatars.githubusercontent.com/u/76913187?s=72&u=b2f0c42464ab51f7ab27cd0abda86a1dda17eae8&v=4" width="24" alt="Avatar of Josoa886"> Josoa886
-			</a><br/>
-			Josoa Vonjiniaina
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/j_Josoa">j_Josoa</a></td>
-		<td>Antananarivo, Madagascar</td>
-		<td>892</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -2720,6 +2720,19 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>202</td>
 		<td>
+			<a href="https://github.com/HaingoAdri">
+				<img src="https://avatars.githubusercontent.com/u/120141604?s=72&u=35b693124e1933eb65ebd501ea17e0be3dea0ea6&v=4" width="24" alt="Avatar of HaingoAdri"> HaingoAdri
+			</a><br/>
+			Haingo Adrienne
+		</td>
+		<td>No Company </td>
+		<td>No Twitter Username</td>
+		<td>Ivato, Antananarivo, Madagascar</td>
+		<td>95</td>
+	</tr>
+	<tr>
+		<td>203</td>
+		<td>
 			<a href="https://github.com/rakotomandimby">
 				<img src="https://avatars.githubusercontent.com/u/488088?s=72&u=8059abcfca18c1e2e54c7d68c472be018efa03e4&v=4" width="24" alt="Avatar of rakotomandimby"> rakotomandimby
 			</a><br/>
@@ -2731,7 +2744,7 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>94</td>
 	</tr>
 	<tr>
-		<td>203</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/EspereJonathan">
 				<img src="https://avatars.githubusercontent.com/u/100571567?s=72&u=331f1fa2a536f678c65f9540f43c097037800d37&v=4" width="24" alt="Avatar of EspereJonathan"> EspereJonathan
@@ -2741,19 +2754,6 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Haute Ecole D'informatique </td>
 		<td><a href="https://twitter.com/EspereJonathan">EspereJonathan</a></td>
 		<td>Antananarivo Madagascar</td>
-		<td>94</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
-			<a href="https://github.com/HaingoAdri">
-				<img src="https://avatars.githubusercontent.com/u/120141604?s=72&u=35b693124e1933eb65ebd501ea17e0be3dea0ea6&v=4" width="24" alt="Avatar of HaingoAdri"> HaingoAdri
-			</a><br/>
-			Haingo Adrienne
-		</td>
-		<td>No Company </td>
-		<td>No Twitter Username</td>
-		<td>Ivato, Antananarivo, Madagascar</td>
 		<td>94</td>
 	</tr>
 	<tr>
