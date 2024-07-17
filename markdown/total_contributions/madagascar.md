@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/7/17 1:55 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/7/17 2:02 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>205</td>
-		<td>13691</td>
+		<td>13692</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -1097,7 +1097,7 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>818</td>
-		<td>914</td>
+		<td>915</td>
 	</tr>
 	<tr>
 		<td>72</td>
@@ -1172,6 +1172,20 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>77</td>
 		<td>
+			<a href="https://github.com/zo-tahiana">
+				<img src="https://avatars.githubusercontent.com/u/15820473?s=72&u=a9332a0802d1bed8efe83a67b93a3391ed7d023b&v=4" width="24" alt="Avatar of zo-tahiana"> zo-tahiana
+			</a><br/>
+			Zo Tahiana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo / Madagascar</td>
+		<td>0</td>
+		<td>850</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td>
 			<a href="https://github.com/Faniry1015">
 				<img src="https://avatars.githubusercontent.com/u/126158754?s=72&u=e9cde881fda12e9bd8042490ddee844161f95a45&v=4" width="24" alt="Avatar of Faniry1015"> Faniry1015
 			</a><br/>
@@ -1182,20 +1196,6 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Antsirabe - Madagascar</td>
 		<td>550</td>
 		<td>850</td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>
-			<a href="https://github.com/zo-tahiana">
-				<img src="https://avatars.githubusercontent.com/u/15820473?s=72&u=a9332a0802d1bed8efe83a67b93a3391ed7d023b&v=4" width="24" alt="Avatar of zo-tahiana"> zo-tahiana
-			</a><br/>
-			Zo Tahiana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo / Madagascar</td>
-		<td>0</td>
-		<td>849</td>
 	</tr>
 	<tr>
 		<td>79</td>
@@ -1264,8 +1264,8 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Haute École D'informatique De<br/>Madagascar<br/></td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo Madagascar</td>
-		<td>783</td>
-		<td>783</td>
+		<td>784</td>
+		<td>784</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -2684,6 +2684,20 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>185</td>
 		<td>
+			<a href="https://github.com/monja119">
+				<img src="https://avatars.githubusercontent.com/u/108980820?s=72&u=d83c8b18b1edf627cae9cdb367d462e61fe70ffa&v=4" width="24" alt="Avatar of monja119"> monja119
+			</a><br/>
+			MONJA
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/monja_119">monja_119</a></td>
+		<td>Madagascar, Antananarivo, ambohimirary </td>
+		<td>65</td>
+		<td>327</td>
+	</tr>
+	<tr>
+		<td>186</td>
+		<td>
 			<a href="https://github.com/crystel1996">
 				<img src="https://avatars.githubusercontent.com/u/47183345?s=72&u=d4fd79975d520ce554e4048798af32786fd162a0&v=4" width="24" alt="Avatar of crystel1996"> crystel1996
 			</a><br/>
@@ -2696,7 +2710,7 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>326</td>
 	</tr>
 	<tr>
-		<td>186</td>
+		<td>187</td>
 		<td>
 			<a href="https://github.com/dimbi23">
 				<img src="https://avatars.githubusercontent.com/u/22920752?s=72&v=4" width="24" alt="Avatar of dimbi23"> dimbi23
@@ -2710,7 +2724,7 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>187</td>
+		<td>188</td>
 		<td>
 			<a href="https://github.com/matthieu-rmh">
 				<img src="https://avatars.githubusercontent.com/u/75609065?s=72&u=76a50f4045d03e50999ee9ea351ff0b5f8cfdf57&v=4" width="24" alt="Avatar of matthieu-rmh"> matthieu-rmh
@@ -2722,20 +2736,6 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Madagascar</td>
 		<td>72</td>
 		<td>323</td>
-	</tr>
-	<tr>
-		<td>188</td>
-		<td>
-			<a href="https://github.com/monja119">
-				<img src="https://avatars.githubusercontent.com/u/108980820?s=72&u=d83c8b18b1edf627cae9cdb367d462e61fe70ffa&v=4" width="24" alt="Avatar of monja119"> monja119
-			</a><br/>
-			MONJA
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/monja_119">monja_119</a></td>
-		<td>Madagascar, Antananarivo, ambohimirary </td>
-		<td>66</td>
-		<td>319</td>
 	</tr>
 	<tr>
 		<td>189</td>
@@ -3510,6 +3510,20 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>244</td>
 		<td>
+			<a href="https://github.com/Julio23F">
+				<img src="https://avatars.githubusercontent.com/u/122742762?s=72&u=02b36b21245dd88e39a9780a1dc4728f596c05b9&v=4" width="24" alt="Avatar of Julio23F"> Julio23F
+			</a><br/>
+			FARALAHY Julio
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar, Tananarive</td>
+		<td>192</td>
+		<td>192</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
 			<a href="https://github.com/Mbola-Fanantenana">
 				<img src="https://avatars.githubusercontent.com/u/53830708?s=72&u=9ec9566bf239c9a9be4e8de54d4d03b67a886679&v=4" width="24" alt="Avatar of Mbola-Fanantenana"> Mbola-Fanantenana
 			</a><br/>
@@ -3520,20 +3534,6 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Antananarivo</td>
 		<td>137</td>
 		<td>192</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
-			<a href="https://github.com/Julio23F">
-				<img src="https://avatars.githubusercontent.com/u/122742762?s=72&u=02b36b21245dd88e39a9780a1dc4728f596c05b9&v=4" width="24" alt="Avatar of Julio23F"> Julio23F
-			</a><br/>
-			FARALAHY Julio
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar, Tananarive</td>
-		<td>191</td>
-		<td>191</td>
 	</tr>
 	<tr>
 		<td>246</td>
@@ -4168,6 +4168,20 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>291</td>
 		<td>
+			<a href="https://github.com/anjanante">
+				<img src="https://avatars.githubusercontent.com/u/36764520?s=72&u=be5db8236ff97eed99fcf40abbd46bbe8316a48a&v=4" width="24" alt="Avatar of anjanante"> anjanante
+			</a><br/>
+			NanteDevy
+		</td>
+		<td>Teloiray </td>
+		<td><a href="https://twitter.com/nantenaina29">nantenaina29</a></td>
+		<td>Antananarivo/Madagascar</td>
+		<td>129</td>
+		<td>129</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
 			<a href="https://github.com/stephancj">
 				<img src="https://avatars.githubusercontent.com/u/16487725?s=72&u=32eff8af143cb15c5efd0935d2ca8ceb33e0de6d&v=4" width="24" alt="Avatar of stephancj"> stephancj
 			</a><br/>
@@ -4177,20 +4191,6 @@ There are `952 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar, Antananarivo</td>
 		<td>83</td>
-		<td>128</td>
-	</tr>
-	<tr>
-		<td>292</td>
-		<td>
-			<a href="https://github.com/anjanante">
-				<img src="https://avatars.githubusercontent.com/u/36764520?s=72&u=be5db8236ff97eed99fcf40abbd46bbe8316a48a&v=4" width="24" alt="Avatar of anjanante"> anjanante
-			</a><br/>
-			NanteDevy
-		</td>
-		<td>Teloiray </td>
-		<td><a href="https://twitter.com/nantenaina29">nantenaina29</a></td>
-		<td>Antananarivo/Madagascar</td>
-		<td>128</td>
 		<td>128</td>
 	</tr>
 	<tr>
