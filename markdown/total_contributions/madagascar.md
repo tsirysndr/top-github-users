@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/7/23 9:18 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/7/23 9:25 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>11943</td>
-		<td>17099</td>
+		<td>17100</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -257,7 +257,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/HarimSantatra">HarimSantatra</a></td>
 		<td>Antananarivo, Madagascar</td>
 		<td>399</td>
-		<td>2291</td>
+		<td>2292</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -2287,7 +2287,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
 		<td>42</td>
-		<td>422</td>
+		<td>424</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -6478,6 +6478,20 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>456</td>
 		<td>
+			<a href="https://github.com/RAMASY-HertinoEvenau">
+				<img src="https://avatars.githubusercontent.com/u/128811955?s=72&u=81708fb58ebd23341976d5fd5ad7367f4ec8dcca&v=4" width="24" alt="Avatar of RAMASY-HertinoEvenau"> RAMASY-HertinoEvenau
+			</a><br/>
+			RAMASY Hertino Evenau
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo </td>
+		<td>2</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>
 			<a href="https://github.com/RavoniainaDarisse">
 				<img src="https://avatars.githubusercontent.com/u/149136585?s=72&u=8ba06fc4d7134277c06a272948719959297f3cac&v=4" width="24" alt="Avatar of RavoniainaDarisse"> RavoniainaDarisse
 			</a><br/>
@@ -6490,7 +6504,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>457</td>
+		<td>458</td>
 		<td>
 			<a href="https://github.com/Tanosimboangy">
 				<img src="https://avatars.githubusercontent.com/u/60210323?s=72&u=bfb903e1371c525a4f13160f991d7d7f0d2557c0&v=4" width="24" alt="Avatar of Tanosimboangy"> Tanosimboangy
@@ -6501,20 +6515,6 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Mahanoro, Madagascar</td>
 		<td>34</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>458</td>
-		<td>
-			<a href="https://github.com/RAMASY-HertinoEvenau">
-				<img src="https://avatars.githubusercontent.com/u/128811955?s=72&u=81708fb58ebd23341976d5fd5ad7367f4ec8dcca&v=4" width="24" alt="Avatar of RAMASY-HertinoEvenau"> RAMASY-HertinoEvenau
-			</a><br/>
-			RAMASY Hertino Evenau
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo </td>
-		<td>2</td>
 		<td>34</td>
 	</tr>
 	<tr>
