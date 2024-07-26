@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/7/26 11:47 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/7/26 11:55 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>197</td>
-		<td>13859</td>
+		<td>13863</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -864,6 +864,20 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>55</td>
 		<td>
+			<a href="https://github.com/titamrtn">
+				<img src="https://avatars.githubusercontent.com/u/5078563?s=72&u=dcc078f1ab4b312fc536d8b4b75c255342be4f4b&v=4" width="24" alt="Avatar of titamrtn"> titamrtn
+			</a><br/>
+			RAJAONAH Nandrianina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
+		<td>1</td>
+		<td>1099</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td>
 			<a href="https://github.com/FandresenaJasmin">
 				<img src="https://avatars.githubusercontent.com/u/38452556?s=72&u=35f0c9be482aed35e0c67761e4b2b5ea1045b31b&v=4" width="24" alt="Avatar of FandresenaJasmin"> FandresenaJasmin
 			</a><br/>
@@ -874,20 +888,6 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Madagascar</td>
 		<td>11</td>
 		<td>1098</td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>
-			<a href="https://github.com/titamrtn">
-				<img src="https://avatars.githubusercontent.com/u/5078563?s=72&u=dcc078f1ab4b312fc536d8b4b75c255342be4f4b&v=4" width="24" alt="Avatar of titamrtn"> titamrtn
-			</a><br/>
-			RAJAONAH Nandrianina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
-		<td>1</td>
-		<td>1097</td>
 	</tr>
 	<tr>
 		<td>57</td>
@@ -2936,20 +2936,6 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>203</td>
 		<td>
-			<a href="https://github.com/Notoavina3X">
-				<img src="https://avatars.githubusercontent.com/u/72644373?s=72&u=504a7340ebbb1269558b6cb596bd8c2c31230251&v=4" width="24" alt="Avatar of Notoavina3X"> Notoavina3X
-			</a><br/>
-			Notoavina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>209</td>
-		<td>280</td>
-	</tr>
-	<tr>
-		<td>204</td>
-		<td>
 			<a href="https://github.com/Tiafeno">
 				<img src="https://avatars.githubusercontent.com/u/1378524?s=72&u=daed8dba79c8766e7caf6bdef5e70d55a459b474&v=4" width="24" alt="Avatar of Tiafeno"> Tiafeno
 			</a><br/>
@@ -2962,7 +2948,7 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>280</td>
 	</tr>
 	<tr>
-		<td>205</td>
+		<td>204</td>
 		<td>
 			<a href="https://github.com/lahatra3">
 				<img src="https://avatars.githubusercontent.com/u/89080737?s=72&u=305f363d3fbcf9bdf8984597162fe7bbf613a508&v=4" width="24" alt="Avatar of lahatra3"> lahatra3
@@ -2974,6 +2960,20 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Madagascar-Antananarivo</td>
 		<td>197</td>
 		<td>279</td>
+	</tr>
+	<tr>
+		<td>205</td>
+		<td>
+			<a href="https://github.com/Notoavina3X">
+				<img src="https://avatars.githubusercontent.com/u/72644373?s=72&u=504a7340ebbb1269558b6cb596bd8c2c31230251&v=4" width="24" alt="Avatar of Notoavina3X"> Notoavina3X
+			</a><br/>
+			Notoavina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>207</td>
+		<td>278</td>
 	</tr>
 	<tr>
 		<td>206</td>
@@ -3678,6 +3678,20 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>256</td>
 		<td>
+			<a href="https://github.com/juven0">
+				<img src="https://avatars.githubusercontent.com/u/68611244?s=72&u=4df15328089afd57eb67c5e0c34b0a022bafa60d&v=4" width="24" alt="Avatar of juven0"> juven0
+			</a><br/>
+			bocquelin eddy juveno
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar antsirabe</td>
+		<td>164</td>
+		<td>183</td>
+	</tr>
+	<tr>
+		<td>257</td>
+		<td>
 			<a href="https://github.com/radoheritiana">
 				<img src="https://avatars.githubusercontent.com/u/74655629?s=72&u=0e36dbfb47f1ace0093d98d9c2ebb6fd8b0d8b8a&v=4" width="24" alt="Avatar of radoheritiana"> radoheritiana
 			</a><br/>
@@ -3687,20 +3701,6 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>182</td>
-		<td>182</td>
-	</tr>
-	<tr>
-		<td>257</td>
-		<td>
-			<a href="https://github.com/juven0">
-				<img src="https://avatars.githubusercontent.com/u/68611244?s=72&u=4df15328089afd57eb67c5e0c34b0a022bafa60d&v=4" width="24" alt="Avatar of juven0"> juven0
-			</a><br/>
-			bocquelin eddy juveno
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar antsirabe</td>
-		<td>163</td>
 		<td>182</td>
 	</tr>
 	<tr>
