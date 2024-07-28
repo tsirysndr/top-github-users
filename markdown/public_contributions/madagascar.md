@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/7/28 7:13 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/7/28 7:20 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -419,6 +419,19 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>25</td>
 		<td>
+			<a href="https://github.com/hasinajy">
+				<img src="https://avatars.githubusercontent.com/u/164903562?s=72&u=e2da46768d2fc7b48c8fa12dea071449dd5139fb&v=4" width="24" alt="Avatar of hasinajy"> hasinajy
+			</a><br/>
+			Hasina JY
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
+		<td>853</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td>
 			<a href="https://github.com/micael-jerry">
 				<img src="https://avatars.githubusercontent.com/u/99274861?s=72&u=6179e5900759d6cbf7a19b956ec8a6099b843558&v=4" width="24" alt="Avatar of micael-jerry"> micael-jerry
 			</a><br/>
@@ -428,19 +441,6 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo - Madagascar</td>
 		<td>825</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/hasinajy">
-				<img src="https://avatars.githubusercontent.com/u/164903562?s=72&u=e2da46768d2fc7b48c8fa12dea071449dd5139fb&v=4" width="24" alt="Avatar of hasinajy"> hasinajy
-			</a><br/>
-			Hasina JY
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
-		<td>824</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -973,7 +973,7 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
-		<td>346</td>
+		<td>347</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1212,6 +1212,19 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>86</td>
 		<td>
+			<a href="https://github.com/ony-boom">
+				<img src="https://avatars.githubusercontent.com/u/84435474?s=72&u=85983bddc8d646ca3cffc653daa379bf3a5ec057&v=4" width="24" alt="Avatar of ony-boom"> ony-boom
+			</a><br/>
+			Ony
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo - Madagascar</td>
+		<td>279</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td>
 			<a href="https://github.com/Ndrihanja">
 				<img src="https://avatars.githubusercontent.com/u/96313543?s=72&u=c6307520681e3ea47bc2f61f13a345a3083ff7fb&v=4" width="24" alt="Avatar of Ndrihanja"> Ndrihanja
 			</a><br/>
@@ -1221,19 +1234,6 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>278</td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>
-			<a href="https://github.com/ony-boom">
-				<img src="https://avatars.githubusercontent.com/u/84435474?s=72&u=85983bddc8d646ca3cffc653daa379bf3a5ec057&v=4" width="24" alt="Avatar of ony-boom"> ony-boom
-			</a><br/>
-			Ony
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo - Madagascar</td>
-		<td>277</td>
 	</tr>
 	<tr>
 		<td>88</td>
