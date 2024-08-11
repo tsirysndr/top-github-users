@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2024/8/11 4:18 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2024/8/11 4:26 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -11391,6 +11391,19 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>869</td>
 		<td>
+			<a href="https://github.com/Rbn-tok">
+				<img src="https://avatars.githubusercontent.com/u/107467257?s=72&u=daad703b33d4f5d8619d974b72d6b052a86f9201&v=4" width="24" alt="Avatar of Rbn-tok"> Rbn-tok
+			</a><br/>
+			Itokiana RABENANTENAINA 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>870</td>
+		<td>
 			<a href="https://github.com/tonioAlbert">
 				<img src="https://avatars.githubusercontent.com/u/91524256?s=72&v=4" width="24" alt="Avatar of tonioAlbert"> tonioAlbert
 			</a><br/>
@@ -11402,25 +11415,12 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>870</td>
+		<td>871</td>
 		<td>
 			<a href="https://github.com/FABIOLApro">
 				<img src="https://avatars.githubusercontent.com/u/164487486?s=72&v=4" width="24" alt="Avatar of FABIOLApro"> FABIOLApro
 			</a><br/>
 			Student in dev
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>871</td>
-		<td>
-			<a href="https://github.com/Rbn-tok">
-				<img src="https://avatars.githubusercontent.com/u/107467257?s=72&u=daad703b33d4f5d8619d974b72d6b052a86f9201&v=4" width="24" alt="Avatar of Rbn-tok"> Rbn-tok
-			</a><br/>
-			Itokiana RABENANTENAINA 
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
