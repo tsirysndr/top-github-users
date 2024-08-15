@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/8/15 8:29 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/8/15 8:36 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2404,6 +2404,20 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/matthieu-rmh">
+				<img src="https://avatars.githubusercontent.com/u/75609065?s=72&u=76a50f4045d03e50999ee9ea351ff0b5f8cfdf57&v=4" width="24" alt="Avatar of matthieu-rmh"> matthieu-rmh
+			</a><br/>
+			Matthieu Heritiana
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/matthieudesu">matthieudesu</a></td>
+		<td>Madagascar</td>
+		<td>112</td>
+		<td>377</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/rinelfi-git">
 				<img src="https://avatars.githubusercontent.com/u/65276535?s=72&v=4" width="24" alt="Avatar of rinelfi-git"> rinelfi-git
 			</a><br/>
@@ -2414,20 +2428,6 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Fianarantsoa</td>
 		<td>159</td>
 		<td>377</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/matthieu-rmh">
-				<img src="https://avatars.githubusercontent.com/u/75609065?s=72&u=76a50f4045d03e50999ee9ea351ff0b5f8cfdf57&v=4" width="24" alt="Avatar of matthieu-rmh"> matthieu-rmh
-			</a><br/>
-			Matthieu Heritiana
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/matthieudesu">matthieudesu</a></td>
-		<td>Madagascar</td>
-		<td>112</td>
-		<td>376</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -3076,20 +3076,6 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>213</td>
 		<td>
-			<a href="https://github.com/Jehovanie">
-				<img src="https://avatars.githubusercontent.com/u/78733251?s=72&u=8d17aaf00285139ec62899b58e0527921d3c6863&v=4" width="24" alt="Avatar of Jehovanie"> Jehovanie
-			</a><br/>
-			Jehovanie
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>252</td>
-		<td>252</td>
-	</tr>
-	<tr>
-		<td>214</td>
-		<td>
 			<a href="https://github.com/heiherilala">
 				<img src="https://avatars.githubusercontent.com/u/103981849?s=72&u=ff2120e0c856e644f35d713de7a0677731f915fd&v=4" width="24" alt="Avatar of heiherilala"> heiherilala
 			</a><br/>
@@ -3099,6 +3085,20 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>209</td>
+		<td>253</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
+			<a href="https://github.com/Jehovanie">
+				<img src="https://avatars.githubusercontent.com/u/78733251?s=72&u=8d17aaf00285139ec62899b58e0527921d3c6863&v=4" width="24" alt="Avatar of Jehovanie"> Jehovanie
+			</a><br/>
+			Jehovanie
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>252</td>
 		<td>252</td>
 	</tr>
 	<tr>
