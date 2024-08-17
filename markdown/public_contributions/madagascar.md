@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/8/17 7:05 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/8/17 7:12 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2395,6 +2395,19 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>177</td>
 		<td>
+			<a href="https://github.com/sylvio-jerry">
+				<img src="https://avatars.githubusercontent.com/u/85332961?s=72&u=4694c2c78bac51117eced0314f4e1cc541a596a3&v=4" width="24" alt="Avatar of sylvio-jerry"> sylvio-jerry
+			</a><br/>
+			RAJAONARIVONY Sylvio Jerry 
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>117</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
 			<a href="https://github.com/HaingoAdri">
 				<img src="https://avatars.githubusercontent.com/u/120141604?s=72&u=a1b7ae73f811b050dfff9e4d39d0dd27f53ee7fd&v=4" width="24" alt="Avatar of HaingoAdri"> HaingoAdri
 			</a><br/>
@@ -2406,7 +2419,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/RazTahiry">
 				<img src="https://avatars.githubusercontent.com/u/136195254?s=72&u=8237232ac2212d86813f6e16463e32566fa44e98&v=4" width="24" alt="Avatar of RazTahiry"> RazTahiry
@@ -2417,19 +2430,6 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Fianarantsoa, Madagascar</td>
 		<td>117</td>
-	</tr>
-	<tr>
-		<td>179</td>
-		<td>
-			<a href="https://github.com/sylvio-jerry">
-				<img src="https://avatars.githubusercontent.com/u/85332961?s=72&u=4694c2c78bac51117eced0314f4e1cc541a596a3&v=4" width="24" alt="Avatar of sylvio-jerry"> sylvio-jerry
-			</a><br/>
-			RAJAONARIVONY Sylvio Jerry 
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>116</td>
 	</tr>
 	<tr>
 		<td>180</td>
