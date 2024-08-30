@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/8/30 7:44 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/8/30 7:51 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>157</td>
-		<td>14043</td>
+		<td>14044</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>@fluentci-io </td>
 		<td><a href="https://twitter.com/tsiry_sndr">tsiry_sndr</a></td>
 		<td>Antananarivo / Madagascar</td>
-		<td>6878</td>
-		<td>7876</td>
+		<td>6879</td>
+		<td>7877</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -1125,7 +1125,7 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/miharyjoel">miharyjoel</a></td>
 		<td>Madagascar</td>
 		<td>873</td>
-		<td>921</td>
+		<td>922</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -5540,6 +5540,20 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>389</td>
 		<td>
+			<a href="https://github.com/Orlando0309">
+				<img src="https://avatars.githubusercontent.com/u/79406939?s=72&u=26bb012ade6308ff845577050065521257622286&v=4" width="24" alt="Avatar of Orlando0309"> Orlando0309
+			</a><br/>
+			Orlando Miarintsoa Andrianay
+		</td>
+		<td>It University </td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo</td>
+		<td>65</td>
+		<td>65</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
 			<a href="https://github.com/naojulius">
 				<img src="https://avatars.githubusercontent.com/u/32788004?s=72&u=735aea358d8e4aef15a0962194603aacd7e5e66c&v=4" width="24" alt="Avatar of naojulius"> naojulius
 			</a><br/>
@@ -5552,7 +5566,7 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>64</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a href="https://github.com/michael-maheriniaina">
 				<img src="https://avatars.githubusercontent.com/u/53352445?s=72&u=5aa1d683dde46a82b413427684bd04caf4cdf9ef&v=4" width="24" alt="Avatar of michael-maheriniaina"> michael-maheriniaina
@@ -5563,20 +5577,6 @@ There are `949 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>0</td>
-		<td>64</td>
-	</tr>
-	<tr>
-		<td>391</td>
-		<td>
-			<a href="https://github.com/Orlando0309">
-				<img src="https://avatars.githubusercontent.com/u/79406939?s=72&u=26bb012ade6308ff845577050065521257622286&v=4" width="24" alt="Avatar of Orlando0309"> Orlando0309
-			</a><br/>
-			Orlando Miarintsoa Andrianay
-		</td>
-		<td>It University </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo</td>
-		<td>64</td>
 		<td>64</td>
 	</tr>
 	<tr>
