@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2024/9/7 7:07 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2024/9/7 7:14 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -5463,19 +5463,6 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>413</td>
 		<td>
-			<a href="https://github.com/ansaroll">
-				<img src="https://avatars.githubusercontent.com/u/69417993?s=72&u=b435912b2ed92ac307485f3b8fc478b301ea5dae&v=4" width="24" alt="Avatar of ansaroll"> ansaroll
-			</a><br/>
-			Ansaroll
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>414</td>
-		<td>
 			<a href="https://github.com/eric-fahendrena">
 				<img src="https://avatars.githubusercontent.com/u/139057946?s=72&u=f9ec6a06ce8d7717da87af457f51aa7739248b62&v=4" width="24" alt="Avatar of eric-fahendrena"> eric-fahendrena
 			</a><br/>
@@ -5484,6 +5471,19 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>301 Fianarantsoa, Madagascar</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>414</td>
+		<td>
+			<a href="https://github.com/ansaroll">
+				<img src="https://avatars.githubusercontent.com/u/69417993?s=72&u=b435912b2ed92ac307485f3b8fc478b301ea5dae&v=4" width="24" alt="Avatar of ansaroll"> ansaroll
+			</a><br/>
+			Ansaroll
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo</td>
 		<td>5</td>
 	</tr>
 	<tr>
@@ -11313,12 +11313,12 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>863</td>
 		<td>
-			<a href="https://github.com/andrandrainanathalie">
-				<img src="https://avatars.githubusercontent.com/u/35864314?s=72&u=5295606facc6156a410e7fd6f9866f31e60de16a&v=4" width="24" alt="Avatar of andrandrainanathalie"> andrandrainanathalie
+			<a href="https://github.com/manitrafitia">
+				<img src="https://avatars.githubusercontent.com/u/111063790?s=72&u=493d506211a7241bb4be431138ce7652c9e551fa&v=4" width="24" alt="Avatar of manitrafitia"> manitrafitia
 			</a><br/>
-			SOLOFOANDRANDRAINA Bienvenue Nathalie
+			Fitia
 		</td>
-		<td>Comdata </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
 		<td>1</td>
@@ -11326,12 +11326,12 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>864</td>
 		<td>
-			<a href="https://github.com/manitrafitia">
-				<img src="https://avatars.githubusercontent.com/u/111063790?s=72&u=493d506211a7241bb4be431138ce7652c9e551fa&v=4" width="24" alt="Avatar of manitrafitia"> manitrafitia
+			<a href="https://github.com/andrandrainanathalie">
+				<img src="https://avatars.githubusercontent.com/u/35864314?s=72&u=5295606facc6156a410e7fd6f9866f31e60de16a&v=4" width="24" alt="Avatar of andrandrainanathalie"> andrandrainanathalie
 			</a><br/>
-			Fitia
+			SOLOFOANDRANDRAINA Bienvenue Nathalie
 		</td>
-		<td>No Company</td>
+		<td>Comdata </td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
 		<td>1</td>
