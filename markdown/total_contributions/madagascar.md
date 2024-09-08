@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/9/8 6:37 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/9/8 6:45 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -7108,6 +7108,20 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>501</td>
 		<td>
+			<a href="https://github.com/StephanotZaf">
+				<img src="https://avatars.githubusercontent.com/u/48480428?s=72&u=e068688d68281f7d384746857250c06c5f78a1e4&v=4" width="24" alt="Avatar of StephanotZaf"> StephanotZaf
+			</a><br/>
+			Stephanot Zaf
+		</td>
+		<td>Moralogiq Sarl </td>
+		<td>No Twitter Username</td>
+		<td>Fianarantsoa</td>
+		<td>24</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
 			<a href="https://github.com/RATOLOJANA">
 				<img src="https://avatars.githubusercontent.com/u/128042673?s=72&u=79f298f996e34cf39d57f5f99d415fb45a92e99a&v=4" width="24" alt="Avatar of RATOLOJANA"> RATOLOJANA
 			</a><br/>
@@ -7120,7 +7134,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a href="https://github.com/fanerami">
 				<img src="https://avatars.githubusercontent.com/u/39269747?s=72&v=4" width="24" alt="Avatar of fanerami"> fanerami
@@ -7134,7 +7148,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>503</td>
+		<td>504</td>
 		<td>
 			<a href="https://github.com/root-andry">
 				<img src="https://avatars.githubusercontent.com/u/62354200?s=72&u=818d4775bbcb88d83f65eb9e996c0dca4957e50e&v=4" width="24" alt="Avatar of root-andry"> root-andry
@@ -7148,7 +7162,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>505</td>
 		<td>
 			<a href="https://github.com/Alphonse-code">
 				<img src="https://avatars.githubusercontent.com/u/66417393?s=72&u=166b8b5ef64b1606f01b5f2c2a5bca7badde2cfe&v=4" width="24" alt="Avatar of Alphonse-code"> Alphonse-code
@@ -7162,7 +7176,7 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>506</td>
 		<td>
 			<a href="https://github.com/ZrNarison">
 				<img src="https://avatars.githubusercontent.com/u/77263758?s=72&u=0ffcbb7a9828f4b92a3a9628c5e7b2f753130ddb&v=4" width="24" alt="Avatar of ZrNarison"> ZrNarison
@@ -7174,20 +7188,6 @@ There are `950 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>IHOSY - FIANARANTSOA - MADAGASCAR</td>
 		<td>24</td>
 		<td>24</td>
-	</tr>
-	<tr>
-		<td>506</td>
-		<td>
-			<a href="https://github.com/StephanotZaf">
-				<img src="https://avatars.githubusercontent.com/u/48480428?s=72&u=e068688d68281f7d384746857250c06c5f78a1e4&v=4" width="24" alt="Avatar of StephanotZaf"> StephanotZaf
-			</a><br/>
-			Stephanot Zaf
-		</td>
-		<td>Moralogiq Sarl </td>
-		<td>No Twitter Username</td>
-		<td>Fianarantsoa</td>
-		<td>23</td>
-		<td>23</td>
 	</tr>
 	<tr>
 		<td>507</td>
