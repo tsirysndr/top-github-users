@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2024/9/9 9:49 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2024/9/9 9:56 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1043,19 +1043,6 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>73</td>
 		<td>
-			<a href="https://github.com/Tsirimaholy">
-				<img src="https://avatars.githubusercontent.com/u/72337259?s=72&v=4" width="24" alt="Avatar of Tsirimaholy"> Tsirimaholy
-			</a><br/>
-			P3RM1_D3N1ED
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/tsirimaholy">tsirimaholy</a></td>
-		<td>Antananarivo Madagasikara</td>
-		<td>25</td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>
 			<a href="https://github.com/harivonyR">
 				<img src="https://avatars.githubusercontent.com/u/33831004?s=72&u=b9b55fd93f2d6615c0f7b3287b192287920ec2e3&v=4" width="24" alt="Avatar of harivonyR"> harivonyR
 			</a><br/>
@@ -1067,7 +1054,7 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>75</td>
+		<td>74</td>
 		<td>
 			<a href="https://github.com/elsifaka">
 				<img src="https://avatars.githubusercontent.com/u/13227?s=72&v=4" width="24" alt="Avatar of elsifaka"> elsifaka
@@ -1080,7 +1067,7 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>76</td>
+		<td>75</td>
 		<td>
 			<a href="https://github.com/AshCript">
 				<img src="https://avatars.githubusercontent.com/u/33932294?s=72&u=65c23b7932ac0071cc37c63b498a75b79ac6975b&v=4" width="24" alt="Avatar of AshCript"> AshCript
@@ -1093,7 +1080,7 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>77</td>
+		<td>76</td>
 		<td>
 			<a href="https://github.com/josoavj">
 				<img src="https://avatars.githubusercontent.com/u/76913187?s=72&u=b2f0c42464ab51f7ab27cd0abda86a1dda17eae8&v=4" width="24" alt="Avatar of josoavj"> josoavj
@@ -1106,7 +1093,7 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>78</td>
+		<td>77</td>
 		<td>
 			<a href="https://github.com/Unviray">
 				<img src="https://avatars.githubusercontent.com/u/44167149?s=72&u=657c6a7ef22fd9f675b7b90059e0343fa94a763a&v=4" width="24" alt="Avatar of Unviray"> Unviray
@@ -1119,7 +1106,7 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>79</td>
+		<td>78</td>
 		<td>
 			<a href="https://github.com/c3k4ah">
 				<img src="https://avatars.githubusercontent.com/u/73609825?s=72&u=b2cfceca1dc3b810f64705ddce1dd1fb190df249&v=4" width="24" alt="Avatar of c3k4ah"> c3k4ah
@@ -1129,6 +1116,19 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>@iteam-s  </td>
 		<td>No Twitter Username</td>
 		<td>Madagascar, Mahanoro</td>
+		<td>24</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td>
+			<a href="https://github.com/Tsirimaholy">
+				<img src="https://avatars.githubusercontent.com/u/72337259?s=72&v=4" width="24" alt="Avatar of Tsirimaholy"> Tsirimaholy
+			</a><br/>
+			P3RM1_D3N1ED
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/tsirimaholy">tsirimaholy</a></td>
+		<td>Antananarivo Madagasikara</td>
 		<td>24</td>
 	</tr>
 	<tr>
@@ -8128,6 +8128,19 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>618</td>
 		<td>
+			<a href="https://github.com/radiam24">
+				<img src="https://avatars.githubusercontent.com/u/151531699?s=72&u=58ee4126eeacc67a5c9224eee3b08b55913939c3&v=4" width="24" alt="Avatar of radiam24"> radiam24
+			</a><br/>
+			Diamant ANDRINIAINA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo Madagascar</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
 			<a href="https://github.com/FaliheryJonah">
 				<img src="https://avatars.githubusercontent.com/u/67241628?s=72&u=723227d9742f8e05c37e647415d101cb1f8adfab&v=4" width="24" alt="Avatar of FaliheryJonah"> FaliheryJonah
 			</a><br/>
@@ -8139,7 +8152,7 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>620</td>
 		<td>
 			<a href="https://github.com/ChristianMDG">
 				<img src="https://avatars.githubusercontent.com/u/170805449?s=72&u=cfc6c1dd90e75dd38d25cbda755fd65875ee548f&v=4" width="24" alt="Avatar of ChristianMDG"> ChristianMDG
@@ -8147,19 +8160,6 @@ There are `951 users`  in Madagascar. You need at least `1 followers` to be on t
 			OverLord
 		</td>
 		<td>Passerelles Numérique Madagascar </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo Madagascar</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>620</td>
-		<td>
-			<a href="https://github.com/radiam24">
-				<img src="https://avatars.githubusercontent.com/u/151531699?s=72&u=58ee4126eeacc67a5c9224eee3b08b55913939c3&v=4" width="24" alt="Avatar of radiam24"> radiam24
-			</a><br/>
-			Diamant ANDRINIAINA
-		</td>
-		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo Madagascar</td>
 		<td>3</td>
