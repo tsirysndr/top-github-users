@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2024/9/30 5:46 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2024/9/30 5:53 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2434,19 +2434,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>180</td>
 		<td>
-			<a href="https://github.com/LegendaryGhost">
-				<img src="https://avatars.githubusercontent.com/u/108069670?s=72&u=9091400dbaee991825ca8208cb0a2913ab33ba50&v=4" width="24" alt="Avatar of LegendaryGhost"> LegendaryGhost
-			</a><br/>
-			Rihantiana Mbolatsiory
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>181</td>
-		<td>
 			<a href="https://github.com/MaxR522">
 				<img src="https://avatars.githubusercontent.com/u/41254151?s=72&u=d8bc322d1cb7796ce1f945dc48687ddbdcfbbc8f&v=4" width="24" alt="Avatar of MaxR522"> MaxR522
 			</a><br/>
@@ -2455,6 +2442,19 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Mario </td>
 		<td><a href="https://twitter.com/RanjaMario">RanjaMario</a></td>
 		<td>Madagascar</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>181</td>
+		<td>
+			<a href="https://github.com/LegendaryGhost">
+				<img src="https://avatars.githubusercontent.com/u/108069670?s=72&u=9091400dbaee991825ca8208cb0a2913ab33ba50&v=4" width="24" alt="Avatar of LegendaryGhost"> LegendaryGhost
+			</a><br/>
+			Rihantiana Mbolatsiory
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
 		<td>13</td>
 	</tr>
 	<tr>
@@ -9298,19 +9298,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>708</td>
 		<td>
-			<a href="https://github.com/andydevlabs">
-				<img src="https://avatars.githubusercontent.com/u/116197530?s=72&u=4caae0dcee8111c38bdc2df70c9c5c9d13be663f&v=4" width="24" alt="Avatar of andydevlabs"> andydevlabs
-			</a><br/>
-			Andy A.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>709</td>
-		<td>
 			<a href="https://github.com/thinotmandresy">
 				<img src="https://avatars.githubusercontent.com/u/126775438?s=72&u=48e1f13de4e8b2582639f397d65ed60de252c8ce&v=4" width="24" alt="Avatar of thinotmandresy"> thinotmandresy
 			</a><br/>
@@ -9319,6 +9306,19 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>709</td>
+		<td>
+			<a href="https://github.com/andydevlabs">
+				<img src="https://avatars.githubusercontent.com/u/116197530?s=72&u=4caae0dcee8111c38bdc2df70c9c5c9d13be663f&v=4" width="24" alt="Avatar of andydevlabs"> andydevlabs
+			</a><br/>
+			Andy A.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
 		<td>2</td>
 	</tr>
 	<tr>
