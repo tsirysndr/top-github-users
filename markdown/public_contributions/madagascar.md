@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/10/6 9:57 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/10/6 10:05 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2642,6 +2642,19 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>196</td>
 		<td>
+			<a href="https://github.com/matthieu-rmh">
+				<img src="https://avatars.githubusercontent.com/u/75609065?s=72&u=8fa83bf5f04ff119d4dd1dc414f390880524cc7f&v=4" width="24" alt="Avatar of matthieu-rmh"> matthieu-rmh
+			</a><br/>
+			Matthieu Heritiana
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/matthieudesu">matthieudesu</a></td>
+		<td>Madagascar</td>
+		<td>107</td>
+	</tr>
+	<tr>
+		<td>197</td>
+		<td>
 			<a href="https://github.com/tsiresymila1">
 				<img src="https://avatars.githubusercontent.com/u/40858886?s=72&u=f7cd3a764b79933391f8b8491891cbcd25628c16&v=4" width="24" alt="Avatar of tsiresymila1"> tsiresymila1
 			</a><br/>
@@ -2653,7 +2666,7 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>198</td>
 		<td>
 			<a href="https://github.com/bodo-hugo-barwich">
 				<img src="https://avatars.githubusercontent.com/u/42355798?s=72&u=74378c5f11f66dd66a3e60411c073eb3d0a7b073&v=4" width="24" alt="Avatar of bodo-hugo-barwich"> bodo-hugo-barwich
@@ -2666,7 +2679,7 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>107</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>199</td>
 		<td>
 			<a href="https://github.com/hajarakotozafy">
 				<img src="https://avatars.githubusercontent.com/u/104838336?s=72&u=a5e6a48442d1a9b0f8da9291517ccb2f83cdf691&v=4" width="24" alt="Avatar of hajarakotozafy"> hajarakotozafy
@@ -2679,7 +2692,7 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>200</td>
 		<td>
 			<a href="https://github.com/NARIHY">
 				<img src="https://avatars.githubusercontent.com/u/113253405?s=72&u=47af900b75bcb1dcad6da3296ed4817cd7b553e8&v=4" width="24" alt="Avatar of NARIHY"> NARIHY
@@ -2692,7 +2705,7 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>200</td>
+		<td>201</td>
 		<td>
 			<a href="https://github.com/Andohenri">
 				<img src="https://avatars.githubusercontent.com/u/111121130?s=72&u=732a8b27fdd33bfd42924452f5c4177b2d7f0991&v=4" width="24" alt="Avatar of Andohenri"> Andohenri
@@ -2703,19 +2716,6 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>106</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a href="https://github.com/matthieu-rmh">
-				<img src="https://avatars.githubusercontent.com/u/75609065?s=72&u=8fa83bf5f04ff119d4dd1dc414f390880524cc7f&v=4" width="24" alt="Avatar of matthieu-rmh"> matthieu-rmh
-			</a><br/>
-			Matthieu Heritiana
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/matthieudesu">matthieudesu</a></td>
-		<td>Madagascar</td>
-		<td>105</td>
 	</tr>
 	<tr>
 		<td>202</td>
