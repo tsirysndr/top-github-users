@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2024/10/22 1:16 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2024/10/22 1:23 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -6581,19 +6581,6 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>499</td>
 		<td>
-			<a href="https://github.com/RaJharit77">
-				<img src="https://avatars.githubusercontent.com/u/151726446?s=72&u=f689d25f98e8fc0cf51f8474af468f1369eb27cb&v=4" width="24" alt="Avatar of RaJharit77"> RaJharit77
-			</a><br/>
-			Rajoharitiana Ainasoa Raharison
-		</td>
-		<td>Haute École D'informatique -<br/>Hei<br/></td>
-		<td><a href="https://twitter.com/Rajharit_r77">Rajharit_r77</a></td>
-		<td>Antananarivo</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>500</td>
-		<td>
 			<a href="https://github.com/mtovonandrasana">
 				<img src="https://avatars.githubusercontent.com/u/22831854?s=72&u=4cef549e5ea282e1944a9b967ae9ff285a94208e&v=4" width="24" alt="Avatar of mtovonandrasana"> mtovonandrasana
 			</a><br/>
@@ -6602,6 +6589,19 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/MTovonandrasana">MTovonandrasana</a></td>
 		<td>Madagascar</td>
+		<td>4</td>
+	</tr>
+	<tr>
+		<td>500</td>
+		<td>
+			<a href="https://github.com/RaJharit77">
+				<img src="https://avatars.githubusercontent.com/u/151726446?s=72&u=f689d25f98e8fc0cf51f8474af468f1369eb27cb&v=4" width="24" alt="Avatar of RaJharit77"> RaJharit77
+			</a><br/>
+			Rajoharitiana Ainasoa Raharison
+		</td>
+		<td>Haute École D'informatique -<br/>Hei<br/></td>
+		<td><a href="https://twitter.com/Rajharit_r77">Rajharit_r77</a></td>
+		<td>Antananarivo</td>
 		<td>4</td>
 	</tr>
 	<tr>
@@ -8193,19 +8193,6 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>623</td>
 		<td>
-			<a href="https://github.com/PsychoticHaha">
-				<img src="https://avatars.githubusercontent.com/u/139187247?s=72&u=9712e9ebdbaf7045560fd98a562863c7ecff7025&v=4" width="24" alt="Avatar of PsychoticHaha"> PsychoticHaha
-			</a><br/>
-			Fanasina Ramalandimanana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>624</td>
-		<td>
 			<a href="https://github.com/ChristianMDG">
 				<img src="https://avatars.githubusercontent.com/u/170805449?s=72&u=cfc6c1dd90e75dd38d25cbda755fd65875ee548f&v=4" width="24" alt="Avatar of ChristianMDG"> ChristianMDG
 			</a><br/>
@@ -8214,6 +8201,19 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Passerelles Numérique Madagascar </td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo Madagascar</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>624</td>
+		<td>
+			<a href="https://github.com/PsychoticHaha">
+				<img src="https://avatars.githubusercontent.com/u/139187247?s=72&u=9712e9ebdbaf7045560fd98a562863c7ecff7025&v=4" width="24" alt="Avatar of PsychoticHaha"> PsychoticHaha
+			</a><br/>
+			Fanasina Ramalandimanana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
 		<td>3</td>
 	</tr>
 	<tr>
