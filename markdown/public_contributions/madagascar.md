@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/10/28 3:55 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/10/28 4:03 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -375,7 +375,7 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Cs Student At Eni<br/></td>
 		<td><a href="https://twitter.com/NtsoaHatix31978">NtsoaHatix31978</a></td>
 		<td>Fianarantsoa, Madagascar</td>
-		<td>969</td>
+		<td>971</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -1017,23 +1017,23 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>71</td>
 		<td>
-			<a href="https://github.com/Rjonathan03t">
-				<img src="https://avatars.githubusercontent.com/u/127602265?s=72&u=e968d1535d439dc7c790c3a4fca4160934ecd377&v=4" width="24" alt="Avatar of Rjonathan03t"> Rjonathan03t
-			</a><br/>
-			Jonathan Rajao
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>352</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
 			<a href="https://github.com/Antsa-Fi30">
 				<img src="https://avatars.githubusercontent.com/u/115356983?s=72&u=c3fba3a619f76eb6c70b9dc68c4749eaf75412c8&v=4" width="24" alt="Avatar of Antsa-Fi30"> Antsa-Fi30
 			</a><br/>
 			Antsa
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>353</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a href="https://github.com/Rjonathan03t">
+				<img src="https://avatars.githubusercontent.com/u/127602265?s=72&u=e968d1535d439dc7c790c3a4fca4160934ecd377&v=4" width="24" alt="Avatar of Rjonathan03t"> Rjonathan03t
+			</a><br/>
+			Jonathan Rajao
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
