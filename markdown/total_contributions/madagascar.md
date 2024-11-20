@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/11/20 1:19 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/11/20 1:26 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -878,20 +878,6 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>56</td>
 		<td>
-			<a href="https://github.com/ladinasedera">
-				<img src="https://avatars.githubusercontent.com/u/46368118?s=72&u=78944597889fe783a49450f1fad634ad353d0e3f&v=4" width="24" alt="Avatar of ladinasedera"> ladinasedera
-			</a><br/>
-			Ladina Sedera
-		</td>
-		<td>@sm-ht  </td>
-		<td><a href="https://twitter.com/ladinasedera">ladinasedera</a></td>
-		<td>Madagascar</td>
-		<td>21</td>
-		<td>1152</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
 			<a href="https://github.com/h471x">
 				<img src="https://avatars.githubusercontent.com/u/76181981?s=72&u=05311f04f94db045cba3e84ad2cd606792ac5f92&v=4" width="24" alt="Avatar of h471x"> h471x
 			</a><br/>
@@ -902,6 +888,20 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Fianarantsoa, Madagascar</td>
 		<td>695</td>
 		<td>1136</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td>
+			<a href="https://github.com/ladinasedera">
+				<img src="https://avatars.githubusercontent.com/u/46368118?s=72&u=78944597889fe783a49450f1fad634ad353d0e3f&v=4" width="24" alt="Avatar of ladinasedera"> ladinasedera
+			</a><br/>
+			Ladina Sedera
+		</td>
+		<td>@sm-ht  </td>
+		<td><a href="https://twitter.com/ladinasedera">ladinasedera</a></td>
+		<td>Madagascar</td>
+		<td>21</td>
+		<td>1133</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1054,8 +1054,8 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananario, Madagascar</td>
-		<td>943</td>
-		<td>991</td>
+		<td>944</td>
+		<td>992</td>
 	</tr>
 	<tr>
 		<td>69</td>
@@ -4140,6 +4140,20 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>289</td>
 		<td>
+			<a href="https://github.com/HairanRins">
+				<img src="https://avatars.githubusercontent.com/u/159486391?s=72&u=44337148d299f5f062ad910b82aeadf7e32465c0&v=4" width="24" alt="Avatar of HairanRins"> HairanRins
+			</a><br/>
+			H. Rino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar </td>
+		<td>182</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>290</td>
+		<td>
 			<a href="https://github.com/sarino22Y">
 				<img src="https://avatars.githubusercontent.com/u/74770148?s=72&u=b6196c99dd3232c5c7c14fdb0fd320f0df648941&v=4" width="24" alt="Avatar of sarino22Y"> sarino22Y
 			</a><br/>
@@ -4149,20 +4163,6 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
 		<td>76</td>
-		<td>180</td>
-	</tr>
-	<tr>
-		<td>290</td>
-		<td>
-			<a href="https://github.com/HairanRins">
-				<img src="https://avatars.githubusercontent.com/u/159486391?s=72&u=44337148d299f5f062ad910b82aeadf7e32465c0&v=4" width="24" alt="Avatar of HairanRins"> HairanRins
-			</a><br/>
-			H. Rino
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar </td>
-		<td>180</td>
 		<td>180</td>
 	</tr>
 	<tr>
