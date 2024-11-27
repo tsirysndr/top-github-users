@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/11/27 4:24 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/11/27 4:32 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -206,7 +206,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>@sws2apps  </td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
-		<td>1725</td>
+		<td>1726</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -549,19 +549,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>35</td>
 		<td>
-			<a href="https://github.com/SophieRasoamialy">
-				<img src="https://avatars.githubusercontent.com/u/82450731?s=72&u=93169b160929cd634583dcfb16f9e71d31729cdd&v=4" width="24" alt="Avatar of SophieRasoamialy"> SophieRasoamialy
-			</a><br/>
-			Sophie Hasindrae
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/SophieHasindrae">SophieHasindrae</a></td>
-		<td>Madagascar</td>
-		<td>689</td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>
 			<a href="https://github.com/RazanakotoMandresy">
 				<img src="https://avatars.githubusercontent.com/u/128596142?s=72&u=3c6cdfba2ae07e392758907a6ba2170f1c797ac0&v=4" width="24" alt="Avatar of RazanakotoMandresy"> RazanakotoMandresy
 			</a><br/>
@@ -570,6 +557,19 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madagascar , Antananarivo</td>
+		<td>690</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td>
+			<a href="https://github.com/SophieRasoamialy">
+				<img src="https://avatars.githubusercontent.com/u/82450731?s=72&u=93169b160929cd634583dcfb16f9e71d31729cdd&v=4" width="24" alt="Avatar of SophieRasoamialy"> SophieRasoamialy
+			</a><br/>
+			Sophie Hasindrae
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/SophieHasindrae">SophieHasindrae</a></td>
+		<td>Madagascar</td>
 		<td>689</td>
 	</tr>
 	<tr>
@@ -1420,6 +1420,19 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>102</td>
 		<td>
+			<a href="https://github.com/KiadyNirina">
+				<img src="https://avatars.githubusercontent.com/u/162699528?s=72&u=61123ccb5b067f88b5347d545a94991ad95a49ee&v=4" width="24" alt="Avatar of KiadyNirina"> KiadyNirina
+			</a><br/>
+			Kiady
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
+		<td>264</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td>
 			<a href="https://github.com/y198nt">
 				<img src="https://avatars.githubusercontent.com/u/90976397?s=72&u=2cae9d1e72548473843a21767a212b967476f2dd&v=4" width="24" alt="Avatar of y198nt"> y198nt
 			</a><br/>
@@ -1429,19 +1442,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>264</td>
-	</tr>
-	<tr>
-		<td>103</td>
-		<td>
-			<a href="https://github.com/KiadyNirina">
-				<img src="https://avatars.githubusercontent.com/u/162699528?s=72&u=61123ccb5b067f88b5347d545a94991ad95a49ee&v=4" width="24" alt="Avatar of KiadyNirina"> KiadyNirina
-			</a><br/>
-			Kiady
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
-		<td>263</td>
 	</tr>
 	<tr>
 		<td>104</td>
