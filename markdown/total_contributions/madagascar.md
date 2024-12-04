@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/12/4 2:37 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/12/4 2:45 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -299,7 +299,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>25</td>
-		<td>2262</td>
+		<td>2265</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -472,6 +472,20 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>27</td>
 		<td>
+			<a href="https://github.com/Mahefaa">
+				<img src="https://avatars.githubusercontent.com/u/98638690?s=72&v=4" width="24" alt="Avatar of Mahefaa"> Mahefaa
+			</a><br/>
+			Mahefa Ny Anjara
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>972</td>
+		<td>1633</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a href="https://github.com/titamrtn">
 				<img src="https://avatars.githubusercontent.com/u/5078563?s=72&u=dcc078f1ab4b312fc536d8b4b75c255342be4f4b&v=4" width="24" alt="Avatar of titamrtn"> titamrtn
 			</a><br/>
@@ -482,20 +496,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Antananarivo, Madagascar</td>
 		<td>8</td>
 		<td>1631</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a href="https://github.com/Mahefaa">
-				<img src="https://avatars.githubusercontent.com/u/98638690?s=72&v=4" width="24" alt="Avatar of Mahefaa"> Mahefaa
-			</a><br/>
-			Mahefa Ny Anjara
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>972</td>
-		<td>1625</td>
 	</tr>
 	<tr>
 		<td>29</td>
@@ -929,7 +929,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Toamasina/Tamatave (Madagascar)</td>
 		<td>294</td>
-		<td>1150</td>
+		<td>1151</td>
 	</tr>
 	<tr>
 		<td>60</td>
@@ -1586,8 +1586,8 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
-		<td>471</td>
-		<td>721</td>
+		<td>473</td>
+		<td>724</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -2511,7 +2511,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>35</td>
-		<td>401</td>
+		<td>403</td>
 	</tr>
 	<tr>
 		<td>173</td>
@@ -6744,6 +6744,20 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>475</td>
 		<td>
+			<a href="https://github.com/raskal-dev">
+				<img src="https://avatars.githubusercontent.com/u/102739808?s=72&u=c2e36bed18455356800e0cf32b3c89cc78e3394f&v=4" width="24" alt="Avatar of raskal-dev"> raskal-dev
+			</a><br/>
+			Kalvin RASAMY
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>40</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
 			<a href="https://github.com/ChristianMDG">
 				<img src="https://avatars.githubusercontent.com/u/170805449?s=72&u=cfc6c1dd90e75dd38d25cbda755fd65875ee548f&v=4" width="24" alt="Avatar of ChristianMDG"> ChristianMDG
 			</a><br/>
@@ -6756,7 +6770,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a href="https://github.com/sciencehope">
 				<img src="https://avatars.githubusercontent.com/u/47118464?s=72&u=8f51456a418807ffc2b46750ec5def9924a8dc3a&v=4" width="24" alt="Avatar of sciencehope"> sciencehope
@@ -6770,7 +6784,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a href="https://github.com/Lynxgsm">
 				<img src="https://avatars.githubusercontent.com/u/17699418?s=72&u=5556ee48f21126fbac2a5e690701b0dbe805cbdf&v=4" width="24" alt="Avatar of Lynxgsm"> Lynxgsm
@@ -6784,7 +6798,7 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a href="https://github.com/MN-Sandratra">
 				<img src="https://avatars.githubusercontent.com/u/86879510?s=72&u=0508587468c84a812607c911a7ad7bf0fd8ffa73&v=4" width="24" alt="Avatar of MN-Sandratra"> MN-Sandratra
@@ -6795,20 +6809,6 @@ There are `953 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar,Antananarivo | France, Montpellier</td>
 		<td>34</td>
-		<td>39</td>
-	</tr>
-	<tr>
-		<td>479</td>
-		<td>
-			<a href="https://github.com/raskal-dev">
-				<img src="https://avatars.githubusercontent.com/u/102739808?s=72&u=c2e36bed18455356800e0cf32b3c89cc78e3394f&v=4" width="24" alt="Avatar of raskal-dev"> raskal-dev
-			</a><br/>
-			Kalvin RASAMY
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>39</td>
 		<td>39</td>
 	</tr>
 	<tr>
