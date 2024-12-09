@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/12/9 8:45 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/12/9 8:53 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -789,7 +789,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>11</td>
-		<td>1257</td>
+		<td>1258</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -1362,8 +1362,8 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/vazouuu_">vazouuu_</a></td>
 		<td>Antananarivo , Madagascar </td>
-		<td>536</td>
-		<td>836</td>
+		<td>537</td>
+		<td>837</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -2418,6 +2418,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>166</td>
 		<td>
+			<a href="https://github.com/acf-patrick">
+				<img src="https://avatars.githubusercontent.com/u/55443338?s=72&u=0f4ac6b371e391336d03a4728a93589982f49050&v=4" width="24" alt="Avatar of acf-patrick"> acf-patrick
+			</a><br/>
+			Patrick Miharisoa
+		</td>
+		<td>Astek </td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>396</td>
+		<td>433</td>
+	</tr>
+	<tr>
+		<td>167</td>
+		<td>
 			<a href="https://github.com/arshavir-andreas">
 				<img src="https://avatars.githubusercontent.com/u/116455063?s=72&u=07a53f7a9f031521b69affe6417516b2edb668f3&v=4" width="24" alt="Avatar of arshavir-andreas"> arshavir-andreas
 			</a><br/>
@@ -2428,20 +2442,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Antananarivo, Madagascar</td>
 		<td>64</td>
 		<td>433</td>
-	</tr>
-	<tr>
-		<td>167</td>
-		<td>
-			<a href="https://github.com/acf-patrick">
-				<img src="https://avatars.githubusercontent.com/u/55443338?s=72&u=0f4ac6b371e391336d03a4728a93589982f49050&v=4" width="24" alt="Avatar of acf-patrick"> acf-patrick
-			</a><br/>
-			Patrick Miharisoa
-		</td>
-		<td>Astek </td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>395</td>
-		<td>432</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -4008,8 +4008,8 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Haute École D'nformatique </td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
-		<td>198</td>
-		<td>198</td>
+		<td>199</td>
+		<td>199</td>
 	</tr>
 	<tr>
 		<td>280</td>
@@ -4910,6 +4910,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>344</td>
 		<td>
+			<a href="https://github.com/razafindratsiza">
+				<img src="https://avatars.githubusercontent.com/u/34934305?s=72&v=4" width="24" alt="Avatar of razafindratsiza"> razafindratsiza
+			</a><br/>
+			Tsanta
+		</td>
+		<td>Zlab </td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo/madagascar</td>
+		<td>59</td>
+		<td>125</td>
+	</tr>
+	<tr>
+		<td>345</td>
+		<td>
 			<a href="https://github.com/Andriambahoaka">
 				<img src="https://avatars.githubusercontent.com/u/26136519?s=72&u=cadf622e70b641d0c4f6f662922634a4283d6716&v=4" width="24" alt="Avatar of Andriambahoaka"> Andriambahoaka
 			</a><br/>
@@ -4922,7 +4936,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a href="https://github.com/TOLOJANAHAR">
 				<img src="https://avatars.githubusercontent.com/u/90443122?s=72&u=a567fdd35f47cdf3a8d4a405aa11855222af31c3&v=4" width="24" alt="Avatar of TOLOJANAHAR"> TOLOJANAHAR
@@ -4936,7 +4950,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a href="https://github.com/Pendragon46">
 				<img src="https://avatars.githubusercontent.com/u/160462125?s=72&u=3b40907cb405ef0fbe32198cda0425fd40d54c87&v=4" width="24" alt="Avatar of Pendragon46"> Pendragon46
@@ -4950,7 +4964,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>124</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a href="https://github.com/mcrai-dev">
 				<img src="https://avatars.githubusercontent.com/u/62558016?s=72&u=4c064846ef992dd2c6dda087cea1cd8127461645&v=4" width="24" alt="Avatar of mcrai-dev"> mcrai-dev
@@ -4962,20 +4976,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Madagascar</td>
 		<td>124</td>
 		<td>124</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a href="https://github.com/razafindratsiza">
-				<img src="https://avatars.githubusercontent.com/u/34934305?s=72&v=4" width="24" alt="Avatar of razafindratsiza"> razafindratsiza
-			</a><br/>
-			Tsanta
-		</td>
-		<td>Zlab </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo/madagascar</td>
-		<td>59</td>
-		<td>122</td>
 	</tr>
 	<tr>
 		<td>349</td>
