@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/12/21 11:15 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/12/21 11:22 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>173</td>
-		<td>21918</td>
+		<td>21919</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -612,6 +612,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>37</td>
 		<td>
+			<a href="https://github.com/YumeT023">
+				<img src="https://avatars.githubusercontent.com/u/96466759?s=72&u=072c9e0d6c520ff015b549694e9eb0f4e68364a7&v=4" width="24" alt="Avatar of YumeT023"> YumeT023
+			</a><br/>
+			Yumii
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/yumii_saiko">yumii_saiko</a></td>
+		<td>Madagascar</td>
+		<td>1228</td>
+		<td>1424</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
 			<a href="https://github.com/danielgwood">
 				<img src="https://avatars.githubusercontent.com/u/168163?s=72&u=18d84e73cd5a37b43652f7b4671a0ba353094c10&v=4" width="24" alt="Avatar of danielgwood"> danielgwood
 			</a><br/>
@@ -622,20 +636,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Taolagnaro, Madagascar</td>
 		<td>0</td>
 		<td>1423</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
-			<a href="https://github.com/YumeT023">
-				<img src="https://avatars.githubusercontent.com/u/96466759?s=72&u=072c9e0d6c520ff015b549694e9eb0f4e68364a7&v=4" width="24" alt="Avatar of YumeT023"> YumeT023
-			</a><br/>
-			Yumii
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/yumii_saiko">yumii_saiko</a></td>
-		<td>Madagascar</td>
-		<td>1226</td>
-		<td>1422</td>
 	</tr>
 	<tr>
 		<td>39</td>
@@ -4658,6 +4658,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>326</td>
 		<td>
+			<a href="https://github.com/razafindratsiza">
+				<img src="https://avatars.githubusercontent.com/u/34934305?s=72&v=4" width="24" alt="Avatar of razafindratsiza"> razafindratsiza
+			</a><br/>
+			Tsanta
+		</td>
+		<td>Zlab </td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo/madagascar</td>
+		<td>59</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>327</td>
+		<td>
 			<a href="https://github.com/To-Mamiarilaza">
 				<img src="https://avatars.githubusercontent.com/u/114460399?s=72&v=4" width="24" alt="Avatar of To-Mamiarilaza"> To-Mamiarilaza
 			</a><br/>
@@ -4670,7 +4684,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>147</td>
 	</tr>
 	<tr>
-		<td>327</td>
+		<td>328</td>
 		<td>
 			<a href="https://github.com/Online13">
 				<img src="https://avatars.githubusercontent.com/u/50442872?s=72&u=ee5f2b688f473fada9d302a77546875fce19dfff&v=4" width="24" alt="Avatar of Online13"> Online13
@@ -4681,20 +4695,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo Madagascar</td>
 		<td>54</td>
-		<td>146</td>
-	</tr>
-	<tr>
-		<td>328</td>
-		<td>
-			<a href="https://github.com/razafindratsiza">
-				<img src="https://avatars.githubusercontent.com/u/34934305?s=72&v=4" width="24" alt="Avatar of razafindratsiza"> razafindratsiza
-			</a><br/>
-			Tsanta
-		</td>
-		<td>Zlab </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo/madagascar</td>
-		<td>59</td>
 		<td>146</td>
 	</tr>
 	<tr>
@@ -7206,6 +7206,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>508</td>
 		<td>
+			<a href="https://github.com/mourad-edine">
+				<img src="https://avatars.githubusercontent.com/u/101376159?s=72&u=3c6a601b07ff6dbdf3d2522c4508288121071df2&v=4" width="24" alt="Avatar of mourad-edine"> mourad-edine
+			</a><br/>
+			chams edine maulice mourad
+		</td>
+		<td>Code Source </td>
+		<td><a href="https://twitter.com/MauliceE">MauliceE</a></td>
+		<td>Madagascar</td>
+		<td>31</td>
+		<td>31</td>
+	</tr>
+	<tr>
+		<td>509</td>
+		<td>
 			<a href="https://github.com/aingaRamangalahy">
 				<img src="https://avatars.githubusercontent.com/u/22538389?s=72&u=43bdcb29e5c2e5ec4a316854b7becee17071b1f5&v=4" width="24" alt="Avatar of aingaRamangalahy"> aingaRamangalahy
 			</a><br/>
@@ -7218,7 +7232,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/smanantena">
 				<img src="https://avatars.githubusercontent.com/u/48855770?s=72&u=06bfde21471e5e67b2b7ea9ee454a038b99fcc09&v=4" width="24" alt="Avatar of smanantena"> smanantena
@@ -7227,20 +7241,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>30</td>
-		<td>30</td>
-	</tr>
-	<tr>
-		<td>510</td>
-		<td>
-			<a href="https://github.com/mourad-edine">
-				<img src="https://avatars.githubusercontent.com/u/101376159?s=72&u=3c6a601b07ff6dbdf3d2522c4508288121071df2&v=4" width="24" alt="Avatar of mourad-edine"> mourad-edine
-			</a><br/>
-			chams edine maulice mourad
-		</td>
-		<td>Code Source </td>
-		<td><a href="https://twitter.com/MauliceE">MauliceE</a></td>
 		<td>Madagascar</td>
 		<td>30</td>
 		<td>30</td>
