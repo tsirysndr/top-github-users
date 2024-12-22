@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2024/12/22 11:31 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2024/12/22 11:39 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2460,25 +2460,25 @@ There are `955 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>182</td>
 		<td>
-			<a href="https://github.com/heiherilala">
-				<img src="https://avatars.githubusercontent.com/u/103981849?s=72&u=ff2120e0c856e644f35d713de7a0677731f915fd&v=4" width="24" alt="Avatar of heiherilala"> heiherilala
-			</a><br/>
-			RAFANOMEZANTSOA Ny Aina Herilala
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>136</td>
-	</tr>
-	<tr>
-		<td>183</td>
-		<td>
 			<a href="https://github.com/TchiRubick">
 				<img src="https://avatars.githubusercontent.com/u/31276140?s=72&u=dce97c2bee791ff80da98778539909a7735dfbc9&v=4" width="24" alt="Avatar of TchiRubick"> TchiRubick
 			</a><br/>
 			Tchi
 		</td>
 		<td>@revly-org  </td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>137</td>
+	</tr>
+	<tr>
+		<td>183</td>
+		<td>
+			<a href="https://github.com/heiherilala">
+				<img src="https://avatars.githubusercontent.com/u/103981849?s=72&u=ff2120e0c856e644f35d713de7a0677731f915fd&v=4" width="24" alt="Avatar of heiherilala"> heiherilala
+			</a><br/>
+			RAFANOMEZANTSOA Ny Aina Herilala
+		</td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>136</td>
