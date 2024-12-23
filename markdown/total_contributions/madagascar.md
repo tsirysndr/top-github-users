@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/12/23 11:20 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/12/23 11:27 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -131,7 +131,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>9377</td>
-		<td>20909</td>
+		<td>20911</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -649,7 +649,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/KsKrimi">KsKrimi</a></td>
 		<td>Fianarantsoa, Madagascar</td>
 		<td>17</td>
-		<td>1421</td>
+		<td>1422</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -2110,6 +2110,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>144</td>
 		<td>
+			<a href="https://github.com/IannisG10">
+				<img src="https://avatars.githubusercontent.com/u/144343272?s=72&u=ea0ed4939dae6d27249a747ab01aea1fc2cfe89f&v=4" width="24" alt="Avatar of IannisG10"> IannisG10
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar </td>
+		<td>519</td>
+		<td>519</td>
+	</tr>
+	<tr>
+		<td>145</td>
+		<td>
 			<a href="https://github.com/nalahatra-rabe">
 				<img src="https://avatars.githubusercontent.com/u/75573408?s=72&u=a9099dbae8a5740b7368ff11ffc82c8fd1addfb0&v=4" width="24" alt="Avatar of nalahatra-rabe"> nalahatra-rabe
 			</a><br/>
@@ -2120,20 +2134,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Fianarantsoa,Madagascar</td>
 		<td>2</td>
 		<td>519</td>
-	</tr>
-	<tr>
-		<td>145</td>
-		<td>
-			<a href="https://github.com/IannisG10">
-				<img src="https://avatars.githubusercontent.com/u/144343272?s=72&u=ea0ed4939dae6d27249a747ab01aea1fc2cfe89f&v=4" width="24" alt="Avatar of IannisG10"> IannisG10
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar </td>
-		<td>518</td>
-		<td>518</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -2286,8 +2286,8 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
-		<td>276</td>
-		<td>482</td>
+		<td>277</td>
+		<td>483</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -5918,6 +5918,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>416</td>
 		<td>
+			<a href="https://github.com/Jean-Jacques-Augustin">
+				<img src="https://avatars.githubusercontent.com/u/58912882?s=72&u=4a7f78babd545c72596fec0509d7aa07f5b0cbb7&v=4" width="24" alt="Avatar of Jean-Jacques-Augustin"> Jean-Jacques-Augustin
+			</a><br/>
+			Augustin RANDRIANANTENAINA
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>67</td>
+		<td>67</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
 			<a href="https://github.com/RomeoManoela">
 				<img src="https://avatars.githubusercontent.com/u/141563333?s=72&v=4" width="24" alt="Avatar of RomeoManoela"> RomeoManoela
 			</a><br/>
@@ -5928,20 +5942,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>Madagascar</td>
 		<td>67</td>
 		<td>67</td>
-	</tr>
-	<tr>
-		<td>417</td>
-		<td>
-			<a href="https://github.com/Jean-Jacques-Augustin">
-				<img src="https://avatars.githubusercontent.com/u/58912882?s=72&u=4a7f78babd545c72596fec0509d7aa07f5b0cbb7&v=4" width="24" alt="Avatar of Jean-Jacques-Augustin"> Jean-Jacques-Augustin
-			</a><br/>
-			Augustin RANDRIANANTENAINA
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>66</td>
-		<td>66</td>
 	</tr>
 	<tr>
 		<td>418</td>
@@ -8984,10 +8984,10 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>635</td>
 		<td>
-			<a href="https://github.com/MoFlegma">
-				<img src="https://avatars.githubusercontent.com/u/107076284?s=72&u=1122f05f5b70d2e837f2ca5f9b98e6223e3c72e0&v=4" width="24" alt="Avatar of MoFlegma"> MoFlegma
+			<a href="https://github.com/Anaia-Randrianantenaina">
+				<img src="https://avatars.githubusercontent.com/u/175471834?s=72&u=7ec90470ccec853a915ff1a5bf70d863df6bb8da&v=4" width="24" alt="Avatar of Anaia-Randrianantenaina"> Anaia-Randrianantenaina
 			</a><br/>
-			Randria Monica
+			Anaïa
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8998,10 +8998,10 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>636</td>
 		<td>
-			<a href="https://github.com/Anaia-Randrianantenaina">
-				<img src="https://avatars.githubusercontent.com/u/175471834?s=72&u=7ec90470ccec853a915ff1a5bf70d863df6bb8da&v=4" width="24" alt="Avatar of Anaia-Randrianantenaina"> Anaia-Randrianantenaina
+			<a href="https://github.com/MoFlegma">
+				<img src="https://avatars.githubusercontent.com/u/107076284?s=72&u=1122f05f5b70d2e837f2ca5f9b98e6223e3c72e0&v=4" width="24" alt="Avatar of MoFlegma"> MoFlegma
 			</a><br/>
-			Anaïa
+			Randria Monica
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
