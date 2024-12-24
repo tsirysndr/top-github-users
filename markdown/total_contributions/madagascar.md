@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2024/12/24 7:49 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2024/12/24 7:56 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>172</td>
-		<td>21996</td>
+		<td>21997</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -508,8 +508,8 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
-		<td>120</td>
-		<td>1565</td>
+		<td>123</td>
+		<td>1568</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -1853,7 +1853,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>373</td>
-		<td>605</td>
+		<td>606</td>
 	</tr>
 	<tr>
 		<td>126</td>
@@ -3356,6 +3356,20 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>233</td>
 		<td>
+			<a href="https://github.com/sarino22Y">
+				<img src="https://avatars.githubusercontent.com/u/74770148?s=72&u=b6196c99dd3232c5c7c14fdb0fd320f0df648941&v=4" width="24" alt="Avatar of sarino22Y"> sarino22Y
+			</a><br/>
+			MALALANIRINA Sarino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo</td>
+		<td>61</td>
+		<td>275</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
 			<a href="https://github.com/Maherilaza">
 				<img src="https://avatars.githubusercontent.com/u/81572486?s=72&u=bc2c55f85fc02f36862c3a33afcdb0e3e7e51b12&v=4" width="24" alt="Avatar of Maherilaza"> Maherilaza
 			</a><br/>
@@ -3368,7 +3382,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>275</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a href="https://github.com/tojonirina">
 				<img src="https://avatars.githubusercontent.com/u/24773152?s=72&u=9a951f6b905671df0ff8617802f66bd4bfe33f88&v=4" width="24" alt="Avatar of tojonirina"> tojonirina
@@ -3382,7 +3396,7 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>275</td>
 	</tr>
 	<tr>
-		<td>235</td>
+		<td>236</td>
 		<td>
 			<a href="https://github.com/rivo2302">
 				<img src="https://avatars.githubusercontent.com/u/59861055?s=72&u=d08fbbcb34a5dc4605500da1eca5734613bfb462&v=4" width="24" alt="Avatar of rivo2302"> rivo2302
@@ -3393,20 +3407,6 @@ There are `954 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>179</td>
-		<td>273</td>
-	</tr>
-	<tr>
-		<td>236</td>
-		<td>
-			<a href="https://github.com/sarino22Y">
-				<img src="https://avatars.githubusercontent.com/u/74770148?s=72&u=b6196c99dd3232c5c7c14fdb0fd320f0df648941&v=4" width="24" alt="Avatar of sarino22Y"> sarino22Y
-			</a><br/>
-			MALALANIRINA Sarino
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo</td>
-		<td>61</td>
 		<td>273</td>
 	</tr>
 	<tr>
