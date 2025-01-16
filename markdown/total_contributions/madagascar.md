@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/1/16 8:34 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/1/16 8:42 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `956 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>171</td>
-		<td>23893</td>
+		<td>23894</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -690,8 +690,8 @@ There are `956 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
-		<td>1210</td>
-		<td>1379</td>
+		<td>1211</td>
+		<td>1380</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -733,7 +733,7 @@ There are `956 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td><a href="https://twitter.com/hatixntsoa">hatixntsoa</a></td>
 		<td>Fianarantsoa, Madagascar</td>
 		<td>864</td>
-		<td>1327</td>
+		<td>1328</td>
 	</tr>
 	<tr>
 		<td>46</td>
@@ -1013,7 +1013,7 @@ There are `956 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>44</td>
-		<td>1126</td>
+		<td>1129</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -2230,8 +2230,8 @@ There are `956 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
-		<td>84</td>
-		<td>504</td>
+		<td>85</td>
+		<td>505</td>
 	</tr>
 	<tr>
 		<td>153</td>
@@ -2693,7 +2693,7 @@ There are `956 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>68</td>
-		<td>372</td>
+		<td>373</td>
 	</tr>
 	<tr>
 		<td>186</td>
@@ -5372,20 +5372,6 @@ There are `956 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>377</td>
 		<td>
-			<a href="https://github.com/SeshiriaC">
-				<img src="https://avatars.githubusercontent.com/u/105826197?s=72&u=4283f0dc1fc27d555599b3340c8e1c3acace72c5&v=4" width="24" alt="Avatar of SeshiriaC"> SeshiriaC
-			</a><br/>
-			Cecilia RAZAFIMANDIMBY
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>65</td>
-		<td>96</td>
-	</tr>
-	<tr>
-		<td>378</td>
-		<td>
 			<a href="https://github.com/BastardCC">
 				<img src="https://avatars.githubusercontent.com/u/90899731?s=72&u=5687b1dc5f6a3577837b0d5be8a810f2095f268c&v=4" width="24" alt="Avatar of BastardCC"> BastardCC
 			</a><br/>
@@ -5395,6 +5381,20 @@ There are `956 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar </td>
 		<td>5</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>378</td>
+		<td>
+			<a href="https://github.com/SeshiriaC">
+				<img src="https://avatars.githubusercontent.com/u/105826197?s=72&u=4283f0dc1fc27d555599b3340c8e1c3acace72c5&v=4" width="24" alt="Avatar of SeshiriaC"> SeshiriaC
+			</a><br/>
+			Cecilia RAZAFIMANDIMBY
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>65</td>
 		<td>96</td>
 	</tr>
 	<tr>
