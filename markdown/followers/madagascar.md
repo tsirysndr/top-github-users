@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2025/1/23 1:41 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2025/1/23 1:48 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -10871,6 +10871,19 @@ There are `957 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>829</td>
 		<td>
+			<a href="https://github.com/cp3junior">
+				<img src="https://avatars.githubusercontent.com/u/15180493?s=72&u=68dc77048589f5d6dcf8ecca345711e377588363&v=4" width="24" alt="Avatar of cp3junior"> cp3junior
+			</a><br/>
+			RAILALA Andriatsimarivo (Andrew)
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>830</td>
+		<td>
 			<a href="https://github.com/Rydanyainav8">
 				<img src="https://avatars.githubusercontent.com/u/74042818?s=72&u=01b11ed9cdb30a20036febf09cf6fe9bb7b8dfcf&v=4" width="24" alt="Avatar of Rydanyainav8"> Rydanyainav8
 			</a><br/>
@@ -10882,7 +10895,7 @@ There are `957 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>831</td>
 		<td>
 			<a href="https://github.com/Mario-NoobCoder">
 				<img src="https://avatars.githubusercontent.com/u/111002889?s=72&u=7cf024969f9980665b48332121407a129765d0bd&v=4" width="24" alt="Avatar of Mario-NoobCoder"> Mario-NoobCoder
@@ -10892,19 +10905,6 @@ There are `957 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Fianarantsoa Madagascar</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>831</td>
-		<td>
-			<a href="https://github.com/cp3junior">
-				<img src="https://avatars.githubusercontent.com/u/15180493?s=72&u=68dc77048589f5d6dcf8ecca345711e377588363&v=4" width="24" alt="Avatar of cp3junior"> cp3junior
-			</a><br/>
-			RAILALA Andriatsimarivo (Andrew)
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
 		<td>2</td>
 	</tr>
 	<tr>
