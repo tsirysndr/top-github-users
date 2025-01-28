@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2025/1/28 2:19 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2025/1/28 2:28 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -263,6 +263,19 @@ There are `957 users`  in Madagascar. You need at least `1 followers` to be on t
 	<tr>
 		<td>13</td>
 		<td>
+			<a href="https://github.com/andostronaut">
+				<img src="https://avatars.githubusercontent.com/u/65276708?s=72&u=219118d82b0ad68b9a221cd5affbf312cb5ae595&v=4" width="24" alt="Avatar of andostronaut"> andostronaut
+			</a><br/>
+			Ando
+		</td>
+		<td>@kinotio </td>
+		<td><a href="https://twitter.com/andostronaut">andostronaut</a></td>
+		<td>Antananarivo, MG</td>
+		<td>1208</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td>
 			<a href="https://github.com/RickaPrincy">
 				<img src="https://avatars.githubusercontent.com/u/127594276?s=72&u=b99a038da7407cf4fc7a31954511ab6e50e23044&v=4" width="24" alt="Avatar of RickaPrincy"> RickaPrincy
 			</a><br/>
@@ -272,19 +285,6 @@ There are `957 users`  in Madagascar. You need at least `1 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
 		<td>1207</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>
-			<a href="https://github.com/andostronaut">
-				<img src="https://avatars.githubusercontent.com/u/65276708?s=72&u=219118d82b0ad68b9a221cd5affbf312cb5ae595&v=4" width="24" alt="Avatar of andostronaut"> andostronaut
-			</a><br/>
-			Ando
-		</td>
-		<td>@kinotio </td>
-		<td><a href="https://twitter.com/andostronaut">andostronaut</a></td>
-		<td>Antananarivo, MG</td>
-		<td>1196</td>
 	</tr>
 	<tr>
 		<td>15</td>
