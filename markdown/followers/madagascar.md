@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `number of followers` of users in Madagascar on `2025/2/5 4:06 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `number of followers` of users in Madagascar on `2025/2/5 4:14 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -6815,10 +6815,10 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>517</td>
 		<td>
-			<a href="https://github.com/Jean-Jacques-Augustin">
-				<img src="https://avatars.githubusercontent.com/u/58912882?s=72&u=4a7f78babd545c72596fec0509d7aa07f5b0cbb7&v=4" width="24" alt="Avatar of Jean-Jacques-Augustin"> Jean-Jacques-Augustin
+			<a href="https://github.com/raskal-dev">
+				<img src="https://avatars.githubusercontent.com/u/102739808?s=72&u=c2e36bed18455356800e0cf32b3c89cc78e3394f&v=4" width="24" alt="Avatar of raskal-dev"> raskal-dev
 			</a><br/>
-			Augustin RANDRIANANTENAINA
+			Kalvin RASAMY-ZO
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -6828,10 +6828,10 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>518</td>
 		<td>
-			<a href="https://github.com/raskal-dev">
-				<img src="https://avatars.githubusercontent.com/u/102739808?s=72&u=c2e36bed18455356800e0cf32b3c89cc78e3394f&v=4" width="24" alt="Avatar of raskal-dev"> raskal-dev
+			<a href="https://github.com/Jean-Jacques-Augustin">
+				<img src="https://avatars.githubusercontent.com/u/58912882?s=72&u=4a7f78babd545c72596fec0509d7aa07f5b0cbb7&v=4" width="24" alt="Avatar of Jean-Jacques-Augustin"> Jean-Jacques-Augustin
 			</a><br/>
-			Kalvin RASAMY-ZO
+			Augustin RANDRIANANTENAINA
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
