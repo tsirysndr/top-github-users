@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/2/9 10:22 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/2/9 10:29 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -145,7 +145,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/tsiry_sndr">tsiry_sndr</a></td>
 		<td>Antananarivo / Madagascar</td>
 		<td>4129</td>
-		<td>4548</td>
+		<td>4549</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -2404,6 +2404,20 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>165</td>
 		<td>
+			<a href="https://github.com/marioshaya">
+				<img src="https://avatars.githubusercontent.com/u/66465021?s=72&u=b3e024196c3c315c4fa23d07ffafe35f8dabdf71&v=4" width="24" alt="Avatar of marioshaya"> marioshaya
+			</a><br/>
+			SHAYA Mario
+		</td>
+		<td>Icecreamswap </td>
+		<td><a href="https://twitter.com/marioshaya">marioshaya</a></td>
+		<td>Ambovombe Androy, Madagascar</td>
+		<td>106</td>
+		<td>467</td>
+	</tr>
+	<tr>
+		<td>166</td>
+		<td>
 			<a href="https://github.com/shexweeknd">
 				<img src="https://avatars.githubusercontent.com/u/93829969?s=72&u=956bb0ecf42d315a4c418a5ac34cf94405b83cac&v=4" width="24" alt="Avatar of shexweeknd"> shexweeknd
 			</a><br/>
@@ -2414,20 +2428,6 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Madagascar</td>
 		<td>264</td>
 		<td>465</td>
-	</tr>
-	<tr>
-		<td>166</td>
-		<td>
-			<a href="https://github.com/marioshaya">
-				<img src="https://avatars.githubusercontent.com/u/66465021?s=72&u=b3e024196c3c315c4fa23d07ffafe35f8dabdf71&v=4" width="24" alt="Avatar of marioshaya"> marioshaya
-			</a><br/>
-			SHAYA Mario
-		</td>
-		<td>Icecreamswap </td>
-		<td><a href="https://twitter.com/marioshaya">marioshaya</a></td>
-		<td>Ambovombe Androy, Madagascar</td>
-		<td>106</td>
-		<td>464</td>
 	</tr>
 	<tr>
 		<td>167</td>
@@ -6703,7 +6703,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>472</td>
 		<td>
 			<a href="https://github.com/Vahiniaina">
-				<img src="https://avatars.githubusercontent.com/u/99581081?s=72&u=204f3c9eaa0223494377a3b1b3bd7b8d1b740192&v=4" width="24" alt="Avatar of Vahiniaina"> Vahiniaina
+				<img src="https://avatars.githubusercontent.com/u/99581081?s=72&v=4" width="24" alt="Avatar of Vahiniaina"> Vahiniaina
 			</a><br/>
 			Vahiniaina RANRIANJATOVO
 		</td>
