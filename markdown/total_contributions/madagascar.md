@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/2/10 12:07 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/2/10 12:14 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -438,8 +438,8 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Xpirix3">Xpirix3</a></td>
 		<td>Madagascar</td>
-		<td>1939</td>
-		<td>1939</td>
+		<td>1940</td>
+		<td>1940</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -915,7 +915,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>0</td>
-		<td>1184</td>
+		<td>1185</td>
 	</tr>
 	<tr>
 		<td>59</td>
@@ -1872,6 +1872,20 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>127</td>
 		<td>
+			<a href="https://github.com/TolotraMandresy">
+				<img src="https://avatars.githubusercontent.com/u/83577836?s=72&u=31f4a008ba34b8b0ebf4616fc2cf00d9cf3ffb01&v=4" width="24" alt="Avatar of TolotraMandresy"> TolotraMandresy
+			</a><br/>
+			Tolotra
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Anjanahary, Antananarivo, Madagascar </td>
+		<td>17</td>
+		<td>603</td>
+	</tr>
+	<tr>
+		<td>128</td>
+		<td>
 			<a href="https://github.com/juven0">
 				<img src="https://avatars.githubusercontent.com/u/68611244?s=72&u=4df15328089afd57eb67c5e0c34b0a022bafa60d&v=4" width="24" alt="Avatar of juven0"> juven0
 			</a><br/>
@@ -1884,7 +1898,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>603</td>
 	</tr>
 	<tr>
-		<td>128</td>
+		<td>129</td>
 		<td>
 			<a href="https://github.com/LizkaRyan">
 				<img src="https://avatars.githubusercontent.com/u/168926850?s=72&u=f8734db57afcf4b2700624ed87c0aa98c88ffd92&v=4" width="24" alt="Avatar of LizkaRyan"> LizkaRyan
@@ -1898,7 +1912,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>602</td>
 	</tr>
 	<tr>
-		<td>129</td>
+		<td>130</td>
 		<td>
 			<a href="https://github.com/TiaDev7474">
 				<img src="https://avatars.githubusercontent.com/u/105585077?s=72&u=45e05467abbdd312be4fb81385d6a14b26a3df6a&v=4" width="24" alt="Avatar of TiaDev7474"> TiaDev7474
@@ -1910,20 +1924,6 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Fianarantsoa-Madagascar</td>
 		<td>543</td>
 		<td>602</td>
-	</tr>
-	<tr>
-		<td>130</td>
-		<td>
-			<a href="https://github.com/TolotraMandresy">
-				<img src="https://avatars.githubusercontent.com/u/83577836?s=72&u=31f4a008ba34b8b0ebf4616fc2cf00d9cf3ffb01&v=4" width="24" alt="Avatar of TolotraMandresy"> TolotraMandresy
-			</a><br/>
-			Tolotra
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Anjanahary, Antananarivo, Madagascar </td>
-		<td>17</td>
-		<td>600</td>
 	</tr>
 	<tr>
 		<td>131</td>
