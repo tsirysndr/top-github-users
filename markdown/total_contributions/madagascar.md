@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/2/14 6:56 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/2/14 7:04 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -481,7 +481,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananario, Madagascar</td>
 		<td>1619</td>
-		<td>1693</td>
+		<td>1694</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -1158,20 +1158,6 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>76</td>
 		<td>
-			<a href="https://github.com/radandevist">
-				<img src="https://avatars.githubusercontent.com/u/34907273?s=72&u=6d04fe6695442bfd72d5829a0d8d8b5077ae27e6&v=4" width="24" alt="Avatar of radandevist"> radandevist
-			</a><br/>
-			Andrianarisoa Daniel
-		</td>
-		<td>Devist </td>
-		<td><a href="https://twitter.com/radandevist">radandevist</a></td>
-		<td>Anatananarivo, Madagascar</td>
-		<td>49</td>
-		<td>1045</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
 			<a href="https://github.com/TchiRubick">
 				<img src="https://avatars.githubusercontent.com/u/31276140?s=72&u=dce97c2bee791ff80da98778539909a7735dfbc9&v=4" width="24" alt="Avatar of TchiRubick"> TchiRubick
 			</a><br/>
@@ -1181,6 +1167,20 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>104</td>
+		<td>1046</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
+			<a href="https://github.com/radandevist">
+				<img src="https://avatars.githubusercontent.com/u/34907273?s=72&u=6d04fe6695442bfd72d5829a0d8d8b5077ae27e6&v=4" width="24" alt="Avatar of radandevist"> radandevist
+			</a><br/>
+			Andrianarisoa Daniel
+		</td>
+		<td>Devist </td>
+		<td><a href="https://twitter.com/radandevist">radandevist</a></td>
+		<td>Anatananarivo, Madagascar</td>
+		<td>49</td>
 		<td>1045</td>
 	</tr>
 	<tr>
@@ -2138,6 +2138,20 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>146</td>
 		<td>
+			<a href="https://github.com/KevinShcmidt">
+				<img src="https://avatars.githubusercontent.com/u/129662406?s=72&u=03b25892b8d4fe247ba6ce9ebc71b3d471397ea2&v=4" width="24" alt="Avatar of KevinShcmidt"> KevinShcmidt
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo Madagascar</td>
+		<td>464</td>
+		<td>533</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
 			<a href="https://github.com/odie100">
 				<img src="https://avatars.githubusercontent.com/u/68946656?s=72&u=4111813e8e1669abc7cc23ca2bc335a948508411&v=4" width="24" alt="Avatar of odie100"> odie100
 			</a><br/>
@@ -2148,20 +2162,6 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Madagascar/Fianarantsoa</td>
 		<td>17</td>
 		<td>532</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
-			<a href="https://github.com/KevinShcmidt">
-				<img src="https://avatars.githubusercontent.com/u/129662406?s=72&u=03b25892b8d4fe247ba6ce9ebc71b3d471397ea2&v=4" width="24" alt="Avatar of KevinShcmidt"> KevinShcmidt
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo Madagascar</td>
-		<td>462</td>
-		<td>531</td>
 	</tr>
 	<tr>
 		<td>148</td>
