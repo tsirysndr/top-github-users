@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2025/3/8 11:05 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2025/3/8 11:12 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1550,19 +1550,6 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>112</td>
 		<td>
-			<a href="https://github.com/myhrindra194">
-				<img src="https://avatars.githubusercontent.com/u/145148402?s=72&u=ce7370d348394c514c621a28c24b36cabecba3d0&v=4" width="24" alt="Avatar of myhrindra194"> myhrindra194
-			</a><br/>
-			Mirindra RANDRIAMBOLAMANJATO
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo, Madagascar</td>
-		<td>241</td>
-	</tr>
-	<tr>
-		<td>113</td>
-		<td>
 			<a href="https://github.com/isalotra">
 				<img src="https://avatars.githubusercontent.com/u/69400143?s=72&u=904f561d12c7adb18d1e8c58d85feb0055447c8d&v=4" width="24" alt="Avatar of isalotra"> isalotra
 			</a><br/>
@@ -1571,6 +1558,19 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
+			<a href="https://github.com/myhrindra194">
+				<img src="https://avatars.githubusercontent.com/u/145148402?s=72&u=ce7370d348394c514c621a28c24b36cabecba3d0&v=4" width="24" alt="Avatar of myhrindra194"> myhrindra194
+			</a><br/>
+			Mirindra RANDRIAMBOLAMANJATO
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo, Madagascar</td>
 		<td>241</td>
 	</tr>
 	<tr>
@@ -6893,6 +6893,19 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>523</td>
 		<td>
+			<a href="https://github.com/Alfinace">
+				<img src="https://avatars.githubusercontent.com/u/50354569?s=72&u=dc78c3860171baa2a13387ecd42b9eb4b491d4f8&v=4" width="24" alt="Avatar of Alfinace"> Alfinace
+			</a><br/>
+			Alfinace Nantenaina
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/NantenainaAlfi1">NantenainaAlfi1</a></td>
+		<td>Manakara Madagascar</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>524</td>
+		<td>
 			<a href="https://github.com/Charla19">
 				<img src="https://avatars.githubusercontent.com/u/74827706?s=72&u=d598e9d77fe6524bf8109ba5f329dec6db6114f3&v=4" width="24" alt="Avatar of Charla19"> Charla19
 			</a><br/>
@@ -6904,7 +6917,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>524</td>
+		<td>525</td>
 		<td>
 			<a href="https://github.com/titamrtn">
 				<img src="https://avatars.githubusercontent.com/u/5078563?s=72&u=dcc078f1ab4b312fc536d8b4b75c255342be4f4b&v=4" width="24" alt="Avatar of titamrtn"> titamrtn
@@ -6917,7 +6930,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a href="https://github.com/jerryharim">
 				<img src="https://avatars.githubusercontent.com/u/46962559?s=72&u=ac7be9d658da3ec73141720d9919e49105d37eb2&v=4" width="24" alt="Avatar of jerryharim"> jerryharim
@@ -6930,7 +6943,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>526</td>
+		<td>527</td>
 		<td>
 			<a href="https://github.com/ryurina">
 				<img src="https://avatars.githubusercontent.com/u/45909337?s=72&u=e524aee4bc95a7c1a5d6f933a54f09e5903d4cc5&v=4" width="24" alt="Avatar of ryurina"> ryurina
@@ -6943,7 +6956,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>527</td>
+		<td>528</td>
 		<td>
 			<a href="https://github.com/ShidoADR">
 				<img src="https://avatars.githubusercontent.com/u/159756485?s=72&u=10151057a9f2c13785840e244e103b8ec5a28d3d&v=4" width="24" alt="Avatar of ShidoADR"> ShidoADR
@@ -6956,7 +6969,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>528</td>
+		<td>529</td>
 		<td>
 			<a href="https://github.com/Mihanta1">
 				<img src="https://avatars.githubusercontent.com/u/118964720?s=72&u=f960583eef55f53d253601839bdb8dce6174413c&v=4" width="24" alt="Avatar of Mihanta1"> Mihanta1
@@ -6969,7 +6982,7 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>529</td>
+		<td>530</td>
 		<td>
 			<a href="https://github.com/dimbi23">
 				<img src="https://avatars.githubusercontent.com/u/22920752?s=72&v=4" width="24" alt="Avatar of dimbi23"> dimbi23
@@ -6979,19 +6992,6 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/dimbi23">dimbi23</a></td>
 		<td>Antananarivo</td>
-		<td>11</td>
-	</tr>
-	<tr>
-		<td>530</td>
-		<td>
-			<a href="https://github.com/Alfinace">
-				<img src="https://avatars.githubusercontent.com/u/50354569?s=72&u=dc78c3860171baa2a13387ecd42b9eb4b491d4f8&v=4" width="24" alt="Avatar of Alfinace"> Alfinace
-			</a><br/>
-			Alfinace Nantenaina
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/NantenainaAlfi1">NantenainaAlfi1</a></td>
-		<td>Manakara Madagascar</td>
 		<td>11</td>
 	</tr>
 	<tr>
