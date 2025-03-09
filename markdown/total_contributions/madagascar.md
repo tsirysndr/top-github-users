@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/3/9 11:21 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/3/9 11:29 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `958 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>124</td>
-		<td>25816</td>
+		<td>25817</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -3496,6 +3496,20 @@ There are `958 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>243</td>
 		<td>
+			<a href="https://github.com/FrancoRATOVOSON">
+				<img src="https://avatars.githubusercontent.com/u/56756707?s=72&u=774895ed23c1ef75d015e53bfef15dc7e318fdfa&v=4" width="24" alt="Avatar of FrancoRATOVOSON"> FrancoRATOVOSON
+			</a><br/>
+			Franco RATOVOSON
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/FrancoRatovoson">FrancoRatovoson</a></td>
+		<td>Antananarivo, Madagascar</td>
+		<td>92</td>
+		<td>301</td>
+	</tr>
+	<tr>
+		<td>244</td>
+		<td>
 			<a href="https://github.com/anjanante">
 				<img src="https://avatars.githubusercontent.com/u/36764520?s=72&u=be5db8236ff97eed99fcf40abbd46bbe8316a48a&v=4" width="24" alt="Avatar of anjanante"> anjanante
 			</a><br/>
@@ -3508,7 +3522,7 @@ There are `958 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>301</td>
 	</tr>
 	<tr>
-		<td>244</td>
+		<td>245</td>
 		<td>
 			<a href="https://github.com/zoharyAnd">
 				<img src="https://avatars.githubusercontent.com/u/42658688?s=72&u=21f750b3d7903101e424c7cd6c4f6654a0d62222&v=4" width="24" alt="Avatar of zoharyAnd"> zoharyAnd
@@ -3522,7 +3536,7 @@ There are `958 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>300</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a href="https://github.com/rAnjeel">
 				<img src="https://avatars.githubusercontent.com/u/151778901?s=72&u=23379d940dffc5def6997da6d346028065149421&v=4" width="24" alt="Avatar of rAnjeel"> rAnjeel
@@ -3536,7 +3550,7 @@ There are `958 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>299</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a href="https://github.com/barijaona">
 				<img src="https://avatars.githubusercontent.com/u/442030?s=72&v=4" width="24" alt="Avatar of barijaona"> barijaona
@@ -3548,20 +3562,6 @@ There are `958 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Antananarivo - Madagascar</td>
 		<td>295</td>
 		<td>295</td>
-	</tr>
-	<tr>
-		<td>247</td>
-		<td>
-			<a href="https://github.com/FrancoRATOVOSON">
-				<img src="https://avatars.githubusercontent.com/u/56756707?s=72&u=774895ed23c1ef75d015e53bfef15dc7e318fdfa&v=4" width="24" alt="Avatar of FrancoRATOVOSON"> FrancoRATOVOSON
-			</a><br/>
-			Franco RATOVOSON
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/FrancoRatovoson">FrancoRatovoson</a></td>
-		<td>Antananarivo, Madagascar</td>
-		<td>92</td>
-		<td>293</td>
 	</tr>
 	<tr>
 		<td>248</td>
