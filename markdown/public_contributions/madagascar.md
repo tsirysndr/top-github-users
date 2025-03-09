@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2025/3/9 12:13 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2025/3/9 12:21 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -6880,19 +6880,6 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>522</td>
 		<td>
-			<a href="https://github.com/Fanaingo">
-				<img src="https://avatars.githubusercontent.com/u/72820508?s=72&u=6d08d6c27656e28c5d2eebec23fcf501a84b0c21&v=4" width="24" alt="Avatar of Fanaingo"> Fanaingo
-			</a><br/>
-			Fanaingo Rakotomalala
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo , Madagascar</td>
-		<td>12</td>
-	</tr>
-	<tr>
-		<td>523</td>
-		<td>
 			<a href="https://github.com/Alfinace">
 				<img src="https://avatars.githubusercontent.com/u/50354569?s=72&u=dc78c3860171baa2a13387ecd42b9eb4b491d4f8&v=4" width="24" alt="Avatar of Alfinace"> Alfinace
 			</a><br/>
@@ -6901,6 +6888,19 @@ There are `957 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/NantenainaAlfi1">NantenainaAlfi1</a></td>
 		<td>Manakara Madagascar</td>
+		<td>12</td>
+	</tr>
+	<tr>
+		<td>523</td>
+		<td>
+			<a href="https://github.com/Fanaingo">
+				<img src="https://avatars.githubusercontent.com/u/72820508?s=72&u=6d08d6c27656e28c5d2eebec23fcf501a84b0c21&v=4" width="24" alt="Avatar of Fanaingo"> Fanaingo
+			</a><br/>
+			Fanaingo Rakotomalala
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo , Madagascar</td>
 		<td>12</td>
 	</tr>
 	<tr>
