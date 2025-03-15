@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/3/15 2:14 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/3/15 2:22 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>121</td>
-		<td>26185</td>
+		<td>26186</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -215,7 +215,7 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/andostronaut">andostronaut</a></td>
 		<td>Antananarivo, MG</td>
 		<td>1374</td>
-		<td>2958</td>
+		<td>2959</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -621,7 +621,7 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/hantsaniala">hantsaniala</a></td>
 		<td>Antananarivo, Madagascar</td>
 		<td>168</td>
-		<td>1610</td>
+		<td>1611</td>
 	</tr>
 	<tr>
 		<td>38</td>
@@ -2132,8 +2132,8 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
-		<td>572</td>
-		<td>572</td>
+		<td>573</td>
+		<td>573</td>
 	</tr>
 	<tr>
 		<td>146</td>
@@ -2861,7 +2861,7 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>0</td>
-		<td>404</td>
+		<td>405</td>
 	</tr>
 	<tr>
 		<td>198</td>
@@ -8704,20 +8704,6 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>615</td>
 		<td>
-			<a href="https://github.com/rantonilo">
-				<img src="https://avatars.githubusercontent.com/u/113282879?s=72&u=63033fcd51d96d3f151a9036cc05dc7c6c4c5f72&v=4" width="24" alt="Avatar of rantonilo"> rantonilo
-			</a><br/>
-			Ranto Fanilo 
-		</td>
-		<td>Freelancer </td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>15</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>616</td>
-		<td>
 			<a href="https://github.com/mamyraoby">
 				<img src="https://avatars.githubusercontent.com/u/81308480?s=72&u=17eeb1b7ff15c8d19da80e47e7bd47d1fbcf779b&v=4" width="24" alt="Avatar of mamyraoby"> mamyraoby
 			</a><br/>
@@ -8725,6 +8711,20 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 		</td>
 		<td>No Company</td>
 		<td><a href="https://twitter.com/mamyraoby">mamyraoby</a></td>
+		<td>Madagascar</td>
+		<td>15</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>616</td>
+		<td>
+			<a href="https://github.com/rantonilo">
+				<img src="https://avatars.githubusercontent.com/u/113282879?s=72&u=63033fcd51d96d3f151a9036cc05dc7c6c4c5f72&v=4" width="24" alt="Avatar of rantonilo"> rantonilo
+			</a><br/>
+			Ranto Fanilo 
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>15</td>
 		<td>15</td>
