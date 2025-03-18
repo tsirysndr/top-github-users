@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2025/3/18 5:24 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2025/3/18 5:32 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2811,19 +2811,6 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>209</td>
 		<td>
-			<a href="https://github.com/starjardin">
-				<img src="https://avatars.githubusercontent.com/u/60210112?s=72&u=307c2a81d4050151284f8f6170a5223a144fe899&v=4" width="24" alt="Avatar of starjardin"> starjardin
-			</a><br/>
-			Tantely Andrianarivola
-		</td>
-		<td>Onja Madagascar </td>
-		<td>No Twitter Username</td>
-		<td>Toamasina/Tamatave (Madagascar)</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
 			<a href="https://github.com/josoa-ramaroson">
 				<img src="https://avatars.githubusercontent.com/u/108058896?s=72&u=f10e5f19a20f1506d9203a0b9951ff741e5d25d6&v=4" width="24" alt="Avatar of josoa-ramaroson"> josoa-ramaroson
 			</a><br/>
@@ -2832,6 +2819,19 @@ There are `959 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/JosoaRamaroson">JosoaRamaroson</a></td>
 		<td>Fianarantsoa Madagascar</td>
+		<td>118</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/starjardin">
+				<img src="https://avatars.githubusercontent.com/u/60210112?s=72&u=307c2a81d4050151284f8f6170a5223a144fe899&v=4" width="24" alt="Avatar of starjardin"> starjardin
+			</a><br/>
+			Tantely Andrianarivola
+		</td>
+		<td>Onja Madagascar </td>
+		<td>No Twitter Username</td>
+		<td>Toamasina/Tamatave (Madagascar)</td>
 		<td>117</td>
 	</tr>
 	<tr>
