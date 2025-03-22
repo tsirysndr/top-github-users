@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/3/22 6:09 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/3/22 6:17 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1586,8 +1586,8 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar </td>
-		<td>706</td>
-		<td>706</td>
+		<td>707</td>
+		<td>707</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1755,7 +1755,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
 		<td>319</td>
-		<td>650</td>
+		<td>652</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -5246,6 +5246,20 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>368</td>
 		<td>
+			<a href="https://github.com/flavienrak">
+				<img src="https://avatars.githubusercontent.com/u/123616527?s=72&u=1a203081412195dc18e2188d297e12b24910963f&v=4" width="24" alt="Avatar of flavienrak"> flavienrak
+			</a><br/>
+			Flavien RAK
+		</td>
+		<td>School </td>
+		<td>No Twitter Username</td>
+		<td>Fianarantsoa</td>
+		<td>133</td>
+		<td>133</td>
+	</tr>
+	<tr>
+		<td>369</td>
+		<td>
 			<a href="https://github.com/mcrai-dev">
 				<img src="https://avatars.githubusercontent.com/u/62558016?s=72&u=4c064846ef992dd2c6dda087cea1cd8127461645&v=4" width="24" alt="Avatar of mcrai-dev"> mcrai-dev
 			</a><br/>
@@ -5258,7 +5272,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>369</td>
+		<td>370</td>
 		<td>
 			<a href="https://github.com/letsila">
 				<img src="https://avatars.githubusercontent.com/u/4066051?s=72&u=e050e8872cca995fc35afe2dc729770a6b274e7b&v=4" width="24" alt="Avatar of letsila"> letsila
@@ -5272,7 +5286,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a href="https://github.com/RdjcMada">
 				<img src="https://avatars.githubusercontent.com/u/150683198?s=72&u=4a680e29237c492b8f64eb1cb745c7d249afaef5&v=4" width="24" alt="Avatar of RdjcMada"> RdjcMada
@@ -5286,7 +5300,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a href="https://github.com/Tiavina-irintsoa">
 				<img src="https://avatars.githubusercontent.com/u/118955784?s=72&u=1d9a69282ce9e3b003b81aa75861998861dbf225&v=4" width="24" alt="Avatar of Tiavina-irintsoa"> Tiavina-irintsoa
@@ -5296,20 +5310,6 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
-		<td>130</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>372</td>
-		<td>
-			<a href="https://github.com/flavienrak">
-				<img src="https://avatars.githubusercontent.com/u/123616527?s=72&u=1a203081412195dc18e2188d297e12b24910963f&v=4" width="24" alt="Avatar of flavienrak"> flavienrak
-			</a><br/>
-			Flavien RAK
-		</td>
-		<td>School </td>
-		<td>No Twitter Username</td>
-		<td>Fianarantsoa</td>
 		<td>130</td>
 		<td>130</td>
 	</tr>
