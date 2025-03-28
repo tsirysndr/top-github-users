@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/3/28 9:31 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/3/28 9:38 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -523,7 +523,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/ladinasedera">ladinasedera</a></td>
 		<td>Madagascar</td>
 		<td>23</td>
-		<td>1762</td>
+		<td>1763</td>
 	</tr>
 	<tr>
 		<td>31</td>
@@ -830,8 +830,8 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>@mahefa.. </td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
-		<td>1039</td>
-		<td>1405</td>
+		<td>1040</td>
+		<td>1406</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -900,8 +900,8 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Metatype.dev </td>
 		<td>No Twitter Username</td>
 		<td>Madagascar; Mahajanga 401</td>
-		<td>1097</td>
-		<td>1328</td>
+		<td>1098</td>
+		<td>1329</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -2384,8 +2384,8 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
-		<td>241</td>
-		<td>510</td>
+		<td>242</td>
+		<td>511</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -3510,20 +3510,6 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>244</td>
 		<td>
-			<a href="https://github.com/HairanRins">
-				<img src="https://avatars.githubusercontent.com/u/159486391?s=72&u=44337148d299f5f062ad910b82aeadf7e32465c0&v=4" width="24" alt="Avatar of HairanRins"> HairanRins
-			</a><br/>
-			H. Rino
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar </td>
-		<td>308</td>
-		<td>308</td>
-	</tr>
-	<tr>
-		<td>245</td>
-		<td>
 			<a href="https://github.com/ansaroll">
 				<img src="https://avatars.githubusercontent.com/u/69417993?s=72&u=b435912b2ed92ac307485f3b8fc478b301ea5dae&v=4" width="24" alt="Avatar of ansaroll"> ansaroll
 			</a><br/>
@@ -3533,6 +3519,20 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
 		<td>5</td>
+		<td>309</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
+			<a href="https://github.com/HairanRins">
+				<img src="https://avatars.githubusercontent.com/u/159486391?s=72&u=44337148d299f5f062ad910b82aeadf7e32465c0&v=4" width="24" alt="Avatar of HairanRins"> HairanRins
+			</a><br/>
+			H. Rino
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar </td>
+		<td>308</td>
 		<td>308</td>
 	</tr>
 	<tr>
@@ -3561,7 +3561,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/nantenaina29">nantenaina29</a></td>
 		<td>Antananarivo/Madagascar</td>
 		<td>262</td>
-		<td>303</td>
+		<td>304</td>
 	</tr>
 	<tr>
 		<td>248</td>
