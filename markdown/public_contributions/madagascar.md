@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2025/3/30 5:27 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2025/3/30 5:36 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1285,7 +1285,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
-		<td>324</td>
+		<td>325</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -2395,6 +2395,19 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>177</td>
 		<td>
+			<a href="https://github.com/Tiavina-irintsoa">
+				<img src="https://avatars.githubusercontent.com/u/118955784?s=72&u=1d9a69282ce9e3b003b81aa75861998861dbf225&v=4" width="24" alt="Avatar of Tiavina-irintsoa"> Tiavina-irintsoa
+			</a><br/>
+			RAKOTONIRINA Tiavina
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo</td>
+		<td>162</td>
+	</tr>
+	<tr>
+		<td>178</td>
+		<td>
 			<a href="https://github.com/Jonastino21">
 				<img src="https://avatars.githubusercontent.com/u/121880875?s=72&u=0fcf856ff8f30f0d3ea1b8de4fa51d3e25d8fdef&v=4" width="24" alt="Avatar of Jonastino21"> Jonastino21
 			</a><br/>
@@ -2406,7 +2419,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>179</td>
 		<td>
 			<a href="https://github.com/rAnjeel">
 				<img src="https://avatars.githubusercontent.com/u/151778901?s=72&u=23379d940dffc5def6997da6d346028065149421&v=4" width="24" alt="Avatar of rAnjeel"> rAnjeel
@@ -2419,7 +2432,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>159</td>
 	</tr>
 	<tr>
-		<td>179</td>
+		<td>180</td>
 		<td>
 			<a href="https://github.com/tokyramarozaka">
 				<img src="https://avatars.githubusercontent.com/u/101268219?s=72&u=fc4be6f5c498566ff6119777f1a3914028a23bff&v=4" width="24" alt="Avatar of tokyramarozaka"> tokyramarozaka
@@ -2432,7 +2445,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>180</td>
+		<td>181</td>
 		<td>
 			<a href="https://github.com/julkwel">
 				<img src="https://avatars.githubusercontent.com/u/30557565?s=72&u=258e1624ba5c61a7aadb9c3e2e6fdb47954c9efe&v=4" width="24" alt="Avatar of julkwel"> julkwel
@@ -2445,7 +2458,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>181</td>
+		<td>182</td>
 		<td>
 			<a href="https://github.com/rinelfi-git">
 				<img src="https://avatars.githubusercontent.com/u/65276535?s=72&v=4" width="24" alt="Avatar of rinelfi-git"> rinelfi-git
@@ -2456,19 +2469,6 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Fianarantsoa</td>
 		<td>156</td>
-	</tr>
-	<tr>
-		<td>182</td>
-		<td>
-			<a href="https://github.com/Tiavina-irintsoa">
-				<img src="https://avatars.githubusercontent.com/u/118955784?s=72&u=1d9a69282ce9e3b003b81aa75861998861dbf225&v=4" width="24" alt="Avatar of Tiavina-irintsoa"> Tiavina-irintsoa
-			</a><br/>
-			RAKOTONIRINA Tiavina
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo</td>
-		<td>153</td>
 	</tr>
 	<tr>
 		<td>183</td>
