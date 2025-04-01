@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/4/1 11:23 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/4/1 11:30 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>136</td>
-		<td>26934</td>
+		<td>26935</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -284,8 +284,8 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/Xpirix3">Xpirix3</a></td>
 		<td>Madagascar</td>
-		<td>2524</td>
-		<td>2524</td>
+		<td>2525</td>
+		<td>2525</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -368,8 +368,8 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toamasina, Madagascar</td>
-		<td>990</td>
-		<td>2111</td>
+		<td>991</td>
+		<td>2112</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -1713,7 +1713,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/mahefaabel">mahefaabel</a></td>
 		<td>Madagascar</td>
 		<td>8</td>
-		<td>670</td>
+		<td>671</td>
 	</tr>
 	<tr>
 		<td>116</td>
@@ -2147,7 +2147,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>179</td>
-		<td>576</td>
+		<td>577</td>
 	</tr>
 	<tr>
 		<td>147</td>
@@ -3930,20 +3930,6 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>274</td>
 		<td>
-			<a href="https://github.com/NickSteven">
-				<img src="https://avatars.githubusercontent.com/u/50581342?s=72&u=42603f56773026087cdd595a76ea9eae9f0620bf&v=4" width="24" alt="Avatar of NickSteven"> NickSteven
-			</a><br/>
-			ra-nick
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>41</td>
-		<td>258</td>
-	</tr>
-	<tr>
-		<td>275</td>
-		<td>
 			<a href="https://github.com/leorak98">
 				<img src="https://avatars.githubusercontent.com/u/58026146?s=72&u=e761fdb15aaea54f75a78cc47a8058a3ed50f7dd&v=4" width="24" alt="Avatar of leorak98"> leorak98
 			</a><br/>
@@ -3953,6 +3939,20 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antsirabe,Madagascar</td>
 		<td>2</td>
+		<td>259</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a href="https://github.com/NickSteven">
+				<img src="https://avatars.githubusercontent.com/u/50581342?s=72&u=42603f56773026087cdd595a76ea9eae9f0620bf&v=4" width="24" alt="Avatar of NickSteven"> NickSteven
+			</a><br/>
+			ra-nick
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>41</td>
 		<td>258</td>
 	</tr>
 	<tr>
