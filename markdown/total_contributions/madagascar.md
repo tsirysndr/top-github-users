@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/4/3 7:39 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/4/3 7:47 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -117,7 +117,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/mgcodeur">mgcodeur</a></td>
 		<td>Madagascar</td>
 		<td>136</td>
-		<td>27091</td>
+		<td>27092</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -481,7 +481,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar, Antananarivo</td>
 		<td>972</td>
-		<td>1834</td>
+		<td>1835</td>
 	</tr>
 	<tr>
 		<td>28</td>
@@ -606,8 +606,8 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>@apexnovalabs  </td>
 		<td><a href="https://twitter.com/j_Josoa">j_Josoa</a></td>
 		<td>Antananarivo, Madagascar</td>
-		<td>1417</td>
-		<td>1636</td>
+		<td>1426</td>
+		<td>1645</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1559,7 +1559,7 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
 		<td>493</td>
-		<td>731</td>
+		<td>732</td>
 	</tr>
 	<tr>
 		<td>105</td>
@@ -4098,6 +4098,20 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>286</td>
 		<td>
+			<a href="https://github.com/Caeyla">
+				<img src="https://avatars.githubusercontent.com/u/92775744?s=72&u=beb8fe80b9a8f7b86d62c1b0dbfec3bbac6e18ff&v=4" width="24" alt="Avatar of Caeyla"> Caeyla
+			</a><br/>
+			Caeyla Ranaivoson
+		</td>
+		<td>Synerglass-soft </td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo</td>
+		<td>242</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>287</td>
+		<td>
 			<a href="https://github.com/Herimanjaka007">
 				<img src="https://avatars.githubusercontent.com/u/140839024?s=72&u=fce1b58c8284a4e462ec51c9bf8cb8c2d2d02f4d&v=4" width="24" alt="Avatar of Herimanjaka007"> Herimanjaka007
 			</a><br/>
@@ -4108,20 +4122,6 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Antananarivo Madagascar</td>
 		<td>241</td>
 		<td>241</td>
-	</tr>
-	<tr>
-		<td>287</td>
-		<td>
-			<a href="https://github.com/Caeyla">
-				<img src="https://avatars.githubusercontent.com/u/92775744?s=72&u=beb8fe80b9a8f7b86d62c1b0dbfec3bbac6e18ff&v=4" width="24" alt="Avatar of Caeyla"> Caeyla
-			</a><br/>
-			Caeyla Ranaivoson
-		</td>
-		<td>Synerglass-soft </td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo</td>
-		<td>240</td>
-		<td>240</td>
 	</tr>
 	<tr>
 		<td>288</td>
@@ -4288,8 +4288,8 @@ There are `961 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
-		<td>226</td>
-		<td>226</td>
+		<td>228</td>
+		<td>228</td>
 	</tr>
 	<tr>
 		<td>300</td>
