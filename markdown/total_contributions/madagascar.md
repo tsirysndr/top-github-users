@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/4/6 3:58 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/4/6 4:06 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -2161,7 +2161,7 @@ There are `963 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Fianarantsoa</td>
 		<td>156</td>
-		<td>581</td>
+		<td>582</td>
 	</tr>
 	<tr>
 		<td>148</td>
@@ -4196,6 +4196,20 @@ There are `963 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>293</td>
 		<td>
+			<a href="https://github.com/anjaniacatus">
+				<img src="https://avatars.githubusercontent.com/u/652121?s=72&u=ef0a7f9cb1f218f86deb8341d00a3182fc71862a&v=4" width="24" alt="Avatar of anjaniacatus"> anjaniacatus
+			</a><br/>
+			Afenomamy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/afenoum">afenoum</a></td>
+		<td>Madagascar</td>
+		<td>195</td>
+		<td>236</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
 			<a href="https://github.com/RomeoManoela">
 				<img src="https://avatars.githubusercontent.com/u/141563333?s=72&u=43f0e6fdd4986291ce951c692c2fdb008139b3f2&v=4" width="24" alt="Avatar of RomeoManoela"> RomeoManoela
 			</a><br/>
@@ -4208,7 +4222,7 @@ There are `963 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>294</td>
+		<td>295</td>
 		<td>
 			<a href="https://github.com/Jaonaaa">
 				<img src="https://avatars.githubusercontent.com/u/111148723?s=72&u=d707339f6bda6569f49d71666b2644780b78fed7&v=4" width="24" alt="Avatar of Jaonaaa"> Jaonaaa
@@ -4222,7 +4236,7 @@ There are `963 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>236</td>
 	</tr>
 	<tr>
-		<td>295</td>
+		<td>296</td>
 		<td>
 			<a href="https://github.com/TsilaAllaoui">
 				<img src="https://avatars.githubusercontent.com/u/24911207?s=72&u=2498cac4675074ef024af704b58c31a7ae9c4ca0&v=4" width="24" alt="Avatar of TsilaAllaoui"> TsilaAllaoui
@@ -4236,7 +4250,7 @@ There are `963 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>235</td>
 	</tr>
 	<tr>
-		<td>296</td>
+		<td>297</td>
 		<td>
 			<a href="https://github.com/MathieuFan22">
 				<img src="https://avatars.githubusercontent.com/u/93045057?s=72&u=4a9d67ea9a5abad43178f0461949e0b1ffdc311f&v=4" width="24" alt="Avatar of MathieuFan22"> MathieuFan22
@@ -4248,20 +4262,6 @@ There are `963 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Antananarivo, Madagascar</td>
 		<td>28</td>
 		<td>234</td>
-	</tr>
-	<tr>
-		<td>297</td>
-		<td>
-			<a href="https://github.com/anjaniacatus">
-				<img src="https://avatars.githubusercontent.com/u/652121?s=72&u=ef0a7f9cb1f218f86deb8341d00a3182fc71862a&v=4" width="24" alt="Avatar of anjaniacatus"> anjaniacatus
-			</a><br/>
-			Afenomamy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/afenoum">afenoum</a></td>
-		<td>Madagascar</td>
-		<td>192</td>
-		<td>233</td>
 	</tr>
 	<tr>
 		<td>298</td>
