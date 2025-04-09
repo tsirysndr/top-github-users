@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2025/4/9 5:21 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2025/4/9 5:29 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -1082,6 +1082,19 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>76</td>
 		<td>
+			<a href="https://github.com/razherana">
+				<img src="https://avatars.githubusercontent.com/u/177045762?s=72&v=4" width="24" alt="Avatar of razherana"> razherana
+			</a><br/>
+			Razafindralambo Izakatsimba Herana
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Antananarivo</td>
+		<td>372</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td>
 			<a href="https://github.com/menjaraz">
 				<img src="https://avatars.githubusercontent.com/u/2376695?s=72&u=8f01aab13d06954218b87e82a7f9ffa64b73c4a8&v=4" width="24" alt="Avatar of menjaraz"> menjaraz
 			</a><br/>
@@ -1091,19 +1104,6 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td><a href="https://twitter.com/menjaraz">menjaraz</a></td>
 		<td>Antananarivo, Madagascar</td>
 		<td>371</td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>
-			<a href="https://github.com/razherana">
-				<img src="https://avatars.githubusercontent.com/u/177045762?s=72&v=4" width="24" alt="Avatar of razherana"> razherana
-			</a><br/>
-			Razafindralambo Izakatsimba Herana
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Antananarivo</td>
-		<td>370</td>
 	</tr>
 	<tr>
 		<td>78</td>
@@ -6685,6 +6685,19 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>507</td>
 		<td>
+			<a href="https://github.com/And-Matia">
+				<img src="https://avatars.githubusercontent.com/u/167741617?s=72&u=ecd214adc1e8dc5cfbe1fbbd97fdc4655f646cbd&v=4" width="24" alt="Avatar of And-Matia"> And-Matia
+			</a><br/>
+			Randy Herinala
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>508</td>
+		<td>
 			<a href="https://github.com/mitia-anah">
 				<img src="https://avatars.githubusercontent.com/u/60210333?s=72&u=88e6a1c8717ddc34bfe4271079eab1cd6e449559&v=4" width="24" alt="Avatar of mitia-anah"> mitia-anah
 			</a><br/>
@@ -6696,7 +6709,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>509</td>
 		<td>
 			<a href="https://github.com/Radosetra">
 				<img src="https://avatars.githubusercontent.com/u/105846023?s=72&u=9276524f6ceb919f9c11d7f97ed77564f68cc065&v=4" width="24" alt="Avatar of Radosetra"> Radosetra
@@ -6709,7 +6722,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>510</td>
 		<td>
 			<a href="https://github.com/PandoraCipher">
 				<img src="https://avatars.githubusercontent.com/u/139347884?s=72&u=2217dba1089ddc7cea795fdb710c227c983875c0&v=4" width="24" alt="Avatar of PandoraCipher"> PandoraCipher
@@ -6722,7 +6735,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>511</td>
 		<td>
 			<a href="https://github.com/ZoMsi">
 				<img src="https://avatars.githubusercontent.com/u/39341336?s=72&v=4" width="24" alt="Avatar of ZoMsi"> ZoMsi
@@ -6735,7 +6748,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>512</td>
 		<td>
 			<a href="https://github.com/Onisoa01">
 				<img src="https://avatars.githubusercontent.com/u/203391976?s=72&u=ee82745439aaac3bc7a3e9a1244a6ef60e512cb6&v=4" width="24" alt="Avatar of Onisoa01"> Onisoa01
@@ -6748,7 +6761,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>513</td>
 		<td>
 			<a href="https://github.com/ITokianaR">
 				<img src="https://avatars.githubusercontent.com/u/102740913?s=72&u=7cb2073e4f8028e1b180475c6119cb8230b15cd5&v=4" width="24" alt="Avatar of ITokianaR"> ITokianaR
@@ -6761,7 +6774,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>514</td>
 		<td>
 			<a href="https://github.com/Tanjona12">
 				<img src="https://avatars.githubusercontent.com/u/114407464?s=72&u=09b09231bb5f315f2e6ff5ba194270d701a39e5b&v=4" width="24" alt="Avatar of Tanjona12"> Tanjona12
@@ -6774,7 +6787,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>515</td>
 		<td>
 			<a href="https://github.com/KevinAndryan">
 				<img src="https://avatars.githubusercontent.com/u/128114385?s=72&u=a9f212c4fe2da2755068afa205ba23f58e45f6dc&v=4" width="24" alt="Avatar of KevinAndryan"> KevinAndryan
@@ -6787,7 +6800,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>515</td>
+		<td>516</td>
 		<td>
 			<a href="https://github.com/andrianina777">
 				<img src="https://avatars.githubusercontent.com/u/42789666?s=72&u=b83d974132dcb21344f5b3ee5a4dbee2269324ae&v=4" width="24" alt="Avatar of andrianina777"> andrianina777
@@ -6800,7 +6813,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>516</td>
+		<td>517</td>
 		<td>
 			<a href="https://github.com/mamyraoby">
 				<img src="https://avatars.githubusercontent.com/u/81308480?s=72&u=17eeb1b7ff15c8d19da80e47e7bd47d1fbcf779b&v=4" width="24" alt="Avatar of mamyraoby"> mamyraoby
@@ -6813,7 +6826,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>517</td>
+		<td>518</td>
 		<td>
 			<a href="https://github.com/freddymi1">
 				<img src="https://avatars.githubusercontent.com/u/66772936?s=72&u=0564b253865175412e1bdedf0a19c4148f52ad19&v=4" width="24" alt="Avatar of freddymi1"> freddymi1
@@ -6826,7 +6839,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>518</td>
+		<td>519</td>
 		<td>
 			<a href="https://github.com/Cyrilos">
 				<img src="https://avatars.githubusercontent.com/u/67919656?s=72&u=7ad6aa54fa84af4436d81c58ead7da0f5f56a987&v=4" width="24" alt="Avatar of Cyrilos"> Cyrilos
@@ -6839,7 +6852,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>519</td>
+		<td>520</td>
 		<td>
 			<a href="https://github.com/jaonary-74">
 				<img src="https://avatars.githubusercontent.com/u/152497832?s=72&u=e95701f3fb34cbe21d76f2a6d8df270ffc7e8cea&v=4" width="24" alt="Avatar of jaonary-74"> jaonary-74
@@ -6852,7 +6865,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>520</td>
+		<td>521</td>
 		<td>
 			<a href="https://github.com/safidy1863">
 				<img src="https://avatars.githubusercontent.com/u/93115585?s=72&u=3c82dfa72a588ac5bacc03def11c916caa36ac4a&v=4" width="24" alt="Avatar of safidy1863"> safidy1863
@@ -6865,7 +6878,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>521</td>
+		<td>522</td>
 		<td>
 			<a href="https://github.com/tahiry-dev">
 				<img src="https://avatars.githubusercontent.com/u/47100064?s=72&u=61e63613a5076f203e02491de0a0bf80ea93e791&v=4" width="24" alt="Avatar of tahiry-dev"> tahiry-dev
@@ -6878,7 +6891,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>522</td>
+		<td>523</td>
 		<td>
 			<a href="https://github.com/jckylalaina">
 				<img src="https://avatars.githubusercontent.com/u/46310926?s=72&u=c13bfd38da3d5dbb355a8a94c727e544e196d5a9&v=4" width="24" alt="Avatar of jckylalaina"> jckylalaina
@@ -6891,7 +6904,7 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>523</td>
+		<td>524</td>
 		<td>
 			<a href="https://github.com/Sarobidy-23">
 				<img src="https://avatars.githubusercontent.com/u/100074450?s=72&v=4" width="24" alt="Avatar of Sarobidy-23"> Sarobidy-23
@@ -6901,19 +6914,6 @@ There are `965 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Hei </td>
 		<td>No Twitter Username</td>
 		<td>Antananarivo, Madagascar</td>
-		<td>14</td>
-	</tr>
-	<tr>
-		<td>524</td>
-		<td>
-			<a href="https://github.com/And-Matia">
-				<img src="https://avatars.githubusercontent.com/u/167741617?s=72&u=ecd214adc1e8dc5cfbe1fbbd97fdc4655f646cbd&v=4" width="24" alt="Avatar of And-Matia"> And-Matia
-			</a><br/>
-			Randy Herinala
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
 		<td>14</td>
 	</tr>
 	<tr>
