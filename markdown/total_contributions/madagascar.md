@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` and `private contributions` by users in Madagascar on `2025/4/14 3:56 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` and `private contributions` by users in Madagascar on `2025/4/14 4:04 PM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -467,7 +467,7 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Antananarivo</td>
 		<td>284</td>
-		<td>1957</td>
+		<td>1962</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -4518,6 +4518,20 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>316</td>
 		<td>
+			<a href="https://github.com/DIARY7">
+				<img src="https://avatars.githubusercontent.com/u/149535960?s=72&u=57504307b5fb8f02bcf0ddce41d1fcecb48fa24f&v=4" width="24" alt="Avatar of DIARY7"> DIARY7
+			</a><br/>
+			No Name
+		</td>
+		<td>It University </td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>181</td>
+		<td>201</td>
+	</tr>
+	<tr>
+		<td>317</td>
+		<td>
 			<a href="https://github.com/ANDRIANANTENAINA">
 				<img src="https://avatars.githubusercontent.com/u/44920333?s=72&u=cb276da96eee8e7a01fa71b22d6044fb46853f58&v=4" width="24" alt="Avatar of ANDRIANANTENAINA"> ANDRIANANTENAINA
 			</a><br/>
@@ -4528,20 +4542,6 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Madagascar</td>
 		<td>1</td>
 		<td>200</td>
-	</tr>
-	<tr>
-		<td>317</td>
-		<td>
-			<a href="https://github.com/DIARY7">
-				<img src="https://avatars.githubusercontent.com/u/149535960?s=72&u=57504307b5fb8f02bcf0ddce41d1fcecb48fa24f&v=4" width="24" alt="Avatar of DIARY7"> DIARY7
-			</a><br/>
-			No Name
-		</td>
-		<td>It University </td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>179</td>
-		<td>199</td>
 	</tr>
 	<tr>
 		<td>318</td>
@@ -5344,6 +5344,20 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>375</td>
 		<td>
+			<a href="https://github.com/Mihanta1">
+				<img src="https://avatars.githubusercontent.com/u/118964720?s=72&u=f960583eef55f53d253601839bdb8dce6174413c&v=4" width="24" alt="Avatar of Mihanta1"> Mihanta1
+			</a><br/>
+			Narovana RANDRIATIANA
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/RandriatianaN">RandriatianaN</a></td>
+		<td>Madagascar</td>
+		<td>4</td>
+		<td>133</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
 			<a href="https://github.com/lerina">
 				<img src="https://avatars.githubusercontent.com/u/9898680?s=72&u=242b3b9d7d9cefcddbfb17190131a7bd1b576536&v=4" width="24" alt="Avatar of lerina"> lerina
 			</a><br/>
@@ -5354,20 +5368,6 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>Montréal, Paris, Antananarivo</td>
 		<td>132</td>
 		<td>132</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
-			<a href="https://github.com/Mihanta1">
-				<img src="https://avatars.githubusercontent.com/u/118964720?s=72&u=f960583eef55f53d253601839bdb8dce6174413c&v=4" width="24" alt="Avatar of Mihanta1"> Mihanta1
-			</a><br/>
-			Narovana RANDRIATIANA
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/RandriatianaN">RandriatianaN</a></td>
-		<td>Madagascar</td>
-		<td>4</td>
-		<td>131</td>
 	</tr>
 	<tr>
 		<td>377</td>
