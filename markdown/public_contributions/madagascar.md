@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg" alt="Madagascar">
 </a>
 
-The `public contributions` by users in Madagascar on `2025/4/14 7:45 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
+The `public contributions` by users in Madagascar on `2025/4/14 7:53 AM UTC`. This list contains users from `Madagascar` and cities `Antananarivo` `Toamasina` `Mahajanga` `Antsirabe` `Fianarantsoa` `Toliara` `Antsiranana` `Morondava` `Tsiroanomandidy` `Antalaha` `Sambava` `Ambositra` `Ambatolampy` `Ambanja` `Ambalavao` `Ambatondrazaka` `Moramanga` `Farafangana` `Marovoay` `Maroantsetra` `Mananjary` `Manankara` `Vohipeno` `Maintirano` `Taolagnaro` `Vatomandry` `Vangaindrano` `Nosy-be` `Sainte-marie` `Ihosy` `Maevatanana` `Ambilobe` `Ambanja` `Andapa`.
 
 There are `1 countries` and `34 cities` can be found [here](https://github.com/tsirysndr/top-github-users).
 
@@ -128,7 +128,7 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td><a href="https://twitter.com/tony_mushah">tony_mushah</a></td>
 		<td>Anosy Avaratra - Madagascar</td>
-		<td>3648</td>
+		<td>3649</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -219,7 +219,7 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Antananario, Madagascar</td>
-		<td>1899</td>
+		<td>1900</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -2902,6 +2902,19 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 	<tr>
 		<td>216</td>
 		<td>
+			<a href="https://github.com/allyRx">
+				<img src="https://avatars.githubusercontent.com/u/129873019?s=72&u=16e63a0426619105bce005ff1b59e11bda259e8c&v=4" width="24" alt="Avatar of allyRx"> allyRx
+			</a><br/>
+			allyRx
+		</td>
+		<td>Tokana </td>
+		<td>No Twitter Username</td>
+		<td>Madagascar</td>
+		<td>119</td>
+	</tr>
+	<tr>
+		<td>217</td>
+		<td>
 			<a href="https://github.com/henintsoa98">
 				<img src="https://avatars.githubusercontent.com/u/38418989?s=72&u=728e73a619f4749c99f6ec4c60718a9b2edf8227&v=4" width="24" alt="Avatar of henintsoa98"> henintsoa98
 			</a><br/>
@@ -2913,7 +2926,7 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>119</td>
 	</tr>
 	<tr>
-		<td>217</td>
+		<td>218</td>
 		<td>
 			<a href="https://github.com/anjaniacatus">
 				<img src="https://avatars.githubusercontent.com/u/652121?s=72&u=ef0a7f9cb1f218f86deb8341d00a3182fc71862a&v=4" width="24" alt="Avatar of anjaniacatus"> anjaniacatus
@@ -2926,7 +2939,7 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>118</td>
 	</tr>
 	<tr>
-		<td>218</td>
+		<td>219</td>
 		<td>
 			<a href="https://github.com/Mamitiana2004">
 				<img src="https://avatars.githubusercontent.com/u/99359394?s=72&u=8fdc5490489fa190c1f3a677860c14aa94167ed9&v=4" width="24" alt="Avatar of Mamitiana2004"> Mamitiana2004
@@ -2939,7 +2952,7 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>219</td>
+		<td>220</td>
 		<td>
 			<a href="https://github.com/FandresenaR">
 				<img src="https://avatars.githubusercontent.com/u/123460283?s=72&u=f409ca98fd7dd00e47cff3d54d89cf58373806e7&v=4" width="24" alt="Avatar of FandresenaR"> FandresenaR
@@ -2950,19 +2963,6 @@ There are `964 users`  in Madagascar. You need at least `2 followers` to be on t
 		<td>No Twitter Username</td>
 		<td>Madagascar</td>
 		<td>117</td>
-	</tr>
-	<tr>
-		<td>220</td>
-		<td>
-			<a href="https://github.com/allyRx">
-				<img src="https://avatars.githubusercontent.com/u/129873019?s=72&u=16e63a0426619105bce005ff1b59e11bda259e8c&v=4" width="24" alt="Avatar of allyRx"> allyRx
-			</a><br/>
-			allyRx
-		</td>
-		<td>Tokana </td>
-		<td>No Twitter Username</td>
-		<td>Madagascar</td>
-		<td>116</td>
 	</tr>
 	<tr>
 		<td>221</td>
